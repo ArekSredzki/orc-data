@@ -26,7 +26,7 @@ function clearHighlight() {
             {/each}
         </tr>
         <tr>
-            <td>Beat SOG</td>
+            <td>Beat speed</td>
             {#each vpp.beat_angle as angle, i}
                 <td class="tws-{vpp.speeds[i]}">{vmg2sog(angle, vpp.beat_vmg[i]).toFixed(2)}</td>
             {/each}
@@ -64,7 +64,7 @@ function clearHighlight() {
             {/each}
         </tr>
         <tr>
-            <td>Run SOG</td>
+            <td>Run speed</td>
             {#each vpp.run_angle as angle, i}
                 <td class="tws-{vpp.speeds[i]}">{vmg2sog(angle, -vpp.run_vmg[i]).toFixed(2)}</td>
             {/each}
