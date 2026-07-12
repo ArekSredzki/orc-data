@@ -1,4 +1,6 @@
 <script>
+import { vmg2sog } from '../util.js';
+
 export let vpp;
 export let hover = () => {};
 
@@ -21,6 +23,12 @@ function clearHighlight() {
             <td>Beat angle</td>
             {#each vpp.beat_angle as angle, i}
                 <td class="tws-{vpp.speeds[i]}">{angle}°</td>
+            {/each}
+        </tr>
+        <tr>
+            <td>Beat SOG</td>
+            {#each vpp.beat_angle as angle, i}
+                <td class="tws-{vpp.speeds[i]}">{vmg2sog(angle, vpp.beat_vmg[i]).toFixed(2)}</td>
             {/each}
         </tr>
         <tr>
@@ -53,6 +61,12 @@ function clearHighlight() {
             <td>Run angle</td>
             {#each vpp.run_angle as angle, i}
                 <td class="tws-{vpp.speeds[i]}">{angle}°</td>
+            {/each}
+        </tr>
+        <tr>
+            <td>Run SOG</td>
+            {#each vpp.run_angle as angle, i}
+                <td class="tws-{vpp.speeds[i]}">{vmg2sog(angle, -vpp.run_vmg[i]).toFixed(2)}</td>
             {/each}
         </tr>
     </tbody>
