@@ -1,6 +1,7 @@
 <svelte:options accessors />
 
 <script>
+import { onMount } from 'svelte';
 import { scaleLinear } from 'd3-scale';
 import { symbol, symbolCircle } from 'd3-shape';
 
@@ -11,18 +12,25 @@ export let boats = [];
 // Angle reference frame for the plotted curves: 'true' (TWA) or 'apparent' (AWA).
 let angleMode = 'true';
 
-let windowInnerHeight, windowInnerWidth;
 let container;
 let width = 300;
-$: if (windowInnerWidth && container) {
-    width = container.offsetWidth;
-}
-let height = 700;
-$: if (windowInnerHeight && windowInnerWidth && container) {
-    height = Math.min(width * 1.8, windowInnerHeight - 60);
-}
-$: radius = Math.min(height / 1.8 - 20, width) - 25;
-$: rScale.range([0, radius]);
+let windowInnerHeight = 700;
+
+// Layout margins (px) around the semicircle plot. The polar occupies the RIGHT
+// half: the origin sits near the left edge, content spans `radius` to the right
+// (plus angle labels) and `radius` both up and down.
+const PAD_LEFT = 15;
+const PAD_RIGHT = 40; // room for angle labels e.g. "165°"
+const PAD_VERT = 30; // room for the "kts" ring labels and the top "0°" label
+const CHROME = 100; // navbar + angle toggle above the plot
+
+// Radius = pixel position of the 10kt ring. Fit the semicircle in both the
+// container width and the available viewport height, then center it vertically.
+$: radius = Math.max(
+    0,
+    Math.min(width - PAD_LEFT - PAD_RIGHT, (windowInnerHeight - CHROME) / 2 - PAD_VERT),
+);
+$: height = 2 * (radius + PAD_VERT);
 
 // Scale for the r axis, mapping SOG to plot coordinates
 $: rScale = scaleLinear().domain([0, 10]).range([0, radius]);
@@ -35,7 +43,16 @@ let highlight = undefined;
 export const hover = (_newHighlight) => {
     highlight = _newHighlight;
 };
-$: container?.offsetWidth;
+
+// Track the container's own width so the plot resizes live with the layout,
+// not only on window resize.
+onMount(() => {
+    const observer = new ResizeObserver((entries) => {
+        width = entries[0].contentRect.width;
+    });
+    observer.observe(container);
+    return () => observer.disconnect();
+});
 
 // Angle at which to draw the highlight marker, converted to apparent when active.
 $: highlightAngle =
@@ -43,7 +60,7 @@ $: highlightAngle =
     (angleMode === 'apparent' ? twa2awa(highlight.cog, highlight.tws, highlight.sog) : highlight.cog);
 </script>
 
-<svelte:window bind:innerHeight={windowInnerHeight} bind:innerWidth={windowInnerWidth} />
+<svelte:window bind:innerHeight={windowInnerHeight} />
 <div bind:this={container}>
     <div class="angle-mode">
         <div class="btn-group btn-group-sm" role="group" aria-label="Wind angle reference">
@@ -67,7 +84,7 @@ $: highlightAngle =
         </small>
     </div>
     <svg {width} {height}>
-        <g transform="translate(10, 300)">
+        <g transform="translate({PAD_LEFT}, {height / 2})">
             <!-- Speed rings -->
             {#each sogs as sog}
                 <g class="r axis sog-{sog}">

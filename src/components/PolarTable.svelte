@@ -90,4 +90,9 @@ function clearHighlight() {
 .polar-table td {
     text-align: right;
 }
+/* Keep the row label (first column) on a single line, e.g. "Beat angle (TWA)". */
+.polar-table td:first-child {
+    text-align: left;
+    white-space: nowrap;
+}
 </style>
