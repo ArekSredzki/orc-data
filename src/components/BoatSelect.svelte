@@ -14,6 +14,9 @@ function renderer({ sailnumber, name, type }) {
     options={$index}
     placeholder="Sailnumber, name or type"
     virtualList={true}
+    valueField="sailnumber"
+    labelField="name"
+    searchField={['sailnumber', 'name', 'type']}
     bind:value={sailnumber}
     {renderer} />
 

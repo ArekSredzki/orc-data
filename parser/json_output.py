@@ -84,17 +84,28 @@ def jsonwriter_list(rmsdata):
         json.dump(data, outfile, separators=(",", ":"))
 
 
+def write_index():
+    # Build the search index from ALL boats on disk, not just the current run's
+    # data. Data files accumulate across runs, so globbing every file keeps all
+    # boats searchable instead of only the ones in the latest update.
+    index = []
+    for boat_file in DATA_PATH.glob("**/*.json"):
+        boat = json.loads(boat_file.read_text())
+        index.append([boat["sailnumber"], boat["name"], boat["boat"]["type"]])
+
+    # sort by name
+    index.sort(key=lambda entry: entry[1])
+
+    with INDEX_PATH.open("w+") as outfile:
+        json.dump(index, outfile, separators=(",", ":"))
+
+
 def jsonwriter_site(rmsdata):
     data = map(format_data, rmsdata)
     # sort by name
     data = sorted(data, key=lambda x: x["name"])
     # filter out boats without country
     data = list(filter(lambda x: x["country"].upper() in COUNTRIES, data))
-
-    # Write the index
-    with INDEX_PATH.open("w+") as outfile:
-        index = [[boat["sailnumber"], boat["name"], boat["boat"]["type"]] for boat in data]
-        json.dump(index, outfile, separators=(',', ':'))
 
     # Create subdirectories for all countries
     for country in COUNTRIES:
@@ -105,6 +116,9 @@ def jsonwriter_site(rmsdata):
         sailnumber = boat["sailnumber"]
         with open(f"site/data/{sailnumber}.json", "w+") as outfile:
             json.dump(boat, outfile, indent=2)
+
+    # Rebuild the search index from all boats on disk (including this run's).
+    write_index()
 
 
 def jsonwriter_extremes():
