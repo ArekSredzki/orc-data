@@ -7,6 +7,7 @@ import { symbol, symbolCircle } from 'd3-shape';
 
 import VppCurves from './VppCurves.svelte';
 import { DEG2RAD, twa2awa } from '../util.js';
+import { vppSeries } from '../vpp.js';
 export let boats = [];
 
 // Angle reference frame for the plotted curves: 'true' (TWA) or 'apparent' (AWA).
@@ -58,6 +59,53 @@ onMount(() => {
 $: highlightAngle =
     highlight &&
     (angleMode === 'apparent' ? twa2awa(highlight.cog, highlight.tws, highlight.sog) : highlight.cog);
+
+// All plotted data points across every boat, in plot (x, y) coordinates, for the
+// hover tooltip's nearest-point search.
+$: hitPoints = boats.flatMap((boat, boatIndex) =>
+    boat
+        ? vppSeries(boat.vpp, angleMode)
+              .flatMap((s) => s.points)
+              .map((p) => ({
+                  ...p,
+                  boatIndex,
+                  x: rScale(p.sog) * Math.sin(p.angleRad),
+                  y: rScale(p.sog) * -Math.cos(p.angleRad),
+              }))
+        : [],
+);
+
+let svg;
+let tooltip = undefined;
+const HIT_RADIUS = 45; // px: how close the cursor must be to snap to a point
+
+function onPlotMove(event) {
+    const rect = svg.getBoundingClientRect();
+    const mx = event.clientX - rect.left - PAD_LEFT;
+    const my = event.clientY - rect.top - height / 2;
+
+    let best;
+    let bestDist = HIT_RADIUS * HIT_RADIUS;
+    for (const p of hitPoints) {
+        const dist = (p.x - mx) ** 2 + (p.y - my) ** 2;
+        if (dist < bestDist) {
+            bestDist = dist;
+            best = p;
+        }
+    }
+
+    if (best) {
+        highlight = { tws: best.tws, sog: best.sog, cog: best.twa };
+        tooltip = { x: event.clientX, y: event.clientY, point: best };
+    } else {
+        clearPlotHover();
+    }
+}
+
+function clearPlotHover() {
+    highlight = undefined;
+    tooltip = undefined;
+}
 </script>
 
 <svelte:window bind:innerHeight={windowInnerHeight} />
@@ -83,7 +131,10 @@ $: highlightAngle =
             Angle: {angleMode === 'apparent' ? 'Apparent (AWA)' : 'True (TWA)'}
         </small>
     </div>
-    <svg {width} {height}>
+    <!-- svelte-ignore a11y-no-static-element-interactions -->
+    <svg {width} {height} bind:this={svg} on:mousemove={onPlotMove} on:mouseleave={clearPlotHover}>
+        <!-- Transparent hit area so the cursor is tracked over empty regions too -->
+        <rect {width} {height} fill="none" pointer-events="all" />
         <g transform="translate({PAD_LEFT}, {height / 2})">
             <!-- Speed rings -->
             {#each sogs as sog}
@@ -124,11 +175,53 @@ $: highlightAngle =
     </svg>
 </div>
 
+{#if tooltip}
+    <div class="plot-tooltip" style="left: {tooltip.x}px; top: {tooltip.y}px;">
+        {#if boats.length > 1 && boats[tooltip.point.boatIndex]}
+            <div class="name">
+                {boats[tooltip.point.boatIndex].name || boats[tooltip.point.boatIndex].sailnumber}
+            </div>
+        {/if}
+        <div><span>TWS</span>{tooltip.point.tws} kt</div>
+        <div><span>TWA</span>{tooltip.point.twa}°</div>
+        <div>
+            <span>AWA</span>{twa2awa(tooltip.point.twa, tooltip.point.tws, tooltip.point.sog).toFixed(1)}°
+        </div>
+        <div><span>Boat speed</span>{tooltip.point.sog.toFixed(2)} kt</div>
+        <div>
+            <span>VMG</span>{Math.abs(tooltip.point.sog * Math.cos(tooltip.point.twa * DEG2RAD)).toFixed(2)} kt
+        </div>
+    </div>
+{/if}
+
 <style>
 .angle-mode {
     display: flex;
     align-items: center;
     gap: 0.75rem;
     margin-bottom: 0.25rem;
+}
+.plot-tooltip {
+    position: fixed;
+    z-index: 10;
+    pointer-events: none;
+    transform: translate(14px, 14px);
+    background: rgba(255, 255, 255, 0.95);
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 4px 8px;
+    font-size: 12px;
+    line-height: 1.4;
+    white-space: nowrap;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.2);
+}
+.plot-tooltip .name {
+    font-weight: 600;
+    margin-bottom: 2px;
+}
+.plot-tooltip span {
+    display: inline-block;
+    min-width: 70px;
+    color: #777;
 }
 </style>
