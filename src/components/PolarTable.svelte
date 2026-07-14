@@ -1,5 +1,5 @@
 <script>
-import { vmg2sog } from '../util.js';
+import { twa2awa, vmg2sog } from '../util.js';
 
 export let vpp;
 export let hover = () => {};
@@ -20,9 +20,16 @@ function clearHighlight() {
     </thead>
     <tbody>
         <tr>
-            <td>Beat angle</td>
+            <td>Beat angle (TWA)</td>
             {#each vpp.beat_angle as angle, i}
                 <td class="tws-{vpp.speeds[i]}">{angle}°</td>
+            {/each}
+        </tr>
+        <tr>
+            <td>Beat angle (AWA)</td>
+            {#each vpp.beat_angle as angle, i}
+                <td class="tws-{vpp.speeds[i]}"
+                    >{twa2awa(angle, vpp.speeds[i], vmg2sog(angle, vpp.beat_vmg[i])).toFixed(1)}°</td>
             {/each}
         </tr>
         <tr>
@@ -58,9 +65,16 @@ function clearHighlight() {
             {/each}
         </tr>
         <tr>
-            <td>Run angle</td>
+            <td>Run angle (TWA)</td>
             {#each vpp.run_angle as angle, i}
                 <td class="tws-{vpp.speeds[i]}">{angle}°</td>
+            {/each}
+        </tr>
+        <tr>
+            <td>Run angle (AWA)</td>
+            {#each vpp.run_angle as angle, i}
+                <td class="tws-{vpp.speeds[i]}"
+                    >{twa2awa(angle, vpp.speeds[i], vmg2sog(angle, -vpp.run_vmg[i])).toFixed(1)}°</td>
             {/each}
         </tr>
         <tr>
