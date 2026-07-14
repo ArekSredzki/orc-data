@@ -5,8 +5,11 @@ import { scaleLinear } from 'd3-scale';
 import { symbol, symbolCircle } from 'd3-shape';
 
 import VppCurves from './VppCurves.svelte';
-import { DEG2RAD } from '../util.js';
+import { DEG2RAD, twa2awa } from '../util.js';
 export let boats = [];
+
+// Angle reference frame for the plotted curves: 'true' (TWA) or 'apparent' (AWA).
+let angleMode = 'true';
 
 let windowInnerHeight, windowInnerWidth;
 let container;
@@ -33,10 +36,36 @@ export const hover = (_newHighlight) => {
     highlight = _newHighlight;
 };
 $: container?.offsetWidth;
+
+// Angle at which to draw the highlight marker, converted to apparent when active.
+$: highlightAngle =
+    highlight &&
+    (angleMode === 'apparent' ? twa2awa(highlight.cog, highlight.tws, highlight.sog) : highlight.cog);
 </script>
 
 <svelte:window bind:innerHeight={windowInnerHeight} bind:innerWidth={windowInnerWidth} />
 <div bind:this={container}>
+    <div class="angle-mode">
+        <div class="btn-group btn-group-sm" role="group" aria-label="Wind angle reference">
+            <input
+                type="radio"
+                class="btn-check"
+                id="angle-true"
+                value="true"
+                bind:group={angleMode} />
+            <label class="btn btn-outline-secondary" for="angle-true">True</label>
+            <input
+                type="radio"
+                class="btn-check"
+                id="angle-apparent"
+                value="apparent"
+                bind:group={angleMode} />
+            <label class="btn btn-outline-secondary" for="angle-apparent">Apparent</label>
+        </div>
+        <small class="text-muted">
+            Angle: {angleMode === 'apparent' ? 'Apparent (AWA)' : 'True (TWA)'}
+        </small>
+    </div>
     <svg {width} {height}>
         <g transform="translate(10, 300)">
             <!-- Speed rings -->
@@ -61,19 +90,28 @@ $: container?.offsetWidth;
             {/each}
             {#each boats as boat, index}
                 {#if boat}
-                    <VppCurves vpp={boat.vpp} {index} {rScale} />
+                    <VppCurves vpp={boat.vpp} {index} {rScale} {angleMode} />
                 {/if}
             {/each}
             {#if highlight}
                 <path
                     class="highlight tws-{highlight.tws}"
                     d={symbol(symbolCircle, 80)()}
-                    transform="translate({rScale(highlight.sog) * Math.sin(highlight.cog * DEG2RAD)}, {rScale(
+                    transform="translate({rScale(highlight.sog) * Math.sin(highlightAngle * DEG2RAD)}, {rScale(
                         highlight.sog,
-                    ) * -Math.cos(highlight.cog * DEG2RAD)})"
+                    ) * -Math.cos(highlightAngle * DEG2RAD)})"
                     transition="400ms"
                     stroke-width="1" />
             {/if}
         </g>
     </svg>
 </div>
+
+<style>
+.angle-mode {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 0.25rem;
+}
+</style>
