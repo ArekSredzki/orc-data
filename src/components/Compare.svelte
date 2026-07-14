@@ -150,4 +150,10 @@ td.separator {
     border-bottom: 1px solid #000;
     height: 2px;
 }
+/* Allow the columns to shrink below the plot SVG's intrinsic width, otherwise
+   the SVG latches the column wide and the layout wraps and never recovers. */
+.col-sm-6,
+.col-sm-4 {
+    min-width: 0;
+}
 </style>

@@ -112,4 +112,9 @@ th {
 td a {
     padding: 0;
 }
+/* Allow the columns to shrink below the plot SVG's intrinsic width, otherwise
+   the SVG latches the column wide and the layout wraps and never recovers. */
+.col-sm {
+    min-width: 0;
+}
 </style>
