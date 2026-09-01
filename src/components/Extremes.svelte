@@ -38,7 +38,7 @@ const labels = {
 
             <p>
                 Questions/suggestions? Contact me on
-                <a href="https://github.com/jieter/orc-data">GitHub</a>. All data is fetched from
+                <a href="https://github.com/ArekSredzki/orc-data">GitHub</a>. All data is fetched from
                 <a href="https://orc.org/index.asp?id=44">ORC.org</a>.
             </p>
         </div>
