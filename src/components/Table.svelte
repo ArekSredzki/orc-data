@@ -16,7 +16,7 @@ $: boats = filterByType($index, q);
     <div class="row">
         <div class="col-sm-12 col-md-8">
             <table class="table table-striped table-sm table-hover">
-                <tr><th>Sailnumber</th><th>Name</th><th>Type</th></tr>
+                <tr><th>Sail number</th><th>Name</th><th>Type</th></tr>
                 <tbody>
                     {#each boats as { sailnumber, name, type }}
                         <tr>

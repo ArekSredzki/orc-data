@@ -45,7 +45,7 @@ $: if (route == 'random') {
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#extremes">ORC sailboat data (2025)</a>
+        <a class="navbar-brand" href="#extremes">ORC Sailboat Data (2026)</a>
         <button
             class="navbar-toggler"
             type="button"
@@ -69,7 +69,7 @@ $: if (route == 'random') {
             </ul>
 
             <div class="d-flex navbar-text">
-                <a href="https://github.com/jieter/orc-data/">GitHub</a>,
+                <a href="https://github.com/ArekSredzki/orc-data/">GitHub</a>,
                 <a href="https://orc.org/index.asp?id=44">Data &copy; ORC.org</a>
             </div>
             &nbsp;

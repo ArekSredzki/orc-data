@@ -116,7 +116,7 @@ function renderCells(row, boats) {
                         <td><LineLegend series={1} /></td>
                     </tr>
                     <tr>
-                        <td>Sailnumber</td>
+                        <td>Sail number</td>
                         <td>
                             {#if sailnumberA}
                                 <a href="#{sailnumberA}">
