@@ -12,7 +12,7 @@ function renderer({ sailnumber, name, type }) {
 
 <Svelecte
     options={$index}
-    placeholder="Sailnumber, name or type"
+    placeholder="Sail number, name or type"
     virtualList={true}
     valueField="sailnumber"
     labelField="name"
