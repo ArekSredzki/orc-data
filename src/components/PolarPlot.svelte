@@ -23,13 +23,26 @@ let windowInnerHeight = 700;
 const PAD_LEFT = 15;
 const PAD_RIGHT = 40; // room for angle labels e.g. "165°"
 const PAD_VERT = 30; // room for the "kts" ring labels and the top "0°" label
-const CHROME = 100; // navbar + angle toggle above the plot
+const CHROME_FALLBACK = 100; // used only until the plot has been measured once
+const MIN_RADIUS = 110; // keep the plot readable rather than fitting a tiny viewport
+
+// Pixels of page chrome stacked above the plot. This is measured rather than
+// assumed: the amount varies per view (the compare page adds a row of boat
+// selectors above the plot that the single-boat page does not have), so a fixed
+// constant over-sizes the plot on some views and pushes its bottom off-screen.
+let chromeAbovePlot = CHROME_FALLBACK;
 
 // Radius = pixel position of the 10kt ring. Fit the semicircle in both the
 // container width and the available viewport height, then center it vertically.
+// Height may not shrink the plot below MIN_RADIUS: on a very short window it is
+// better to scroll to the plot than to render an illegibly small one. Width
+// still constrains freely, so the plot never overflows its column.
 $: radius = Math.max(
     0,
-    Math.min(width - PAD_LEFT - PAD_RIGHT, (windowInnerHeight - CHROME) / 2 - PAD_VERT),
+    Math.min(
+        width - PAD_LEFT - PAD_RIGHT,
+        Math.max(MIN_RADIUS, (windowInnerHeight - chromeAbovePlot) / 2 - PAD_VERT),
+    ),
 );
 $: height = 2 * (radius + PAD_VERT);
 
@@ -45,13 +58,26 @@ export const hover = (_newHighlight) => {
     highlight = _newHighlight;
 };
 
+// Distance from the top of the page to the top of the plot. Guarded against
+// no-op updates so re-measuring after a resize cannot feed back into itself:
+// the plot's own height never moves its top edge, so this settles immediately.
+function measureChromeAbovePlot() {
+    if (!svg) return;
+    const top = svg.getBoundingClientRect().top + window.scrollY;
+    if (Math.abs(top - chromeAbovePlot) > 0.5) {
+        chromeAbovePlot = top;
+    }
+}
+
 // Track the container's own width so the plot resizes live with the layout,
 // not only on window resize.
 onMount(() => {
     const observer = new ResizeObserver((entries) => {
         width = entries[0].contentRect.width;
+        measureChromeAbovePlot();
     });
     observer.observe(container);
+    measureChromeAbovePlot();
     return () => observer.disconnect();
 });
 
