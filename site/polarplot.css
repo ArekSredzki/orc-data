@@ -14,9 +14,10 @@ svg .axis text {
     stroke-dasharray: none !important;
 }
 
-.axis.sog-12 circle,
-.axis.sog-14 circle,
-.axis.sog-16 circle {
+/* Rings beyond the 10kt reference ring. The radial scale grows to fit the
+   fastest boat on the plot, so this matches any ring above 10kt, not a fixed
+   set of them. */
+.axis.outer circle {
     stroke: #aaa;
 }
 

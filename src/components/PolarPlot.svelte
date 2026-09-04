@@ -46,11 +46,34 @@ $: radius = Math.max(
 );
 $: height = 2 * (radius + PAD_VERT);
 
-// Scale for the r axis, mapping SOG to plot coordinates
-$: rScale = scaleLinear().domain([0, 10]).range([0, radius]);
+const RING_STEP = 2; // kts between speed rings
+// Cardinal splines bow outside the points they join, so the drawn curve reaches
+// slightly further than the fastest data point. Measured at ~0.8% on real VPP
+// data; 2% leaves margin without visibly shrinking the curves.
+const SPLINE_OVERSHOOT = 1.02;
+const MIN_SCALE_MAX = 10; // keep the familiar 10kt plot for slower boats
 
-const sogs = [2, 4, 6, 8, 10, 12, 14, 16];
-const maxSogLabel = 10;
+// Fastest point plotted across every boat. The radial axis is scaled to this
+// rather than a fixed 10kt: boats regularly sail faster than 10kt, and anything
+// beyond the outermost ring used to be drawn outside the SVG and clipped away.
+$: maxSog = boats.reduce(
+    (acc, boat) =>
+        boat
+            ? vppSeries(boat.vpp, angleMode).reduce(
+                  (a, s) => s.points.reduce((m, p) => Math.max(m, p.sog), a),
+                  acc,
+              )
+            : acc,
+    10,
+);
+// The axis maximum tracks the data rather than snapping out to the next ring,
+// so the curves fill the plot instead of leaving a ring of dead space. Rings are
+// drawn on the round numbers that fall inside it.
+$: scaleMax = Math.max(MIN_SCALE_MAX, maxSog * SPLINE_OVERSHOOT);
+$: sogs = Array.from({ length: Math.floor(scaleMax / RING_STEP) }, (_, i) => (i + 1) * RING_STEP);
+
+// Scale for the r axis, mapping SOG to plot coordinates
+$: rScale = scaleLinear().domain([0, scaleMax]).range([0, radius]);
 const angles = [0, 45, 52, 60, 75, 90, 110, 120, 135, 150, 165];
 
 let highlight = undefined;
@@ -164,20 +187,18 @@ function clearPlotHover() {
         <g transform="translate({PAD_LEFT}, {height / 2})">
             <!-- Speed rings -->
             {#each sogs as sog}
-                <g class="r axis sog-{sog}">
+                <g class="r axis sog-{sog}" class:outer={sog > 10}>
                     <circle r={rScale(sog)}></circle>
-                    {#if sog <= maxSogLabel}
-                        <text y={-rScale(sog) - 2} transform="rotate(25)" text-anchor="middle">
-                            {sog} kts
-                        </text>
-                    {/if}
+                    <text y={-rScale(sog) - 2} transform="rotate(25)" text-anchor="middle">
+                        {sog} kts
+                    </text>
                 </g>
             {/each}
             <!-- Course lines -->
             {#each angles as angle}
                 <g class="a axis" transform="rotate({angle - 90})">
-                    <line x1={rScale(0)} x2={rScale(10)} />
-                    <text class="xlabel" x={rScale(10) + 5} y={0} text-anchor="start" alignment-baseline="middle">
+                    <line x1={rScale(0)} x2={radius} />
+                    <text class="xlabel" x={radius + 5} y={0} text-anchor="start" alignment-baseline="middle">
                         {angle}°
                     </text>
                 </g>
