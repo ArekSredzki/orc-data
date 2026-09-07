@@ -205,6 +205,12 @@
       132602.0
     ],
     [
+      "GBR/_0",
+      "FAR HORIZON",
+      "GAFF SCHOONER",
+      132602.0
+    ],
+    [
       "AUS/0100",
       "Maritimo 100",
       "Oyster 100",
@@ -239,12 +245,6 @@
       "WALLY B",
       "BRENTA 106",
       82098.0
-    ],
-    [
-      "USA/USA22261",
-      "WHITEHAWK",
-      "KING 104",
-      80999.0
     ]
   ],
   "max_draft": [
