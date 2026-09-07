@@ -1,10 +1,11 @@
 <svelte:options accessors />
 
 <script>
-import { onMount } from 'svelte';
 import { scaleLinear } from 'd3-scale';
 import { symbol, symbolCircle } from 'd3-shape';
+import { onMount } from 'svelte';
 
+import Help from './Help.svelte';
 import VppCurves from './VppCurves.svelte';
 import { DEG2RAD, twa2awa } from '../util.js';
 import { vppSeries } from '../vpp.js';
@@ -39,10 +40,7 @@ let chromeAbovePlot = CHROME_FALLBACK;
 // still constrains freely, so the plot never overflows its column.
 $: radius = Math.max(
     0,
-    Math.min(
-        width - PAD_LEFT - PAD_RIGHT,
-        Math.max(MIN_RADIUS, (windowInnerHeight - chromeAbovePlot) / 2 - PAD_VERT),
-    ),
+    Math.min(width - PAD_LEFT - PAD_RIGHT, Math.max(MIN_RADIUS, (windowInnerHeight - chromeAbovePlot) / 2 - PAD_VERT)),
 );
 $: height = 2 * (radius + PAD_VERT);
 
@@ -59,10 +57,7 @@ const MIN_SCALE_MAX = 10; // keep the familiar 10kt plot for slower boats
 $: maxSog = boats.reduce(
     (acc, boat) =>
         boat
-            ? vppSeries(boat.vpp, angleMode).reduce(
-                  (a, s) => s.points.reduce((m, p) => Math.max(m, p.sog), a),
-                  acc,
-              )
+            ? vppSeries(boat.vpp, angleMode).reduce((a, s) => s.points.reduce((m, p) => Math.max(m, p.sog), a), acc)
             : acc,
     10,
 );
@@ -106,8 +101,7 @@ onMount(() => {
 
 // Angle at which to draw the highlight marker, converted to apparent when active.
 $: highlightAngle =
-    highlight &&
-    (angleMode === 'apparent' ? twa2awa(highlight.cog, highlight.tws, highlight.sog) : highlight.cog);
+    highlight && (angleMode === 'apparent' ? twa2awa(highlight.cog, highlight.tws, highlight.sog) : highlight.cog);
 
 // All plotted data points across every boat, in plot (x, y) coordinates, for the
 // hover tooltip's nearest-point search.
@@ -161,24 +155,15 @@ function clearPlotHover() {
 <div bind:this={container}>
     <div class="angle-mode">
         <div class="btn-group btn-group-sm" role="group" aria-label="Wind angle reference">
-            <input
-                type="radio"
-                class="btn-check"
-                id="angle-true"
-                value="true"
-                bind:group={angleMode} />
+            <input type="radio" class="btn-check" id="angle-true" value="true" bind:group={angleMode} />
             <label class="btn btn-outline-secondary" for="angle-true">True</label>
-            <input
-                type="radio"
-                class="btn-check"
-                id="angle-apparent"
-                value="apparent"
-                bind:group={angleMode} />
+            <input type="radio" class="btn-check" id="angle-apparent" value="apparent" bind:group={angleMode} />
             <label class="btn btn-outline-secondary" for="angle-apparent">Apparent</label>
         </div>
         <small class="text-muted">
             Angle: {angleMode === 'apparent' ? 'Apparent (AWA)' : 'True (TWA)'}
         </small>
+        <Help term="polar-diagram" />
     </div>
     <!-- svelte-ignore a11y-no-static-element-interactions -->
     <svg {width} {height} bind:this={svg} on:mousemove={onPlotMove} on:mouseleave={clearPlotHover}>

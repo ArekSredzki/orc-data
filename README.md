@@ -5,7 +5,18 @@ Especially the velocity prediction programme (VPP) data is interesting to estima
 
 [This tool presents the data in a table and a 'polar diagram'](site/index.html)
 
+The site has a built-in [glossary](site/index.html#glossary) explaining what the rating
+numbers mean and how to read a polar diagram; its content lives in `src/glossary.js`, with
+every entry citing the ORC page or rule it comes from. Add a `?` icon anywhere in the UI
+with `<Help term="..." />` (`src/components/Help.svelte`).
+
 ## Columns in `.rms` file:
+
+> **Note:** these are the column names of the legacy `.rms` format. The JSON now published
+> by orc.org uses different names for several of them — for example the inshore single
+> number is `ILCWA` (below as `ILCGA`), the triple numbers are `TN_Offshore_Low` and
+> friends (below as `OTNLOW`), and the stability index is `Stability_Index` (below as
+> `INDEX`). `parser/json_output.py` is the authoritative mapping to the site's own format.
 
 for `<tws>`:  [6, 8, 10, 12, 14, 16, 20]
 
@@ -90,7 +101,7 @@ for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
 
 ## Update data
 
-- Update year in `Makefile`, `scoring.py` and `site/src/App.svelte`.
+- Update year in `Makefile`, `scoring.py` and `src/App.svelte` (the navbar brand).
 - Download new data: `make json`
 - Transform json's to site format: `make site`
 - Update year in site, update bundle (`npm run build`) en commit.
@@ -104,5 +115,8 @@ for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
 ## Development
 
 - `npm install`
-- `npm run dev` to start a development server at http://localhost:5173/
+- `npm run dev` to start a development server, then open http://localhost:5173/index.html
+  (`site/index.html` loads the built bundle rather than the Vite entry, so run
+  `npm run build` to see source changes)
+- `npm test` to run the unit tests
 - `npm run build` before committing the build files.

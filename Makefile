@@ -47,7 +47,8 @@ clean:
 	rm -rf data/*.rms
 
 test:
-	npm run lint
+	npm run eslint
+	npm test
 	flake8 --ignore=E501 scoring.py parser/*.py
 
 .PHONY: site

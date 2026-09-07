@@ -4,6 +4,15 @@ import { svelte } from '@sveltejs/vite-plugin-svelte';
 export default defineConfig({
     base: '',
     root: 'site',
+    // Vitest inherits `root` above, which would exclude src/ from test discovery, so the
+    // test root is pinned back to the repo. `resolve.conditions` is applied only under
+    // Vitest so the browser build of Svelte is used for component tests.
+    test: {
+        root: '.',
+        environment: 'jsdom',
+        include: ['src/**/*.test.js'],
+    },
+    resolve: process.env.VITEST ? { conditions: ['browser'] } : undefined,
     publicDir: 'public',
     build: {
         outDir: './build/',
