@@ -14,7 +14,12 @@
       0.8189,
       1.0245,
       1.2284
-    ]
+    ],
+    "ilc": 580.6,
+    "aph_tod": 457.2,
+    "aph_tot": 1.3122,
+    "tmf_inshore": 1.0333,
+    "tmf_offshore": 1.1944
   },
   "boat": {
     "builder": "Code 7 Marine",
@@ -33,7 +38,10 @@
       "crew": 492.0,
       "wetted_surface": 17.69
     },
-    "stability_index": 112.9
+    "stability_index": 112.9,
+    "cdl": 9.445,
+    "division": "R",
+    "issue_date": "2026-05-28T10:57:12.242Z"
   },
   "vpp": {
     "angles": [

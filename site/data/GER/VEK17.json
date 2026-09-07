@@ -14,7 +14,12 @@
       0.618,
       0.8121,
       0.9205
-    ]
+    ],
+    "ilc": 743.1,
+    "aph_tod": 612.3,
+    "aph_tot": 0.98,
+    "tmf_inshore": 0.8074,
+    "tmf_offshore": 0.9054
   },
   "boat": {
     "builder": "VERTENS",
@@ -33,7 +38,10 @@
       "crew": 425.0,
       "wetted_surface": 17.17
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.129,
+    "division": "C",
+    "issue_date": "2026-03-25T14:21:32.248Z"
   },
   "vpp": {
     "angles": [

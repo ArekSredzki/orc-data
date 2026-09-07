@@ -14,7 +14,12 @@
       0.8071,
       1.0648,
       1.2143
-    ]
+    ],
+    "ilc": 566.8,
+    "aph_tod": 461.8,
+    "aph_tot": 1.2993,
+    "tmf_inshore": 1.0586,
+    "tmf_offshore": 1.1972
   },
   "boat": {
     "builder": "SYDNY YACHTS",
@@ -33,7 +38,10 @@
       "crew": 945.0,
       "wetted_surface": 37.49
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 12.52,
+    "division": "R",
+    "issue_date": "2026-04-19T13:26:14.786Z"
   },
   "vpp": {
     "angles": [

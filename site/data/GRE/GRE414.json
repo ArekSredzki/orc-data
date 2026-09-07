@@ -14,7 +14,12 @@
       0.6137,
       0.8172,
       0.918
-    ]
+    ],
+    "ilc": 740.5,
+    "aph_tod": 602.2,
+    "aph_tot": 0.9963,
+    "tmf_inshore": 0.8102,
+    "tmf_offshore": 0.9172
   },
   "boat": {
     "builder": "MAMBA YACHT AB",
@@ -33,7 +38,10 @@
       "crew": 498.0,
       "wetted_surface": 20.86
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.687,
+    "division": "C",
+    "issue_date": "2026-04-02T07:22:57.639Z"
   },
   "vpp": {
     "angles": [

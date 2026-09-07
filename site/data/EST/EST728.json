@@ -14,7 +14,12 @@
       0.5907,
       0.8313,
       1.0002
-    ]
+    ],
+    "ilc": 724.4,
+    "aph_tod": 588.3,
+    "aph_tot": 1.0199,
+    "tmf_inshore": 0.8283,
+    "tmf_offshore": 0.9348
   },
   "boat": {
     "builder": "Delphia Yachts",
@@ -33,7 +38,10 @@
       "crew": 690.0,
       "wetted_surface": 26.83
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.583,
+    "division": "C",
+    "issue_date": "2026-05-11T08:28:11.818Z"
   },
   "vpp": {
     "angles": [

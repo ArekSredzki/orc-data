@@ -14,7 +14,12 @@
       0.5387,
       0.7367,
       0.8495
-    ]
+    ],
+    "ilc": 820.0,
+    "aph_tod": 671.8,
+    "aph_tot": 0.8931,
+    "tmf_inshore": 0.7317,
+    "tmf_offshore": 0.8213
   },
   "boat": {
     "builder": "POLAR YACHTS",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 14.77
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.387,
+    "division": "C",
+    "issue_date": "2026-05-20T08:38:34.604Z"
   },
   "vpp": {
     "angles": [

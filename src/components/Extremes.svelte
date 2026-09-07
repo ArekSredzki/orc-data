@@ -1,6 +1,7 @@
 <script>
 import { onMount } from 'svelte';
 
+import Help from './Help.svelte';
 import PolarPlot from './PolarPlot.svelte';
 import Sailnumber from './Sailnumber.svelte';
 import { getBoat, getExtremes, randomBoat, indexSize } from '../api.js';
@@ -18,12 +19,14 @@ async function loadBoat(number) {
 
 $: loadBoat(hoverSailnumber);
 
+// The speed extremes carry a help icon: they are VPP predictions, not measured speeds,
+// which is not obvious from a leaderboard.
 const labels = {
-    max_speed: 'Greatest maximum speed (kts)',
-    min_speed: 'Smallest maximum speed (kts)',
-    max_length: 'Greatest length over all (m)',
-    max_displacement: 'Greatest displacement (kg)',
-    max_draft: 'Greatest draft (m)',
+    max_speed: { text: 'Greatest maximum speed (kts)', help: 'vpp' },
+    min_speed: { text: 'Smallest maximum speed (kts)', help: 'vpp' },
+    max_length: { text: 'Greatest length over all (m)' },
+    max_displacement: { text: 'Greatest displacement (kg)' },
+    max_draft: { text: 'Greatest draft (m)' },
 };
 </script>
 
@@ -34,6 +37,11 @@ const labels = {
                 Polar diagrams for {$indexSize || 'lots of'} sailyachts with ORC certificates. Select one of the boats below,
                 search by sailnumber, name or type or select a
                 <a href="#random" class="link-primary">random boat</a>.
+            </p>
+
+            <p>
+                New to ORC ratings? The <a href="#glossary">glossary</a> explains what the numbers on a certificate mean
+                and how to read a polar diagram.
             </p>
 
             <p>
@@ -53,7 +61,10 @@ const labels = {
                 <div class="row">
                     {#each Object.entries(extremes) as [extreme, boats]}
                         <div class="col-md-6">
-                            <h5>{labels[extreme]}</h5>
+                            <h5>
+                                {labels[extreme].text}
+                                {#if labels[extreme].help}<Help term={labels[extreme].help} />{/if}
+                            </h5>
 
                             <ul class="list-unstyled">
                                 {#each boats as [number, name, type, value]}

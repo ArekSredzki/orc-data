@@ -14,7 +14,12 @@
       0.993,
       1.394,
       1.6525
-    ]
+    ],
+    "ilc": 433.1,
+    "aph_tod": 344.1,
+    "aph_tot": 1.7434,
+    "tmf_inshore": 1.3853,
+    "tmf_offshore": 1.5888
   },
   "boat": {
     "builder": "PENDENNIS",
@@ -33,7 +38,10 @@
       "crew": 1350.0,
       "wetted_surface": 161.54
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 25.74,
+    "division": "C",
+    "issue_date": "2026-05-25T17:31:54.267Z"
   },
   "vpp": {
     "angles": [

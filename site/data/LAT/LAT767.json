@@ -14,7 +14,12 @@
       0.6001,
       0.8361,
       0.9594
-    ]
+    ],
+    "ilc": 725.0,
+    "aph_tod": 589.4,
+    "aph_tot": 1.018,
+    "tmf_inshore": 0.8276,
+    "tmf_offshore": 0.9356
   },
   "boat": {
     "builder": "Helmsman Yachts",
@@ -33,7 +38,10 @@
       "crew": 620.0,
       "wetted_surface": 24.78
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.432,
+    "division": "C",
+    "issue_date": "2026-06-18T13:37:48.413Z"
   },
   "vpp": {
     "angles": [

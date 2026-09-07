@@ -14,7 +14,12 @@
       0.5578,
       0.7522,
       0.8647
-    ]
+    ],
+    "ilc": 802.6,
+    "aph_tod": 652.0,
+    "aph_tot": 0.9203,
+    "tmf_inshore": 0.7476,
+    "tmf_offshore": 0.8458
   },
   "boat": {
     "builder": "Albin",
@@ -33,7 +38,10 @@
       "crew": 429.0,
       "wetted_surface": 18.99
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.82,
+    "division": "C",
+    "issue_date": "2026-05-28T12:02:43.429Z"
   },
   "vpp": {
     "angles": [

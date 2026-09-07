@@ -14,7 +14,12 @@
       0.6097,
       0.806,
       0.9043
-    ]
+    ],
+    "ilc": 750.5,
+    "aph_tod": 615.6,
+    "aph_tot": 0.9747,
+    "tmf_inshore": 0.7995,
+    "tmf_offshore": 0.8998
   },
   "boat": {
     "builder": "Nordsoe verft",
@@ -33,7 +38,10 @@
       "crew": 335.0,
       "wetted_surface": 14.27
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.833,
+    "division": "C",
+    "issue_date": "2026-05-21T08:11:20.374Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5882,
       0.8066,
       0.9286
-    ]
+    ],
+    "ilc": 749.5,
+    "aph_tod": 612.3,
+    "aph_tot": 0.98,
+    "tmf_inshore": 0.8005,
+    "tmf_offshore": 0.9011
   },
   "boat": {
     "builder": "Ros\u00e4ttra B\u00e5tvarv AB",
@@ -33,7 +38,10 @@
       "crew": 528.0,
       "wetted_surface": 22.1
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.738,
+    "division": "C",
+    "issue_date": "2026-05-20T08:52:22.922Z"
   },
   "vpp": {
     "angles": [

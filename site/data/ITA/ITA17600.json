@@ -14,7 +14,12 @@
       0.7532,
       1.0175,
       1.1563
-    ]
+    ],
+    "ilc": 594.6,
+    "aph_tod": 482.1,
+    "aph_tot": 1.2447,
+    "tmf_inshore": 1.009,
+    "tmf_offshore": 1.1437
   },
   "boat": {
     "builder": "Orioli",
@@ -33,7 +38,10 @@
       "crew": 800.0,
       "wetted_surface": 42.43
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 12.013,
+    "division": "C",
+    "issue_date": "2026-04-10T13:35:48.227Z"
   },
   "vpp": {
     "angles": [

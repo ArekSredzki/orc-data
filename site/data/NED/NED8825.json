@@ -14,7 +14,12 @@
       0.5111,
       0.6884,
       0.7656
-    ]
+    ],
+    "ilc": 881.1,
+    "aph_tod": 704.9,
+    "aph_tot": 0.8512,
+    "tmf_inshore": 0.681,
+    "tmf_offshore": 0.781
   },
   "boat": {
     "builder": "KD Polyesterbouw",
@@ -33,7 +38,10 @@
       "crew": 272.0,
       "wetted_surface": 9.29
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.126,
+    "division": "S",
+    "issue_date": "2026-04-01T19:57:50.911Z"
   },
   "vpp": {
     "angles": [

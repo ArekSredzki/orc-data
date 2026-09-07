@@ -14,7 +14,12 @@
       0.6301,
       0.8563,
       0.9799
-    ]
+    ],
+    "ilc": 706.1,
+    "aph_tod": 577.9,
+    "aph_tot": 1.0382,
+    "tmf_inshore": 0.8497,
+    "tmf_offshore": 0.956
   },
   "boat": {
     "builder": "GOLFI\u00d1O",
@@ -33,7 +38,10 @@
       "crew": 460.0,
       "wetted_surface": 22.64
     },
-    "stability_index": 112.1
+    "stability_index": 112.1,
+    "cdl": 8.524,
+    "division": "C",
+    "issue_date": "2026-02-03T23:40:36.276Z"
   },
   "vpp": {
     "angles": [

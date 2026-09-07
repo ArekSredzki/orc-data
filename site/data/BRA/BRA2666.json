@@ -14,7 +14,12 @@
       0.7134,
       0.9404,
       1.0988
-    ]
+    ],
+    "ilc": 639.4,
+    "aph_tod": 513.7,
+    "aph_tot": 1.168,
+    "tmf_inshore": 0.9384,
+    "tmf_offshore": 1.0728
   },
   "boat": {
     "builder": "Estaleiros CR",
@@ -33,7 +38,10 @@
       "crew": 570.0,
       "wetted_surface": 21.86
     },
-    "stability_index": 100.8
+    "stability_index": 100.8,
+    "cdl": 9.211,
+    "division": "R",
+    "issue_date": "2026-05-21T16:59:51.082Z"
   },
   "vpp": {
     "angles": [

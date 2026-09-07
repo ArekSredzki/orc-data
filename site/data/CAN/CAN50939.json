@@ -14,7 +14,12 @@
       0.7539,
       0.9921,
       1.1298
-    ]
+    ],
+    "ilc": 608.4,
+    "aph_tod": 492.4,
+    "aph_tot": 1.2186,
+    "tmf_inshore": 0.9862,
+    "tmf_offshore": 1.1216
   },
   "boat": {
     "builder": "Mark Lindsay",
@@ -33,7 +38,10 @@
       "crew": 737.0,
       "wetted_surface": 28.15
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.822,
+    "division": "R",
+    "issue_date": "2026-08-07T21:15:54.052Z"
   },
   "vpp": {
     "angles": [

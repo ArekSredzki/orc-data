@@ -14,7 +14,12 @@
       0.5667,
       0.7751,
       0.8922
-    ]
+    ],
+    "ilc": 779.6,
+    "aph_tod": 636.9,
+    "aph_tot": 0.9421,
+    "tmf_inshore": 0.7696,
+    "tmf_offshore": 0.8666
   },
   "boat": {
     "builder": "Waarschip BV",
@@ -33,7 +38,10 @@
       "crew": 478.0,
       "wetted_surface": 19.17
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.088,
+    "division": "C",
+    "issue_date": "2026-04-04T16:34:25.766Z"
   },
   "vpp": {
     "angles": [

@@ -1,4 +1,5 @@
 <script>
+import Help from './Help.svelte';
 import { twa2awa, vmg2sog } from '../util.js';
 
 export let vpp;
@@ -12,7 +13,7 @@ function clearHighlight() {
 <table class="table table-sm polar-table">
     <thead>
         <tr>
-            <th>Wind velocity</th>
+            <th>Wind velocity<Help term="polar-table" /></th>
             {#each vpp.speeds as speed}
                 <th class="tws-{speed}">{speed}kts</th>
             {/each}

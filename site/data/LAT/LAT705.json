@@ -14,7 +14,12 @@
       0.6942,
       0.9331,
       1.0505
-    ]
+    ],
+    "ilc": 649.1,
+    "aph_tod": 523.9,
+    "aph_tot": 1.1453,
+    "tmf_inshore": 0.9244,
+    "tmf_offshore": 1.0523
   },
   "boat": {
     "builder": "H2 O",
@@ -33,7 +38,10 @@
       "crew": 777.0,
       "wetted_surface": 32.34
     },
-    "stability_index": 124.7
+    "stability_index": 124.7,
+    "cdl": 10.291,
+    "division": "C",
+    "issue_date": "2026-06-11T20:25:07.242Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6199,
       0.8493,
       0.9739
-    ]
+    ],
+    "ilc": 712.5,
+    "aph_tod": 580.9,
+    "aph_tot": 1.0329,
+    "tmf_inshore": 0.8421,
+    "tmf_offshore": 0.951
   },
   "boat": {
     "builder": "MCTEC",
@@ -33,7 +38,10 @@
       "crew": 520.0,
       "wetted_surface": 17.58
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.111,
+    "division": "C",
+    "issue_date": "2026-07-01T23:26:10.050Z"
   },
   "vpp": {
     "angles": [

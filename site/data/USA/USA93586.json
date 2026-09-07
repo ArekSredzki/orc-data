@@ -14,7 +14,12 @@
       0.7665,
       0.9949,
       1.1121
-    ]
+    ],
+    "ilc": 607.4,
+    "aph_tod": 495.7,
+    "aph_tot": 1.2104,
+    "tmf_inshore": 0.9877,
+    "tmf_offshore": 1.1163
   },
   "boat": {
     "builder": "Edgewater Yachts",
@@ -33,7 +38,10 @@
       "crew": 817.0,
       "wetted_surface": 30.56
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.671,
+    "division": "C",
+    "issue_date": "2026-06-11T11:44:04.985Z"
   },
   "vpp": {
     "angles": [

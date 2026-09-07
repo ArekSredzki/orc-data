@@ -3,17 +3,22 @@
     "scripts": {
         "format": "prettier --write --plugin prettier-plugin-svelte src/* src/components/* vite.config.js",
         "build": "vite build",
+        "test": "vitest run",
         "dev": "vite",
         "eslint": "eslint -c package.json src/ --fix"
     },
     "devDependencies": {
         "@sveltejs/vite-plugin-svelte": "^3.1.2",
+        "@testing-library/jest-dom": "^6.9.1",
+        "@testing-library/svelte": "^4.2.3",
         "eslint": "^8.51.0",
-        "eslint-plugin-svelte": "^2.34.0",
         "eslint-plugin-import": "^2.31.0",
+        "eslint-plugin-svelte": "^2.34.0",
+        "jsdom": "^25.0.1",
         "prettier": "^3.5.3",
         "prettier-plugin-svelte": "^3.0.3",
-        "vite": "^5.4.21"
+        "vite": "^5.4.21",
+        "vitest": "^2.1.9"
     },
     "dependencies": {
         "d3-array": "^3.2.4",
@@ -36,12 +41,13 @@
             "ecmaVersion": 2020,
             "sourceType": "module"
         },
-
         "env": {
             "es6": true,
             "browser": true
         },
-        "plugins":["import"],
+        "plugins": [
+            "import"
+        ],
         "rules": {
             "semi": [
                 "error",

@@ -14,7 +14,12 @@
       0.6047,
       0.7814,
       0.9037
-    ]
+    ],
+    "ilc": 768.7,
+    "aph_tod": 628.5,
+    "aph_tot": 0.9547,
+    "tmf_inshore": 0.7806,
+    "tmf_offshore": 0.882
   },
   "boat": {
     "builder": "Medyachting",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 11.53
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.009,
+    "division": "S",
+    "issue_date": "2026-02-27T14:15:20.655Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6873,
       0.8795,
       0.9998
-    ]
+    ],
+    "ilc": 684.3,
+    "aph_tod": 554.9,
+    "aph_tot": 1.0812,
+    "tmf_inshore": 0.8769,
+    "tmf_offshore": 0.9964
   },
   "boat": {
     "builder": "Precision Boats",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 15.16
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.874,
+    "division": "R",
+    "issue_date": "2026-05-07T16:41:46.271Z"
   },
   "vpp": {
     "angles": [

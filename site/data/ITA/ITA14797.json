@@ -14,7 +14,12 @@
       0.659,
       0.8207,
       0.9042
-    ]
+    ],
+    "ilc": 735.1,
+    "aph_tod": 593.8,
+    "aph_tot": 1.0104,
+    "tmf_inshore": 0.8162,
+    "tmf_offshore": 0.9332
   },
   "boat": {
     "builder": "Blue Wave",
@@ -33,7 +38,10 @@
       "crew": 310.0,
       "wetted_surface": 13.2
     },
-    "stability_index": 100.2
+    "stability_index": 100.2,
+    "cdl": 6.936,
+    "division": "S",
+    "issue_date": "2026-02-25T16:31:29.323Z"
   },
   "vpp": {
     "angles": [

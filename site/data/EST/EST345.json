@@ -14,7 +14,12 @@
       0.6299,
       0.8654,
       1.0076
-    ]
+    ],
+    "ilc": 697.5,
+    "aph_tod": 569.2,
+    "aph_tot": 1.0541,
+    "tmf_inshore": 0.8602,
+    "tmf_offshore": 0.9682
   },
   "boat": {
     "builder": "Ridas Jaht",
@@ -33,7 +38,10 @@
       "crew": 680.0,
       "wetted_surface": 27.09
     },
-    "stability_index": 121.0
+    "stability_index": 121.0,
+    "cdl": 9.002,
+    "division": "C",
+    "issue_date": "2026-06-01T07:12:46.150Z"
   },
   "vpp": {
     "angles": [

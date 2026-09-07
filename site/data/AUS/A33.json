@@ -14,7 +14,12 @@
       0.6105,
       0.8571,
       1.0026
-    ]
+    ],
+    "ilc": 705.3,
+    "aph_tod": 574.2,
+    "aph_tot": 1.0449,
+    "tmf_inshore": 0.8506,
+    "tmf_offshore": 0.9588
   },
   "boat": {
     "builder": "COMPASS YACHTS",
@@ -33,7 +38,10 @@
       "crew": 579.0,
       "wetted_surface": 24.86
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.823,
+    "division": "C",
+    "issue_date": "2026-06-15T01:08:51.085Z"
   },
   "vpp": {
     "angles": [

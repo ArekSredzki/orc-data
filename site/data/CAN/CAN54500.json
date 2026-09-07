@@ -14,7 +14,12 @@
       0.8972,
       1.1724,
       1.3769
-    ]
+    ],
+    "ilc": 511.9,
+    "aph_tod": 414.9,
+    "aph_tot": 1.4461,
+    "tmf_inshore": 1.1721,
+    "tmf_offshore": 1.3306
   },
   "boat": {
     "builder": "Franklin",
@@ -33,7 +38,10 @@
       "crew": 900.0,
       "wetted_surface": 41.76
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 14.435,
+    "division": "C",
+    "issue_date": "2026-03-21T22:59:57.233Z"
   },
   "vpp": {
     "angles": [

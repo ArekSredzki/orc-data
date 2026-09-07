@@ -14,7 +14,12 @@
       0.6388,
       0.8697,
       1.0005
-    ]
+    ],
+    "ilc": 694.8,
+    "aph_tod": 565.4,
+    "aph_tot": 1.0612,
+    "tmf_inshore": 0.8635,
+    "tmf_offshore": 0.9743
   },
   "boat": {
     "builder": "Lito Marin",
@@ -33,7 +38,10 @@
       "crew": 653.0,
       "wetted_surface": 25.45
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.995,
+    "division": "C",
+    "issue_date": "2026-05-24T07:56:04.281Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.8218,
       1.1314,
       1.3372
-    ]
+    ],
+    "ilc": 532.6,
+    "aph_tod": 424.6,
+    "aph_tot": 1.4132,
+    "tmf_inshore": 1.1265,
+    "tmf_offshore": 1.289
   },
   "boat": {
     "builder": "Mag France",
@@ -33,7 +38,10 @@
       "crew": 1100.0,
       "wetted_surface": 103.27
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 18.419,
+    "division": "C",
+    "issue_date": "2026-08-27T12:22:45.346Z"
   },
   "vpp": {
     "angles": [

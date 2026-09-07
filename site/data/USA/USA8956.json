@@ -14,7 +14,12 @@
       0.803,
       1.093,
       1.2644
-    ]
+    ],
+    "ilc": 552.9,
+    "aph_tod": 446.4,
+    "aph_tot": 1.3442,
+    "tmf_inshore": 1.0851,
+    "tmf_offshore": 1.2331
   },
   "boat": {
     "builder": "BILL LEE YACHTS",
@@ -33,7 +38,10 @@
       "crew": 1368.0,
       "wetted_surface": 38.86
     },
-    "stability_index": 124.0
+    "stability_index": 124.0,
+    "cdl": 13.653,
+    "division": "R",
+    "issue_date": "2026-09-01T19:50:07.589Z"
   },
   "vpp": {
     "angles": [

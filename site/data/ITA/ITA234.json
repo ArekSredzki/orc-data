@@ -14,7 +14,12 @@
       0.7061,
       0.9235,
       1.0568
-    ]
+    ],
+    "ilc": 652.7,
+    "aph_tod": 529.1,
+    "aph_tot": 1.1339,
+    "tmf_inshore": 0.9192,
+    "tmf_offshore": 1.0449
   },
   "boat": {
     "builder": "Life Yacht",
@@ -33,7 +38,10 @@
       "crew": 650.0,
       "wetted_surface": 19.68
     },
-    "stability_index": 109.3
+    "stability_index": 109.3,
+    "cdl": 8.967,
+    "division": "R",
+    "issue_date": "2026-07-07T13:31:51.241Z"
   },
   "vpp": {
     "angles": [

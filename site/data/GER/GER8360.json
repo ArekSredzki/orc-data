@@ -14,7 +14,12 @@
       0.5996,
       0.8152,
       0.9327
-    ]
+    ],
+    "ilc": 741.6,
+    "aph_tod": 601.7,
+    "aph_tot": 0.9971,
+    "tmf_inshore": 0.8091,
+    "tmf_offshore": 0.9157
   },
   "boat": {
     "builder": "WINNER YACHTS",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 20.44
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.664,
+    "division": "C",
+    "issue_date": "2026-06-17T09:24:27.675Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7309,
       0.9787,
       1.1735
-    ]
+    ],
+    "ilc": 613.5,
+    "aph_tod": 482.3,
+    "aph_tot": 1.244,
+    "tmf_inshore": 0.978,
+    "tmf_offshore": 1.1375
   },
   "boat": {
     "builder": "Santarelli",
@@ -33,7 +38,10 @@
       "crew": 481.0,
       "wetted_surface": 15.71
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.756,
+    "division": "R",
+    "issue_date": "2026-08-12T10:22:35.485Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6897,
       0.9009,
       1.0375
-    ]
+    ],
+    "ilc": 667.4,
+    "aph_tod": 544.7,
+    "aph_tot": 1.1015,
+    "tmf_inshore": 0.8989,
+    "tmf_offshore": 1.0122
   },
   "boat": {
     "builder": "CAMPER & NICHOLSON",
@@ -33,7 +38,10 @@
       "crew": 617.0,
       "wetted_surface": 31.77
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.397,
+    "division": "C",
+    "issue_date": "2026-06-24T21:36:12.188Z"
   },
   "vpp": {
     "angles": [

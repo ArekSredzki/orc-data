@@ -14,7 +14,12 @@
       0.6834,
       0.9012,
       1.0139
-    ]
+    ],
+    "ilc": 670.8,
+    "aph_tod": 552.8,
+    "aph_tot": 1.0855,
+    "tmf_inshore": 0.8945,
+    "tmf_offshore": 1.0026
   },
   "boat": {
     "builder": "Tsuboi Yacht",
@@ -33,7 +38,10 @@
       "crew": 511.0,
       "wetted_surface": 20.62
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.752,
+    "division": "R",
+    "issue_date": "2026-05-21T22:54:16.199Z"
   },
   "vpp": {
     "angles": [

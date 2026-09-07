@@ -14,7 +14,12 @@
       0.6968,
       0.8417,
       0.9185
-    ]
+    ],
+    "ilc": 714.8,
+    "aph_tod": 584.4,
+    "aph_tot": 1.0268,
+    "tmf_inshore": 0.8394,
+    "tmf_offshore": 0.9495
   },
   "boat": {
     "builder": "BECK / TUFA MARINE",
@@ -33,7 +38,10 @@
       "crew": 380.0,
       "wetted_surface": 30.61
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.58,
+    "division": "C",
+    "issue_date": "2026-03-17T19:23:39.295Z"
   },
   "vpp": {
     "angles": [

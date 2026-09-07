@@ -14,7 +14,12 @@
       0.8376,
       1.0938,
       1.2671
-    ]
+    ],
+    "ilc": 549.8,
+    "aph_tod": 444.0,
+    "aph_tot": 1.3513,
+    "tmf_inshore": 1.0913,
+    "tmf_offshore": 1.2415
   },
   "boat": {
     "builder": "Sino Eagle Group C",
@@ -33,7 +38,10 @@
       "crew": 850.0,
       "wetted_surface": 35.38
     },
-    "stability_index": 138.4
+    "stability_index": 138.4,
+    "cdl": 12.819,
+    "division": "R",
+    "issue_date": "2026-08-11T19:40:12.754Z"
   },
   "vpp": {
     "angles": [

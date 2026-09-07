@@ -14,7 +14,12 @@
       0.9167,
       1.1651,
       1.3523
-    ]
+    ],
+    "ilc": 514.5,
+    "aph_tod": 412.6,
+    "aph_tot": 1.4541,
+    "tmf_inshore": 1.1662,
+    "tmf_offshore": 1.3339
   },
   "boat": {
     "builder": "MC CONAGHY",
@@ -33,7 +38,10 @@
       "crew": 1105.0,
       "wetted_surface": 35.97
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 13.764,
+    "division": "R",
+    "issue_date": "2026-04-08T15:22:03.722Z"
   },
   "vpp": {
     "angles": [

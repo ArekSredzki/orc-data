@@ -14,7 +14,12 @@
       0.6833,
       0.9021,
       1.0148
-    ]
+    ],
+    "ilc": 670.2,
+    "aph_tod": 548.4,
+    "aph_tot": 1.0942,
+    "tmf_inshore": 0.8953,
+    "tmf_offshore": 1.0088
   },
   "boat": {
     "builder": "AST. FM",
@@ -33,7 +38,10 @@
       "crew": 525.0,
       "wetted_surface": 21.46
     },
-    "stability_index": 117.9
+    "stability_index": 117.9,
+    "cdl": 8.882,
+    "division": "R",
+    "issue_date": "2026-08-21T19:24:04.215Z"
   },
   "vpp": {
     "angles": [

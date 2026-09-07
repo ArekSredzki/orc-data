@@ -14,7 +14,12 @@
       0.6507,
       0.8804,
       1.0006
-    ]
+    ],
+    "ilc": 687.2,
+    "aph_tod": 565.2,
+    "aph_tot": 1.0615,
+    "tmf_inshore": 0.8731,
+    "tmf_offshore": 0.978
   },
   "boat": {
     "builder": "Biasi/Marsan",
@@ -33,7 +38,10 @@
       "crew": 680.0,
       "wetted_surface": 26.07
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.966,
+    "division": "C",
+    "issue_date": "2026-03-12T16:18:09.043Z"
   },
   "vpp": {
     "angles": [

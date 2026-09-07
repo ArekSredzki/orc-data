@@ -14,7 +14,12 @@
       0.6507,
       0.863,
       1.0201
-    ]
+    ],
+    "ilc": 696.2,
+    "aph_tod": 553.7,
+    "aph_tot": 1.0837,
+    "tmf_inshore": 0.8619,
+    "tmf_offshore": 0.9934
   },
   "boat": {
     "builder": "ROWEN",
@@ -33,7 +38,10 @@
       "crew": 388.0,
       "wetted_surface": 12.08
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.472,
+    "division": "S",
+    "issue_date": "2026-03-03T20:46:08.091Z"
   },
   "vpp": {
     "angles": [

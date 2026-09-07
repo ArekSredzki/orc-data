@@ -14,7 +14,12 @@
       0.6972,
       0.9454,
       1.0783
-    ]
+    ],
+    "ilc": 639.8,
+    "aph_tod": 516.4,
+    "aph_tot": 1.1619,
+    "tmf_inshore": 0.9377,
+    "tmf_offshore": 1.0667
   },
   "boat": {
     "builder": "ALEXANDRE MEINECKE",
@@ -33,7 +38,10 @@
       "crew": 900.0,
       "wetted_surface": 33.19
     },
-    "stability_index": 118.5
+    "stability_index": 118.5,
+    "cdl": 10.617,
+    "division": "C",
+    "issue_date": "2026-03-02T15:17:44.506Z"
   },
   "vpp": {
     "angles": [

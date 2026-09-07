@@ -14,7 +14,12 @@
       0.9351,
       1.2392,
       1.484
-    ]
+    ],
+    "ilc": 483.6,
+    "aph_tod": 384.3,
+    "aph_tot": 1.5615,
+    "tmf_inshore": 1.2408,
+    "tmf_offshore": 1.4264
   },
   "boat": {
     "builder": "Wally",
@@ -33,7 +38,10 @@
       "crew": 1170.0,
       "wetted_surface": 44.02
     },
-    "stability_index": 121.2
+    "stability_index": 121.2,
+    "cdl": 15.722,
+    "division": "R",
+    "issue_date": "2026-04-28T12:31:50.110Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6031,
       0.8192,
       0.9377
-    ]
+    ],
+    "ilc": 737.8,
+    "aph_tod": 597.0,
+    "aph_tot": 1.0051,
+    "tmf_inshore": 0.8132,
+    "tmf_offshore": 0.9225
   },
   "boat": {
     "builder": "PEARSON YACHTS",
@@ -33,7 +38,10 @@
       "crew": 750.0,
       "wetted_surface": 27.63
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.253,
+    "division": "C",
+    "issue_date": "2026-07-01T20:05:39.137Z"
   },
   "vpp": {
     "angles": [

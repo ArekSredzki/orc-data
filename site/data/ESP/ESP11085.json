@@ -14,7 +14,12 @@
       0.6924,
       0.9297,
       1.0546
-    ]
+    ],
+    "ilc": 650.7,
+    "aph_tod": 524.5,
+    "aph_tot": 1.144,
+    "tmf_inshore": 0.9221,
+    "tmf_offshore": 1.051
   },
   "boat": {
     "builder": "NEO YACHTS & COMP",
@@ -33,7 +38,10 @@
       "crew": 600.0,
       "wetted_surface": 25.93
     },
-    "stability_index": 118.5
+    "stability_index": 118.5,
+    "cdl": 9.671,
+    "division": "C",
+    "issue_date": "2026-08-10T08:17:38.153Z"
   },
   "vpp": {
     "angles": [

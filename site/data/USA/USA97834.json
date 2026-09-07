@@ -14,7 +14,12 @@
       0.7855,
       1.0522,
       1.2004
-    ]
+    ],
+    "ilc": 574.3,
+    "aph_tod": 461.6,
+    "aph_tot": 1.2998,
+    "tmf_inshore": 1.0447,
+    "tmf_offshore": 1.192
   },
   "boat": {
     "builder": "SCHOCK",
@@ -33,7 +38,10 @@
       "crew": 854.0,
       "wetted_surface": 41.03
     },
-    "stability_index": 116.9
+    "stability_index": 116.9,
+    "cdl": 13.077,
+    "division": "R",
+    "issue_date": "2026-06-22T16:42:29.243Z"
   },
   "vpp": {
     "angles": [

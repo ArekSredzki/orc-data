@@ -14,7 +14,12 @@
       0.8217,
       1.0998,
       1.2589
-    ]
+    ],
+    "ilc": 549.2,
+    "aph_tod": 442.9,
+    "aph_tot": 1.3547,
+    "tmf_inshore": 1.0925,
+    "tmf_offshore": 1.2425
   },
   "boat": {
     "builder": "KNIERIM YACHTBAU",
@@ -33,7 +38,10 @@
       "crew": 700.0,
       "wetted_surface": 51.93
     },
-    "stability_index": 143.3
+    "stability_index": 143.3,
+    "cdl": 13.822,
+    "division": "C",
+    "issue_date": "2026-04-04T12:34:37.774Z"
   },
   "vpp": {
     "angles": [

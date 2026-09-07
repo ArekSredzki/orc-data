@@ -14,7 +14,12 @@
       0.5685,
       0.7707,
       0.887
-    ]
+    ],
+    "ilc": 783.3,
+    "aph_tod": 629.8,
+    "aph_tot": 0.9526,
+    "tmf_inshore": 0.7659,
+    "tmf_offshore": 0.8733
   },
   "boat": {
     "builder": "HALLBERG RASSY",
@@ -33,7 +38,10 @@
       "crew": 570.0,
       "wetted_surface": 28.8
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.531,
+    "division": "C",
+    "issue_date": "2026-04-02T22:16:29.670Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7435,
       0.9815,
       1.1636
-    ]
+    ],
+    "ilc": 611.5,
+    "aph_tod": 487.9,
+    "aph_tot": 1.2298,
+    "tmf_inshore": 0.9813,
+    "tmf_offshore": 1.1277
   },
   "boat": {
     "builder": "Cape Pref. Sailing",
@@ -33,7 +38,10 @@
       "crew": 595.0,
       "wetted_surface": 20.59
     },
-    "stability_index": 115.4
+    "stability_index": 115.4,
+    "cdl": 9.619,
+    "division": "R",
+    "issue_date": "2026-06-22T22:09:18.089Z"
   },
   "vpp": {
     "angles": [

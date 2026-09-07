@@ -14,7 +14,12 @@
       0.8627,
       1.1389,
       1.3061
-    ]
+    ],
+    "ilc": 529.5,
+    "aph_tod": 429.7,
+    "aph_tot": 1.3963,
+    "tmf_inshore": 1.1331,
+    "tmf_offshore": 1.2852
   },
   "boat": {
     "builder": "NEW ENGLAND BOAT",
@@ -33,7 +38,10 @@
       "crew": 1148.0,
       "wetted_surface": 45.0
     },
-    "stability_index": 157.5
+    "stability_index": 157.5,
+    "cdl": 14.398,
+    "division": "R",
+    "issue_date": "2026-06-04T19:05:13.356Z"
   },
   "vpp": {
     "angles": [

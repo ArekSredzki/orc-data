@@ -14,7 +14,12 @@
       0.6638,
       0.9106,
       1.0501
-    ]
+    ],
+    "ilc": 664.0,
+    "aph_tod": 538.3,
+    "aph_tot": 1.1146,
+    "tmf_inshore": 0.9036,
+    "tmf_offshore": 1.0226
   },
   "boat": {
     "builder": "WAUQUIEZ",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 34.8
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.319,
+    "division": "C",
+    "issue_date": "2026-03-02T08:11:55.715Z"
   },
   "vpp": {
     "angles": [

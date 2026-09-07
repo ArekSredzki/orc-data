@@ -14,7 +14,12 @@
       0.6935,
       0.9402,
       1.084
-    ]
+    ],
+    "ilc": 642.4,
+    "aph_tod": 517.1,
+    "aph_tot": 1.1602,
+    "tmf_inshore": 0.934,
+    "tmf_offshore": 1.0621
   },
   "boat": {
     "builder": "Cantiere Del Prado",
@@ -33,7 +38,10 @@
       "crew": 550.0,
       "wetted_surface": 38.02
     },
-    "stability_index": 122.2
+    "stability_index": 122.2,
+    "cdl": 10.96,
+    "division": "C",
+    "issue_date": "2026-03-06T09:15:28.323Z"
   },
   "vpp": {
     "angles": [

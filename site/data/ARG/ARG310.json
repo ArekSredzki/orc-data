@@ -14,7 +14,12 @@
       0.6168,
       0.876,
       1.0369
-    ]
+    ],
+    "ilc": 690.2,
+    "aph_tod": 551.7,
+    "aph_tot": 1.0875,
+    "tmf_inshore": 0.8694,
+    "tmf_offshore": 0.9928
   },
   "boat": {
     "builder": "GUTIERREZ",
@@ -33,7 +38,10 @@
       "crew": 485.0,
       "wetted_surface": 49.94
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.518,
+    "division": "C",
+    "issue_date": "2026-03-09T11:20:14.415Z"
   },
   "vpp": {
     "angles": [

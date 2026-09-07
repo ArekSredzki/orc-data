@@ -14,7 +14,12 @@
       0.8936,
       1.1899,
       1.4077
-    ]
+    ],
+    "ilc": 505.0,
+    "aph_tod": 402.6,
+    "aph_tot": 1.4905,
+    "tmf_inshore": 1.1882,
+    "tmf_offshore": 1.3648
   },
   "boat": {
     "builder": "Green Marine",
@@ -33,7 +38,10 @@
       "crew": 1233.0,
       "wetted_surface": 45.54
     },
-    "stability_index": 143.7
+    "stability_index": 143.7,
+    "cdl": 15.28,
+    "division": "R",
+    "issue_date": "2026-06-11T22:30:33.748Z"
   },
   "vpp": {
     "angles": [

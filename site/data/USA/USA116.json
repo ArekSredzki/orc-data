@@ -14,7 +14,12 @@
       0.7498,
       0.9499,
       1.0973
-    ]
+    ],
+    "ilc": 631.4,
+    "aph_tod": 514.7,
+    "aph_tot": 1.1658,
+    "tmf_inshore": 0.9503,
+    "tmf_offshore": 1.0771
   },
   "boat": {
     "builder": "SOCA",
@@ -33,7 +38,10 @@
       "crew": 575.0,
       "wetted_surface": 17.08
     },
-    "stability_index": 102.1
+    "stability_index": 102.1,
+    "cdl": 9.002,
+    "division": "R",
+    "issue_date": "2026-04-15T22:11:03.639Z"
   },
   "vpp": {
     "angles": [

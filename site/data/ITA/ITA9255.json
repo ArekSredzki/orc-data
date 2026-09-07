@@ -14,7 +14,12 @@
       0.622,
       0.8152,
       0.9071
-    ]
+    ],
+    "ilc": 742.3,
+    "aph_tod": 608.8,
+    "aph_tot": 0.9856,
+    "tmf_inshore": 0.8083,
+    "tmf_offshore": 0.9093
   },
   "boat": {
     "builder": "Perotto",
@@ -33,7 +38,10 @@
       "crew": 429.0,
       "wetted_surface": 18.05
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.272,
+    "division": "C",
+    "issue_date": "2026-03-10T16:14:43.118Z"
   },
   "vpp": {
     "angles": [

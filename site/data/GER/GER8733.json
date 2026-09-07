@@ -14,7 +14,12 @@
       0.6476,
       0.8207,
       0.8982
-    ]
+    ],
+    "ilc": 736.7,
+    "aph_tod": 592.9,
+    "aph_tot": 1.012,
+    "tmf_inshore": 0.8144,
+    "tmf_offshore": 0.9315
   },
   "boat": {
     "builder": "MEICHLE&MOHR",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 20.0
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.39,
+    "division": "C",
+    "issue_date": "2026-05-19T09:28:48.357Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.8117,
       1.0428,
       1.1965
-    ]
+    ],
+    "ilc": 576.6,
+    "aph_tod": 469.7,
+    "aph_tot": 1.2775,
+    "tmf_inshore": 1.0406,
+    "tmf_offshore": 1.1788
   },
   "boat": {
     "builder": "Carroll",
@@ -33,7 +38,10 @@
       "crew": 850.0,
       "wetted_surface": 29.87
     },
-    "stability_index": 124.8
+    "stability_index": 124.8,
+    "cdl": 11.363,
+    "division": "R",
+    "issue_date": "2026-06-25T11:30:17.934Z"
   },
   "vpp": {
     "angles": [

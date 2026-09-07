@@ -14,7 +14,12 @@
       0.6344,
       0.8293,
       0.9254
-    ]
+    ],
+    "ilc": 729.3,
+    "aph_tod": 603.4,
+    "aph_tot": 0.9944,
+    "tmf_inshore": 0.8227,
+    "tmf_offshore": 0.9206
   },
   "boat": {
     "builder": "Rajakallio/Bjurstr",
@@ -33,7 +38,10 @@
       "crew": 360.0,
       "wetted_surface": 15.33
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.292,
+    "division": "C",
+    "issue_date": "2026-06-04T20:49:26.501Z"
   },
   "vpp": {
     "angles": [

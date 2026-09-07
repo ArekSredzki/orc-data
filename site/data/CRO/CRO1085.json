@@ -14,7 +14,12 @@
       0.7052,
       0.9259,
       1.0328
-    ]
+    ],
+    "ilc": 653.4,
+    "aph_tod": 526.8,
+    "aph_tot": 1.139,
+    "tmf_inshore": 0.9183,
+    "tmf_offshore": 1.0465
   },
   "boat": {
     "builder": "AB Ovo Salona",
@@ -33,7 +38,10 @@
       "crew": 713.0,
       "wetted_surface": 30.49
     },
-    "stability_index": 122.2
+    "stability_index": 122.2,
+    "cdl": 9.844,
+    "division": "C",
+    "issue_date": "2026-04-22T12:32:13.976Z"
   },
   "vpp": {
     "angles": [

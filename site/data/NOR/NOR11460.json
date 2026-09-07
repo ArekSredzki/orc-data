@@ -14,7 +14,12 @@
       0.5926,
       0.799,
       0.9112
-    ]
+    ],
+    "ilc": 756.7,
+    "aph_tod": 618.8,
+    "aph_tot": 0.9696,
+    "tmf_inshore": 0.7929,
+    "tmf_offshore": 0.8923
   },
   "boat": {
     "builder": "Dahlstr\u00f8m b\u00e5t",
@@ -33,7 +38,10 @@
       "crew": 528.0,
       "wetted_surface": 22.16
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.566,
+    "division": "C",
+    "issue_date": "2026-03-16T12:47:04.052Z"
   },
   "vpp": {
     "angles": [

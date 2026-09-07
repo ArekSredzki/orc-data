@@ -14,7 +14,12 @@
       0.6523,
       0.8858,
       1.0161
-    ]
+    ],
+    "ilc": 682.4,
+    "aph_tod": 555.7,
+    "aph_tot": 1.0796,
+    "tmf_inshore": 0.8793,
+    "tmf_offshore": 0.9932
   },
   "boat": {
     "builder": "HOLLAND COMPOSITE",
@@ -33,7 +38,10 @@
       "crew": 517.0,
       "wetted_surface": 19.22
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.644,
+    "division": "R",
+    "issue_date": "2026-08-10T07:56:04.983Z"
   },
   "vpp": {
     "angles": [

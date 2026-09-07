@@ -14,7 +14,12 @@
       0.515,
       0.7083,
       0.817
-    ]
+    ],
+    "ilc": 853.9,
+    "aph_tod": 682.0,
+    "aph_tot": 0.8798,
+    "tmf_inshore": 0.7027,
+    "tmf_offshore": 0.8054
   },
   "boat": {
     "builder": "CNA",
@@ -33,7 +38,10 @@
       "crew": 240.0,
       "wetted_surface": 10.09
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.561,
+    "division": "S",
+    "issue_date": "2026-05-20T09:50:07.036Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5306,
       0.7419,
       0.857
-    ]
+    ],
+    "ilc": 816.1,
+    "aph_tod": 664.0,
+    "aph_tot": 0.9036,
+    "tmf_inshore": 0.7352,
+    "tmf_offshore": 0.8293
   },
   "boat": {
     "builder": "Nycra",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 15.73
     },
-    "stability_index": 107.5
+    "stability_index": 107.5,
+    "cdl": 6.618,
+    "division": "C",
+    "issue_date": "2026-07-06T10:21:27.943Z"
   },
   "vpp": {
     "angles": [

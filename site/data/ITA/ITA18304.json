@@ -14,7 +14,12 @@
       0.6379,
       0.8599,
       0.9751
-    ]
+    ],
+    "ilc": 703.8,
+    "aph_tod": 577.6,
+    "aph_tot": 1.0388,
+    "tmf_inshore": 0.8525,
+    "tmf_offshore": 0.9575
   },
   "boat": {
     "builder": "Comp.Avanzati",
@@ -33,7 +38,10 @@
       "crew": 470.0,
       "wetted_surface": 18.75
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.483,
+    "division": "C",
+    "issue_date": "2026-06-12T14:46:54.142Z"
   },
   "vpp": {
     "angles": [

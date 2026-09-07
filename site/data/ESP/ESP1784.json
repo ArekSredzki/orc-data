@@ -14,7 +14,12 @@
       0.6263,
       0.849,
       0.9768
-    ]
+    ],
+    "ilc": 711.3,
+    "aph_tod": 583.8,
+    "aph_tot": 1.0277,
+    "tmf_inshore": 0.8435,
+    "tmf_offshore": 0.9463
   },
   "boat": {
     "builder": "MARYOLA",
@@ -33,7 +38,10 @@
       "crew": 570.0,
       "wetted_surface": 27.96
     },
-    "stability_index": 138.9
+    "stability_index": 138.9,
+    "cdl": 8.457,
+    "division": "R",
+    "issue_date": "2026-07-21T15:49:57.173Z"
   },
   "vpp": {
     "angles": [

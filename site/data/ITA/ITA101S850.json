@@ -14,7 +14,12 @@
       0.7141,
       0.8908,
       1.0261
-    ]
+    ],
+    "ilc": 672.4,
+    "aph_tod": 540.5,
+    "aph_tot": 1.1101,
+    "tmf_inshore": 0.8923,
+    "tmf_offshore": 1.0213
   },
   "boat": {
     "builder": "Proteus Yachts",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 14.43
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.667,
+    "division": "S",
+    "issue_date": "2026-03-05T10:44:35.497Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5704,
       0.773,
       0.8816
-    ]
+    ],
+    "ilc": 782.0,
+    "aph_tod": 641.6,
+    "aph_tot": 0.9352,
+    "tmf_inshore": 0.7672,
+    "tmf_offshore": 0.8616
   },
   "boat": {
     "builder": "AKROPRORO",
@@ -33,7 +38,10 @@
       "crew": 249.0,
       "wetted_surface": 18.96
     },
-    "stability_index": 120.1
+    "stability_index": 120.1,
+    "cdl": 6.929,
+    "division": "C",
+    "issue_date": "2026-04-02T09:39:00.047Z"
   },
   "vpp": {
     "angles": [

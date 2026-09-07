@@ -14,7 +14,12 @@
       0.7425,
       0.95,
       1.0846
-    ]
+    ],
+    "ilc": 633.1,
+    "aph_tod": 519.6,
+    "aph_tot": 1.1547,
+    "tmf_inshore": 0.9477,
+    "tmf_offshore": 1.0669
   },
   "boat": {
     "builder": "A.WEITH",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 23.34
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.611,
+    "division": "R",
+    "issue_date": "2026-03-17T19:25:41.510Z"
   },
   "vpp": {
     "angles": [

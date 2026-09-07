@@ -14,7 +14,12 @@
       0.6299,
       0.8427,
       0.9818
-    ]
+    ],
+    "ilc": 714.2,
+    "aph_tod": 576.8,
+    "aph_tot": 1.0402,
+    "tmf_inshore": 0.8401,
+    "tmf_offshore": 0.9536
   },
   "boat": {
     "builder": "Fife",
@@ -33,7 +38,10 @@
       "crew": 800.0,
       "wetted_surface": 32.74
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.532,
+    "division": "C",
+    "issue_date": "2026-07-31T15:30:57.156Z"
   },
   "vpp": {
     "angles": [

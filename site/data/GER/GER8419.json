@@ -14,7 +14,12 @@
       0.8406,
       1.1038,
       1.3063
-    ]
+    ],
+    "ilc": 543.4,
+    "aph_tod": 431.4,
+    "aph_tot": 1.3909,
+    "tmf_inshore": 1.1042,
+    "tmf_offshore": 1.2722
   },
   "boat": {
     "builder": "LATINI MARINE",
@@ -33,7 +38,10 @@
       "crew": 1065.0,
       "wetted_surface": 32.17
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 12.481,
+    "division": "R",
+    "issue_date": "2026-06-15T19:28:32.162Z"
   },
   "vpp": {
     "angles": [

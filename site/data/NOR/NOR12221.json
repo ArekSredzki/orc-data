@@ -14,7 +14,12 @@
       0.7187,
       0.9419,
       1.0635
-    ]
+    ],
+    "ilc": 641.0,
+    "aph_tod": 523.3,
+    "aph_tot": 1.1466,
+    "tmf_inshore": 0.936,
+    "tmf_offshore": 1.0565
   },
   "boat": {
     "builder": "Seaquest",
@@ -33,7 +38,10 @@
       "crew": 719.0,
       "wetted_surface": 26.52
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.95,
+    "division": "C",
+    "issue_date": "2026-05-04T13:53:01.771Z"
   },
   "vpp": {
     "angles": [

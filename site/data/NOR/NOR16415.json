@@ -14,7 +14,12 @@
       0.5673,
       0.7804,
       0.9129
-    ]
+    ],
+    "ilc": 773.1,
+    "aph_tod": 616.8,
+    "aph_tot": 0.9728,
+    "tmf_inshore": 0.7761,
+    "tmf_offshore": 0.889
   },
   "boat": {
     "builder": "Najad",
@@ -33,7 +38,10 @@
       "crew": 652.0,
       "wetted_surface": 32.89
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.25,
+    "division": "C",
+    "issue_date": "2026-06-04T12:05:08.662Z"
   },
   "vpp": {
     "angles": [

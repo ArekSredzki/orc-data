@@ -14,7 +14,12 @@
       0.6275,
       0.8494,
       0.9633
-    ]
+    ],
+    "ilc": 712.7,
+    "aph_tod": 581.1,
+    "aph_tot": 1.0326,
+    "tmf_inshore": 0.8419,
+    "tmf_offshore": 0.9502
   },
   "boat": {
     "builder": "Steve Etheridge",
@@ -33,7 +38,10 @@
       "crew": 515.0,
       "wetted_surface": 19.26
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.207,
+    "division": "C",
+    "issue_date": "2026-04-01T19:52:36.359Z"
   },
   "vpp": {
     "angles": [

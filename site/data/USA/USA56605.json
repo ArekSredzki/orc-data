@@ -14,7 +14,12 @@
       0.7406,
       0.9351,
       1.0812
-    ]
+    ],
+    "ilc": 640.8,
+    "aph_tod": 519.7,
+    "aph_tot": 1.1544,
+    "tmf_inshore": 0.9363,
+    "tmf_offshore": 1.0644
   },
   "boat": {
     "builder": "Columbia Yachts",
@@ -33,7 +38,10 @@
       "crew": 410.0,
       "wetted_surface": 16.84
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.623,
+    "division": "S",
+    "issue_date": "2026-05-08T17:28:26.807Z"
   },
   "vpp": {
     "angles": [

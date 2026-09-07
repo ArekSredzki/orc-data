@@ -14,7 +14,12 @@
       0.6026,
       0.8114,
       0.9277
-    ]
+    ],
+    "ilc": 744.4,
+    "aph_tod": 606.2,
+    "aph_tot": 0.9898,
+    "tmf_inshore": 0.806,
+    "tmf_offshore": 0.9121
   },
   "boat": {
     "builder": "AMC MARINE",
@@ -33,7 +38,10 @@
       "crew": 382.0,
       "wetted_surface": 14.0
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.066,
+    "division": "S",
+    "issue_date": "2026-04-22T21:31:20.370Z"
   },
   "vpp": {
     "angles": [

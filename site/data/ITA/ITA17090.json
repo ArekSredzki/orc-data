@@ -14,7 +14,12 @@
       0.7471,
       0.9952,
       1.1298
-    ]
+    ],
+    "ilc": 607.4,
+    "aph_tod": 489.9,
+    "aph_tot": 1.2247,
+    "tmf_inshore": 0.9878,
+    "tmf_offshore": 1.125
   },
   "boat": {
     "builder": "Marine Service",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 32.98
     },
-    "stability_index": 119.0
+    "stability_index": 119.0,
+    "cdl": 11.506,
+    "division": "C",
+    "issue_date": "2026-02-20T14:56:13.855Z"
   },
   "vpp": {
     "angles": [

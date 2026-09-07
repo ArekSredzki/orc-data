@@ -14,7 +14,12 @@
       0.58,
       0.7958,
       0.9332
-    ]
+    ],
+    "ilc": 757.5,
+    "aph_tod": 617.5,
+    "aph_tot": 0.9716,
+    "tmf_inshore": 0.7921,
+    "tmf_offshore": 0.8918
   },
   "boat": {
     "builder": "Sadler Yachts",
@@ -33,7 +38,10 @@
       "crew": 567.0,
       "wetted_surface": 25.38
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.948,
+    "division": "C",
+    "issue_date": "2026-04-28T13:29:05.698Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6442,
       0.7913,
       0.9103
-    ]
+    ],
+    "ilc": 755.9,
+    "aph_tod": 606.0,
+    "aph_tot": 0.9901,
+    "tmf_inshore": 0.7938,
+    "tmf_offshore": 0.9107
   },
   "boat": {
     "builder": "Riotecna",
@@ -33,7 +38,10 @@
       "crew": 160.0,
       "wetted_surface": 13.08
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.04,
+    "division": "S",
+    "issue_date": "2026-02-07T23:47:20.430Z"
   },
   "vpp": {
     "angles": [

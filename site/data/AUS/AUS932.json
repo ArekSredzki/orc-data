@@ -14,7 +14,12 @@
       0.5864,
       0.7932,
       0.9077
-    ]
+    ],
+    "ilc": 762.3,
+    "aph_tod": 620.9,
+    "aph_tot": 0.9663,
+    "tmf_inshore": 0.787,
+    "tmf_offshore": 0.8891
   },
   "boat": {
     "builder": "PETTICROW",
@@ -33,7 +38,10 @@
       "crew": 285.0,
       "wetted_surface": 12.96
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.814,
+    "division": "R",
+    "issue_date": "2026-06-11T02:12:24.439Z"
   },
   "vpp": {
     "angles": [

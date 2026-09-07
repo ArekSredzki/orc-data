@@ -14,7 +14,12 @@
       0.6445,
       0.8805,
       1.0046
-    ]
+    ],
+    "ilc": 687.7,
+    "aph_tod": 556.8,
+    "aph_tot": 1.0777,
+    "tmf_inshore": 0.8725,
+    "tmf_offshore": 0.9901
   },
   "boat": {
     "builder": "TPI COMPOSITES INC",
@@ -33,7 +38,10 @@
       "crew": 480.0,
       "wetted_surface": 24.85
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.135,
+    "division": "R",
+    "issue_date": "2026-07-31T05:53:59.471Z"
   },
   "vpp": {
     "angles": [

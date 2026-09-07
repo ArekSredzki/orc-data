@@ -14,7 +14,12 @@
       0.57,
       0.8048,
       0.9418
-    ]
+    ],
+    "ilc": 751.8,
+    "aph_tod": 607.6,
+    "aph_tot": 0.9874,
+    "tmf_inshore": 0.7981,
+    "tmf_offshore": 0.9045
   },
   "boat": {
     "builder": "ETAP YACHTING",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 24.29
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.111,
+    "division": "C",
+    "issue_date": "2026-05-07T10:14:25.118Z"
   },
   "vpp": {
     "angles": [

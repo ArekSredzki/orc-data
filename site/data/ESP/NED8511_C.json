@@ -14,7 +14,12 @@
       0.5902,
       0.8178,
       0.957
-    ]
+    ],
+    "ilc": 738.3,
+    "aph_tod": 599.6,
+    "aph_tot": 1.0007,
+    "tmf_inshore": 0.8127,
+    "tmf_offshore": 0.9187
   },
   "boat": {
     "builder": "CAFE-YACHTS",
@@ -33,7 +38,10 @@
       "crew": 345.0,
       "wetted_surface": 19.78
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.04,
+    "division": "C",
+    "issue_date": "2026-02-15T09:35:01.038Z"
   },
   "vpp": {
     "angles": [

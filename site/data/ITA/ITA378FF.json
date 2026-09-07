@@ -14,7 +14,12 @@
       0.5255,
       0.7072,
       0.804
-    ]
+    ],
+    "ilc": 855.7,
+    "aph_tod": 680.3,
+    "aph_tot": 0.882,
+    "tmf_inshore": 0.7012,
+    "tmf_offshore": 0.8083
   },
   "boat": {
     "builder": "Tormentor",
@@ -33,7 +38,10 @@
       "crew": 160.0,
       "wetted_surface": 6.64
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.177,
+    "division": "S",
+    "issue_date": "2026-05-07T16:41:42.146Z"
   },
   "vpp": {
     "angles": [

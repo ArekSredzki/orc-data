@@ -14,7 +14,12 @@
       0.4948,
       0.6849,
       0.8098
-    ]
+    ],
+    "ilc": 879.7,
+    "aph_tod": 717.6,
+    "aph_tot": 0.8362,
+    "tmf_inshore": 0.682,
+    "tmf_offshore": 0.7679
   },
   "boat": {
     "builder": "NEK YACHTS",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 12.44
     },
-    "stability_index": 97.1
+    "stability_index": 97.1,
+    "cdl": 5.663,
+    "division": "C",
+    "issue_date": "2026-03-25T14:28:28.417Z"
   },
   "vpp": {
     "angles": [

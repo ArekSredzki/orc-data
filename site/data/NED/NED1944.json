@@ -14,7 +14,12 @@
       0.5643,
       0.7688,
       0.8768
-    ]
+    ],
+    "ilc": 786.9,
+    "aph_tod": 647.1,
+    "aph_tot": 0.9273,
+    "tmf_inshore": 0.7625,
+    "tmf_offshore": 0.8545
   },
   "boat": {
     "builder": "v.d.Stadt",
@@ -33,7 +38,10 @@
       "crew": 428.0,
       "wetted_surface": 18.56
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.911,
+    "division": "C",
+    "issue_date": "2026-04-01T19:43:00.225Z"
   },
   "vpp": {
     "angles": [

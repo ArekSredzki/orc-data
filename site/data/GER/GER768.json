@@ -14,7 +14,12 @@
       0.6677,
       0.92,
       1.0736
-    ]
+    ],
+    "ilc": 656.4,
+    "aph_tod": 527.0,
+    "aph_tot": 1.1385,
+    "tmf_inshore": 0.9141,
+    "tmf_offshore": 1.0418
   },
   "boat": {
     "builder": "MAOTA LUMBER YAC",
@@ -33,7 +38,10 @@
       "crew": 800.0,
       "wetted_surface": 57.32
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.202,
+    "division": "C",
+    "issue_date": "2026-07-14T11:18:02.437Z"
   },
   "vpp": {
     "angles": [

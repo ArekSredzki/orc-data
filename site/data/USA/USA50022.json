@@ -14,7 +14,12 @@
       0.7427,
       1.0008,
       1.1481
-    ]
+    ],
+    "ilc": 603.6,
+    "aph_tod": 489.6,
+    "aph_tot": 1.2255,
+    "tmf_inshore": 0.9941,
+    "tmf_offshore": 1.1246
   },
   "boat": {
     "builder": "Payne",
@@ -33,7 +38,10 @@
       "crew": 905.0,
       "wetted_surface": 39.1
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.748,
+    "division": "C",
+    "issue_date": "2026-06-08T13:20:43.960Z"
   },
   "vpp": {
     "angles": [

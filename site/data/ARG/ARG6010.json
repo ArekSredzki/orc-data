@@ -14,7 +14,12 @@
       0.6022,
       0.8197,
       0.9324
-    ]
+    ],
+    "ilc": 738.3,
+    "aph_tod": 602.4,
+    "aph_tot": 0.9959,
+    "tmf_inshore": 0.8126,
+    "tmf_offshore": 0.9169
   },
   "boat": {
     "builder": "Ast. FMA",
@@ -33,7 +38,10 @@
       "crew": 468.0,
       "wetted_surface": 17.75
     },
-    "stability_index": 113.6
+    "stability_index": 113.6,
+    "cdl": 7.547,
+    "division": "C",
+    "issue_date": "2026-04-18T08:08:08.427Z"
   },
   "vpp": {
     "angles": [

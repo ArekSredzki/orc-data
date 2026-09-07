@@ -14,7 +14,12 @@
       0.549,
       0.7359,
       0.8485
-    ]
+    ],
+    "ilc": 819.2,
+    "aph_tod": 657.4,
+    "aph_tot": 0.9127,
+    "tmf_inshore": 0.7324,
+    "tmf_offshore": 0.8372
   },
   "boat": {
     "builder": "MAREE HAUTE",
@@ -33,7 +38,10 @@
       "crew": 388.0,
       "wetted_surface": 14.66
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.136,
+    "division": "S",
+    "issue_date": "2026-04-10T12:19:26.327Z"
   },
   "vpp": {
     "angles": [

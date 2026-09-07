@@ -14,7 +14,12 @@
       0.6486,
       0.8626,
       1.0216
-    ]
+    ],
+    "ilc": 696.4,
+    "aph_tod": 550.6,
+    "aph_tot": 1.0897,
+    "tmf_inshore": 0.8616,
+    "tmf_offshore": 0.996
   },
   "boat": {
     "builder": "Rowen Composites",
@@ -33,7 +38,10 @@
       "crew": 510.0,
       "wetted_surface": 12.13
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.512,
+    "division": "S",
+    "issue_date": "2026-06-08T20:19:59.344Z"
   },
   "vpp": {
     "angles": [

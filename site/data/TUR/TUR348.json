@@ -14,7 +14,12 @@
       0.6291,
       0.8451,
       0.9568
-    ]
+    ],
+    "ilc": 716.1,
+    "aph_tod": 591.7,
+    "aph_tot": 1.014,
+    "tmf_inshore": 0.8379,
+    "tmf_offshore": 0.9369
   },
   "boat": {
     "builder": "Gorbon Yachts",
@@ -33,7 +38,10 @@
       "crew": 510.0,
       "wetted_surface": 16.71
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.842,
+    "division": "R",
+    "issue_date": "2026-03-22T15:27:39.899Z"
   },
   "vpp": {
     "angles": [

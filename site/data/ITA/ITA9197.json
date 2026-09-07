@@ -14,7 +14,12 @@
       0.6317,
       0.849,
       0.9757
-    ]
+    ],
+    "ilc": 710.6,
+    "aph_tod": 582.9,
+    "aph_tot": 1.0293,
+    "tmf_inshore": 0.8444,
+    "tmf_offshore": 0.9479
   },
   "boat": {
     "builder": "Baltic Yachts",
@@ -33,7 +38,10 @@
       "crew": 600.0,
       "wetted_surface": 26.33
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.316,
+    "division": "C",
+    "issue_date": "2026-04-16T17:54:12.935Z"
   },
   "vpp": {
     "angles": [

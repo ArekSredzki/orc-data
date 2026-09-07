@@ -14,7 +14,12 @@
       0.7136,
       0.9591,
       1.0981
-    ]
+    ],
+    "ilc": 629.7,
+    "aph_tod": 515.3,
+    "aph_tot": 1.1644,
+    "tmf_inshore": 0.9529,
+    "tmf_offshore": 1.0719
   },
   "boat": {
     "builder": "Royal Huisman",
@@ -33,7 +38,10 @@
       "crew": 1000.0,
       "wetted_surface": 44.6
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.03,
+    "division": "C",
+    "issue_date": "2026-07-28T12:25:42.490Z"
   },
   "vpp": {
     "angles": [

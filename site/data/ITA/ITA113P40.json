@@ -14,7 +14,12 @@
       0.8147,
       1.0549,
       1.2431
-    ]
+    ],
+    "ilc": 567.8,
+    "aph_tod": 450.2,
+    "aph_tot": 1.3329,
+    "tmf_inshore": 1.0566,
+    "tmf_offshore": 1.2154
   },
   "boat": {
     "builder": "Pogo Structures",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 34.19
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.697,
+    "division": "R",
+    "issue_date": "2026-04-10T13:35:42.647Z"
   },
   "vpp": {
     "angles": [

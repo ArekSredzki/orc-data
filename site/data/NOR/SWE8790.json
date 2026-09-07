@@ -14,7 +14,12 @@
       0.7391,
       0.9913,
       1.141
-    ]
+    ],
+    "ilc": 608.8,
+    "aph_tod": 495.6,
+    "aph_tot": 1.2105,
+    "tmf_inshore": 0.9855,
+    "tmf_offshore": 1.1129
   },
   "boat": {
     "builder": "Edin. Roger",
@@ -33,7 +38,10 @@
       "crew": 763.0,
       "wetted_surface": 31.42
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.121,
+    "division": "R",
+    "issue_date": "2026-08-31T08:35:12.199Z"
   },
   "vpp": {
     "angles": [

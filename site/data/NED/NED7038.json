@@ -14,7 +14,12 @@
       0.6038,
       0.7981,
       0.8993
-    ]
+    ],
+    "ilc": 757.0,
+    "aph_tod": 623.7,
+    "aph_tot": 0.962,
+    "tmf_inshore": 0.7926,
+    "tmf_offshore": 0.8874
   },
   "boat": {
     "builder": "Comfortina",
@@ -33,7 +38,10 @@
       "crew": 469.0,
       "wetted_surface": 20.8
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.298,
+    "division": "C",
+    "issue_date": "2026-04-01T19:51:07.713Z"
   },
   "vpp": {
     "angles": [

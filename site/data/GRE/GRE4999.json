@@ -14,7 +14,12 @@
       0.6343,
       0.8323,
       0.9414
-    ]
+    ],
+    "ilc": 725.2,
+    "aph_tod": 595.3,
+    "aph_tot": 1.0079,
+    "tmf_inshore": 0.8274,
+    "tmf_offshore": 0.9293
   },
   "boat": {
     "builder": "MIKE PARRY",
@@ -33,7 +38,10 @@
       "crew": 520.0,
       "wetted_surface": 16.05
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.412,
+    "division": "R",
+    "issue_date": "2026-03-17T21:24:40.309Z"
   },
   "vpp": {
     "angles": [

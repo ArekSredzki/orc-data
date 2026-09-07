@@ -14,7 +14,12 @@
       0.5198,
       0.7112,
       0.8141
-    ]
+    ],
+    "ilc": 850.4,
+    "aph_tod": 687.6,
+    "aph_tot": 0.8727,
+    "tmf_inshore": 0.7056,
+    "tmf_offshore": 0.8021
   },
   "boat": {
     "builder": "Kolibri Jachtbouw",
@@ -33,7 +38,10 @@
       "crew": 252.0,
       "wetted_surface": 11.56
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.665,
+    "division": "S",
+    "issue_date": "2026-04-01T19:57:37.719Z"
   },
   "vpp": {
     "angles": [

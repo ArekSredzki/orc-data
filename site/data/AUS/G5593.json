@@ -14,7 +14,12 @@
       0.6852,
       0.9151,
       1.045
-    ]
+    ],
+    "ilc": 660.0,
+    "aph_tod": 536.0,
+    "aph_tot": 1.1194,
+    "tmf_inshore": 0.9091,
+    "tmf_offshore": 1.0291
   },
   "boat": {
     "builder": "Adams Factory",
@@ -33,7 +38,10 @@
       "crew": 540.0,
       "wetted_surface": 21.81
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.454,
+    "division": "C",
+    "issue_date": "2026-08-24T02:45:34.773Z"
   },
   "vpp": {
     "angles": [

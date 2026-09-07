@@ -14,7 +14,12 @@
       0.6707,
       0.9011,
       1.0186
-    ]
+    ],
+    "ilc": 671.6,
+    "aph_tod": 544.5,
+    "aph_tot": 1.1019,
+    "tmf_inshore": 0.8934,
+    "tmf_offshore": 1.0129
   },
   "boat": {
     "builder": "AD BOATS-CROAZIA",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 29.8
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.654,
+    "division": "C",
+    "issue_date": "2026-05-20T18:20:30.344Z"
   },
   "vpp": {
     "angles": [

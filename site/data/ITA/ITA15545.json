@@ -14,7 +14,12 @@
       0.6412,
       0.8631,
       0.9956
-    ]
+    ],
+    "ilc": 698.7,
+    "aph_tod": 565.4,
+    "aph_tot": 1.0612,
+    "tmf_inshore": 0.8587,
+    "tmf_offshore": 0.9724
   },
   "boat": {
     "builder": "Zuanelli",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 34.19
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.125,
+    "division": "C",
+    "issue_date": "2026-04-30T14:07:53.341Z"
   },
   "vpp": {
     "angles": [

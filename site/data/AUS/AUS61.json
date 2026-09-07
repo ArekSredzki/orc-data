@@ -14,7 +14,12 @@
       0.7297,
       0.9528,
       1.1024
-    ]
+    ],
+    "ilc": 631.6,
+    "aph_tod": 512.4,
+    "aph_tot": 1.171,
+    "tmf_inshore": 0.95,
+    "tmf_offshore": 1.0793
   },
   "boat": {
     "builder": "Hansheng Yachts",
@@ -33,7 +38,10 @@
       "crew": 565.0,
       "wetted_surface": 19.54
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.36,
+    "division": "C",
+    "issue_date": "2026-08-07T04:53:29.081Z"
   },
   "vpp": {
     "angles": [

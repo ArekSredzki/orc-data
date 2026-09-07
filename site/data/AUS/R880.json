@@ -14,7 +14,12 @@
       0.6919,
       0.9295,
       1.0594
-    ]
+    ],
+    "ilc": 650.3,
+    "aph_tod": 534.7,
+    "aph_tot": 1.1222,
+    "tmf_inshore": 0.9226,
+    "tmf_offshore": 1.0343
   },
   "boat": {
     "builder": "Alien Yachts",
@@ -33,7 +38,10 @@
       "crew": 619.0,
       "wetted_surface": 25.47
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.586,
+    "division": "C",
+    "issue_date": "2026-07-06T22:24:16.045Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.8613,
       1.0741,
       1.2857
-    ]
+    ],
+    "ilc": 553.8,
+    "aph_tod": 445.7,
+    "aph_tot": 1.3461,
+    "tmf_inshore": 1.0834,
+    "tmf_offshore": 1.2346
   },
   "boat": {
     "builder": "PSAROS SA",
@@ -33,7 +38,10 @@
       "crew": 586.0,
       "wetted_surface": 21.0
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.663,
+    "division": "R",
+    "issue_date": "2026-04-29T07:45:29.821Z"
   },
   "vpp": {
     "angles": [

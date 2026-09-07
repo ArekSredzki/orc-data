@@ -14,7 +14,12 @@
       0.6239,
       0.857,
       0.9893
-    ]
+    ],
+    "ilc": 705.4,
+    "aph_tod": 576.8,
+    "aph_tot": 1.0402,
+    "tmf_inshore": 0.8506,
+    "tmf_offshore": 0.9579
   },
   "boat": {
     "builder": "Merv Anderson",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 19.21
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.126,
+    "division": "C",
+    "issue_date": "2026-06-29T00:16:51.313Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7154,
       0.9568,
       1.0903
-    ]
+    ],
+    "ilc": 631.5,
+    "aph_tod": 513.6,
+    "aph_tot": 1.1682,
+    "tmf_inshore": 0.9502,
+    "tmf_offshore": 1.0746
   },
   "boat": {
     "builder": "PROTOTIPO",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 30.25
     },
-    "stability_index": 133.7
+    "stability_index": 133.7,
+    "cdl": 10.243,
+    "division": "C",
+    "issue_date": "2026-02-17T15:41:19.043Z"
   },
   "vpp": {
     "angles": [

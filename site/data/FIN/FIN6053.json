@@ -14,7 +14,12 @@
       0.604,
       0.8001,
       0.8976
-    ]
+    ],
+    "ilc": 755.9,
+    "aph_tod": 620.3,
+    "aph_tot": 0.9672,
+    "tmf_inshore": 0.7937,
+    "tmf_offshore": 0.8916
   },
   "boat": {
     "builder": "CROWN MARIN",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 19.87
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.273,
+    "division": "C",
+    "issue_date": "2026-04-22T19:42:47.248Z"
   },
   "vpp": {
     "angles": [

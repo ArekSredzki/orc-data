@@ -14,7 +14,12 @@
       0.5175,
       0.694,
       0.7703
-    ]
+    ],
+    "ilc": 874.0,
+    "aph_tod": 723.4,
+    "aph_tot": 0.8294,
+    "tmf_inshore": 0.6865,
+    "tmf_offshore": 0.7677
   },
   "boat": {
     "builder": "AUBIN",
@@ -33,7 +38,10 @@
       "crew": 263.0,
       "wetted_surface": 10.87
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.262,
+    "division": "C",
+    "issue_date": "2026-05-12T08:29:16.397Z"
   },
   "vpp": {
     "angles": [

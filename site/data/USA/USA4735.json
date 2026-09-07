@@ -14,7 +14,12 @@
       0.7254,
       0.9672,
       1.0947
-    ]
+    ],
+    "ilc": 625.0,
+    "aph_tod": 508.8,
+    "aph_tot": 1.1793,
+    "tmf_inshore": 0.96,
+    "tmf_offshore": 1.085
   },
   "boat": {
     "builder": "MCCONAGY",
@@ -33,7 +38,10 @@
       "crew": 732.0,
       "wetted_surface": 33.38
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.745,
+    "division": "R",
+    "issue_date": "2026-05-19T18:05:48.145Z"
   },
   "vpp": {
     "angles": [

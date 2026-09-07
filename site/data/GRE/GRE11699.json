@@ -14,7 +14,12 @@
       0.49,
       0.6684,
       0.7852
-    ]
+    ],
+    "ilc": 901.1,
+    "aph_tod": 719.0,
+    "aph_tot": 0.8345,
+    "tmf_inshore": 0.6658,
+    "tmf_offshore": 0.763
   },
   "boat": {
     "builder": "WESTERLY MARINE",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 17.34
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.783,
+    "division": "C",
+    "issue_date": "2026-06-30T13:24:32.079Z"
   },
   "vpp": {
     "angles": [

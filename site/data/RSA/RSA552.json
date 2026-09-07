@@ -14,7 +14,12 @@
       0.5134,
       0.7206,
       0.8534
-    ]
+    ],
+    "ilc": 837.4,
+    "aph_tod": 675.7,
+    "aph_tot": 0.888,
+    "tmf_inshore": 0.7165,
+    "tmf_offshore": 0.8137
   },
   "boat": {
     "builder": "Halsted",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 22.14
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.575,
+    "division": "C",
+    "issue_date": "2026-02-07T22:40:25.613Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5679,
       0.7893,
       0.9098
-    ]
+    ],
+    "ilc": 767.1,
+    "aph_tod": 620.4,
+    "aph_tot": 0.9671,
+    "tmf_inshore": 0.7822,
+    "tmf_offshore": 0.8865
   },
   "boat": {
     "builder": "ARTEKNO",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 20.18
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.596,
+    "division": "C",
+    "issue_date": "2026-06-04T20:49:02.235Z"
   },
   "vpp": {
     "angles": [

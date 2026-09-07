@@ -14,7 +14,12 @@
       0.6223,
       0.8248,
       0.9477
-    ]
+    ],
+    "ilc": 730.8,
+    "aph_tod": 594.9,
+    "aph_tot": 1.0086,
+    "tmf_inshore": 0.821,
+    "tmf_offshore": 0.9301
   },
   "boat": {
     "builder": "MAGNAN",
@@ -33,7 +38,10 @@
       "crew": 392.0,
       "wetted_surface": 15.13
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.182,
+    "division": "S",
+    "issue_date": "2026-04-01T16:08:05.537Z"
   },
   "vpp": {
     "angles": [

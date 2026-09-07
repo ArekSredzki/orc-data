@@ -14,7 +14,12 @@
       0.6035,
       0.8519,
       1.0048
-    ]
+    ],
+    "ilc": 709.3,
+    "aph_tod": 571.5,
+    "aph_tot": 1.0498,
+    "tmf_inshore": 0.8459,
+    "tmf_offshore": 0.9603
   },
   "boat": {
     "builder": "MikaTalo /Tommi Lavonen",
@@ -33,7 +38,10 @@
       "crew": 560.0,
       "wetted_surface": 21.05
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.825,
+    "division": "C",
+    "issue_date": "2026-07-23T04:30:06.323Z"
   },
   "vpp": {
     "angles": [

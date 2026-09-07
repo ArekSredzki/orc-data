@@ -14,7 +14,12 @@
       0.5951,
       0.8171,
       0.9438
-    ]
+    ],
+    "ilc": 739.5,
+    "aph_tod": 605.4,
+    "aph_tot": 0.9911,
+    "tmf_inshore": 0.8113,
+    "tmf_offshore": 0.9117
   },
   "boat": {
     "builder": "Cantiere CN71",
@@ -33,7 +38,10 @@
       "crew": 480.0,
       "wetted_surface": 25.06
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.095,
+    "division": "C",
+    "issue_date": "2026-02-11T12:49:37.565Z"
   },
   "vpp": {
     "angles": [

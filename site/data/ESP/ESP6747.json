@@ -14,7 +14,12 @@
       0.6645,
       0.9031,
       1.0343
-    ]
+    ],
+    "ilc": 669.6,
+    "aph_tod": 546.3,
+    "aph_tot": 1.0982,
+    "tmf_inshore": 0.8961,
+    "tmf_offshore": 1.0098
   },
   "boat": {
     "builder": "QBOATS",
@@ -33,7 +38,10 @@
       "crew": 610.0,
       "wetted_surface": 26.32
     },
-    "stability_index": 122.8
+    "stability_index": 122.8,
+    "cdl": 9.436,
+    "division": "R",
+    "issue_date": "2026-02-21T11:59:19.949Z"
   },
   "vpp": {
     "angles": [

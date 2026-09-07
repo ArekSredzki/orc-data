@@ -14,7 +14,12 @@
       0.6102,
       0.8127,
       0.9234
-    ]
+    ],
+    "ilc": 743.8,
+    "aph_tod": 604.0,
+    "aph_tot": 0.9933,
+    "tmf_inshore": 0.8067,
+    "tmf_offshore": 0.9156
   },
   "boat": {
     "builder": "Yacht Service",
@@ -33,7 +38,10 @@
       "crew": 406.0,
       "wetted_surface": 12.93
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.175,
+    "division": "S",
+    "issue_date": "2026-02-06T09:05:43.333Z"
   },
   "vpp": {
     "angles": [

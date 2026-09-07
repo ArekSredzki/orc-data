@@ -14,7 +14,12 @@
       0.9247,
       1.2235,
       1.4542
-    ]
+    ],
+    "ilc": 490.3,
+    "aph_tod": 389.8,
+    "aph_tot": 1.5391,
+    "tmf_inshore": 1.2237,
+    "tmf_offshore": 1.4073
   },
   "boat": {
     "builder": "HUTTON",
@@ -33,7 +38,10 @@
       "crew": 1188.0,
       "wetted_surface": 43.82
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 15.629,
+    "division": "R",
+    "issue_date": "2026-06-15T20:00:53.617Z"
   },
   "vpp": {
     "angles": [

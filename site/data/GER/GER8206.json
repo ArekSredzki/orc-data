@@ -14,7 +14,12 @@
       0.7755,
       1.0385,
       1.176
-    ]
+    ],
+    "ilc": 582.4,
+    "aph_tod": 468.0,
+    "aph_tot": 1.2821,
+    "tmf_inshore": 1.0301,
+    "tmf_offshore": 1.1754
   },
   "boat": {
     "builder": "SERIGI",
@@ -33,7 +38,10 @@
       "crew": 600.0,
       "wetted_surface": 52.77
     },
-    "stability_index": 129.3
+    "stability_index": 129.3,
+    "cdl": 12.892,
+    "division": "C",
+    "issue_date": "2026-03-17T19:27:18.605Z"
   },
   "vpp": {
     "angles": [

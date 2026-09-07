@@ -7,12 +7,13 @@ import BoatSelect from './components/BoatSelect.svelte';
 import Compare from './components/Compare.svelte';
 import CustomPlot from './components/CustomPlot.svelte';
 import Extremes from './components/Extremes.svelte';
+import Glossary from './components/Glossary.svelte';
 import Table from './components/Table.svelte';
 export let route = 'extremes';
 export let sailnumber = null;
 
 // A route is custom if it starts with one of the route prefixes.
-const prefixes = ['extremes', 'customplot', 'compare', 'type', 'random'];
+const prefixes = ['extremes', 'customplot', 'compare', 'type', 'random', 'glossary'];
 const isCustomRoute = (value) => prefixes.some((item) => value.startsWith(item));
 
 function onhashchange() {
@@ -66,6 +67,7 @@ $: if (route == 'random') {
                 {/if}
                 <li class="nav-item"><a href="#compare-{sailnumber || ''}" class="nav-link">Compare boats</a></li>
                 <li class="nav-item"><a href="#customplot" class="nav-link">Plot custom CSV</a></li>
+                <li class="nav-item"><a href="#glossary" class="nav-link">Glossary</a></li>
             </ul>
 
             <div class="d-flex navbar-text">
@@ -81,6 +83,8 @@ $: if (route == 'random') {
     <Extremes />
 {:else if route == 'customplot'}
     <CustomPlot />
+{:else if route.startsWith('glossary')}
+    <Glossary />
 {:else if route.startsWith('compare')}
     <Compare />
 {:else if route.startsWith('type')}

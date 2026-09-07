@@ -14,7 +14,12 @@
       0.8183,
       1.0917,
       1.2621
-    ]
+    ],
+    "ilc": 552.5,
+    "aph_tod": 444.3,
+    "aph_tot": 1.3504,
+    "tmf_inshore": 1.0859,
+    "tmf_offshore": 1.2398
   },
   "boat": {
     "builder": "GOETZ",
@@ -33,7 +38,10 @@
       "crew": 720.0,
       "wetted_surface": 40.2
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 12.947,
+    "division": "R",
+    "issue_date": "2026-07-02T20:25:39.931Z"
   },
   "vpp": {
     "angles": [

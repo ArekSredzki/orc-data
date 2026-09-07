@@ -14,7 +14,12 @@
       0.6607,
       0.8535,
       1.0223
-    ]
+    ],
+    "ilc": 700.4,
+    "aph_tod": 550.8,
+    "aph_tot": 1.0894,
+    "tmf_inshore": 0.8566,
+    "tmf_offshore": 0.997
   },
   "boat": {
     "builder": "FS COMPOSITES",
@@ -33,7 +38,10 @@
       "crew": 337.0,
       "wetted_surface": 12.04
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.507,
+    "division": "S",
+    "issue_date": "2026-02-21T11:53:57.515Z"
   },
   "vpp": {
     "angles": [

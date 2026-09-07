@@ -14,7 +14,12 @@
       0.5402,
       0.749,
       0.894
-    ]
+    ],
+    "ilc": 803.6,
+    "aph_tod": 657.3,
+    "aph_tot": 0.9128,
+    "tmf_inshore": 0.7466,
+    "tmf_offshore": 0.8389
   },
   "boat": {
     "builder": "CARABELAS",
@@ -33,7 +38,10 @@
       "crew": 476.0,
       "wetted_surface": 20.94
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.96,
+    "division": "C",
+    "issue_date": "2026-02-21T20:22:56.920Z"
   },
   "vpp": {
     "angles": [

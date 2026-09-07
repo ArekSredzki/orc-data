@@ -14,7 +14,12 @@
       0.9158,
       1.224,
       1.4476
-    ]
+    ],
+    "ilc": 491.1,
+    "aph_tod": 390.7,
+    "aph_tot": 1.5358,
+    "tmf_inshore": 1.2217,
+    "tmf_offshore": 1.4042
   },
   "boat": {
     "builder": "Atabay",
@@ -33,7 +38,10 @@
       "crew": 1370.0,
       "wetted_surface": 50.44
     },
-    "stability_index": 145.2
+    "stability_index": 145.2,
+    "cdl": 16.109,
+    "division": "R",
+    "issue_date": "2026-07-15T18:38:50.053Z"
   },
   "vpp": {
     "angles": [

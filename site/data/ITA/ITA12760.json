@@ -14,7 +14,12 @@
       0.6113,
       0.845,
       0.9961
-    ]
+    ],
+    "ilc": 713.5,
+    "aph_tod": 578.1,
+    "aph_tot": 1.0378,
+    "tmf_inshore": 0.8409,
+    "tmf_offshore": 0.9509
   },
   "boat": {
     "builder": "Larsmo",
@@ -33,7 +38,10 @@
       "crew": 640.0,
       "wetted_surface": 35.34
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.134,
+    "division": "C",
+    "issue_date": "2026-06-24T12:02:35.681Z"
   },
   "vpp": {
     "angles": [

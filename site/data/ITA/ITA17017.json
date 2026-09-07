@@ -14,7 +14,12 @@
       0.8732,
       1.1733,
       1.3444
-    ]
+    ],
+    "ilc": 515.0,
+    "aph_tod": 413.4,
+    "aph_tot": 1.4513,
+    "tmf_inshore": 1.1651,
+    "tmf_offshore": 1.3293
   },
   "boat": {
     "builder": "Mylius Yachts",
@@ -33,7 +38,10 @@
       "crew": 1000.0,
       "wetted_surface": 62.37
     },
-    "stability_index": 138.6
+    "stability_index": 138.6,
+    "cdl": 15.94,
+    "division": "C",
+    "issue_date": "2026-04-07T13:30:55.105Z"
   },
   "vpp": {
     "angles": [

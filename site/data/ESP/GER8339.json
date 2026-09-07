@@ -14,7 +14,12 @@
       0.6372,
       0.8899,
       1.0475
-    ]
+    ],
+    "ilc": 678.5,
+    "aph_tod": 546.7,
+    "aph_tot": 1.0975,
+    "tmf_inshore": 0.8843,
+    "tmf_offshore": 1.0049
   },
   "boat": {
     "builder": "COMFORT BATAR",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 35.15
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.058,
+    "division": "C",
+    "issue_date": "2026-03-06T07:49:46.529Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7196,
       0.9271,
       1.0618
-    ]
+    ],
+    "ilc": 648.9,
+    "aph_tod": 526.5,
+    "aph_tot": 1.1396,
+    "tmf_inshore": 0.9246,
+    "tmf_offshore": 1.0507
   },
   "boat": {
     "builder": "Comuzzi Yachts",
@@ -33,7 +38,10 @@
       "crew": 430.0,
       "wetted_surface": 18.96
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.976,
+    "division": "R",
+    "issue_date": "2026-03-18T12:34:00.371Z"
   },
   "vpp": {
     "angles": [

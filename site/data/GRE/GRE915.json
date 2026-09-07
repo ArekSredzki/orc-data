@@ -14,7 +14,12 @@
       0.511,
       0.6968,
       0.7995
-    ]
+    ],
+    "ilc": 867.2,
+    "aph_tod": 711.9,
+    "aph_tot": 0.8428,
+    "tmf_inshore": 0.6918,
+    "tmf_offshore": 0.7766
   },
   "boat": {
     "builder": "KATSOULIS",
@@ -33,7 +38,10 @@
       "crew": 301.0,
       "wetted_surface": 11.82
     },
-    "stability_index": 98.3
+    "stability_index": 98.3,
+    "cdl": 5.687,
+    "division": "C",
+    "issue_date": "2026-06-11T13:11:31.061Z"
   },
   "vpp": {
     "angles": [

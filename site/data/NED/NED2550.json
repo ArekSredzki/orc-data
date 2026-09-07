@@ -14,7 +14,12 @@
       0.5289,
       0.7453,
       0.8843
-    ]
+    ],
+    "ilc": 809.8,
+    "aph_tod": 648.7,
+    "aph_tot": 0.9249,
+    "tmf_inshore": 0.7409,
+    "tmf_offshore": 0.8452
   },
   "boat": {
     "builder": "POLYMARIN",
@@ -33,7 +38,10 @@
       "crew": 587.0,
       "wetted_surface": 25.53
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.442,
+    "division": "C",
+    "issue_date": "2026-04-01T19:43:36.289Z"
   },
   "vpp": {
     "angles": [

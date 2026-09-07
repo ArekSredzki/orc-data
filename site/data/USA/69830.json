@@ -14,7 +14,12 @@
       0.8698,
       1.1901,
       1.4035
-    ]
+    ],
+    "ilc": 506.6,
+    "aph_tod": 399.9,
+    "aph_tot": 1.5004,
+    "tmf_inshore": 1.1843,
+    "tmf_offshore": 1.3666
   },
   "boat": {
     "builder": "Schooner Creek Boatworks",
@@ -33,7 +38,10 @@
       "crew": 1765.0,
       "wetted_surface": 57.03
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 16.976,
+    "division": "R",
+    "issue_date": "2026-05-12T16:53:34.212Z"
   },
   "vpp": {
     "angles": [

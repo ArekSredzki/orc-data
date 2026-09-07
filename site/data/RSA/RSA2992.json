@@ -14,7 +14,12 @@
       0.4655,
       0.6491,
       0.7461
-    ]
+    ],
+    "ilc": 933.0,
+    "aph_tod": 752.1,
+    "aph_tot": 0.7978,
+    "tmf_inshore": 0.6431,
+    "tmf_offshore": 0.7316
   },
   "boat": {
     "builder": "Wayne Robertson",
@@ -33,7 +38,10 @@
       "crew": 160.0,
       "wetted_surface": 10.06
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 4.924,
+    "division": "R",
+    "issue_date": "2026-03-05T11:28:03.600Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7193,
       0.9624,
       1.0917
-    ]
+    ],
+    "ilc": 628.3,
+    "aph_tod": 511.9,
+    "aph_tot": 1.1721,
+    "tmf_inshore": 0.9549,
+    "tmf_offshore": 1.0788
   },
   "boat": {
     "builder": "Dolphin",
@@ -33,7 +38,10 @@
       "crew": 750.0,
       "wetted_surface": 32.01
     },
-    "stability_index": 113.6
+    "stability_index": 113.6,
+    "cdl": 10.597,
+    "division": "C",
+    "issue_date": "2026-03-12T12:03:08.408Z"
   },
   "vpp": {
     "angles": [

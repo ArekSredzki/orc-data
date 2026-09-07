@@ -14,7 +14,12 @@
       0.6824,
       0.9232,
       1.0452
-    ]
+    ],
+    "ilc": 655.9,
+    "aph_tod": 533.2,
+    "aph_tot": 1.1254,
+    "tmf_inshore": 0.9148,
+    "tmf_offshore": 1.0357
   },
   "boat": {
     "builder": "saffier",
@@ -33,7 +38,10 @@
       "crew": 730.0,
       "wetted_surface": 27.37
     },
-    "stability_index": 131.6
+    "stability_index": 131.6,
+    "cdl": 9.601,
+    "division": "C",
+    "issue_date": "2026-05-06T13:17:13.711Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5503,
       0.7433,
       0.8434
-    ]
+    ],
+    "ilc": 813.9,
+    "aph_tod": 671.5,
+    "aph_tot": 0.8936,
+    "tmf_inshore": 0.7372,
+    "tmf_offshore": 0.8245
   },
   "boat": {
     "builder": "STOCZNIA CONRADA",
@@ -33,7 +38,10 @@
       "crew": 390.0,
       "wetted_surface": 12.68
     },
-    "stability_index": 93.0
+    "stability_index": 93.0,
+    "cdl": 6.142,
+    "division": "R",
+    "issue_date": "2026-06-05T10:43:58.353Z"
   },
   "vpp": {
     "angles": [

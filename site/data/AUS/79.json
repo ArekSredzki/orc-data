@@ -14,7 +14,12 @@
       0.7509,
       0.9793,
       1.1567
-    ]
+    ],
+    "ilc": 612.3,
+    "aph_tod": 489.5,
+    "aph_tot": 1.2258,
+    "tmf_inshore": 0.98,
+    "tmf_offshore": 1.125
   },
   "boat": {
     "builder": "Carbotech",
@@ -33,7 +38,10 @@
       "crew": 572.0,
       "wetted_surface": 20.55
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.56,
+    "division": "R",
+    "issue_date": "2026-08-22T03:06:55.344Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6568,
       0.862,
       0.9687
-    ]
+    ],
+    "ilc": 700.9,
+    "aph_tod": 578.5,
+    "aph_tot": 1.0371,
+    "tmf_inshore": 0.856,
+    "tmf_offshore": 0.9581
   },
   "boat": {
     "builder": "Cantieri Navali 71",
@@ -33,7 +38,10 @@
       "crew": 645.0,
       "wetted_surface": 24.83
     },
-    "stability_index": 130.8
+    "stability_index": 130.8,
+    "cdl": 8.354,
+    "division": "C",
+    "issue_date": "2026-04-23T09:29:17.275Z"
   },
   "vpp": {
     "angles": [

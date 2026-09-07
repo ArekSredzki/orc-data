@@ -14,7 +14,12 @@
       0.6926,
       0.9496,
       1.1201
-    ]
+    ],
+    "ilc": 634.5,
+    "aph_tod": 508.1,
+    "aph_tot": 1.1808,
+    "tmf_inshore": 0.9457,
+    "tmf_offshore": 1.0789
   },
   "boat": {
     "builder": "Vitters",
@@ -33,7 +38,10 @@
       "crew": 1138.0,
       "wetted_surface": 64.02
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 12.166,
+    "division": "C",
+    "issue_date": "2026-04-10T09:55:46.382Z"
   },
   "vpp": {
     "angles": [

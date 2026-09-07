@@ -14,7 +14,12 @@
       0.7191,
       0.9945,
       1.1529
-    ]
+    ],
+    "ilc": 608.1,
+    "aph_tod": 489.8,
+    "aph_tot": 1.225,
+    "tmf_inshore": 0.9866,
+    "tmf_offshore": 1.1204
   },
   "boat": {
     "builder": "Sangermani",
@@ -33,7 +38,10 @@
       "crew": 900.0,
       "wetted_surface": 51.85
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 12.594,
+    "division": "C",
+    "issue_date": "2026-03-05T14:21:26.647Z"
   },
   "vpp": {
     "angles": [

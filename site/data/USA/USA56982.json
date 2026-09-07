@@ -14,7 +14,12 @@
       0.6866,
       0.881,
       1.0261
-    ]
+    ],
+    "ilc": 680.9,
+    "aph_tod": 547.4,
+    "aph_tot": 1.0961,
+    "tmf_inshore": 0.8812,
+    "tmf_offshore": 1.0094
   },
   "boat": {
     "builder": "Left Coast Dev",
@@ -33,7 +38,10 @@
       "crew": 425.0,
       "wetted_surface": 13.4
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.677,
+    "division": "S",
+    "issue_date": "2026-07-13T18:41:56.302Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7165,
       0.9388,
       1.0482
-    ]
+    ],
+    "ilc": 644.4,
+    "aph_tod": 524.3,
+    "aph_tot": 1.1445,
+    "tmf_inshore": 0.9311,
+    "tmf_offshore": 1.0546
   },
   "boat": {
     "builder": "Finn Yacht",
@@ -33,7 +38,10 @@
       "crew": 540.0,
       "wetted_surface": 26.96
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.691,
+    "division": "C",
+    "issue_date": "2026-04-03T23:12:51.152Z"
   },
   "vpp": {
     "angles": [

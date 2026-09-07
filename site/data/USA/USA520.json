@@ -14,7 +14,12 @@
       0.936,
       1.243,
       1.4884
-    ]
+    ],
+    "ilc": 482.3,
+    "aph_tod": 380.7,
+    "aph_tot": 1.576,
+    "tmf_inshore": 1.2442,
+    "tmf_offshore": 1.4381
   },
   "boat": {
     "builder": "Premier Composites",
@@ -33,7 +38,10 @@
       "crew": 1285.0,
       "wetted_surface": 44.81
     },
-    "stability_index": 142.9
+    "stability_index": 142.9,
+    "cdl": 16.028,
+    "division": "R",
+    "issue_date": "2026-04-28T19:40:21.257Z"
   },
   "vpp": {
     "angles": [

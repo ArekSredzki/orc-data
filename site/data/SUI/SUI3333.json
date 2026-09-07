@@ -14,7 +14,12 @@
       0.6645,
       0.8533,
       0.9431
-    ]
+    ],
+    "ilc": 708.2,
+    "aph_tod": 582.3,
+    "aph_tot": 1.0304,
+    "tmf_inshore": 0.8472,
+    "tmf_offshore": 0.9527
   },
   "boat": {
     "builder": "MICHELSEN",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 19.44
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.87,
+    "division": "C",
+    "issue_date": "2026-03-28T16:30:08.304Z"
   },
   "vpp": {
     "angles": [

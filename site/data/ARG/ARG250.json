@@ -14,7 +14,12 @@
       0.5669,
       0.751,
       0.8514
-    ]
+    ],
+    "ilc": 804.0,
+    "aph_tod": 650.3,
+    "aph_tot": 0.9227,
+    "tmf_inshore": 0.7463,
+    "tmf_offshore": 0.8474
   },
   "boat": {
     "builder": "BONACOURE",
@@ -33,7 +38,10 @@
       "crew": 410.0,
       "wetted_surface": 22.99
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.583,
+    "division": "C",
+    "issue_date": "2026-04-24T10:10:52.634Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5448,
       0.7398,
       0.8277
-    ]
+    ],
+    "ilc": 820.1,
+    "aph_tod": 659.0,
+    "aph_tot": 0.9105,
+    "tmf_inshore": 0.7317,
+    "tmf_offshore": 0.8355
   },
   "boat": {
     "builder": "Beneteau",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 18.4
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.579,
+    "division": "C",
+    "issue_date": "2026-02-14T17:33:19.687Z"
   },
   "vpp": {
     "angles": [

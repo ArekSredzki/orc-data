@@ -14,7 +14,12 @@
       0.7098,
       0.9495,
       1.0783
-    ]
+    ],
+    "ilc": 636.7,
+    "aph_tod": 519.2,
+    "aph_tot": 1.1556,
+    "tmf_inshore": 0.9423,
+    "tmf_offshore": 1.0634
   },
   "boat": {
     "builder": "C&C Tartan Yachts",
@@ -33,7 +38,10 @@
       "crew": 815.0,
       "wetted_surface": 28.5
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.127,
+    "division": "C",
+    "issue_date": "2026-02-28T15:07:21.177Z"
   },
   "vpp": {
     "angles": [

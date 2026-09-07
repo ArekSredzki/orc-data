@@ -14,7 +14,12 @@
       0.6844,
       0.9031,
       1.0256
-    ]
+    ],
+    "ilc": 668.3,
+    "aph_tod": 544.6,
+    "aph_tot": 1.1018,
+    "tmf_inshore": 0.8977,
+    "tmf_offshore": 1.0137
   },
   "boat": {
     "builder": "Morri&Para",
@@ -33,7 +38,10 @@
       "crew": 548.0,
       "wetted_surface": 26.07
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.014,
+    "division": "R",
+    "issue_date": "2026-03-06T20:21:24.727Z"
   },
   "vpp": {
     "angles": [

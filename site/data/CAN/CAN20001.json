@@ -14,7 +14,12 @@
       0.6727,
       0.8814,
       1.0155
-    ]
+    ],
+    "ilc": 683.5,
+    "aph_tod": 547.2,
+    "aph_tot": 1.0966,
+    "tmf_inshore": 0.8778,
+    "tmf_offshore": 1.0071
   },
   "boat": {
     "builder": "Casey Yacht Enterp",
@@ -33,7 +38,10 @@
       "crew": 531.0,
       "wetted_surface": 16.58
     },
-    "stability_index": 94.0
+    "stability_index": 94.0,
+    "cdl": 8.28,
+    "division": "S",
+    "issue_date": "2026-08-12T17:24:19.206Z"
   },
   "vpp": {
     "angles": [

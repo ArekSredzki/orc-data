@@ -14,7 +14,12 @@
       0.6291,
       0.8093,
       0.9378
-    ]
+    ],
+    "ilc": 742.4,
+    "aph_tod": 592.0,
+    "aph_tot": 1.0136,
+    "tmf_inshore": 0.8081,
+    "tmf_offshore": 0.9316
   },
   "boat": {
     "builder": "RS Sailing",
@@ -33,7 +38,10 @@
       "crew": 303.0,
       "wetted_surface": 9.77
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.596,
+    "division": "S",
+    "issue_date": "2026-06-18T11:05:04.995Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7351,
       0.9838,
       1.115
-    ]
+    ],
+    "ilc": 614.9,
+    "aph_tod": 497.1,
+    "aph_tot": 1.2069,
+    "tmf_inshore": 0.9758,
+    "tmf_offshore": 1.1094
   },
   "boat": {
     "builder": "Innovative Composi",
@@ -33,7 +38,10 @@
       "crew": 790.0,
       "wetted_surface": 33.02
     },
-    "stability_index": 115.2
+    "stability_index": 115.2,
+    "cdl": 10.757,
+    "division": "R",
+    "issue_date": "2026-08-27T16:26:11.142Z"
   },
   "vpp": {
     "angles": [

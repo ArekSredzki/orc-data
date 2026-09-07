@@ -14,7 +14,12 @@
       0.6837,
       0.9331,
       1.0802
-    ]
+    ],
+    "ilc": 647.3,
+    "aph_tod": 529.6,
+    "aph_tot": 1.133,
+    "tmf_inshore": 0.927,
+    "tmf_offshore": 1.0419
   },
   "boat": {
     "builder": "SEA QUEST YACHTS",
@@ -33,7 +38,10 @@
       "crew": 680.0,
       "wetted_surface": 31.47
     },
-    "stability_index": 129.2
+    "stability_index": 129.2,
+    "cdl": 10.349,
+    "division": "C",
+    "issue_date": "2026-03-10T18:48:36.682Z"
   },
   "vpp": {
     "angles": [

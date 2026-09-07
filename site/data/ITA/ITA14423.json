@@ -14,7 +14,12 @@
       0.6963,
       0.9632,
       1.1221
-    ]
+    ],
+    "ilc": 627.3,
+    "aph_tod": 507.6,
+    "aph_tot": 1.1819,
+    "tmf_inshore": 0.9565,
+    "tmf_offshore": 1.0831
   },
   "boat": {
     "builder": "Rimar",
@@ -33,7 +38,10 @@
       "crew": 820.0,
       "wetted_surface": 37.94
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.33,
+    "division": "C",
+    "issue_date": "2026-02-17T15:57:27.412Z"
   },
   "vpp": {
     "angles": [

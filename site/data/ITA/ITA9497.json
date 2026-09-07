@@ -14,7 +14,12 @@
       0.5609,
       0.7418,
       0.8268
-    ]
+    ],
+    "ilc": 816.2,
+    "aph_tod": 665.2,
+    "aph_tot": 0.902,
+    "tmf_inshore": 0.7351,
+    "tmf_offshore": 0.8319
   },
   "boat": {
     "builder": "Negri Nautica",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 10.14
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.82,
+    "division": "S",
+    "issue_date": "2026-04-02T12:58:16.122Z"
   },
   "vpp": {
     "angles": [

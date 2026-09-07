@@ -14,7 +14,12 @@
       0.7074,
       0.9541,
       1.0812
-    ]
+    ],
+    "ilc": 634.5,
+    "aph_tod": 512.4,
+    "aph_tot": 1.171,
+    "tmf_inshore": 0.9456,
+    "tmf_offshore": 1.0753
   },
   "boat": {
     "builder": "Schooner Creek BW",
@@ -33,7 +38,10 @@
       "crew": 510.0,
       "wetted_surface": 31.89
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.675,
+    "division": "C",
+    "issue_date": "2026-03-10T23:54:53.594Z"
   },
   "vpp": {
     "angles": [

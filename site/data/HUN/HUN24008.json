@@ -14,7 +14,12 @@
       0.6993,
       0.8947,
       1.067
-    ]
+    ],
+    "ilc": 667.5,
+    "aph_tod": 529.3,
+    "aph_tot": 1.1335,
+    "tmf_inshore": 0.8988,
+    "tmf_offshore": 1.0382
   },
   "boat": {
     "builder": "Flaar Performance Sailing",
@@ -33,7 +38,10 @@
       "crew": 372.0,
       "wetted_surface": 12.43
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.592,
+    "division": "S",
+    "issue_date": "2026-05-01T14:04:55.377Z"
   },
   "vpp": {
     "angles": [

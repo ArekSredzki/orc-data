@@ -14,7 +14,12 @@
       0.5509,
       0.7519,
       0.8578
-    ]
+    ],
+    "ilc": 804.9,
+    "aph_tod": 646.9,
+    "aph_tot": 0.9275,
+    "tmf_inshore": 0.7455,
+    "tmf_offshore": 0.8507
   },
   "boat": {
     "builder": "Neva Yacth LTD Co.",
@@ -33,7 +38,10 @@
       "crew": 340.0,
       "wetted_surface": 16.69
     },
-    "stability_index": 106.9
+    "stability_index": 106.9,
+    "cdl": 6.841,
+    "division": "C",
+    "issue_date": "2026-02-03T16:28:10.080Z"
   },
   "vpp": {
     "angles": [

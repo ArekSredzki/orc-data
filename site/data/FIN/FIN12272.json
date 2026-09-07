@@ -14,7 +14,12 @@
       0.6436,
       0.8668,
       0.9899
-    ]
+    ],
+    "ilc": 697.1,
+    "aph_tod": 572.2,
+    "aph_tot": 1.0485,
+    "tmf_inshore": 0.8607,
+    "tmf_offshore": 0.9658
   },
   "boat": {
     "builder": "Maestro Y.",
@@ -33,7 +38,10 @@
       "crew": 700.0,
       "wetted_surface": 30.01
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.951,
+    "division": "C",
+    "issue_date": "2026-08-08T07:36:46.609Z"
   },
   "vpp": {
     "angles": [

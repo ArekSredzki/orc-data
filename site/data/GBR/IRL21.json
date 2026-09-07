@@ -14,7 +14,12 @@
       0.5353,
       0.7179,
       0.8086
-    ]
+    ],
+    "ilc": 842.8,
+    "aph_tod": 695.4,
+    "aph_tot": 0.8628,
+    "tmf_inshore": 0.7119,
+    "tmf_offshore": 0.7972
   },
   "boat": {
     "builder": "C&S Boyd",
@@ -33,7 +38,10 @@
       "crew": 230.0,
       "wetted_surface": 10.83
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.619,
+    "division": "C",
+    "issue_date": "2026-02-03T20:15:29.693Z"
   },
   "vpp": {
     "angles": [

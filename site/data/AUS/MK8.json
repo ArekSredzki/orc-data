@@ -14,7 +14,12 @@
       0.6612,
       0.8968,
       1.0329
-    ]
+    ],
+    "ilc": 673.3,
+    "aph_tod": 551.9,
+    "aph_tot": 1.0871,
+    "tmf_inshore": 0.8911,
+    "tmf_offshore": 1.0005
   },
   "boat": {
     "builder": "Nautor Swan",
@@ -33,7 +38,10 @@
       "crew": 718.0,
       "wetted_surface": 33.59
     },
-    "stability_index": 119.6
+    "stability_index": 119.6,
+    "cdl": 9.723,
+    "division": "C",
+    "issue_date": "2026-05-21T22:20:58.684Z"
   },
   "vpp": {
     "angles": [

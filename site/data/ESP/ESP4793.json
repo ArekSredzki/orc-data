@@ -14,7 +14,12 @@
       0.8496,
       1.105,
       1.2695
-    ]
+    ],
+    "ilc": 544.7,
+    "aph_tod": 440.0,
+    "aph_tot": 1.3637,
+    "tmf_inshore": 1.1016,
+    "tmf_offshore": 1.2538
   },
   "boat": {
     "builder": "BRENTA",
@@ -33,7 +38,10 @@
       "crew": 780.0,
       "wetted_surface": 43.82
     },
-    "stability_index": 130.7
+    "stability_index": 130.7,
+    "cdl": 13.181,
+    "division": "R",
+    "issue_date": "2026-05-27T21:59:21.651Z"
   },
   "vpp": {
     "angles": [

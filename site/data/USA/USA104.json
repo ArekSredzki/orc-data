@@ -14,7 +14,12 @@
       0.6555,
       0.8985,
       1.0322
-    ]
+    ],
+    "ilc": 673.4,
+    "aph_tod": 544.4,
+    "aph_tot": 1.1021,
+    "tmf_inshore": 0.891,
+    "tmf_offshore": 1.0122
   },
   "boat": {
     "builder": "TILLOTSON-PEARSON",
@@ -33,7 +38,10 @@
       "crew": 550.0,
       "wetted_surface": 24.46
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.338,
+    "division": "R",
+    "issue_date": "2026-07-01T20:07:42.231Z"
   },
   "vpp": {
     "angles": [

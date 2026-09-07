@@ -14,7 +14,12 @@
       0.5664,
       0.7676,
       0.8661
-    ]
+    ],
+    "ilc": 789.1,
+    "aph_tod": 648.0,
+    "aph_tot": 0.926,
+    "tmf_inshore": 0.7603,
+    "tmf_offshore": 0.8536
   },
   "boat": {
     "builder": "Albin Marin AB",
@@ -33,7 +38,10 @@
       "crew": 385.0,
       "wetted_surface": 13.93
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.593,
+    "division": "S",
+    "issue_date": "2026-04-21T07:33:04.764Z"
   },
   "vpp": {
     "angles": [

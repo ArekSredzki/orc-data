@@ -14,7 +14,12 @@
       0.7218,
       0.9869,
       1.1364
-    ]
+    ],
+    "ilc": 612.5,
+    "aph_tod": 494.8,
+    "aph_tot": 1.2127,
+    "tmf_inshore": 0.9796,
+    "tmf_offshore": 1.1122
   },
   "boat": {
     "builder": "CANTIERE SE.RI.GI.",
@@ -33,7 +38,10 @@
       "crew": 920.0,
       "wetted_surface": 44.66
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 12.022,
+    "division": "C",
+    "issue_date": "2026-04-07T07:49:28.989Z"
   },
   "vpp": {
     "angles": [

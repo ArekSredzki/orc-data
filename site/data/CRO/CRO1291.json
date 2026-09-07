@@ -14,7 +14,12 @@
       0.664,
       0.9504,
       1.1471
-    ]
+    ],
+    "ilc": 634.6,
+    "aph_tod": 509.3,
+    "aph_tot": 1.1781,
+    "tmf_inshore": 0.9454,
+    "tmf_offshore": 1.0748
   },
   "boat": {
     "builder": "Del Pardo",
@@ -33,7 +38,10 @@
       "crew": 1120.0,
       "wetted_surface": 46.38
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 12.02,
+    "division": "C",
+    "issue_date": "2026-03-25T11:14:40.812Z"
   },
   "vpp": {
     "angles": [

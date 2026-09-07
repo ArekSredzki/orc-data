@@ -14,7 +14,12 @@
       0.8495,
       1.1677,
       1.3795
-    ]
+    ],
+    "ilc": 516.2,
+    "aph_tod": 412.3,
+    "aph_tot": 1.4554,
+    "tmf_inshore": 1.1624,
+    "tmf_offshore": 1.3291
   },
   "boat": {
     "builder": "Coop.N. Fano",
@@ -33,7 +38,10 @@
       "crew": 800.0,
       "wetted_surface": 57.59
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 17.252,
+    "division": "R",
+    "issue_date": "2026-02-16T15:16:45.111Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6359,
       0.8542,
       0.9729
-    ]
+    ],
+    "ilc": 707.7,
+    "aph_tod": 579.4,
+    "aph_tot": 1.0356,
+    "tmf_inshore": 0.8479,
+    "tmf_offshore": 0.9539
   },
   "boat": {
     "builder": "J.BOATS INTERNATIO",
@@ -33,7 +38,10 @@
       "crew": 445.0,
       "wetted_surface": 19.08
     },
-    "stability_index": 108.6
+    "stability_index": 108.6,
+    "cdl": 8.123,
+    "division": "R",
+    "issue_date": "2026-03-25T21:27:43.217Z"
   },
   "vpp": {
     "angles": [

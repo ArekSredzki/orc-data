@@ -14,7 +14,12 @@
       0.5388,
       0.7376,
       0.8589
-    ]
+    ],
+    "ilc": 818.1,
+    "aph_tod": 653.4,
+    "aph_tot": 0.9182,
+    "tmf_inshore": 0.7334,
+    "tmf_offshore": 0.8399
   },
   "boat": {
     "builder": "VINDO SWEDEN AB",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 26.3
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.16,
+    "division": "C",
+    "issue_date": "2026-04-05T18:33:31.110Z"
   },
   "vpp": {
     "angles": [

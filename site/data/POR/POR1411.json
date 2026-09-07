@@ -14,7 +14,12 @@
       0.5521,
       0.7543,
       0.8649
-    ]
+    ],
+    "ilc": 801.5,
+    "aph_tod": 654.8,
+    "aph_tot": 0.9163,
+    "tmf_inshore": 0.7486,
+    "tmf_offshore": 0.8435
   },
   "boat": {
     "builder": "Group Finot",
@@ -33,7 +38,10 @@
       "crew": 434.0,
       "wetted_surface": 16.03
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.654,
+    "division": "C",
+    "issue_date": "2026-06-23T16:22:01.387Z"
   },
   "vpp": {
     "angles": [

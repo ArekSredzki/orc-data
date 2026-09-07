@@ -14,7 +14,12 @@
       0.9251,
       1.2271,
       1.4593
-    ]
+    ],
+    "ilc": 489.0,
+    "aph_tod": 389.0,
+    "aph_tot": 1.5423,
+    "tmf_inshore": 1.227,
+    "tmf_offshore": 1.4102
   },
   "boat": {
     "builder": "Hawkes Marine",
@@ -33,7 +38,10 @@
       "crew": 1315.0,
       "wetted_surface": 44.8
     },
-    "stability_index": 138.0
+    "stability_index": 138.0,
+    "cdl": 15.745,
+    "division": "R",
+    "issue_date": "2026-08-02T13:15:56.039Z"
   },
   "vpp": {
     "angles": [

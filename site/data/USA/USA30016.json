@@ -14,7 +14,12 @@
       0.7385,
       0.9513,
       1.1092
-    ]
+    ],
+    "ilc": 630.7,
+    "aph_tod": 511.0,
+    "aph_tot": 1.1743,
+    "tmf_inshore": 0.9513,
+    "tmf_offshore": 1.0813
   },
   "boat": {
     "builder": "C&C Yachts",
@@ -33,7 +38,10 @@
       "crew": 554.0,
       "wetted_surface": 19.06
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.145,
+    "division": "R",
+    "issue_date": "2026-04-30T16:06:17.106Z"
   },
   "vpp": {
     "angles": [

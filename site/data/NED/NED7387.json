@@ -14,7 +14,12 @@
       0.6452,
       0.8824,
       1.0131
-    ]
+    ],
+    "ilc": 685.4,
+    "aph_tod": 559.6,
+    "aph_tot": 1.0721,
+    "tmf_inshore": 0.8755,
+    "tmf_offshore": 0.986
   },
   "boat": {
     "builder": "ELAN",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 28.29
     },
-    "stability_index": 111.5
+    "stability_index": 111.5,
+    "cdl": 9.263,
+    "division": "C",
+    "issue_date": "2026-04-01T19:52:08.588Z"
   },
   "vpp": {
     "angles": [

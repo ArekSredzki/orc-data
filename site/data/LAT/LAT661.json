@@ -14,7 +14,12 @@
       0.5153,
       0.7114,
       0.8362
-    ]
+    ],
+    "ilc": 847.7,
+    "aph_tod": 696.0,
+    "aph_tot": 0.8621,
+    "tmf_inshore": 0.7078,
+    "tmf_offshore": 0.7931
   },
   "boat": {
     "builder": "Botnia Yachts",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 10.38
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.682,
+    "division": "C",
+    "issue_date": "2026-05-29T11:52:11.436Z"
   },
   "vpp": {
     "angles": [

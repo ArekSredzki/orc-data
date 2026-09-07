@@ -14,7 +14,12 @@
       0.5258,
       0.7317,
       0.8624
-    ]
+    ],
+    "ilc": 824.5,
+    "aph_tod": 665.6,
+    "aph_tot": 0.9015,
+    "tmf_inshore": 0.7277,
+    "tmf_offshore": 0.8256
   },
   "boat": {
     "builder": "Jerry Hendrey - Kirribilli",
@@ -33,7 +38,10 @@
       "crew": 471.0,
       "wetted_surface": 21.0
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.696,
+    "division": "C",
+    "issue_date": "2026-07-20T03:15:04.080Z"
   },
   "vpp": {
     "angles": [

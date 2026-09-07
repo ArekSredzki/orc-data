@@ -14,7 +14,12 @@
       0.5634,
       0.7679,
       0.8936
-    ]
+    ],
+    "ilc": 785.3,
+    "aph_tod": 638.5,
+    "aph_tot": 0.9397,
+    "tmf_inshore": 0.764,
+    "tmf_offshore": 0.8622
   },
   "boat": {
     "builder": "A. Sulkowsky",
@@ -33,7 +38,10 @@
       "crew": 517.0,
       "wetted_surface": 19.14
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.122,
+    "division": "C",
+    "issue_date": "2026-05-07T06:19:36.918Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.8379,
       1.1547,
       1.3378
-    ]
+    ],
+    "ilc": 523.7,
+    "aph_tod": 414.7,
+    "aph_tot": 1.4468,
+    "tmf_inshore": 1.1457,
+    "tmf_offshore": 1.3187
   },
   "boat": {
     "builder": "ICE Yachts",
@@ -33,7 +38,10 @@
       "crew": 1030.0,
       "wetted_surface": 83.34
     },
-    "stability_index": 126.7
+    "stability_index": 126.7,
+    "cdl": 16.732,
+    "division": "C",
+    "issue_date": "2026-03-31T22:00:10.447Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6182,
       0.8515,
       0.9919
-    ]
+    ],
+    "ilc": 709.5,
+    "aph_tod": 558.0,
+    "aph_tot": 1.0752,
+    "tmf_inshore": 0.8457,
+    "tmf_offshore": 0.9767
   },
   "boat": {
     "builder": "SPBI S.A  Beneteau",
@@ -33,7 +38,10 @@
       "crew": 444.0,
       "wetted_surface": 37.3
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.782,
+    "division": "C",
+    "issue_date": "2026-07-24T11:23:44.815Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5864,
       0.803,
       0.9267
-    ]
+    ],
+    "ilc": 752.4,
+    "aph_tod": 618.2,
+    "aph_tot": 0.9706,
+    "tmf_inshore": 0.7974,
+    "tmf_offshore": 0.894
   },
   "boat": {
     "builder": "Jarkan",
@@ -33,7 +38,10 @@
       "crew": 498.0,
       "wetted_surface": 22.03
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.656,
+    "division": "C",
+    "issue_date": "2026-07-10T03:28:50.893Z"
   },
   "vpp": {
     "angles": [

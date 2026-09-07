@@ -14,7 +14,12 @@
       0.5992,
       0.8282,
       0.9669
-    ]
+    ],
+    "ilc": 729.2,
+    "aph_tod": 586.7,
+    "aph_tot": 1.0227,
+    "tmf_inshore": 0.8229,
+    "tmf_offshore": 0.9362
   },
   "boat": {
     "builder": "GIBERT MARINE",
@@ -33,7 +38,10 @@
       "crew": 622.0,
       "wetted_surface": 27.62
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.703,
+    "division": "C",
+    "issue_date": "2026-03-27T14:43:47.229Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5998,
       0.8421,
       0.9894
-    ]
+    ],
+    "ilc": 717.6,
+    "aph_tod": 581.3,
+    "aph_tot": 1.0322,
+    "tmf_inshore": 0.8361,
+    "tmf_offshore": 0.9465
   },
   "boat": {
     "builder": "MATHIESEN U PAULSEN",
@@ -33,7 +38,10 @@
       "crew": 779.0,
       "wetted_surface": 38.36
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.213,
+    "division": "C",
+    "issue_date": "2026-04-08T14:45:32.581Z"
   },
   "vpp": {
     "angles": [

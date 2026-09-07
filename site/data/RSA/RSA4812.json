@@ -14,7 +14,12 @@
       0.5185,
       0.7068,
       0.8248
-    ]
+    ],
+    "ilc": 852.7,
+    "aph_tod": 700.1,
+    "aph_tot": 0.857,
+    "tmf_inshore": 0.7036,
+    "tmf_offshore": 0.7892
   },
   "boat": {
     "builder": "John Robertson",
@@ -33,7 +38,10 @@
       "crew": 340.0,
       "wetted_surface": 12.58
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.771,
+    "division": "C",
+    "issue_date": "2026-08-20T08:26:05.192Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5648,
       0.7532,
       0.8451
-    ]
+    ],
+    "ilc": 803.4,
+    "aph_tod": 665.0,
+    "aph_tot": 0.9022,
+    "tmf_inshore": 0.7468,
+    "tmf_offshore": 0.8344
   },
   "boat": {
     "builder": "Gdansk /PL/",
@@ -33,7 +38,10 @@
       "crew": 331.0,
       "wetted_surface": 12.48
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.208,
+    "division": "C",
+    "issue_date": "2026-06-11T12:39:59.356Z"
   },
   "vpp": {
     "angles": [

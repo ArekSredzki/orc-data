@@ -14,7 +14,12 @@
       0.6624,
       0.9319,
       1.1041
-    ]
+    ],
+    "ilc": 648.0,
+    "aph_tod": 520.9,
+    "aph_tot": 1.1517,
+    "tmf_inshore": 0.926,
+    "tmf_offshore": 1.0519
   },
   "boat": {
     "builder": "Fast Yachts",
@@ -33,7 +38,10 @@
       "crew": 830.0,
       "wetted_surface": 33.33
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.953,
+    "division": "C",
+    "issue_date": "2026-04-22T08:52:18.797Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6663,
       0.8825,
       0.9992
-    ]
+    ],
+    "ilc": 684.4,
+    "aph_tod": 566.2,
+    "aph_tot": 1.0597,
+    "tmf_inshore": 0.8767,
+    "tmf_offshore": 0.9782
   },
   "boat": {
     "builder": "Ledinb\u00e5tar AB",
@@ -33,7 +38,10 @@
       "crew": 611.0,
       "wetted_surface": 27.62
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.969,
+    "division": "C",
+    "issue_date": "2026-05-04T13:51:20.766Z"
   },
   "vpp": {
     "angles": [

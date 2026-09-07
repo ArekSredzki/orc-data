@@ -14,7 +14,12 @@
       0.652,
       0.8707,
       0.9795
-    ]
+    ],
+    "ilc": 695.2,
+    "aph_tod": 572.1,
+    "aph_tot": 1.0487,
+    "tmf_inshore": 0.8631,
+    "tmf_offshore": 0.9681
   },
   "boat": {
     "builder": "Teknocantieri",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 31.29
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.023,
+    "division": "C",
+    "issue_date": "2026-03-05T14:20:55.444Z"
   },
   "vpp": {
     "angles": [

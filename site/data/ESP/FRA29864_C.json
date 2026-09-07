@@ -14,7 +14,12 @@
       0.5787,
       0.7662,
       0.8551
-    ]
+    ],
+    "ilc": 790.1,
+    "aph_tod": 650.1,
+    "aph_tot": 0.9229,
+    "tmf_inshore": 0.7594,
+    "tmf_offshore": 0.8524
   },
   "boat": {
     "builder": "STARLIGHT YACHTS",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 18.37
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.697,
+    "division": "C",
+    "issue_date": "2026-02-09T13:01:09.179Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7923,
       1.0792,
       1.2809
-    ]
+    ],
+    "ilc": 557.8,
+    "aph_tod": 446.4,
+    "aph_tot": 1.344,
+    "tmf_inshore": 1.0756,
+    "tmf_offshore": 1.2303
   },
   "boat": {
     "builder": "NST",
@@ -33,7 +38,10 @@
       "crew": 1020.0,
       "wetted_surface": 39.38
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 12.295,
+    "division": "R",
+    "issue_date": "2026-08-12T11:31:40.545Z"
   },
   "vpp": {
     "angles": [

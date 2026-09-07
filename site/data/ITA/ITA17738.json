@@ -14,7 +14,12 @@
       0.7402,
       0.9998,
       1.1503
-    ]
+    ],
+    "ilc": 604.2,
+    "aph_tod": 484.9,
+    "aph_tot": 1.2373,
+    "tmf_inshore": 0.993,
+    "tmf_offshore": 1.1346
   },
   "boat": {
     "builder": "Nabys",
@@ -33,7 +38,10 @@
       "crew": 640.0,
       "wetted_surface": 38.16
     },
-    "stability_index": 110.9
+    "stability_index": 110.9,
+    "cdl": 11.626,
+    "division": "C",
+    "issue_date": "2026-04-21T17:25:11.003Z"
   },
   "vpp": {
     "angles": [

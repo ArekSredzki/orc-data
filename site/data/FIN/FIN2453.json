@@ -14,7 +14,12 @@
       0.5978,
       0.7959,
       0.9135
-    ]
+    ],
+    "ilc": 757.7,
+    "aph_tod": 609.5,
+    "aph_tot": 0.9844,
+    "tmf_inshore": 0.7918,
+    "tmf_offshore": 0.9023
   },
   "boat": {
     "builder": "Svinevikens B\u00e5tvar",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 32.3
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.924,
+    "division": "C",
+    "issue_date": "2026-06-22T21:00:12.603Z"
   },
   "vpp": {
     "angles": [

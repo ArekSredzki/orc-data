@@ -14,7 +14,12 @@
       0.6387,
       0.8717,
       1.0005
-    ]
+    ],
+    "ilc": 693.6,
+    "aph_tod": 564.4,
+    "aph_tot": 1.0631,
+    "tmf_inshore": 0.865,
+    "tmf_offshore": 0.9762
   },
   "boat": {
     "builder": "Cantiere del Pardo",
@@ -33,7 +38,10 @@
       "crew": 560.0,
       "wetted_surface": 31.55
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.083,
+    "division": "C",
+    "issue_date": "2026-05-12T13:38:15.188Z"
   },
   "vpp": {
     "angles": [

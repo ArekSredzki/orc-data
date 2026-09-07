@@ -14,7 +14,12 @@
       0.7887,
       1.0664,
       1.2202
-    ]
+    ],
+    "ilc": 566.8,
+    "aph_tod": 454.6,
+    "aph_tot": 1.3198,
+    "tmf_inshore": 1.0585,
+    "tmf_offshore": 1.2093
   },
   "boat": {
     "builder": "Solaris Yachts",
@@ -33,7 +38,10 @@
       "crew": 900.0,
       "wetted_surface": 62.75
     },
-    "stability_index": 127.0
+    "stability_index": 127.0,
+    "cdl": 14.097,
+    "division": "C",
+    "issue_date": "2026-02-13T09:12:57.674Z"
   },
   "vpp": {
     "angles": [

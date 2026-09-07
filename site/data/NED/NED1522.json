@@ -14,7 +14,12 @@
       0.5029,
       0.6958,
       0.8147
-    ]
+    ],
+    "ilc": 867.4,
+    "aph_tod": 701.6,
+    "aph_tot": 0.8551,
+    "tmf_inshore": 0.6917,
+    "tmf_offshore": 0.785
   },
   "boat": {
     "builder": "KUIPERS & NIC WITS",
@@ -33,7 +38,10 @@
       "crew": 442.0,
       "wetted_surface": 23.56
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.242,
+    "division": "C",
+    "issue_date": "2026-04-01T19:42:28.174Z"
   },
   "vpp": {
     "angles": [

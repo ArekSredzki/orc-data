@@ -14,7 +14,12 @@
       0.6803,
       0.8934,
       0.9977
-    ]
+    ],
+    "ilc": 677.2,
+    "aph_tod": 552.8,
+    "aph_tot": 1.0854,
+    "tmf_inshore": 0.886,
+    "tmf_offshore": 1.001
   },
   "boat": {
     "builder": "FK Boats",
@@ -33,7 +38,10 @@
       "crew": 550.0,
       "wetted_surface": 22.14
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.868,
+    "division": "C",
+    "issue_date": "2026-03-06T14:13:19.081Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5905,
       0.8093,
       0.9349
-    ]
+    ],
+    "ilc": 746.5,
+    "aph_tod": 609.3,
+    "aph_tot": 0.9848,
+    "tmf_inshore": 0.8037,
+    "tmf_offshore": 0.9045
   },
   "boat": {
     "builder": "Dehler Segelyachte",
@@ -33,7 +38,10 @@
       "crew": 518.0,
       "wetted_surface": 20.08
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.856,
+    "division": "C",
+    "issue_date": "2026-04-21T07:37:21.034Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6889,
       0.9234,
       1.0397
-    ]
+    ],
+    "ilc": 655.7,
+    "aph_tod": 528.4,
+    "aph_tot": 1.1356,
+    "tmf_inshore": 0.915,
+    "tmf_offshore": 1.0431
   },
   "boat": {
     "builder": "RIDAS YACHT O\u00dc",
@@ -33,7 +38,10 @@
       "crew": 730.0,
       "wetted_surface": 28.71
     },
-    "stability_index": 120.6
+    "stability_index": 120.6,
+    "cdl": 9.668,
+    "division": "C",
+    "issue_date": "2026-08-03T22:45:32.449Z"
   },
   "vpp": {
     "angles": [

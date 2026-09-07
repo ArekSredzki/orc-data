@@ -14,7 +14,12 @@
       0.8426,
       1.0761,
       1.2836
-    ]
+    ],
+    "ilc": 555.0,
+    "aph_tod": 444.1,
+    "aph_tot": 1.3511,
+    "tmf_inshore": 1.081,
+    "tmf_offshore": 1.2388
   },
   "boat": {
     "builder": "Yachting Developme",
@@ -33,7 +38,10 @@
       "crew": 550.0,
       "wetted_surface": 26.14
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.371,
+    "division": "R",
+    "issue_date": "2026-07-17T08:44:45.820Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6088,
       0.8287,
       0.9552
-    ]
+    ],
+    "ilc": 728.7,
+    "aph_tod": 599.5,
+    "aph_tot": 1.0009,
+    "tmf_inshore": 0.8233,
+    "tmf_offshore": 0.9223
   },
   "boat": {
     "builder": "Sweden Yachts",
@@ -33,7 +38,10 @@
       "crew": 574.0,
       "wetted_surface": 26.76
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.25,
+    "division": "C",
+    "issue_date": "2026-04-01T19:53:29.248Z"
   },
   "vpp": {
     "angles": [

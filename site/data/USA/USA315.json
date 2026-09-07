@@ -14,7 +14,12 @@
       0.7016,
       0.933,
       1.0743
-    ]
+    ],
+    "ilc": 645.9,
+    "aph_tod": 526.3,
+    "aph_tot": 1.14,
+    "tmf_inshore": 0.9289,
+    "tmf_offshore": 1.0481
   },
   "boat": {
     "builder": "PASCH",
@@ -33,7 +38,10 @@
       "crew": 1034.0,
       "wetted_surface": 41.86
     },
-    "stability_index": 155.1
+    "stability_index": 155.1,
+    "cdl": 10.585,
+    "division": "C",
+    "issue_date": "2026-05-28T11:53:33.923Z"
   },
   "vpp": {
     "angles": [

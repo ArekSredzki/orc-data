@@ -14,7 +14,12 @@
       0.6641,
       0.8481,
       0.9462
-    ]
+    ],
+    "ilc": 711.1,
+    "aph_tod": 584.5,
+    "aph_tot": 1.0265,
+    "tmf_inshore": 0.8437,
+    "tmf_offshore": 0.9491
   },
   "boat": {
     "builder": "AMERICAN BOAT",
@@ -33,7 +38,10 @@
       "crew": 830.0,
       "wetted_surface": 28.07
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.099,
+    "division": "C",
+    "issue_date": "2026-05-04T20:00:20.505Z"
   },
   "vpp": {
     "angles": [

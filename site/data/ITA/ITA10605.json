@@ -14,7 +14,12 @@
       0.6041,
       0.8006,
       0.9127
-    ]
+    ],
+    "ilc": 753.6,
+    "aph_tod": 622.2,
+    "aph_tot": 0.9644,
+    "tmf_inshore": 0.7962,
+    "tmf_offshore": 0.8917
   },
   "boat": {
     "builder": "Artmare",
@@ -33,7 +38,10 @@
       "crew": 340.0,
       "wetted_surface": 14.35
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.756,
+    "division": "R",
+    "issue_date": "2026-05-28T12:24:11.581Z"
   },
   "vpp": {
     "angles": [

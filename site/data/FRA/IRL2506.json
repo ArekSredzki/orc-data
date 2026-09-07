@@ -14,7 +14,12 @@
       0.5774,
       0.7836,
       0.8923
-    ]
+    ],
+    "ilc": 772.1,
+    "aph_tod": 641.2,
+    "aph_tot": 0.9358,
+    "tmf_inshore": 0.7771,
+    "tmf_offshore": 0.8654
   },
   "boat": {
     "builder": "LION YACHT",
@@ -33,7 +38,10 @@
       "crew": 424.0,
       "wetted_surface": 16.46
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.94,
+    "division": "R",
+    "issue_date": "2026-03-03T10:08:39.870Z"
   },
   "vpp": {
     "angles": [

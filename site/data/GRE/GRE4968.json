@@ -14,7 +14,12 @@
       0.527,
       0.7337,
       0.8673
-    ]
+    ],
+    "ilc": 822.0,
+    "aph_tod": 666.2,
+    "aph_tot": 0.9006,
+    "tmf_inshore": 0.7299,
+    "tmf_offshore": 0.8269
   },
   "boat": {
     "builder": "OLYMPIC MARINE",
@@ -33,7 +38,10 @@
       "crew": 487.0,
       "wetted_surface": 21.71
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.808,
+    "division": "C",
+    "issue_date": "2026-04-15T23:05:35.228Z"
   },
   "vpp": {
     "angles": [

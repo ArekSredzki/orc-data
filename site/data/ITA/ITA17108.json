@@ -14,7 +14,12 @@
       0.7216,
       0.9859,
       1.1263
-    ]
+    ],
+    "ilc": 614.0,
+    "aph_tod": 492.9,
+    "aph_tot": 1.2172,
+    "tmf_inshore": 0.9773,
+    "tmf_offshore": 1.1156
   },
   "boat": {
     "builder": "RM Yachts",
@@ -33,7 +38,10 @@
       "crew": 720.0,
       "wetted_surface": 44.07
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.778,
+    "division": "C",
+    "issue_date": "2026-07-23T12:53:54.218Z"
   },
   "vpp": {
     "angles": [

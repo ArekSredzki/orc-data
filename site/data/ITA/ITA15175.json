@@ -14,7 +14,12 @@
       0.6277,
       0.8325,
       0.941
-    ]
+    ],
+    "ilc": 726.0,
+    "aph_tod": 589.3,
+    "aph_tot": 1.0182,
+    "tmf_inshore": 0.8264,
+    "tmf_offshore": 0.9367
   },
   "boat": {
     "builder": "Downer",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 18.26
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.973,
+    "division": "R",
+    "issue_date": "2026-03-05T14:21:02.595Z"
   },
   "vpp": {
     "angles": [

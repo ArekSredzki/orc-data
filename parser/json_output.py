@@ -17,6 +17,26 @@ DATA_PATH = SITE_PATH / "data"
 def floats(*args):
     return list(map(float, args))
 
+
+def optional_float(value):
+    """Return None rather than a sentinel for fields ORC does not always publish.
+
+    The site omits a row entirely when the value is None. A numeric sentinel would be
+    truthy in JavaScript and get printed as-is (which is how the stability index used to
+    show up as "-1" for the majority of boats).
+    """
+    if value is None or value == "":
+        return None
+    return float(value)
+
+
+def optional_str(value):
+    if value is None:
+        return None
+    value = str(value).strip()
+    return value or None
+
+
 def format_data(data):
     country = data["country"]
     if data.get("SailNo", None):
@@ -34,6 +54,14 @@ def format_data(data):
             "osn": float(data["OSN"]),
             "triple_offshore": floats(data["TN_Offshore_Low"], data["TN_Offshore_Medium"], data["TN_Offshore_High"]),
             "triple_inshore": floats(data["TN_Inshore_Low"], data["TN_Inshore_Medium"], data["TN_Inshore_High"]),
+            # Inshore (windward/leeward) and all-purpose single numbers, each in both
+            # units ORC publishes: Time-on-Distance in s/NM and Time-on-Time, related by
+            # ToT = 600 / ToD (ORC Rating Systems rule 403.3).
+            "ilc": optional_float(data.get("ILCWA")),
+            "aph_tod": optional_float(data.get("APHD")),
+            "aph_tot": optional_float(data.get("APHT")),
+            "tmf_inshore": optional_float(data.get("TMF_Inshore")),
+            "tmf_offshore": optional_float(data.get("TMF_Offshore")),
         },
         "boat": {
             "builder": (data["Builder"] or "").strip(),
@@ -52,7 +80,10 @@ def format_data(data):
                 "crew": float(data["CrewWT"]),
                 "wetted_surface": float(data["WSS"]),
             },
-            "stability_index": float(data["Stability_Index"] if "Stability_Index" in data else -1),
+            "stability_index": optional_float(data.get("Stability_Index")),
+            "cdl": optional_float(data.get("CDL")),
+            "division": optional_str(data.get("Division")),
+            "issue_date": optional_str(data.get("IssueDate")),
         },
     }
 

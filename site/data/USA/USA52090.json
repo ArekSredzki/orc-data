@@ -14,7 +14,12 @@
       0.6834,
       0.9207,
       1.0389
-    ]
+    ],
+    "ilc": 657.7,
+    "aph_tod": 530.4,
+    "aph_tot": 1.1312,
+    "tmf_inshore": 0.9122,
+    "tmf_offshore": 1.0381
   },
   "boat": {
     "builder": "Fairport Marine",
@@ -33,7 +38,10 @@
       "crew": 601.0,
       "wetted_surface": 35.58
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.269,
+    "division": "C",
+    "issue_date": "2026-07-06T19:47:43.486Z"
   },
   "vpp": {
     "angles": [

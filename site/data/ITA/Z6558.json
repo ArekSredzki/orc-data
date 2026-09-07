@@ -14,7 +14,12 @@
       0.6343,
       0.8341,
       0.9377
-    ]
+    ],
+    "ilc": 724.4,
+    "aph_tod": 592.6,
+    "aph_tot": 1.0125,
+    "tmf_inshore": 0.8283,
+    "tmf_offshore": 0.9333
   },
   "boat": {
     "builder": "Egger",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 26.28
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.888,
+    "division": "C",
+    "issue_date": "2026-04-22T14:53:39.523Z"
   },
   "vpp": {
     "angles": [

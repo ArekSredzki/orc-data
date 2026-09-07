@@ -14,7 +14,12 @@
       0.6208,
       0.8104,
       0.9096
-    ]
+    ],
+    "ilc": 745.0,
+    "aph_tod": 608.1,
+    "aph_tot": 0.9867,
+    "tmf_inshore": 0.8053,
+    "tmf_offshore": 0.9083
   },
   "boat": {
     "builder": "YZ GREIFSWALD",
@@ -33,7 +38,10 @@
       "crew": 430.0,
       "wetted_surface": 22.89
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.591,
+    "division": "C",
+    "issue_date": "2026-06-02T15:22:54.990Z"
   },
   "vpp": {
     "angles": [

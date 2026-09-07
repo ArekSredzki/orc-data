@@ -14,7 +14,12 @@
       0.8401,
       1.0996,
       1.3158
-    ]
+    ],
+    "ilc": 543.6,
+    "aph_tod": 423.7,
+    "aph_tot": 1.4161,
+    "tmf_inshore": 1.1037,
+    "tmf_offshore": 1.2842
   },
   "boat": {
     "builder": "Julian Bethwaite",
@@ -33,7 +38,10 @@
       "crew": 255.0,
       "wetted_surface": 10.86
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.448,
+    "division": "S",
+    "issue_date": "2026-08-03T02:37:28.245Z"
   },
   "vpp": {
     "angles": [

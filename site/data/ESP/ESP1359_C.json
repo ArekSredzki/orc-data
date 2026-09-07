@@ -14,7 +14,12 @@
       0.6371,
       0.8524,
       0.9699
-    ]
+    ],
+    "ilc": 708.7,
+    "aph_tod": 584.0,
+    "aph_tot": 1.0274,
+    "tmf_inshore": 0.8467,
+    "tmf_offshore": 0.9476
   },
   "boat": {
     "builder": "JEREMY ROGERS",
@@ -33,7 +38,10 @@
       "crew": 540.0,
       "wetted_surface": 26.24
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.427,
+    "division": "C",
+    "issue_date": "2026-04-10T06:35:58.691Z"
   },
   "vpp": {
     "angles": [

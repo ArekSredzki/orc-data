@@ -14,7 +14,12 @@
       0.7096,
       0.9237,
       1.05
-    ]
+    ],
+    "ilc": 652.7,
+    "aph_tod": 538.5,
+    "aph_tot": 1.1143,
+    "tmf_inshore": 0.9192,
+    "tmf_offshore": 1.0306
   },
   "boat": {
     "builder": "HART MARINE",
@@ -33,7 +38,10 @@
       "crew": 595.0,
       "wetted_surface": 20.09
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.025,
+    "division": "C",
+    "issue_date": "2026-08-18T02:23:14.777Z"
   },
   "vpp": {
     "angles": [

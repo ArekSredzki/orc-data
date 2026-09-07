@@ -14,7 +14,12 @@
       0.7631,
       1.0573,
       1.2258
-    ]
+    ],
+    "ilc": 572.0,
+    "aph_tod": 457.8,
+    "aph_tot": 1.3107,
+    "tmf_inshore": 1.049,
+    "tmf_offshore": 1.1975
   },
   "boat": {
     "builder": "Italmod.-De Cesari",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 67.98
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 14.455,
+    "division": "C",
+    "issue_date": "2026-03-06T12:27:17.026Z"
   },
   "vpp": {
     "angles": [

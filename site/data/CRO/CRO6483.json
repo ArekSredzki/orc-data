@@ -14,7 +14,12 @@
       0.8027,
       1.028,
       1.1718
-    ]
+    ],
+    "ilc": 585.3,
+    "aph_tod": 475.3,
+    "aph_tot": 1.2623,
+    "tmf_inshore": 1.0252,
+    "tmf_offshore": 1.1624
   },
   "boat": {
     "builder": "DK Marin",
@@ -33,7 +38,10 @@
       "crew": 760.0,
       "wetted_surface": 30.16
     },
-    "stability_index": 121.7
+    "stability_index": 121.7,
+    "cdl": 11.164,
+    "division": "R",
+    "issue_date": "2026-03-25T15:59:36.769Z"
   },
   "vpp": {
     "angles": [

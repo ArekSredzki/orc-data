@@ -14,7 +14,12 @@
       0.5074,
       0.7324,
       0.8847
-    ]
+    ],
+    "ilc": 824.5,
+    "aph_tod": 651.2,
+    "aph_tot": 0.9213,
+    "tmf_inshore": 0.7277,
+    "tmf_offshore": 0.8393
   },
   "boat": {
     "builder": "HALSTEAD LTD",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 41.17
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.204,
+    "division": "C",
+    "issue_date": "2026-04-02T07:26:55.903Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.8209,
       1.082,
       1.275
-    ]
+    ],
+    "ilc": 554.9,
+    "aph_tod": 444.4,
+    "aph_tot": 1.3503,
+    "tmf_inshore": 1.0813,
+    "tmf_offshore": 1.2381
   },
   "boat": {
     "builder": "Kings Marine",
@@ -33,7 +38,10 @@
       "crew": 935.0,
       "wetted_surface": 32.49
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 12.352,
+    "division": "R",
+    "issue_date": "2026-08-04T00:01:35.475Z"
   },
   "vpp": {
     "angles": [

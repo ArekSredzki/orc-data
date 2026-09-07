@@ -14,7 +14,12 @@
       0.7013,
       0.914,
       1.0323
-    ]
+    ],
+    "ilc": 660.1,
+    "aph_tod": 541.7,
+    "aph_tot": 1.1076,
+    "tmf_inshore": 0.909,
+    "tmf_offshore": 1.0217
   },
   "boat": {
     "builder": "Cantiere Dal Ferro",
@@ -33,7 +38,10 @@
       "crew": 600.0,
       "wetted_surface": 22.72
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.989,
+    "division": "R",
+    "issue_date": "2026-03-26T12:25:34.152Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.636,
       0.848,
       0.9554
-    ]
+    ],
+    "ilc": 713.2,
+    "aph_tod": 587.2,
+    "aph_tot": 1.0218,
+    "tmf_inshore": 0.8412,
+    "tmf_offshore": 0.9429
   },
   "boat": {
     "builder": "Cantiere Navale 71",
@@ -33,7 +38,10 @@
       "crew": 590.0,
       "wetted_surface": 24.93
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.239,
+    "division": "C",
+    "issue_date": "2026-03-03T15:01:53.691Z"
   },
   "vpp": {
     "angles": [

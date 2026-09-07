@@ -14,7 +14,12 @@
       0.5898,
       0.7891,
       0.8939
-    ]
+    ],
+    "ilc": 765.9,
+    "aph_tod": 630.1,
+    "aph_tot": 0.9523,
+    "tmf_inshore": 0.7833,
+    "tmf_offshore": 0.8778
   },
   "boat": {
     "builder": "COMFORTBAATER",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 20.62
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.2,
+    "division": "C",
+    "issue_date": "2026-04-07T10:26:53.465Z"
   },
   "vpp": {
     "angles": [

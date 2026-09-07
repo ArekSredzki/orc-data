@@ -14,7 +14,12 @@
       0.5856,
       0.7949,
       0.9053
-    ]
+    ],
+    "ilc": 760.9,
+    "aph_tod": 625.8,
+    "aph_tot": 0.9588,
+    "tmf_inshore": 0.7885,
+    "tmf_offshore": 0.8835
   },
   "boat": {
     "builder": "LA BORNA",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 19.95
     },
-    "stability_index": 109.8
+    "stability_index": 109.8,
+    "cdl": 7.384,
+    "division": "C",
+    "issue_date": "2026-02-11T12:46:42.935Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7978,
       1.0873,
       1.248
-    ]
+    ],
+    "ilc": 556.2,
+    "aph_tod": 441.7,
+    "aph_tot": 1.3585,
+    "tmf_inshore": 1.0787,
+    "tmf_offshore": 1.2394
   },
   "boat": {
     "builder": "Swan",
@@ -33,7 +38,10 @@
       "crew": 660.0,
       "wetted_surface": 70.3
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 14.772,
+    "division": "C",
+    "issue_date": "2026-05-19T14:10:52.387Z"
   },
   "vpp": {
     "angles": [

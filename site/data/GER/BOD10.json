@@ -14,7 +14,12 @@
       0.8001,
       1.0372,
       1.2407
-    ]
+    ],
+    "ilc": 576.0,
+    "aph_tod": 452.8,
+    "aph_tot": 1.3252,
+    "tmf_inshore": 1.0418,
+    "tmf_offshore": 1.2055
   },
   "boat": {
     "builder": "S. AKERMANN",
@@ -33,7 +38,10 @@
       "crew": 395.0,
       "wetted_surface": 18.79
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.193,
+    "division": "R",
+    "issue_date": "2026-06-08T11:18:53.356Z"
   },
   "vpp": {
     "angles": [

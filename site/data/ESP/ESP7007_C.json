@@ -14,7 +14,12 @@
       0.8545,
       1.1179,
       1.283
-    ]
+    ],
+    "ilc": 538.5,
+    "aph_tod": 432.5,
+    "aph_tot": 1.3873,
+    "tmf_inshore": 1.1141,
+    "tmf_offshore": 1.2722
   },
   "boat": {
     "builder": "MTORRES",
@@ -33,7 +38,10 @@
       "crew": 1100.0,
       "wetted_surface": 51.84
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 14.097,
+    "division": "R",
+    "issue_date": "2026-04-24T07:42:25.423Z"
   },
   "vpp": {
     "angles": [

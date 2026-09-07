@@ -14,7 +14,12 @@
       0.6967,
       0.906,
       1.0284
-    ]
+    ],
+    "ilc": 665.1,
+    "aph_tod": 541.1,
+    "aph_tot": 1.1088,
+    "tmf_inshore": 0.9021,
+    "tmf_offshore": 1.02
   },
   "boat": {
     "builder": "Paul Luke",
@@ -33,7 +38,10 @@
       "crew": 998.0,
       "wetted_surface": 40.27
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.765,
+    "division": "C",
+    "issue_date": "2026-05-27T15:49:11.291Z"
   },
   "vpp": {
     "angles": [

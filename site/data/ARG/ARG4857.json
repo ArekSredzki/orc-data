@@ -14,7 +14,12 @@
       0.6374,
       0.8548,
       0.9709
-    ]
+    ],
+    "ilc": 707.3,
+    "aph_tod": 577.2,
+    "aph_tot": 1.0396,
+    "tmf_inshore": 0.8483,
+    "tmf_offshore": 0.9568
   },
   "boat": {
     "builder": "AST. MARCO",
@@ -33,7 +38,10 @@
       "crew": 382.0,
       "wetted_surface": 21.4
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.22,
+    "division": "C",
+    "issue_date": "2026-03-20T12:18:35.786Z"
   },
   "vpp": {
     "angles": [

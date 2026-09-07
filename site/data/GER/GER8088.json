@@ -14,7 +14,12 @@
       0.9516,
       1.2751,
       1.4882
-    ]
+    ],
+    "ilc": 472.3,
+    "aph_tod": 378.6,
+    "aph_tot": 1.5846,
+    "tmf_inshore": 1.2704,
+    "tmf_offshore": 1.4497
   },
   "boat": {
     "builder": "MAXI DOLPHIN",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 84.69
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 19.369,
+    "division": "C",
+    "issue_date": "2026-03-17T19:40:21.465Z"
   },
   "vpp": {
     "angles": [

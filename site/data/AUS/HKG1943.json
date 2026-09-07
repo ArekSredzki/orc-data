@@ -14,7 +14,12 @@
       0.6857,
       0.9345,
       1.0801
-    ]
+    ],
+    "ilc": 646.3,
+    "aph_tod": 527.3,
+    "aph_tot": 1.1378,
+    "tmf_inshore": 0.9284,
+    "tmf_offshore": 1.0451
   },
   "boat": {
     "builder": "MC DELL MARINE",
@@ -33,7 +38,10 @@
       "crew": 746.0,
       "wetted_surface": 33.06
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.471,
+    "division": "C",
+    "issue_date": "2026-08-04T00:37:59.795Z"
   },
   "vpp": {
     "angles": [

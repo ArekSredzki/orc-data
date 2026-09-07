@@ -14,7 +14,12 @@
       0.6003,
       0.8094,
       0.9178
-    ]
+    ],
+    "ilc": 747.3,
+    "aph_tod": 613.0,
+    "aph_tot": 0.9788,
+    "tmf_inshore": 0.8028,
+    "tmf_offshore": 0.9017
   },
   "boat": {
     "builder": "Ranger Yachts",
@@ -33,7 +38,10 @@
       "crew": 492.0,
       "wetted_surface": 23.11
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.586,
+    "division": "C",
+    "issue_date": "2026-03-07T00:08:01.244Z"
   },
   "vpp": {
     "angles": [

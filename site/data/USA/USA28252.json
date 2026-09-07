@@ -14,7 +14,12 @@
       0.8101,
       1.0759,
       1.2342
-    ]
+    ],
+    "ilc": 560.6,
+    "aph_tod": 450.2,
+    "aph_tot": 1.3328,
+    "tmf_inshore": 1.0703,
+    "tmf_offshore": 1.2217
   },
   "boat": {
     "builder": "SANTA CRUZ",
@@ -33,7 +38,10 @@
       "crew": 908.0,
       "wetted_surface": 44.14
     },
-    "stability_index": 119.8
+    "stability_index": 119.8,
+    "cdl": 13.557,
+    "division": "C",
+    "issue_date": "2026-06-30T20:20:31.221Z"
   },
   "vpp": {
     "angles": [

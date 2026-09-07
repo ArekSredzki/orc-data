@@ -14,7 +14,12 @@
       0.8652,
       1.121,
       1.2713
-    ]
+    ],
+    "ilc": 537.5,
+    "aph_tod": 432.9,
+    "aph_tot": 1.386,
+    "tmf_inshore": 1.1163,
+    "tmf_offshore": 1.2691
   },
   "boat": {
     "builder": "Murtic",
@@ -33,7 +38,10 @@
       "crew": 1000.0,
       "wetted_surface": 53.32
     },
-    "stability_index": 136.8
+    "stability_index": 136.8,
+    "cdl": 14.481,
+    "division": "C",
+    "issue_date": "2026-03-30T09:12:45.296Z"
   },
   "vpp": {
     "angles": [

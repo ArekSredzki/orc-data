@@ -14,7 +14,12 @@
       0.6506,
       0.8752,
       0.9909
-    ]
+    ],
+    "ilc": 691.5,
+    "aph_tod": 561.3,
+    "aph_tot": 1.069,
+    "tmf_inshore": 0.8677,
+    "tmf_offshore": 0.9831
   },
   "boat": {
     "builder": "Estaleiro Esrtutur",
@@ -33,7 +38,10 @@
       "crew": 570.0,
       "wetted_surface": 22.75
     },
-    "stability_index": 109.9
+    "stability_index": 109.9,
+    "cdl": 8.52,
+    "division": "C",
+    "issue_date": "2026-08-19T20:36:41.561Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5453,
       0.7503,
       0.8573
-    ]
+    ],
+    "ilc": 806.8,
+    "aph_tod": 659.3,
+    "aph_tot": 0.9101,
+    "tmf_inshore": 0.7437,
+    "tmf_offshore": 0.8375
   },
   "boat": {
     "builder": "RONAUTICA",
@@ -33,7 +38,10 @@
       "crew": 357.0,
       "wetted_surface": 14.74
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.32,
+    "division": "C",
+    "issue_date": "2026-06-04T07:42:58.295Z"
   },
   "vpp": {
     "angles": [

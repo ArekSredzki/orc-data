@@ -14,7 +14,12 @@
       0.6592,
       0.8792,
       0.9962
-    ]
+    ],
+    "ilc": 687.4,
+    "aph_tod": 565.2,
+    "aph_tot": 1.0616,
+    "tmf_inshore": 0.8728,
+    "tmf_offshore": 0.9784
   },
   "boat": {
     "builder": "Cavalier yachts",
@@ -33,7 +38,10 @@
       "crew": 576.0,
       "wetted_surface": 24.79
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.81,
+    "division": "C",
+    "issue_date": "2026-06-25T01:12:54.891Z"
   },
   "vpp": {
     "angles": [

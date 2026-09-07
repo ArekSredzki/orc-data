@@ -14,7 +14,12 @@
       0.5531,
       0.7375,
       0.8291
-    ]
+    ],
+    "ilc": 820.4,
+    "aph_tod": 672.6,
+    "aph_tot": 0.8921,
+    "tmf_inshore": 0.7313,
+    "tmf_offshore": 0.8227
   },
   "boat": {
     "builder": "Alpa",
@@ -33,7 +38,10 @@
       "crew": 360.0,
       "wetted_surface": 19.02
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.307,
+    "division": "C",
+    "issue_date": "2026-02-10T12:14:12.504Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7772,
       1.0252,
       1.1634
-    ]
+    ],
+    "ilc": 589.2,
+    "aph_tod": 477.8,
+    "aph_tot": 1.2559,
+    "tmf_inshore": 1.0184,
+    "tmf_offshore": 1.1561
   },
   "boat": {
     "builder": "Arya Yachts",
@@ -33,7 +38,10 @@
       "crew": 746.0,
       "wetted_surface": 33.54
     },
-    "stability_index": 136.9
+    "stability_index": 136.9,
+    "cdl": 11.438,
+    "division": "C",
+    "issue_date": "2026-03-31T14:09:47.485Z"
   },
   "vpp": {
     "angles": [

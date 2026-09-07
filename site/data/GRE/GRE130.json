@@ -14,7 +14,12 @@
       0.5576,
       0.7522,
       0.8503
-    ]
+    ],
+    "ilc": 804.4,
+    "aph_tod": 664.7,
+    "aph_tot": 0.9026,
+    "tmf_inshore": 0.7459,
+    "tmf_offshore": 0.8338
   },
   "boat": {
     "builder": "NEPTUNE",
@@ -33,7 +38,10 @@
       "crew": 393.0,
       "wetted_surface": 15.29
     },
-    "stability_index": 118.8
+    "stability_index": 118.8,
+    "cdl": 6.482,
+    "division": "C",
+    "issue_date": "2026-04-16T13:27:50.550Z"
   },
   "vpp": {
     "angles": [

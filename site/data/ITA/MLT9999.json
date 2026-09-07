@@ -14,7 +14,12 @@
       0.6696,
       0.9057,
       1.0322
-    ]
+    ],
+    "ilc": 667.8,
+    "aph_tod": 551.1,
+    "aph_tot": 1.0887,
+    "tmf_inshore": 0.8985,
+    "tmf_offshore": 1.0044
   },
   "boat": {
     "builder": "Catalina Yachts",
@@ -33,7 +38,10 @@
       "crew": 654.0,
       "wetted_surface": 27.05
     },
-    "stability_index": 107.4
+    "stability_index": 107.4,
+    "cdl": 9.414,
+    "division": "R",
+    "issue_date": "2026-05-06T10:55:19.746Z"
   },
   "vpp": {
     "angles": [

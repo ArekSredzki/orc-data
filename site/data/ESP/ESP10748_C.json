@@ -14,7 +14,12 @@
       0.4634,
       0.6529,
       0.7885
-    ]
+    ],
+    "ilc": 922.1,
+    "aph_tod": 739.5,
+    "aph_tot": 0.8114,
+    "tmf_inshore": 0.6507,
+    "tmf_offshore": 0.7427
   },
   "boat": {
     "builder": "Aloa Marine",
@@ -33,7 +38,10 @@
       "crew": 235.0,
       "wetted_surface": 17.83
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.632,
+    "division": "C",
+    "issue_date": "2026-07-03T11:53:40.441Z"
   },
   "vpp": {
     "angles": [

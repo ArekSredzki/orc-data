@@ -14,7 +14,12 @@
       0.5019,
       0.6958,
       0.8209
-    ]
+    ],
+    "ilc": 866.3,
+    "aph_tod": 708.5,
+    "aph_tot": 0.8469,
+    "tmf_inshore": 0.6926,
+    "tmf_offshore": 0.7783
   },
   "boat": {
     "builder": "SOLMA",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 13.99
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.861,
+    "division": "C",
+    "issue_date": "2026-04-07T15:51:33.094Z"
   },
   "vpp": {
     "angles": [

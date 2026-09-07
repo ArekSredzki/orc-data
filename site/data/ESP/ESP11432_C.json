@@ -14,7 +14,12 @@
       0.6432,
       0.8763,
       1.0054
-    ]
+    ],
+    "ilc": 690.0,
+    "aph_tod": 555.4,
+    "aph_tot": 1.0803,
+    "tmf_inshore": 0.8696,
+    "tmf_offshore": 0.9896
   },
   "boat": {
     "builder": "PONCIN YACHTS",
@@ -33,7 +38,10 @@
       "crew": 480.0,
       "wetted_surface": 30.28
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.635,
+    "division": "C",
+    "issue_date": "2026-02-07T08:03:59.903Z"
   },
   "vpp": {
     "angles": [

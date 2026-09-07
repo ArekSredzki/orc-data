@@ -14,7 +14,12 @@
       0.6766,
       0.8962,
       1.015
-    ]
+    ],
+    "ilc": 674.4,
+    "aph_tod": 547.9,
+    "aph_tot": 1.0951,
+    "tmf_inshore": 0.8897,
+    "tmf_offshore": 1.0088
   },
   "boat": {
     "builder": "Holby",
@@ -33,7 +38,10 @@
       "crew": 559.0,
       "wetted_surface": 21.67
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.771,
+    "division": "R",
+    "issue_date": "2026-02-25T16:15:33.940Z"
   },
   "vpp": {
     "angles": [

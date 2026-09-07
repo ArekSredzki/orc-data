@@ -14,7 +14,12 @@
       0.6291,
       0.8564,
       0.9778
-    ]
+    ],
+    "ilc": 706.5,
+    "aph_tod": 581.1,
+    "aph_tot": 1.0325,
+    "tmf_inshore": 0.8493,
+    "tmf_offshore": 0.9519
   },
   "boat": {
     "builder": "Alberigi",
@@ -33,7 +38,10 @@
       "crew": 380.0,
       "wetted_surface": 18.93
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.366,
+    "division": "C",
+    "issue_date": "2026-04-29T13:18:10.630Z"
   },
   "vpp": {
     "angles": [

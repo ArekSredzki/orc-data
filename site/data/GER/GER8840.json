@@ -14,7 +14,12 @@
       0.6363,
       0.873,
       1.0066
-    ]
+    ],
+    "ilc": 692.5,
+    "aph_tod": 569.4,
+    "aph_tot": 1.0538,
+    "tmf_inshore": 0.8665,
+    "tmf_offshore": 0.9709
   },
   "boat": {
     "builder": "BALTIC",
@@ -33,7 +38,10 @@
       "crew": 700.0,
       "wetted_surface": 30.57
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.948,
+    "division": "C",
+    "issue_date": "2026-08-21T11:42:54.317Z"
   },
   "vpp": {
     "angles": [

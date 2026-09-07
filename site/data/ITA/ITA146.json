@@ -14,7 +14,12 @@
       0.6746,
       0.8756,
       0.9758
-    ]
+    ],
+    "ilc": 690.5,
+    "aph_tod": 564.2,
+    "aph_tot": 1.0635,
+    "tmf_inshore": 0.8689,
+    "tmf_offshore": 0.9822
   },
   "boat": {
     "builder": "Cantiere De Cesari",
@@ -33,7 +38,10 @@
       "crew": 380.0,
       "wetted_surface": 19.13
     },
-    "stability_index": 145.4
+    "stability_index": 145.4,
+    "cdl": 8.217,
+    "division": "C",
+    "issue_date": "2026-06-25T11:21:39.679Z"
   },
   "vpp": {
     "angles": [

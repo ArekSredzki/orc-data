@@ -14,7 +14,12 @@
       0.5786,
       0.796,
       0.9273
-    ]
+    ],
+    "ilc": 758.2,
+    "aph_tod": 612.4,
+    "aph_tot": 0.9797,
+    "tmf_inshore": 0.7914,
+    "tmf_offshore": 0.8979
   },
   "boat": {
     "builder": "Robertson and Cain",
@@ -33,7 +38,10 @@
       "crew": 548.0,
       "wetted_surface": 23.21
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.797,
+    "division": "C",
+    "issue_date": "2026-02-26T16:18:59.392Z"
   },
   "vpp": {
     "angles": [

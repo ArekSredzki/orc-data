@@ -14,7 +14,12 @@
       0.7326,
       0.9711,
       1.103
-    ]
+    ],
+    "ilc": 622.0,
+    "aph_tod": 504.6,
+    "aph_tot": 1.1891,
+    "tmf_inshore": 0.9646,
+    "tmf_offshore": 1.0936
   },
   "boat": {
     "builder": "FENIX BOATS SRL",
@@ -33,7 +38,10 @@
       "crew": 785.0,
       "wetted_surface": 31.22
     },
-    "stability_index": 120.6
+    "stability_index": 120.6,
+    "cdl": 10.447,
+    "division": "R",
+    "issue_date": "2026-07-25T05:37:28.539Z"
   },
   "vpp": {
     "angles": [

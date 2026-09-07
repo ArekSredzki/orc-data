@@ -14,7 +14,12 @@
       0.687,
       0.936,
       1.0644
-    ]
+    ],
+    "ilc": 647.0,
+    "aph_tod": 523.8,
+    "aph_tot": 1.1455,
+    "tmf_inshore": 0.9274,
+    "tmf_offshore": 1.0524
   },
   "boat": {
     "builder": "LUFFE YACHTS",
@@ -33,7 +38,10 @@
       "crew": 790.0,
       "wetted_surface": 31.64
     },
-    "stability_index": 127.9
+    "stability_index": 127.9,
+    "cdl": 10.281,
+    "division": "C",
+    "issue_date": "2026-03-23T11:18:28.898Z"
   },
   "vpp": {
     "angles": [

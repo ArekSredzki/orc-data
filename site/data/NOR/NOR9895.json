@@ -14,7 +14,12 @@
       0.5419,
       0.7328,
       0.8537
-    ]
+    ],
+    "ilc": 822.2,
+    "aph_tod": 663.2,
+    "aph_tot": 0.9047,
+    "tmf_inshore": 0.7297,
+    "tmf_offshore": 0.8297
   },
   "boat": {
     "builder": "Nordship",
@@ -33,7 +38,10 @@
       "crew": 453.0,
       "wetted_surface": 19.76
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.605,
+    "division": "C",
+    "issue_date": "2026-08-20T21:00:44.395Z"
   },
   "vpp": {
     "angles": [

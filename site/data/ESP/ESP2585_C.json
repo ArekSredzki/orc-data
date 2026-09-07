@@ -14,7 +14,12 @@
       0.6105,
       0.8344,
       0.9749
-    ]
+    ],
+    "ilc": 722.6,
+    "aph_tod": 585.2,
+    "aph_tot": 1.0253,
+    "tmf_inshore": 0.8303,
+    "tmf_offshore": 0.9407
   },
   "boat": {
     "builder": "FURIA YACHTS",
@@ -33,7 +38,10 @@
       "crew": 360.0,
       "wetted_surface": 29.14
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.579,
+    "division": "C",
+    "issue_date": "2026-02-10T11:51:32.482Z"
   },
   "vpp": {
     "angles": [

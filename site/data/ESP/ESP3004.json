@@ -14,7 +14,12 @@
       0.6085,
       0.8012,
       0.898
-    ]
+    ],
+    "ilc": 754.7,
+    "aph_tod": 626.8,
+    "aph_tot": 0.9573,
+    "tmf_inshore": 0.795,
+    "tmf_offshore": 0.8867
   },
   "boat": {
     "builder": "T. PEREZ",
@@ -33,7 +38,10 @@
       "crew": 410.0,
       "wetted_surface": 13.09
     },
-    "stability_index": 94.8
+    "stability_index": 94.8,
+    "cdl": 6.832,
+    "division": "R",
+    "issue_date": "2026-02-05T11:37:18.212Z"
   },
   "vpp": {
     "angles": [

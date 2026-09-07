@@ -14,7 +14,12 @@
       0.6755,
       0.8429,
       0.9619
-    ]
+    ],
+    "ilc": 712.1,
+    "aph_tod": 581.0,
+    "aph_tot": 1.0326,
+    "tmf_inshore": 0.8426,
+    "tmf_offshore": 0.9561
   },
   "boat": {
     "builder": "D.O.D.",
@@ -33,7 +38,10 @@
       "crew": 371.0,
       "wetted_surface": 12.27
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.057,
+    "division": "S",
+    "issue_date": "2026-02-06T08:58:43.576Z"
   },
   "vpp": {
     "angles": [

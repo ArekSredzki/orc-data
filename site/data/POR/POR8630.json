@@ -14,7 +14,12 @@
       0.6632,
       0.8589,
       0.9945
-    ]
+    ],
+    "ilc": 699.9,
+    "aph_tod": 570.1,
+    "aph_tot": 1.0525,
+    "tmf_inshore": 0.8573,
+    "tmf_offshore": 0.9716
   },
   "boat": {
     "builder": "1720 YACHTS UK",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 14.19
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.53,
+    "division": "S",
+    "issue_date": "2026-05-01T06:30:54.590Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.644,
       0.8519,
       0.9603
-    ]
+    ],
+    "ilc": 709.3,
+    "aph_tod": 584.0,
+    "aph_tot": 1.0274,
+    "tmf_inshore": 0.8459,
+    "tmf_offshore": 0.9488
   },
   "boat": {
     "builder": "Nautique Saintonge",
@@ -33,7 +38,10 @@
       "crew": 560.0,
       "wetted_surface": 27.1
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.031,
+    "division": "C",
+    "issue_date": "2026-04-01T19:50:56.026Z"
   },
   "vpp": {
     "angles": [

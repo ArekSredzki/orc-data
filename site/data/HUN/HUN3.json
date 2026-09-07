@@ -14,7 +14,12 @@
       0.8148,
       1.0222,
       1.1648
-    ]
+    ],
+    "ilc": 587.1,
+    "aph_tod": 476.7,
+    "aph_tot": 1.2586,
+    "tmf_inshore": 1.0219,
+    "tmf_offshore": 1.1551
   },
   "boat": {
     "builder": "Balatonf\u00fcred SY",
@@ -33,7 +38,10 @@
       "crew": 900.0,
       "wetted_surface": 38.46
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.43,
+    "division": "C",
+    "issue_date": "2026-04-30T16:16:14.716Z"
   },
   "vpp": {
     "angles": [

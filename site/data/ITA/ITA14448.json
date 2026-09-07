@@ -14,7 +14,12 @@
       0.6356,
       0.8495,
       0.9557
-    ]
+    ],
+    "ilc": 712.5,
+    "aph_tod": 578.2,
+    "aph_tot": 1.0376,
+    "tmf_inshore": 0.8421,
+    "tmf_offshore": 0.9547
   },
   "boat": {
     "builder": "Blue Phoenix Yacht",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 20.89
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.321,
+    "division": "C",
+    "issue_date": "2026-03-06T14:13:11.158Z"
   },
   "vpp": {
     "angles": [

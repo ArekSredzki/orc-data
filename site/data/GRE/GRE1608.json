@@ -14,7 +14,12 @@
       0.5039,
       0.7013,
       0.826
-    ]
+    ],
+    "ilc": 860.6,
+    "aph_tod": 684.1,
+    "aph_tot": 0.8771,
+    "tmf_inshore": 0.6972,
+    "tmf_offshore": 0.8011
   },
   "boat": {
     "builder": "STOREBRO",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 21.06
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.556,
+    "division": "C",
+    "issue_date": "2026-04-05T18:00:48.068Z"
   },
   "vpp": {
     "angles": [

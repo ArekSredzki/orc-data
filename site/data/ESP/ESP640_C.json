@@ -14,7 +14,12 @@
       0.5419,
       0.7342,
       0.8459
-    ]
+    ],
+    "ilc": 822.4,
+    "aph_tod": 675.1,
+    "aph_tot": 0.8888,
+    "tmf_inshore": 0.7296,
+    "tmf_offshore": 0.8173
   },
   "boat": {
     "builder": "ASTILLEROS MU\u00d1OZ M",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 11.62
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.074,
+    "division": "S",
+    "issue_date": "2026-02-27T16:02:29.139Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6748,
       0.9052,
       1.0407
-    ]
+    ],
+    "ilc": 666.5,
+    "aph_tod": 537.8,
+    "aph_tot": 1.1156,
+    "tmf_inshore": 0.9002,
+    "tmf_offshore": 1.024
   },
   "boat": {
     "builder": "LYMAN-MORSE",
@@ -33,7 +38,10 @@
       "crew": 931.0,
       "wetted_surface": 44.23
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.763,
+    "division": "C",
+    "issue_date": "2026-05-06T14:21:20.674Z"
   },
   "vpp": {
     "angles": [

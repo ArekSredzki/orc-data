@@ -14,7 +14,12 @@
       0.5547,
       0.7524,
       0.8623
-    ]
+    ],
+    "ilc": 803.0,
+    "aph_tod": 660.6,
+    "aph_tot": 0.9082,
+    "tmf_inshore": 0.7472,
+    "tmf_offshore": 0.8376
   },
   "boat": {
     "builder": "COLVIC CRAFT",
@@ -33,7 +38,10 @@
       "crew": 441.0,
       "wetted_surface": 18.48
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.683,
+    "division": "C",
+    "issue_date": "2026-04-30T10:38:26.190Z"
   },
   "vpp": {
     "angles": [

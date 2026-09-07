@@ -14,7 +14,12 @@
       0.6927,
       0.9079,
       1.0646
-    ]
+    ],
+    "ilc": 661.6,
+    "aph_tod": 525.1,
+    "aph_tot": 1.1426,
+    "tmf_inshore": 0.9069,
+    "tmf_offshore": 1.046
   },
   "boat": {
     "builder": "Fareast Boats",
@@ -33,7 +38,10 @@
       "crew": 405.0,
       "wetted_surface": 16.15
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.23,
+    "division": "S",
+    "issue_date": "2026-05-08T14:35:29.621Z"
   },
   "vpp": {
     "angles": [

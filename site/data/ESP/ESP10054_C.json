@@ -14,7 +14,12 @@
       0.5379,
       0.7495,
       0.9001
-    ]
+    ],
+    "ilc": 802.8,
+    "aph_tod": 651.8,
+    "aph_tot": 0.9205,
+    "tmf_inshore": 0.7474,
+    "tmf_offshore": 0.8443
   },
   "boat": {
     "builder": "ARCOA-JOUET",
@@ -33,7 +38,10 @@
       "crew": 451.0,
       "wetted_surface": 22.16
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.866,
+    "division": "C",
+    "issue_date": "2026-02-14T07:31:42.340Z"
   },
   "vpp": {
     "angles": [

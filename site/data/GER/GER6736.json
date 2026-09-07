@@ -14,7 +14,12 @@
       0.5313,
       0.7149,
       0.8122
-    ]
+    ],
+    "ilc": 845.4,
+    "aph_tod": 689.5,
+    "aph_tot": 0.8702,
+    "tmf_inshore": 0.7097,
+    "tmf_offshore": 0.8011
   },
   "boat": {
     "builder": "G.G.BAADEVAERFT",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 16.99
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.908,
+    "division": "C",
+    "issue_date": "2026-03-31T14:17:09.042Z"
   },
   "vpp": {
     "angles": [

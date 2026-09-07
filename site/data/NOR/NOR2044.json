@@ -14,7 +14,12 @@
       0.6227,
       0.8182,
       0.9212
-    ]
+    ],
+    "ilc": 738.3,
+    "aph_tod": 608.3,
+    "aph_tot": 0.9864,
+    "tmf_inshore": 0.8127,
+    "tmf_offshore": 0.9107
   },
   "boat": {
     "builder": "Aphrodite 101",
@@ -33,7 +38,10 @@
       "crew": 330.0,
       "wetted_surface": 17.11
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.513,
+    "division": "C",
+    "issue_date": "2026-03-09T13:22:22.649Z"
   },
   "vpp": {
     "angles": [

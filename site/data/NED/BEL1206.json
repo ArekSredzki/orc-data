@@ -14,7 +14,12 @@
       0.6024,
       0.8322,
       0.966
-    ]
+    ],
+    "ilc": 726.1,
+    "aph_tod": 589.1,
+    "aph_tot": 1.0185,
+    "tmf_inshore": 0.8263,
+    "tmf_offshore": 0.9352
   },
   "boat": {
     "builder": "Modus Marine",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 21.5
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.161,
+    "division": "C",
+    "issue_date": "2026-04-01T19:38:59.492Z"
   },
   "vpp": {
     "angles": [

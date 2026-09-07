@@ -14,7 +14,12 @@
       0.7098,
       0.94,
       1.0529
-    ]
+    ],
+    "ilc": 643.8,
+    "aph_tod": 526.2,
+    "aph_tot": 1.1403,
+    "tmf_inshore": 0.932,
+    "tmf_offshore": 1.0508
   },
   "boat": {
     "builder": "Cantieri d'Este",
@@ -33,7 +38,10 @@
       "crew": 630.0,
       "wetted_surface": 31.37
     },
-    "stability_index": 116.2
+    "stability_index": 116.2,
+    "cdl": 10.25,
+    "division": "C",
+    "issue_date": "2026-04-02T12:57:38.992Z"
   },
   "vpp": {
     "angles": [

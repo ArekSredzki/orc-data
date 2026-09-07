@@ -14,7 +14,12 @@
       0.5468,
       0.758,
       0.8923
-    ]
+    ],
+    "ilc": 795.7,
+    "aph_tod": 646.3,
+    "aph_tot": 0.9284,
+    "tmf_inshore": 0.754,
+    "tmf_offshore": 0.8513
   },
   "boat": {
     "builder": "Furia Yatchs",
@@ -33,7 +38,10 @@
       "crew": 420.0,
       "wetted_surface": 20.28
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.12,
+    "division": "C",
+    "issue_date": "2026-04-20T19:26:49.703Z"
   },
   "vpp": {
     "angles": [

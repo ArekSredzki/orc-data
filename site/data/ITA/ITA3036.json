@@ -14,7 +14,12 @@
       0.7233,
       0.932,
       1.0724
-    ]
+    ],
+    "ilc": 645.3,
+    "aph_tod": 526.3,
+    "aph_tot": 1.1401,
+    "tmf_inshore": 0.9298,
+    "tmf_offshore": 1.0531
   },
   "boat": {
     "builder": "Carrol Marine",
@@ -33,7 +38,10 @@
       "crew": 525.0,
       "wetted_surface": 17.31
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.976,
+    "division": "R",
+    "issue_date": "2026-02-10T12:14:17.730Z"
   },
   "vpp": {
     "angles": [

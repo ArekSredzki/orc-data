@@ -14,7 +14,12 @@
       0.769,
       1.0037,
       1.1238
-    ]
+    ],
+    "ilc": 602.2,
+    "aph_tod": 490.4,
+    "aph_tot": 1.2235,
+    "tmf_inshore": 0.9964,
+    "tmf_offshore": 1.1273
   },
   "boat": {
     "builder": "GRAND SOLEIL",
@@ -33,7 +38,10 @@
       "crew": 810.0,
       "wetted_surface": 36.18
     },
-    "stability_index": 127.0
+    "stability_index": 127.0,
+    "cdl": 11.196,
+    "division": "C",
+    "issue_date": "2026-06-11T11:29:43.409Z"
   },
   "vpp": {
     "angles": [

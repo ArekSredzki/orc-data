@@ -14,7 +14,12 @@
       0.5302,
       0.7283,
       0.8305
-    ]
+    ],
+    "ilc": 831.8,
+    "aph_tod": 670.1,
+    "aph_tot": 0.8954,
+    "tmf_inshore": 0.7213,
+    "tmf_offshore": 0.8211
   },
   "boat": {
     "builder": "Vene Bjorndahl",
@@ -33,7 +38,10 @@
       "crew": 265.0,
       "wetted_surface": 14.24
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.307,
+    "division": "R",
+    "issue_date": "2026-03-31T20:10:20.572Z"
   },
   "vpp": {
     "angles": [

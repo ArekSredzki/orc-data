@@ -14,7 +14,12 @@
       0.5589,
       0.7375,
       0.8316
-    ]
+    ],
+    "ilc": 819.2,
+    "aph_tod": 668.5,
+    "aph_tot": 0.8975,
+    "tmf_inshore": 0.7325,
+    "tmf_offshore": 0.8271
   },
   "boat": {
     "builder": "Hunter Yachts",
@@ -33,7 +38,10 @@
       "crew": 396.0,
       "wetted_surface": 17.1
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.406,
+    "division": "C",
+    "issue_date": "2026-06-01T12:43:38.320Z"
   },
   "vpp": {
     "angles": [

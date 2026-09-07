@@ -14,7 +14,12 @@
       0.6929,
       0.9415,
       1.086
-    ]
+    ],
+    "ilc": 641.6,
+    "aph_tod": 520.6,
+    "aph_tot": 1.1524,
+    "tmf_inshore": 0.9351,
+    "tmf_offshore": 1.0574
   },
   "boat": {
     "builder": "RODMAN",
@@ -33,7 +38,10 @@
       "crew": 750.0,
       "wetted_surface": 32.6
     },
-    "stability_index": 122.9
+    "stability_index": 122.9,
+    "cdl": 10.515,
+    "division": "R",
+    "issue_date": "2026-07-07T07:44:51.784Z"
   },
   "vpp": {
     "angles": [

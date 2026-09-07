@@ -14,7 +14,12 @@
       0.6546,
       0.9122,
       1.0795
-    ]
+    ],
+    "ilc": 661.2,
+    "aph_tod": 527.5,
+    "aph_tot": 1.1374,
+    "tmf_inshore": 0.9074,
+    "tmf_offshore": 1.0377
   },
   "boat": {
     "builder": "Mao Ta",
@@ -33,7 +38,10 @@
       "crew": 1088.0,
       "wetted_surface": 55.55
     },
-    "stability_index": 131.2
+    "stability_index": 131.2,
+    "cdl": 11.282,
+    "division": "C",
+    "issue_date": "2026-05-19T18:00:44.759Z"
   },
   "vpp": {
     "angles": [

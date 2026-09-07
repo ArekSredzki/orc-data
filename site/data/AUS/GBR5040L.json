@@ -14,7 +14,12 @@
       0.781,
       1.0241,
       1.1913
-    ]
+    ],
+    "ilc": 587.3,
+    "aph_tod": 470.9,
+    "aph_tot": 1.2741,
+    "tmf_inshore": 1.0217,
+    "tmf_offshore": 1.1708
   },
   "boat": {
     "builder": "Melges",
@@ -33,7 +38,10 @@
       "crew": 686.0,
       "wetted_surface": 27.82
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.867,
+    "division": "R",
+    "issue_date": "2026-07-08T04:27:58.706Z"
   },
   "vpp": {
     "angles": [

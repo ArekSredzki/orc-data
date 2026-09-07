@@ -14,7 +14,12 @@
       0.5048,
       0.683,
       0.788
-    ]
+    ],
+    "ilc": 883.5,
+    "aph_tod": 708.7,
+    "aph_tot": 0.8467,
+    "tmf_inshore": 0.6791,
+    "tmf_offshore": 0.775
   },
   "boat": {
     "builder": "Pheon Tachts",
@@ -33,7 +38,10 @@
       "crew": 480.0,
       "wetted_surface": 19.3
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.872,
+    "division": "C",
+    "issue_date": "2026-03-31T14:02:30.271Z"
   },
   "vpp": {
     "angles": [

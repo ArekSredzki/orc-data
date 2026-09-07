@@ -14,7 +14,12 @@
       0.5848,
       0.7852,
       0.8977
-    ]
+    ],
+    "ilc": 769.0,
+    "aph_tod": 628.4,
+    "aph_tot": 0.9548,
+    "tmf_inshore": 0.7802,
+    "tmf_offshore": 0.8807
   },
   "boat": {
     "builder": "Unknown (Built NZ)",
@@ -33,7 +38,10 @@
       "crew": 390.0,
       "wetted_surface": 12.35
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.579,
+    "division": "S",
+    "issue_date": "2026-06-11T00:32:42.030Z"
   },
   "vpp": {
     "angles": [

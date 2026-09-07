@@ -14,7 +14,12 @@
       0.6812,
       0.8762,
       0.98
-    ]
+    ],
+    "ilc": 689.1,
+    "aph_tod": 557.9,
+    "aph_tot": 1.0755,
+    "tmf_inshore": 0.8707,
+    "tmf_offshore": 0.9907
   },
   "boat": {
     "builder": "Pacific Boat Works",
@@ -33,7 +38,10 @@
       "crew": 510.0,
       "wetted_surface": 20.34
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.41,
+    "division": "R",
+    "issue_date": "2026-04-22T15:04:15.294Z"
   },
   "vpp": {
     "angles": [

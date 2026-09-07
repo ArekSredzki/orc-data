@@ -14,7 +14,12 @@
       0.7096,
       0.9604,
       1.0897
-    ]
+    ],
+    "ilc": 630.1,
+    "aph_tod": 509.0,
+    "aph_tot": 1.1787,
+    "tmf_inshore": 0.9522,
+    "tmf_offshore": 1.0821
   },
   "boat": {
     "builder": "SOLARIS",
@@ -33,7 +38,10 @@
       "crew": 750.0,
       "wetted_surface": 35.95
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.775,
+    "division": "C",
+    "issue_date": "2026-06-11T19:47:00.815Z"
   },
   "vpp": {
     "angles": [

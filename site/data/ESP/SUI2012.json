@@ -14,7 +14,12 @@
       0.809,
       1.0696,
       1.2225
-    ]
+    ],
+    "ilc": 564.0,
+    "aph_tod": 460.1,
+    "aph_tot": 1.3041,
+    "tmf_inshore": 1.0639,
+    "tmf_offshore": 1.2004
   },
   "boat": {
     "builder": "DK Yachts",
@@ -33,7 +38,10 @@
       "crew": 1075.0,
       "wetted_surface": 40.51
     },
-    "stability_index": 141.1
+    "stability_index": 141.1,
+    "cdl": 12.761,
+    "division": "R",
+    "issue_date": "2026-08-03T08:11:21.951Z"
   },
   "vpp": {
     "angles": [

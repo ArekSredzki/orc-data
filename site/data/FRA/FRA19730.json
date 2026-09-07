@@ -14,7 +14,12 @@
       0.6097,
       0.8384,
       0.9678
-    ]
+    ],
+    "ilc": 721.2,
+    "aph_tod": 581.7,
+    "aph_tot": 1.0315,
+    "tmf_inshore": 0.832,
+    "tmf_offshore": 0.9457
   },
   "boat": {
     "builder": "JMV CHERBOURG",
@@ -33,7 +38,10 @@
       "crew": 573.0,
       "wetted_surface": 19.37
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.134,
+    "division": "R",
+    "issue_date": "2026-03-26T21:57:37.982Z"
   },
   "vpp": {
     "angles": [

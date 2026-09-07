@@ -14,7 +14,12 @@
       0.6918,
       0.9394,
       1.0785
-    ]
+    ],
+    "ilc": 643.5,
+    "aph_tod": 520.6,
+    "aph_tot": 1.1525,
+    "tmf_inshore": 0.9324,
+    "tmf_offshore": 1.0577
   },
   "boat": {
     "builder": "SINERGIA",
@@ -33,7 +38,10 @@
       "crew": 740.0,
       "wetted_surface": 32.57
     },
-    "stability_index": 120.0
+    "stability_index": 120.0,
+    "cdl": 10.495,
+    "division": "C",
+    "issue_date": "2026-08-01T21:57:00.911Z"
   },
   "vpp": {
     "angles": [

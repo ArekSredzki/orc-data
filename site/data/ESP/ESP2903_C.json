@@ -14,7 +14,12 @@
       0.6778,
       0.888,
       1.0035
-    ]
+    ],
+    "ilc": 679.7,
+    "aph_tod": 562.4,
+    "aph_tot": 1.0669,
+    "tmf_inshore": 0.8827,
+    "tmf_offshore": 0.9864
   },
   "boat": {
     "builder": "BARRACUDA",
@@ -33,7 +38,10 @@
       "crew": 560.0,
       "wetted_surface": 17.64
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.413,
+    "division": "R",
+    "issue_date": "2026-04-17T22:57:45.826Z"
   },
   "vpp": {
     "angles": [

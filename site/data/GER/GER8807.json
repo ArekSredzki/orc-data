@@ -14,7 +14,12 @@
       0.6618,
       0.8635,
       0.9859
-    ]
+    ],
+    "ilc": 697.2,
+    "aph_tod": 560.9,
+    "aph_tot": 1.0697,
+    "tmf_inshore": 0.8605,
+    "tmf_offshore": 0.9794
   },
   "boat": {
     "builder": "VIND\u00d6",
@@ -33,7 +38,10 @@
       "crew": 340.0,
       "wetted_surface": 29.79
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.903,
+    "division": "C",
+    "issue_date": "2026-05-22T07:51:36.745Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6242,
       0.8745,
       1.0294
-    ]
+    ],
+    "ilc": 690.6,
+    "aph_tod": 557.3,
+    "aph_tot": 1.0766,
+    "tmf_inshore": 0.8689,
+    "tmf_offshore": 0.9855
   },
   "boat": {
     "builder": "Hanse/Dehler",
@@ -33,7 +38,10 @@
       "crew": 800.0,
       "wetted_surface": 33.36
     },
-    "stability_index": 115.8
+    "stability_index": 115.8,
+    "cdl": 9.571,
+    "division": "C",
+    "issue_date": "2026-05-23T05:34:49.676Z"
   },
   "vpp": {
     "angles": [

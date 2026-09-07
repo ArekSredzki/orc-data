@@ -14,7 +14,12 @@
       0.8485,
       1.2004,
       1.4197
-    ]
+    ],
+    "ilc": 503.6,
+    "aph_tod": 398.4,
+    "aph_tot": 1.5061,
+    "tmf_inshore": 1.1913,
+    "tmf_offshore": 1.3717
   },
   "boat": {
     "builder": "Tencara",
@@ -33,7 +38,10 @@
       "crew": 1700.0,
       "wetted_surface": 126.75
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 20.422,
+    "division": "C",
+    "issue_date": "2026-06-11T12:32:51.392Z"
   },
   "vpp": {
     "angles": [

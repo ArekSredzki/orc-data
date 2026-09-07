@@ -14,7 +14,12 @@
       0.4991,
       0.6864,
       0.8013
-    ]
+    ],
+    "ilc": 878.8,
+    "aph_tod": 717.2,
+    "aph_tot": 0.8366,
+    "tmf_inshore": 0.6827,
+    "tmf_offshore": 0.769
   },
   "boat": {
     "builder": "TAYLOR",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 10.92
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.466,
+    "division": "S",
+    "issue_date": "2026-03-17T13:29:44.094Z"
   },
   "vpp": {
     "angles": [

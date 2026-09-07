@@ -14,7 +14,12 @@
       0.5487,
       0.7634,
       0.889
-    ]
+    ],
+    "ilc": 791.6,
+    "aph_tod": 647.9,
+    "aph_tot": 0.9261,
+    "tmf_inshore": 0.758,
+    "tmf_offshore": 0.851
   },
   "boat": {
     "builder": "Ton Cup",
@@ -33,7 +38,10 @@
       "crew": 420.0,
       "wetted_surface": 14.54
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.845,
+    "division": "S",
+    "issue_date": "2026-04-02T12:29:48.258Z"
   },
   "vpp": {
     "angles": [

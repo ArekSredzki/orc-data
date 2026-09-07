@@ -14,7 +14,12 @@
       0.6661,
       0.8907,
       1.0093
-    ]
+    ],
+    "ilc": 679.0,
+    "aph_tod": 553.1,
+    "aph_tot": 1.0847,
+    "tmf_inshore": 0.8837,
+    "tmf_offshore": 0.9984
   },
   "boat": {
     "builder": "NEW YACHTS",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 19.23
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.724,
+    "division": "R",
+    "issue_date": "2026-06-15T00:19:50.759Z"
   },
   "vpp": {
     "angles": [

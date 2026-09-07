@@ -14,7 +14,12 @@
       0.7552,
       0.9666,
       1.1281
-    ]
+    ],
+    "ilc": 620.2,
+    "aph_tod": 501.7,
+    "aph_tot": 1.1958,
+    "tmf_inshore": 0.9675,
+    "tmf_offshore": 1.0999
   },
   "boat": {
     "builder": "Betts Marine",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 20.89
     },
-    "stability_index": 103.7
+    "stability_index": 103.7,
+    "cdl": 9.336,
+    "division": "R",
+    "issue_date": "2026-05-05T14:05:45.557Z"
   },
   "vpp": {
     "angles": [

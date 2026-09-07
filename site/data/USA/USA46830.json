@@ -14,7 +14,12 @@
       0.7168,
       0.9254,
       1.09
-    ]
+    ],
+    "ilc": 647.4,
+    "aph_tod": 518.0,
+    "aph_tot": 1.1584,
+    "tmf_inshore": 0.9268,
+    "tmf_offshore": 1.0613
   },
   "boat": {
     "builder": "Corsair Marine",
@@ -33,7 +38,10 @@
       "crew": 455.0,
       "wetted_surface": 16.07
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.328,
+    "division": "S",
+    "issue_date": "2026-04-03T17:17:52.092Z"
   },
   "vpp": {
     "angles": [

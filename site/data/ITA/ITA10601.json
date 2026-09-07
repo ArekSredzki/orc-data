@@ -14,7 +14,12 @@
       0.6527,
       0.8877,
       1.0201
-    ]
+    ],
+    "ilc": 680.9,
+    "aph_tod": 548.1,
+    "aph_tot": 1.0947,
+    "tmf_inshore": 0.8812,
+    "tmf_offshore": 1.0032
   },
   "boat": {
     "builder": "Canados",
@@ -33,7 +38,10 @@
       "crew": 550.0,
       "wetted_surface": 37.67
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.046,
+    "division": "C",
+    "issue_date": "2026-05-13T14:05:50.925Z"
   },
   "vpp": {
     "angles": [

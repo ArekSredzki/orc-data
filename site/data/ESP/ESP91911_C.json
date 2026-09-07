@@ -14,7 +14,12 @@
       0.6093,
       0.8092,
       0.9101
-    ]
+    ],
+    "ilc": 747.3,
+    "aph_tod": 612.7,
+    "aph_tot": 0.9793,
+    "tmf_inshore": 0.8029,
+    "tmf_offshore": 0.9028
   },
   "boat": {
     "builder": "KIRIE",
@@ -33,7 +38,10 @@
       "crew": 240.0,
       "wetted_surface": 16.73
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.201,
+    "division": "C",
+    "issue_date": "2026-03-19T06:26:51.470Z"
   },
   "vpp": {
     "angles": [

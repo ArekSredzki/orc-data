@@ -14,7 +14,12 @@
       0.619,
       0.8557,
       0.9823
-    ]
+    ],
+    "ilc": 707.9,
+    "aph_tod": 570.7,
+    "aph_tot": 1.0514,
+    "tmf_inshore": 0.8476,
+    "tmf_offshore": 0.9632
   },
   "boat": {
     "builder": "Wasa Marin",
@@ -33,7 +38,10 @@
       "crew": 370.0,
       "wetted_surface": 19.49
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.727,
+    "division": "R",
+    "issue_date": "2026-04-14T10:52:16.579Z"
   },
   "vpp": {
     "angles": [

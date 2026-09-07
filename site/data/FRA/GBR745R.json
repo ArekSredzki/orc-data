@@ -14,7 +14,12 @@
       0.8148,
       1.0807,
       1.2513
-    ]
+    ],
+    "ilc": 557.6,
+    "aph_tod": 452.4,
+    "aph_tot": 1.3262,
+    "tmf_inshore": 1.0761,
+    "tmf_offshore": 1.2208
   },
   "boat": {
     "builder": "Composite Works",
@@ -33,7 +38,10 @@
       "crew": 882.0,
       "wetted_surface": 34.04
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 12.552,
+    "division": "C",
+    "issue_date": "2026-08-21T08:50:07.618Z"
   },
   "vpp": {
     "angles": [

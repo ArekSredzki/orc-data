@@ -14,7 +14,12 @@
       0.606,
       0.8281,
       0.9623
-    ]
+    ],
+    "ilc": 728.6,
+    "aph_tod": 596.5,
+    "aph_tot": 1.0058,
+    "tmf_inshore": 0.8235,
+    "tmf_offshore": 0.9258
   },
   "boat": {
     "builder": "Jachtw. Huisman",
@@ -33,7 +38,10 @@
       "crew": 581.0,
       "wetted_surface": 26.35
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.134,
+    "division": "C",
+    "issue_date": "2026-04-01T19:41:35.542Z"
   },
   "vpp": {
     "angles": [

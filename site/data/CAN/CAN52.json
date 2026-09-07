@@ -14,7 +14,12 @@
       0.9147,
       1.1797,
       1.3804
-    ]
+    ],
+    "ilc": 508.2,
+    "aph_tod": 407.7,
+    "aph_tot": 1.4717,
+    "tmf_inshore": 1.1806,
+    "tmf_offshore": 1.349
   },
   "boat": {
     "builder": "Westerly Yacht",
@@ -33,7 +38,10 @@
       "crew": 1007.0,
       "wetted_surface": 42.24
     },
-    "stability_index": 145.2
+    "stability_index": 145.2,
+    "cdl": 14.706,
+    "division": "R",
+    "issue_date": "2026-05-15T22:24:37.978Z"
   },
   "vpp": {
     "angles": [

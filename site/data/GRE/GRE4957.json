@@ -14,7 +14,12 @@
       0.5033,
       0.6791,
       0.7741
-    ]
+    ],
+    "ilc": 889.8,
+    "aph_tod": 731.7,
+    "aph_tot": 0.82,
+    "tmf_inshore": 0.6743,
+    "tmf_offshore": 0.7561
   },
   "boat": {
     "builder": "ATLANTA MARINE",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 11.03
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.24,
+    "division": "C",
+    "issue_date": "2026-05-14T10:03:12.906Z"
   },
   "vpp": {
     "angles": [

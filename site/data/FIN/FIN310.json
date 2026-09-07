@@ -14,7 +14,12 @@
       0.579,
       0.7639,
       0.8532
-    ]
+    ],
+    "ilc": 792.0,
+    "aph_tod": 651.6,
+    "aph_tot": 0.9208,
+    "tmf_inshore": 0.7576,
+    "tmf_offshore": 0.85
   },
   "boat": {
     "builder": "E Antinoja",
@@ -33,7 +38,10 @@
       "crew": 340.0,
       "wetted_surface": 18.07
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.617,
+    "division": "C",
+    "issue_date": "2026-07-20T19:53:09.873Z"
   },
   "vpp": {
     "angles": [

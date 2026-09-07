@@ -14,7 +14,12 @@
       0.6729,
       0.8894,
       1.0003
-    ]
+    ],
+    "ilc": 679.9,
+    "aph_tod": 553.6,
+    "aph_tot": 1.0838,
+    "tmf_inshore": 0.8825,
+    "tmf_offshore": 0.9985
   },
   "boat": {
     "builder": "Cantiere Tapetto",
@@ -33,7 +38,10 @@
       "crew": 595.0,
       "wetted_surface": 22.37
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.009,
+    "division": "C",
+    "issue_date": "2026-02-18T19:47:08.647Z"
   },
   "vpp": {
     "angles": [

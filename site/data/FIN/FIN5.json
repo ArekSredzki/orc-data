@@ -14,7 +14,12 @@
       0.5712,
       0.7871,
       0.9159
-    ]
+    ],
+    "ilc": 767.4,
+    "aph_tod": 620.8,
+    "aph_tot": 0.9665,
+    "tmf_inshore": 0.7819,
+    "tmf_offshore": 0.8858
   },
   "boat": {
     "builder": "Wilenius B\u00e5tvarv",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 28.42
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.898,
+    "division": "C",
+    "issue_date": "2026-05-24T05:44:00.190Z"
   },
   "vpp": {
     "angles": [

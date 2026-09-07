@@ -14,7 +14,12 @@
       0.6914,
       0.9427,
       1.0779
-    ]
+    ],
+    "ilc": 642.0,
+    "aph_tod": 515.5,
+    "aph_tot": 1.1639,
+    "tmf_inshore": 0.9346,
+    "tmf_offshore": 1.0667
   },
   "boat": {
     "builder": "Cantiere Alto Adriatico",
@@ -33,7 +38,10 @@
       "crew": 480.0,
       "wetted_surface": 29.95
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.42,
+    "division": "C",
+    "issue_date": "2026-07-09T10:11:33.345Z"
   },
   "vpp": {
     "angles": [

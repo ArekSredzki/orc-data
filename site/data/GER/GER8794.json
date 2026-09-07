@@ -14,7 +14,12 @@
       0.5658,
       0.7292,
       0.8054
-    ]
+    ],
+    "ilc": 829.4,
+    "aph_tod": 685.4,
+    "aph_tot": 0.8754,
+    "tmf_inshore": 0.7234,
+    "tmf_offshore": 0.8104
   },
   "boat": {
     "builder": "Kvistgaard DK",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 14.17
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.751,
+    "division": "C",
+    "issue_date": "2026-05-12T21:10:45.385Z"
   },
   "vpp": {
     "angles": [

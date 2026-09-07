@@ -14,7 +14,12 @@
       1.1022,
       1.4754,
       1.7623
-    ]
+    ],
+    "ilc": 406.8,
+    "aph_tod": 324.2,
+    "aph_tot": 1.8507,
+    "tmf_inshore": 1.4749,
+    "tmf_offshore": 1.6861
   },
   "boat": {
     "builder": "MCCA",
@@ -33,7 +38,10 @@
       "crew": 2200.0,
       "wetted_surface": 91.16
     },
-    "stability_index": 129.7
+    "stability_index": 129.7,
+    "cdl": 23.84,
+    "division": "R",
+    "issue_date": "2026-08-12T19:27:34.754Z"
   },
   "vpp": {
     "angles": [

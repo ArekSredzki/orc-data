@@ -14,7 +14,12 @@
       0.613,
       0.8559,
       1.0133
-    ]
+    ],
+    "ilc": 704.9,
+    "aph_tod": 567.9,
+    "aph_tot": 1.0566,
+    "tmf_inshore": 0.8512,
+    "tmf_offshore": 0.9664
   },
   "boat": {
     "builder": "Jachtw. F.Maas",
@@ -33,7 +38,10 @@
       "crew": 767.0,
       "wetted_surface": 39.88
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.446,
+    "division": "C",
+    "issue_date": "2026-04-04T17:49:35.802Z"
   },
   "vpp": {
     "angles": [

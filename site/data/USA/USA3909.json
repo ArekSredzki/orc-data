@@ -14,7 +14,12 @@
       0.7992,
       1.0191,
       1.1675
-    ]
+    ],
+    "ilc": 589.4,
+    "aph_tod": 476.9,
+    "aph_tot": 1.2582,
+    "tmf_inshore": 1.0179,
+    "tmf_offshore": 1.1572
   },
   "boat": {
     "builder": "Lindsay",
@@ -33,7 +38,10 @@
       "crew": 694.0,
       "wetted_surface": 27.31
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.963,
+    "division": "R",
+    "issue_date": "2026-02-25T16:39:07.064Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.752,
       0.9689,
       1.0868
-    ]
+    ],
+    "ilc": 622.7,
+    "aph_tod": 502.7,
+    "aph_tot": 1.1935,
+    "tmf_inshore": 0.9635,
+    "tmf_offshore": 1.0973
   },
   "boat": {
     "builder": "Tofinou",
@@ -33,7 +38,10 @@
       "crew": 600.0,
       "wetted_surface": 27.75
     },
-    "stability_index": 135.6
+    "stability_index": 135.6,
+    "cdl": 10.553,
+    "division": "C",
+    "issue_date": "2026-07-02T11:22:48.656Z"
   },
   "vpp": {
     "angles": [

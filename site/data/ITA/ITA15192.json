@@ -14,7 +14,12 @@
       0.5822,
       0.8583,
       1.0813
-    ]
+    ],
+    "ilc": 701.3,
+    "aph_tod": 552.2,
+    "aph_tot": 1.0865,
+    "tmf_inshore": 0.8556,
+    "tmf_offshore": 0.987
   },
   "boat": {
     "builder": "Craglietto",
@@ -33,7 +38,10 @@
       "crew": 850.0,
       "wetted_surface": 67.02
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 12.019,
+    "division": "C",
+    "issue_date": "2026-02-12T14:00:27.004Z"
   },
   "vpp": {
     "angles": [

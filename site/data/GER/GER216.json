@@ -14,7 +14,12 @@
       0.6671,
       0.8903,
       1.017
-    ]
+    ],
+    "ilc": 678.0,
+    "aph_tod": 554.2,
+    "aph_tot": 1.0826,
+    "tmf_inshore": 0.8849,
+    "tmf_offshore": 0.9968
   },
   "boat": {
     "builder": "FELTZ",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 26.89
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.557,
+    "division": "C",
+    "issue_date": "2026-04-08T14:45:34.297Z"
   },
   "vpp": {
     "angles": [

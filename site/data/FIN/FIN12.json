@@ -14,7 +14,12 @@
       0.6925,
       0.9123,
       1.0476
-    ]
+    ],
+    "ilc": 660.1,
+    "aph_tod": 538.0,
+    "aph_tot": 1.1152,
+    "tmf_inshore": 0.9089,
+    "tmf_offshore": 1.025
   },
   "boat": {
     "builder": "Minneford Yacht Ya",
@@ -33,7 +38,10 @@
       "crew": 480.0,
       "wetted_surface": 32.74
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.576,
+    "division": "C",
+    "issue_date": "2026-08-13T18:55:47.362Z"
   },
   "vpp": {
     "angles": [

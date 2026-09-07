@@ -14,7 +14,12 @@
       0.9024,
       1.1913,
       1.3812
-    ]
+    ],
+    "ilc": 505.3,
+    "aph_tod": 399.2,
+    "aph_tot": 1.503,
+    "tmf_inshore": 1.1874,
+    "tmf_offshore": 1.3683
   },
   "boat": {
     "builder": "Lee / Santa Cruz",
@@ -33,7 +38,10 @@
       "crew": 1400.0,
       "wetted_surface": 52.52
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 16.39,
+    "division": "R",
+    "issue_date": "2026-03-17T21:06:01.670Z"
   },
   "vpp": {
     "angles": [

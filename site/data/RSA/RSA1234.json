@@ -14,7 +14,12 @@
       0.7188,
       0.9885,
       1.1408
-    ]
+    ],
+    "ilc": 612.0,
+    "aph_tod": 494.6,
+    "aph_tot": 1.2131,
+    "tmf_inshore": 0.9804,
+    "tmf_offshore": 1.1127
   },
   "boat": {
     "builder": "J.J. Provoyeur",
@@ -33,7 +38,10 @@
       "crew": 680.0,
       "wetted_surface": 34.0
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.041,
+    "division": "R",
+    "issue_date": "2026-06-05T12:12:44.133Z"
   },
   "vpp": {
     "angles": [

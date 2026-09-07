@@ -14,7 +14,12 @@
       0.7197,
       0.9477,
       1.1003
-    ]
+    ],
+    "ilc": 635.2,
+    "aph_tod": 509.0,
+    "aph_tot": 1.1788,
+    "tmf_inshore": 0.9446,
+    "tmf_offshore": 1.083
   },
   "boat": {
     "builder": "Stocznia Ustka",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 21.17
     },
-    "stability_index": 126.4
+    "stability_index": 126.4,
+    "cdl": 9.303,
+    "division": "R",
+    "issue_date": "2026-06-15T14:35:09.802Z"
   },
   "vpp": {
     "angles": [

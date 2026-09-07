@@ -14,7 +14,12 @@
       0.6576,
       0.8642,
       0.999
-    ]
+    ],
+    "ilc": 696.8,
+    "aph_tod": 563.4,
+    "aph_tot": 1.0649,
+    "tmf_inshore": 0.861,
+    "tmf_offshore": 0.9793
   },
   "boat": {
     "builder": "ISSA",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 15.93
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.913,
+    "division": "S",
+    "issue_date": "2026-04-01T10:15:35.886Z"
   },
   "vpp": {
     "angles": [

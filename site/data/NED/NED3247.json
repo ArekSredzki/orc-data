@@ -14,7 +14,12 @@
       0.5382,
       0.7286,
       0.8387
-    ]
+    ],
+    "ilc": 828.5,
+    "aph_tod": 680.7,
+    "aph_tot": 0.8814,
+    "tmf_inshore": 0.7242,
+    "tmf_offshore": 0.8127
   },
   "boat": {
     "builder": "BEPS LTD QUAY WORK",
@@ -33,7 +38,10 @@
       "crew": 344.0,
       "wetted_surface": 13.43
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.987,
+    "division": "R",
+    "issue_date": "2026-04-01T19:44:59.191Z"
   },
   "vpp": {
     "angles": [

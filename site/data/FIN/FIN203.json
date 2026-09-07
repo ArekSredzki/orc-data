@@ -14,7 +14,12 @@
       0.6148,
       0.8483,
       0.9659
-    ]
+    ],
+    "ilc": 714.9,
+    "aph_tod": 570.3,
+    "aph_tot": 1.052,
+    "tmf_inshore": 0.8392,
+    "tmf_offshore": 0.9619
   },
   "boat": {
     "builder": "Fisks\u00e4tra Varv",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 20.88
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.669,
+    "division": "C",
+    "issue_date": "2026-05-08T21:49:36.334Z"
   },
   "vpp": {
     "angles": [

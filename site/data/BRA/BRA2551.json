@@ -14,7 +14,12 @@
       0.7198,
       0.9357,
       1.0894
-    ]
+    ],
+    "ilc": 642.0,
+    "aph_tod": 514.7,
+    "aph_tot": 1.1657,
+    "tmf_inshore": 0.9346,
+    "tmf_offshore": 1.0711
   },
   "boat": {
     "builder": "Zonda Boats",
@@ -33,7 +38,10 @@
       "crew": 640.0,
       "wetted_surface": 18.63
     },
-    "stability_index": 109.3
+    "stability_index": 109.3,
+    "cdl": 9.036,
+    "division": "R",
+    "issue_date": "2026-02-04T20:18:33.781Z"
   },
   "vpp": {
     "angles": [

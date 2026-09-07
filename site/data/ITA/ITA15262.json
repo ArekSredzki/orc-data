@@ -14,7 +14,12 @@
       0.6992,
       0.9635,
       1.1082
-    ]
+    ],
+    "ilc": 628.2,
+    "aph_tod": 505.6,
+    "aph_tot": 1.1867,
+    "tmf_inshore": 0.9551,
+    "tmf_offshore": 1.0875
   },
   "boat": {
     "builder": "C.N.Yacht 2000",
@@ -33,7 +38,10 @@
       "crew": 700.0,
       "wetted_surface": 31.69
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.172,
+    "division": "C",
+    "issue_date": "2026-06-09T12:14:14.551Z"
   },
   "vpp": {
     "angles": [

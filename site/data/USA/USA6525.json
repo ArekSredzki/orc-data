@@ -14,7 +14,12 @@
       0.6365,
       0.8519,
       0.9704
-    ]
+    ],
+    "ilc": 709.0,
+    "aph_tod": 585.4,
+    "aph_tot": 1.0249,
+    "tmf_inshore": 0.8463,
+    "tmf_offshore": 0.9456
   },
   "boat": {
     "builder": "ISLAND YACHTS",
@@ -33,7 +38,10 @@
       "crew": 817.0,
       "wetted_surface": 23.65
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.368,
+    "division": "R",
+    "issue_date": "2026-07-03T11:21:12.542Z"
   },
   "vpp": {
     "angles": [

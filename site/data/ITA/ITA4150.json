@@ -14,7 +14,12 @@
       0.7745,
       1.0233,
       1.1596
-    ]
+    ],
+    "ilc": 590.5,
+    "aph_tod": 479.3,
+    "aph_tot": 1.2519,
+    "tmf_inshore": 1.0161,
+    "tmf_offshore": 1.1527
   },
   "boat": {
     "builder": "Due Emme Marine",
@@ -33,7 +38,10 @@
       "crew": 800.0,
       "wetted_surface": 34.15
     },
-    "stability_index": 136.0
+    "stability_index": 136.0,
+    "cdl": 11.469,
+    "division": "C",
+    "issue_date": "2026-03-27T11:36:52.180Z"
   },
   "vpp": {
     "angles": [

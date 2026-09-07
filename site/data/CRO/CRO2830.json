@@ -14,7 +14,12 @@
       0.837,
       1.0569,
       1.1961
-    ]
+    ],
+    "ilc": 568.9,
+    "aph_tod": 461.0,
+    "aph_tot": 1.3015,
+    "tmf_inshore": 1.0546,
+    "tmf_offshore": 1.1961
   },
   "boat": {
     "builder": "Nautic Boat Hun.",
@@ -33,7 +38,10 @@
       "crew": 900.0,
       "wetted_surface": 33.88
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 12.118,
+    "division": "C",
+    "issue_date": "2026-02-06T14:18:30.650Z"
   },
   "vpp": {
     "angles": [

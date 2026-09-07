@@ -14,7 +14,12 @@
       0.5625,
       0.7823,
       0.9221
-    ]
+    ],
+    "ilc": 771.1,
+    "aph_tod": 627.1,
+    "aph_tot": 0.9568,
+    "tmf_inshore": 0.7781,
+    "tmf_offshore": 0.8785
   },
   "boat": {
     "builder": "Jachtw. Victoria",
@@ -33,7 +38,10 @@
       "crew": 600.0,
       "wetted_surface": 25.49
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.51,
+    "division": "R",
+    "issue_date": "2026-04-01T19:44:22.866Z"
   },
   "vpp": {
     "angles": [

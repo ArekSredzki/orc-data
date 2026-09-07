@@ -14,7 +14,12 @@
       0.5768,
       0.7929,
       0.9134
-    ]
+    ],
+    "ilc": 762.5,
+    "aph_tod": 624.0,
+    "aph_tot": 0.9615,
+    "tmf_inshore": 0.7869,
+    "tmf_offshore": 0.8844
   },
   "boat": {
     "builder": "DICK US YACHTING",
@@ -33,7 +38,10 @@
       "crew": 360.0,
       "wetted_surface": 20.7
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.414,
+    "division": "C",
+    "issue_date": "2026-03-17T19:25:49.851Z"
   },
   "vpp": {
     "angles": [

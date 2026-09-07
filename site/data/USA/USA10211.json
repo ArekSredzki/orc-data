@@ -14,7 +14,12 @@
       0.6493,
       0.8627,
       0.9759
-    ]
+    ],
+    "ilc": 700.5,
+    "aph_tod": 567.3,
+    "aph_tot": 1.0577,
+    "tmf_inshore": 0.8566,
+    "tmf_offshore": 0.971
   },
   "boat": {
     "builder": "Morgan Yacht",
@@ -33,7 +38,10 @@
       "crew": 850.0,
       "wetted_surface": 31.76
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.809,
+    "division": "C",
+    "issue_date": "2026-07-15T19:42:46.524Z"
   },
   "vpp": {
     "angles": [

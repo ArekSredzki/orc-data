@@ -14,7 +14,12 @@
       0.8581,
       1.1944,
       1.3995
-    ]
+    ],
+    "ilc": 505.8,
+    "aph_tod": 401.4,
+    "aph_tot": 1.4949,
+    "tmf_inshore": 1.1862,
+    "tmf_offshore": 1.3629
   },
   "boat": {
     "builder": "CNB",
@@ -33,7 +38,10 @@
       "crew": 2153.0,
       "wetted_surface": 110.73
     },
-    "stability_index": 133.4
+    "stability_index": 133.4,
+    "cdl": 18.961,
+    "division": "C",
+    "issue_date": "2026-06-29T04:31:53.316Z"
   },
   "vpp": {
     "angles": [

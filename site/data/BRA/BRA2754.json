@@ -14,7 +14,12 @@
       0.7172,
       0.9436,
       1.104
-    ]
+    ],
+    "ilc": 636.9,
+    "aph_tod": 510.8,
+    "aph_tot": 1.1746,
+    "tmf_inshore": 0.9421,
+    "tmf_offshore": 1.0785
   },
   "boat": {
     "builder": "ESTALEIROS CR",
@@ -33,7 +38,10 @@
       "crew": 560.0,
       "wetted_surface": 21.58
     },
-    "stability_index": 100.7
+    "stability_index": 100.7,
+    "cdl": 9.199,
+    "division": "R",
+    "issue_date": "2026-02-04T00:34:37.112Z"
   },
   "vpp": {
     "angles": [

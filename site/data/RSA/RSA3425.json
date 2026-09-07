@@ -14,7 +14,12 @@
       0.7052,
       0.9219,
       1.0311
-    ]
+    ],
+    "ilc": 655.9,
+    "aph_tod": 531.2,
+    "aph_tot": 1.1295,
+    "tmf_inshore": 0.9148,
+    "tmf_offshore": 1.039
   },
   "boat": {
     "builder": "Piet Human",
@@ -33,7 +38,10 @@
       "crew": 670.0,
       "wetted_surface": 28.66
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.554,
+    "division": "C",
+    "issue_date": "2026-02-24T11:57:16.885Z"
   },
   "vpp": {
     "angles": [

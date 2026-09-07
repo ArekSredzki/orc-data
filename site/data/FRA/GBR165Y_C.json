@@ -14,7 +14,12 @@
       0.5627,
       0.7214,
       0.7929
-    ]
+    ],
+    "ilc": 838.2,
+    "aph_tod": 684.2,
+    "aph_tot": 0.8769,
+    "tmf_inshore": 0.7158,
+    "tmf_offshore": 0.81
   },
   "boat": {
     "builder": "Tucker Brown, Essex",
@@ -33,7 +38,10 @@
       "crew": 380.0,
       "wetted_surface": 19.56
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.89,
+    "division": "R",
+    "issue_date": "2026-05-19T12:20:56.375Z"
   },
   "vpp": {
     "angles": [

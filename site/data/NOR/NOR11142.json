@@ -14,7 +14,12 @@
       0.6441,
       0.8954,
       1.0461
-    ]
+    ],
+    "ilc": 674.8,
+    "aph_tod": 545.6,
+    "aph_tot": 1.0998,
+    "tmf_inshore": 0.8891,
+    "tmf_offshore": 1.008
   },
   "boat": {
     "builder": "Skrovab",
@@ -33,7 +38,10 @@
       "crew": 771.0,
       "wetted_surface": 28.23
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.79,
+    "division": "C",
+    "issue_date": "2026-05-04T13:52:57.656Z"
   },
   "vpp": {
     "angles": [

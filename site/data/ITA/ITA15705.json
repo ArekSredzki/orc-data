@@ -14,7 +14,12 @@
       0.8241,
       1.0898,
       1.2351
-    ]
+    ],
+    "ilc": 554.3,
+    "aph_tod": 448.3,
+    "aph_tot": 1.3385,
+    "tmf_inshore": 1.0825,
+    "tmf_offshore": 1.2286
   },
   "boat": {
     "builder": "Latini Marine",
@@ -33,7 +38,10 @@
       "crew": 960.0,
       "wetted_surface": 47.18
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 13.636,
+    "division": "C",
+    "issue_date": "2026-02-05T20:27:44.980Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5883,
       0.8062,
       0.9253
-    ]
+    ],
+    "ilc": 750.3,
+    "aph_tod": 606.3,
+    "aph_tot": 0.9895,
+    "tmf_inshore": 0.7997,
+    "tmf_offshore": 0.9087
   },
   "boat": {
     "builder": "LUCAS Paul",
@@ -33,7 +38,10 @@
       "crew": 435.0,
       "wetted_surface": 19.33
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.38,
+    "division": "C",
+    "issue_date": "2026-04-16T20:27:58.591Z"
   },
   "vpp": {
     "angles": [

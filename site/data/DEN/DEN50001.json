@@ -14,7 +14,12 @@
       0.838,
       1.1301,
       1.3326
-    ]
+    ],
+    "ilc": 532.6,
+    "aph_tod": 423.5,
+    "aph_tot": 1.4169,
+    "tmf_inshore": 1.1266,
+    "tmf_offshore": 1.2947
   },
   "boat": {
     "builder": "Linjettb\u00e5tar",
@@ -33,7 +38,10 @@
       "crew": 750.0,
       "wetted_surface": 44.78
     },
-    "stability_index": 145.6
+    "stability_index": 145.6,
+    "cdl": 14.302,
+    "division": "C",
+    "issue_date": "2026-04-24T12:00:23.403Z"
   },
   "vpp": {
     "angles": [

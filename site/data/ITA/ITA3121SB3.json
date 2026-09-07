@@ -14,7 +14,12 @@
       0.6055,
       0.7851,
       0.9217
-    ]
+    ],
+    "ilc": 764.2,
+    "aph_tod": 620.6,
+    "aph_tot": 0.9668,
+    "tmf_inshore": 0.7851,
+    "tmf_offshore": 0.8929
   },
   "boat": {
     "builder": "Lase",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 9.58
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.244,
+    "division": "S",
+    "issue_date": "2026-04-03T09:44:08.277Z"
   },
   "vpp": {
     "angles": [

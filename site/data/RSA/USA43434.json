@@ -14,7 +14,12 @@
       0.6734,
       0.9384,
       1.0962
-    ]
+    ],
+    "ilc": 644.4,
+    "aph_tod": 515.3,
+    "aph_tot": 1.1644,
+    "tmf_inshore": 0.9311,
+    "tmf_offshore": 1.0637
   },
   "boat": {
     "builder": "Fisksatra",
@@ -33,7 +38,10 @@
       "crew": 913.0,
       "wetted_surface": 35.44
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.018,
+    "division": "C",
+    "issue_date": "2026-02-21T14:19:05.920Z"
   },
   "vpp": {
     "angles": [

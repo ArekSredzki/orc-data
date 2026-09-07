@@ -14,7 +14,12 @@
       0.6542,
       0.8717,
       0.9856
-    ]
+    ],
+    "ilc": 693.5,
+    "aph_tod": 568.9,
+    "aph_tot": 1.0547,
+    "tmf_inshore": 0.8652,
+    "tmf_offshore": 0.9714
   },
   "boat": {
     "builder": "Kiwi",
@@ -33,7 +38,10 @@
       "crew": 683.0,
       "wetted_surface": 25.23
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.636,
+    "division": "R",
+    "issue_date": "2026-05-27T15:51:27.581Z"
   },
   "vpp": {
     "angles": [

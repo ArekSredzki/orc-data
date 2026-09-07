@@ -14,7 +14,12 @@
       0.6881,
       0.8912,
       1.0159
-    ]
+    ],
+    "ilc": 676.3,
+    "aph_tod": 548.8,
+    "aph_tot": 1.0934,
+    "tmf_inshore": 0.8872,
+    "tmf_offshore": 1.0087
   },
   "boat": {
     "builder": "Cantieri NordEst",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 16.06
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.198,
+    "division": "S",
+    "issue_date": "2026-02-18T15:36:52.658Z"
   },
   "vpp": {
     "angles": [

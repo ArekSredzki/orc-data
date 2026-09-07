@@ -14,7 +14,12 @@
       1.0577,
       1.383,
       1.6542
-    ]
+    ],
+    "ilc": 432.7,
+    "aph_tod": 339.4,
+    "aph_tot": 1.7679,
+    "tmf_inshore": 1.3867,
+    "tmf_offshore": 1.6035
   },
   "boat": {
     "builder": "New England Boat Works",
@@ -33,7 +38,10 @@
       "crew": 1550.0,
       "wetted_surface": 73.23
     },
-    "stability_index": 158.0
+    "stability_index": 158.0,
+    "cdl": 20.252,
+    "division": "R",
+    "issue_date": "2026-08-18T20:05:19.772Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6755,
       0.921,
       1.0495
-    ]
+    ],
+    "ilc": 657.2,
+    "aph_tod": 534.4,
+    "aph_tot": 1.1229,
+    "tmf_inshore": 0.9129,
+    "tmf_offshore": 1.0328
   },
   "boat": {
     "builder": "West Custom Marine",
@@ -33,7 +38,10 @@
       "crew": 681.0,
       "wetted_surface": 27.22
     },
-    "stability_index": 121.9
+    "stability_index": 121.9,
+    "cdl": 9.867,
+    "division": "C",
+    "issue_date": "2026-04-04T12:26:05.045Z"
   },
   "vpp": {
     "angles": [

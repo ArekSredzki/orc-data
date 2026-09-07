@@ -14,7 +14,12 @@
       0.538,
       0.7561,
       0.8824
-    ]
+    ],
+    "ilc": 800.1,
+    "aph_tod": 647.2,
+    "aph_tot": 0.9271,
+    "tmf_inshore": 0.7499,
+    "tmf_offshore": 0.8501
   },
   "boat": {
     "builder": "TRIDENT MARINE",
@@ -33,7 +38,10 @@
       "crew": 547.0,
       "wetted_surface": 28.1
     },
-    "stability_index": 124.9
+    "stability_index": 124.9,
+    "cdl": 7.352,
+    "division": "C",
+    "issue_date": "2026-04-16T13:36:36.705Z"
   },
   "vpp": {
     "angles": [

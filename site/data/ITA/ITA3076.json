@@ -14,7 +14,12 @@
       0.7208,
       0.9289,
       1.058
-    ]
+    ],
+    "ilc": 648.3,
+    "aph_tod": 531.8,
+    "aph_tot": 1.1282,
+    "tmf_inshore": 0.9256,
+    "tmf_offshore": 1.0427
   },
   "boat": {
     "builder": "Ovington Marine",
@@ -33,7 +38,10 @@
       "crew": 560.0,
       "wetted_surface": 17.61
     },
-    "stability_index": 120.0
+    "stability_index": 120.0,
+    "cdl": 8.906,
+    "division": "R",
+    "issue_date": "2026-04-08T13:03:13.443Z"
   },
   "vpp": {
     "angles": [

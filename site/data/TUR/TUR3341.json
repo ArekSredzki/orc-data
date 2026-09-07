@@ -14,7 +14,12 @@
       0.5911,
       0.7635,
       0.8853
-    ]
+    ],
+    "ilc": 787.0,
+    "aph_tod": 636.0,
+    "aph_tot": 0.9434,
+    "tmf_inshore": 0.7624,
+    "tmf_offshore": 0.8698
   },
   "boat": {
     "builder": "LASER",
@@ -33,7 +38,10 @@
       "crew": 280.0,
       "wetted_surface": 9.61
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.94,
+    "division": "S",
+    "issue_date": "2026-04-20T17:06:52.912Z"
   },
   "vpp": {
     "angles": [

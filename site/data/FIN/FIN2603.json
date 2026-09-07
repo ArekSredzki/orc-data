@@ -14,7 +14,12 @@
       0.6072,
       0.8038,
       0.9029
-    ]
+    ],
+    "ilc": 752.4,
+    "aph_tod": 620.2,
+    "aph_tot": 0.9675,
+    "tmf_inshore": 0.7975,
+    "tmf_offshore": 0.893
   },
   "boat": {
     "builder": "NA Boats",
@@ -33,7 +38,10 @@
       "crew": 360.0,
       "wetted_surface": 16.54
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.243,
+    "division": "C",
+    "issue_date": "2026-04-14T04:58:49.000Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5328,
       0.7289,
       0.8516
-    ]
+    ],
+    "ilc": 827.4,
+    "aph_tod": 651.6,
+    "aph_tot": 0.9208,
+    "tmf_inshore": 0.7252,
+    "tmf_offshore": 0.8395
   },
   "boat": {
     "builder": "Alliaura",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 22.15
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.267,
+    "division": "C",
+    "issue_date": "2026-04-01T19:55:14.352Z"
   },
   "vpp": {
     "angles": [

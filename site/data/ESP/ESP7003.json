@@ -14,7 +14,12 @@
       0.6677,
       0.8988,
       1.0218
-    ]
+    ],
+    "ilc": 673.0,
+    "aph_tod": 552.5,
+    "aph_tot": 1.0861,
+    "tmf_inshore": 0.8916,
+    "tmf_offshore": 1.0009
   },
   "boat": {
     "builder": "YATES ESPADA",
@@ -33,7 +38,10 @@
       "crew": 690.0,
       "wetted_surface": 23.78
     },
-    "stability_index": 119.5
+    "stability_index": 119.5,
+    "cdl": 9.205,
+    "division": "C",
+    "issue_date": "2026-03-06T12:12:21.528Z"
   },
   "vpp": {
     "angles": [

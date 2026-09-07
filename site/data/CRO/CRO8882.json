@@ -14,7 +14,12 @@
       0.787,
       1.0348,
       1.1919
-    ]
+    ],
+    "ilc": 582.3,
+    "aph_tod": 471.6,
+    "aph_tot": 1.2722,
+    "tmf_inshore": 1.0305,
+    "tmf_offshore": 1.1703
   },
   "boat": {
     "builder": "Gurrit",
@@ -33,7 +38,10 @@
       "crew": 930.0,
       "wetted_surface": 29.69
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.224,
+    "division": "R",
+    "issue_date": "2026-02-10T09:26:36.255Z"
   },
   "vpp": {
     "angles": [

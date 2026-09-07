@@ -14,7 +14,12 @@
       0.7692,
       1.0337,
       1.1867
-    ]
+    ],
+    "ilc": 584.3,
+    "aph_tod": 474.7,
+    "aph_tot": 1.2638,
+    "tmf_inshore": 1.0268,
+    "tmf_offshore": 1.162
   },
   "boat": {
     "builder": "E. ANZOLA",
@@ -33,7 +38,10 @@
       "crew": 960.0,
       "wetted_surface": 38.29
     },
-    "stability_index": 146.7
+    "stability_index": 146.7,
+    "cdl": 12.007,
+    "division": "R",
+    "issue_date": "2026-05-15T19:15:47.193Z"
   },
   "vpp": {
     "angles": [

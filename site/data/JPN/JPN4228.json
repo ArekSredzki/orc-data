@@ -14,7 +14,12 @@
       0.7,
       0.9345,
       1.0672
-    ]
+    ],
+    "ilc": 646.2,
+    "aph_tod": 528.6,
+    "aph_tot": 1.135,
+    "tmf_inshore": 0.9285,
+    "tmf_offshore": 1.045
   },
   "boat": {
     "builder": "TSUBOI",
@@ -33,7 +38,10 @@
       "crew": 643.0,
       "wetted_surface": 24.74
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.883,
+    "division": "C",
+    "issue_date": "2026-04-03T22:57:26.483Z"
   },
   "vpp": {
     "angles": [

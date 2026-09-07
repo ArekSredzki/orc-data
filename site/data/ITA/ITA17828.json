@@ -14,7 +14,12 @@
       0.567,
       0.7765,
       0.8882
-    ]
+    ],
+    "ilc": 779.2,
+    "aph_tod": 638.7,
+    "aph_tot": 0.9394,
+    "tmf_inshore": 0.77,
+    "tmf_offshore": 0.8654
   },
   "boat": {
     "builder": "Alb Sail",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 18.59
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.912,
+    "division": "C",
+    "issue_date": "2026-02-25T16:27:16.004Z"
   },
   "vpp": {
     "angles": [

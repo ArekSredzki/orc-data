@@ -14,7 +14,12 @@
       0.6689,
       0.9156,
       1.0602
-    ]
+    ],
+    "ilc": 659.7,
+    "aph_tod": 536.1,
+    "aph_tot": 1.1193,
+    "tmf_inshore": 0.9095,
+    "tmf_offshore": 1.0276
   },
   "boat": {
     "builder": "SE.RI.GI.",
@@ -33,7 +38,10 @@
       "crew": 897.0,
       "wetted_surface": 47.43
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.666,
+    "division": "C",
+    "issue_date": "2026-04-29T11:00:11.371Z"
   },
   "vpp": {
     "angles": [

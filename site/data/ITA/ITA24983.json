@@ -14,7 +14,12 @@
       0.7123,
       0.932,
       1.0736
-    ]
+    ],
+    "ilc": 646.3,
+    "aph_tod": 522.7,
+    "aph_tot": 1.148,
+    "tmf_inshore": 0.9283,
+    "tmf_offshore": 1.0578
   },
   "boat": {
     "builder": "ERYD Yachts",
@@ -33,7 +38,10 @@
       "crew": 390.0,
       "wetted_surface": 19.19
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.94,
+    "division": "R",
+    "issue_date": "2026-03-13T14:35:27.877Z"
   },
   "vpp": {
     "angles": [

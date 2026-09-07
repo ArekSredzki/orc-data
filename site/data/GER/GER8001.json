@@ -14,7 +14,12 @@
       0.5919,
       0.796,
       0.8963
-    ]
+    ],
+    "ilc": 761.2,
+    "aph_tod": 611.0,
+    "aph_tot": 0.9821,
+    "tmf_inshore": 0.7882,
+    "tmf_offshore": 0.9015
   },
   "boat": {
     "builder": "H. E. F\u00d6RSTER",
@@ -33,7 +38,10 @@
       "crew": 160.0,
       "wetted_surface": 13.28
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.152,
+    "division": "S",
+    "issue_date": "2026-03-17T19:27:06.290Z"
   },
   "vpp": {
     "angles": [

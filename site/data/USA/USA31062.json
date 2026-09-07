@@ -14,7 +14,12 @@
       0.7378,
       0.9748,
       1.154
-    ]
+    ],
+    "ilc": 615.8,
+    "aph_tod": 491.3,
+    "aph_tot": 1.2213,
+    "tmf_inshore": 0.9743,
+    "tmf_offshore": 1.1188
   },
   "boat": {
     "builder": "Noordhoek",
@@ -33,7 +38,10 @@
       "crew": 595.0,
       "wetted_surface": 20.85
     },
-    "stability_index": 109.8
+    "stability_index": 109.8,
+    "cdl": 9.564,
+    "division": "R",
+    "issue_date": "2026-06-05T20:26:36.461Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6915,
       0.919,
       1.0353
-    ]
+    ],
+    "ilc": 658.2,
+    "aph_tod": 531.9,
+    "aph_tot": 1.128,
+    "tmf_inshore": 0.9116,
+    "tmf_offshore": 1.0364
   },
   "boat": {
     "builder": "Reflex",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 29.13
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.945,
+    "division": "C",
+    "issue_date": "2026-06-15T09:26:14.364Z"
   },
   "vpp": {
     "angles": [

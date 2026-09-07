@@ -14,7 +14,12 @@
       0.5449,
       0.7397,
       0.8596
-    ]
+    ],
+    "ilc": 815.1,
+    "aph_tod": 671.2,
+    "aph_tot": 0.894,
+    "tmf_inshore": 0.7361,
+    "tmf_offshore": 0.8242
   },
   "boat": {
     "builder": "ARTECNA",
@@ -33,7 +38,10 @@
       "crew": 347.0,
       "wetted_surface": 14.54
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.155,
+    "division": "C",
+    "issue_date": "2026-06-17T15:04:17.815Z"
   },
   "vpp": {
     "angles": [

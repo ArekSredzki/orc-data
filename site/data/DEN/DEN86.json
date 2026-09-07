@@ -14,7 +14,12 @@
       0.7143,
       0.942,
       1.0692
-    ]
+    ],
+    "ilc": 641.2,
+    "aph_tod": 513.8,
+    "aph_tot": 1.1678,
+    "tmf_inshore": 0.9357,
+    "tmf_offshore": 1.0707
   },
   "boat": {
     "builder": "Seascape",
@@ -33,7 +38,10 @@
       "crew": 550.0,
       "wetted_surface": 28.83
     },
-    "stability_index": 107.8
+    "stability_index": 107.8,
+    "cdl": 9.519,
+    "division": "R",
+    "issue_date": "2026-05-08T09:59:42.686Z"
   },
   "vpp": {
     "angles": [

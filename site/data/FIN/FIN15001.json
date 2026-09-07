@@ -14,7 +14,12 @@
       0.7073,
       0.9492,
       1.0837
-    ]
+    ],
+    "ilc": 636.6,
+    "aph_tod": 517.9,
+    "aph_tot": 1.1585,
+    "tmf_inshore": 0.9426,
+    "tmf_offshore": 1.0648
   },
   "boat": {
     "builder": "FinnGulf Yachts",
@@ -33,7 +38,10 @@
       "crew": 650.0,
       "wetted_surface": 33.3
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.539,
+    "division": "C",
+    "issue_date": "2026-06-04T20:49:15.285Z"
   },
   "vpp": {
     "angles": [

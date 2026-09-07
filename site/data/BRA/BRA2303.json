@@ -14,7 +14,12 @@
       0.7049,
       0.9652,
       1.097
-    ]
+    ],
+    "ilc": 627.7,
+    "aph_tod": 508.9,
+    "aph_tot": 1.1791,
+    "tmf_inshore": 0.9559,
+    "tmf_offshore": 1.0827
   },
   "boat": {
     "builder": "TOR YACHTS",
@@ -33,7 +38,10 @@
       "crew": 940.0,
       "wetted_surface": 36.79
     },
-    "stability_index": 106.0
+    "stability_index": 106.0,
+    "cdl": 10.94,
+    "division": "C",
+    "issue_date": "2026-07-21T18:04:57.645Z"
   },
   "vpp": {
     "angles": [

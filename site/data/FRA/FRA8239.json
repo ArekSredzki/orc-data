@@ -14,7 +14,12 @@
       0.6358,
       0.821,
       0.9067
-    ]
+    ],
+    "ilc": 737.0,
+    "aph_tod": 609.1,
+    "aph_tot": 0.985,
+    "tmf_inshore": 0.8142,
+    "tmf_offshore": 0.9122
   },
   "boat": {
     "builder": "CN. RHONE LYON",
@@ -33,7 +38,10 @@
       "crew": 397.0,
       "wetted_surface": 16.24
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.149,
+    "division": "R",
+    "issue_date": "2026-05-11T15:07:22.174Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6711,
       0.9075,
       1.0414
-    ]
+    ],
+    "ilc": 665.9,
+    "aph_tod": 541.4,
+    "aph_tot": 1.1082,
+    "tmf_inshore": 0.9011,
+    "tmf_offshore": 1.0177
   },
   "boat": {
     "builder": "Dash Marine Ltd.",
@@ -33,7 +38,10 @@
       "crew": 685.0,
       "wetted_surface": 21.86
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.353,
+    "division": "C",
+    "issue_date": "2026-06-24T01:01:39.596Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5718,
       0.7877,
       0.9108
-    ]
+    ],
+    "ilc": 767.4,
+    "aph_tod": 628.5,
+    "aph_tot": 0.9546,
+    "tmf_inshore": 0.7819,
+    "tmf_offshore": 0.8779
   },
   "boat": {
     "builder": "Dick Rus Yachting",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 21.1
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.479,
+    "division": "C",
+    "issue_date": "2026-04-04T09:54:01.478Z"
   },
   "vpp": {
     "angles": [

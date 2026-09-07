@@ -14,7 +14,12 @@
       0.6576,
       0.8693,
       0.9779
-    ]
+    ],
+    "ilc": 695.3,
+    "aph_tod": 573.7,
+    "aph_tot": 1.0458,
+    "tmf_inshore": 0.863,
+    "tmf_offshore": 0.965
   },
   "boat": {
     "builder": "Pichavant",
@@ -33,7 +38,10 @@
       "crew": 650.0,
       "wetted_surface": 23.57
     },
-    "stability_index": 116.7
+    "stability_index": 116.7,
+    "cdl": 8.444,
+    "division": "R",
+    "issue_date": "2026-04-28T12:13:22.730Z"
   },
   "vpp": {
     "angles": [

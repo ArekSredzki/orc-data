@@ -14,7 +14,12 @@
       0.547,
       0.7488,
       0.8563
-    ]
+    ],
+    "ilc": 808.0,
+    "aph_tod": 655.4,
+    "aph_tot": 0.9154,
+    "tmf_inshore": 0.7425,
+    "tmf_offshore": 0.842
   },
   "boat": {
     "builder": "Skipper Yachts",
@@ -33,7 +38,10 @@
       "crew": 360.0,
       "wetted_surface": 13.79
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.52,
+    "division": "S",
+    "issue_date": "2026-05-27T06:29:51.058Z"
   },
   "vpp": {
     "angles": [

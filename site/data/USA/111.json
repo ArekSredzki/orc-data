@@ -14,7 +14,12 @@
       0.5919,
       0.8168,
       0.9436
-    ]
+    ],
+    "ilc": 740.4,
+    "aph_tod": 601.4,
+    "aph_tot": 0.9977,
+    "tmf_inshore": 0.8104,
+    "tmf_offshore": 0.916
   },
   "boat": {
     "builder": "Cascade Yachts",
@@ -33,7 +38,10 @@
       "crew": 568.0,
       "wetted_surface": 26.32
     },
-    "stability_index": 118.2
+    "stability_index": 118.2,
+    "cdl": 8.159,
+    "division": "C",
+    "issue_date": "2026-08-12T15:17:45.200Z"
   },
   "vpp": {
     "angles": [

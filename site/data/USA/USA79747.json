@@ -14,7 +14,12 @@
       0.7006,
       0.9124,
       1.043
-    ]
+    ],
+    "ilc": 660.2,
+    "aph_tod": 537.2,
+    "aph_tot": 1.1168,
+    "tmf_inshore": 0.9089,
+    "tmf_offshore": 1.0294
   },
   "boat": {
     "builder": "Hopwood",
@@ -33,7 +38,10 @@
       "crew": 540.0,
       "wetted_surface": 18.99
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.865,
+    "division": "R",
+    "issue_date": "2026-07-31T20:21:43.014Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6301,
       0.8643,
       0.9968
-    ]
+    ],
+    "ilc": 699.5,
+    "aph_tod": 572.7,
+    "aph_tot": 1.0477,
+    "tmf_inshore": 0.8577,
+    "tmf_offshore": 0.9644
   },
   "boat": {
     "builder": "Rajakallio",
@@ -33,7 +38,10 @@
       "crew": 510.0,
       "wetted_surface": 19.7
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.625,
+    "division": "C",
+    "issue_date": "2026-06-03T05:37:40.404Z"
   },
   "vpp": {
     "angles": [

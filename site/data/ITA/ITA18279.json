@@ -14,7 +14,12 @@
       0.6807,
       0.9254,
       1.0546
-    ]
+    ],
+    "ilc": 653.7,
+    "aph_tod": 525.7,
+    "aph_tot": 1.1412,
+    "tmf_inshore": 0.9178,
+    "tmf_offshore": 1.0458
   },
   "boat": {
     "builder": "Hanse Yachts",
@@ -33,7 +38,10 @@
       "crew": 680.0,
       "wetted_surface": 35.01
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.32,
+    "division": "C",
+    "issue_date": "2026-05-21T11:43:21.426Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.566,
       0.7706,
       0.8861
-    ]
+    ],
+    "ilc": 784.8,
+    "aph_tod": 640.5,
+    "aph_tot": 0.9368,
+    "tmf_inshore": 0.7645,
+    "tmf_offshore": 0.8627
   },
   "boat": {
     "builder": "Abbot",
@@ -33,7 +38,10 @@
       "crew": 255.0,
       "wetted_surface": 11.17
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.384,
+    "division": "S",
+    "issue_date": "2026-07-24T11:17:33.209Z"
   },
   "vpp": {
     "angles": [

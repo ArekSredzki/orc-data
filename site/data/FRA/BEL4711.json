@@ -14,7 +14,12 @@
       0.612,
       0.8263,
       0.9554
-    ]
+    ],
+    "ilc": 730.1,
+    "aph_tod": 590.8,
+    "aph_tot": 1.0156,
+    "tmf_inshore": 0.8219,
+    "tmf_offshore": 0.9315
   },
   "boat": {
     "builder": "VERLVALE",
@@ -33,7 +38,10 @@
       "crew": 491.0,
       "wetted_surface": 23.74
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.02,
+    "division": "C",
+    "issue_date": "2026-06-29T16:40:10.964Z"
   },
   "vpp": {
     "angles": [

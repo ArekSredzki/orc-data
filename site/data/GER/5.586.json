@@ -14,7 +14,12 @@
       0.6319,
       0.8201,
       0.9243
-    ]
+    ],
+    "ilc": 735.7,
+    "aph_tod": 609.4,
+    "aph_tot": 0.9845,
+    "tmf_inshore": 0.8156,
+    "tmf_offshore": 0.9111
   },
   "boat": {
     "builder": "C.WILKE/ SCHWEIZ",
@@ -33,7 +38,10 @@
       "crew": 280.0,
       "wetted_surface": 12.51
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.113,
+    "division": "S",
+    "issue_date": "2026-03-17T19:23:21.055Z"
   },
   "vpp": {
     "angles": [

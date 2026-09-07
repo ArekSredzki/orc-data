@@ -14,7 +14,12 @@
       0.6603,
       0.8983,
       1.0278
-    ]
+    ],
+    "ilc": 673.3,
+    "aph_tod": 549.5,
+    "aph_tot": 1.092,
+    "tmf_inshore": 0.8911,
+    "tmf_offshore": 1.0039
   },
   "boat": {
     "builder": "Boo Marin",
@@ -33,7 +38,10 @@
       "crew": 685.0,
       "wetted_surface": 28.89
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.574,
+    "division": "C",
+    "issue_date": "2026-03-04T12:21:13.270Z"
   },
   "vpp": {
     "angles": [

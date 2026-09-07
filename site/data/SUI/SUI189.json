@@ -14,7 +14,12 @@
       0.6049,
       0.7834,
       0.927
-    ]
+    ],
+    "ilc": 764.9,
+    "aph_tod": 613.2,
+    "aph_tot": 0.9785,
+    "tmf_inshore": 0.7844,
+    "tmf_offshore": 0.9009
   },
   "boat": {
     "builder": "CBZ",
@@ -33,7 +38,10 @@
       "crew": 279.0,
       "wetted_surface": 9.64
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.988,
+    "division": "S",
+    "issue_date": "2026-04-02T05:39:31.505Z"
   },
   "vpp": {
     "angles": [

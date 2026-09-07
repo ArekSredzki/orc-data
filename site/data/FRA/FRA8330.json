@@ -14,7 +14,12 @@
       0.6345,
       0.8267,
       0.9242
-    ]
+    ],
+    "ilc": 731.0,
+    "aph_tod": 599.0,
+    "aph_tot": 1.0017,
+    "tmf_inshore": 0.8208,
+    "tmf_offshore": 0.9251
   },
   "boat": {
     "builder": "FOUNTAINE",
@@ -33,7 +38,10 @@
       "crew": 396.0,
       "wetted_surface": 15.53
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.192,
+    "division": "R",
+    "issue_date": "2026-06-18T14:30:33.200Z"
   },
   "vpp": {
     "angles": [

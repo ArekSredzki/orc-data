@@ -14,7 +14,12 @@
       0.6004,
       0.838,
       0.9742
-    ]
+    ],
+    "ilc": 721.8,
+    "aph_tod": 571.8,
+    "aph_tot": 1.0494,
+    "tmf_inshore": 0.8312,
+    "tmf_offshore": 0.957
   },
   "boat": {
     "builder": "SIRIUS WERFT",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 41.22
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.219,
+    "division": "C",
+    "issue_date": "2026-08-24T12:29:50.863Z"
   },
   "vpp": {
     "angles": [

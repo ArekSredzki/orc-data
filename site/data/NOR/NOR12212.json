@@ -14,7 +14,12 @@
       0.7746,
       1.0281,
       1.2127
-    ]
+    ],
+    "ilc": 584.3,
+    "aph_tod": 460.9,
+    "aph_tot": 1.3018,
+    "tmf_inshore": 1.0269,
+    "tmf_offshore": 1.1862
   },
   "boat": {
     "builder": "Sail Ventures ltd",
@@ -33,7 +38,10 @@
       "crew": 270.0,
       "wetted_surface": 34.97
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.562,
+    "division": "R",
+    "issue_date": "2026-05-06T17:31:12.620Z"
   },
   "vpp": {
     "angles": [

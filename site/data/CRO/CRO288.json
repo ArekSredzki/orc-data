@@ -14,7 +14,12 @@
       0.663,
       0.8329,
       0.9153
-    ]
+    ],
+    "ilc": 724.7,
+    "aph_tod": 598.8,
+    "aph_tot": 1.002,
+    "tmf_inshore": 0.8279,
+    "tmf_offshore": 0.9291
   },
   "boat": {
     "builder": "Mark III",
@@ -33,7 +38,10 @@
       "crew": 445.0,
       "wetted_surface": 14.28
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.947,
+    "division": "C",
+    "issue_date": "2026-07-31T08:41:53.334Z"
   },
   "vpp": {
     "angles": [

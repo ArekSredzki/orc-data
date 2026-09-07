@@ -14,7 +14,12 @@
       0.6293,
       0.8567,
       0.988
-    ]
+    ],
+    "ilc": 705.1,
+    "aph_tod": 572.5,
+    "aph_tot": 1.0481,
+    "tmf_inshore": 0.851,
+    "tmf_offshore": 0.9619
   },
   "boat": {
     "builder": "BOWMAN YACHTS",
@@ -33,7 +38,10 @@
       "crew": 694.0,
       "wetted_surface": 35.18
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.055,
+    "division": "C",
+    "issue_date": "2026-03-05T18:45:13.163Z"
   },
   "vpp": {
     "angles": [

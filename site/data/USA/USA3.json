@@ -14,7 +14,12 @@
       0.6941,
       0.9633,
       1.1334
-    ]
+    ],
+    "ilc": 626.4,
+    "aph_tod": 506.5,
+    "aph_tot": 1.1846,
+    "tmf_inshore": 0.9579,
+    "tmf_offshore": 1.0855
   },
   "boat": {
     "builder": "Spirit Yachts",
@@ -33,7 +38,10 @@
       "crew": 600.0,
       "wetted_surface": 37.58
     },
-    "stability_index": 126.5
+    "stability_index": 126.5,
+    "cdl": 11.184,
+    "division": "R",
+    "issue_date": "2026-07-10T11:18:51.399Z"
   },
   "vpp": {
     "angles": [
