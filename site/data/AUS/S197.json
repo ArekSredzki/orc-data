@@ -14,7 +14,12 @@
       0.6308,
       0.8711,
       1.0045
-    ]
+    ],
+    "ilc": 694.6,
+    "aph_tod": 565.6,
+    "aph_tot": 1.0608,
+    "tmf_inshore": 0.8639,
+    "tmf_offshore": 0.9743
   },
   "boat": {
     "builder": "Talton Yachts",
@@ -33,7 +38,10 @@
       "crew": 640.0,
       "wetted_surface": 21.98
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.905,
+    "division": "C",
+    "issue_date": "2026-07-17T04:15:08.901Z"
   },
   "vpp": {
     "angles": [

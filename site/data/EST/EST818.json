@@ -14,7 +14,12 @@
       0.5211,
       0.7234,
       0.8435
-    ]
+    ],
+    "ilc": 835.0,
+    "aph_tod": 679.9,
+    "aph_tot": 0.8825,
+    "tmf_inshore": 0.7186,
+    "tmf_offshore": 0.8103
   },
   "boat": {
     "builder": "MAXI",
@@ -33,7 +38,10 @@
       "crew": 340.0,
       "wetted_surface": 16.99
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.247,
+    "division": "C",
+    "issue_date": "2026-05-22T12:39:55.725Z"
   },
   "vpp": {
     "angles": [

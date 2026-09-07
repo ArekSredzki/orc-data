@@ -14,7 +14,12 @@
       0.5045,
       0.7122,
       0.8632
-    ]
+    ],
+    "ilc": 845.1,
+    "aph_tod": 683.8,
+    "aph_tot": 0.8774,
+    "tmf_inshore": 0.71,
+    "tmf_offshore": 0.8041
   },
   "boat": {
     "builder": "NAOGLASS",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 21.39
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.366,
+    "division": "C",
+    "issue_date": "2026-02-21T20:56:50.107Z"
   },
   "vpp": {
     "angles": [

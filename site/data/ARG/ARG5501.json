@@ -14,7 +14,12 @@
       0.6858,
       0.9121,
       1.0303
-    ]
+    ],
+    "ilc": 662.9,
+    "aph_tod": 541.6,
+    "aph_tot": 1.1079,
+    "tmf_inshore": 0.9051,
+    "tmf_offshore": 1.0201
   },
   "boat": {
     "builder": "CORUM YACHTS",
@@ -33,7 +38,10 @@
       "crew": 595.0,
       "wetted_surface": 26.45
     },
-    "stability_index": 113.8
+    "stability_index": 113.8,
+    "cdl": 9.22,
+    "division": "C",
+    "issue_date": "2026-03-20T12:18:52.570Z"
   },
   "vpp": {
     "angles": [

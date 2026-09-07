@@ -14,7 +14,12 @@
       0.5908,
       0.8077,
       0.9323
-    ]
+    ],
+    "ilc": 748.0,
+    "aph_tod": 602.0,
+    "aph_tot": 0.9967,
+    "tmf_inshore": 0.8022,
+    "tmf_offshore": 0.9136
   },
   "boat": {
     "builder": "SE-RA oy",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 23.95
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.148,
+    "division": "C",
+    "issue_date": "2026-03-11T06:43:51.491Z"
   },
   "vpp": {
     "angles": [

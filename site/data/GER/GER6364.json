@@ -14,7 +14,12 @@
       0.7326,
       0.9474,
       1.078
-    ]
+    ],
+    "ilc": 636.0,
+    "aph_tod": 516.5,
+    "aph_tot": 1.1616,
+    "tmf_inshore": 0.9434,
+    "tmf_offshore": 1.0708
   },
   "boat": {
     "builder": "MAXFUN BOATS BV",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 23.61
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.421,
+    "division": "R",
+    "issue_date": "2026-03-25T14:21:02.356Z"
   },
   "vpp": {
     "angles": [

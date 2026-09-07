@@ -14,7 +14,12 @@
       0.636,
       0.8089,
       0.9379
-    ]
+    ],
+    "ilc": 741.6,
+    "aph_tod": 602.2,
+    "aph_tot": 0.9964,
+    "tmf_inshore": 0.8091,
+    "tmf_offshore": 0.9197
   },
   "boat": {
     "builder": "Ufo Boat",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 10.22
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.346,
+    "division": "S",
+    "issue_date": "2026-05-15T11:57:57.764Z"
   },
   "vpp": {
     "angles": [

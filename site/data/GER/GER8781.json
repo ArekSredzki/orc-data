@@ -14,7 +14,12 @@
       0.6317,
       0.8576,
       0.9802
-    ]
+    ],
+    "ilc": 705.2,
+    "aph_tod": 574.1,
+    "aph_tot": 1.0451,
+    "tmf_inshore": 0.8508,
+    "tmf_offshore": 0.9601
   },
   "boat": {
     "builder": "C.S.COMPOSITI",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 22.12
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.55,
+    "division": "C",
+    "issue_date": "2026-04-01T10:15:37.506Z"
   },
   "vpp": {
     "angles": [

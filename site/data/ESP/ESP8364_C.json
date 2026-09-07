@@ -14,7 +14,12 @@
       0.605,
       0.7955,
       0.8931
-    ]
+    ],
+    "ilc": 760.1,
+    "aph_tod": 619.9,
+    "aph_tot": 0.9678,
+    "tmf_inshore": 0.7894,
+    "tmf_offshore": 0.8936
   },
   "boat": {
     "builder": "NAYA",
@@ -33,7 +38,10 @@
       "crew": 310.0,
       "wetted_surface": 12.07
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.81,
+    "division": "S",
+    "issue_date": "2026-03-25T11:29:46.990Z"
   },
   "vpp": {
     "angles": [

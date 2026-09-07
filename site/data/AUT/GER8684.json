@@ -14,7 +14,12 @@
       0.7146,
       0.9588,
       1.1008
-    ]
+    ],
+    "ilc": 629.6,
+    "aph_tod": 510.0,
+    "aph_tot": 1.1765,
+    "tmf_inshore": 0.953,
+    "tmf_offshore": 1.0803
   },
   "boat": {
     "builder": "ADIBOATS",
@@ -33,7 +38,10 @@
       "crew": 690.0,
       "wetted_surface": 34.76
     },
-    "stability_index": 124.7
+    "stability_index": 124.7,
+    "cdl": 10.772,
+    "division": "C",
+    "issue_date": "2026-04-21T12:46:49.977Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5862,
       0.814,
       0.9583
-    ]
+    ],
+    "ilc": 741.2,
+    "aph_tod": 602.6,
+    "aph_tot": 0.9958,
+    "tmf_inshore": 0.8095,
+    "tmf_offshore": 0.9142
   },
   "boat": {
     "builder": "NORTH WIND",
@@ -33,7 +38,10 @@
       "crew": 480.0,
       "wetted_surface": 31.59
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.314,
+    "division": "C",
+    "issue_date": "2026-02-21T19:34:46.073Z"
   },
   "vpp": {
     "angles": [

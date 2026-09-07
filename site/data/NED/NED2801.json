@@ -14,7 +14,12 @@
       0.6523,
       0.8721,
       0.9961
-    ]
+    ],
+    "ilc": 692.9,
+    "aph_tod": 564.9,
+    "aph_tot": 1.0621,
+    "tmf_inshore": 0.8659,
+    "tmf_offshore": 0.9792
   },
   "boat": {
     "builder": "Harley",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 14.85
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.115,
+    "division": "S",
+    "issue_date": "2026-04-01T19:44:03.930Z"
   },
   "vpp": {
     "angles": [

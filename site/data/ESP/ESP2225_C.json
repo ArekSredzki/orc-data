@@ -14,7 +14,12 @@
       0.5392,
       0.7345,
       0.8479
-    ]
+    ],
+    "ilc": 821.9,
+    "aph_tod": 674.0,
+    "aph_tot": 0.8902,
+    "tmf_inshore": 0.73,
+    "tmf_offshore": 0.8202
   },
   "boat": {
     "builder": "DRESPORT",
@@ -33,7 +38,10 @@
       "crew": 160.0,
       "wetted_surface": 17.31
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.331,
+    "division": "C",
+    "issue_date": "2026-02-06T12:23:36.472Z"
   },
   "vpp": {
     "angles": [

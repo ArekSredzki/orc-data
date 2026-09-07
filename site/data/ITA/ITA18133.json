@@ -14,7 +14,12 @@
       0.592,
       0.8404,
       0.9782
-    ]
+    ],
+    "ilc": 721.7,
+    "aph_tod": 576.2,
+    "aph_tot": 1.0413,
+    "tmf_inshore": 0.8314,
+    "tmf_offshore": 0.9519
   },
   "boat": {
     "builder": "Catieri Italiani",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 15.73
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.396,
+    "division": "R",
+    "issue_date": "2026-02-11T12:49:22.855Z"
   },
   "vpp": {
     "angles": [

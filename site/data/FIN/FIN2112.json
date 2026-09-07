@@ -14,7 +14,12 @@
       0.6067,
       0.816,
       0.9239
-    ]
+    ],
+    "ilc": 741.7,
+    "aph_tod": 605.1,
+    "aph_tot": 0.9916,
+    "tmf_inshore": 0.809,
+    "tmf_offshore": 0.912
   },
   "boat": {
     "builder": "Framboat",
@@ -33,7 +38,10 @@
       "crew": 480.0,
       "wetted_surface": 20.58
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.652,
+    "division": "C",
+    "issue_date": "2026-06-11T20:00:20.489Z"
   },
   "vpp": {
     "angles": [

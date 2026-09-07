@@ -14,7 +14,12 @@
       0.642,
       0.8925,
       1.0381
-    ]
+    ],
+    "ilc": 677.4,
+    "aph_tod": 553.2,
+    "aph_tot": 1.0846,
+    "tmf_inshore": 0.8857,
+    "tmf_offshore": 0.9963
   },
   "boat": {
     "builder": "OCEANTECH",
@@ -33,7 +38,10 @@
       "crew": 730.0,
       "wetted_surface": 28.87
     },
-    "stability_index": 115.7
+    "stability_index": 115.7,
+    "cdl": 9.497,
+    "division": "C",
+    "issue_date": "2026-07-20T22:10:04.067Z"
   },
   "vpp": {
     "angles": [

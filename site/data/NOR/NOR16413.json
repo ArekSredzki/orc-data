@@ -14,7 +14,12 @@
       0.5369,
       0.7043,
       0.7804
-    ]
+    ],
+    "ilc": 859.6,
+    "aph_tod": 711.8,
+    "aph_tot": 0.8429,
+    "tmf_inshore": 0.698,
+    "tmf_offshore": 0.78
   },
   "boat": {
     "builder": "Granada",
@@ -33,7 +38,10 @@
       "crew": 150.0,
       "wetted_surface": 11.0
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.399,
+    "division": "C",
+    "issue_date": "2026-06-03T09:08:01.767Z"
   },
   "vpp": {
     "angles": [

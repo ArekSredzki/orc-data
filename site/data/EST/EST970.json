@@ -14,7 +14,12 @@
       0.514,
       0.7154,
       0.8463
-    ]
+    ],
+    "ilc": 842.6,
+    "aph_tod": 681.9,
+    "aph_tot": 0.8799,
+    "tmf_inshore": 0.712,
+    "tmf_offshore": 0.8055
   },
   "boat": {
     "builder": "Pelle Petterson AB",
@@ -33,7 +38,10 @@
       "crew": 414.0,
       "wetted_surface": 17.17
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.169,
+    "division": "C",
+    "issue_date": "2026-06-04T11:31:11.331Z"
   },
   "vpp": {
     "angles": [

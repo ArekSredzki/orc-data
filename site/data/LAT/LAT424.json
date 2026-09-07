@@ -14,7 +14,12 @@
       0.7206,
       0.9567,
       1.0897
-    ]
+    ],
+    "ilc": 631.3,
+    "aph_tod": 514.1,
+    "aph_tot": 1.1672,
+    "tmf_inshore": 0.9505,
+    "tmf_offshore": 1.0748
   },
   "boat": {
     "builder": "MARINA SPORT",
@@ -33,7 +38,10 @@
       "crew": 550.0,
       "wetted_surface": 25.72
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.977,
+    "division": "R",
+    "issue_date": "2026-08-14T14:46:06.646Z"
   },
   "vpp": {
     "angles": [

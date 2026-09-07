@@ -14,7 +14,12 @@
       0.5794,
       0.8016,
       0.9243
-    ]
+    ],
+    "ilc": 754.9,
+    "aph_tod": 615.1,
+    "aph_tot": 0.9755,
+    "tmf_inshore": 0.7948,
+    "tmf_offshore": 0.8964
   },
   "boat": {
     "builder": "ASTAFERSA",
@@ -33,7 +38,10 @@
       "crew": 475.0,
       "wetted_surface": 17.36
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.371,
+    "division": "R",
+    "issue_date": "2026-02-26T21:14:02.506Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6749,
       0.8467,
       0.9613
-    ]
+    ],
+    "ilc": 709.7,
+    "aph_tod": 568.9,
+    "aph_tot": 1.0546,
+    "tmf_inshore": 0.8454,
+    "tmf_offshore": 0.9688
   },
   "boat": {
     "builder": "Advanced Solution",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 15.26
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.439,
+    "division": "S",
+    "issue_date": "2026-05-27T10:22:50.418Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5834,
       0.7956,
       0.9028
-    ]
+    ],
+    "ilc": 761.5,
+    "aph_tod": 608.7,
+    "aph_tot": 0.9856,
+    "tmf_inshore": 0.7879,
+    "tmf_offshore": 0.9044
   },
   "boat": {
     "builder": "ASTIFER",
@@ -33,7 +38,10 @@
       "crew": 360.0,
       "wetted_surface": 18.3
     },
-    "stability_index": 102.4
+    "stability_index": 102.4,
+    "cdl": 7.468,
+    "division": "C",
+    "issue_date": "2026-03-06T08:00:46.625Z"
   },
   "vpp": {
     "angles": [

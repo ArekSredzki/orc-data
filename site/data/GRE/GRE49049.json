@@ -14,7 +14,12 @@
       0.5723,
       0.7699,
       0.8909
-    ]
+    ],
+    "ilc": 783.0,
+    "aph_tod": 631.2,
+    "aph_tot": 0.9505,
+    "tmf_inshore": 0.7663,
+    "tmf_offshore": 0.8721
   },
   "boat": {
     "builder": "INERGA SPAIN",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 23.42
     },
-    "stability_index": 125.6
+    "stability_index": 125.6,
+    "cdl": 7.196,
+    "division": "C",
+    "issue_date": "2026-05-14T09:45:55.334Z"
   },
   "vpp": {
     "angles": [

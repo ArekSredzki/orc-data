@@ -14,7 +14,12 @@
       0.5654,
       0.7457,
       0.8316
-    ]
+    ],
+    "ilc": 811.9,
+    "aph_tod": 661.8,
+    "aph_tot": 0.9066,
+    "tmf_inshore": 0.739,
+    "tmf_offshore": 0.8365
   },
   "boat": {
     "builder": "SKIPPI YACHTS",
@@ -33,7 +38,10 @@
       "crew": 240.0,
       "wetted_surface": 10.31
     },
-    "stability_index": 93.7
+    "stability_index": 93.7,
+    "cdl": 5.91,
+    "division": "S",
+    "issue_date": "2026-04-29T09:41:46.628Z"
   },
   "vpp": {
     "angles": [

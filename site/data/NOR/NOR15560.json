@@ -14,7 +14,12 @@
       0.7639,
       1.0276,
       1.1795
-    ]
+    ],
+    "ilc": 587.9,
+    "aph_tod": 477.0,
+    "aph_tot": 1.2578,
+    "tmf_inshore": 1.0205,
+    "tmf_offshore": 1.1567
   },
   "boat": {
     "builder": "Oceantec",
@@ -33,7 +38,10 @@
       "crew": 850.0,
       "wetted_surface": 32.4
     },
-    "stability_index": 141.9
+    "stability_index": 141.9,
+    "cdl": 11.626,
+    "division": "R",
+    "issue_date": "2026-05-04T13:55:32.370Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5741,
       0.7922,
       0.9254
-    ]
+    ],
+    "ilc": 761.8,
+    "aph_tod": 622.4,
+    "aph_tot": 0.964,
+    "tmf_inshore": 0.7876,
+    "tmf_offshore": 0.8862
   },
   "boat": {
     "builder": "H. Vink",
@@ -33,7 +38,10 @@
       "crew": 516.0,
       "wetted_surface": 24.69
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.6,
+    "division": "C",
+    "issue_date": "2026-02-03T18:56:02.053Z"
   },
   "vpp": {
     "angles": [

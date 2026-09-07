@@ -14,7 +14,12 @@
       0.6405,
       0.8721,
       0.9977
-    ]
+    ],
+    "ilc": 693.6,
+    "aph_tod": 559.0,
+    "aph_tot": 1.0734,
+    "tmf_inshore": 0.8651,
+    "tmf_offshore": 0.985
   },
   "boat": {
     "builder": "Sirena Marine",
@@ -33,7 +38,10 @@
       "crew": 380.0,
       "wetted_surface": 27.07
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.929,
+    "division": "C",
+    "issue_date": "2026-02-12T18:42:23.780Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6195,
       0.8351,
       0.9504
-    ]
+    ],
+    "ilc": 724.2,
+    "aph_tod": 594.8,
+    "aph_tot": 1.0088,
+    "tmf_inshore": 0.8286,
+    "tmf_offshore": 0.9299
   },
   "boat": {
     "builder": "HUNTER",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 18.04
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.776,
+    "division": "R",
+    "issue_date": "2026-03-04T13:11:31.195Z"
   },
   "vpp": {
     "angles": [

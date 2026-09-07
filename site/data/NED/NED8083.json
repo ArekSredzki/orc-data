@@ -14,7 +14,12 @@
       0.7402,
       0.9915,
       1.1699
-    ]
+    ],
+    "ilc": 606.3,
+    "aph_tod": 472.5,
+    "aph_tot": 1.2699,
+    "tmf_inshore": 0.9896,
+    "tmf_offshore": 1.157
   },
   "boat": {
     "builder": "Schaap Shipcare",
@@ -33,7 +38,10 @@
       "crew": 600.0,
       "wetted_surface": 31.96
     },
-    "stability_index": 99.3
+    "stability_index": 99.3,
+    "cdl": 11.141,
+    "division": "R",
+    "issue_date": "2026-04-01T19:54:17.941Z"
   },
   "vpp": {
     "angles": [

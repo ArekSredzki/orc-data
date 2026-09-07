@@ -14,7 +14,12 @@
       0.6716,
       0.9139,
       1.0465
-    ]
+    ],
+    "ilc": 661.9,
+    "aph_tod": 538.7,
+    "aph_tot": 1.1139,
+    "tmf_inshore": 0.9065,
+    "tmf_offshore": 1.0227
   },
   "boat": {
     "builder": "AJAX RACING YACHTS",
@@ -33,7 +38,10 @@
       "crew": 671.0,
       "wetted_surface": 28.03
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.785,
+    "division": "R",
+    "issue_date": "2026-02-03T19:01:07.721Z"
   },
   "vpp": {
     "angles": [

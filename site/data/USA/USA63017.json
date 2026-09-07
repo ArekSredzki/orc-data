@@ -14,7 +14,12 @@
       0.7685,
       0.9597,
       1.1154
-    ]
+    ],
+    "ilc": 623.0,
+    "aph_tod": 508.7,
+    "aph_tot": 1.1794,
+    "tmf_inshore": 0.9631,
+    "tmf_offshore": 1.0859
   },
   "boat": {
     "builder": "Hobie",
@@ -33,7 +38,10 @@
       "crew": 572.0,
       "wetted_surface": 17.75
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.33,
+    "division": "R",
+    "issue_date": "2026-08-10T18:57:16.812Z"
   },
   "vpp": {
     "angles": [

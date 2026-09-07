@@ -14,7 +14,12 @@
       0.7111,
       0.9378,
       1.0673
-    ]
+    ],
+    "ilc": 643.7,
+    "aph_tod": 531.7,
+    "aph_tot": 1.1285,
+    "tmf_inshore": 0.9321,
+    "tmf_offshore": 1.0445
   },
   "boat": {
     "builder": "Hart Marine",
@@ -33,7 +38,10 @@
       "crew": 595.0,
       "wetted_surface": 19.18
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.211,
+    "division": "R",
+    "issue_date": "2026-06-23T00:36:30.049Z"
   },
   "vpp": {
     "angles": [

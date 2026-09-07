@@ -14,7 +14,12 @@
       0.7027,
       0.915,
       1.0962
-    ]
+    ],
+    "ilc": 653.8,
+    "aph_tod": 511.2,
+    "aph_tot": 1.1738,
+    "tmf_inshore": 0.9177,
+    "tmf_offshore": 1.0699
   },
   "boat": {
     "builder": "HARPPRECHT",
@@ -33,7 +38,10 @@
       "crew": 414.0,
       "wetted_surface": 15.95
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.041,
+    "division": "S",
+    "issue_date": "2026-08-18T11:51:06.102Z"
   },
   "vpp": {
     "angles": [

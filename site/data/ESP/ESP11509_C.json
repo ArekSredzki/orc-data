@@ -14,7 +14,12 @@
       0.5516,
       0.7555,
       0.8781
-    ]
+    ],
+    "ilc": 799.0,
+    "aph_tod": 640.1,
+    "aph_tot": 0.9374,
+    "tmf_inshore": 0.7509,
+    "tmf_offshore": 0.8585
   },
   "boat": {
     "builder": "Astilleros LG",
@@ -33,7 +38,10 @@
       "crew": 290.0,
       "wetted_surface": 17.17
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.739,
+    "division": "C",
+    "issue_date": "2026-06-02T10:23:38.739Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5141,
       0.7201,
       0.8432
-    ]
+    ],
+    "ilc": 839.4,
+    "aph_tod": 676.6,
+    "aph_tot": 0.8867,
+    "tmf_inshore": 0.7148,
+    "tmf_offshore": 0.8129
   },
   "boat": {
     "builder": "JOUET",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 20.95
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.559,
+    "division": "C",
+    "issue_date": "2026-03-12T14:28:24.811Z"
   },
   "vpp": {
     "angles": [

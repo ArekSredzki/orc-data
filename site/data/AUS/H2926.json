@@ -14,7 +14,12 @@
       0.5611,
       0.7477,
       0.8433
-    ]
+    ],
+    "ilc": 808.5,
+    "aph_tod": 663.1,
+    "aph_tot": 0.9048,
+    "tmf_inshore": 0.7422,
+    "tmf_offshore": 0.8347
   },
   "boat": {
     "builder": "Duncanson",
@@ -33,7 +38,10 @@
       "crew": 250.0,
       "wetted_surface": 18.5
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.377,
+    "division": "C",
+    "issue_date": "2026-06-23T00:56:28.480Z"
   },
   "vpp": {
     "angles": [

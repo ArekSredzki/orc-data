@@ -14,7 +14,12 @@
       0.7769,
       1.0206,
       1.164
-    ]
+    ],
+    "ilc": 591.1,
+    "aph_tod": 480.3,
+    "aph_tot": 1.2492,
+    "tmf_inshore": 1.0151,
+    "tmf_offshore": 1.1502
   },
   "boat": {
     "builder": "David Senogles",
@@ -33,7 +38,10 @@
       "crew": 765.0,
       "wetted_surface": 30.14
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.231,
+    "division": "C",
+    "issue_date": "2026-08-11T03:24:51.375Z"
   },
   "vpp": {
     "angles": [

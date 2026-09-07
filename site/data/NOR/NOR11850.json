@@ -14,7 +14,12 @@
       0.6892,
       0.9188,
       1.044
-    ]
+    ],
+    "ilc": 657.6,
+    "aph_tod": 536.4,
+    "aph_tot": 1.1186,
+    "tmf_inshore": 0.9123,
+    "tmf_offshore": 1.0287
   },
   "boat": {
     "builder": "CC Yachts",
@@ -33,7 +38,10 @@
       "crew": 739.0,
       "wetted_surface": 30.27
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.839,
+    "division": "C",
+    "issue_date": "2026-05-27T12:44:31.758Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6572,
       0.8699,
       0.9764
-    ]
+    ],
+    "ilc": 695.4,
+    "aph_tod": 571.3,
+    "aph_tot": 1.0503,
+    "tmf_inshore": 0.8628,
+    "tmf_offshore": 0.9698
   },
   "boat": {
     "builder": "SC Yachts",
@@ -33,7 +38,10 @@
       "crew": 454.0,
       "wetted_surface": 20.23
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.421,
+    "division": "R",
+    "issue_date": "2026-03-05T15:30:00.023Z"
   },
   "vpp": {
     "angles": [

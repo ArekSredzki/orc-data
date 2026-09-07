@@ -14,7 +14,12 @@
       0.8512,
       1.0973,
       1.2896
-    ]
+    ],
+    "ilc": 546.0,
+    "aph_tod": 436.9,
+    "aph_tot": 1.3734,
+    "tmf_inshore": 1.099,
+    "tmf_offshore": 1.2592
   },
   "boat": {
     "builder": "Hakes marine",
@@ -33,7 +38,10 @@
       "crew": 800.0,
       "wetted_surface": 31.93
     },
-    "stability_index": 126.6
+    "stability_index": 126.6,
+    "cdl": 12.0,
+    "division": "R",
+    "issue_date": "2026-08-26T14:47:34.497Z"
   },
   "vpp": {
     "angles": [

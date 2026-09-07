@@ -14,7 +14,12 @@
       0.8559,
       1.1155,
       1.2816
-    ]
+    ],
+    "ilc": 539.7,
+    "aph_tod": 437.0,
+    "aph_tot": 1.3731,
+    "tmf_inshore": 1.1118,
+    "tmf_offshore": 1.2618
   },
   "boat": {
     "builder": "MARTEN MARINE",
@@ -33,7 +38,10 @@
       "crew": 850.0,
       "wetted_surface": 42.76
     },
-    "stability_index": 144.9
+    "stability_index": 144.9,
+    "cdl": 13.489,
+    "division": "R",
+    "issue_date": "2026-06-12T06:46:53.507Z"
   },
   "vpp": {
     "angles": [

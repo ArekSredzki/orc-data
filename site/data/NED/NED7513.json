@@ -14,7 +14,12 @@
       0.5682,
       0.7841,
       0.9226
-    ]
+    ],
+    "ilc": 768.9,
+    "aph_tod": 629.0,
+    "aph_tot": 0.9539,
+    "tmf_inshore": 0.7803,
+    "tmf_offshore": 0.8771
   },
   "boat": {
     "builder": "Mareus Marine",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 25.54
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.595,
+    "division": "C",
+    "issue_date": "2026-04-10T10:14:19.593Z"
   },
   "vpp": {
     "angles": [

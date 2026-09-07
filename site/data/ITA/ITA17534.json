@@ -14,7 +14,12 @@
       0.6173,
       0.8363,
       0.951
-    ]
+    ],
+    "ilc": 723.5,
+    "aph_tod": 582.5,
+    "aph_tot": 1.0301,
+    "tmf_inshore": 0.8294,
+    "tmf_offshore": 0.9444
   },
   "boat": {
     "builder": "AD Boats LTD",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 23.53
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.551,
+    "division": "C",
+    "issue_date": "2026-02-12T14:00:33.008Z"
   },
   "vpp": {
     "angles": [

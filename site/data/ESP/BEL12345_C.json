@@ -14,7 +14,12 @@
       0.6758,
       0.9306,
       1.0864
-    ]
+    ],
+    "ilc": 648.8,
+    "aph_tod": 522.7,
+    "aph_tot": 1.1479,
+    "tmf_inshore": 0.9247,
+    "tmf_offshore": 1.0525
   },
   "boat": {
     "builder": "MARSAUDON COMPOSIT",
@@ -33,7 +38,10 @@
       "crew": 480.0,
       "wetted_surface": 24.45
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.576,
+    "division": "C",
+    "issue_date": "2026-05-08T10:15:56.868Z"
   },
   "vpp": {
     "angles": [

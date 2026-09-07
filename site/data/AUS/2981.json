@@ -14,7 +14,12 @@
       0.7369,
       0.9903,
       1.1336
-    ]
+    ],
+    "ilc": 609.9,
+    "aph_tod": 498.4,
+    "aph_tot": 1.2039,
+    "tmf_inshore": 0.9837,
+    "tmf_offshore": 1.1074
   },
   "boat": {
     "builder": "P BOLTON",
@@ -33,7 +38,10 @@
       "crew": 860.0,
       "wetted_surface": 31.6
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.087,
+    "division": "R",
+    "issue_date": "2026-08-18T03:36:15.778Z"
   },
   "vpp": {
     "angles": [

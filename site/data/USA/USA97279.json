@@ -14,7 +14,12 @@
       0.68,
       0.9169,
       1.0458
-    ]
+    ],
+    "ilc": 659.3,
+    "aph_tod": 545.1,
+    "aph_tot": 1.1006,
+    "tmf_inshore": 0.91,
+    "tmf_offshore": 1.0161
   },
   "boat": {
     "builder": "TPI",
@@ -33,7 +38,10 @@
       "crew": 772.0,
       "wetted_surface": 24.93
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.446,
+    "division": "R",
+    "issue_date": "2026-05-28T19:37:10.784Z"
   },
   "vpp": {
     "angles": [

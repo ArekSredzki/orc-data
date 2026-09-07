@@ -14,7 +14,12 @@
       0.6579,
       0.8778,
       1.0329
-    ]
+    ],
+    "ilc": 685.4,
+    "aph_tod": 545.9,
+    "aph_tot": 1.099,
+    "tmf_inshore": 0.8753,
+    "tmf_offshore": 1.0073
   },
   "boat": {
     "builder": "WRace Boats",
@@ -33,7 +38,10 @@
       "crew": 465.0,
       "wetted_surface": 14.63
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.949,
+    "division": "S",
+    "issue_date": "2026-02-04T14:45:57.341Z"
   },
   "vpp": {
     "angles": [

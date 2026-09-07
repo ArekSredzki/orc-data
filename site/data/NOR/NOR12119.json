@@ -14,7 +14,12 @@
       0.6385,
       0.8575,
       0.9853
-    ]
+    ],
+    "ilc": 703.6,
+    "aph_tod": 569.1,
+    "aph_tot": 1.0542,
+    "tmf_inshore": 0.8527,
+    "tmf_offshore": 0.9669
   },
   "boat": {
     "builder": "Frers",
@@ -33,7 +38,10 @@
       "crew": 702.0,
       "wetted_surface": 38.91
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.03,
+    "division": "C",
+    "issue_date": "2026-04-24T07:57:16.690Z"
   },
   "vpp": {
     "angles": [

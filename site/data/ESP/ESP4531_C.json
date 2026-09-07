@@ -14,7 +14,12 @@
       0.6918,
       0.8578,
       0.9853
-    ]
+    ],
+    "ilc": 698.6,
+    "aph_tod": 567.4,
+    "aph_tot": 1.0574,
+    "tmf_inshore": 0.8589,
+    "tmf_offshore": 0.9779
   },
   "boat": {
     "builder": "P.CUESTA",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 11.77
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.221,
+    "division": "S",
+    "issue_date": "2026-04-10T10:32:06.099Z"
   },
   "vpp": {
     "angles": [

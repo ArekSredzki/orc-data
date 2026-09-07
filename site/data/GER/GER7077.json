@@ -14,7 +14,12 @@
       0.7436,
       0.9831,
       1.1039
-    ]
+    ],
+    "ilc": 615.0,
+    "aph_tod": 489.0,
+    "aph_tot": 1.2271,
+    "tmf_inshore": 0.9757,
+    "tmf_offshore": 1.1208
   },
   "boat": {
     "builder": "BENJAMINS",
@@ -33,7 +38,10 @@
       "crew": 800.0,
       "wetted_surface": 63.39
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 12.551,
+    "division": "C",
+    "issue_date": "2026-04-08T14:45:50.869Z"
   },
   "vpp": {
     "angles": [

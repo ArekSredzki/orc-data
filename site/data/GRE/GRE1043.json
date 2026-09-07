@@ -14,7 +14,12 @@
       0.6427,
       0.8878,
       1.0345
-    ]
+    ],
+    "ilc": 680.3,
+    "aph_tod": 547.8,
+    "aph_tot": 1.0952,
+    "tmf_inshore": 0.8819,
+    "tmf_offshore": 1.0029
   },
   "boat": {
     "builder": "DROMOR YACHTS",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 44.33
     },
-    "stability_index": 118.3
+    "stability_index": 118.3,
+    "cdl": 10.157,
+    "division": "C",
+    "issue_date": "2026-08-27T07:40:20.423Z"
   },
   "vpp": {
     "angles": [

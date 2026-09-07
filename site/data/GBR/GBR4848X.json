@@ -14,7 +14,12 @@
       0.7161,
       0.9836,
       1.1234
-    ]
+    ],
+    "ilc": 615.9,
+    "aph_tod": 488.5,
+    "aph_tot": 1.2283,
+    "tmf_inshore": 0.9742,
+    "tmf_offshore": 1.1194
   },
   "boat": {
     "builder": "OY Nautor AB",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 50.99
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 12.367,
+    "division": "C",
+    "issue_date": "2026-08-07T15:52:50.614Z"
   },
   "vpp": {
     "angles": [

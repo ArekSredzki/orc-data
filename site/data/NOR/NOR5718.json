@@ -14,7 +14,12 @@
       0.557,
       0.7245,
       0.8053
-    ]
+    ],
+    "ilc": 834.6,
+    "aph_tod": 685.1,
+    "aph_tot": 0.8758,
+    "tmf_inshore": 0.7189,
+    "tmf_offshore": 0.8093
   },
   "boat": {
     "builder": "Hero",
@@ -33,7 +38,10 @@
       "crew": 265.0,
       "wetted_surface": 9.54
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.412,
+    "division": "R",
+    "issue_date": "2026-05-28T12:02:32.914Z"
   },
   "vpp": {
     "angles": [

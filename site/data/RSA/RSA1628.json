@@ -14,7 +14,12 @@
       0.5493,
       0.7578,
       0.8813
-    ]
+    ],
+    "ilc": 797.1,
+    "aph_tod": 637.8,
+    "aph_tot": 0.9407,
+    "tmf_inshore": 0.7528,
+    "tmf_offshore": 0.8608
   },
   "boat": {
     "builder": "GOLNIX",
@@ -33,7 +38,10 @@
       "crew": 480.0,
       "wetted_surface": 30.69
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.465,
+    "division": "C",
+    "issue_date": "2026-02-03T20:51:48.421Z"
   },
   "vpp": {
     "angles": [

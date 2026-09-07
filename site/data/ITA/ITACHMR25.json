@@ -14,7 +14,12 @@
       0.8223,
       1.1018,
       1.262
-    ]
+    ],
+    "ilc": 548.3,
+    "aph_tod": 441.0,
+    "aph_tot": 1.3607,
+    "tmf_inshore": 1.0942,
+    "tmf_offshore": 1.2483
   },
   "boat": {
     "builder": "SLY Yachts",
@@ -33,7 +38,10 @@
       "crew": 750.0,
       "wetted_surface": 50.13
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 13.595,
+    "division": "C",
+    "issue_date": "2026-07-01T12:37:55.371Z"
   },
   "vpp": {
     "angles": [

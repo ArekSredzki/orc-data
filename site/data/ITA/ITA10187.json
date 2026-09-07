@@ -14,7 +14,12 @@
       0.6781,
       0.8768,
       0.9859
-    ]
+    ],
+    "ilc": 687.9,
+    "aph_tod": 565.9,
+    "aph_tot": 1.0603,
+    "tmf_inshore": 0.8722,
+    "tmf_offshore": 0.9791
   },
   "boat": {
     "builder": "Omnia",
@@ -33,7 +38,10 @@
       "crew": 530.0,
       "wetted_surface": 20.85
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.235,
+    "division": "R",
+    "issue_date": "2026-04-23T09:29:01.941Z"
   },
   "vpp": {
     "angles": [

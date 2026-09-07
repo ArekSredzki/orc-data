@@ -14,7 +14,12 @@
       0.8432,
       1.1134,
       1.275
-    ]
+    ],
+    "ilc": 541.7,
+    "aph_tod": 440.7,
+    "aph_tot": 1.3614,
+    "tmf_inshore": 1.1077,
+    "tmf_offshore": 1.2534
   },
   "boat": {
     "builder": "AZZURRA MARINE",
@@ -33,7 +38,10 @@
       "crew": 996.0,
       "wetted_surface": 43.35
     },
-    "stability_index": 152.8
+    "stability_index": 152.8,
+    "cdl": 13.734,
+    "division": "C",
+    "issue_date": "2026-06-24T05:57:03.885Z"
   },
   "vpp": {
     "angles": [

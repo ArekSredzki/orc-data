@@ -14,7 +14,12 @@
       0.6131,
       0.8262,
       0.9368
-    ]
+    ],
+    "ilc": 732.1,
+    "aph_tod": 600.2,
+    "aph_tot": 0.9997,
+    "tmf_inshore": 0.8195,
+    "tmf_offshore": 0.9214
   },
   "boat": {
     "builder": "HENZE",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 20.27
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.656,
+    "division": "C",
+    "issue_date": "2026-05-19T11:34:44.068Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.8886,
       1.1241,
       1.277
-    ]
+    ],
+    "ilc": 534.6,
+    "aph_tod": 434.5,
+    "aph_tot": 1.381,
+    "tmf_inshore": 1.1223,
+    "tmf_offshore": 1.2704
   },
   "boat": {
     "builder": "NEVILLE HUTTON",
@@ -33,7 +38,10 @@
       "crew": 1200.0,
       "wetted_surface": 44.72
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 13.596,
+    "division": "R",
+    "issue_date": "2026-05-08T13:15:08.406Z"
   },
   "vpp": {
     "angles": [

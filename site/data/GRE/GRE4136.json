@@ -14,7 +14,12 @@
       0.4819,
       0.6415,
       0.7531
-    ]
+    ],
+    "ilc": 936.2,
+    "aph_tod": 753.5,
+    "aph_tot": 0.7963,
+    "tmf_inshore": 0.6409,
+    "tmf_offshore": 0.7296
   },
   "boat": {
     "builder": "KELT",
@@ -33,7 +38,10 @@
       "crew": 250.0,
       "wetted_surface": 7.58
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 4.45,
+    "division": "C",
+    "issue_date": "2026-03-25T14:50:26.323Z"
   },
   "vpp": {
     "angles": [

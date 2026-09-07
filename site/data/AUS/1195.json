@@ -14,7 +14,12 @@
       0.8013,
       1.0514,
       1.2051
-    ]
+    ],
+    "ilc": 573.3,
+    "aph_tod": 468.7,
+    "aph_tot": 1.2801,
+    "tmf_inshore": 1.0465,
+    "tmf_offshore": 1.1803
   },
   "boat": {
     "builder": "MILNER",
@@ -33,7 +38,10 @@
       "crew": 880.0,
       "wetted_surface": 33.34
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.86,
+    "division": "C",
+    "issue_date": "2026-07-07T06:36:13.914Z"
   },
   "vpp": {
     "angles": [

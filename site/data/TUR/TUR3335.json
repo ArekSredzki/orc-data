@@ -14,7 +14,12 @@
       0.8583,
       1.135,
       1.3041
-    ]
+    ],
+    "ilc": 531.2,
+    "aph_tod": 427.3,
+    "aph_tot": 1.404,
+    "tmf_inshore": 1.1296,
+    "tmf_offshore": 1.2878
   },
   "boat": {
     "builder": "TECNICA & REGATAS",
@@ -33,7 +38,10 @@
       "crew": 1250.0,
       "wetted_surface": 50.43
     },
-    "stability_index": 145.2
+    "stability_index": 145.2,
+    "cdl": 14.376,
+    "division": "R",
+    "issue_date": "2026-06-12T16:19:24.730Z"
   },
   "vpp": {
     "angles": [

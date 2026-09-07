@@ -14,7 +14,12 @@
       0.4821,
       0.6307,
       0.6945
-    ]
+    ],
+    "ilc": 960.1,
+    "aph_tod": 762.1,
+    "aph_tot": 0.7873,
+    "tmf_inshore": 0.6249,
+    "tmf_offshore": 0.7215
   },
   "boat": {
     "builder": "EDEL",
@@ -33,7 +38,10 @@
       "crew": 260.0,
       "wetted_surface": 10.54
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 4.565,
+    "division": "C",
+    "issue_date": "2026-04-17T10:24:37.898Z"
   },
   "vpp": {
     "angles": [

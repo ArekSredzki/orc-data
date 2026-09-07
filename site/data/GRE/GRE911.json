@@ -14,7 +14,12 @@
       0.5058,
       0.7121,
       0.8567
-    ]
+    ],
+    "ilc": 846.2,
+    "aph_tod": 670.6,
+    "aph_tot": 0.8948,
+    "tmf_inshore": 0.7091,
+    "tmf_offshore": 0.8137
   },
   "boat": {
     "builder": "AKROPRORO, CHALKIS",
@@ -33,7 +38,10 @@
       "crew": 524.0,
       "wetted_surface": 22.74
     },
-    "stability_index": 103.8
+    "stability_index": 103.8,
+    "cdl": 6.659,
+    "division": "C",
+    "issue_date": "2026-05-07T08:52:07.732Z"
   },
   "vpp": {
     "angles": [

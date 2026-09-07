@@ -14,7 +14,12 @@
       0.6072,
       0.7993,
       0.8976
-    ]
+    ],
+    "ilc": 756.2,
+    "aph_tod": 622.6,
+    "aph_tot": 0.9636,
+    "tmf_inshore": 0.7935,
+    "tmf_offshore": 0.8898
   },
   "boat": {
     "builder": "CESPEDES PEONA",
@@ -33,7 +38,10 @@
       "crew": 446.0,
       "wetted_surface": 18.94
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.185,
+    "division": "C",
+    "issue_date": "2026-04-24T18:23:36.101Z"
   },
   "vpp": {
     "angles": [

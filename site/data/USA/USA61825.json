@@ -14,7 +14,12 @@
       0.6354,
       0.8718,
       1.0132
-    ]
+    ],
+    "ilc": 692.7,
+    "aph_tod": 551.5,
+    "aph_tot": 1.0879,
+    "tmf_inshore": 0.8662,
+    "tmf_offshore": 0.9944
   },
   "boat": {
     "builder": "Hallberg-rassy",
@@ -33,7 +38,10 @@
       "crew": 635.0,
       "wetted_surface": 58.32
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.583,
+    "division": "C",
+    "issue_date": "2026-06-02T19:54:43.126Z"
   },
   "vpp": {
     "angles": [

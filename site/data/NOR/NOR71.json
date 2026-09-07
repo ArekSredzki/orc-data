@@ -14,7 +14,12 @@
       0.4885,
       0.671,
       0.7796
-    ]
+    ],
+    "ilc": 899.9,
+    "aph_tod": 736.8,
+    "aph_tot": 0.8143,
+    "tmf_inshore": 0.6667,
+    "tmf_offshore": 0.7493
   },
   "boat": {
     "builder": "Borge Bringsv\u00e6rd",
@@ -33,7 +38,10 @@
       "crew": 231.0,
       "wetted_surface": 8.03
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 4.923,
+    "division": "S",
+    "issue_date": "2026-04-14T10:51:50.986Z"
   },
   "vpp": {
     "angles": [

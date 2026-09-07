@@ -14,7 +14,12 @@
       0.6793,
       0.8639,
       0.9997
-    ]
+    ],
+    "ilc": 694.3,
+    "aph_tod": 565.1,
+    "aph_tot": 1.0618,
+    "tmf_inshore": 0.8642,
+    "tmf_offshore": 0.9799
   },
   "boat": {
     "builder": "NIGGEL RIPPEY",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 14.29
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.505,
+    "division": "S",
+    "issue_date": "2026-04-29T15:12:49.276Z"
   },
   "vpp": {
     "angles": [

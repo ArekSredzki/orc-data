@@ -14,7 +14,12 @@
       0.6751,
       0.9096,
       1.027
-    ]
+    ],
+    "ilc": 665.7,
+    "aph_tod": 541.0,
+    "aph_tot": 1.1092,
+    "tmf_inshore": 0.9014,
+    "tmf_offshore": 1.0205
   },
   "boat": {
     "builder": "Pearson Composites",
@@ -33,7 +38,10 @@
       "crew": 577.0,
       "wetted_surface": 25.73
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.311,
+    "division": "R",
+    "issue_date": "2026-06-29T18:06:56.511Z"
   },
   "vpp": {
     "angles": [

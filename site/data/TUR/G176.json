@@ -14,7 +14,12 @@
       0.6886,
       0.8946,
       1.0264
-    ]
+    ],
+    "ilc": 673.0,
+    "aph_tod": 546.3,
+    "aph_tot": 1.0983,
+    "tmf_inshore": 0.8916,
+    "tmf_offshore": 1.0116
   },
   "boat": {
     "builder": "Ukjent",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 15.3
     },
-    "stability_index": 94.2
+    "stability_index": 94.2,
+    "cdl": 8.166,
+    "division": "R",
+    "issue_date": "2026-02-03T16:38:37.027Z"
   },
   "vpp": {
     "angles": [

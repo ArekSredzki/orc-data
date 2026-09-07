@@ -14,7 +14,12 @@
       0.7712,
       1.0265,
       1.1774
-    ]
+    ],
+    "ilc": 587.6,
+    "aph_tod": 466.0,
+    "aph_tot": 1.2875,
+    "tmf_inshore": 1.0211,
+    "tmf_offshore": 1.1753
   },
   "boat": {
     "builder": "NAUTOR SWAN",
@@ -33,7 +38,10 @@
       "crew": 850.0,
       "wetted_surface": 63.55
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 13.551,
+    "division": "C",
+    "issue_date": "2026-04-12T12:51:01.004Z"
   },
   "vpp": {
     "angles": [

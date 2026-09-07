@@ -14,7 +14,12 @@
       0.7427,
       1.0203,
       1.2006
-    ]
+    ],
+    "ilc": 590.8,
+    "aph_tod": 473.8,
+    "aph_tot": 1.2664,
+    "tmf_inshore": 1.0155,
+    "tmf_offshore": 1.1568
   },
   "boat": {
     "builder": "Costaguta",
@@ -33,7 +38,10 @@
       "crew": 1450.0,
       "wetted_surface": 83.49
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 14.109,
+    "division": "C",
+    "issue_date": "2026-06-05T10:30:20.402Z"
   },
   "vpp": {
     "angles": [

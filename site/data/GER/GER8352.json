@@ -14,7 +14,12 @@
       0.7536,
       0.9831,
       1.1539
-    ]
+    ],
+    "ilc": 610.4,
+    "aph_tod": 490.1,
+    "aph_tot": 1.2242,
+    "tmf_inshore": 0.983,
+    "tmf_offshore": 1.1242
   },
   "boat": {
     "builder": "G FORCE",
@@ -33,7 +38,10 @@
       "crew": 570.0,
       "wetted_surface": 22.03
     },
-    "stability_index": 111.6
+    "stability_index": 111.6,
+    "cdl": 9.877,
+    "division": "R",
+    "issue_date": "2026-02-10T09:50:21.283Z"
   },
   "vpp": {
     "angles": [

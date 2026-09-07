@@ -14,7 +14,12 @@
       0.7065,
       0.9049,
       1.0298
-    ]
+    ],
+    "ilc": 664.9,
+    "aph_tod": 532.0,
+    "aph_tot": 1.1279,
+    "tmf_inshore": 0.9024,
+    "tmf_offshore": 1.035
   },
   "boat": {
     "builder": "SVP-YACHT SLO",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 19.18
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.745,
+    "division": "R",
+    "issue_date": "2026-05-09T08:45:42.572Z"
   },
   "vpp": {
     "angles": [

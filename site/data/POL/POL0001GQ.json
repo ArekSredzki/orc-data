@@ -14,7 +14,12 @@
       0.6442,
       0.8654,
       0.9768
-    ]
+    ],
+    "ilc": 699.6,
+    "aph_tod": 561.0,
+    "aph_tot": 1.0696,
+    "tmf_inshore": 0.8576,
+    "tmf_offshore": 0.9823
   },
   "boat": {
     "builder": "Caravela Boatbuild",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 22.14
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.558,
+    "division": "R",
+    "issue_date": "2026-05-25T21:53:19.523Z"
   },
   "vpp": {
     "angles": [

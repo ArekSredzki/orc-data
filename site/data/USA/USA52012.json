@@ -14,7 +14,12 @@
       0.919,
       1.2014,
       1.4149
-    ]
+    ],
+    "ilc": 499.4,
+    "aph_tod": 397.3,
+    "aph_tot": 1.5104,
+    "tmf_inshore": 1.2015,
+    "tmf_offshore": 1.381
   },
   "boat": {
     "builder": "DAVIE NORRIS",
@@ -33,7 +38,10 @@
       "crew": 1152.0,
       "wetted_surface": 46.46
     },
-    "stability_index": 144.5
+    "stability_index": 144.5,
+    "cdl": 15.374,
+    "division": "R",
+    "issue_date": "2026-06-10T12:52:32.413Z"
   },
   "vpp": {
     "angles": [

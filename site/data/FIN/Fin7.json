@@ -14,7 +14,12 @@
       0.5877,
       0.7721,
       0.8743
-    ]
+    ],
+    "ilc": 781.5,
+    "aph_tod": 639.7,
+    "aph_tot": 0.938,
+    "tmf_inshore": 0.7677,
+    "tmf_offshore": 0.8648
   },
   "boat": {
     "builder": "Heinlahti",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 18.08
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.654,
+    "division": "C",
+    "issue_date": "2026-07-23T04:30:11.366Z"
   },
   "vpp": {
     "angles": [

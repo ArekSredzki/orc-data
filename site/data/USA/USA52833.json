@@ -14,7 +14,12 @@
       0.6906,
       0.92,
       1.0473
-    ]
+    ],
+    "ilc": 656.4,
+    "aph_tod": 541.0,
+    "aph_tot": 1.1091,
+    "tmf_inshore": 0.9141,
+    "tmf_offshore": 1.0237
   },
   "boat": {
     "builder": "Microspan",
@@ -33,7 +38,10 @@
       "crew": 694.0,
       "wetted_surface": 23.25
     },
-    "stability_index": 154.3
+    "stability_index": 154.3,
+    "cdl": 9.276,
+    "division": "R",
+    "issue_date": "2026-05-20T17:36:43.400Z"
   },
   "vpp": {
     "angles": [

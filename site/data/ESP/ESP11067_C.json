@@ -14,7 +14,12 @@
       0.5844,
       0.805,
       0.9274
-    ]
+    ],
+    "ilc": 751.4,
+    "aph_tod": 608.7,
+    "aph_tot": 0.9857,
+    "tmf_inshore": 0.7985,
+    "tmf_offshore": 0.9051
   },
   "boat": {
     "builder": "DECISION",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 12.81
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.338,
+    "division": "S",
+    "issue_date": "2026-04-23T10:49:21.335Z"
   },
   "vpp": {
     "angles": [

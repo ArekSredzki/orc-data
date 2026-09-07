@@ -14,7 +14,12 @@
       0.6664,
       0.9061,
       1.0335
-    ]
+    ],
+    "ilc": 667.8,
+    "aph_tod": 540.3,
+    "aph_tot": 1.1106,
+    "tmf_inshore": 0.8985,
+    "tmf_offshore": 1.0194
   },
   "boat": {
     "builder": "Genesi",
@@ -33,7 +38,10 @@
       "crew": 520.0,
       "wetted_surface": 31.41
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.08,
+    "division": "C",
+    "issue_date": "2026-04-14T16:05:08.225Z"
   },
   "vpp": {
     "angles": [

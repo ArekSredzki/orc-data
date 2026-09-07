@@ -14,7 +14,12 @@
       0.6548,
       0.8497,
       0.9622
-    ]
+    ],
+    "ilc": 709.9,
+    "aph_tod": 585.7,
+    "aph_tot": 1.0244,
+    "tmf_inshore": 0.8452,
+    "tmf_offshore": 0.9485
   },
   "boat": {
     "builder": "Fiberblade",
@@ -33,7 +38,10 @@
       "crew": 354.0,
       "wetted_surface": 13.89
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.159,
+    "division": "S",
+    "issue_date": "2026-06-07T14:12:32.210Z"
   },
   "vpp": {
     "angles": [

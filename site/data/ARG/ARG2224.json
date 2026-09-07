@@ -14,7 +14,12 @@
       0.6178,
       0.828,
       0.9397
-    ]
+    ],
+    "ilc": 730.1,
+    "aph_tod": 593.1,
+    "aph_tot": 1.0116,
+    "tmf_inshore": 0.8218,
+    "tmf_offshore": 0.9301
   },
   "boat": {
     "builder": "AST. NAVALTEC",
@@ -33,7 +38,10 @@
       "crew": 381.0,
       "wetted_surface": 27.64
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.187,
+    "division": "C",
+    "issue_date": "2026-05-15T17:40:42.667Z"
   },
   "vpp": {
     "angles": [

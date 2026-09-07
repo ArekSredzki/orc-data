@@ -14,7 +14,12 @@
       0.6766,
       0.9293,
       1.0754
-    ]
+    ],
+    "ilc": 650.3,
+    "aph_tod": 528.2,
+    "aph_tot": 1.1359,
+    "tmf_inshore": 0.9227,
+    "tmf_offshore": 1.0426
   },
   "boat": {
     "builder": "JPK Composites",
@@ -33,7 +38,10 @@
       "crew": 674.0,
       "wetted_surface": 27.68
     },
-    "stability_index": 120.2
+    "stability_index": 120.2,
+    "cdl": 9.908,
+    "division": "R",
+    "issue_date": "2026-05-05T14:33:10.946Z"
   },
   "vpp": {
     "angles": [

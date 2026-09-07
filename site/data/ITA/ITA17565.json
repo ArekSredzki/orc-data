@@ -14,7 +14,12 @@
       0.9288,
       1.2624,
       1.4791
-    ]
+    ],
+    "ilc": 477.7,
+    "aph_tod": 381.5,
+    "aph_tot": 1.5729,
+    "tmf_inshore": 1.256,
+    "tmf_offshore": 1.4374
   },
   "boat": {
     "builder": "Adria Sail",
@@ -33,7 +38,10 @@
       "crew": 1130.0,
       "wetted_surface": 80.1
     },
-    "stability_index": 130.8
+    "stability_index": 130.8,
+    "cdl": 18.44,
+    "division": "C",
+    "issue_date": "2026-06-26T10:16:19.260Z"
   },
   "vpp": {
     "angles": [

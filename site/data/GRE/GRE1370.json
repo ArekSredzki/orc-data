@@ -14,7 +14,12 @@
       0.5816,
       0.8049,
       0.9544
-    ]
+    ],
+    "ilc": 748.4,
+    "aph_tod": 601.1,
+    "aph_tot": 0.9982,
+    "tmf_inshore": 0.8017,
+    "tmf_offshore": 0.9137
   },
   "boat": {
     "builder": "CAPE YACHTS",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 38.56
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.471,
+    "division": "C",
+    "issue_date": "2026-03-23T17:35:45.023Z"
   },
   "vpp": {
     "angles": [

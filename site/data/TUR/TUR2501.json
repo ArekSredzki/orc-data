@@ -14,7 +14,12 @@
       0.6708,
       0.865,
       1.0041
-    ]
+    ],
+    "ilc": 694.4,
+    "aph_tod": 555.6,
+    "aph_tot": 1.0799,
+    "tmf_inshore": 0.8641,
+    "tmf_offshore": 0.9931
   },
   "boat": {
     "builder": "OD Yachting",
@@ -33,7 +38,10 @@
       "crew": 423.0,
       "wetted_surface": 12.47
     },
-    "stability_index": 112.3
+    "stability_index": 112.3,
+    "cdl": 7.407,
+    "division": "S",
+    "issue_date": "2026-07-29T16:22:18.293Z"
   },
   "vpp": {
     "angles": [

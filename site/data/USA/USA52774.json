@@ -14,7 +14,12 @@
       0.8541,
       1.1078,
       1.2695
-    ]
+    ],
+    "ilc": 543.4,
+    "aph_tod": 440.0,
+    "aph_tot": 1.3636,
+    "tmf_inshore": 1.1042,
+    "tmf_offshore": 1.2544
   },
   "boat": {
     "builder": "COOKSON",
@@ -33,7 +38,10 @@
       "crew": 1080.0,
       "wetted_surface": 39.05
     },
-    "stability_index": 142.6
+    "stability_index": 142.6,
+    "cdl": 13.042,
+    "division": "R",
+    "issue_date": "2026-07-14T18:57:45.907Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5004,
       0.6534,
       0.7102
-    ]
+    ],
+    "ilc": 929.0,
+    "aph_tod": 758.5,
+    "aph_tot": 0.791,
+    "tmf_inshore": 0.6458,
+    "tmf_offshore": 0.7306
   },
   "boat": {
     "builder": "HURLEY MARINE",
@@ -33,7 +38,10 @@
       "crew": 240.0,
       "wetted_surface": 11.61
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 4.819,
+    "division": "C",
+    "issue_date": "2026-03-23T16:40:37.388Z"
   },
   "vpp": {
     "angles": [

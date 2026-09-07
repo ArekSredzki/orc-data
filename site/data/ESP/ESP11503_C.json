@@ -14,7 +14,12 @@
       0.5991,
       0.7988,
       0.8927
-    ]
+    ],
+    "ilc": 758.3,
+    "aph_tod": 625.4,
+    "aph_tot": 0.9593,
+    "tmf_inshore": 0.7913,
+    "tmf_offshore": 0.8859
   },
   "boat": {
     "builder": "GRANADA",
@@ -33,7 +38,10 @@
       "crew": 381.0,
       "wetted_surface": 17.3
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.99,
+    "division": "C",
+    "issue_date": "2026-04-23T09:46:21.219Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6237,
       0.85,
       0.9801
-    ]
+    ],
+    "ilc": 710.7,
+    "aph_tod": 580.1,
+    "aph_tot": 1.0344,
+    "tmf_inshore": 0.8442,
+    "tmf_offshore": 0.9513
   },
   "boat": {
     "builder": "ALUMINIUM & TECHN.",
@@ -33,7 +38,10 @@
       "crew": 473.0,
       "wetted_surface": 20.49
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.144,
+    "division": "C",
+    "issue_date": "2026-04-10T11:53:11.886Z"
   },
   "vpp": {
     "angles": [

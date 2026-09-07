@@ -14,7 +14,12 @@
       0.6735,
       0.8982,
       1.0027
-    ]
+    ],
+    "ilc": 674.6,
+    "aph_tod": 542.9,
+    "aph_tot": 1.1052,
+    "tmf_inshore": 0.8894,
+    "tmf_offshore": 1.0151
   },
   "boat": {
     "builder": "2 Emme Marine",
@@ -33,7 +38,10 @@
       "crew": 625.0,
       "wetted_surface": 28.22
     },
-    "stability_index": 113.1
+    "stability_index": 113.1,
+    "cdl": 9.172,
+    "division": "C",
+    "issue_date": "2026-04-23T09:29:12.176Z"
   },
   "vpp": {
     "angles": [

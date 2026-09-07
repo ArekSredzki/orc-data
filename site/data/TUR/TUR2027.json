@@ -14,7 +14,12 @@
       0.7413,
       0.9739,
       1.1036
-    ]
+    ],
+    "ilc": 619.8,
+    "aph_tod": 508.8,
+    "aph_tot": 1.1793,
+    "tmf_inshore": 0.9681,
+    "tmf_offshore": 1.0882
   },
   "boat": {
     "builder": "",
@@ -33,7 +38,10 @@
       "crew": 900.0,
       "wetted_surface": 27.79
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.423,
+    "division": "R",
+    "issue_date": "2026-02-05T14:24:24.515Z"
   },
   "vpp": {
     "angles": [

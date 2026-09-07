@@ -14,7 +14,12 @@
       0.5685,
       0.8051,
       0.9427
-    ]
+    ],
+    "ilc": 751.8,
+    "aph_tod": 593.8,
+    "aph_tot": 1.0105,
+    "tmf_inshore": 0.798,
+    "tmf_offshore": 0.9206
   },
   "boat": {
     "builder": "HUNTER USA",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 34.37
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.771,
+    "division": "C",
+    "issue_date": "2026-06-03T19:11:36.074Z"
   },
   "vpp": {
     "angles": [

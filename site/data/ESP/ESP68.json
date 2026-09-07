@@ -14,7 +14,12 @@
       0.939,
       1.2939,
       1.5321
-    ]
+    ],
+    "ilc": 466.1,
+    "aph_tod": 369.9,
+    "aph_tot": 1.6219,
+    "tmf_inshore": 1.2874,
+    "tmf_offshore": 1.4792
   },
   "boat": {
     "builder": "VISMARA",
@@ -33,7 +38,10 @@
       "crew": 1200.0,
       "wetted_surface": 82.04
     },
-    "stability_index": 141.0
+    "stability_index": 141.0,
+    "cdl": 19.331,
+    "division": "C",
+    "issue_date": "2026-03-07T06:56:01.956Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7988,
       1.0541,
       1.2126
-    ]
+    ],
+    "ilc": 571.4,
+    "aph_tod": 461.4,
+    "aph_tot": 1.3004,
+    "tmf_inshore": 1.0501,
+    "tmf_offshore": 1.1925
   },
   "boat": {
     "builder": "Goetz US",
@@ -33,7 +38,10 @@
       "crew": 1050.0,
       "wetted_surface": 40.27
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 12.857,
+    "division": "R",
+    "issue_date": "2026-08-10T07:47:31.236Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6737,
       0.8839,
       0.9967
-    ]
+    ],
+    "ilc": 683.3,
+    "aph_tod": 561.4,
+    "aph_tot": 1.0688,
+    "tmf_inshore": 0.8781,
+    "tmf_offshore": 0.987
   },
   "boat": {
     "builder": "ML YACHTS",
@@ -33,7 +38,10 @@
       "crew": 580.0,
       "wetted_surface": 18.37
     },
-    "stability_index": 107.7
+    "stability_index": 107.7,
+    "cdl": 8.416,
+    "division": "R",
+    "issue_date": "2026-03-09T18:19:18.268Z"
   },
   "vpp": {
     "angles": [

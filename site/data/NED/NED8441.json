@@ -14,7 +14,12 @@
       0.5471,
       0.7458,
       0.8511
-    ]
+    ],
+    "ilc": 811.1,
+    "aph_tod": 650.3,
+    "aph_tot": 0.9226,
+    "tmf_inshore": 0.7398,
+    "tmf_offshore": 0.8459
   },
   "boat": {
     "builder": "Le Geun-Hemedy",
@@ -33,7 +38,10 @@
       "crew": 330.0,
       "wetted_surface": 22.95
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.865,
+    "division": "C",
+    "issue_date": "2026-04-01T19:56:23.548Z"
   },
   "vpp": {
     "angles": [

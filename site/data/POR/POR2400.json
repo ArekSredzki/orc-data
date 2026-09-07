@@ -14,7 +14,12 @@
       0.6176,
       0.8258,
       0.94
-    ]
+    ],
+    "ilc": 732.1,
+    "aph_tod": 598.5,
+    "aph_tot": 1.0024,
+    "tmf_inshore": 0.8195,
+    "tmf_offshore": 0.9248
   },
   "boat": {
     "builder": "ASTRAEA",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 11.58
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.099,
+    "division": "S",
+    "issue_date": "2026-04-22T16:29:57.066Z"
   },
   "vpp": {
     "angles": [

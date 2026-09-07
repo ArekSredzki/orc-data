@@ -14,7 +14,12 @@
       0.7444,
       1.036,
       1.2069
-    ]
+    ],
+    "ilc": 583.6,
+    "aph_tod": 466.1,
+    "aph_tot": 1.2874,
+    "tmf_inshore": 1.028,
+    "tmf_offshore": 1.1761
   },
   "boat": {
     "builder": "More brodovi",
@@ -33,7 +38,10 @@
       "crew": 1235.0,
       "wetted_surface": 57.61
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 13.761,
+    "division": "C",
+    "issue_date": "2026-03-10T13:02:45.525Z"
   },
   "vpp": {
     "angles": [

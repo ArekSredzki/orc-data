@@ -14,7 +14,12 @@
       0.5276,
       0.7319,
       0.8495
-    ]
+    ],
+    "ilc": 826.1,
+    "aph_tod": 673.5,
+    "aph_tot": 0.8909,
+    "tmf_inshore": 0.7263,
+    "tmf_offshore": 0.8185
   },
   "boat": {
     "builder": "Frauscher Gmunden",
@@ -33,7 +38,10 @@
       "crew": 338.0,
       "wetted_surface": 12.24
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.119,
+    "division": "S",
+    "issue_date": "2026-05-07T16:40:52.159Z"
   },
   "vpp": {
     "angles": [

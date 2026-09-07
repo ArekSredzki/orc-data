@@ -14,7 +14,12 @@
       0.551,
       0.7399,
       0.8516
-    ]
+    ],
+    "ilc": 815.3,
+    "aph_tod": 656.2,
+    "aph_tot": 0.9144,
+    "tmf_inshore": 0.7359,
+    "tmf_offshore": 0.8391
   },
   "boat": {
     "builder": "DRACO",
@@ -33,7 +38,10 @@
       "crew": 390.0,
       "wetted_surface": 22.64
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.043,
+    "division": "C",
+    "issue_date": "2026-04-05T18:31:13.644Z"
   },
   "vpp": {
     "angles": [

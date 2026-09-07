@@ -14,7 +14,12 @@
       0.6969,
       0.9482,
       1.092
-    ]
+    ],
+    "ilc": 637.2,
+    "aph_tod": 507.2,
+    "aph_tot": 1.183,
+    "tmf_inshore": 0.9416,
+    "tmf_offshore": 1.0798
   },
   "boat": {
     "builder": "Ambrosi",
@@ -33,7 +38,10 @@
       "crew": 850.0,
       "wetted_surface": 60.03
     },
-    "stability_index": 123.3
+    "stability_index": 123.3,
+    "cdl": 11.991,
+    "division": "C",
+    "issue_date": "2026-03-26T15:50:29.482Z"
   },
   "vpp": {
     "angles": [

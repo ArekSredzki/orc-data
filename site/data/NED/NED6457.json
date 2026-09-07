@@ -14,7 +14,12 @@
       0.6576,
       0.8925,
       1.0389
-    ]
+    ],
+    "ilc": 675.5,
+    "aph_tod": 543.2,
+    "aph_tot": 1.1045,
+    "tmf_inshore": 0.8882,
+    "tmf_offshore": 1.0107
   },
   "boat": {
     "builder": "J. Vels",
@@ -33,7 +38,10 @@
       "crew": 807.0,
       "wetted_surface": 44.17
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.105,
+    "division": "C",
+    "issue_date": "2026-04-01T19:50:04.368Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6917,
       0.9277,
       1.0444
-    ]
+    ],
+    "ilc": 652.6,
+    "aph_tod": 528.5,
+    "aph_tot": 1.1352,
+    "tmf_inshore": 0.9193,
+    "tmf_offshore": 1.0439
   },
   "boat": {
     "builder": "Arcona Yachts",
@@ -33,7 +38,10 @@
       "crew": 600.0,
       "wetted_surface": 32.04
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.889,
+    "division": "C",
+    "issue_date": "2026-05-08T14:23:50.438Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6558,
       0.8817,
       1.0344
-    ]
+    ],
+    "ilc": 683.3,
+    "aph_tod": 545.0,
+    "aph_tot": 1.101,
+    "tmf_inshore": 0.8782,
+    "tmf_offshore": 1.0082
   },
   "boat": {
     "builder": "BERGNER",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 15.4
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.041,
+    "division": "S",
+    "issue_date": "2026-03-17T19:27:38.348Z"
   },
   "vpp": {
     "angles": [

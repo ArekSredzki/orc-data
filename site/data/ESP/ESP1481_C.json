@@ -14,7 +14,12 @@
       0.6927,
       0.9129,
       1.0336
-    ]
+    ],
+    "ilc": 661.5,
+    "aph_tod": 542.7,
+    "aph_tot": 1.1056,
+    "tmf_inshore": 0.907,
+    "tmf_offshore": 1.0206
   },
   "boat": {
     "builder": "GAMMO STAMPI",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 20.63
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.989,
+    "division": "C",
+    "issue_date": "2026-05-30T07:55:02.810Z"
   },
   "vpp": {
     "angles": [

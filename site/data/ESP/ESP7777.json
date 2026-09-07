@@ -14,7 +14,12 @@
       0.7449,
       1.009,
       1.1653
-    ]
+    ],
+    "ilc": 598.5,
+    "aph_tod": 484.9,
+    "aph_tot": 1.2373,
+    "tmf_inshore": 1.0026,
+    "tmf_offshore": 1.1364
   },
   "boat": {
     "builder": "MAGRATHEA 2000",
@@ -33,7 +38,10 @@
       "crew": 980.0,
       "wetted_surface": 33.02
     },
-    "stability_index": 125.0
+    "stability_index": 125.0,
+    "cdl": 11.466,
+    "division": "R",
+    "issue_date": "2026-02-27T14:56:01.790Z"
   },
   "vpp": {
     "angles": [

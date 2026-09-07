@@ -14,7 +14,12 @@
       0.5098,
       0.697,
       0.7936
-    ]
+    ],
+    "ilc": 868.4,
+    "aph_tod": 715.2,
+    "aph_tot": 0.8389,
+    "tmf_inshore": 0.6909,
+    "tmf_offshore": 0.774
   },
   "boat": {
     "builder": "PUMA",
@@ -33,7 +38,10 @@
       "crew": 310.0,
       "wetted_surface": 11.97
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.451,
+    "division": "C",
+    "issue_date": "2026-06-24T11:15:19.013Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6909,
       0.8593,
       1.0096
-    ]
+    ],
+    "ilc": 695.0,
+    "aph_tod": 565.0,
+    "aph_tot": 1.0619,
+    "tmf_inshore": 0.8634,
+    "tmf_offshore": 0.9802
   },
   "boat": {
     "builder": "TEAM COTE D' ARMOR",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 14.04
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.101,
+    "division": "S",
+    "issue_date": "2026-05-21T18:13:34.950Z"
   },
   "vpp": {
     "angles": [

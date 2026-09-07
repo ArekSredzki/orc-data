@@ -14,7 +14,12 @@
       0.6481,
       0.8472,
       0.9593
-    ]
+    ],
+    "ilc": 712.9,
+    "aph_tod": 574.6,
+    "aph_tot": 1.0442,
+    "tmf_inshore": 0.8417,
+    "tmf_offshore": 0.9602
   },
   "boat": {
     "builder": "UAB Plastolitas",
@@ -33,7 +38,10 @@
       "crew": 435.0,
       "wetted_surface": 17.17
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.628,
+    "division": "S",
+    "issue_date": "2026-07-10T05:10:03.267Z"
   },
   "vpp": {
     "angles": [

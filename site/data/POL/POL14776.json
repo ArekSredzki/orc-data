@@ -14,7 +14,12 @@
       0.5584,
       0.7721,
       0.8802
-    ]
+    ],
+    "ilc": 784.9,
+    "aph_tod": 636.7,
+    "aph_tot": 0.9423,
+    "tmf_inshore": 0.7644,
+    "tmf_offshore": 0.8657
   },
   "boat": {
     "builder": "Per. Sailcraft",
@@ -33,7 +38,10 @@
       "crew": 260.0,
       "wetted_surface": 15.67
     },
-    "stability_index": 116.6
+    "stability_index": 116.6,
+    "cdl": 6.886,
+    "division": "C",
+    "issue_date": "2026-08-03T21:30:50.721Z"
   },
   "vpp": {
     "angles": [

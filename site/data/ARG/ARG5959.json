@@ -14,7 +14,12 @@
       0.643,
       0.8811,
       1.0097
-    ]
+    ],
+    "ilc": 686.8,
+    "aph_tod": 558.7,
+    "aph_tot": 1.074,
+    "tmf_inshore": 0.8737,
+    "tmf_offshore": 0.9867
   },
   "boat": {
     "builder": "AST. NOVATECNIA",
@@ -33,7 +38,10 @@
       "crew": 615.0,
       "wetted_surface": 25.87
     },
-    "stability_index": 115.3
+    "stability_index": 115.3,
+    "cdl": 9.053,
+    "division": "C",
+    "issue_date": "2026-04-17T13:36:57.658Z"
   },
   "vpp": {
     "angles": [

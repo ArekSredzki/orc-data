@@ -14,7 +14,12 @@
       0.6666,
       0.8722,
       0.9698
-    ]
+    ],
+    "ilc": 693.9,
+    "aph_tod": 562.7,
+    "aph_tot": 1.0663,
+    "tmf_inshore": 0.8647,
+    "tmf_offshore": 0.982
   },
   "boat": {
     "builder": "Bonin",
@@ -33,7 +38,10 @@
       "crew": 480.0,
       "wetted_surface": 20.29
     },
-    "stability_index": 119.8
+    "stability_index": 119.8,
+    "cdl": 8.43,
+    "division": "C",
+    "issue_date": "2026-04-10T13:42:52.946Z"
   },
   "vpp": {
     "angles": [

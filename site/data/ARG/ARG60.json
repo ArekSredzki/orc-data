@@ -14,7 +14,12 @@
       0.6137,
       0.8361,
       0.9697
-    ]
+    ],
+    "ilc": 721.9,
+    "aph_tod": 584.4,
+    "aph_tot": 1.0267,
+    "tmf_inshore": 0.8311,
+    "tmf_offshore": 0.9427
   },
   "boat": {
     "builder": "AST. RATTI",
@@ -33,7 +38,10 @@
       "crew": 537.0,
       "wetted_surface": 35.17
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.756,
+    "division": "C",
+    "issue_date": "2026-03-21T12:13:42.607Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5817,
       0.7711,
       0.8709
-    ]
+    ],
+    "ilc": 783.5,
+    "aph_tod": 645.2,
+    "aph_tot": 0.93,
+    "tmf_inshore": 0.7658,
+    "tmf_offshore": 0.8583
   },
   "boat": {
     "builder": "Seahourse Yachts",
@@ -33,7 +38,10 @@
       "crew": 430.0,
       "wetted_surface": 19.98
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.694,
+    "division": "C",
+    "issue_date": "2026-07-17T04:07:40.454Z"
   },
   "vpp": {
     "angles": [

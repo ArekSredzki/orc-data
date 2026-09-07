@@ -14,7 +14,12 @@
       0.5146,
       0.7052,
       0.8063
-    ]
+    ],
+    "ilc": 858.0,
+    "aph_tod": 688.2,
+    "aph_tot": 0.8718,
+    "tmf_inshore": 0.6993,
+    "tmf_offshore": 0.7997
   },
   "boat": {
     "builder": "SOUTHERN SHIPBULDI",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 21.06
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.35,
+    "division": "C",
+    "issue_date": "2026-07-22T18:47:19.699Z"
   },
   "vpp": {
     "angles": [

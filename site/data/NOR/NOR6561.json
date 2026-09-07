@@ -14,7 +14,12 @@
       0.5927,
       0.7906,
       0.9032
-    ]
+    ],
+    "ilc": 763.2,
+    "aph_tod": 623.4,
+    "aph_tot": 0.9624,
+    "tmf_inshore": 0.7861,
+    "tmf_offshore": 0.8859
   },
   "boat": {
     "builder": "Les Sables DHonne",
@@ -33,7 +38,10 @@
       "crew": 419.0,
       "wetted_surface": 17.43
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.118,
+    "division": "C",
+    "issue_date": "2026-04-23T12:35:01.506Z"
   },
   "vpp": {
     "angles": [

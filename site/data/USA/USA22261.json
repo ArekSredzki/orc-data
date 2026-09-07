@@ -14,7 +14,12 @@
       0.8494,
       1.1895,
       1.4038
-    ]
+    ],
+    "ilc": 507.7,
+    "aph_tod": 405.7,
+    "aph_tot": 1.479,
+    "tmf_inshore": 1.1817,
+    "tmf_offshore": 1.3513
   },
   "boat": {
     "builder": "NEILSON",
@@ -33,7 +38,10 @@
       "crew": 1700.0,
       "wetted_surface": 134.97
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 19.816,
+    "division": "C",
+    "issue_date": "2026-06-24T19:39:16.179Z"
   },
   "vpp": {
     "angles": [

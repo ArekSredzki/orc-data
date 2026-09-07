@@ -14,7 +14,12 @@
       0.6303,
       0.8387,
       0.9751
-    ]
+    ],
+    "ilc": 718.3,
+    "aph_tod": 579.9,
+    "aph_tot": 1.0347,
+    "tmf_inshore": 0.8353,
+    "tmf_offshore": 0.9521
   },
   "boat": {
     "builder": "Topper",
@@ -33,7 +38,10 @@
       "crew": 402.0,
       "wetted_surface": 13.53
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.333,
+    "division": "S",
+    "issue_date": "2026-07-29T13:13:06.052Z"
   },
   "vpp": {
     "angles": [

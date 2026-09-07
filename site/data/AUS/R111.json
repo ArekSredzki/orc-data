@@ -14,7 +14,12 @@
       0.7045,
       0.923,
       1.0522
-    ]
+    ],
+    "ilc": 653.5,
+    "aph_tod": 539.2,
+    "aph_tot": 1.1128,
+    "tmf_inshore": 0.9182,
+    "tmf_offshore": 1.0293
   },
   "boat": {
     "builder": "ROBERT HICK",
@@ -33,7 +38,10 @@
       "crew": 509.0,
       "wetted_surface": 18.24
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.784,
+    "division": "R",
+    "issue_date": "2026-06-11T23:52:07.536Z"
   },
   "vpp": {
     "angles": [

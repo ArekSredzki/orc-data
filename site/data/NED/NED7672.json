@@ -14,7 +14,12 @@
       0.6427,
       0.8457,
       0.9905
-    ]
+    ],
+    "ilc": 710.8,
+    "aph_tod": 573.5,
+    "aph_tot": 1.0461,
+    "tmf_inshore": 0.8441,
+    "tmf_offshore": 0.9636
   },
   "boat": {
     "builder": "MaxFun Boats",
@@ -33,7 +38,10 @@
       "crew": 360.0,
       "wetted_surface": 12.87
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.195,
+    "division": "S",
+    "issue_date": "2026-04-01T19:52:43.590Z"
   },
   "vpp": {
     "angles": [

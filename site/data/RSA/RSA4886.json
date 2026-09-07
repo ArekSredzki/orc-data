@@ -14,7 +14,12 @@
       0.678,
       0.942,
       1.0967
-    ]
+    ],
+    "ilc": 641.7,
+    "aph_tod": 513.4,
+    "aph_tot": 1.1686,
+    "tmf_inshore": 0.935,
+    "tmf_offshore": 1.0689
   },
   "boat": {
     "builder": "Boreal Yachts",
@@ -33,7 +38,10 @@
       "crew": 510.0,
       "wetted_surface": 42.61
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.617,
+    "division": "C",
+    "issue_date": "2026-02-03T18:53:08.135Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7345,
       0.9598,
       1.1054
-    ]
+    ],
+    "ilc": 627.3,
+    "aph_tod": 505.0,
+    "aph_tot": 1.1881,
+    "tmf_inshore": 0.9564,
+    "tmf_offshore": 1.0918
   },
   "boat": {
     "builder": "ARCHAMBAULT",
@@ -33,7 +38,10 @@
       "crew": 630.0,
       "wetted_surface": 22.5
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.708,
+    "division": "R",
+    "issue_date": "2026-07-03T22:29:35.768Z"
   },
   "vpp": {
     "angles": [

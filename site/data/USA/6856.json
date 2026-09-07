@@ -14,7 +14,12 @@
       0.6287,
       0.8338,
       0.9365
-    ]
+    ],
+    "ilc": 725.5,
+    "aph_tod": 584.2,
+    "aph_tot": 1.0271,
+    "tmf_inshore": 0.827,
+    "tmf_offshore": 0.9426
   },
   "boat": {
     "builder": "MORGAN",
@@ -33,7 +38,10 @@
       "crew": 626.0,
       "wetted_surface": 32.19
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.377,
+    "division": "C",
+    "issue_date": "2026-06-10T18:36:49.733Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5523,
       0.7458,
       0.8411
-    ]
+    ],
+    "ilc": 812.0,
+    "aph_tod": 663.3,
+    "aph_tot": 0.9045,
+    "tmf_inshore": 0.739,
+    "tmf_offshore": 0.8339
   },
   "boat": {
     "builder": "Boatsman Sunsail",
@@ -33,7 +38,10 @@
       "crew": 250.0,
       "wetted_surface": 17.33
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.456,
+    "division": "C",
+    "issue_date": "2026-07-08T04:55:02.304Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5688,
       0.787,
       0.9177
-    ]
+    ],
+    "ilc": 767.5,
+    "aph_tod": 621.9,
+    "aph_tot": 0.9648,
+    "tmf_inshore": 0.7818,
+    "tmf_offshore": 0.8862
   },
   "boat": {
     "builder": "Alpa Offanengo",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 26.35
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.732,
+    "division": "C",
+    "issue_date": "2026-06-25T13:49:43.489Z"
   },
   "vpp": {
     "angles": [

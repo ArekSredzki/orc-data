@@ -14,7 +14,12 @@
       0.5853,
       0.807,
       0.9287
-    ]
+    ],
+    "ilc": 749.7,
+    "aph_tod": 600.8,
+    "aph_tot": 0.9987,
+    "tmf_inshore": 0.8003,
+    "tmf_offshore": 0.9143
   },
   "boat": {
     "builder": "AST. FAYD",
@@ -33,7 +38,10 @@
       "crew": 441.0,
       "wetted_surface": 21.83
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.006,
+    "division": "C",
+    "issue_date": "2026-03-20T12:19:00.929Z"
   },
   "vpp": {
     "angles": [

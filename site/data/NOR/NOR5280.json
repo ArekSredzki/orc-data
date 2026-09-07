@@ -14,7 +14,12 @@
       0.5678,
       0.716,
       0.7821
-    ]
+    ],
+    "ilc": 844.1,
+    "aph_tod": 690.5,
+    "aph_tot": 0.869,
+    "tmf_inshore": 0.7108,
+    "tmf_offshore": 0.8035
   },
   "boat": {
     "builder": "H\u00e5kan S\u00f6dergren",
@@ -33,7 +38,10 @@
       "crew": 220.0,
       "wetted_surface": 8.64
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.068,
+    "division": "C",
+    "issue_date": "2026-08-14T09:07:07.178Z"
   },
   "vpp": {
     "angles": [

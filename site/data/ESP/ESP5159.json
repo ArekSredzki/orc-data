@@ -14,7 +14,12 @@
       0.5724,
       0.7854,
       0.9044
-    ]
+    ],
+    "ilc": 769.6,
+    "aph_tod": 631.6,
+    "aph_tot": 0.9499,
+    "tmf_inshore": 0.7796,
+    "tmf_offshore": 0.8742
   },
   "boat": {
     "builder": "LABORNA",
@@ -33,7 +38,10 @@
       "crew": 330.0,
       "wetted_surface": 20.0
     },
-    "stability_index": 116.1
+    "stability_index": 116.1,
+    "cdl": 7.306,
+    "division": "C",
+    "issue_date": "2026-03-06T08:58:10.534Z"
   },
   "vpp": {
     "angles": [

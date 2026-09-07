@@ -14,7 +14,12 @@
       0.792,
       0.9783,
       1.1312
-    ]
+    ],
+    "ilc": 611.0,
+    "aph_tod": 497.2,
+    "aph_tot": 1.2068,
+    "tmf_inshore": 0.982,
+    "tmf_offshore": 1.1126
   },
   "boat": {
     "builder": "Galetti",
@@ -33,7 +38,10 @@
       "crew": 590.0,
       "wetted_surface": 18.26
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.209,
+    "division": "R",
+    "issue_date": "2026-07-30T13:57:33.505Z"
   },
   "vpp": {
     "angles": [

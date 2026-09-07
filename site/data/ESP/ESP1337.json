@@ -14,7 +14,12 @@
       0.6362,
       0.8358,
       0.9283
-    ]
+    ],
+    "ilc": 724.5,
+    "aph_tod": 585.8,
+    "aph_tot": 1.0243,
+    "tmf_inshore": 0.8282,
+    "tmf_offshore": 0.9431
   },
   "boat": {
     "builder": "Essence Yacht",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 18.28
     },
-    "stability_index": 134.3
+    "stability_index": 134.3,
+    "cdl": 7.802,
+    "division": "R",
+    "issue_date": "2026-07-15T12:22:51.486Z"
   },
   "vpp": {
     "angles": [

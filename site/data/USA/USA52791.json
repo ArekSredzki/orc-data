@@ -14,7 +14,12 @@
       0.8604,
       1.1301,
       1.2983
-    ]
+    ],
+    "ilc": 533.1,
+    "aph_tod": 431.8,
+    "aph_tot": 1.3895,
+    "tmf_inshore": 1.1256,
+    "tmf_offshore": 1.2776
   },
   "boat": {
     "builder": "NEW ENGLAND BW",
@@ -33,7 +38,10 @@
       "crew": 1206.0,
       "wetted_surface": 46.57
     },
-    "stability_index": 151.0
+    "stability_index": 151.0,
+    "cdl": 14.079,
+    "division": "R",
+    "issue_date": "2026-06-22T17:40:37.415Z"
   },
   "vpp": {
     "angles": [

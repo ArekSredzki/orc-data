@@ -14,7 +14,12 @@
       0.6465,
       0.8296,
       0.9252
-    ]
+    ],
+    "ilc": 727.3,
+    "aph_tod": 600.2,
+    "aph_tot": 0.9996,
+    "tmf_inshore": 0.825,
+    "tmf_offshore": 0.9237
   },
   "boat": {
     "builder": "Bianca/Ott",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 17.01
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.529,
+    "division": "C",
+    "issue_date": "2026-04-21T13:53:42.250Z"
   },
   "vpp": {
     "angles": [

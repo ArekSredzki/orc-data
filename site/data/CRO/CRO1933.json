@@ -14,7 +14,12 @@
       0.8065,
       1.0477,
       1.2283
-    ]
+    ],
+    "ilc": 572.5,
+    "aph_tod": 452.7,
+    "aph_tot": 1.3254,
+    "tmf_inshore": 1.0479,
+    "tmf_offshore": 1.2109
   },
   "boat": {
     "builder": "Enavigo",
@@ -33,7 +38,10 @@
       "crew": 800.0,
       "wetted_surface": 31.43
     },
-    "stability_index": 123.0
+    "stability_index": 123.0,
+    "cdl": 11.649,
+    "division": "R",
+    "issue_date": "2026-03-31T09:02:12.316Z"
   },
   "vpp": {
     "angles": [

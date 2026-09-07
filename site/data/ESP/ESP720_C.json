@@ -14,7 +14,12 @@
       0.5394,
       0.7391,
       0.852
-    ]
+    ],
+    "ilc": 817.7,
+    "aph_tod": 664.6,
+    "aph_tot": 0.9028,
+    "tmf_inshore": 0.7337,
+    "tmf_offshore": 0.8294
   },
   "boat": {
     "builder": "SONAR (UK) LDT",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 11.51
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.968,
+    "division": "S",
+    "issue_date": "2026-06-03T08:07:46.458Z"
   },
   "vpp": {
     "angles": [

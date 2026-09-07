@@ -14,7 +14,12 @@
       0.6633,
       0.8887,
       1.0465
-    ]
+    ],
+    "ilc": 677.1,
+    "aph_tod": 542.8,
+    "aph_tot": 1.1054,
+    "tmf_inshore": 0.8862,
+    "tmf_offshore": 1.0156
   },
   "boat": {
     "builder": "Pacer Yachts",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 14.15
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.157,
+    "division": "S",
+    "issue_date": "2026-06-09T16:15:21.335Z"
   },
   "vpp": {
     "angles": [

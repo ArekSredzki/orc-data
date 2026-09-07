@@ -14,7 +14,12 @@
       0.6698,
       0.904,
       1.0304
-    ]
+    ],
+    "ilc": 668.9,
+    "aph_tod": 544.4,
+    "aph_tot": 1.1022,
+    "tmf_inshore": 0.897,
+    "tmf_offshore": 1.0133
   },
   "boat": {
     "builder": "SALONA YACHTS",
@@ -33,7 +38,10 @@
       "crew": 665.0,
       "wetted_surface": 28.56
     },
-    "stability_index": 118.8
+    "stability_index": 118.8,
+    "cdl": 9.495,
+    "division": "C",
+    "issue_date": "2026-08-17T10:11:35.298Z"
   },
   "vpp": {
     "angles": [

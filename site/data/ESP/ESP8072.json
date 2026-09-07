@@ -14,7 +14,12 @@
       0.5591,
       0.763,
       0.8671
-    ]
+    ],
+    "ilc": 793.5,
+    "aph_tod": 647.7,
+    "aph_tot": 0.9263,
+    "tmf_inshore": 0.7561,
+    "tmf_offshore": 0.853
   },
   "boat": {
     "builder": "TALINCO COMPOSITES",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 15.21
     },
-    "stability_index": 97.7
+    "stability_index": 97.7,
+    "cdl": 6.685,
+    "division": "C",
+    "issue_date": "2026-07-16T19:13:20.084Z"
   },
   "vpp": {
     "angles": [

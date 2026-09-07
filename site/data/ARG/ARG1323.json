@@ -14,7 +14,12 @@
       0.6991,
       0.9143,
       1.0288
-    ]
+    ],
+    "ilc": 660.4,
+    "aph_tod": 541.3,
+    "aph_tot": 1.1085,
+    "tmf_inshore": 0.9085,
+    "tmf_offshore": 1.0219
   },
   "boat": {
     "builder": "AST. GARCIA",
@@ -33,7 +38,10 @@
       "crew": 524.0,
       "wetted_surface": 31.6
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.462,
+    "division": "C",
+    "issue_date": "2026-08-21T15:10:58.181Z"
   },
   "vpp": {
     "angles": [

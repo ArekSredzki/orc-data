@@ -14,7 +14,12 @@
       0.6931,
       0.9361,
       1.0754
-    ]
+    ],
+    "ilc": 645.1,
+    "aph_tod": 521.4,
+    "aph_tot": 1.1508,
+    "tmf_inshore": 0.9301,
+    "tmf_offshore": 1.0555
   },
   "boat": {
     "builder": "Crisman & Giraldi",
@@ -33,7 +38,10 @@
       "crew": 720.0,
       "wetted_surface": 43.94
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.089,
+    "division": "C",
+    "issue_date": "2026-02-10T13:42:03.204Z"
   },
   "vpp": {
     "angles": [

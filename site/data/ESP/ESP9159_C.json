@@ -14,7 +14,12 @@
       0.5971,
       0.8099,
       0.9257
-    ]
+    ],
+    "ilc": 746.3,
+    "aph_tod": 615.2,
+    "aph_tot": 0.9753,
+    "tmf_inshore": 0.8039,
+    "tmf_offshore": 0.8988
   },
   "boat": {
     "builder": "MONOTIPO",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 19.76
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.601,
+    "division": "C",
+    "issue_date": "2026-04-22T11:25:05.575Z"
   },
   "vpp": {
     "angles": [

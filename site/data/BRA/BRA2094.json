@@ -14,7 +14,12 @@
       0.6194,
       0.8339,
       0.9389
-    ]
+    ],
+    "ilc": 726.3,
+    "aph_tod": 592.0,
+    "aph_tot": 1.0136,
+    "tmf_inshore": 0.8261,
+    "tmf_offshore": 0.932
   },
   "boat": {
     "builder": "DELTA YACHTS",
@@ -33,7 +38,10 @@
       "crew": 495.0,
       "wetted_surface": 22.98
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.969,
+    "division": "C",
+    "issue_date": "2026-03-27T19:53:21.816Z"
   },
   "vpp": {
     "angles": [

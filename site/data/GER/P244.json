@@ -14,7 +14,12 @@
       0.6974,
       0.8935,
       1.0046
-    ]
+    ],
+    "ilc": 674.5,
+    "aph_tod": 553.9,
+    "aph_tot": 1.0833,
+    "tmf_inshore": 0.8895,
+    "tmf_offshore": 1.0015
   },
   "boat": {
     "builder": "GLAS",
@@ -33,7 +38,10 @@
       "crew": 480.0,
       "wetted_surface": 18.25
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.238,
+    "division": "C",
+    "issue_date": "2026-05-20T10:39:48.099Z"
   },
   "vpp": {
     "angles": [

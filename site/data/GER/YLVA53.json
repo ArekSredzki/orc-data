@@ -14,7 +14,12 @@
       0.601,
       0.8308,
       0.9499
-    ]
+    ],
+    "ilc": 729.6,
+    "aph_tod": 586.2,
+    "aph_tot": 1.0236,
+    "tmf_inshore": 0.8224,
+    "tmf_offshore": 0.9374
   },
   "boat": {
     "builder": "KJOELHEDE",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 20.51
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.252,
+    "division": "C",
+    "issue_date": "2026-03-31T14:17:38.597Z"
   },
   "vpp": {
     "angles": [

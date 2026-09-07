@@ -14,7 +14,12 @@
       0.753,
       1.0034,
       1.1397
-    ]
+    ],
+    "ilc": 602.4,
+    "aph_tod": 489.4,
+    "aph_tot": 1.2259,
+    "tmf_inshore": 0.996,
+    "tmf_offshore": 1.1286
   },
   "boat": {
     "builder": "POLITEC",
@@ -33,7 +38,10 @@
       "crew": 510.0,
       "wetted_surface": 33.97
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.302,
+    "division": "C",
+    "issue_date": "2026-08-25T12:40:06.681Z"
   },
   "vpp": {
     "angles": [

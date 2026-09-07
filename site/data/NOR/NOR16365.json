@@ -14,7 +14,12 @@
       0.6323,
       0.8237,
       0.9249
-    ]
+    ],
+    "ilc": 732.9,
+    "aph_tod": 604.2,
+    "aph_tot": 0.993,
+    "tmf_inshore": 0.8187,
+    "tmf_offshore": 0.917
   },
   "boat": {
     "builder": "BIANCA YACHTS",
@@ -33,7 +38,10 @@
       "crew": 330.0,
       "wetted_surface": 16.96
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.592,
+    "division": "C",
+    "issue_date": "2026-04-07T11:42:09.766Z"
   },
   "vpp": {
     "angles": [

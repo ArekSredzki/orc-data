@@ -14,7 +14,12 @@
       0.6662,
       0.8873,
       1.0026
-    ]
+    ],
+    "ilc": 681.5,
+    "aph_tod": 563.1,
+    "aph_tot": 1.0655,
+    "tmf_inshore": 0.8805,
+    "tmf_offshore": 0.9845
   },
   "boat": {
     "builder": "KEN JAGO",
@@ -33,7 +38,10 @@
       "crew": 595.0,
       "wetted_surface": 20.99
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.441,
+    "division": "C",
+    "issue_date": "2026-06-30T06:22:56.916Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7236,
       0.9746,
       1.1114
-    ]
+    ],
+    "ilc": 620.1,
+    "aph_tod": 494.9,
+    "aph_tot": 1.2123,
+    "tmf_inshore": 0.9677,
+    "tmf_offshore": 1.1078
   },
   "boat": {
     "builder": "SIRENA MARIRE",
@@ -33,7 +38,10 @@
       "crew": 180.0,
       "wetted_surface": 45.89
     },
-    "stability_index": 128.9
+    "stability_index": 128.9,
+    "cdl": 11.74,
+    "division": "C",
+    "issue_date": "2026-02-22T09:38:22.088Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6428,
       0.8701,
       0.9892
-    ]
+    ],
+    "ilc": 695.6,
+    "aph_tod": 564.8,
+    "aph_tot": 1.0623,
+    "tmf_inshore": 0.8626,
+    "tmf_offshore": 0.976
   },
   "boat": {
     "builder": "Cavalli",
@@ -33,7 +38,10 @@
       "crew": 538.0,
       "wetted_surface": 19.9
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.476,
+    "division": "C",
+    "issue_date": "2026-02-13T13:50:23.018Z"
   },
   "vpp": {
     "angles": [

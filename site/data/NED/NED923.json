@@ -14,7 +14,12 @@
       0.4777,
       0.6556,
       0.7519
-    ]
+    ],
+    "ilc": 922.7,
+    "aph_tod": 747.7,
+    "aph_tot": 0.8025,
+    "tmf_inshore": 0.6503,
+    "tmf_offshore": 0.7371
   },
   "boat": {
     "builder": "LM Glasfiber",
@@ -33,7 +38,10 @@
       "crew": 270.0,
       "wetted_surface": 14.77
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.134,
+    "division": "C",
+    "issue_date": "2026-04-01T20:01:07.045Z"
   },
   "vpp": {
     "angles": [

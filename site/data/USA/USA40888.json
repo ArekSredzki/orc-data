@@ -14,7 +14,12 @@
       0.8002,
       1.0311,
       1.1784
-    ]
+    ],
+    "ilc": 583.1,
+    "aph_tod": 476.0,
+    "aph_tot": 1.2604,
+    "tmf_inshore": 1.0289,
+    "tmf_offshore": 1.1594
   },
   "boat": {
     "builder": "ESPIRIT",
@@ -33,7 +38,10 @@
       "crew": 840.0,
       "wetted_surface": 37.79
     },
-    "stability_index": 115.7
+    "stability_index": 115.7,
+    "cdl": 12.053,
+    "division": "R",
+    "issue_date": "2026-07-06T19:58:47.799Z"
   },
   "vpp": {
     "angles": [

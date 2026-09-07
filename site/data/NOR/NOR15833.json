@@ -14,7 +14,12 @@
       0.6235,
       0.8628,
       1.0002
-    ]
+    ],
+    "ilc": 700.9,
+    "aph_tod": 557.9,
+    "aph_tot": 1.0755,
+    "tmf_inshore": 0.856,
+    "tmf_offshore": 0.9805
   },
   "boat": {
     "builder": "Wasa Yachts",
@@ -33,7 +38,10 @@
       "crew": 200.0,
       "wetted_surface": 28.21
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.395,
+    "division": "C",
+    "issue_date": "2026-04-23T12:35:16.561Z"
   },
   "vpp": {
     "angles": [

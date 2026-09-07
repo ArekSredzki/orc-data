@@ -14,7 +14,12 @@
       0.7686,
       1.0312,
       1.1829
-    ]
+    ],
+    "ilc": 585.7,
+    "aph_tod": 476.4,
+    "aph_tot": 1.2595,
+    "tmf_inshore": 1.0243,
+    "tmf_offshore": 1.1591
   },
   "boat": {
     "builder": "Checchi",
@@ -33,7 +38,10 @@
       "crew": 680.0,
       "wetted_surface": 32.13
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.731,
+    "division": "C",
+    "issue_date": "2026-05-28T11:51:01.925Z"
   },
   "vpp": {
     "angles": [

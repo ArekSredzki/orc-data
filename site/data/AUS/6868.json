@@ -14,7 +14,12 @@
       0.7264,
       0.9348,
       1.0598
-    ]
+    ],
+    "ilc": 644.5,
+    "aph_tod": 525.9,
+    "aph_tot": 1.1409,
+    "tmf_inshore": 0.9309,
+    "tmf_offshore": 1.0534
   },
   "boat": {
     "builder": "HICK",
@@ -33,7 +38,10 @@
       "crew": 520.0,
       "wetted_surface": 23.29
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.108,
+    "division": "C",
+    "issue_date": "2026-07-16T03:36:26.888Z"
   },
   "vpp": {
     "angles": [

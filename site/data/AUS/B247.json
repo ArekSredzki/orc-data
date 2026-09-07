@@ -14,7 +14,12 @@
       0.6632,
       0.9128,
       1.0511
-    ]
+    ],
+    "ilc": 662.7,
+    "aph_tod": 542.7,
+    "aph_tot": 1.1056,
+    "tmf_inshore": 0.9054,
+    "tmf_offshore": 1.0169
   },
   "boat": {
     "builder": "Binks",
@@ -33,7 +38,10 @@
       "crew": 686.0,
       "wetted_surface": 29.49
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.649,
+    "division": "R",
+    "issue_date": "2026-07-22T22:46:47.691Z"
   },
   "vpp": {
     "angles": [

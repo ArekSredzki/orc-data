@@ -14,7 +14,12 @@
       0.5819,
       0.7779,
       0.8815
-    ]
+    ],
+    "ilc": 777.4,
+    "aph_tod": 631.9,
+    "aph_tot": 0.9495,
+    "tmf_inshore": 0.7718,
+    "tmf_offshore": 0.8735
   },
   "boat": {
     "builder": "Mr I, Perdriau",
@@ -33,7 +38,10 @@
       "crew": 150.0,
       "wetted_surface": 14.21
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.843,
+    "division": "R",
+    "issue_date": "2026-07-16T06:31:51.666Z"
   },
   "vpp": {
     "angles": [

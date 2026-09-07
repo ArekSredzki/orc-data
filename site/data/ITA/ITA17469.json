@@ -14,7 +14,12 @@
       0.6267,
       0.8545,
       0.9717
-    ]
+    ],
+    "ilc": 708.6,
+    "aph_tod": 571.2,
+    "aph_tot": 1.0504,
+    "tmf_inshore": 0.8467,
+    "tmf_offshore": 0.964
   },
   "boat": {
     "builder": "Comar Yachts",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 23.54
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.594,
+    "division": "C",
+    "issue_date": "2026-04-08T13:48:17.689Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5812,
       0.7432,
       0.8633
-    ]
+    ],
+    "ilc": 807.3,
+    "aph_tod": 655.4,
+    "aph_tot": 0.9155,
+    "tmf_inshore": 0.7432,
+    "tmf_offshore": 0.8453
   },
   "boat": {
     "builder": "PHILEAS BOATS",
@@ -33,7 +38,10 @@
       "crew": 230.0,
       "wetted_surface": 8.65
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.54,
+    "division": "R",
+    "issue_date": "2026-02-15T20:17:18.682Z"
   },
   "vpp": {
     "angles": [

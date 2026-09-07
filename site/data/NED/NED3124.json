@@ -14,7 +14,12 @@
       0.5506,
       0.7584,
       0.8744
-    ]
+    ],
+    "ilc": 797.2,
+    "aph_tod": 646.8,
+    "aph_tot": 0.9276,
+    "tmf_inshore": 0.7526,
+    "tmf_offshore": 0.8519
   },
   "boat": {
     "builder": "GIB'SEA MARINE",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 19.01
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.847,
+    "division": "C",
+    "issue_date": "2026-05-21T12:37:37.283Z"
   },
   "vpp": {
     "angles": [

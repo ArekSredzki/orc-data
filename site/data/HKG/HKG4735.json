@@ -14,7 +14,12 @@
       0.6284,
       0.8317,
       0.9273
-    ]
+    ],
+    "ilc": 728.0,
+    "aph_tod": 601.7,
+    "aph_tot": 0.9971,
+    "tmf_inshore": 0.8242,
+    "tmf_offshore": 0.9222
   },
   "boat": {
     "builder": "YAMAHA",
@@ -33,7 +38,10 @@
       "crew": 476.0,
       "wetted_surface": 19.59
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.564,
+    "division": "R",
+    "issue_date": "2026-02-04T14:41:10.356Z"
   },
   "vpp": {
     "angles": [

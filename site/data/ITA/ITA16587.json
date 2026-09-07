@@ -14,7 +14,12 @@
       0.6892,
       0.9222,
       1.0341
-    ]
+    ],
+    "ilc": 656.9,
+    "aph_tod": 532.8,
+    "aph_tot": 1.126,
+    "tmf_inshore": 0.9134,
+    "tmf_offshore": 1.036
   },
   "boat": {
     "builder": "ACOM",
@@ -33,7 +38,10 @@
       "crew": 640.0,
       "wetted_surface": 29.91
     },
-    "stability_index": 110.3
+    "stability_index": 110.3,
+    "cdl": 9.743,
+    "division": "R",
+    "issue_date": "2026-04-28T12:31:44.761Z"
   },
   "vpp": {
     "angles": [

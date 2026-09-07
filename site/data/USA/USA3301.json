@@ -14,7 +14,12 @@
       0.7812,
       1.0065,
       1.1889
-    ]
+    ],
+    "ilc": 594.8,
+    "aph_tod": 478.8,
+    "aph_tot": 1.253,
+    "tmf_inshore": 1.0087,
+    "tmf_offshore": 1.1501
   },
   "boat": {
     "builder": "Emirates Team NZ",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 22.03
     },
-    "stability_index": 111.0
+    "stability_index": 111.0,
+    "cdl": 9.822,
+    "division": "R",
+    "issue_date": "2026-06-08T11:58:37.381Z"
   },
   "vpp": {
     "angles": [

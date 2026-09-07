@@ -14,7 +14,12 @@
       0.6724,
       0.9093,
       1.0366
-    ]
+    ],
+    "ilc": 664.8,
+    "aph_tod": 531.1,
+    "aph_tot": 1.1298,
+    "tmf_inshore": 0.9026,
+    "tmf_offshore": 1.0335
   },
   "boat": {
     "builder": "Loedeman",
@@ -33,7 +38,10 @@
       "crew": 805.0,
       "wetted_surface": 36.25
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.126,
+    "division": "C",
+    "issue_date": "2026-07-06T18:02:42.185Z"
   },
   "vpp": {
     "angles": [

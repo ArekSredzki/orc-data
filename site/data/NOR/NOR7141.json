@@ -14,7 +14,12 @@
       0.6282,
       0.8743,
       1.0178
-    ]
+    ],
+    "ilc": 691.5,
+    "aph_tod": 563.5,
+    "aph_tot": 1.0648,
+    "tmf_inshore": 0.8677,
+    "tmf_offshore": 0.9775
   },
   "boat": {
     "builder": "Comfortb\u00e5tar Marin AB",
@@ -33,7 +38,10 @@
       "crew": 683.0,
       "wetted_surface": 29.95
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.31,
+    "division": "C",
+    "issue_date": "2026-04-21T07:33:49.832Z"
   },
   "vpp": {
     "angles": [

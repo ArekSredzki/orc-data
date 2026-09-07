@@ -14,7 +14,12 @@
       0.6152,
       0.821,
       0.9274
-    ]
+    ],
+    "ilc": 736.5,
+    "aph_tod": 600.9,
+    "aph_tot": 0.9984,
+    "tmf_inshore": 0.8146,
+    "tmf_offshore": 0.9178
   },
   "boat": {
     "builder": "Ros\u00e4ttravarvet",
@@ -33,7 +38,10 @@
       "crew": 527.0,
       "wetted_surface": 21.87
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.867,
+    "division": "C",
+    "issue_date": "2026-03-09T13:22:56.375Z"
   },
   "vpp": {
     "angles": [

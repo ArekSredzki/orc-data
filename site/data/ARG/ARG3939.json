@@ -14,7 +14,12 @@
       0.7748,
       1.0217,
       1.1593
-    ]
+    ],
+    "ilc": 590.9,
+    "aph_tod": 483.5,
+    "aph_tot": 1.241,
+    "tmf_inshore": 1.0153,
+    "tmf_offshore": 1.1438
   },
   "boat": {
     "builder": "AST. DEL ESTUARIO",
@@ -33,7 +38,10 @@
       "crew": 770.0,
       "wetted_surface": 36.68
     },
-    "stability_index": 126.3
+    "stability_index": 126.3,
+    "cdl": 11.636,
+    "division": "R",
+    "issue_date": "2026-02-10T16:31:31.100Z"
   },
   "vpp": {
     "angles": [

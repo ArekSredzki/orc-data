@@ -14,7 +14,12 @@
       0.5946,
       0.8379,
       1.0008
-    ]
+    ],
+    "ilc": 719.7,
+    "aph_tod": 572.6,
+    "aph_tot": 1.0479,
+    "tmf_inshore": 0.8337,
+    "tmf_offshore": 0.9561
   },
   "boat": {
     "builder": "Dufour Yachts",
@@ -33,7 +38,10 @@
       "crew": 800.0,
       "wetted_surface": 35.2
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.22,
+    "division": "C",
+    "issue_date": "2026-04-27T19:32:53.789Z"
   },
   "vpp": {
     "angles": [

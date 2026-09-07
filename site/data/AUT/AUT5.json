@@ -14,7 +14,12 @@
       0.6283,
       0.8242,
       0.9256
-    ]
+    ],
+    "ilc": 732.9,
+    "aph_tod": 601.6,
+    "aph_tot": 0.9973,
+    "tmf_inshore": 0.8186,
+    "tmf_offshore": 0.9198
   },
   "boat": {
     "builder": "OY BATAR",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 23.51
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.749,
+    "division": "C",
+    "issue_date": "2026-05-22T05:59:33.882Z"
   },
   "vpp": {
     "angles": [

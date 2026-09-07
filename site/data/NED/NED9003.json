@@ -14,7 +14,12 @@
       0.6076,
       0.844,
       0.9714
-    ]
+    ],
+    "ilc": 717.6,
+    "aph_tod": 580.5,
+    "aph_tot": 1.0335,
+    "tmf_inshore": 0.8361,
+    "tmf_offshore": 0.949
   },
   "boat": {
     "builder": "F&F Boats",
@@ -33,7 +38,10 @@
       "crew": 340.0,
       "wetted_surface": 19.62
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.297,
+    "division": "C",
+    "issue_date": "2026-04-01T19:59:07.144Z"
   },
   "vpp": {
     "angles": [

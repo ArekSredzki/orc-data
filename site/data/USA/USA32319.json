@@ -14,7 +14,12 @@
       0.6058,
       0.8367,
       0.9639
-    ]
+    ],
+    "ilc": 723.2,
+    "aph_tod": 591.7,
+    "aph_tot": 1.014,
+    "tmf_inshore": 0.8296,
+    "tmf_offshore": 0.9324
   },
   "boat": {
     "builder": "TARTAN",
@@ -33,7 +38,10 @@
       "crew": 520.0,
       "wetted_surface": 20.57
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.137,
+    "division": "R",
+    "issue_date": "2026-07-01T19:57:14.930Z"
   },
   "vpp": {
     "angles": [

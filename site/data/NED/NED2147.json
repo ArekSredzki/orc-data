@@ -14,7 +14,12 @@
       0.5175,
       0.7057,
       0.8094
-    ]
+    ],
+    "ilc": 856.4,
+    "aph_tod": 704.2,
+    "aph_tot": 0.8521,
+    "tmf_inshore": 0.7006,
+    "tmf_offshore": 0.7856
   },
   "boat": {
     "builder": "Carter",
@@ -33,7 +38,10 @@
       "crew": 270.0,
       "wetted_surface": 14.29
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.743,
+    "division": "C",
+    "issue_date": "2026-04-10T14:06:28.539Z"
   },
   "vpp": {
     "angles": [

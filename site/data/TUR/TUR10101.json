@@ -14,7 +14,12 @@
       0.6852,
       0.9144,
       1.0274
-    ]
+    ],
+    "ilc": 662.1,
+    "aph_tod": 542.0,
+    "aph_tot": 1.1069,
+    "tmf_inshore": 0.9062,
+    "tmf_offshore": 1.0212
   },
   "boat": {
     "builder": "MAT TURKEY",
@@ -33,7 +38,10 @@
       "crew": 635.0,
       "wetted_surface": 24.47
     },
-    "stability_index": 143.8
+    "stability_index": 143.8,
+    "cdl": 9.232,
+    "division": "C",
+    "issue_date": "2026-08-29T08:01:27.885Z"
   },
   "vpp": {
     "angles": [

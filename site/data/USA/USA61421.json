@@ -14,7 +14,12 @@
       0.8381,
       1.1261,
       1.3172
-    ]
+    ],
+    "ilc": 535.1,
+    "aph_tod": 430.4,
+    "aph_tot": 1.394,
+    "tmf_inshore": 1.1214,
+    "tmf_offshore": 1.2788
   },
   "boat": {
     "builder": "CMI",
@@ -33,7 +38,10 @@
       "crew": 1270.0,
       "wetted_surface": 38.76
     },
-    "stability_index": 141.6
+    "stability_index": 141.6,
+    "cdl": 13.75,
+    "division": "R",
+    "issue_date": "2026-08-27T17:43:43.048Z"
   },
   "vpp": {
     "angles": [

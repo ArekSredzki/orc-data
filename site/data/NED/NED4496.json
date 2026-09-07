@@ -14,7 +14,12 @@
       0.5836,
       0.8127,
       0.9605
-    ]
+    ],
+    "ilc": 742.3,
+    "aph_tod": 592.5,
+    "aph_tot": 1.0126,
+    "tmf_inshore": 0.8083,
+    "tmf_offshore": 0.9264
   },
   "boat": {
     "builder": "J.Tholen, Oisterwijk Nederland",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 48.87
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.027,
+    "division": "C",
+    "issue_date": "2026-04-01T19:47:01.901Z"
   },
   "vpp": {
     "angles": [

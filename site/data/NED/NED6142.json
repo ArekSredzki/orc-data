@@ -14,7 +14,12 @@
       0.5565,
       0.776,
       0.9156
-    ]
+    ],
+    "ilc": 777.7,
+    "aph_tod": 619.4,
+    "aph_tot": 0.9687,
+    "tmf_inshore": 0.7715,
+    "tmf_offshore": 0.8844
   },
   "boat": {
     "builder": "Boosman",
@@ -33,7 +38,10 @@
       "crew": 360.0,
       "wetted_surface": 24.4
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.727,
+    "division": "C",
+    "issue_date": "2026-04-17T13:33:59.944Z"
   },
   "vpp": {
     "angles": [

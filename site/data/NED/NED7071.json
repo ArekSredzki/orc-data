@@ -14,7 +14,12 @@
       0.6408,
       0.8823,
       1.0276
-    ]
+    ],
+    "ilc": 684.5,
+    "aph_tod": 554.9,
+    "aph_tot": 1.0812,
+    "tmf_inshore": 0.8766,
+    "tmf_offshore": 0.9919
   },
   "boat": {
     "builder": "Parnu Yachts",
@@ -33,7 +38,10 @@
       "crew": 611.0,
       "wetted_surface": 23.09
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.062,
+    "division": "C",
+    "issue_date": "2026-06-04T16:45:40.547Z"
   },
   "vpp": {
     "angles": [

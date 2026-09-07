@@ -14,7 +14,12 @@
       0.5907,
       0.8104,
       0.9324
-    ]
+    ],
+    "ilc": 746.1,
+    "aph_tod": 608.8,
+    "aph_tot": 0.9855,
+    "tmf_inshore": 0.8042,
+    "tmf_offshore": 0.9056
   },
   "boat": {
     "builder": "HUEBNER",
@@ -33,7 +38,10 @@
       "crew": 415.0,
       "wetted_surface": 22.51
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.068,
+    "division": "C",
+    "issue_date": "2026-03-17T19:24:23.470Z"
   },
   "vpp": {
     "angles": [

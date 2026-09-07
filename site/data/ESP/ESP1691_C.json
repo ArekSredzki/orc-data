@@ -14,7 +14,12 @@
       0.5642,
       0.7591,
       0.8621
-    ]
+    ],
+    "ilc": 796.4,
+    "aph_tod": 655.2,
+    "aph_tot": 0.9157,
+    "tmf_inshore": 0.7534,
+    "tmf_offshore": 0.845
   },
   "boat": {
     "builder": "FIBRAMAR",
@@ -33,7 +38,10 @@
       "crew": 250.0,
       "wetted_surface": 12.43
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.254,
+    "division": "R",
+    "issue_date": "2026-03-14T20:24:03.914Z"
   },
   "vpp": {
     "angles": [

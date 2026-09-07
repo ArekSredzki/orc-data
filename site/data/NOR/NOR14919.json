@@ -14,7 +14,12 @@
       0.6649,
       0.8974,
       1.0351
-    ]
+    ],
+    "ilc": 672.3,
+    "aph_tod": 545.3,
+    "aph_tot": 1.1002,
+    "tmf_inshore": 0.8924,
+    "tmf_offshore": 1.0092
   },
   "boat": {
     "builder": "FAURBY YACHTS",
@@ -33,7 +38,10 @@
       "crew": 714.0,
       "wetted_surface": 28.87
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.598,
+    "division": "C",
+    "issue_date": "2026-04-23T12:35:19.676Z"
   },
   "vpp": {
     "angles": [

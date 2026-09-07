@@ -14,7 +14,12 @@
       0.5314,
       0.7304,
       0.8514
-    ]
+    ],
+    "ilc": 826.5,
+    "aph_tod": 662.2,
+    "aph_tot": 0.9061,
+    "tmf_inshore": 0.7259,
+    "tmf_offshore": 0.8287
   },
   "boat": {
     "builder": "W. Jenneskens",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 21.85
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.14,
+    "division": "C",
+    "issue_date": "2026-05-07T09:49:15.946Z"
   },
   "vpp": {
     "angles": [

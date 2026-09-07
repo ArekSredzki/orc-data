@@ -14,7 +14,12 @@
       0.6185,
       0.8214,
       0.9967
-    ]
+    ],
+    "ilc": 727.6,
+    "aph_tod": 571.5,
+    "aph_tot": 1.05,
+    "tmf_inshore": 0.8247,
+    "tmf_offshore": 0.9589
   },
   "boat": {
     "builder": "Roger Martin",
@@ -33,7 +38,10 @@
       "crew": 150.0,
       "wetted_surface": 7.49
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.85,
+    "division": "R",
+    "issue_date": "2026-08-28T16:02:24.038Z"
   },
   "vpp": {
     "angles": [

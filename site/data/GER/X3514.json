@@ -14,7 +14,12 @@
       0.6899,
       0.9136,
       1.0304
-    ]
+    ],
+    "ilc": 661.7,
+    "aph_tod": 542.7,
+    "aph_tot": 1.1055,
+    "tmf_inshore": 0.9067,
+    "tmf_offshore": 1.0196
   },
   "boat": {
     "builder": "X-YACHTS",
@@ -33,7 +38,10 @@
       "crew": 680.0,
       "wetted_surface": 24.54
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.229,
+    "division": "C",
+    "issue_date": "2026-07-14T10:38:32.727Z"
   },
   "vpp": {
     "angles": [

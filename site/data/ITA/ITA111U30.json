@@ -14,7 +14,12 @@
       0.8704,
       1.095,
       1.2316
-    ]
+    ],
+    "ilc": 548.6,
+    "aph_tod": 446.4,
+    "aph_tot": 1.3441,
+    "tmf_inshore": 1.0936,
+    "tmf_offshore": 1.2405
   },
   "boat": {
     "builder": "Dal Ferro",
@@ -33,7 +38,10 @@
       "crew": 626.0,
       "wetted_surface": 13.69
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.222,
+    "division": "S",
+    "issue_date": "2026-03-31T14:02:09.984Z"
   },
   "vpp": {
     "angles": [

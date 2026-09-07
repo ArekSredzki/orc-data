@@ -14,7 +14,12 @@
       0.5794,
       0.7894,
       0.9069
-    ]
+    ],
+    "ilc": 766.1,
+    "aph_tod": 621.6,
+    "aph_tot": 0.9653,
+    "tmf_inshore": 0.7832,
+    "tmf_offshore": 0.8866
   },
   "boat": {
     "builder": "Bashford Boat",
@@ -33,7 +38,10 @@
       "crew": 285.0,
       "wetted_surface": 12.56
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.828,
+    "division": "R",
+    "issue_date": "2026-03-30T15:20:54.122Z"
   },
   "vpp": {
     "angles": [

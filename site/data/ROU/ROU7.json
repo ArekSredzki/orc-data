@@ -14,7 +14,12 @@
       0.5,
       0.707,
       0.8482
-    ]
+    ],
+    "ilc": 852.6,
+    "aph_tod": 690.8,
+    "aph_tot": 0.8685,
+    "tmf_inshore": 0.7037,
+    "tmf_offshore": 0.796
   },
   "boat": {
     "builder": "Gibert Marine",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 18.33
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.255,
+    "division": "C",
+    "issue_date": "2026-05-21T14:01:54.251Z"
   },
   "vpp": {
     "angles": [

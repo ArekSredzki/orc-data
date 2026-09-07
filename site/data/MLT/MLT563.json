@@ -14,7 +14,12 @@
       0.6687,
       0.9237,
       1.0799
-    ]
+    ],
+    "ilc": 653.5,
+    "aph_tod": 520.4,
+    "aph_tot": 1.153,
+    "tmf_inshore": 0.9181,
+    "tmf_offshore": 1.0536
   },
   "boat": {
     "builder": "FORA MARINE",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 35.88
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.693,
+    "division": "C",
+    "issue_date": "2026-06-23T13:54:14.474Z"
   },
   "vpp": {
     "angles": [

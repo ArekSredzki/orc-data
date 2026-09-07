@@ -14,7 +14,12 @@
       0.6369,
       0.8886,
       1.0359
-    ]
+    ],
+    "ilc": 680.5,
+    "aph_tod": 547.5,
+    "aph_tot": 1.0959,
+    "tmf_inshore": 0.8817,
+    "tmf_offshore": 1.0027
   },
   "boat": {
     "builder": "Fred Scholtz Marine",
@@ -33,7 +38,10 @@
       "crew": 510.0,
       "wetted_surface": 26.27
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.66,
+    "division": "R",
+    "issue_date": "2026-03-05T11:05:19.913Z"
   },
   "vpp": {
     "angles": [

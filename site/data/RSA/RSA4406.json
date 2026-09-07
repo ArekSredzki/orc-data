@@ -14,7 +14,12 @@
       0.545,
       0.7143,
       0.786
-    ]
+    ],
+    "ilc": 848.7,
+    "aph_tod": 691.4,
+    "aph_tot": 0.8678,
+    "tmf_inshore": 0.707,
+    "tmf_offshore": 0.8003
   },
   "boat": {
     "builder": "HUNTER UK",
@@ -33,7 +38,10 @@
       "crew": 62.0,
       "wetted_surface": 10.5
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.586,
+    "division": "S",
+    "issue_date": "2026-02-11T14:01:06.279Z"
   },
   "vpp": {
     "angles": [

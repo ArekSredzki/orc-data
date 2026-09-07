@@ -14,7 +14,12 @@
       0.5438,
       0.7539,
       0.8742
-    ]
+    ],
+    "ilc": 801.7,
+    "aph_tod": 648.5,
+    "aph_tot": 0.9252,
+    "tmf_inshore": 0.7484,
+    "tmf_offshore": 0.8488
   },
   "boat": {
     "builder": "Swarbrick",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 15.9
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.764,
+    "division": "S",
+    "issue_date": "2026-06-22T03:30:56.478Z"
   },
   "vpp": {
     "angles": [

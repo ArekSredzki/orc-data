@@ -14,7 +14,12 @@
       0.6391,
       0.8642,
       0.9868
-    ]
+    ],
+    "ilc": 699.4,
+    "aph_tod": 574.1,
+    "aph_tot": 1.0451,
+    "tmf_inshore": 0.8578,
+    "tmf_offshore": 0.962
   },
   "boat": {
     "builder": "YACHTING FRANCE",
@@ -33,7 +38,10 @@
       "crew": 600.0,
       "wetted_surface": 27.51
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.783,
+    "division": "C",
+    "issue_date": "2026-03-27T14:46:12.031Z"
   },
   "vpp": {
     "angles": [

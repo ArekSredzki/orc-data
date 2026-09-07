@@ -14,7 +14,12 @@
       0.5714,
       0.7849,
       0.8985
-    ]
+    ],
+    "ilc": 771.0,
+    "aph_tod": 628.8,
+    "aph_tot": 0.9542,
+    "tmf_inshore": 0.7782,
+    "tmf_offshore": 0.8769
   },
   "boat": {
     "builder": "Muovi-Simola",
@@ -33,7 +38,10 @@
       "crew": 330.0,
       "wetted_surface": 21.2
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.321,
+    "division": "C",
+    "issue_date": "2026-06-22T21:00:34.219Z"
   },
   "vpp": {
     "angles": [

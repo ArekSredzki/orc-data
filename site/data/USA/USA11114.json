@@ -14,7 +14,12 @@
       0.7349,
       0.9745,
       1.1048
-    ]
+    ],
+    "ilc": 620.3,
+    "aph_tod": 504.7,
+    "aph_tot": 1.1889,
+    "tmf_inshore": 0.9672,
+    "tmf_offshore": 1.095
   },
   "boat": {
     "builder": "CCFC",
@@ -33,7 +38,10 @@
       "crew": 687.0,
       "wetted_surface": 25.76
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.327,
+    "division": "R",
+    "issue_date": "2026-05-14T13:15:13.575Z"
   },
   "vpp": {
     "angles": [

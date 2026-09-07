@@ -14,7 +14,12 @@
       0.8,
       1.0294,
       1.1597
-    ]
+    ],
+    "ilc": 585.7,
+    "aph_tod": 473.8,
+    "aph_tot": 1.2663,
+    "tmf_inshore": 1.0245,
+    "tmf_offshore": 1.1655
   },
   "boat": {
     "builder": "C. de Barcos",
@@ -33,7 +38,10 @@
       "crew": 1024.0,
       "wetted_surface": 35.86
     },
-    "stability_index": 135.3
+    "stability_index": 135.3,
+    "cdl": 11.651,
+    "division": "R",
+    "issue_date": "2026-05-27T14:41:39.729Z"
   },
   "vpp": {
     "angles": [

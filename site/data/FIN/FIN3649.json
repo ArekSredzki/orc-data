@@ -14,7 +14,12 @@
       0.5958,
       0.7945,
       0.8973
-    ]
+    ],
+    "ilc": 760.9,
+    "aph_tod": 620.3,
+    "aph_tot": 0.9673,
+    "tmf_inshore": 0.7886,
+    "tmf_offshore": 0.8888
   },
   "boat": {
     "builder": "Finngulf Marine",
@@ -33,7 +38,10 @@
       "crew": 380.0,
       "wetted_surface": 20.29
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.316,
+    "division": "C",
+    "issue_date": "2026-04-22T19:42:43.765Z"
   },
   "vpp": {
     "angles": [

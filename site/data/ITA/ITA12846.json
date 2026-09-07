@@ -14,7 +14,12 @@
       0.6572,
       0.8506,
       0.9596
-    ]
+    ],
+    "ilc": 709.4,
+    "aph_tod": 576.6,
+    "aph_tot": 1.0406,
+    "tmf_inshore": 0.8458,
+    "tmf_offshore": 0.9601
   },
   "boat": {
     "builder": "Gam.mo Stampi",
@@ -33,7 +38,10 @@
       "crew": 420.0,
       "wetted_surface": 13.42
     },
-    "stability_index": 94.8
+    "stability_index": 94.8,
+    "cdl": 7.501,
+    "division": "S",
+    "issue_date": "2026-04-16T18:07:54.855Z"
   },
   "vpp": {
     "angles": [

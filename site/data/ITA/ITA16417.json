@@ -14,7 +14,12 @@
       0.7572,
       1.0043,
       1.1468
-    ]
+    ],
+    "ilc": 601.1,
+    "aph_tod": 484.1,
+    "aph_tot": 1.2395,
+    "tmf_inshore": 0.9981,
+    "tmf_offshore": 1.1382
   },
   "boat": {
     "builder": "Nautilus Marine",
@@ -33,7 +38,10 @@
       "crew": 640.0,
       "wetted_surface": 32.23
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.207,
+    "division": "C",
+    "issue_date": "2026-03-27T11:29:57.917Z"
   },
   "vpp": {
     "angles": [

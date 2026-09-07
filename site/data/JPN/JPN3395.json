@@ -14,7 +14,12 @@
       0.7055,
       0.9099,
       1.0192
-    ]
+    ],
+    "ilc": 663.7,
+    "aph_tod": 540.2,
+    "aph_tot": 1.1108,
+    "tmf_inshore": 0.9041,
+    "tmf_offshore": 1.0254
   },
   "boat": {
     "builder": "I.FRANKLIN",
@@ -33,7 +38,10 @@
       "crew": 550.0,
       "wetted_surface": 18.46
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.855,
+    "division": "R",
+    "issue_date": "2026-04-01T00:29:39.987Z"
   },
   "vpp": {
     "angles": [

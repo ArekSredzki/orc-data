@@ -14,7 +14,12 @@
       0.63,
       0.8374,
       0.9474
-    ]
+    ],
+    "ilc": 721.7,
+    "aph_tod": 591.1,
+    "aph_tot": 1.015,
+    "tmf_inshore": 0.8313,
+    "tmf_offshore": 0.9349
   },
   "boat": {
     "builder": "Nords\u00f8 V\u00e6rft",
@@ -33,7 +38,10 @@
       "crew": 480.0,
       "wetted_surface": 20.9
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.892,
+    "division": "C",
+    "issue_date": "2026-04-29T10:26:34.420Z"
   },
   "vpp": {
     "angles": [

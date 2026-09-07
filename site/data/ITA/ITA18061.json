@@ -14,7 +14,12 @@
       0.6487,
       0.8522,
       0.9806
-    ]
+    ],
+    "ilc": 706.9,
+    "aph_tod": 556.4,
+    "aph_tot": 1.0785,
+    "tmf_inshore": 0.8488,
+    "tmf_offshore": 0.986
   },
   "boat": {
     "builder": "autocostruita",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 14.16
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.544,
+    "division": "S",
+    "issue_date": "2026-04-10T10:00:02.328Z"
   },
   "vpp": {
     "angles": [

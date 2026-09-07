@@ -14,7 +14,12 @@
       0.512,
       0.6977,
       0.8162
-    ]
+    ],
+    "ilc": 863.8,
+    "aph_tod": 693.7,
+    "aph_tot": 0.8649,
+    "tmf_inshore": 0.6946,
+    "tmf_offshore": 0.7923
   },
   "boat": {
     "builder": "SIGMA YACHTS",
@@ -33,7 +38,10 @@
       "crew": 423.0,
       "wetted_surface": 18.4
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.173,
+    "division": "C",
+    "issue_date": "2026-03-17T19:29:59.010Z"
   },
   "vpp": {
     "angles": [

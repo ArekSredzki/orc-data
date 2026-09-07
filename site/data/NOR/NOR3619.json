@@ -14,7 +14,12 @@
       0.572,
       0.7618,
       0.8648
-    ]
+    ],
+    "ilc": 792.8,
+    "aph_tod": 652.8,
+    "aph_tot": 0.9191,
+    "tmf_inshore": 0.7569,
+    "tmf_offshore": 0.8485
   },
   "boat": {
     "builder": "Selvbygg",
@@ -33,7 +38,10 @@
       "crew": 95.0,
       "wetted_surface": 17.49
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.681,
+    "division": "C",
+    "issue_date": "2026-06-30T07:46:28.155Z"
   },
   "vpp": {
     "angles": [

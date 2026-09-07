@@ -14,7 +14,12 @@
       0.6511,
       0.8578,
       0.9572
-    ]
+    ],
+    "ilc": 705.6,
+    "aph_tod": 566.5,
+    "aph_tot": 1.0592,
+    "tmf_inshore": 0.8504,
+    "tmf_offshore": 0.9724
   },
   "boat": {
     "builder": "BAVARIA",
@@ -33,7 +38,10 @@
       "crew": 560.0,
       "wetted_surface": 26.91
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.786,
+    "division": "C",
+    "issue_date": "2026-02-18T18:07:21.679Z"
   },
   "vpp": {
     "angles": [

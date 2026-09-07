@@ -14,7 +14,12 @@
       0.5152,
       0.7021,
       0.8026
-    ]
+    ],
+    "ilc": 861.1,
+    "aph_tod": 703.9,
+    "aph_tot": 0.8524,
+    "tmf_inshore": 0.6968,
+    "tmf_offshore": 0.7848
   },
   "boat": {
     "builder": "NEBE",
@@ -33,7 +38,10 @@
       "crew": 250.0,
       "wetted_surface": 12.48
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.769,
+    "division": "R",
+    "issue_date": "2026-02-18T16:18:20.238Z"
   },
   "vpp": {
     "angles": [

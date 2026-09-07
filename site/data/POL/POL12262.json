@@ -14,7 +14,12 @@
       0.6443,
       0.8605,
       0.9764
-    ]
+    ],
+    "ilc": 702.5,
+    "aph_tod": 570.6,
+    "aph_tot": 1.0516,
+    "tmf_inshore": 0.8541,
+    "tmf_offshore": 0.9671
   },
   "boat": {
     "builder": "Rufi",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 23.09
     },
-    "stability_index": 122.0
+    "stability_index": 122.0,
+    "cdl": 8.559,
+    "division": "R",
+    "issue_date": "2026-04-30T06:37:16.233Z"
   },
   "vpp": {
     "angles": [

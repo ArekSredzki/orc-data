@@ -14,7 +14,12 @@
       0.941,
       1.2463,
       1.4874
-    ]
+    ],
+    "ilc": 481.1,
+    "aph_tod": 379.0,
+    "aph_tot": 1.5831,
+    "tmf_inshore": 1.2471,
+    "tmf_offshore": 1.4419
   },
   "boat": {
     "builder": "Longitud Cero",
@@ -33,7 +38,10 @@
       "crew": 1235.0,
       "wetted_surface": 45.93
     },
-    "stability_index": 139.5
+    "stability_index": 139.5,
+    "cdl": 16.174,
+    "division": "R",
+    "issue_date": "2026-08-31T19:35:20.359Z"
   },
   "vpp": {
     "angles": [

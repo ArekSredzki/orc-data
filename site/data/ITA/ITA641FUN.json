@@ -14,7 +14,12 @@
       0.5651,
       0.7612,
       0.8719
-    ]
+    ],
+    "ilc": 793.3,
+    "aph_tod": 653.4,
+    "aph_tot": 0.9183,
+    "tmf_inshore": 0.7563,
+    "tmf_offshore": 0.8478
   },
   "boat": {
     "builder": "Lillia",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 10.39
     },
-    "stability_index": 102.6
+    "stability_index": 102.6,
+    "cdl": 6.159,
+    "division": "S",
+    "issue_date": "2026-07-03T13:52:13.840Z"
   },
   "vpp": {
     "angles": [

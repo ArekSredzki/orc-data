@@ -14,7 +14,12 @@
       0.6268,
       0.8577,
       1.0056
-    ]
+    ],
+    "ilc": 702.7,
+    "aph_tod": 564.8,
+    "aph_tot": 1.0622,
+    "tmf_inshore": 0.8538,
+    "tmf_offshore": 0.9742
   },
   "boat": {
     "builder": "Northshore",
@@ -33,7 +38,10 @@
       "crew": 380.0,
       "wetted_surface": 36.21
     },
-    "stability_index": 133.0
+    "stability_index": 133.0,
+    "cdl": 9.447,
+    "division": "C",
+    "issue_date": "2026-06-03T04:17:15.006Z"
   },
   "vpp": {
     "angles": [

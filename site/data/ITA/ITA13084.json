@@ -14,7 +14,12 @@
       0.6561,
       0.8998,
       1.0269
-    ]
+    ],
+    "ilc": 673.1,
+    "aph_tod": 544.2,
+    "aph_tot": 1.1024,
+    "tmf_inshore": 0.8915,
+    "tmf_offshore": 1.0123
   },
   "boat": {
     "builder": "Steda Yacht",
@@ -33,7 +38,10 @@
       "crew": 600.0,
       "wetted_surface": 24.74
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.521,
+    "division": "C",
+    "issue_date": "2026-02-27T15:58:03.544Z"
   },
   "vpp": {
     "angles": [

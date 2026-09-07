@@ -14,7 +14,12 @@
       0.8711,
       1.1354,
       1.3502
-    ]
+    ],
+    "ilc": 527.4,
+    "aph_tod": 419.3,
+    "aph_tot": 1.4311,
+    "tmf_inshore": 1.1376,
+    "tmf_offshore": 1.3102
   },
   "boat": {
     "builder": "Carrington Boats Ltd",
@@ -33,7 +38,10 @@
       "crew": 899.0,
       "wetted_surface": 31.69
     },
-    "stability_index": 128.7
+    "stability_index": 128.7,
+    "cdl": 12.929,
+    "division": "R",
+    "issue_date": "2026-07-15T15:10:03.441Z"
   },
   "vpp": {
     "angles": [

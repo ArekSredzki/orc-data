@@ -14,7 +14,12 @@
       0.5733,
       0.7896,
       0.9192
-    ]
+    ],
+    "ilc": 764.6,
+    "aph_tod": 623.6,
+    "aph_tot": 0.9621,
+    "tmf_inshore": 0.7848,
+    "tmf_offshore": 0.8844
   },
   "boat": {
     "builder": "Jeanneau",
@@ -33,7 +38,10 @@
       "crew": 420.0,
       "wetted_surface": 20.99
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.485,
+    "division": "C",
+    "issue_date": "2026-06-23T21:15:47.710Z"
   },
   "vpp": {
     "angles": [

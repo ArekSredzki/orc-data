@@ -14,7 +14,12 @@
       0.5496,
       0.7439,
       0.8525
-    ]
+    ],
+    "ilc": 811.9,
+    "aph_tod": 663.4,
+    "aph_tot": 0.9045,
+    "tmf_inshore": 0.739,
+    "tmf_offshore": 0.8327
   },
   "boat": {
     "builder": "Teliga",
@@ -33,7 +38,10 @@
       "crew": 415.0,
       "wetted_surface": 18.47
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.568,
+    "division": "C",
+    "issue_date": "2026-06-08T11:42:40.133Z"
   },
   "vpp": {
     "angles": [

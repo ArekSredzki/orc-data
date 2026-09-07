@@ -14,7 +14,12 @@
       0.5604,
       0.7298,
       0.8081
-    ]
+    ],
+    "ilc": 829.2,
+    "aph_tod": 681.5,
+    "aph_tot": 0.8805,
+    "tmf_inshore": 0.7236,
+    "tmf_offshore": 0.8141
   },
   "boat": {
     "builder": "AMarine",
@@ -33,7 +38,10 @@
       "crew": 236.0,
       "wetted_surface": 9.67
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.492,
+    "division": "R",
+    "issue_date": "2026-08-24T08:59:23.952Z"
   },
   "vpp": {
     "angles": [

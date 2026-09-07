@@ -14,7 +14,12 @@
       0.6235,
       0.8112,
       0.9111
-    ]
+    ],
+    "ilc": 744.8,
+    "aph_tod": 600.8,
+    "aph_tot": 0.9987,
+    "tmf_inshore": 0.8056,
+    "tmf_offshore": 0.9193
   },
   "boat": {
     "builder": "CSP France",
@@ -33,7 +38,10 @@
       "crew": 360.0,
       "wetted_surface": 11.44
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.756,
+    "division": "S",
+    "issue_date": "2026-03-24T14:29:52.695Z"
   },
   "vpp": {
     "angles": [

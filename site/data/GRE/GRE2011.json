@@ -14,7 +14,12 @@
       0.5042,
       0.696,
       0.7897
-    ]
+    ],
+    "ilc": 871.0,
+    "aph_tod": 705.1,
+    "aph_tot": 0.851,
+    "tmf_inshore": 0.6888,
+    "tmf_offshore": 0.7824
   },
   "boat": {
     "builder": "FRIPOL BC",
@@ -33,7 +38,10 @@
       "crew": 160.0,
       "wetted_surface": 16.46
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.967,
+    "division": "C",
+    "issue_date": "2026-04-15T10:33:07.826Z"
   },
   "vpp": {
     "angles": [

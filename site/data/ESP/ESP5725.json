@@ -14,7 +14,12 @@
       0.7029,
       0.9449,
       1.0674
-    ]
+    ],
+    "ilc": 640.8,
+    "aph_tod": 513.9,
+    "aph_tot": 1.1675,
+    "tmf_inshore": 0.9364,
+    "tmf_offshore": 1.07
   },
   "boat": {
     "builder": "ESTARELLAS",
@@ -33,7 +38,10 @@
       "crew": 550.0,
       "wetted_surface": 32.03
     },
-    "stability_index": 129.6
+    "stability_index": 129.6,
+    "cdl": 10.453,
+    "division": "C",
+    "issue_date": "2026-02-16T11:47:38.045Z"
   },
   "vpp": {
     "angles": [

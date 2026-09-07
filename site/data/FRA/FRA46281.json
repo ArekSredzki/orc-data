@@ -14,7 +14,12 @@
       0.5565,
       0.7492,
       0.8414
-    ]
+    ],
+    "ilc": 808.2,
+    "aph_tod": 648.9,
+    "aph_tot": 0.9247,
+    "tmf_inshore": 0.7423,
+    "tmf_offshore": 0.8482
   },
   "boat": {
     "builder": "NORTHMAN",
@@ -33,7 +38,10 @@
       "crew": 420.0,
       "wetted_surface": 15.17
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.511,
+    "division": "C",
+    "issue_date": "2026-04-28T12:07:35.202Z"
   },
   "vpp": {
     "angles": [

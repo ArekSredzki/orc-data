@@ -14,7 +14,12 @@
       0.5459,
       0.7767,
       0.9008
-    ]
+    ],
+    "ilc": 781.1,
+    "aph_tod": 630.3,
+    "aph_tot": 0.952,
+    "tmf_inshore": 0.7681,
+    "tmf_offshore": 0.8721
   },
   "boat": {
     "builder": "RG Plastics, Durba",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 16.09
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.399,
+    "division": "S",
+    "issue_date": "2026-02-03T18:36:53.876Z"
   },
   "vpp": {
     "angles": [

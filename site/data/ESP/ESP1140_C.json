@@ -14,7 +14,12 @@
       0.5361,
       0.7324,
       0.858
-    ]
+    ],
+    "ilc": 822.9,
+    "aph_tod": 661.0,
+    "aph_tot": 0.9077,
+    "tmf_inshore": 0.7292,
+    "tmf_offshore": 0.8314
   },
   "boat": {
     "builder": "AST. D'ORAZIO",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 28.02
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.191,
+    "division": "C",
+    "issue_date": "2026-02-04T22:20:58.584Z"
   },
   "vpp": {
     "angles": [

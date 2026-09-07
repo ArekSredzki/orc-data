@@ -14,7 +14,12 @@
       0.5557,
       0.7232,
       0.8011
-    ]
+    ],
+    "ilc": 836.5,
+    "aph_tod": 695.2,
+    "aph_tot": 0.8631,
+    "tmf_inshore": 0.7173,
+    "tmf_offshore": 0.7998
   },
   "boat": {
     "builder": "Elvstrom & Kjareul",
@@ -33,7 +38,10 @@
       "crew": 250.0,
       "wetted_surface": 11.92
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.576,
+    "division": "R",
+    "issue_date": "2026-02-07T22:11:28.705Z"
   },
   "vpp": {
     "angles": [

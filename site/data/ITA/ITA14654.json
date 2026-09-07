@@ -14,7 +14,12 @@
       0.9957,
       1.3003,
       1.5099
-    ]
+    ],
+    "ilc": 462.1,
+    "aph_tod": 368.0,
+    "aph_tot": 1.6303,
+    "tmf_inshore": 1.2983,
+    "tmf_offshore": 1.4844
   },
   "boat": {
     "builder": "Mistral Composite",
@@ -33,7 +38,10 @@
       "crew": 1900.0,
       "wetted_surface": 83.44
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 19.692,
+    "division": null,
+    "issue_date": "2026-06-04T09:26:09.852Z"
   },
   "vpp": {
     "angles": [

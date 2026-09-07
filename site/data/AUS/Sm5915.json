@@ -14,7 +14,12 @@
       0.6837,
       0.9352,
       1.0739
-    ]
+    ],
+    "ilc": 646.8,
+    "aph_tod": 530.9,
+    "aph_tot": 1.1301,
+    "tmf_inshore": 0.9276,
+    "tmf_offshore": 1.0412
   },
   "boat": {
     "builder": "Sydney Yachts",
@@ -33,7 +38,10 @@
       "crew": 680.0,
       "wetted_surface": 26.5
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.853,
+    "division": "C",
+    "issue_date": "2026-07-07T00:32:51.472Z"
   },
   "vpp": {
     "angles": [

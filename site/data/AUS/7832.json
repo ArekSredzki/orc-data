@@ -14,7 +14,12 @@
       0.5365,
       0.7094,
       0.8228
-    ]
+    ],
+    "ilc": 848.7,
+    "aph_tod": 680.3,
+    "aph_tot": 0.8819,
+    "tmf_inshore": 0.707,
+    "tmf_offshore": 0.8095
   },
   "boat": {
     "builder": "Far East Yachts",
@@ -33,7 +38,10 @@
       "crew": 280.0,
       "wetted_surface": 9.17
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.422,
+    "division": "R",
+    "issue_date": "2026-06-29T06:56:17.509Z"
   },
   "vpp": {
     "angles": [

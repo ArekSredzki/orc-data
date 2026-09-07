@@ -14,7 +14,12 @@
       0.6302,
       0.8528,
       0.9705
-    ]
+    ],
+    "ilc": 709.4,
+    "aph_tod": 579.9,
+    "aph_tot": 1.0346,
+    "tmf_inshore": 0.8458,
+    "tmf_offshore": 0.9515
   },
   "boat": {
     "builder": "FACILB\u008fTAR",
@@ -33,7 +38,10 @@
       "crew": 600.0,
       "wetted_surface": 24.74
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.633,
+    "division": "C",
+    "issue_date": "2026-06-09T20:27:12.546Z"
   },
   "vpp": {
     "angles": [

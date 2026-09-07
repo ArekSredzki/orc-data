@@ -14,7 +14,12 @@
       0.7456,
       0.9781,
       1.1014
-    ]
+    ],
+    "ilc": 617.8,
+    "aph_tod": 497.9,
+    "aph_tot": 1.205,
+    "tmf_inshore": 0.9711,
+    "tmf_offshore": 1.1078
   },
   "boat": {
     "builder": "VISION YACHTS",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 31.92
     },
-    "stability_index": 128.3
+    "stability_index": 128.3,
+    "cdl": 10.765,
+    "division": "R",
+    "issue_date": "2026-02-25T09:29:03.813Z"
   },
   "vpp": {
     "angles": [

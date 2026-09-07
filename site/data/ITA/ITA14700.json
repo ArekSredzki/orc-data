@@ -14,7 +14,12 @@
       0.7884,
       1.0167,
       1.1554
-    ]
+    ],
+    "ilc": 592.5,
+    "aph_tod": 483.1,
+    "aph_tot": 1.2421,
+    "tmf_inshore": 1.0127,
+    "tmf_offshore": 1.1457
   },
   "boat": {
     "builder": "Starmarine",
@@ -33,7 +38,10 @@
       "crew": 765.0,
       "wetted_surface": 30.8
     },
-    "stability_index": 111.2
+    "stability_index": 111.2,
+    "cdl": 11.111,
+    "division": "R",
+    "issue_date": "2026-04-09T12:26:19.538Z"
   },
   "vpp": {
     "angles": [

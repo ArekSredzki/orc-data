@@ -14,7 +14,12 @@
       0.5749,
       0.7703,
       0.8852
-    ]
+    ],
+    "ilc": 783.8,
+    "aph_tod": 631.1,
+    "aph_tot": 0.9506,
+    "tmf_inshore": 0.7655,
+    "tmf_offshore": 0.8739
   },
   "boat": {
     "builder": "DOKAR YACHT",
@@ -33,7 +38,10 @@
       "crew": 325.0,
       "wetted_surface": 10.29
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.484,
+    "division": "S",
+    "issue_date": "2026-04-21T17:41:01.926Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7263,
       0.961,
       1.1301
-    ]
+    ],
+    "ilc": 625.4,
+    "aph_tod": 499.8,
+    "aph_tot": 1.2005,
+    "tmf_inshore": 0.9594,
+    "tmf_offshore": 1.1009
   },
   "boat": {
     "builder": "CAPE PERFORMANCE",
@@ -33,7 +38,10 @@
       "crew": 595.0,
       "wetted_surface": 21.05
     },
-    "stability_index": 105.7
+    "stability_index": 105.7,
+    "cdl": 9.42,
+    "division": "R",
+    "issue_date": "2026-06-02T10:32:29.788Z"
   },
   "vpp": {
     "angles": [

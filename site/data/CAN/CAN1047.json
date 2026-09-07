@@ -14,7 +14,12 @@
       0.7408,
       0.9608,
       1.1237
-    ]
+    ],
+    "ilc": 624.7,
+    "aph_tod": 509.3,
+    "aph_tot": 1.1782,
+    "tmf_inshore": 0.9605,
+    "tmf_offshore": 1.0881
   },
   "boat": {
     "builder": "SOCA Sailboats",
@@ -33,7 +38,10 @@
       "crew": 572.0,
       "wetted_surface": 17.05
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.252,
+    "division": "R",
+    "issue_date": "2026-06-08T21:41:40.437Z"
   },
   "vpp": {
     "angles": [

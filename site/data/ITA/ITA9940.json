@@ -14,7 +14,12 @@
       0.6444,
       0.8788,
       1.0004
-    ]
+    ],
+    "ilc": 688.9,
+    "aph_tod": 568.2,
+    "aph_tot": 1.056,
+    "tmf_inshore": 0.8709,
+    "tmf_offshore": 0.9744
   },
   "boat": {
     "builder": "Capecci",
@@ -33,7 +38,10 @@
       "crew": 650.0,
       "wetted_surface": 28.42
     },
-    "stability_index": 115.5
+    "stability_index": 115.5,
+    "cdl": 9.126,
+    "division": "C",
+    "issue_date": "2026-05-05T12:55:52.216Z"
   },
   "vpp": {
     "angles": [

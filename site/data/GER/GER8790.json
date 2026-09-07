@@ -14,7 +14,12 @@
       0.5596,
       0.7685,
       0.9086
-    ]
+    ],
+    "ilc": 783.6,
+    "aph_tod": 623.7,
+    "aph_tot": 0.962,
+    "tmf_inshore": 0.7657,
+    "tmf_offshore": 0.8771
   },
   "boat": {
     "builder": "DUFOUR",
@@ -33,7 +38,10 @@
       "crew": 600.0,
       "wetted_surface": 24.66
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.94,
+    "division": "C",
+    "issue_date": "2026-06-05T09:53:26.813Z"
   },
   "vpp": {
     "angles": [

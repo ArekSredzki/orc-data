@@ -14,7 +14,12 @@
       0.5917,
       0.8064,
       0.9236
-    ]
+    ],
+    "ilc": 749.9,
+    "aph_tod": 610.3,
+    "aph_tot": 0.9831,
+    "tmf_inshore": 0.8001,
+    "tmf_offshore": 0.9036
   },
   "boat": {
     "builder": "DP Yachting",
@@ -33,7 +38,10 @@
       "crew": 320.0,
       "wetted_surface": 14.8
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.241,
+    "division": "S",
+    "issue_date": "2026-04-14T20:39:57.420Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.687,
       0.9298,
       1.0677
-    ]
+    ],
+    "ilc": 649.8,
+    "aph_tod": 528.4,
+    "aph_tot": 1.1356,
+    "tmf_inshore": 0.9234,
+    "tmf_offshore": 1.0427
   },
   "boat": {
     "builder": "HARLEY Raceboats",
@@ -33,7 +38,10 @@
       "crew": 757.0,
       "wetted_surface": 29.76
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.305,
+    "division": "C",
+    "issue_date": "2026-03-18T15:07:42.718Z"
   },
   "vpp": {
     "angles": [

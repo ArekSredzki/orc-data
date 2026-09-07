@@ -14,7 +14,12 @@
       0.6498,
       0.8226,
       0.9742
-    ]
+    ],
+    "ilc": 726.3,
+    "aph_tod": 577.9,
+    "aph_tot": 1.0383,
+    "tmf_inshore": 0.8261,
+    "tmf_offshore": 0.9516
   },
   "boat": {
     "builder": "Cima",
@@ -33,7 +38,10 @@
       "crew": 240.0,
       "wetted_surface": 13.38
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.504,
+    "division": "S",
+    "issue_date": "2026-06-16T17:44:42.052Z"
   },
   "vpp": {
     "angles": [

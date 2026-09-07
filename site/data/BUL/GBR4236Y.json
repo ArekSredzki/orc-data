@@ -14,7 +14,12 @@
       0.5698,
       0.7395,
       0.8197
-    ]
+    ],
+    "ilc": 817.7,
+    "aph_tod": 668.5,
+    "aph_tot": 0.8975,
+    "tmf_inshore": 0.7338,
+    "tmf_offshore": 0.8291
   },
   "boat": {
     "builder": "Poland",
@@ -33,7 +38,10 @@
       "crew": 349.0,
       "wetted_surface": 12.24
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.977,
+    "division": "C",
+    "issue_date": "2026-06-23T16:51:19.016Z"
   },
   "vpp": {
     "angles": [

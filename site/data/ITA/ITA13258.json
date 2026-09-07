@@ -14,7 +14,12 @@
       0.6177,
       0.8248,
       0.9216
-    ]
+    ],
+    "ilc": 734.8,
+    "aph_tod": 592.4,
+    "aph_tot": 1.0128,
+    "tmf_inshore": 0.8165,
+    "tmf_offshore": 0.9307
   },
   "boat": {
     "builder": "Pozzolo",
@@ -33,7 +38,10 @@
       "crew": 440.0,
       "wetted_surface": 18.65
     },
-    "stability_index": 108.5
+    "stability_index": 108.5,
+    "cdl": 7.98,
+    "division": "C",
+    "issue_date": "2026-05-04T08:46:17.156Z"
   },
   "vpp": {
     "angles": [

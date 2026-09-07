@@ -14,7 +14,12 @@
       0.511,
       0.702,
       0.8132
-    ]
+    ],
+    "ilc": 860.3,
+    "aph_tod": 696.2,
+    "aph_tot": 0.8618,
+    "tmf_inshore": 0.6974,
+    "tmf_offshore": 0.7907
   },
   "boat": {
     "builder": "MEIJER",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 17.55
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.123,
+    "division": "C",
+    "issue_date": "2026-04-02T09:43:29.489Z"
   },
   "vpp": {
     "angles": [

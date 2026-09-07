@@ -14,7 +14,12 @@
       0.5868,
       0.7791,
       0.8793
-    ]
+    ],
+    "ilc": 776.0,
+    "aph_tod": 639.9,
+    "aph_tot": 0.9376,
+    "tmf_inshore": 0.7732,
+    "tmf_offshore": 0.8666
   },
   "boat": {
     "builder": "MALLARD",
@@ -33,7 +38,10 @@
       "crew": 308.0,
       "wetted_surface": 11.51
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.217,
+    "division": "S",
+    "issue_date": "2026-08-25T14:54:41.236Z"
   },
   "vpp": {
     "angles": [

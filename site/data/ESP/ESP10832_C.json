@@ -14,7 +14,12 @@
       0.6038,
       0.8292,
       0.9584
-    ]
+    ],
+    "ilc": 728.8,
+    "aph_tod": 596.0,
+    "aph_tot": 1.0066,
+    "tmf_inshore": 0.8233,
+    "tmf_offshore": 0.9258
   },
   "boat": {
     "builder": "Pron\u00e1utica 92 SA",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 21.15
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.915,
+    "division": "C",
+    "issue_date": "2026-02-05T12:10:52.956Z"
   },
   "vpp": {
     "angles": [

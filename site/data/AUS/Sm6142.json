@@ -14,7 +14,12 @@
       0.6254,
       0.8509,
       0.9714
-    ]
+    ],
+    "ilc": 710.9,
+    "aph_tod": 585.6,
+    "aph_tot": 1.0245,
+    "tmf_inshore": 0.844,
+    "tmf_offshore": 0.9444
   },
   "boat": {
     "builder": "Roger Land",
@@ -33,7 +38,10 @@
       "crew": 550.0,
       "wetted_surface": 18.86
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.158,
+    "division": "C",
+    "issue_date": "2026-06-24T00:46:18.825Z"
   },
   "vpp": {
     "angles": [

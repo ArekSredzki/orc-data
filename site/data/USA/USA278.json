@@ -14,7 +14,12 @@
       0.5327,
       0.728,
       0.8462
-    ]
+    ],
+    "ilc": 828.8,
+    "aph_tod": 661.4,
+    "aph_tot": 0.9071,
+    "tmf_inshore": 0.7239,
+    "tmf_offshore": 0.8292
   },
   "boat": {
     "builder": "Grampian",
@@ -33,7 +38,10 @@
       "crew": 529.0,
       "wetted_surface": 22.11
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.842,
+    "division": "C",
+    "issue_date": "2026-07-13T17:54:24.317Z"
   },
   "vpp": {
     "angles": [

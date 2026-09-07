@@ -14,7 +14,12 @@
       0.794,
       1.0263,
       1.1875
-    ]
+    ],
+    "ilc": 585.5,
+    "aph_tod": 477.2,
+    "aph_tot": 1.2573,
+    "tmf_inshore": 1.0248,
+    "tmf_offshore": 1.1593
   },
   "boat": {
     "builder": "CSC Composites",
@@ -33,7 +38,10 @@
       "crew": 818.0,
       "wetted_surface": 25.86
     },
-    "stability_index": 130.4
+    "stability_index": 130.4,
+    "cdl": 10.871,
+    "division": "R",
+    "issue_date": "2026-04-28T20:00:21.755Z"
   },
   "vpp": {
     "angles": [

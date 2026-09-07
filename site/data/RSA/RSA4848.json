@@ -14,7 +14,12 @@
       0.6591,
       0.8805,
       1.0333
-    ]
+    ],
+    "ilc": 683.6,
+    "aph_tod": 549.2,
+    "aph_tot": 1.0926,
+    "tmf_inshore": 0.8778,
+    "tmf_offshore": 1.004
   },
   "boat": {
     "builder": "AVANTI ENGINEERING",
@@ -33,7 +38,10 @@
       "crew": 457.0,
       "wetted_surface": 14.69
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.047,
+    "division": "S",
+    "issue_date": "2026-06-07T18:36:13.670Z"
   },
   "vpp": {
     "angles": [

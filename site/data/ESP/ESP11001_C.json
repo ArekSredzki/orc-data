@@ -14,7 +14,12 @@
       0.5312,
       0.7386,
       0.8711
-    ]
+    ],
+    "ilc": 816.7,
+    "aph_tod": 666.7,
+    "aph_tot": 0.8999,
+    "tmf_inshore": 0.7347,
+    "tmf_offshore": 0.8273
   },
   "boat": {
     "builder": "NAO GLASS",
@@ -33,7 +38,10 @@
       "crew": 270.0,
       "wetted_surface": 20.99
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.664,
+    "division": "C",
+    "issue_date": "2026-02-12T23:48:26.298Z"
   },
   "vpp": {
     "angles": [

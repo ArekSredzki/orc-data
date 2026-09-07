@@ -14,7 +14,12 @@
       0.7114,
       0.9005,
       1.0245
-    ]
+    ],
+    "ilc": 667.5,
+    "aph_tod": 545.1,
+    "aph_tot": 1.1008,
+    "tmf_inshore": 0.8989,
+    "tmf_offshore": 1.0172
   },
   "boat": {
     "builder": "Proteus",
@@ -33,7 +38,10 @@
       "crew": 370.0,
       "wetted_surface": 17.19
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.201,
+    "division": "R",
+    "issue_date": "2026-04-30T14:07:42.061Z"
   },
   "vpp": {
     "angles": [

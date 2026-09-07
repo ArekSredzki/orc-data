@@ -14,7 +14,12 @@
       0.6324,
       0.8386,
       0.9702
-    ]
+    ],
+    "ilc": 718.8,
+    "aph_tod": 582.4,
+    "aph_tot": 1.0303,
+    "tmf_inshore": 0.8347,
+    "tmf_offshore": 0.9483
   },
   "boat": {
     "builder": "GREG YOUNG",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 13.31
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.301,
+    "division": "S",
+    "issue_date": "2026-03-17T19:26:40.675Z"
   },
   "vpp": {
     "angles": [

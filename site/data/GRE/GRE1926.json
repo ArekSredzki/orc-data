@@ -14,7 +14,12 @@
       0.5006,
       0.6796,
       0.7907
-    ]
+    ],
+    "ilc": 886.8,
+    "aph_tod": 719.3,
+    "aph_tot": 0.8342,
+    "tmf_inshore": 0.6766,
+    "tmf_offshore": 0.7663
   },
   "boat": {
     "builder": "Malliard",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 13.34
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.295,
+    "division": "C",
+    "issue_date": "2026-03-10T17:03:09.246Z"
   },
   "vpp": {
     "angles": [

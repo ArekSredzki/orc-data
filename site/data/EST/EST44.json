@@ -14,7 +14,12 @@
       0.7995,
       1.0462,
       1.1866
-    ]
+    ],
+    "ilc": 576.8,
+    "aph_tod": 466.9,
+    "aph_tot": 1.2852,
+    "tmf_inshore": 1.0402,
+    "tmf_offshore": 1.1825
   },
   "boat": {
     "builder": "Alfa Yachts",
@@ -33,7 +38,10 @@
       "crew": 1100.0,
       "wetted_surface": 36.66
     },
-    "stability_index": 120.6
+    "stability_index": 120.6,
+    "cdl": 11.64,
+    "division": "R",
+    "issue_date": "2026-08-09T08:49:42.314Z"
   },
   "vpp": {
     "angles": [

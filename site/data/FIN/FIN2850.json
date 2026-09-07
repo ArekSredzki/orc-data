@@ -14,7 +14,12 @@
       0.6799,
       0.896,
       1.0137
-    ]
+    ],
+    "ilc": 673.8,
+    "aph_tod": 552.1,
+    "aph_tot": 1.0869,
+    "tmf_inshore": 0.8904,
+    "tmf_offshore": 1.0007
   },
   "boat": {
     "builder": "AVANCE YACHTS",
@@ -33,7 +38,10 @@
       "crew": 700.0,
       "wetted_surface": 31.63
     },
-    "stability_index": 133.2
+    "stability_index": 133.2,
+    "cdl": 9.17,
+    "division": "C",
+    "issue_date": "2026-06-12T07:28:33.879Z"
   },
   "vpp": {
     "angles": [

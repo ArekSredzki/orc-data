@@ -14,7 +14,12 @@
       0.644,
       0.8827,
       1.0119
-    ]
+    ],
+    "ilc": 685.6,
+    "aph_tod": 557.4,
+    "aph_tot": 1.0765,
+    "tmf_inshore": 0.8752,
+    "tmf_offshore": 0.9889
   },
   "boat": {
     "builder": "NUEVO MILENIO",
@@ -33,7 +38,10 @@
       "crew": 616.0,
       "wetted_surface": 25.58
     },
-    "stability_index": 117.7
+    "stability_index": 117.7,
+    "cdl": 9.048,
+    "division": "C",
+    "issue_date": "2026-05-15T17:40:51.740Z"
   },
   "vpp": {
     "angles": [

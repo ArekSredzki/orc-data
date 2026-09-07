@@ -14,7 +14,12 @@
       0.6835,
       0.9077,
       1.0244
-    ]
+    ],
+    "ilc": 666.2,
+    "aph_tod": 546.6,
+    "aph_tot": 1.0977,
+    "tmf_inshore": 0.9006,
+    "tmf_offshore": 1.0121
   },
   "boat": {
     "builder": "POLYSIER",
@@ -33,7 +38,10 @@
       "crew": 670.0,
       "wetted_surface": 23.45
     },
-    "stability_index": 119.9
+    "stability_index": 119.9,
+    "cdl": 9.166,
+    "division": "R",
+    "issue_date": "2026-03-09T10:35:25.359Z"
   },
   "vpp": {
     "angles": [

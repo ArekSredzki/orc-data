@@ -14,7 +14,12 @@
       0.52,
       0.7036,
       0.8034
-    ]
+    ],
+    "ilc": 859.0,
+    "aph_tod": 700.1,
+    "aph_tot": 0.8571,
+    "tmf_inshore": 0.6985,
+    "tmf_offshore": 0.7885
   },
   "boat": {
     "builder": "Farner & Stierlin",
@@ -33,7 +38,10 @@
       "crew": 345.0,
       "wetted_surface": 15.27
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.687,
+    "division": "C",
+    "issue_date": "2026-03-25T08:33:29.599Z"
   },
   "vpp": {
     "angles": [

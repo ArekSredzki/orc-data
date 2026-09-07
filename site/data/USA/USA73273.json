@@ -14,7 +14,12 @@
       0.7415,
       0.9953,
       1.1395
-    ]
+    ],
+    "ilc": 606.8,
+    "aph_tod": 495.2,
+    "aph_tot": 1.2117,
+    "tmf_inshore": 0.9888,
+    "tmf_offshore": 1.1141
   },
   "boat": {
     "builder": "FORMULA YACHTS",
@@ -33,7 +38,10 @@
       "crew": 1000.0,
       "wetted_surface": 32.68
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.262,
+    "division": "R",
+    "issue_date": "2026-04-10T21:56:38.618Z"
   },
   "vpp": {
     "angles": [

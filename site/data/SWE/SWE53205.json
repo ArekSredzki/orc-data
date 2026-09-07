@@ -14,7 +14,12 @@
       0.8176,
       1.0808,
       1.2641
-    ]
+    ],
+    "ilc": 556.5,
+    "aph_tod": 448.3,
+    "aph_tot": 1.3383,
+    "tmf_inshore": 1.0782,
+    "tmf_offshore": 1.2295
   },
   "boat": {
     "builder": "Mc Conaghy Yachts",
@@ -33,7 +38,10 @@
       "crew": 930.0,
       "wetted_surface": 30.54
     },
-    "stability_index": 136.0
+    "stability_index": 136.0,
+    "cdl": 12.174,
+    "division": "R",
+    "issue_date": "2026-06-04T13:39:59.854Z"
   },
   "vpp": {
     "angles": [

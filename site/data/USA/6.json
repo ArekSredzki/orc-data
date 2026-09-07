@@ -14,7 +14,12 @@
       0.5736,
       0.7728,
       0.87
-    ]
+    ],
+    "ilc": 783.5,
+    "aph_tod": 643.3,
+    "aph_tot": 0.9327,
+    "tmf_inshore": 0.7658,
+    "tmf_offshore": 0.8599
   },
   "boat": {
     "builder": "Mirage Yachts",
@@ -33,7 +38,10 @@
       "crew": 361.0,
       "wetted_surface": 12.96
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.65,
+    "division": "S",
+    "issue_date": "2026-05-20T17:32:55.164Z"
   },
   "vpp": {
     "angles": [

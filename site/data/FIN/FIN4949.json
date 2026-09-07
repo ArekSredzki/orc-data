@@ -14,7 +14,12 @@
       0.6234,
       0.805,
       0.8962
-    ]
+    ],
+    "ilc": 750.2,
+    "aph_tod": 614.4,
+    "aph_tot": 0.9766,
+    "tmf_inshore": 0.7998,
+    "tmf_offshore": 0.9005
   },
   "boat": {
     "builder": "Finngulf Marin",
@@ -33,7 +38,10 @@
       "crew": 240.0,
       "wetted_surface": 20.18
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.371,
+    "division": "C",
+    "issue_date": "2026-05-18T19:17:36.774Z"
   },
   "vpp": {
     "angles": [

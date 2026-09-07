@@ -14,7 +14,12 @@
       0.6142,
       0.8519,
       0.9851
-    ]
+    ],
+    "ilc": 710.1,
+    "aph_tod": 580.6,
+    "aph_tot": 1.0334,
+    "tmf_inshore": 0.845,
+    "tmf_offshore": 0.9499
   },
   "boat": {
     "builder": "Sea Nymph Boats",
@@ -33,7 +38,10 @@
       "crew": 583.0,
       "wetted_surface": 24.15
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.623,
+    "division": "C",
+    "issue_date": "2026-08-18T02:38:41.178Z"
   },
   "vpp": {
     "angles": [

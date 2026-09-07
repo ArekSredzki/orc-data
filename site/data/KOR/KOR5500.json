@@ -14,7 +14,12 @@
       0.7132,
       0.946,
       1.0655
-    ]
+    ],
+    "ilc": 639.5,
+    "aph_tod": 518.6,
+    "aph_tot": 1.1569,
+    "tmf_inshore": 0.9382,
+    "tmf_offshore": 1.0648
   },
   "boat": {
     "builder": "WINAVE",
@@ -33,7 +38,10 @@
       "crew": 700.0,
       "wetted_surface": 27.56
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.936,
+    "division": "R",
+    "issue_date": "2026-03-12T07:08:15.546Z"
   },
   "vpp": {
     "angles": [

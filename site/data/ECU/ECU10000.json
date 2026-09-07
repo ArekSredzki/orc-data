@@ -14,7 +14,12 @@
       0.8055,
       1.0554,
       1.2301
-    ]
+    ],
+    "ilc": 569.4,
+    "aph_tod": 457.7,
+    "aph_tot": 1.3109,
+    "tmf_inshore": 1.0537,
+    "tmf_offshore": 1.2032
   },
   "boat": {
     "builder": "M BOATS",
@@ -33,7 +38,10 @@
       "crew": 820.0,
       "wetted_surface": 31.34
     },
-    "stability_index": 127.4
+    "stability_index": 127.4,
+    "cdl": 11.747,
+    "division": "R",
+    "issue_date": "2026-04-09T14:31:59.723Z"
   },
   "vpp": {
     "angles": [

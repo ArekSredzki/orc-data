@@ -14,7 +14,12 @@
       0.6955,
       0.9295,
       1.0444
-    ]
+    ],
+    "ilc": 651.4,
+    "aph_tod": 525.9,
+    "aph_tot": 1.141,
+    "tmf_inshore": 0.9211,
+    "tmf_offshore": 1.0483
   },
   "boat": {
     "builder": "ITALIA YACHTS",
@@ -33,7 +38,10 @@
       "crew": 640.0,
       "wetted_surface": 30.99
     },
-    "stability_index": 110.9
+    "stability_index": 110.9,
+    "cdl": 9.796,
+    "division": "C",
+    "issue_date": "2026-06-16T09:50:50.187Z"
   },
   "vpp": {
     "angles": [

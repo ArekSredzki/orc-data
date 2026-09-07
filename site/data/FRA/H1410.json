@@ -14,7 +14,12 @@
       0.5827,
       0.7995,
       0.9349
-    ]
+    ],
+    "ilc": 754.3,
+    "aph_tod": 614.6,
+    "aph_tot": 0.9763,
+    "tmf_inshore": 0.7954,
+    "tmf_offshore": 0.8971
   },
   "boat": {
     "builder": "MAAS Franz",
@@ -33,7 +38,10 @@
       "crew": 521.0,
       "wetted_surface": 26.36
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.715,
+    "division": "C",
+    "issue_date": "2026-03-26T20:25:23.424Z"
   },
   "vpp": {
     "angles": [

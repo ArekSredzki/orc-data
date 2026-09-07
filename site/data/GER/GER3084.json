@@ -14,7 +14,12 @@
       0.6973,
       0.9547,
       1.1186
-    ]
+    ],
+    "ilc": 631.6,
+    "aph_tod": 508.6,
+    "aph_tot": 1.1798,
+    "tmf_inshore": 0.9499,
+    "tmf_offshore": 1.0797
   },
   "boat": {
     "builder": "BIERITZ",
@@ -33,7 +38,10 @@
       "crew": 800.0,
       "wetted_surface": 58.66
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.819,
+    "division": "C",
+    "issue_date": "2026-05-05T08:00:19.696Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.706,
       0.9667,
       1.1058
-    ]
+    ],
+    "ilc": 626.1,
+    "aph_tod": 506.4,
+    "aph_tot": 1.1848,
+    "tmf_inshore": 0.9583,
+    "tmf_offshore": 1.0865
   },
   "boat": {
     "builder": "TILL-PEARSON",
@@ -33,7 +38,10 @@
       "crew": 635.0,
       "wetted_surface": 41.56
     },
-    "stability_index": 116.0
+    "stability_index": 116.0,
+    "cdl": 11.332,
+    "division": "C",
+    "issue_date": "2026-09-01T14:09:05.539Z"
   },
   "vpp": {
     "angles": [

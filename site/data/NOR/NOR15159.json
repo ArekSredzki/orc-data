@@ -14,7 +14,12 @@
       0.8049,
       1.0295,
       1.2419
-    ]
+    ],
+    "ilc": 578.8,
+    "aph_tod": 461.7,
+    "aph_tot": 1.2996,
+    "tmf_inshore": 1.0366,
+    "tmf_offshore": 1.188
   },
   "boat": {
     "builder": "Shaw Yachts",
@@ -33,7 +38,10 @@
       "crew": 360.0,
       "wetted_surface": 19.05
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.685,
+    "division": "S",
+    "issue_date": "2026-04-29T10:26:31.792Z"
   },
   "vpp": {
     "angles": [

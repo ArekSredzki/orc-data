@@ -14,7 +14,12 @@
       0.6184,
       0.847,
       0.9728
-    ]
+    ],
+    "ilc": 714.1,
+    "aph_tod": 581.8,
+    "aph_tot": 1.0312,
+    "tmf_inshore": 0.8402,
+    "tmf_offshore": 0.9476
   },
   "boat": {
     "builder": "EF MARINE",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 24.3
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.66,
+    "division": "C",
+    "issue_date": "2026-06-04T20:49:28.361Z"
   },
   "vpp": {
     "angles": [

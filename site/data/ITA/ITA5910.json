@@ -14,7 +14,12 @@
       0.5452,
       0.7517,
       0.8873
-    ]
+    ],
+    "ilc": 801.5,
+    "aph_tod": 655.8,
+    "aph_tot": 0.9149,
+    "tmf_inshore": 0.7486,
+    "tmf_offshore": 0.8413
   },
   "boat": {
     "builder": "Mariver",
@@ -33,7 +38,10 @@
       "crew": 560.0,
       "wetted_surface": 18.46
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.752,
+    "division": "C",
+    "issue_date": "2026-03-12T16:17:58.808Z"
   },
   "vpp": {
     "angles": [

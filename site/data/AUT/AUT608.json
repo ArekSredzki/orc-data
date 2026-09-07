@@ -14,7 +14,12 @@
       0.6651,
       0.8523,
       0.9937
-    ]
+    ],
+    "ilc": 703.5,
+    "aph_tod": 560.5,
+    "aph_tot": 1.0705,
+    "tmf_inshore": 0.8528,
+    "tmf_offshore": 0.9834
   },
   "boat": {
     "builder": "Devoti",
@@ -33,7 +38,10 @@
       "crew": 240.0,
       "wetted_surface": 11.71
     },
-    "stability_index": 99.5
+    "stability_index": 99.5,
+    "cdl": 7.032,
+    "division": "S",
+    "issue_date": "2026-05-14T19:05:07.296Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7127,
       0.9765,
       1.1166
-    ]
+    ],
+    "ilc": 620.0,
+    "aph_tod": 499.3,
+    "aph_tot": 1.2016,
+    "tmf_inshore": 0.9677,
+    "tmf_offshore": 1.1016
   },
   "boat": {
     "builder": "Grand Soleil",
@@ -33,7 +38,10 @@
       "crew": 700.0,
       "wetted_surface": 39.15
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.448,
+    "division": "C",
+    "issue_date": "2026-06-02T05:05:42.203Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.5187,
       0.7212,
       0.8632
-    ]
+    ],
+    "ilc": 834.6,
+    "aph_tod": 656.9,
+    "aph_tot": 0.9134,
+    "tmf_inshore": 0.7189,
+    "tmf_offshore": 0.831
   },
   "boat": {
     "builder": "A. Bergh",
@@ -33,7 +38,10 @@
       "crew": 340.0,
       "wetted_surface": 26.72
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.198,
+    "division": "C",
+    "issue_date": "2026-05-11T12:24:20.810Z"
   },
   "vpp": {
     "angles": [

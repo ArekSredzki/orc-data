@@ -14,7 +14,12 @@
       0.6849,
       0.9376,
       1.0829
-    ]
+    ],
+    "ilc": 644.6,
+    "aph_tod": 516.6,
+    "aph_tot": 1.1616,
+    "tmf_inshore": 0.9308,
+    "tmf_offshore": 1.065
   },
   "boat": {
     "builder": "Seacape",
@@ -33,7 +38,10 @@
       "crew": 713.0,
       "wetted_surface": 30.01
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.071,
+    "division": "C",
+    "issue_date": "2026-03-18T08:29:57.013Z"
   },
   "vpp": {
     "angles": [

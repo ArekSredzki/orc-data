@@ -14,7 +14,12 @@
       0.698,
       0.8452,
       0.957
-    ]
+    ],
+    "ilc": 708.4,
+    "aph_tod": 580.8,
+    "aph_tot": 1.0331,
+    "tmf_inshore": 0.847,
+    "tmf_offshore": 0.955
   },
   "boat": {
     "builder": "Ugg\u00e8",
@@ -33,7 +38,10 @@
       "crew": 380.0,
       "wetted_surface": 11.75
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.012,
+    "division": "S",
+    "issue_date": "2026-06-19T10:31:35.313Z"
   },
   "vpp": {
     "angles": [

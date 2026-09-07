@@ -14,7 +14,12 @@
       0.7586,
       1.0089,
       1.1553
-    ]
+    ],
+    "ilc": 598.3,
+    "aph_tod": 482.9,
+    "aph_tot": 1.2426,
+    "tmf_inshore": 1.0029,
+    "tmf_offshore": 1.1419
   },
   "boat": {
     "builder": "David Edmiston",
@@ -33,7 +38,10 @@
       "crew": 831.0,
       "wetted_surface": 35.87
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.309,
+    "division": "C",
+    "issue_date": "2026-07-08T05:49:16.931Z"
   },
   "vpp": {
     "angles": [

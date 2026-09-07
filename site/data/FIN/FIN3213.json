@@ -14,7 +14,12 @@
       0.5914,
       0.8083,
       0.9195
-    ]
+    ],
+    "ilc": 749.2,
+    "aph_tod": 613.3,
+    "aph_tot": 0.9782,
+    "tmf_inshore": 0.8009,
+    "tmf_offshore": 0.901
   },
   "boat": {
     "builder": "Carl-Johan Gestran",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 17.75
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.525,
+    "division": "C",
+    "issue_date": "2026-05-08T21:49:39.132Z"
   },
   "vpp": {
     "angles": [

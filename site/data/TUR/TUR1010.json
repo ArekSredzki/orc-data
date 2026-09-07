@@ -14,7 +14,12 @@
       0.6847,
       0.9121,
       1.0223
-    ]
+    ],
+    "ilc": 663.9,
+    "aph_tod": 541.8,
+    "aph_tot": 1.1073,
+    "tmf_inshore": 0.9037,
+    "tmf_offshore": 1.0207
   },
   "boat": {
     "builder": "Mat Sailing Yacht",
@@ -33,7 +38,10 @@
       "crew": 750.0,
       "wetted_surface": 24.27
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.179,
+    "division": "C",
+    "issue_date": "2026-05-14T17:46:28.264Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6097,
       0.8187,
       0.9266
-    ]
+    ],
+    "ilc": 738.9,
+    "aph_tod": 604.3,
+    "aph_tot": 0.9929,
+    "tmf_inshore": 0.812,
+    "tmf_offshore": 0.9138
   },
   "boat": {
     "builder": "Mats Gustavsson",
@@ -33,7 +38,10 @@
       "crew": 529.0,
       "wetted_surface": 21.96
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.875,
+    "division": "C",
+    "issue_date": "2026-04-04T16:17:32.245Z"
   },
   "vpp": {
     "angles": [

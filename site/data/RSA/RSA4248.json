@@ -14,7 +14,12 @@
       0.7858,
       1.0868,
       1.2648
-    ]
+    ],
+    "ilc": 556.1,
+    "aph_tod": 450.8,
+    "aph_tot": 1.331,
+    "tmf_inshore": 1.079,
+    "tmf_offshore": 1.2192
   },
   "boat": {
     "builder": "Simonis",
@@ -33,7 +38,10 @@
       "crew": 1181.0,
       "wetted_surface": 48.86
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 13.985,
+    "division": "C",
+    "issue_date": "2026-02-03T18:39:49.019Z"
   },
   "vpp": {
     "angles": [

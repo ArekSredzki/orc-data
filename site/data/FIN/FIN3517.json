@@ -14,7 +14,12 @@
       0.5741,
       0.7833,
       0.9021
-    ]
+    ],
+    "ilc": 771.0,
+    "aph_tod": 632.1,
+    "aph_tot": 0.9492,
+    "tmf_inshore": 0.7782,
+    "tmf_offshore": 0.8737
   },
   "boat": {
     "builder": "Facil Batarna",
@@ -33,7 +38,10 @@
       "crew": 360.0,
       "wetted_surface": 18.88
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.038,
+    "division": "C",
+    "issue_date": "2026-04-10T18:46:33.190Z"
   },
   "vpp": {
     "angles": [

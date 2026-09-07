@@ -14,7 +14,12 @@
       0.7151,
       0.8997,
       1.0692
-    ]
+    ],
+    "ilc": 663.3,
+    "aph_tod": 534.4,
+    "aph_tot": 1.1229,
+    "tmf_inshore": 0.9046,
+    "tmf_offshore": 1.0354
   },
   "boat": {
     "builder": "Pro Marine",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 11.08
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.418,
+    "division": "S",
+    "issue_date": "2026-08-04T06:05:26.294Z"
   },
   "vpp": {
     "angles": [

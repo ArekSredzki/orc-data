@@ -14,7 +14,12 @@
       0.6763,
       0.8958,
       1.0176
-    ]
+    ],
+    "ilc": 674.4,
+    "aph_tod": 551.1,
+    "aph_tot": 1.0888,
+    "tmf_inshore": 0.8897,
+    "tmf_offshore": 1.0039
   },
   "boat": {
     "builder": "A.ARMINSKI",
@@ -33,7 +38,10 @@
       "crew": 530.0,
       "wetted_surface": 18.48
     },
-    "stability_index": 115.7
+    "stability_index": 115.7,
+    "cdl": 8.7,
+    "division": "R",
+    "issue_date": "2026-05-05T21:06:25.606Z"
   },
   "vpp": {
     "angles": [

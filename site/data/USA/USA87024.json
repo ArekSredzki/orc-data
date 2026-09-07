@@ -14,7 +14,12 @@
       0.6004,
       0.7971,
       0.8912
-    ]
+    ],
+    "ilc": 759.6,
+    "aph_tod": 625.3,
+    "aph_tot": 0.9596,
+    "tmf_inshore": 0.7899,
+    "tmf_offshore": 0.8874
   },
   "boat": {
     "builder": "WD Schock",
@@ -33,7 +38,10 @@
       "crew": 340.0,
       "wetted_surface": 12.69
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.744,
+    "division": "S",
+    "issue_date": "2026-05-19T14:39:58.382Z"
   },
   "vpp": {
     "angles": [

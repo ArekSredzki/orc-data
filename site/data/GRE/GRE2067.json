@@ -14,7 +14,12 @@
       0.553,
       0.8101,
       1.0185
-    ]
+    ],
+    "ilc": 742.5,
+    "aph_tod": 588.2,
+    "aph_tot": 1.0201,
+    "tmf_inshore": 0.808,
+    "tmf_offshore": 0.9282
   },
   "boat": {
     "builder": "DYNAMIQUE YACHTS",
@@ -33,7 +38,10 @@
       "crew": 934.0,
       "wetted_surface": 44.09
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.76,
+    "division": "C",
+    "issue_date": "2026-06-16T12:29:40.553Z"
   },
   "vpp": {
     "angles": [

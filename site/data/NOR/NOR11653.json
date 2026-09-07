@@ -14,7 +14,12 @@
       0.6018,
       0.8121,
       0.9193
-    ]
+    ],
+    "ilc": 745.2,
+    "aph_tod": 611.5,
+    "aph_tot": 0.9812,
+    "tmf_inshore": 0.8051,
+    "tmf_offshore": 0.9039
   },
   "boat": {
     "builder": "Etap",
@@ -33,7 +38,10 @@
       "crew": 473.0,
       "wetted_surface": 20.77
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.633,
+    "division": "C",
+    "issue_date": "2026-08-14T09:07:14.462Z"
   },
   "vpp": {
     "angles": [

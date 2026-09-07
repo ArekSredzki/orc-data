@@ -14,7 +14,12 @@
       0.4939,
       0.6983,
       0.8444
-    ]
+    ],
+    "ilc": 862.3,
+    "aph_tod": 680.7,
+    "aph_tot": 0.8814,
+    "tmf_inshore": 0.6958,
+    "tmf_offshore": 0.8025
   },
   "boat": {
     "builder": "Moody",
@@ -33,7 +38,10 @@
       "crew": 530.0,
       "wetted_surface": 24.94
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.578,
+    "division": "C",
+    "issue_date": "2026-02-03T08:09:20.769Z"
   },
   "vpp": {
     "angles": [

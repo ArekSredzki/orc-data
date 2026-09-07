@@ -14,7 +14,12 @@
       0.6323,
       0.8558,
       0.9791
-    ]
+    ],
+    "ilc": 706.3,
+    "aph_tod": 569.2,
+    "aph_tot": 1.0542,
+    "tmf_inshore": 0.8495,
+    "tmf_offshore": 0.9666
   },
   "boat": {
     "builder": "LIN CENIT AB SWEDE",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 30.89
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.07,
+    "division": "C",
+    "issue_date": "2026-06-21T22:34:16.742Z"
   },
   "vpp": {
     "angles": [

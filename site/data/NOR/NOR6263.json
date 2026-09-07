@@ -14,7 +14,12 @@
       0.6052,
       0.8143,
       0.9242
-    ]
+    ],
+    "ilc": 742.7,
+    "aph_tod": 610.3,
+    "aph_tot": 0.9831,
+    "tmf_inshore": 0.8079,
+    "tmf_offshore": 0.9061
   },
   "boat": {
     "builder": "Nesmar",
@@ -33,7 +38,10 @@
       "crew": 415.0,
       "wetted_surface": 17.43
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.405,
+    "division": "C",
+    "issue_date": "2026-04-16T12:40:32.855Z"
   },
   "vpp": {
     "angles": [

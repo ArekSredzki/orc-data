@@ -14,7 +14,12 @@
       0.6,
       0.8046,
       0.9111
-    ]
+    ],
+    "ilc": 752.0,
+    "aph_tod": 616.2,
+    "aph_tot": 0.9738,
+    "tmf_inshore": 0.7979,
+    "tmf_offshore": 0.8983
   },
   "boat": {
     "builder": "BATEAUX PHOENIX",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 12.92
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.966,
+    "division": "S",
+    "issue_date": "2026-05-05T07:15:02.278Z"
   },
   "vpp": {
     "angles": [

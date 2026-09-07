@@ -14,7 +14,12 @@
       0.8987,
       1.2011,
       1.3863
-    ]
+    ],
+    "ilc": 502.0,
+    "aph_tod": 397.3,
+    "aph_tot": 1.5101,
+    "tmf_inshore": 1.1953,
+    "tmf_offshore": 1.3743
   },
   "boat": {
     "builder": "YYACHTS",
@@ -33,7 +38,10 @@
       "crew": 1000.0,
       "wetted_surface": 94.32
     },
-    "stability_index": 133.0
+    "stability_index": 133.0,
+    "cdl": 18.178,
+    "division": "C",
+    "issue_date": "2026-03-17T19:28:17.064Z"
   },
   "vpp": {
     "angles": [

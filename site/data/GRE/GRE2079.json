@@ -14,7 +14,12 @@
       0.6244,
       0.821,
       0.9121
-    ]
+    ],
+    "ilc": 737.5,
+    "aph_tod": 595.9,
+    "aph_tot": 1.0069,
+    "tmf_inshore": 0.8136,
+    "tmf_offshore": 0.9268
   },
   "boat": {
     "builder": "BARBERIS",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 19.4
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.533,
+    "division": "C",
+    "issue_date": "2026-05-25T18:29:13.789Z"
   },
   "vpp": {
     "angles": [

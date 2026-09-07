@@ -14,7 +14,12 @@
       0.6694,
       0.9246,
       1.0816
-    ]
+    ],
+    "ilc": 652.9,
+    "aph_tod": 529.4,
+    "aph_tot": 1.1333,
+    "tmf_inshore": 0.919,
+    "tmf_offshore": 1.0392
   },
   "boat": {
     "builder": "Centiere del Pardo",
@@ -33,7 +38,10 @@
       "crew": 650.0,
       "wetted_surface": 31.29
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.288,
+    "division": "C",
+    "issue_date": "2026-04-07T13:25:08.976Z"
   },
   "vpp": {
     "angles": [

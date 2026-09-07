@@ -14,7 +14,12 @@
       0.6755,
       0.912,
       1.0412
-    ]
+    ],
+    "ilc": 663.1,
+    "aph_tod": 545.2,
+    "aph_tot": 1.1006,
+    "tmf_inshore": 0.9049,
+    "tmf_offshore": 1.0151
   },
   "boat": {
     "builder": "BAC YACHTS",
@@ -33,7 +38,10 @@
       "crew": 595.0,
       "wetted_surface": 20.28
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.878,
+    "division": "R",
+    "issue_date": "2026-08-07T03:58:44.561Z"
   },
   "vpp": {
     "angles": [

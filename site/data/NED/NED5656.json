@@ -14,7 +14,12 @@
       0.6751,
       0.9319,
       1.0849
-    ]
+    ],
+    "ilc": 648.3,
+    "aph_tod": 530.3,
+    "aph_tot": 1.1315,
+    "tmf_inshore": 0.9254,
+    "tmf_offshore": 1.0402
   },
   "boat": {
     "builder": "SEAQUEST YACHTS",
@@ -33,7 +38,10 @@
       "crew": 750.0,
       "wetted_surface": 30.72
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.277,
+    "division": "C",
+    "issue_date": "2026-04-21T13:19:31.525Z"
   },
   "vpp": {
     "angles": [

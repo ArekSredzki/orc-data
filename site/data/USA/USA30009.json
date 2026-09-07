@@ -14,7 +14,12 @@
       0.7394,
       0.9525,
       1.1098
-    ]
+    ],
+    "ilc": 629.9,
+    "aph_tod": 511.3,
+    "aph_tot": 1.1735,
+    "tmf_inshore": 0.9525,
+    "tmf_offshore": 1.0818
   },
   "boat": {
     "builder": "US WATERCRAFT",
@@ -33,7 +38,10 @@
       "crew": 658.0,
       "wetted_surface": 19.47
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.195,
+    "division": "R",
+    "issue_date": "2026-07-15T12:57:38.542Z"
   },
   "vpp": {
     "angles": [

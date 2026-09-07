@@ -14,7 +14,12 @@
       0.5598,
       0.7896,
       0.9482
-    ]
+    ],
+    "ilc": 763.1,
+    "aph_tod": 611.8,
+    "aph_tot": 0.9807,
+    "tmf_inshore": 0.7863,
+    "tmf_offshore": 0.8961
   },
   "boat": {
     "builder": "MARINE PROJECTS",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 36.59
     },
-    "stability_index": 119.7
+    "stability_index": 119.7,
+    "cdl": 8.275,
+    "division": "C",
+    "issue_date": "2026-03-09T18:38:02.002Z"
   },
   "vpp": {
     "angles": [

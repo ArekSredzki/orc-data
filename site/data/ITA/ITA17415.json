@@ -14,7 +14,12 @@
       0.6444,
       0.8653,
       0.9799
-    ]
+    ],
+    "ilc": 699.2,
+    "aph_tod": 567.5,
+    "aph_tot": 1.0573,
+    "tmf_inshore": 0.8581,
+    "tmf_offshore": 0.9717
   },
   "boat": {
     "builder": "Cobra Yachts",
@@ -33,7 +38,10 @@
       "crew": 550.0,
       "wetted_surface": 23.79
     },
-    "stability_index": 105.9
+    "stability_index": 105.9,
+    "cdl": 8.713,
+    "division": "C",
+    "issue_date": "2026-05-06T17:08:46.051Z"
   },
   "vpp": {
     "angles": [

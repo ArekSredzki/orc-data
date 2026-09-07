@@ -14,7 +14,12 @@
       0.6832,
       0.8545,
       1.009
-    ]
+    ],
+    "ilc": 698.8,
+    "aph_tod": 561.3,
+    "aph_tot": 1.069,
+    "tmf_inshore": 0.8587,
+    "tmf_offshore": 0.9828
   },
   "boat": {
     "builder": "XO SAILERS AG",
@@ -33,7 +38,10 @@
       "crew": 315.0,
       "wetted_surface": 10.3
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.887,
+    "division": "S",
+    "issue_date": "2026-03-17T19:26:54.807Z"
   },
   "vpp": {
     "angles": [

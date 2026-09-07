@@ -14,7 +14,12 @@
       0.6799,
       0.9083,
       1.033
-    ]
+    ],
+    "ilc": 665.1,
+    "aph_tod": 546.1,
+    "aph_tot": 1.0988,
+    "tmf_inshore": 0.9021,
+    "tmf_offshore": 1.012
   },
   "boat": {
     "builder": "NAUTOR",
@@ -33,7 +38,10 @@
       "crew": 650.0,
       "wetted_surface": 30.92
     },
-    "stability_index": 124.3
+    "stability_index": 124.3,
+    "cdl": 9.534,
+    "division": "R",
+    "issue_date": "2026-03-11T07:04:40.518Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.6801,
       0.8865,
       1.0032
-    ]
+    ],
+    "ilc": 681.0,
+    "aph_tod": 555.6,
+    "aph_tot": 1.0799,
+    "tmf_inshore": 0.881,
+    "tmf_offshore": 0.9965
   },
   "boat": {
     "builder": "J-BOATS USA",
@@ -33,7 +38,10 @@
       "crew": 360.0,
       "wetted_surface": 17.74
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.32,
+    "division": "R",
+    "issue_date": "2026-03-17T19:27:54.998Z"
   },
   "vpp": {
     "angles": [

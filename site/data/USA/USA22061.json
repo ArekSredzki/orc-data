@@ -14,7 +14,12 @@
       0.6526,
       0.834,
       0.9793
-    ]
+    ],
+    "ilc": 718.3,
+    "aph_tod": 578.4,
+    "aph_tot": 1.0374,
+    "tmf_inshore": 0.8353,
+    "tmf_offshore": 0.9547
   },
   "boat": {
     "builder": "Martin",
@@ -33,7 +38,10 @@
       "crew": 294.0,
       "wetted_surface": 11.67
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.743,
+    "division": "S",
+    "issue_date": "2026-05-11T19:57:31.061Z"
   },
   "vpp": {
     "angles": [

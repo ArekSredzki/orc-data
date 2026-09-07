@@ -14,7 +14,12 @@
       0.6394,
       0.8829,
       1.0216
-    ]
+    ],
+    "ilc": 684.9,
+    "aph_tod": 550.1,
+    "aph_tot": 1.0908,
+    "tmf_inshore": 0.8761,
+    "tmf_offshore": 0.9984
   },
   "boat": {
     "builder": "COMFORT YACHTS",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 35.08
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.87,
+    "division": "C",
+    "issue_date": "2026-07-22T14:02:08.097Z"
   },
   "vpp": {
     "angles": [

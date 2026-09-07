@@ -14,7 +14,12 @@
       0.5396,
       0.7114,
       0.7968
-    ]
+    ],
+    "ilc": 849.9,
+    "aph_tod": 693.8,
+    "aph_tot": 0.8648,
+    "tmf_inshore": 0.7059,
+    "tmf_offshore": 0.7975
   },
   "boat": {
     "builder": "PROTO SUD",
@@ -33,7 +38,10 @@
       "crew": 254.0,
       "wetted_surface": 9.71
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.434,
+    "division": "R",
+    "issue_date": "2026-04-16T20:41:46.015Z"
   },
   "vpp": {
     "angles": [

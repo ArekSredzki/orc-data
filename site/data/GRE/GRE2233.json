@@ -14,7 +14,12 @@
       0.5468,
       0.7371,
       0.8278
-    ]
+    ],
+    "ilc": 821.6,
+    "aph_tod": 670.7,
+    "aph_tot": 0.8946,
+    "tmf_inshore": 0.7303,
+    "tmf_offshore": 0.8248
   },
   "boat": {
     "builder": "Cider",
@@ -33,7 +38,10 @@
       "crew": 316.0,
       "wetted_surface": 15.0
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.984,
+    "division": "C",
+    "issue_date": "2026-06-16T16:36:54.830Z"
   },
   "vpp": {
     "angles": [

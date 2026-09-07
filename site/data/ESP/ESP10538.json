@@ -14,7 +14,12 @@
       0.6331,
       0.8676,
       1.0244
-    ]
+    ],
+    "ilc": 694.1,
+    "aph_tod": 565.1,
+    "aph_tot": 1.0617,
+    "tmf_inshore": 0.8644,
+    "tmf_offshore": 0.9749
   },
   "boat": {
     "builder": "HERRESHOFF",
@@ -33,7 +38,10 @@
       "crew": 683.0,
       "wetted_surface": 31.74
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.053,
+    "division": "R",
+    "issue_date": "2026-03-09T12:26:03.853Z"
   },
   "vpp": {
     "angles": [

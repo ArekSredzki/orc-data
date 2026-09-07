@@ -14,7 +14,12 @@
       0.6309,
       0.8481,
       0.9575
-    ]
+    ],
+    "ilc": 714.1,
+    "aph_tod": 586.0,
+    "aph_tot": 1.024,
+    "tmf_inshore": 0.8402,
+    "tmf_offshore": 0.9451
   },
   "boat": {
     "builder": "ARTESANAL - HOOD",
@@ -33,7 +38,10 @@
       "crew": 345.0,
       "wetted_surface": 15.89
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.687,
+    "division": "R",
+    "issue_date": "2026-04-18T08:39:11.217Z"
   },
   "vpp": {
     "angles": [

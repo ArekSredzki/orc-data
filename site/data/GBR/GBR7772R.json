@@ -14,7 +14,12 @@
       1.0134,
       1.3849,
       1.6226
-    ]
+    ],
+    "ilc": 435.5,
+    "aph_tod": 344.0,
+    "aph_tot": 1.7444,
+    "tmf_inshore": 1.3776,
+    "tmf_offshore": 1.5852
   },
   "boat": {
     "builder": "Southern Wind Shipyard",
@@ -33,7 +38,10 @@
       "crew": 2937.0,
       "wetted_surface": 155.37
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 24.418,
+    "division": "C",
+    "issue_date": "2026-04-14T07:55:08.945Z"
   },
   "vpp": {
     "angles": [

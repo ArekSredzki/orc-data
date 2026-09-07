@@ -14,7 +14,12 @@
       0.686,
       0.8942,
       1.0425
-    ]
+    ],
+    "ilc": 671.9,
+    "aph_tod": 537.1,
+    "aph_tot": 1.1171,
+    "tmf_inshore": 0.893,
+    "tmf_offshore": 1.0249
   },
   "boat": {
     "builder": "ISSO",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 15.69
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.266,
+    "division": "S",
+    "issue_date": "2026-02-24T13:28:48.830Z"
   },
   "vpp": {
     "angles": [

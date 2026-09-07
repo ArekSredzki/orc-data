@@ -14,7 +14,12 @@
       0.593,
       0.8087,
       0.9251
-    ]
+    ],
+    "ilc": 747.9,
+    "aph_tod": 605.0,
+    "aph_tot": 0.9917,
+    "tmf_inshore": 0.8022,
+    "tmf_offshore": 0.9085
   },
   "boat": {
     "builder": "MOA",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 21.79
     },
-    "stability_index": 114.2
+    "stability_index": 114.2,
+    "cdl": 7.695,
+    "division": "C",
+    "issue_date": "2026-02-05T18:31:31.530Z"
   },
   "vpp": {
     "angles": [

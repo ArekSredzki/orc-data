@@ -14,7 +14,12 @@
       0.5987,
       0.8023,
       0.9055
-    ]
+    ],
+    "ilc": 754.2,
+    "aph_tod": 618.4,
+    "aph_tot": 0.9702,
+    "tmf_inshore": 0.7956,
+    "tmf_offshore": 0.894
   },
   "boat": {
     "builder": "MISTRAL YACHTS",
@@ -33,7 +38,10 @@
       "crew": 420.0,
       "wetted_surface": 17.04
     },
-    "stability_index": 108.3
+    "stability_index": 108.3,
+    "cdl": 7.213,
+    "division": "R",
+    "issue_date": "2026-07-29T13:49:09.716Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7228,
       0.9783,
       1.1151
-    ]
+    ],
+    "ilc": 618.3,
+    "aph_tod": 501.5,
+    "aph_tot": 1.1963,
+    "tmf_inshore": 0.9705,
+    "tmf_offshore": 1.0991
   },
   "boat": {
     "builder": "Tim Dykin",
@@ -33,7 +38,10 @@
       "crew": 850.0,
       "wetted_surface": 33.67
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.456,
+    "division": "C",
+    "issue_date": "2026-02-03T21:04:17.282Z"
   },
   "vpp": {
     "angles": [

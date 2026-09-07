@@ -14,7 +14,12 @@
       0.6698,
       0.9103,
       1.0437
-    ]
+    ],
+    "ilc": 664.1,
+    "aph_tod": 540.4,
+    "aph_tot": 1.1104,
+    "tmf_inshore": 0.9035,
+    "tmf_offshore": 1.0203
   },
   "boat": {
     "builder": "Nicanders",
@@ -33,7 +38,10 @@
       "crew": 724.0,
       "wetted_surface": 27.79
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.709,
+    "division": "C",
+    "issue_date": "2026-04-23T12:35:40.395Z"
   },
   "vpp": {
     "angles": [

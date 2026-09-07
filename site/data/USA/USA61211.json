@@ -14,7 +14,12 @@
       0.8319,
       1.0873,
       1.2749
-    ]
+    ],
+    "ilc": 552.1,
+    "aph_tod": 441.4,
+    "aph_tot": 1.3592,
+    "tmf_inshore": 1.0867,
+    "tmf_offshore": 1.2458
   },
   "boat": {
     "builder": "MURTI YACHTS",
@@ -33,7 +38,10 @@
       "crew": 952.0,
       "wetted_surface": 32.35
     },
-    "stability_index": 128.3
+    "stability_index": 128.3,
+    "cdl": 12.398,
+    "division": "R",
+    "issue_date": "2026-04-29T19:04:58.525Z"
   },
   "vpp": {
     "angles": [

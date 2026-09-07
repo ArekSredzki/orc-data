@@ -14,7 +14,12 @@
       0.7014,
       0.8616,
       1.01
-    ]
+    ],
+    "ilc": 691.9,
+    "aph_tod": 562.7,
+    "aph_tot": 1.0662,
+    "tmf_inshore": 0.8671,
+    "tmf_offshore": 0.9857
   },
   "boat": {
     "builder": "LONGTZE YACHTS",
@@ -33,7 +38,10 @@
       "crew": 327.0,
       "wetted_surface": 9.71
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.789,
+    "division": "S",
+    "issue_date": "2026-03-23T09:45:04.515Z"
   },
   "vpp": {
     "angles": [

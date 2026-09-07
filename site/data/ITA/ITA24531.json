@@ -14,7 +14,12 @@
       0.6033,
       0.8203,
       0.9374
-    ]
+    ],
+    "ilc": 737.7,
+    "aph_tod": 603.6,
+    "aph_tot": 0.9941,
+    "tmf_inshore": 0.8133,
+    "tmf_offshore": 0.9163
   },
   "boat": {
     "builder": "Rimini Sail",
@@ -33,7 +38,10 @@
       "crew": 350.0,
       "wetted_surface": 12.26
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.209,
+    "division": "S",
+    "issue_date": "2026-04-08T14:54:38.516Z"
   },
   "vpp": {
     "angles": [

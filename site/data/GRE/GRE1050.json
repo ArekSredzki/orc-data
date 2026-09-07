@@ -14,7 +14,12 @@
       0.7728,
       1.0193,
       1.1646
-    ]
+    ],
+    "ilc": 591.7,
+    "aph_tod": 482.4,
+    "aph_tot": 1.2437,
+    "tmf_inshore": 1.0141,
+    "tmf_offshore": 1.145
   },
   "boat": {
     "builder": "PRO-YACHTING",
@@ -33,7 +38,10 @@
       "crew": 855.0,
       "wetted_surface": 34.56
     },
-    "stability_index": 124.8
+    "stability_index": 124.8,
+    "cdl": 11.63,
+    "division": "R",
+    "issue_date": "2026-03-24T16:36:51.819Z"
   },
   "vpp": {
     "angles": [

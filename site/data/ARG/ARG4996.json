@@ -14,7 +14,12 @@
       0.7153,
       0.9582,
       1.0949
-    ]
+    ],
+    "ilc": 630.6,
+    "aph_tod": 510.4,
+    "aph_tot": 1.1755,
+    "tmf_inshore": 0.9515,
+    "tmf_offshore": 1.0796
   },
   "boat": {
     "builder": "Ast. Tecnau",
@@ -33,7 +38,10 @@
       "crew": 629.0,
       "wetted_surface": 30.45
     },
-    "stability_index": 130.1
+    "stability_index": 130.1,
+    "cdl": 10.537,
+    "division": "C",
+    "issue_date": "2026-02-11T06:47:07.623Z"
   },
   "vpp": {
     "angles": [

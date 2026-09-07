@@ -14,7 +14,12 @@
       0.7146,
       0.9813,
       1.1379
-    ]
+    ],
+    "ilc": 615.6,
+    "aph_tod": 499.7,
+    "aph_tot": 1.2008,
+    "tmf_inshore": 0.9746,
+    "tmf_offshore": 1.1022
   },
   "boat": {
     "builder": "Cantieri Carlini",
@@ -33,7 +38,10 @@
       "crew": 700.0,
       "wetted_surface": 54.37
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.967,
+    "division": "C",
+    "issue_date": "2026-03-05T14:21:24.012Z"
   },
   "vpp": {
     "angles": [

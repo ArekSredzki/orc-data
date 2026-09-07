@@ -14,7 +14,12 @@
       0.6927,
       0.912,
       1.0695
-    ]
+    ],
+    "ilc": 659.1,
+    "aph_tod": 525.4,
+    "aph_tot": 1.1421,
+    "tmf_inshore": 0.9103,
+    "tmf_offshore": 1.0479
   },
   "boat": {
     "builder": "Shanghai Far East",
@@ -33,7 +38,10 @@
       "crew": 415.0,
       "wetted_surface": 15.93
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.419,
+    "division": "S",
+    "issue_date": "2026-06-29T04:03:50.591Z"
   },
   "vpp": {
     "angles": [

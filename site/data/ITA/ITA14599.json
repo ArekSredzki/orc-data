@@ -14,7 +14,12 @@
       0.6872,
       0.8948,
       0.9959
-    ]
+    ],
+    "ilc": 675.9,
+    "aph_tod": 551.9,
+    "aph_tot": 1.0871,
+    "tmf_inshore": 0.8877,
+    "tmf_offshore": 1.0033
   },
   "boat": {
     "builder": "Damonte",
@@ -33,7 +38,10 @@
       "crew": 548.0,
       "wetted_surface": 22.17
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.691,
+    "division": "C",
+    "issue_date": "2026-05-06T16:06:46.050Z"
   },
   "vpp": {
     "angles": [

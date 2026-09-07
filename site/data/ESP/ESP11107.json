@@ -14,7 +14,12 @@
       0.6857,
       0.9096,
       1.0226
-    ]
+    ],
+    "ilc": 665.2,
+    "aph_tod": 544.0,
+    "aph_tot": 1.103,
+    "tmf_inshore": 0.902,
+    "tmf_offshore": 1.0175
   },
   "boat": {
     "builder": "J. COMPOSITE",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 22.81
     },
-    "stability_index": 113.4
+    "stability_index": 113.4,
+    "cdl": 9.047,
+    "division": "C",
+    "issue_date": "2026-05-06T11:39:07.756Z"
   },
   "vpp": {
     "angles": [

@@ -14,7 +14,12 @@
       0.7103,
       0.9664,
       1.1213
-    ]
+    ],
+    "ilc": 624.4,
+    "aph_tod": 504.1,
+    "aph_tot": 1.1903,
+    "tmf_inshore": 0.9609,
+    "tmf_offshore": 1.0911
   },
   "boat": {
     "builder": "Nautor",
@@ -33,7 +38,10 @@
       "crew": 800.0,
       "wetted_surface": 56.53
     },
-    "stability_index": 127.6
+    "stability_index": 127.6,
+    "cdl": 12.182,
+    "division": "C",
+    "issue_date": "2026-08-12T10:32:35.888Z"
   },
   "vpp": {
     "angles": [

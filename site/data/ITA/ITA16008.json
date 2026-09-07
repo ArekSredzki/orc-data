@@ -14,7 +14,12 @@
       0.8092,
       1.0321,
       1.1735
-    ]
+    ],
+    "ilc": 582.9,
+    "aph_tod": 476.4,
+    "aph_tot": 1.2596,
+    "tmf_inshore": 1.0293,
+    "tmf_offshore": 1.1633
   },
   "boat": {
     "builder": "Star Marine H.T.",
@@ -33,7 +38,10 @@
       "crew": 670.0,
       "wetted_surface": 31.03
     },
-    "stability_index": 124.9
+    "stability_index": 124.9,
+    "cdl": 11.261,
+    "division": "R",
+    "issue_date": "2026-06-05T10:53:07.016Z"
   },
   "vpp": {
     "angles": [

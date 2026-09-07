@@ -14,7 +14,12 @@
       0.6723,
       0.9054,
       1.0249
-    ]
+    ],
+    "ilc": 668.4,
+    "aph_tod": 545.2,
+    "aph_tot": 1.1004,
+    "tmf_inshore": 0.8976,
+    "tmf_offshore": 1.0136
   },
   "boat": {
     "builder": "J-Boats France",
@@ -33,7 +38,10 @@
       "crew": 640.0,
       "wetted_surface": 26.57
     },
-    "stability_index": 122.3
+    "stability_index": 122.3,
+    "cdl": 9.402,
+    "division": "C",
+    "issue_date": "2026-04-29T15:44:26.528Z"
   },
   "vpp": {
     "angles": [

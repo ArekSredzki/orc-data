@@ -14,7 +14,12 @@
       0.5967,
       0.7932,
       0.8964
-    ]
+    ],
+    "ilc": 761.9,
+    "aph_tod": 622.2,
+    "aph_tot": 0.9642,
+    "tmf_inshore": 0.7875,
+    "tmf_offshore": 0.8876
   },
   "boat": {
     "builder": "ERICSON",
@@ -33,7 +38,10 @@
       "crew": 486.0,
       "wetted_surface": 22.47
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.28,
+    "division": "C",
+    "issue_date": "2026-03-27T18:25:59.469Z"
   },
   "vpp": {
     "angles": [

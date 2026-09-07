@@ -14,7 +14,12 @@
       0.6511,
       0.8864,
       1.0114
-    ]
+    ],
+    "ilc": 682.7,
+    "aph_tod": 555.7,
+    "aph_tot": 1.0797,
+    "tmf_inshore": 0.8789,
+    "tmf_offshore": 0.9922
   },
   "boat": {
     "builder": "T-Yachts",
@@ -33,7 +38,10 @@
       "crew": 550.0,
       "wetted_surface": 23.72
     },
-    "stability_index": 119.8
+    "stability_index": 119.8,
+    "cdl": 8.993,
+    "division": "C",
+    "issue_date": "2026-05-14T14:41:58.833Z"
   },
   "vpp": {
     "angles": [

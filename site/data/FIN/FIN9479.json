@@ -14,7 +14,12 @@
       0.6579,
       0.8717,
       0.983
-    ]
+    ],
+    "ilc": 693.6,
+    "aph_tod": 565.9,
+    "aph_tot": 1.0602,
+    "tmf_inshore": 0.865,
+    "tmf_offshore": 0.9769
   },
   "boat": {
     "builder": "R. Rasanen",
@@ -33,7 +38,10 @@
       "crew": 170.0,
       "wetted_surface": 21.89
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.412,
+    "division": "C",
+    "issue_date": "2026-07-07T17:31:28.553Z"
   },
   "vpp": {
     "angles": [

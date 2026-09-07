@@ -14,7 +14,12 @@
       0.6067,
       0.8313,
       0.9585
-    ]
+    ],
+    "ilc": 727.0,
+    "aph_tod": 587.2,
+    "aph_tot": 1.0218,
+    "tmf_inshore": 0.8253,
+    "tmf_offshore": 0.9376
   },
   "boat": {
     "builder": "John Robertson Yac",
@@ -33,7 +38,10 @@
       "crew": 618.0,
       "wetted_surface": 25.19
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.478,
+    "division": "C",
+    "issue_date": "2026-05-11T08:04:55.258Z"
   },
   "vpp": {
     "angles": [

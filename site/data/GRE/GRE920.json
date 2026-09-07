@@ -14,7 +14,12 @@
       0.5633,
       0.7777,
       0.9075
-    ]
+    ],
+    "ilc": 776.2,
+    "aph_tod": 632.6,
+    "aph_tot": 0.9485,
+    "tmf_inshore": 0.773,
+    "tmf_offshore": 0.8713
   },
   "boat": {
     "builder": "ATLANTIC",
@@ -33,7 +38,10 @@
       "crew": 465.0,
       "wetted_surface": 20.8
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.28,
+    "division": "C",
+    "issue_date": "2026-03-10T17:54:40.050Z"
   },
   "vpp": {
     "angles": [

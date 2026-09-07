@@ -14,7 +14,12 @@
       0.7431,
       1.0004,
       1.1629
-    ]
+    ],
+    "ilc": 602.9,
+    "aph_tod": 484.1,
+    "aph_tot": 1.2395,
+    "tmf_inshore": 0.9952,
+    "tmf_offshore": 1.1355
   },
   "boat": {
     "builder": "Naval Force 3",
@@ -33,7 +38,10 @@
       "crew": 834.0,
       "wetted_surface": 29.0
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.102,
+    "division": "R",
+    "issue_date": "2026-02-18T02:07:18.550Z"
   },
   "vpp": {
     "angles": [

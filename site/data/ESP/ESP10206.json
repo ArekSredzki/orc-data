@@ -14,7 +14,12 @@
       0.6886,
       0.9326,
       1.073
-    ]
+    ],
+    "ilc": 647.7,
+    "aph_tod": 527.2,
+    "aph_tot": 1.138,
+    "tmf_inshore": 0.9264,
+    "tmf_offshore": 1.0456
   },
   "boat": {
     "builder": "SINERGIA COMPOSITE",
@@ -33,7 +38,10 @@
       "crew": 769.0,
       "wetted_surface": 31.28
     },
-    "stability_index": 124.9
+    "stability_index": 124.9,
+    "cdl": 10.06,
+    "division": "C",
+    "issue_date": "2026-08-14T08:45:17.103Z"
   },
   "vpp": {
     "angles": [

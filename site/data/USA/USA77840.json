@@ -14,7 +14,12 @@
       0.6473,
       0.8567,
       0.9629
-    ]
+    ],
+    "ilc": 705.9,
+    "aph_tod": 583.6,
+    "aph_tot": 1.028,
+    "tmf_inshore": 0.8499,
+    "tmf_offshore": 0.9496
   },
   "boat": {
     "builder": "Dencho Marine",
@@ -33,7 +38,10 @@
       "crew": 570.0,
       "wetted_surface": 19.49
     },
-    "stability_index": 110.4
+    "stability_index": 110.4,
+    "cdl": 8.123,
+    "division": "R",
+    "issue_date": "2026-04-28T19:45:17.563Z"
   },
   "vpp": {
     "angles": [

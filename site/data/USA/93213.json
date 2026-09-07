@@ -14,7 +14,12 @@
       0.6954,
       0.9268,
       1.0375
-    ]
+    ],
+    "ilc": 653.5,
+    "aph_tod": 528.4,
+    "aph_tot": 1.1356,
+    "tmf_inshore": 0.9181,
+    "tmf_offshore": 1.0432
   },
   "boat": {
     "builder": "Fairport Yachts LTD",
@@ -33,7 +38,10 @@
       "crew": 804.0,
       "wetted_surface": 36.01
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 10.201,
+    "division": "C",
+    "issue_date": "2026-07-07T19:25:41.896Z"
   },
   "vpp": {
     "angles": [

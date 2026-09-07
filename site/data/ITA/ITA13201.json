@@ -14,7 +14,12 @@
       0.865,
       1.0899,
       1.303
-    ]
+    ],
+    "ilc": 547.0,
+    "aph_tod": 431.4,
+    "aph_tot": 1.3907,
+    "tmf_inshore": 1.0969,
+    "tmf_offshore": 1.2692
   },
   "boat": {
     "builder": "Trentini",
@@ -33,7 +38,10 @@
       "crew": 400.0,
       "wetted_surface": 23.52
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 11.462,
+    "division": "R",
+    "issue_date": "2026-07-03T11:55:25.832Z"
   },
   "vpp": {
     "angles": [

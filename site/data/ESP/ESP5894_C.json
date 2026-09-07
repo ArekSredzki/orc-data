@@ -14,7 +14,12 @@
       0.5725,
       0.7625,
       0.8471
-    ]
+    ],
+    "ilc": 795.0,
+    "aph_tod": 655.1,
+    "aph_tot": 0.9159,
+    "tmf_inshore": 0.7547,
+    "tmf_offshore": 0.8465
   },
   "boat": {
     "builder": "POLIMAR",
@@ -33,7 +38,10 @@
       "crew": 180.0,
       "wetted_surface": 13.0
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 6.315,
+    "division": "S",
+    "issue_date": "2026-02-25T21:28:06.344Z"
   },
   "vpp": {
     "angles": [

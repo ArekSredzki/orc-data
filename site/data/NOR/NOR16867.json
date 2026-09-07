@@ -14,7 +14,12 @@
       0.6654,
       0.8924,
       1.0231
-    ]
+    ],
+    "ilc": 676.4,
+    "aph_tod": 551.3,
+    "aph_tot": 1.0882,
+    "tmf_inshore": 0.887,
+    "tmf_offshore": 0.9995
   },
   "boat": {
     "builder": "Fallesen",
@@ -33,7 +38,10 @@
       "crew": 600.0,
       "wetted_surface": 34.82
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.636,
+    "division": "C",
+    "issue_date": "2026-05-19T11:17:58.140Z"
   },
   "vpp": {
     "angles": [

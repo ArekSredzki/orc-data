@@ -14,7 +14,12 @@
       0.6464,
       0.8813,
       1.0126
-    ]
+    ],
+    "ilc": 686.3,
+    "aph_tod": 558.8,
+    "aph_tot": 1.0738,
+    "tmf_inshore": 0.8743,
+    "tmf_offshore": 0.9872
   },
   "boat": {
     "builder": "Adams",
@@ -33,7 +38,10 @@
       "crew": 450.0,
       "wetted_surface": 20.34
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 8.72,
+    "division": "R",
+    "issue_date": "2026-06-26T01:46:50.634Z"
   },
   "vpp": {
     "angles": [
