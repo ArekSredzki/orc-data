@@ -259,6 +259,9 @@ const CELL_PADDING_EM = 0.7;
 // characters that can appear in a data cell are listed; "DDW" is the reason this exists at
 // all, being half again as wide as the three digits it replaces.
 const GLYPH_EM = { D: 0.722, W: 0.944, '.': POINT_EM, '—': 1.0 };
+// The site's own table keeps a degree sign in every angle cell, which the print layouts
+// move to the header. It is only worth counting where it is actually printed.
+const DEGREE_EM = 0.4;
 const glyphEm = (character) => GLYPH_EM[character] ?? DIGIT_EM;
 const textEm = (text) => [...text].reduce((total, character) => total + glyphEm(character), 0);
 
@@ -284,16 +287,25 @@ export const MIN_BODY_PT = 8;
 // scaling from either end produces a poster or a fly-speck at the other.
 // Thresholds are card widths after margins, not paper sizes: a Letter page's content box
 // is 199.9mm, so a 200mm threshold would drop a full sheet into the small-paper class.
+//
+// The ceilings are deliberately high: the geometry should be what limits the type, not an
+// arbitrary cap, and a printed polar is read at arm's length. They exist only to stop a
+// sparse table from being blown up into a poster.
 const CEILING = {
     sheet: [
-        [180, 13],
-        [120, 11],
-        [0, 9.5],
+        [180, 19],
+        [120, 15],
+        [0, 12],
     ],
     card: [
-        [180, 18],
-        [120, 16],
-        [0, 15],
+        [180, 26],
+        [120, 21],
+        [0, 17],
+    ],
+    page: [
+        [180, 19],
+        [120, 15],
+        [0, 12],
     ],
 };
 
@@ -301,13 +313,15 @@ const CEILING = {
 // the footer — in ems of body type, so it scales with the card the way the rest does.
 // These are measured from the rendered card rather than guessed; if PolarCard's header or
 // padding changes materially, re-measure them.
-const OVERHEAD_EM = { sheet: 9.0, card: 12.0 };
+const OVERHEAD_EM = { sheet: 8.0, card: 10.5, page: 8.0 };
 // Height of one body row, likewise measured: cell padding plus the line box, with the
 // card's larger wind-speed stub setting the pitch there.
-const ROW_PITCH_EM = { sheet: 2.15, card: 2.45 };
+const ROW_PITCH_EM = { sheet: 2.15, card: 2.45, page: 2.3 };
 // Row-label column: "Beat angle (TWA)" is the widest label on the sheet, but it is set
 // smaller than the data and abbreviated in print.
-const STUB_EM = { sheet: 7.2, card: 2.6 };
+// The page layout keeps the site's full row labels ("Beat angle (TWA)"), which is most of
+// why it cannot be set as large as the sheet.
+const STUB_EM = { sheet: 7.2, card: 2.6, page: 8.6 };
 
 const emForChars = (digits, points) => digits * DIGIT_EM + points * POINT_EM;
 
@@ -334,7 +348,8 @@ export function cardFontSizePt({
 }) {
     // Widest data cell, measured from the values when the caller has a model to hand and
     // otherwise assumed: "10.56" on the sheet, "148" on the card.
-    const dataEm = valueEm ?? (layout === 'sheet' ? emForChars(4, 1) : emForChars(3, 0));
+    const dataEm =
+        (valueEm ?? (layout === 'card' ? emForChars(3, 0) : emForChars(4, 1))) + (layout === 'page' ? DEGREE_EM : 0);
     const columnEm = dataEm + CELL_PADDING_EM;
     const widthEm = STUB_EM[layout] + columns * columnEm;
     const heightEm = bodyRows * ROW_PITCH_EM[layout] + OVERHEAD_EM[layout];

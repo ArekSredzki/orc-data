@@ -168,11 +168,22 @@ describe('cardFontSizePt', () => {
         expect(nine.fitPt).toBeLessThan(seven.fitPt);
     });
 
-    it('caps a full page at a readable size rather than scaling type with the paper', () => {
-        const letter = forCard(215.9, 279.4, 7);
+    it('caps a sparse table rather than blowing it up into a poster', () => {
+        // A handful of rows on a large card: the geometry would allow enormous type, so the
+        // per-size ceiling is what decides.
+        const roomy = cardFontSizePt({ cardWmm: 400, cardHmm: 500, columns: 7, bodyRows: 6, layout: 'sheet' });
 
-        expect(letter.fitPt).toBeGreaterThan(letter.pt);
-        expect(letter.pt).toBe(13);
+        expect(roomy.fitPt).toBeGreaterThan(roomy.pt);
+        expect(roomy.pt).toBe(19);
+    });
+
+    it('lets the geometry decide whenever it is the tighter constraint', () => {
+        // A real certificate has eight wind angles and up to nine wind speeds, which is
+        // where the ceiling stops binding and the page does.
+        const full = cardFontSizePt({ cardWmm: 199.9, cardHmm: 263.4, columns: 9, bodyRows: 16, layout: 'sheet' });
+
+        expect(full.pt).toBe(full.fitPt);
+        expect(full.pt).toBeGreaterThan(MIN_BODY_PT);
     });
 
     it('refuses the full sheet on a quarter page', () => {

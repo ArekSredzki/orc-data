@@ -42,13 +42,24 @@ let plot;
             <PolarPlot bind:this={plot} boats={[boat]} />
         </div>
         <div class="col-sm">
-            <h1>
-                {#if boat.name}
-                    {boat.name}
-                {:else}
-                    <span class="text-muted">Name unknown</span>
-                {/if}
-            </h1>
+            <div class="title-row">
+                <h1>
+                    {#if boat.name}
+                        {boat.name}
+                    {:else}
+                        <span class="text-muted">Name unknown</span>
+                    {/if}
+                </h1>
+                <!-- The polar is at the bottom of a long page, so the action that puts it on
+                     paper sits up here with the boat's name where it can be found. -->
+                <a class="btn btn-outline-secondary btn-sm print-polar d-print-none" href="#print-{boat.sailnumber}">
+                    <svg viewBox="0 0 16 16" width="14" height="14" aria-hidden="true" fill="currentColor">
+                        <path
+                            d="M4 1.5A1.5 1.5 0 0 1 5.5 0h5A1.5 1.5 0 0 1 12 1.5V4h1.5A1.5 1.5 0 0 1 15 5.5v5a1.5 1.5 0 0 1-1.5 1.5H12v2.5a1.5 1.5 0 0 1-1.5 1.5h-5A1.5 1.5 0 0 1 4 14.5V12H2.5A1.5 1.5 0 0 1 1 10.5v-5A1.5 1.5 0 0 1 2.5 4H4V1.5Zm1 0V4h6V1.5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0-.5.5Zm6 9.5H5v3.5a.5.5 0 0 0 .5.5h5a.5.5 0 0 0 .5-.5V11Zm1.5-4.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" />
+                    </svg>
+                    Print polar
+                </a>
+            </div>
 
             <table class="table">
                 <tr><th>Sail number</th><th>Type</th><th>Designer</th><th>Builder</th></tr>
@@ -137,9 +148,6 @@ let plot;
             {/if}
 
             <PolarTable vpp={boat.vpp} hover={plot?.hover} />
-            <p class="d-print-none">
-                <a href="#print-{boat.sailnumber}">Print polar…</a>
-            </p>
             <div class="d-print-none">
                 <h5>
                     Polar (CSV)<Help term="polar-csv" />
@@ -157,6 +165,23 @@ let plot;
 {/if}
 
 <style>
+.title-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1rem;
+}
+.title-row h1 {
+    margin: 0;
+    min-width: 0;
+}
+.print-polar {
+    flex: 0 0 auto;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+}
+
 /* Printing the boat page is not the printable-polar feature (that lives on #print-…), but
    it should at least not waste a page on browser chrome and an editable textarea. */
 @media print {

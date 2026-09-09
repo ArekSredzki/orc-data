@@ -56,10 +56,39 @@ describe('PolarCard, full sheet', () => {
         expect(container.querySelectorAll('thead th')).toHaveLength(1 + 9);
     });
 
-    it('names the sails the VPP assumed, which a downwind target depends on', () => {
+    it('says which kite the VPP assumed, because the downwind targets depend on it', () => {
         render(PolarCard, { boat: BOAT, layout: 'sheet' });
 
-        expect(screen.getByText(/main 17.57 · genoa 19.82 · spinnaker 39.55/)).toBeDefined();
+        expect(screen.getByText('symmetric spinnaker')).toBeDefined();
+    });
+
+    it('calls an asymmetric an asymmetric', () => {
+        const asym = { ...BOAT, boat: { ...BOAT.boat, sizes: { ...BOAT.boat.sizes, spinnaker: 0, spinnaker_asym: 143.6 } } };
+        render(PolarCard, { boat: asym, layout: 'sheet' });
+
+        expect(screen.getByText('asymmetric spinnaker')).toBeDefined();
+    });
+
+    it('leaves the dimensions and ratings out by default', () => {
+        render(PolarCard, { boat: BOAT, layout: 'sheet' });
+
+        expect(screen.queryByText(/GPH/)).toBeNull();
+        expect(screen.queryByText(/LOA/)).toBeNull();
+    });
+
+    it('adds them when they are asked for', () => {
+        render(PolarCard, { boat: BOAT, layout: 'sheet', details: true });
+
+        expect(screen.getByText(/GPH 769.5/)).toBeDefined();
+        expect(screen.getByText(/LOA 8.55 m/)).toBeDefined();
+    });
+
+    it('prints the site’s own table when asked for the page layout', () => {
+        const { container } = render(PolarCard, { boat: BOAT, layout: 'page' });
+
+        expect(container.querySelector('.polar-table')).not.toBeNull();
+        // The page table keeps the site's full row labels rather than the print abbreviations.
+        expect(screen.getByText('Beat angle (TWA)')).toBeDefined();
     });
 
     it('masks a corrupt boat speed instead of printing it', () => {

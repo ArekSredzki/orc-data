@@ -79,7 +79,7 @@ export function pageRule(paper, orientation = 'portrait') {
 }
 
 export const ORIENTATIONS = ['portrait', 'landscape'];
-export const LAYOUTS = ['card', 'sheet'];
+export const LAYOUTS = ['card', 'sheet', 'page'];
 export const INKS = ['mono', 'tint', 'screen'];
 
 const CHOICES = {
@@ -88,7 +88,7 @@ const CHOICES = {
     orientation: ORIENTATIONS,
     colour: INKS,
 };
-const FLAGS = ['awa', 'vmg', 'beatRun', 'fullRange'];
+const FLAGS = ['awa', 'vmg', 'beatRun', 'fullRange', 'details'];
 
 /**
  * Fold untrusted option values into a set of defaults, keeping only values the UI itself

@@ -37,6 +37,7 @@ let options = {
     vmg: false,
     beatRun: true,
     fullRange: false,
+    details: false,
     colour: 'mono',
 };
 
@@ -82,7 +83,7 @@ function optionsFromHash() {
     for (const [key, value] of params) {
         if (key === 'perSheet') {
             parsed[key] = Number(value);
-        } else if (['awa', 'vmg', 'beatRun', 'fullRange'].includes(key)) {
+        } else if (['awa', 'vmg', 'beatRun', 'fullRange', 'details'].includes(key)) {
             parsed[key] = value === '1';
         } else {
             parsed[key] = value;
@@ -106,6 +107,7 @@ function persist(options, perSheet) {
         vmg: options.vmg ? '1' : '0',
         beatRun: options.beatRun ? '1' : '0',
         fullRange: options.fullRange ? '1' : '0',
+        details: options.details ? '1' : '0',
         colour: options.colour,
     });
     window.history.replaceState(null, '', `#print-${sailnumber}?${params}`);
@@ -143,12 +145,12 @@ $: rowOptions =
         ? { awa: options.awa, vmg: options.vmg, beatRun: options.beatRun }
         : { awa: options.awa, vmg: options.vmg, ...(options.fullRange ? { range: null } : {}) };
 $: model = boat
-    ? options.layout === 'sheet'
-        ? polarSheet(boat.vpp, rowOptions)
-        : polarCard(boat.vpp, rowOptions)
+    ? options.layout === 'card'
+        ? polarCard(boat.vpp, rowOptions)
+        : polarSheet(boat.vpp, options.layout === 'page' ? {} : rowOptions)
     : null;
-$: columns = model ? (options.layout === 'sheet' ? model.columns : model.columns.length) : 0;
-$: bodyRows = model ? (options.layout === 'sheet' ? sheetRowCount(model) : model.rows.length) : 0;
+$: columns = model ? (options.layout === 'card' ? model.columns.length : model.columns) : 0;
+$: bodyRows = model ? (options.layout === 'card' ? model.rows.length : sheetRowCount(model)) : 0;
 // Measured from the values themselves, so a card carrying "DDW" gets the width it needs.
 $: valueEm = model ? widestValueEm(model) : null;
 
@@ -237,6 +239,7 @@ $: previewHeight = (page.h / MM_PER_PX) * zoom;
                 <legend>Layout</legend>
                 <label><input type="radio" bind:group={options.layout} value="card" /> Targets card</label>
                 <label><input type="radio" bind:group={options.layout} value="sheet" /> Full sheet</label>
+                <label><input type="radio" bind:group={options.layout} value="page" /> Table as on the page</label>
             </fieldset>
 
             <fieldset>
@@ -271,9 +274,10 @@ $: previewHeight = (page.h / MM_PER_PX) * zoom;
                 <label><input type="checkbox" bind:checked={options.vmg} /> VMG</label>
                 {#if options.layout === 'sheet'}
                     <label><input type="checkbox" bind:checked={options.beatRun} /> Beat and run blocks</label>
-                {:else}
+                {:else if options.layout === 'card'}
                     <label><input type="checkbox" bind:checked={options.fullRange} /> All wind speeds</label>
                 {/if}
+                <label><input type="checkbox" bind:checked={options.details} /> Dimensions and ratings</label>
             </fieldset>
 
             <fieldset>
@@ -308,7 +312,8 @@ $: previewHeight = (page.h / MM_PER_PX) * zoom;
                                     layout={options.layout}
                                     options={rowOptions}
                                     fontPt={fit.pt}
-                                    colour={options.colour} />
+                                    colour={options.colour}
+                                    details={options.details} />
                             </div>
                         {/each}
                         {#each guideCols as left}

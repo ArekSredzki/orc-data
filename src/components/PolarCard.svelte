@@ -1,9 +1,11 @@
 <script>
-import { DATA_YEAR, issueDate, sails } from '../boat-meta.js';
+import PolarTable from './PolarTable.svelte';
+import { DATA_YEAR, issueDate } from '../boat-meta.js';
 import { polarCard, polarSheet } from '../polar-rows.js';
 
 export let boat;
-// 'sheet' is the full-fidelity nav-station page; 'card' is the cockpit target card.
+// 'sheet' is the full-fidelity nav-station page, 'card' the cockpit target card, and
+// 'page' the site's own wind-velocity table exactly as the boat page draws it.
 export let layout = 'sheet';
 export let options = {};
 // Body type in points, computed by the caller from the card's size and column count. Every
@@ -11,10 +13,13 @@ export let options = {};
 export let fontPt = 11;
 // 'mono' | 'tint' | 'screen' — see the header cell styling below.
 export let colour = 'mono';
+// Certificate detail (dimensions, ratings) in the header. Off by default: none of it is
+// something you act on while sailing, and it competes with the numbers that are.
+export let details = false;
 
 $: sheet = layout === 'sheet' ? polarSheet(boat.vpp, options) : null;
 $: card = layout === 'card' ? polarCard(boat.vpp, options) : null;
-$: speeds = (sheet || card).speeds;
+$: speeds = sheet ? sheet.speeds : card ? card.speeds : boat.vpp.speeds;
 $: sizes = boat.boat.sizes;
 $: issued = issueDate(boat);
 
@@ -41,9 +46,11 @@ $: cardGroups = card
       }))
     : [];
 
-$: sailList = sails(sizes)
-    .map(({ label, value }) => `${label.toLowerCase()} ${value}`)
-    .join(' · ');
+// Which kite the VPP assumed changes what the downwind targets mean, so the card says so
+// in words. The sail areas themselves are certificate trivia and are not printed: nobody
+// trims to a number in a header.
+$: downwindSail =
+    sizes.spinnaker > 0 ? 'symmetric spinnaker' : sizes.spinnaker_asym > 0 ? 'asymmetric spinnaker' : 'white sails';
 </script>
 
 <div class="print-card" class:is-card={layout === 'card'} style="font-size: {fontPt}pt">
@@ -53,19 +60,23 @@ $: sailList = sails(sizes)
             <div class="sail">{boat.sailnumber}</div>
         </div>
         <div class="meta">
-            {#if boat.boat.type}<span class="type">{boat.boat.type}</span>{/if}
-            {#if layout === 'sheet'}
-                <span>LOA {sizes.loa} m · Beam {sizes.beam} m · Draft {sizes.draft} m · {sizes.displacement} kg</span>
-                {#if boat.rating?.gph != null}<span>GPH {boat.rating.gph.toFixed(1)} s/NM</span>{/if}
-                {#if boat.rating?.osn != null}<span>Offshore {boat.rating.osn.toFixed(1)} s/NM</span>{/if}
+            {#if boat.boat.type}<span>{boat.boat.type}</span>{/if}
+            <span>{downwindSail}</span>
+            {#if details}
+                <span>LOA {sizes.loa} m · {sizes.displacement} kg</span>
+                {#if boat.rating?.gph != null}<span>GPH {boat.rating.gph.toFixed(1)}</span>{/if}
+                {#if boat.rating?.osn != null}<span>Offshore {boat.rating.osn.toFixed(1)}</span>{/if}
             {/if}
         </div>
-        <!-- Which sails the VPP assumed. A downwind target under a symmetric kite is not the
-             same number as one under an asymmetric, so a card without this is ambiguous. -->
-        <div class="sails">Rated with {sailList} m²</div>
     </header>
 
-    {#if sheet}
+    {#if layout === 'page'}
+        <!-- Literally the boat page's table, the same component with the same classes, so
+             what comes out of the printer is what was on the screen. -->
+        <div class="page-table" class:mono={colour === 'mono'}>
+            <PolarTable vpp={boat.vpp} />
+        </div>
+    {:else if sheet}
         <table>
             <colgroup>
                 <col class="stub-col" />
@@ -77,9 +88,8 @@ $: sailList = sails(sizes)
                 <tr>
                     <th class="stub">TWS kt</th>
                     {#each speeds as speed, i}
-                        <th style={tint(i, speeds.length)}>
+                        <th style={tint(i, speeds.length)} class={colour === 'screen' ? `tws-${speed}` : ''}>
                             {speed}
-                            {#if colour === 'screen'}<span class="keyline tws-{speed}"></span>{/if}
                         </th>
                     {/each}
                 </tr>
@@ -89,8 +99,8 @@ $: sailList = sails(sizes)
                     {#each block.rows as row}
                         <tr>
                             <th class="stub">{row.short}</th>
-                            {#each row.values as value}
-                                <td>{value.text}</td>
+                            {#each row.values as value, i}
+                                <td class={colour === 'screen' ? `tws-${speeds[i]}` : ''}>{value.text}</td>
                             {/each}
                         </tr>
                     {/each}
@@ -107,7 +117,7 @@ $: sailList = sails(sizes)
             </colgroup>
             <thead>
                 <tr>
-                    <th class="stub" rowspan="2">TWS<br /><span class="unit">kt</span></th>
+                    <th class="stub" rowspan="2">TWS</th>
                     {#each cardGroups as group}
                         <th colspan={group.span} class="group group-{group.group}">{group.label}</th>
                     {/each}
@@ -115,7 +125,7 @@ $: sailList = sails(sizes)
                 <tr>
                     {#each card.columns as column, i}
                         <th class="column-head" class:group-start={i > 0 && column.group !== card.columns[i - 1].group}>
-                            {column.label}<br /><span class="unit">{column.unit}</span>
+                            {column.label}
                         </th>
                     {/each}
                 </tr>
@@ -126,6 +136,7 @@ $: sailList = sails(sizes)
                         <th class="stub tws" style={tint(i, card.rows.length)}>{row.tws}</th>
                         {#each row.values as value, column}
                             <td
+                                class={colour === 'screen' ? `tws-${row.tws}` : ''}
                                 class:group-start={column > 0 &&
                                     card.columns[column].group !== card.columns[column - 1].group}>{value}</td>
                         {/each}
@@ -137,7 +148,7 @@ $: sailList = sails(sizes)
 
     <footer>
         <div class="legend">
-            Boat speed in knots · angles in degrees · TWA true wind angle, AWA apparent{#if layout === 'card'}
+            Wind and boat speed in knots · angles in degrees · TWA true wind angle, AWA apparent{#if layout === 'card'}
                 · DDW = optimum is dead downwind{/if}
         </div>
         <div class="caveat">
@@ -226,6 +237,11 @@ table {
     width: 100%;
     border-collapse: collapse;
     table-layout: fixed;
+    /* Spend the slack between the table and the footer on the rows rather than leaving a
+       band of dead paper at the foot of the page: the rows share it out, which is more air
+       per row and an easier read across a wide grid. Rows never shrink below their
+       content, so a card that only just fits is unaffected. */
+    flex: 1 1 auto;
     /* One column grid across every block: independent widths per block read as sloppy from
        a metre away, and one corrupt certificate value must not widen a column. */
 }
@@ -281,17 +297,27 @@ tbody:last-of-type tr:last-child td {
     background: #f0f0f0;
 }
 
-.keyline {
-    display: block;
-    height: 0;
-    margin-top: 0.15em;
-    border-bottom: 1.5pt solid currentColor;
+/* The page layout borrows the site's own table, which is sized for a browser column: it
+   has to take this card's type size and give up its screen width cap. Its colours come
+   from the global .tws-N classes, so "match the plot" needs no help here. */
+.page-table {
+    display: flex;
+    flex: 1 1 auto;
 }
-
-.unit {
-    font-weight: 400;
-    color: #666;
-    font-size: 0.8em;
+.page-table :global(.polar-table) {
+    font-size: inherit;
+    max-width: none;
+    width: 100%;
+    margin: 0;
+}
+.page-table :global(.polar-table td),
+.page-table :global(.polar-table th) {
+    padding: 0.2em 0.35em;
+    border-color: #ccc;
+}
+.page-table.mono :global(.polar-table td),
+.page-table.mono :global(.polar-table th) {
+    color: #000;
 }
 .group {
     text-align: center;
