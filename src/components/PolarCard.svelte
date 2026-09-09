@@ -132,6 +132,7 @@ $: downwindSail =
                         <th
                             class="column-head"
                             class:speed={column.key.endsWith('-bsp')}
+                            class:angle={column.key.endsWith('-twa')}
                             class:group-start={i > 0 && column.group !== card.columns[i - 1].group}
                             class:group-end={i < card.columns.length - 1 && column.group !== card.columns[i + 1].group}>
                             {column.label}
@@ -147,6 +148,7 @@ $: downwindSail =
                             <td
                                 class={colour === 'screen' ? `tws-${row.tws}` : ''}
                                 class:speed={card.columns[column].key.endsWith('-bsp')}
+                                class:angle={card.columns[column].key.endsWith('-twa')}
                                 class:group-start={column > 0 &&
                                     card.columns[column].group !== card.columns[column - 1].group}
                                 class:group-end={column < card.columns.length - 1 &&
@@ -212,7 +214,7 @@ header {
     gap: 1em;
 }
 .name {
-    font-size: 1.7em;
+    font-size: 1.4em;
     font-weight: 700;
     line-height: 1.1;
     /* A long name must not push the table down the page; the sail number identifies the
@@ -222,7 +224,7 @@ header {
     white-space: nowrap;
 }
 .sail {
-    font-size: 1.25em;
+    font-size: 1.1em;
     font-weight: 700;
     white-space: nowrap;
 }
@@ -244,7 +246,10 @@ header {
     font-size: 0.62em;
 }
 .is-card .name {
-    font-size: 1.35em;
+    font-size: 1.1em;
+}
+.is-card .sail {
+    font-size: 1em;
 }
 
 table {
@@ -367,9 +372,11 @@ tbody:last-of-type tr:last-child td {
     border-left: 0.75pt solid #000;
 }
 
-/* Boat speed is the number you are steering to: the angle gets you pointed, this tells you
-   whether it is working. It carries the weight, and the colour when there is colour. */
-.speed {
+/* The true wind angle and the boat speed are the pair you act on — steer to the angle,
+   check the speed. Both carry the weight; the apparent-wind column is there for the boats
+   whose instruments only read apparent, and stays light. */
+.speed,
+.angle {
     font-weight: 700;
 }
 .is-card tbody .tws {

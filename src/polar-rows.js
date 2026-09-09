@@ -335,7 +335,7 @@ const CEILING = {
 // These are measured from the rendered card rather than guessed; if PolarCard's header or
 // padding changes materially, re-measure them.
 // The identity line and the column headers, which every layout always carries.
-const OVERHEAD_EM = { sheet: 5.3, card: 7.1, page: 5.3 };
+const OVERHEAD_EM = { sheet: 4.7, card: 6.3, page: 4.7 };
 // Added only when the optional blocks are printed: the detail lines under the boat's name,
 // and the footer's legend, caveat and provenance.
 const DETAIL_EM = { sheet: 2.0, card: 1.7, page: 2.0 };

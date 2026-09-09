@@ -38,6 +38,14 @@ describe('cardGeometry', () => {
         expect(h).toBeCloseTo((279.4 - 2 * PAGE_MARGIN_MM) / 2, 5);
     });
 
+    it('gives the cards the margin back when it is narrowed', () => {
+        const wide = cardGeometry('letter', 'portrait', 1, 16);
+        const narrow = cardGeometry('letter', 'portrait', 1, 4);
+
+        expect(narrow.w - wide.w).toBeCloseTo(24, 5);
+        expect(narrow.h - wide.h).toBeCloseTo(24, 5);
+    });
+
     it('quarters A4 into cards a shade under A6, allowing for the page margin', () => {
         const { w, h } = cardGeometry('a4', 'portrait', 4);
 
@@ -50,6 +58,10 @@ describe('pageRule', () => {
     it('names the paper and orientation literally, because custom properties do not resolve in @page', () => {
         expect(pageRule('a4', 'landscape')).toBe('@page { size: A4 landscape; margin: 8mm; }');
     });
+
+    it('carries the chosen margin', () => {
+        expect(pageRule('letter', 'portrait', 4)).toBe('@page { size: Letter portrait; margin: 4mm; }');
+    });
 });
 
 describe('printOptions', () => {
@@ -58,6 +70,7 @@ describe('printOptions', () => {
         paper: 'a4',
         orientation: 'portrait',
         perSheet: 2,
+        margin: 8,
         awa: true,
         vmg: false,
         beatRun: true,
@@ -84,6 +97,7 @@ describe('printOptions', () => {
             orientation: 'portrait; } </style><script>alert(1)</script>',
             paper: '__proto__',
             perSheet: 999,
+            margin: 3,
             colour: 'rainbow',
             unexpected: 'ignored',
         });
@@ -91,6 +105,7 @@ describe('printOptions', () => {
         expect(options.orientation).toBe('portrait');
         expect(options.paper).toBe('a4');
         expect(options.perSheet).toBe(2);
+        expect(options.margin).toBe(8);
         expect(options.colour).toBe('mono');
         expect(options.unexpected).toBeUndefined();
     });

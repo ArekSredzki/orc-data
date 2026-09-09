@@ -16,9 +16,12 @@ export const PAPERS = {
 // body type and left out: it is not readable on the water.
 export const PER_SHEET = [1, 2, 4];
 
-// The page box keeps this much clear of the paper edge. Consumer printers cannot print to
-// the edge (typically 6.4mm, and some inkjets take more at the foot), so anything smaller
-// risks being clipped by the driver rather than by us.
+// How much of the paper edge the page box keeps clear. Consumer printers cannot print to
+// the edge — typically 6.4mm, and some inkjets take more at the foot — so the narrow
+// settings are for printers known to manage them, and the default plays safe. Trading
+// margin for table is the cheapest way to get bigger numbers, which is why it is a control
+// rather than a constant.
+export const PAGE_MARGINS_MM = [0, 4, 8, 12, 16];
 export const PAGE_MARGIN_MM = 8;
 
 // Each card holds this much clear of its own trimmed edge, which is what absorbs a wobbly
@@ -50,10 +53,10 @@ export function pageSize(paper, orientation = 'portrait') {
  * two landscape cards stacked, and 2-up on a landscape page gives two portrait cards side
  * by side.
  */
-export function cardGeometry(paper, orientation = 'portrait', perSheet = 1) {
+export function cardGeometry(paper, orientation = 'portrait', perSheet = 1, marginMm = PAGE_MARGIN_MM) {
     const page = pageSize(paper, orientation);
-    let w = page.w - 2 * PAGE_MARGIN_MM;
-    let h = page.h - 2 * PAGE_MARGIN_MM;
+    let w = page.w - 2 * marginMm;
+    let h = page.h - 2 * marginMm;
     let cols = 1;
     let rows = 1;
 
@@ -74,8 +77,8 @@ export function cardGeometry(paper, orientation = 'portrait', perSheet = 1) {
 // context, so the rule is rebuilt whenever the paper changes rather than parameterised.
 // Both values are interpolated into a stylesheet, so both must have come through
 // `printOptions()` — never straight off the URL.
-export function pageRule(paper, orientation = 'portrait') {
-    return `@page { size: ${PAPERS[paper].css} ${orientation}; margin: ${PAGE_MARGIN_MM}mm; }`;
+export function pageRule(paper, orientation = 'portrait', marginMm = PAGE_MARGIN_MM) {
+    return `@page { size: ${PAPERS[paper].css} ${orientation}; margin: ${marginMm}mm; }`;
 }
 
 export const ORIENTATIONS = ['portrait', 'landscape'];
@@ -110,6 +113,11 @@ export function printOptions(defaults, ...sources) {
                 const count = Number(value);
                 if (PER_SHEET.includes(count)) {
                     options[key] = count;
+                }
+            } else if (key === 'margin') {
+                const millimetres = Number(value);
+                if (PAGE_MARGINS_MM.includes(millimetres)) {
+                    options[key] = millimetres;
                 }
             }
         }

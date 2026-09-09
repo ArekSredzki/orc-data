@@ -11,6 +11,7 @@ import {
     SHEET_TOLERANCE_MM,
     defaultPaper,
     PAGE_MARGIN_MM,
+    PAGE_MARGINS_MM,
     PAPERS,
     pageRule,
     PER_SHEET,
@@ -34,6 +35,7 @@ let options = {
     paper: defaultPaper(typeof navigator === 'undefined' ? undefined : navigator.language),
     orientation: 'portrait',
     perSheet: 2,
+    margin: PAGE_MARGIN_MM,
     awa: true,
     vmg: false,
     beatRun: true,
@@ -70,7 +72,7 @@ onMount(() => {
 
 let pageStyle;
 $: if (pageStyle) {
-    pageStyle.textContent = pageRule(options.paper, options.orientation);
+    pageStyle.textContent = pageRule(options.paper, options.orientation, options.margin);
 }
 
 let ready = false;
@@ -83,7 +85,7 @@ function optionsFromHash() {
     const params = new URLSearchParams(query);
     const parsed = {};
     for (const [key, value] of params) {
-        if (key === 'perSheet') {
+        if (key === 'perSheet' || key === 'margin') {
             parsed[key] = Number(value);
         } else if (['awa', 'vmg', 'beatRun', 'fullRange', 'details', 'notes'].includes(key)) {
             parsed[key] = value === '1';
@@ -105,6 +107,7 @@ function persist(options, perSheet) {
         paper: options.paper,
         orientation: options.orientation,
         perSheet: String(perSheet),
+        margin: String(options.margin),
         awa: options.awa ? '1' : '0',
         vmg: options.vmg ? '1' : '0',
         beatRun: options.beatRun ? '1' : '0',
@@ -158,7 +161,7 @@ $: bodyRows = model ? (options.layout === 'card' ? model.rows.length : sheetRowC
 $: valueEm = model ? widestValueEm(model) : null;
 
 $: page = pageSize(options.paper, options.orientation);
-$: geometry = cardGeometry(options.paper, options.orientation, perSheet);
+$: geometry = cardGeometry(options.paper, options.orientation, perSheet, options.margin);
 $: fit = model
     ? cardFontSizePt({
           cardWmm: geometry.w,
@@ -177,7 +180,7 @@ $: fit = model
 // printing something illegible.
 $: allowedPerSheet = model
     ? PER_SHEET.filter((perSheet) => {
-          const candidate = cardGeometry(options.paper, options.orientation, perSheet);
+          const candidate = cardGeometry(options.paper, options.orientation, perSheet, options.margin);
           return cardFontSizePt({
               cardWmm: candidate.w,
               cardHmm: candidate.h,
@@ -263,6 +266,18 @@ $: previewHeight = (page.h / MM_PER_PX) * zoom;
             </fieldset>
 
             <fieldset>
+                <legend>Page margin</legend>
+                <div class="margins">
+                    {#each PAGE_MARGINS_MM as millimetres}
+                        <label class="margin">
+                            <input type="radio" bind:group={options.margin} value={millimetres} />
+                            {millimetres === 0 ? 'None' : `${millimetres}mm`}
+                        </label>
+                    {/each}
+                </div>
+            </fieldset>
+
+            <fieldset>
                 <legend>Cards per sheet</legend>
                 {#each PER_SHEET as choice}
                     <label class:disabled={!allowedPerSheet.includes(choice)}>
@@ -312,7 +327,7 @@ $: previewHeight = (page.h / MM_PER_PX) * zoom;
             <div class="preview" style="height: {previewHeight}px">
                 <div
                     class="paper"
-                    style="width: {page.w}mm; height: {page.h}mm; padding: {PAGE_MARGIN_MM}mm; --zoom: {zoom}">
+                    style="width: {page.w}mm; height: {page.h}mm; padding: {options.margin}mm; --zoom: {zoom}">
                     <div
                         class="sheet"
                         style="grid-template-columns: repeat({geometry.cols}, 1fr); grid-template-rows: repeat({geometry.rows}, 1fr); height: calc({geometry.rows *
@@ -376,6 +391,16 @@ legend {
 label {
     display: block;
     line-height: 1.5;
+}
+.margins {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.1rem 0.6rem;
+}
+.margins .margin {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.15rem;
 }
 label.disabled {
     color: #aaa;
