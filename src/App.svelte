@@ -44,7 +44,7 @@ $: if (route == 'random') {
 }
 </script>
 
-<nav class="navbar navbar-expand-lg navbar-light bg-light">
+<nav class="navbar navbar-expand-lg navbar-light bg-light d-print-none">
     <div class="container-fluid">
         <a class="navbar-brand" href="#extremes">ORC Sailboat Data (2026)</a>
         <button

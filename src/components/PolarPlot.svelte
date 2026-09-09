@@ -153,7 +153,7 @@ function clearPlotHover() {
 
 <svelte:window bind:innerHeight={windowInnerHeight} />
 <div bind:this={container}>
-    <div class="angle-mode">
+    <div class="angle-mode d-print-none">
         <div class="btn-group btn-group-sm" role="group" aria-label="Wind angle reference">
             <input type="radio" class="btn-check" id="angle-true" value="true" bind:group={angleMode} />
             <label class="btn btn-outline-secondary" for="angle-true">True</label>

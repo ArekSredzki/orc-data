@@ -190,6 +190,13 @@ function onWindowPointerdown(event) {
 </span>
 
 <style>
+/* The icon is an affordance for a panel that cannot be opened on paper. */
+@media print {
+    .help-icon {
+        display: none;
+    }
+}
+
 .help {
     /* Keeps the icon on the same line as the label it annotates. */
     white-space: nowrap;

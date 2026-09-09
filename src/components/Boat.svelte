@@ -185,21 +185,34 @@ let plot;
             {/if}
 
             <PolarTable vpp={boat.vpp} hover={plot?.hover} />
-            <h5>
-                Polar (CSV)<Help term="polar-csv" />
-                <small>
-                    <label>
-                        <input type="checkbox" bind:checked={extended} />
-                        <small>Extended CSV (including beat and run angles)</small>
-                    </label>
-                </small>
-            </h5>
-            <textarea class:extended>{polarExport(boat, extended)} </textarea>
+            <div class="d-print-none">
+                <h5>
+                    Polar (CSV)<Help term="polar-csv" />
+                    <small>
+                        <label>
+                            <input type="checkbox" bind:checked={extended} />
+                            <small>Extended CSV (including beat and run angles)</small>
+                        </label>
+                    </small>
+                </h5>
+                <textarea class:extended>{polarExport(boat, extended)} </textarea>
+            </div>
         </div>
     </div>
 {/if}
 
 <style>
+/* Printing the boat page is not the printable-polar feature (that lives on #print-…), but
+   it should at least not waste a page on browser chrome and an editable textarea. */
+@media print {
+    .row {
+        display: block;
+    }
+    th {
+        color: #000;
+    }
+}
+
 th {
     color: #777;
     font-weight: 400;
