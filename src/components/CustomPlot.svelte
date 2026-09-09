@@ -1,4 +1,5 @@
 <script>
+import { pageTitle } from '../boat-meta.js';
 import PolarPlot from './PolarPlot.svelte';
 import { polarImport } from '../polar-csv.js';
 
@@ -56,6 +57,10 @@ $: {
     }
 }
 </script>
+
+<svelte:head>
+    <title>{pageTitle('Plot custom CSV')}</title>
+</svelte:head>
 
 <div class="row">
     <div class="col-sm">

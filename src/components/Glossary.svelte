@@ -1,6 +1,7 @@
 <script>
 import { onMount } from 'svelte';
 
+import { pageTitle } from '../boat-meta.js';
 import { GLOSSARY, GLOSSARY_GROUPS, glossaryAnchor } from '../glossary.js';
 
 const PREFIX = 'glossary-';
@@ -26,6 +27,10 @@ onMount(() => {
     return () => window.removeEventListener('hashchange', scrollToHash, false);
 });
 </script>
+
+<svelte:head>
+    <title>{pageTitle('Glossary')}</title>
+</svelte:head>
 
 <div class="container glossary">
     <div class="row">

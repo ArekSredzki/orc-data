@@ -1,6 +1,6 @@
 <script>
 import PolarTable from './PolarTable.svelte';
-import { DATA_YEAR, issueDate } from '../boat-meta.js';
+import { DATA_YEAR, formatSailnumber, issueDate } from '../boat-meta.js';
 import { polarCard, polarSheet } from '../polar-rows.js';
 
 export let boat;
@@ -13,9 +13,14 @@ export let options = {};
 export let fontPt = 11;
 // 'mono' | 'tint' | 'screen' — see the header cell styling below.
 export let colour = 'mono';
-// Certificate detail (dimensions, ratings) in the header. Off by default: none of it is
-// something you act on while sailing, and it competes with the numbers that are.
+// Everything that is not the boat's identity or the numbers themselves is off by default.
+// A printed polar is read at a glance on the water, and every line of prose above or below
+// the table is a line competing with the figures.
+//
+// `details` adds the type, the sails the VPP assumed, the dimensions and the ratings;
+// `notes` adds the units legend, the prediction caveat and the certificate provenance.
 export let details = false;
+export let notes = false;
 
 $: sheet = layout === 'sheet' ? polarSheet(boat.vpp, options) : null;
 $: card = layout === 'card' ? polarCard(boat.vpp, options) : null;
@@ -57,17 +62,17 @@ $: downwindSail =
     <header>
         <div class="identity">
             <div class="name">{boat.name || 'Name unknown'}</div>
-            <div class="sail">{boat.sailnumber}</div>
+            <div class="sail">{formatSailnumber(boat.sailnumber)}</div>
         </div>
-        <div class="meta">
-            {#if boat.boat.type}<span>{boat.boat.type}</span>{/if}
-            <span>{downwindSail}</span>
-            {#if details}
+        {#if details}
+            <div class="meta">
+                {#if boat.boat.type}<span>{boat.boat.type}</span>{/if}
+                <span>{downwindSail}</span>
                 <span>LOA {sizes.loa} m · {sizes.displacement} kg</span>
                 {#if boat.rating?.gph != null}<span>GPH {boat.rating.gph.toFixed(1)}</span>{/if}
                 {#if boat.rating?.osn != null}<span>Offshore {boat.rating.osn.toFixed(1)}</span>{/if}
-            {/if}
-        </div>
+            </div>
+        {/if}
     </header>
 
     {#if layout === 'page'}
@@ -124,7 +129,11 @@ $: downwindSail =
                 </tr>
                 <tr>
                     {#each card.columns as column, i}
-                        <th class="column-head" class:group-start={i > 0 && column.group !== card.columns[i - 1].group}>
+                        <th
+                            class="column-head"
+                            class:speed={column.key.endsWith('-bsp')}
+                            class:group-start={i > 0 && column.group !== card.columns[i - 1].group}
+                            class:group-end={i < card.columns.length - 1 && column.group !== card.columns[i + 1].group}>
                             {column.label}
                         </th>
                     {/each}
@@ -137,8 +146,11 @@ $: downwindSail =
                         {#each row.values as value, column}
                             <td
                                 class={colour === 'screen' ? `tws-${row.tws}` : ''}
+                                class:speed={card.columns[column].key.endsWith('-bsp')}
                                 class:group-start={column > 0 &&
-                                    card.columns[column].group !== card.columns[column - 1].group}>{value}</td>
+                                    card.columns[column].group !== card.columns[column - 1].group}
+                                class:group-end={column < card.columns.length - 1 &&
+                                    card.columns[column].group !== card.columns[column + 1].group}>{value}</td>
                         {/each}
                     </tr>
                 {/each}
@@ -146,23 +158,25 @@ $: downwindSail =
         </table>
     {/if}
 
-    <footer>
-        <div class="legend">
-            Wind and boat speed in knots · angles in degrees · TWA true wind angle, AWA apparent{#if layout === 'card'}
-                · DDW = optimum is dead downwind{/if}
-        </div>
-        <div class="caveat">
-            VPP predictions, not measurements — expect less in waves, short-handed, or with a dirty bottom.
-        </div>
-        <div class="source">
-            {#if issued}
-                ORC certificate issued {issued}
-            {:else}
-                ORC {DATA_YEAR} data set — certificate date not published
-            {/if}
-            · orc.org
-        </div>
-    </footer>
+    {#if notes}
+        <footer>
+            <div class="legend">
+                Wind and boat speed in knots · angles in degrees · TWA true wind angle, AWA apparent{#if layout === 'card'}
+                    · DDW = optimum is dead downwind{/if}
+            </div>
+            <div class="caveat">
+                VPP predictions, not measurements — expect less in waves, short-handed, or with a dirty bottom.
+            </div>
+            <div class="source">
+                {#if issued}
+                    ORC certificate issued {issued}
+                {:else}
+                    ORC {DATA_YEAR} data set — certificate date not published
+                {/if}
+                · orc.org
+            </div>
+        </footer>
+    {/if}
 </div>
 
 <style>
@@ -248,6 +262,7 @@ table {
 th,
 td {
     padding: 0.28em 0.3em;
+    /* The card is short of height, not width, so it spends less of it between rows. */
     text-align: right;
     font-weight: 400;
     /* Absolute floor: an em-scaled hairline goes below the reproduction limit on a small
@@ -329,14 +344,41 @@ tbody:last-of-type tr:last-child td {
 .column-head {
     font-size: 0.85em;
 }
-/* A gutter between the upwind and downwind halves, so a row cannot be read across the
-   join by accident. */
+/* A gutter between the upwind and downwind halves, so a row cannot be read across the join
+   by accident. The rule wants equal air on both sides — hung off the right-aligned cell on
+   its own it lands against the downwind numbers instead of between the two groups. */
 .group-start {
     border-left: 0.75pt solid #000;
-    padding-left: 0.6em;
+    padding-left: 0.7em;
+}
+.group-end {
+    padding-right: 0.7em;
+}
+
+/* Light rules inside each block: the angle you steer, the angle the masthead shows and the
+   speed you should be making are three different quantities, and at a glance in a seaway
+   the eye needs a seam between them. Kept far lighter than the rule that divides upwind
+   from downwind, which is the division that must never be misread. */
+.is-card tbody td + td,
+.is-card thead .column-head + .column-head {
+    border-left: max(0.3pt, 0.02em) solid #dcdcdc;
+}
+.is-card .group-start {
+    border-left: 0.75pt solid #000;
+}
+
+/* Boat speed is the number you are steering to: the angle gets you pointed, this tells you
+   whether it is working. It carries the weight, and the colour when there is colour. */
+.speed {
+    font-weight: 700;
 }
 .is-card tbody .tws {
     font-size: 1.15em;
+}
+.is-card th,
+.is-card td {
+    padding-top: 0.14em;
+    padding-bottom: 0.14em;
 }
 
 footer {
@@ -345,6 +387,9 @@ footer {
     font-size: 0.55em;
     line-height: 1.4;
     color: #666;
+}
+.legend {
+    font-size: 0.85em;
 }
 .caveat {
     color: #333;

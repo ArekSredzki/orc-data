@@ -1,16 +1,7 @@
 <script>
-export let number;
+import { formatSailnumber } from '../boat-meta.js';
 
-function formatNumber(sailnumber) {
-    if (!sailnumber) {
-        return;
-    }
-    if (sailnumber.substr(0, 3) == sailnumber.substr(4, 3)) {
-        return sailnumber.substr(4);
-    } else {
-        return sailnumber;
-    }
-}
+export let number;
 </script>
 
-<span class="sailnumber">{formatNumber(number)}</span>
+<span class="sailnumber">{formatSailnumber(number)}</span>

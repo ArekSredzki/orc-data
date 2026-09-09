@@ -7,6 +7,7 @@ import LineLegend from './LineLegend.svelte';
 import PolarPlot from './PolarPlot.svelte';
 import Sailnumber from './Sailnumber.svelte';
 import { getBoat } from '../api.js';
+import { pageTitle } from '../boat-meta.js';
 import { round } from '../util.js';
 
 let sailnumberA = undefined;
@@ -94,6 +95,10 @@ const rows = [
 // it is empty.
 $: visibleRows = rows.filter((row) => row.separator || [boatA, boatB].some((boat) => row.value(boat)));
 </script>
+
+<svelte:head>
+    <title>{pageTitle('Compare boats')}</title>
+</svelte:head>
 
 <div class="container-fluid">
     <div class="row p-2 row-cols-2">

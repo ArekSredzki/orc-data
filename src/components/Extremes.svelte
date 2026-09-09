@@ -1,6 +1,7 @@
 <script>
 import { onMount } from 'svelte';
 
+import { pageTitle } from '../boat-meta.js';
 import Help from './Help.svelte';
 import PolarPlot from './PolarPlot.svelte';
 import Sailnumber from './Sailnumber.svelte';
@@ -29,6 +30,10 @@ const labels = {
     max_draft: { text: 'Greatest draft (m)' },
 };
 </script>
+
+<svelte:head>
+    <title>{pageTitle()}</title>
+</svelte:head>
 
 <div class="container-fluid">
     <div class="row gx-5">

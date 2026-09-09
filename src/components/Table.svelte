@@ -1,5 +1,6 @@
 <script>
 import { index } from '../api.js';
+import { formatSailnumber, pageTitle } from '../boat-meta.js';
 export let q;
 
 $: window.location.hash = `type-${encodeURIComponent(q)}`;
@@ -9,6 +10,10 @@ function filterByType(boats, q) {
 }
 $: boats = filterByType($index, q);
 </script>
+
+<svelte:head>
+    <title>{pageTitle(q ? `Boats of type ${q}` : 'Boats by type')}</title>
+</svelte:head>
 
 <div class="container">
     Boats with type containing: <input type="text" bind:value={q} />
@@ -20,7 +25,7 @@ $: boats = filterByType($index, q);
                 <tbody>
                     {#each boats as { sailnumber, name, type }}
                         <tr>
-                            <td><a href="#{sailnumber}">{sailnumber}</a></td>
+                            <td><a href="#{sailnumber}">{formatSailnumber(sailnumber)}</a></td>
                             <td>{name}</td>
                             <td>{type}</td>
                         </tr>

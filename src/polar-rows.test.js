@@ -139,14 +139,24 @@ describe('polarCard', () => {
         const twa = card.columns.findIndex((column) => column.key === 'dn-twa');
 
         // 176.6, 179 and 179 at 14, 16 and 20 kt.
-        expect(card.rows.map((row) => row.values[twa])).toEqual(['148', '153', '151', '161', 'DDW', 'DDW', 'DDW']);
+        expect(card.rows.map((row) => row.values[twa])).toEqual([
+            '148.4',
+            '152.9',
+            '151.1',
+            '161.0',
+            'DDW',
+            'DDW',
+            'DDW',
+        ]);
     });
 
-    it('keeps whole degrees and one decimal of boat speed', () => {
+    it('prints the precision the certificate publishes, not a rounded version of it', () => {
         const card = polarCard(VPP);
         const bsp = card.columns.findIndex((column) => column.key === 'up-bsp');
+        const twa = card.columns.findIndex((column) => column.key === 'up-twa');
 
-        expect(card.rows[0].values[bsp]).toBe(vmg2sog(43.8, 2.76).toFixed(1));
+        expect(card.rows[0].values[bsp]).toBe(vmg2sog(43.8, 2.76).toFixed(2));
+        expect(card.rows[0].values[twa]).toBe('43.8');
     });
 
     it('adds VMG columns on request', () => {

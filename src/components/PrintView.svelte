@@ -3,6 +3,7 @@ import { onMount } from 'svelte';
 
 import PolarCard from './PolarCard.svelte';
 import { getBoat } from '../api.js';
+import { boatSubject, pageTitle } from '../boat-meta.js';
 import { cardFontSizePt, polarCard, polarSheet, sheetRowCount, widestValueEm } from '../polar-rows.js';
 import {
     CARD_MARGIN_MM,
@@ -38,6 +39,7 @@ let options = {
     beatRun: true,
     fullRange: false,
     details: false,
+    notes: false,
     colour: 'mono',
 };
 
@@ -83,7 +85,7 @@ function optionsFromHash() {
     for (const [key, value] of params) {
         if (key === 'perSheet') {
             parsed[key] = Number(value);
-        } else if (['awa', 'vmg', 'beatRun', 'fullRange', 'details'].includes(key)) {
+        } else if (['awa', 'vmg', 'beatRun', 'fullRange', 'details', 'notes'].includes(key)) {
             parsed[key] = value === '1';
         } else {
             parsed[key] = value;
@@ -108,6 +110,7 @@ function persist(options, perSheet) {
         beatRun: options.beatRun ? '1' : '0',
         fullRange: options.fullRange ? '1' : '0',
         details: options.details ? '1' : '0',
+        notes: options.notes ? '1' : '0',
         colour: options.colour,
     });
     window.history.replaceState(null, '', `#print-${sailnumber}?${params}`);
@@ -164,6 +167,8 @@ $: fit = model
           bodyRows,
           valueEm,
           layout: options.layout,
+          details: options.details,
+          notes: options.notes,
       })
     : { pt: 10, allowed: true };
 
@@ -180,6 +185,8 @@ $: allowedPerSheet = model
               bodyRows,
               valueEm,
               layout: options.layout,
+              details: options.details,
+              notes: options.notes,
           }).allowed;
       })
     : PER_SHEET;
@@ -221,6 +228,10 @@ $: pagePx = page.w / MM_PER_PX;
 $: zoom = Math.max(0.1, Math.min(1, (groundWidth - 48) / pagePx));
 $: previewHeight = (page.h / MM_PER_PX) * zoom;
 </script>
+
+<svelte:head>
+    <title>{boat ? pageTitle(`${boatSubject(boat)} (print)`) : pageTitle('Print polar')}</title>
+</svelte:head>
 
 {#if error}
     <div class="container p-4">
@@ -277,7 +288,8 @@ $: previewHeight = (page.h / MM_PER_PX) * zoom;
                 {:else if options.layout === 'card'}
                     <label><input type="checkbox" bind:checked={options.fullRange} /> All wind speeds</label>
                 {/if}
-                <label><input type="checkbox" bind:checked={options.details} /> Dimensions and ratings</label>
+                <label><input type="checkbox" bind:checked={options.details} /> Boat details</label>
+                <label><input type="checkbox" bind:checked={options.notes} /> Units and caveat</label>
             </fieldset>
 
             <fieldset>
@@ -313,7 +325,8 @@ $: previewHeight = (page.h / MM_PER_PX) * zoom;
                                     options={rowOptions}
                                     fontPt={fit.pt}
                                     colour={options.colour}
-                                    details={options.details} />
+                                    details={options.details}
+                                    notes={options.notes} />
                             </div>
                         {/each}
                         {#each guideCols as left}

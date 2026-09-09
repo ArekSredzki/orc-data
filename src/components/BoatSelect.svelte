@@ -2,11 +2,12 @@
 import Svelecte from 'svelecte';
 
 import { index } from '../api.js';
+import { formatSailnumber } from '../boat-meta.js';
 
 export let sailnumber = undefined;
 
 function renderer({ sailnumber, name, type }) {
-    return `<span class="sailnumber">${sailnumber}</span> ${name} (${type})`;
+    return `<span class="sailnumber">${formatSailnumber(sailnumber)}</span> ${name} (${type})`;
 }
 </script>
 

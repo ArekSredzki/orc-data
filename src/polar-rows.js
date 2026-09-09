@@ -194,15 +194,16 @@ function cell(text, point) {
 
 /**
  * The cockpit card: wind speed down the side, upwind and downwind targets side by side.
- * Angles default to whole degrees here — nobody steers to a tenth — but the format stays
- * consistent within the card rather than mixing precisions.
+ * Printed at the precision the certificate publishes, the same as the sheet and the site's
+ * own table: rounding a target speed to 4.9 loses the difference between 4.85 and 4.94,
+ * which is most of what you are steering to.
  */
 export function polarCard(vpp, options = {}) {
     const {
         awa = true,
         vmg = false,
-        decimals = 1,
-        angleDecimals = 0,
+        decimals = 2,
+        angleDecimals = 1,
         range = CARD_SPEED_RANGE,
         ddwThreshold = DDW_THRESHOLD,
     } = options;
@@ -254,11 +255,27 @@ const MM_PER_PT = 0.352778;
 const DIGIT_EM = 0.556;
 const POINT_EM = 0.278;
 const CELL_PADDING_EM = 0.7;
+// Extra air either side of the rule that separates the upwind and downwind blocks.
+const GROUP_GUTTER_EM = 0.8;
 
 // Advance widths in the Helvetica/Arial/Liberation Sans stack the card is set in. Only the
 // characters that can appear in a data cell are listed; "DDW" is the reason this exists at
 // all, being half again as wide as the three digits it replaces.
-const GLYPH_EM = { D: 0.722, W: 0.944, '.': POINT_EM, '—': 1.0 };
+const GLYPH_EM = {
+    A: 0.667,
+    B: 0.667,
+    D: 0.722,
+    T: 0.611,
+    V: 0.667,
+    W: 0.944,
+    a: 0.556,
+    o: 0.556,
+    t: 0.278,
+    G: 0.778,
+    M: 0.833,
+    '.': POINT_EM,
+    '—': 1.0,
+};
 // The site's own table keeps a degree sign in every angle cell, which the print layouts
 // move to the header. It is only worth counting where it is actually printed.
 const DEGREE_EM = 0.4;
@@ -266,16 +283,20 @@ const glyphEm = (character) => GLYPH_EM[character] ?? DIGIT_EM;
 const textEm = (text) => [...text].reduce((total, character) => total + glyphEm(character), 0);
 
 /**
- * Width of the widest value in a model, in ems. The columns are laid out to a fixed, equal
- * width, so it is the widest cell anywhere that decides how large the type can be — and
- * getting this from the values rather than from an assumed digit count is what keeps "DDW"
- * from running into the column beside it.
+ * Width of the widest thing that has to fit in a column, in ems. The columns are laid out
+ * to a fixed, equal width, so it is the widest cell anywhere that decides how large the
+ * type can be.
+ *
+ * Both the values and the column headings count. "DDW" is wider than the three digits it
+ * replaces, and on the card the headings are wider still — "AWA" and "Boat" are set in
+ * letters, which run wider than the tabular figures under them.
  */
 export function widestValueEm(model) {
     const values = model.blocks
         ? model.blocks.flatMap((block) => block.rows.flatMap((row) => row.values.map((value) => value.text)))
         : model.rows.flatMap((row) => row.values);
-    return values.reduce((widest, text) => Math.max(widest, textEm(text)), 0);
+    const headings = model.columns?.map ? model.columns.map((column) => column.label) : [];
+    return [...values, ...headings].reduce((widest, text) => Math.max(widest, textEm(text)), 0);
 }
 
 // Data type below this is not readable on a laminated card at arm's length in daylight,
@@ -313,10 +334,15 @@ const CEILING = {
 // the footer — in ems of body type, so it scales with the card the way the rest does.
 // These are measured from the rendered card rather than guessed; if PolarCard's header or
 // padding changes materially, re-measure them.
-const OVERHEAD_EM = { sheet: 8.0, card: 10.5, page: 8.0 };
+// The identity line and the column headers, which every layout always carries.
+const OVERHEAD_EM = { sheet: 5.3, card: 7.1, page: 5.3 };
+// Added only when the optional blocks are printed: the detail lines under the boat's name,
+// and the footer's legend, caveat and provenance.
+const DETAIL_EM = { sheet: 2.0, card: 1.7, page: 2.0 };
+const FOOTER_EM = { sheet: 2.7, card: 3.4, page: 2.7 };
 // Height of one body row, likewise measured: cell padding plus the line box, with the
 // card's larger wind-speed stub setting the pitch there.
-const ROW_PITCH_EM = { sheet: 2.15, card: 2.45, page: 2.3 };
+const ROW_PITCH_EM = { sheet: 2.15, card: 2.1, page: 2.3 };
 // Row-label column: "Beat angle (TWA)" is the widest label on the sheet, but it is set
 // smaller than the data and abbreviated in print.
 // The page layout keeps the site's full row labels ("Beat angle (TWA)"), which is most of
@@ -345,14 +371,20 @@ export function cardFontSizePt({
     layout = 'sheet',
     marginMm = 5,
     valueEm = null,
+    details = false,
+    notes = false,
 }) {
     // Widest data cell, measured from the values when the caller has a model to hand and
     // otherwise assumed: "10.56" on the sheet, "148" on the card.
     const dataEm =
         (valueEm ?? (layout === 'card' ? emForChars(3, 0) : emForChars(4, 1))) + (layout === 'page' ? DEGREE_EM : 0);
     const columnEm = dataEm + CELL_PADDING_EM;
-    const widthEm = STUB_EM[layout] + columns * columnEm;
-    const heightEm = bodyRows * ROW_PITCH_EM[layout] + OVERHEAD_EM[layout];
+    const widthEm = STUB_EM[layout] + columns * columnEm + (layout === 'card' ? GROUP_GUTTER_EM : 0);
+    const heightEm =
+        bodyRows * ROW_PITCH_EM[layout] +
+        OVERHEAD_EM[layout] +
+        (details ? DETAIL_EM[layout] : 0) +
+        (notes ? FOOTER_EM[layout] : 0);
 
     const usableWmm = cardWmm - 2 * marginMm;
     const usableHmm = cardHmm - 2 * marginMm;

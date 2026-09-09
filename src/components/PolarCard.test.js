@@ -57,23 +57,29 @@ describe('PolarCard, full sheet', () => {
     });
 
     it('says which kite the VPP assumed, because the downwind targets depend on it', () => {
-        render(PolarCard, { boat: BOAT, layout: 'sheet' });
+        render(PolarCard, { boat: BOAT, layout: 'sheet', details: true });
 
         expect(screen.getByText('symmetric spinnaker')).toBeDefined();
     });
 
     it('calls an asymmetric an asymmetric', () => {
         const asym = { ...BOAT, boat: { ...BOAT.boat, sizes: { ...BOAT.boat.sizes, spinnaker: 0, spinnaker_asym: 143.6 } } };
-        render(PolarCard, { boat: asym, layout: 'sheet' });
+        render(PolarCard, { boat: asym, layout: 'sheet', details: true });
 
         expect(screen.getByText('asymmetric spinnaker')).toBeDefined();
     });
 
-    it('leaves the dimensions and ratings out by default', () => {
+    it('prints nothing but the identity and the numbers by default', () => {
         render(PolarCard, { boat: BOAT, layout: 'sheet' });
 
+        // Everything else — type, sails, dimensions, ratings, units, caveat, provenance —
+        // is a line competing with the figures, so none of it prints unless it is asked for.
         expect(screen.queryByText(/GPH/)).toBeNull();
         expect(screen.queryByText(/LOA/)).toBeNull();
+        expect(screen.queryByText(/spinnaker/)).toBeNull();
+        expect(screen.queryByText(/VPP predictions/)).toBeNull();
+        expect(screen.queryByText(/knots/)).toBeNull();
+        expect(screen.getByText('MARY LOU')).toBeDefined();
     });
 
     it('adds them when they are asked for', () => {
@@ -117,20 +123,20 @@ describe('PolarCard, targets card', () => {
 describe('PolarCard provenance', () => {
     it('prints the certificate date when the certificate has one', () => {
         const dated = { ...BOAT, boat: { ...BOAT.boat, issue_date: '2026-04-12T00:00:00' } };
-        render(PolarCard, { boat: dated, layout: 'card' });
+        render(PolarCard, { boat: dated, layout: 'card', notes: true });
 
         expect(screen.getByText(/ORC certificate issued 2026-04-12/)).toBeDefined();
     });
 
     it('falls back to the data-set year, which is the common case', () => {
         // Roughly 60% of the certificates in this data set carry no issue date at all.
-        render(PolarCard, { boat: BOAT, layout: 'card' });
+        render(PolarCard, { boat: BOAT, layout: 'card', notes: true });
 
         expect(screen.getByText(new RegExp(`ORC ${DATA_YEAR} data set`))).toBeDefined();
     });
 
-    it('carries the caveat that these are predictions', () => {
-        render(PolarCard, { boat: BOAT, layout: 'card' });
+    it('carries the caveat that these are predictions when the notes are on', () => {
+        render(PolarCard, { boat: BOAT, layout: 'card', notes: true });
 
         expect(screen.getByText(/VPP predictions, not measurements/)).toBeDefined();
     });
@@ -139,6 +145,6 @@ describe('PolarCard provenance', () => {
         render(PolarCard, { boat: { ...BOAT, name: '' }, layout: 'card' });
 
         expect(screen.getByText('Name unknown')).toBeDefined();
-        expect(screen.getByText('EST/EST688')).toBeDefined();
+        expect(screen.getByText('EST 688')).toBeDefined();
     });
 });

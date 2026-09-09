@@ -13,6 +13,37 @@ export const DATA_YEAR = 2026;
 
 export const DIVISIONS = { C: 'Cruiser/Racer', S: 'Sportboat', R: 'Racer' };
 
+export const SITE_NAME = 'ORC Sailboat Data';
+
+// Sail numbers arrive from the parser as "CAN/CAN1995": a country folder joined to the
+// number, which for most boats repeats that country. Read out, it is "CAN 1995" — so the
+// slash goes, and the country is said once.
+export function formatSailnumber(sailnumber) {
+    if (!sailnumber) {
+        return '';
+    }
+    const [country, ...rest] = String(sailnumber).split('/');
+    const number = rest.join('/');
+    if (!number) {
+        return country;
+    }
+    return `${country} ${number.startsWith(country) ? number.slice(country.length) : number}`.trim();
+}
+
+// Document titles. A tab reading "ORC Sailboat Data" says nothing about which of the six
+// boats you opened it for, and these pages get kept open side by side.
+export function pageTitle(subject) {
+    return subject ? `ORC Data - ${subject}` : SITE_NAME;
+}
+
+export function boatSubject(boat) {
+    if (!boat) {
+        return '';
+    }
+    const number = formatSailnumber(boat.sailnumber);
+    return boat.name ? `${boat.name} ${number}` : number;
+}
+
 export function sails(sizes) {
     const list = [
         { label: 'Main', value: sizes.main },

@@ -14,6 +14,11 @@ import Table from './components/Table.svelte';
 export let route = 'extremes';
 export let sailnumber = null;
 
+// The boat the hash names, kept separately from `sailnumber` because that one is bound into
+// BoatSelect and svelecte empties it while its option list loads — which is why the navbar's
+// Compare link has always pointed at "#compare-" on a boat page.
+let boatSailnumber = null;
+
 // A route is custom if it starts with one of the route prefixes. Sail numbers always begin
 // with an uppercase country code, so none of these can collide with one.
 const prefixes = ['extremes', 'customplot', 'compare', 'type', 'random', 'glossary', 'print'];
@@ -25,8 +30,10 @@ function onhashchange() {
 
     if (isCustomRoute(route)) {
         sailnumber = null;
+        boatSailnumber = null;
     } else {
         sailnumber = route;
+        boatSailnumber = route;
         route = 'boat';
     }
 }
@@ -73,7 +80,14 @@ $: printSailnumber = route.startsWith('print-') ? route.substring('print-'.lengt
                         <BoatSelect bind:sailnumber />
                     </li>
                 {/if}
-                <li class="nav-item"><a href="#compare-{sailnumber || ''}" class="nav-link">Compare boats</a></li>
+                {#if boatSailnumber}
+                    <li class="nav-item">
+                        <a href="#print-{boatSailnumber}" class="nav-link print-link">Print polar</a>
+                    </li>
+                {/if}
+                <li class="nav-item">
+                    <a href="#compare-{boatSailnumber || sailnumber || ''}" class="nav-link">Compare boats</a>
+                </li>
                 <li class="nav-item"><a href="#customplot" class="nav-link">Plot custom CSV</a></li>
                 <li class="nav-item"><a href="#glossary" class="nav-link">Glossary</a></li>
             </ul>
@@ -109,3 +123,11 @@ $: printSailnumber = route.startsWith('print-') ? route.substring('print-'.lengt
 {:else}
     <Boat {sailnumber} />
 {/if}
+
+<style>
+/* The print view is the one action on a boat page you may want at any scroll position, so
+   it sits in the navbar too and is weighted to stand out from the section links. */
+.print-link {
+    font-weight: 600;
+}
+</style>

@@ -88,7 +88,7 @@ const CHOICES = {
     orientation: ORIENTATIONS,
     colour: INKS,
 };
-const FLAGS = ['awa', 'vmg', 'beatRun', 'fullRange', 'details'];
+const FLAGS = ['awa', 'vmg', 'beatRun', 'fullRange', 'details', 'notes'];
 
 /**
  * Fold untrusted option values into a set of defaults, keeping only values the UI itself
