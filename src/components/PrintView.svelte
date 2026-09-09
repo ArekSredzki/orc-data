@@ -14,6 +14,7 @@ import {
     pageRule,
     PER_SHEET,
     pageSize,
+    printOptions,
 } from '../print-paper.js';
 
 // One-way from the router. Binding it would let App's own reactive statement rewrite the
@@ -39,7 +40,9 @@ let options = {
     colour: 'mono',
 };
 
-// The hash is the shareable form, so it wins over whatever this browser used last.
+// The hash is the shareable form, so it wins over whatever this browser used last. Both
+// are untrusted — one is a URL, the other is whatever is sitting in this browser's storage
+// — so they are filtered against the values the UI actually offers.
 onMount(() => {
     let stored;
     try {
@@ -47,9 +50,25 @@ onMount(() => {
     } catch {
         stored = null;
     }
-    options = { ...options, ...(stored || {}), ...optionsFromHash() };
+    options = printOptions(options, stored, optionsFromHash());
     ready = true;
 });
+
+// The @page rule cannot be written in markup: a <style> tag inside <svelte:head> is taken
+// as component CSS, and custom properties do not resolve in the page context, so the rule
+// has to be literal text. Setting textContent rather than rendering {@html} means the
+// paper and orientation can never be parsed as markup, whatever they contain.
+onMount(() => {
+    const element = document.createElement('style');
+    document.head.appendChild(element);
+    pageStyle = element;
+    return () => element.remove();
+});
+
+let pageStyle;
+$: if (pageStyle) {
+    pageStyle.textContent = pageRule(options.paper, options.orientation);
+}
 
 let ready = false;
 
@@ -200,11 +219,6 @@ $: pagePx = page.w / MM_PER_PX;
 $: zoom = Math.max(0.1, Math.min(1, (groundWidth - 48) / pagePx));
 $: previewHeight = (page.h / MM_PER_PX) * zoom;
 </script>
-
-<svelte:head>
-    <!-- Written as literal text: custom properties do not resolve inside @page. -->
-    {@html `<style>${pageRule(options.paper, options.orientation)}</style>`}
-</svelte:head>
 
 {#if error}
     <div class="container p-4">

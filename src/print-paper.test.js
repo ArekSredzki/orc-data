@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 
-import { cardGeometry, defaultPaper, PAGE_MARGIN_MM, pageRule, pageSize } from './print-paper.js';
+import { cardGeometry, defaultPaper, PAGE_MARGIN_MM, pageRule, pageSize, printOptions } from './print-paper.js';
 
 describe('pageSize', () => {
     it('swaps the axes in landscape', () => {
@@ -49,6 +49,60 @@ describe('cardGeometry', () => {
 describe('pageRule', () => {
     it('names the paper and orientation literally, because custom properties do not resolve in @page', () => {
         expect(pageRule('a4', 'landscape')).toBe('@page { size: A4 landscape; margin: 8mm; }');
+    });
+});
+
+describe('printOptions', () => {
+    const DEFAULTS = {
+        layout: 'card',
+        paper: 'a4',
+        orientation: 'portrait',
+        perSheet: 2,
+        awa: true,
+        vmg: false,
+        beatRun: true,
+        fullRange: false,
+        colour: 'mono',
+    };
+
+    it('takes the values the toolbar offers', () => {
+        const options = printOptions(DEFAULTS, { layout: 'sheet', paper: 'letter', perSheet: 4, colour: 'tint' });
+
+        expect(options).toMatchObject({ layout: 'sheet', paper: 'letter', perSheet: 4, colour: 'tint' });
+    });
+
+    it('applies sources in order, so the URL wins over stored preferences', () => {
+        const options = printOptions(DEFAULTS, { paper: 'letter' }, { paper: 'a5' });
+
+        expect(options.paper).toBe('a5');
+    });
+
+    it('drops anything it does not recognise rather than passing it along', () => {
+        // These values reach a <style> element and a property lookup; the route takes them
+        // from the URL, and those links get shared around.
+        const options = printOptions(DEFAULTS, {
+            orientation: 'portrait; } </style><script>alert(1)</script>',
+            paper: '__proto__',
+            perSheet: 999,
+            colour: 'rainbow',
+            unexpected: 'ignored',
+        });
+
+        expect(options.orientation).toBe('portrait');
+        expect(options.paper).toBe('a4');
+        expect(options.perSheet).toBe(2);
+        expect(options.colour).toBe('mono');
+        expect(options.unexpected).toBeUndefined();
+    });
+
+    it('keeps a hostile value out of the @page rule it feeds', () => {
+        const options = printOptions(DEFAULTS, { orientation: '</style><script>alert(1)</script>' });
+
+        expect(pageRule(options.paper, options.orientation)).toBe('@page { size: A4 portrait; margin: 8mm; }');
+    });
+
+    it('survives a null or corrupt source', () => {
+        expect(printOptions(DEFAULTS, null, undefined)).toEqual(DEFAULTS);
     });
 });
 

@@ -72,6 +72,47 @@ export function cardGeometry(paper, orientation = 'portrait', perSheet = 1) {
 
 // `@page` has to be written as literal text: custom properties do not resolve in the page
 // context, so the rule is rebuilt whenever the paper changes rather than parameterised.
+// Both values are interpolated into a stylesheet, so both must have come through
+// `printOptions()` — never straight off the URL.
 export function pageRule(paper, orientation = 'portrait') {
     return `@page { size: ${PAPERS[paper].css} ${orientation}; margin: ${PAGE_MARGIN_MM}mm; }`;
+}
+
+export const ORIENTATIONS = ['portrait', 'landscape'];
+export const LAYOUTS = ['card', 'sheet'];
+export const INKS = ['mono', 'tint', 'screen'];
+
+const CHOICES = {
+    layout: LAYOUTS,
+    paper: Object.keys(PAPERS),
+    orientation: ORIENTATIONS,
+    colour: INKS,
+};
+const FLAGS = ['awa', 'vmg', 'beatRun', 'fullRange'];
+
+/**
+ * Fold untrusted option values into a set of defaults, keeping only values the UI itself
+ * offers. The print view takes its options from the URL — that is the point of the route,
+ * since the links get shared — and those values reach a `<style>` element and property
+ * lookups, so anything unrecognised is dropped rather than passed along.
+ */
+export function printOptions(defaults, ...sources) {
+    const options = { ...defaults };
+    for (const source of sources) {
+        for (const [key, value] of Object.entries(source || {})) {
+            if (CHOICES[key]) {
+                if (CHOICES[key].includes(value)) {
+                    options[key] = value;
+                }
+            } else if (FLAGS.includes(key)) {
+                options[key] = Boolean(value);
+            } else if (key === 'perSheet') {
+                const count = Number(value);
+                if (PER_SHEET.includes(count)) {
+                    options[key] = count;
+                }
+            }
+        }
+    }
+    return options;
 }
