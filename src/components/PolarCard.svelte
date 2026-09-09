@@ -130,7 +130,14 @@ $: downwindSail =
             <thead>
                 <tr>
                     <th class="stub" rowspan="2">TWS</th>
-                    {#each cardGroups as group}
+                    {#each cardGroups as group, i}
+                        <!-- The gutter is a column of the table, so this row has to account for
+                             it too. Without it the row spanned one column fewer than the table
+                             has: the group labels sat a column to the left of the figures they
+                             head, and the rule under "Downwind" stopped short of the last one. -->
+                        {#if i > 0}
+                            <th class="gutter"></th>
+                        {/if}
                         <th colspan={group.span} class="group group-{group.group}">{group.label}</th>
                     {/each}
                 </tr>
