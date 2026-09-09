@@ -23,12 +23,18 @@ let cache = {};
 export function getBoat(sailnumber) {
     if (sailnumber in cache) {
         return new Promise((resolve) => resolve(cache[sailnumber]));
-    } else {
-        return fetch(`data/${sailnumber}.json`).then((response) => {
-            cache[sailnumber] = response.json();
-            return cache[sailnumber];
-        });
     }
+    // A static host answers an unknown sail number with an HTML 404 page, which parses as
+    // neither JSON nor a boat. Rejecting here rather than caching the rejection matters for
+    // links people keep: #print-… URLs get mailed around and outlive a yearly data refresh,
+    // and a cached rejection would keep the page blank for the life of the tab.
+    return fetch(`data/${sailnumber}.json`).then((response) => {
+        if (!response.ok) {
+            throw new Error(`No certificate for ${sailnumber} (${response.status})`);
+        }
+        cache[sailnumber] = response.json();
+        return cache[sailnumber];
+    });
 }
 
 export function getExtremes() {
