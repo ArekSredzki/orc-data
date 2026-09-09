@@ -2,7 +2,7 @@
     "type": "module",
     "scripts": {
         "format": "prettier --write --plugin prettier-plugin-svelte src/* src/components/* vite.config.js",
-        "build": "vite build",
+        "build": "vite build && node scripts/stamp-assets.mjs",
         "test": "vitest run",
         "dev": "vite",
         "eslint": "eslint -c package.json src/ --fix"
