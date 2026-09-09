@@ -1,9 +1,16 @@
 <script>
 import Help from './Help.svelte';
-import { twa2awa, vmg2sog } from '../util.js';
+import { polarSheet } from '../polar-rows.js';
 
 export let vpp;
 export let hover = () => {};
+
+$: sheet = polarSheet(vpp);
+
+// The degree sign sits on the row label for the wind-angle rows ("52°") and in the cells
+// for the beat and run angles, which is how this table has always read. Boat speeds carry
+// no unit in the cells at all; the column header says knots.
+const cellUnit = (block, row) => (row.unit === '°' && block.key !== 'grid' ? '°' : '');
 
 function clearHighlight() {
     hover(undefined);
@@ -14,76 +21,30 @@ function clearHighlight() {
     <thead>
         <tr>
             <th>Wind velocity<Help term="polar-table" /></th>
-            {#each vpp.speeds as speed}
+            {#each sheet.speeds as speed}
                 <th class="tws-{speed}">{speed}kts</th>
             {/each}
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td>Beat angle (TWA)</td>
-            {#each vpp.beat_angle as angle, i}
-                <td class="tws-{vpp.speeds[i]}">{angle}°</td>
+        {#each sheet.blocks as block}
+            {#each block.rows as row}
+                <tr class={block.key === 'grid' ? `twa-${row.label}` : ''}>
+                    <td>{row.label}{block.key === 'grid' ? row.unit : ''}</td>
+                    {#each row.values as value, i}
+                        {#if value.point}
+                            <!-- svelte-ignore a11y-mouse-events-have-key-events -->
+                            <td
+                                class="tws-{sheet.speeds[i]}"
+                                on:mouseover={() => hover(value.point)}
+                                on:mouseout={clearHighlight}>{value.text}</td>
+                        {:else}
+                            <td class="tws-{sheet.speeds[i]}">{value.text}{cellUnit(block, row)}</td>
+                        {/if}
+                    {/each}
+                </tr>
             {/each}
-        </tr>
-        <tr>
-            <td>Beat angle (AWA)</td>
-            {#each vpp.beat_angle as angle, i}
-                <td class="tws-{vpp.speeds[i]}"
-                    >{twa2awa(angle, vpp.speeds[i], vmg2sog(angle, vpp.beat_vmg[i])).toFixed(1)}°</td>
-            {/each}
-        </tr>
-        <tr>
-            <td>Beat speed</td>
-            {#each vpp.beat_angle as angle, i}
-                <td class="tws-{vpp.speeds[i]}">{vmg2sog(angle, vpp.beat_vmg[i]).toFixed(2)}</td>
-            {/each}
-        </tr>
-        <tr>
-            <td>Beat VMG</td>
-            {#each vpp.beat_vmg as speed, i}
-                <td class="tws-{vpp.speeds[i]}">{speed.toFixed(2)}</td>
-            {/each}
-        </tr>
-        {#each vpp.angles as angle}
-            <tr class="twa-{angle}">
-                <td>{angle}°</td>
-                {#each vpp[angle] as speed, i}
-                    <!-- svelte-ignore a11y-mouse-events-have-key-events -->
-                    <td
-                        class="tws-{vpp.speeds[i]}"
-                        on:mouseover={() => {
-                            hover({ tws: vpp.speeds[i], sog: speed, cog: angle });
-                        }}
-                        on:mouseout={clearHighlight}>{speed.toFixed(2)}</td>
-                {/each}
-            </tr>
         {/each}
-        <tr>
-            <td>Run VMG</td>
-            {#each vpp.run_vmg as vmg, i}
-                <td class="tws-{vpp.speeds[i]}">{vmg.toFixed(2)}</td>
-            {/each}
-        </tr>
-        <tr>
-            <td>Run angle (TWA)</td>
-            {#each vpp.run_angle as angle, i}
-                <td class="tws-{vpp.speeds[i]}">{angle}°</td>
-            {/each}
-        </tr>
-        <tr>
-            <td>Run angle (AWA)</td>
-            {#each vpp.run_angle as angle, i}
-                <td class="tws-{vpp.speeds[i]}"
-                    >{twa2awa(angle, vpp.speeds[i], vmg2sog(angle, -vpp.run_vmg[i])).toFixed(1)}°</td>
-            {/each}
-        </tr>
-        <tr>
-            <td>Run speed</td>
-            {#each vpp.run_angle as angle, i}
-                <td class="tws-{vpp.speeds[i]}">{vmg2sog(angle, -vpp.run_vmg[i]).toFixed(2)}</td>
-            {/each}
-        </tr>
     </tbody>
 </table>
 
