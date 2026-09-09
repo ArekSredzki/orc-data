@@ -184,7 +184,7 @@ describe('cardFontSizePt', () => {
         const roomy = cardFontSizePt({ cardWmm: 400, cardHmm: 500, columns: 7, bodyRows: 6, layout: 'sheet' });
 
         expect(roomy.fitPt).toBeGreaterThan(roomy.pt);
-        expect(roomy.pt).toBe(19);
+        expect(roomy.pt).toBe(22);
     });
 
     it('lets the geometry decide whenever it is the tighter constraint', () => {

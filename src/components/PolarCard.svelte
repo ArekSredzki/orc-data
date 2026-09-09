@@ -116,7 +116,14 @@ $: downwindSail =
         <table>
             <colgroup>
                 <col class="stub-col" />
-                {#each card.columns as column}
+                {#each card.columns as column, i}
+                    {#if i > 0 && column.group !== card.columns[i - 1].group}
+                        <!-- The gutter gets a column of its own. Hung off the data cells as
+                             padding it came out of their width, and a fixed table layout
+                             gives every column the same width, so the two columns either
+                             side of it ended up a hair too narrow for their numbers. -->
+                        <col class="gutter-col" />
+                    {/if}
                     <col class={column.group} />
                 {/each}
             </colgroup>
@@ -129,11 +136,13 @@ $: downwindSail =
                 </tr>
                 <tr>
                     {#each card.columns as column, i}
+                        {#if i > 0 && column.group !== card.columns[i - 1].group}
+                            <th class="gutter"></th>
+                        {/if}
                         <th
                             class="column-head"
                             class:speed={column.key.endsWith('-bsp')}
                             class:angle={column.key.endsWith('-twa')}
-                            class:group-start={i > 0 && column.group !== card.columns[i - 1].group}
                             class:group-end={i < card.columns.length - 1 && column.group !== card.columns[i + 1].group}>
                             {column.label}
                         </th>
@@ -149,12 +158,13 @@ $: downwindSail =
                             class="stub tws {colour === 'screen' ? `tws-${row.tws}` : ''}"
                             style={tint(i, card.rows.length)}>{row.tws}</th>
                         {#each row.values as value, column}
+                            {#if column > 0 && card.columns[column].group !== card.columns[column - 1].group}
+                                <td class="gutter"></td>
+                            {/if}
                             <td
                                 class={colour === 'screen' ? `tws-${row.tws}` : ''}
                                 class:speed={card.columns[column].key.endsWith('-bsp')}
                                 class:angle={card.columns[column].key.endsWith('-twa')}
-                                class:group-start={column > 0 &&
-                                    card.columns[column].group !== card.columns[column - 1].group}
                                 class:group-end={column < card.columns.length - 1 &&
                                     card.columns[column].group !== card.columns[column + 1].group}>{value}</td>
                         {/each}
@@ -347,21 +357,26 @@ tbody:last-of-type tr:last-child td {
     text-align: center;
     border-bottom: max(0.3pt, 0.02em) solid #bfbfbf;
     text-transform: uppercase;
-    letter-spacing: 0.08em;
-    font-size: 0.78em;
+    /* Set small enough that "Downwind" fits the columns it spans even when those columns
+       are only as wide as a three-digit angle. */
+    letter-spacing: 0.06em;
+    font-size: 0.72em;
 }
 .column-head {
     font-size: 0.85em;
 }
-/* A gutter between the upwind and downwind halves, so a row cannot be read across the join
-   by accident. The rule wants equal air on both sides — hung off the right-aligned cell on
-   its own it lands against the downwind numbers instead of between the two groups. */
-.group-start {
+/* The rule between the upwind and downwind halves, so a row cannot be read across the join
+   by accident. It sits on the spacer column with matching air either side: the preceding
+   cell's own padding on the left, the spacer's width on the right. */
+.gutter-col {
+    width: 0.5em;
+}
+.gutter {
+    padding: 0;
     border-left: 0.75pt solid #000;
-    padding-left: 0.7em;
 }
 .group-end {
-    padding-right: 0.7em;
+    padding-right: 0.5em;
 }
 
 /* Light rules inside each block: the angle you steer, the angle the masthead shows and the
@@ -372,9 +387,6 @@ tbody:last-of-type tr:last-child td {
 .is-card thead .column-head + .column-head {
     border-left: max(0.3pt, 0.02em) solid #dcdcdc;
 }
-.is-card .group-start {
-    border-left: 0.75pt solid #000;
-}
 
 /* The true wind angle and the boat speed are the pair you act on — steer to the angle,
    check the speed. Both carry the weight; the apparent-wind column is there for the boats
@@ -384,12 +396,17 @@ tbody:last-of-type tr:last-child td {
     font-weight: 700;
 }
 .is-card tbody .tws {
-    font-size: 1.15em;
+    font-size: 1.1em;
 }
 .is-card th,
 .is-card td {
     padding-top: 0.14em;
     padding-bottom: 0.14em;
+}
+/* Every cell is a single number, so the default line box is carrying leading that the
+   figures can have instead. */
+.is-card table {
+    line-height: 1.05;
 }
 
 footer {

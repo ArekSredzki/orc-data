@@ -255,8 +255,9 @@ const MM_PER_PT = 0.352778;
 const DIGIT_EM = 0.556;
 const POINT_EM = 0.278;
 const CELL_PADDING_EM = 0.7;
-// Extra air either side of the rule that separates the upwind and downwind blocks.
-const GROUP_GUTTER_EM = 0.8;
+// The spacer column that carries the rule between the upwind and downwind blocks, plus the
+// wider right padding on the cell before it.
+const GROUP_GUTTER_EM = 0.7;
 
 // Advance widths in the Helvetica/Arial/Liberation Sans stack the card is set in. Only the
 // characters that can appear in a data cell are listed; "DDW" is the reason this exists at
@@ -314,19 +315,19 @@ export const MIN_BODY_PT = 8;
 // sparse table from being blown up into a poster.
 const CEILING = {
     sheet: [
-        [180, 19],
-        [120, 15],
-        [0, 12],
+        [180, 22],
+        [120, 17],
+        [0, 13],
     ],
     card: [
-        [180, 26],
-        [120, 21],
-        [0, 17],
+        [180, 36],
+        [120, 28],
+        [0, 20],
     ],
     page: [
-        [180, 19],
-        [120, 15],
-        [0, 12],
+        [180, 22],
+        [120, 17],
+        [0, 13],
     ],
 };
 
@@ -334,20 +335,30 @@ const CEILING = {
 // the footer — in ems of body type, so it scales with the card the way the rest does.
 // These are measured from the rendered card rather than guessed; if PolarCard's header or
 // padding changes materially, re-measure them.
-// The identity line and the column headers, which every layout always carries.
-const OVERHEAD_EM = { sheet: 4.7, card: 6.3, page: 4.7 };
+// The identity line and the column headers, which every layout always carries. Measured
+// from the rendered card with the table's stretch taken off, so they are what the content
+// actually needs rather than a guess — and they are what decides how big the type can be,
+// so a stale value here shows up as a page with a band of unused paper at the foot.
+const OVERHEAD_EM = { sheet: 3.9, card: 3.9, page: 3.8 };
 // Added only when the optional blocks are printed: the detail lines under the boat's name,
 // and the footer's legend, caveat and provenance.
-const DETAIL_EM = { sheet: 2.0, card: 1.7, page: 2.0 };
-const FOOTER_EM = { sheet: 2.7, card: 3.4, page: 2.7 };
+const DETAIL_EM = { sheet: 1.8, card: 1.7, page: 1.8 };
+const FOOTER_EM = { sheet: 2.3, card: 2.2, page: 2.3 };
 // Height of one body row, likewise measured: cell padding plus the line box, with the
-// card's larger wind-speed stub setting the pitch there.
-const ROW_PITCH_EM = { sheet: 2.15, card: 2.1, page: 2.3 };
-// Row-label column: "Beat angle (TWA)" is the widest label on the sheet, but it is set
-// smaller than the data and abbreviated in print.
-// The page layout keeps the site's full row labels ("Beat angle (TWA)"), which is most of
-// why it cannot be set as large as the sheet.
-const STUB_EM = { sheet: 7.2, card: 2.6, page: 8.6 };
+// card's larger wind-speed stub setting the pitch there. Under-estimating clips a row
+// rather than leaving a gap, so these are taken from the small end of each range.
+const ROW_PITCH_EM = { sheet: 2.15, card: 1.6, page: 2.0 };
+
+// A row measures a little under this at large sizes and a little over 1.5em at small ones,
+// as the browser rounds line boxes to whole pixels. Interpolating between the two ends was
+// tried and reverted: the pitch does not fall off predictably enough, and a value that was
+// right for a 26pt card sliced the last row off a 35pt one. One conservative figure it is.
+
+// The row-label column. The sheet and card figures are the widths PolarCard's stylesheet
+// reserves for it — they have to agree, or the table is laid out wider than the type size
+// was solved for. The page layout keeps the site's full row labels ("Beat angle (TWA)"),
+// which is most of why it cannot be set as large as the sheet.
+const STUB_EM = { sheet: 6.4, card: 3.2, page: 8.6 };
 
 const emForChars = (digits, points) => digits * DIGIT_EM + points * POINT_EM;
 
@@ -378,17 +389,16 @@ export function cardFontSizePt({
     // otherwise assumed: "10.56" on the sheet, "148" on the card.
     const dataEm =
         (valueEm ?? (layout === 'card' ? emForChars(3, 0) : emForChars(4, 1))) + (layout === 'page' ? DEGREE_EM : 0);
-    const columnEm = dataEm + CELL_PADDING_EM;
+    // A few percent over the measured advance widths: the figures that matter are set bold,
+    // and the fallback faces do not all agree with Helvetica's metrics to the last unit.
+    const columnEm = dataEm * 1.03 + CELL_PADDING_EM;
     const widthEm = STUB_EM[layout] + columns * columnEm + (layout === 'card' ? GROUP_GUTTER_EM : 0);
-    const heightEm =
-        bodyRows * ROW_PITCH_EM[layout] +
-        OVERHEAD_EM[layout] +
-        (details ? DETAIL_EM[layout] : 0) +
-        (notes ? FOOTER_EM[layout] : 0);
+    const fixedEm = OVERHEAD_EM[layout] + (details ? DETAIL_EM[layout] : 0) + (notes ? FOOTER_EM[layout] : 0);
 
     const usableWmm = cardWmm - 2 * marginMm;
     const usableHmm = cardHmm - 2 * marginMm;
 
+    const heightEm = bodyRows * ROW_PITCH_EM[layout] + fixedEm;
     const fitPt = Math.min(usableWmm / widthEm, usableHmm / heightEm) / MM_PER_PT;
 
     return {
