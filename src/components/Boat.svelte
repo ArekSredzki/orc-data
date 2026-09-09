@@ -3,6 +3,12 @@ import Help from './Help.svelte';
 import PolarPlot from './PolarPlot.svelte';
 import PolarTable from './PolarTable.svelte';
 import { getBoat } from '../api.js';
+import {
+    certificateRows,
+    ratingRows as buildRatingRows,
+    sails as buildSails,
+    tripleRows as buildTripleRows,
+} from '../boat-meta.js';
 import { polarExport } from '../polar-csv.js';
 
 export let sailnumber;
@@ -18,68 +24,14 @@ async function loadBoat(sailnumber) {
     boat = await getBoat(sailnumber);
     sizes = boat.boat.sizes;
     rating = boat.rating;
-    sails = getSails();
+    sails = buildSails(sizes).map(({ label, value }) => [label, value + 'm\u00b2']);
 }
 
 $: sailnumber && loadBoat(sailnumber);
 
-function getSails() {
-    const sizes = boat.boat.sizes;
-    const sails = [
-        ['Main', sizes.main + 'm²'],
-        ['Genoa', sizes.genoa + 'm²'],
-    ];
-    if (sizes.spinnaker > 0) {
-        sails.push(['Spinnaker', sizes.spinnaker + 'm²']);
-    }
-    if (sizes.spinnaker_asym > 0) {
-        sails.push(['Asym. spinnaker', sizes.spinnaker_asym + 'm²']);
-    }
-    return sails;
-}
-
-const DIVISIONS = { C: 'Cruiser/Racer', S: 'Sportboat', R: 'Racer' };
-
-// ORC omits the stability index unless the boat's stability was actually measured. It has
-// been written as -1, as null and as an absent key by different generations of the parser,
-// so test for a real value rather than relying on falsiness (-1 is truthy).
-$: stabilityIndex = boat?.boat.stability_index > 0 ? boat.boat.stability_index : null;
-$: division = boat?.boat.division;
-// Certificates carry a full ISO timestamp; the date alone is what matters and reads the
-// same in every locale.
-$: issued = boat?.boat.issue_date ? boat.boat.issue_date.substring(0, 10) : undefined;
-
-// One row per course model, each in both of the units ORC publishes: Time-on-Distance in
-// seconds per mile and Time-on-Time as a multiplier, related by ToT = 600 / ToD. Rows are
-// dropped rather than blanked, because boats whose certificate predates these fields are
-// still in the database and a column of "?" would say nothing useful.
-$: ratingRows = rating
-    ? [
-          { label: 'Offshore', help: 'osn', tod: rating.osn, tot: rating.tmf_offshore },
-          { label: 'Inshore', help: 'ilc', tod: rating.ilc, tot: rating.tmf_inshore },
-          { label: 'All-purpose', help: 'aph', tod: rating.aph_tod, tot: rating.aph_tot },
-          { label: 'General purpose', help: 'gph', tod: rating.gph, tot: null },
-      ].filter((row) => row.tod != null || row.tot != null)
-    : [];
-
-// Same rule as the ratings: show a certificate field only when this boat's certificate
-// carries it, rather than filling the row with "?" for the majority of boats whose data
-// predates these fields.
-$: certificate = boat
-    ? [
-          { label: 'CDL', help: 'cdl', value: boat.boat.cdl != null ? `${boat.boat.cdl.toFixed(2)} m` : null },
-          { label: 'Division', help: 'division', value: division ? DIVISIONS[division] || division : null },
-          { label: 'Stability index', help: 'stability-index', value: stabilityIndex },
-          { label: 'Issued', help: 'issue-date', value: issued },
-      ].filter((item) => item.value != null)
-    : [];
-
-$: tripleRows = rating
-    ? [
-          { label: 'Inshore', values: rating.triple_inshore },
-          { label: 'Offshore', values: rating.triple_offshore },
-      ].filter((row) => row.values?.length === 3)
-    : [];
+$: ratingRows = buildRatingRows(rating);
+$: certificate = certificateRows(boat);
+$: tripleRows = buildTripleRows(rating);
 
 let plot;
 </script>
@@ -185,6 +137,9 @@ let plot;
             {/if}
 
             <PolarTable vpp={boat.vpp} hover={plot?.hover} />
+            <p class="d-print-none">
+                <a href="#print-{boat.sailnumber}">Print polar…</a>
+            </p>
             <div class="d-print-none">
                 <h5>
                     Polar (CSV)<Help term="polar-csv" />

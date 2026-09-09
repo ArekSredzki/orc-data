@@ -54,8 +54,12 @@ function speedIndices(vpp, range) {
 
 // One row of the sheet. `values` are per wind speed; `point` is present only where a cell
 // corresponds to a plotted polar point, which is what the screen table hovers on.
-function row(key, label, unit, values) {
-    return { key, label, unit, values };
+//
+// `short` is the printed label. "Beat angle (TWA)" is the widest thing on the sheet, and it
+// is the row labels rather than the numbers that strangle a small card — abbreviating them
+// buys most of a point of body type at quarter-page.
+function row(key, label, unit, values, short = label) {
+    return { key, label, short, unit, values };
 }
 
 /**
@@ -82,6 +86,7 @@ export function polarSheet(vpp, options = {}) {
                 'Beat angle (TWA)',
                 '°',
                 indices.map((i) => cell(angle(vpp.beat_angle[i], angleDecimals))),
+                'Beat TWA',
             ),
         ];
         if (awa) {
@@ -93,6 +98,7 @@ export function polarSheet(vpp, options = {}) {
                     indices.map((i) =>
                         cell(angle(twa2awa(vpp.beat_angle[i], vpp.speeds[i], beatSog(vpp, i)), angleDecimals)),
                     ),
+                    'Beat AWA',
                 ),
             );
         }
@@ -102,6 +108,7 @@ export function polarSheet(vpp, options = {}) {
                 'Beat speed',
                 'kt',
                 indices.map((i) => cell(speed(beatSog(vpp, i), decimals))),
+                'Beat kt',
             ),
         );
         if (vmg) {
@@ -150,6 +157,7 @@ export function polarSheet(vpp, options = {}) {
                 'Run angle (TWA)',
                 '°',
                 indices.map((i) => cell(angle(vpp.run_angle[i], angleDecimals))),
+                'Run TWA',
             ),
         );
         if (awa) {
@@ -161,6 +169,7 @@ export function polarSheet(vpp, options = {}) {
                     indices.map((i) =>
                         cell(angle(twa2awa(vpp.run_angle[i], vpp.speeds[i], runSog(vpp, i)), angleDecimals)),
                     ),
+                    'Run AWA',
                 ),
             );
         }
@@ -170,6 +179,7 @@ export function polarSheet(vpp, options = {}) {
                 'Run speed',
                 'kt',
                 indices.map((i) => cell(speed(runSog(vpp, i), decimals))),
+                'Run kt',
             ),
         );
         blocks.push({ key: 'run', label: 'Run', rows });
@@ -245,6 +255,26 @@ const DIGIT_EM = 0.556;
 const POINT_EM = 0.278;
 const CELL_PADDING_EM = 0.7;
 
+// Advance widths in the Helvetica/Arial/Liberation Sans stack the card is set in. Only the
+// characters that can appear in a data cell are listed; "DDW" is the reason this exists at
+// all, being half again as wide as the three digits it replaces.
+const GLYPH_EM = { D: 0.722, W: 0.944, '.': POINT_EM, '—': 1.0 };
+const glyphEm = (character) => GLYPH_EM[character] ?? DIGIT_EM;
+const textEm = (text) => [...text].reduce((total, character) => total + glyphEm(character), 0);
+
+/**
+ * Width of the widest value in a model, in ems. The columns are laid out to a fixed, equal
+ * width, so it is the widest cell anywhere that decides how large the type can be — and
+ * getting this from the values rather than from an assumed digit count is what keeps "DDW"
+ * from running into the column beside it.
+ */
+export function widestValueEm(model) {
+    const values = model.blocks
+        ? model.blocks.flatMap((block) => block.rows.flatMap((row) => row.values.map((value) => value.text)))
+        : model.rows.flatMap((row) => row.values);
+    return values.reduce((widest, text) => Math.max(widest, textEm(text)), 0);
+}
+
 // Data type below this is not readable on a laminated card at arm's length in daylight,
 // so combinations that cannot reach it are refused rather than printed small.
 export const MIN_BODY_PT = 8;
@@ -252,22 +282,29 @@ export const MIN_BODY_PT = 8;
 // Ceilings by card width. Type cannot simply scale with the paper: a Letter page is a bit
 // over twice the width of a quarter-page card but wants only ~1.4x the type, and linear
 // scaling from either end produces a poster or a fly-speck at the other.
+// Thresholds are card widths after margins, not paper sizes: a Letter page's content box
+// is 199.9mm, so a 200mm threshold would drop a full sheet into the small-paper class.
 const CEILING = {
     sheet: [
-        [200, 13],
-        [140, 11],
+        [180, 13],
+        [120, 11],
         [0, 9.5],
     ],
     card: [
-        [200, 18],
-        [140, 16],
+        [180, 18],
+        [120, 16],
         [0, 15],
     ],
 };
 
-// Vertical space the identity header and the footer take, independent of the table.
-const RESERVE_MM = { sheet: 34, card: 24 };
-const ROW_PITCH_EM = 1.75;
+// Everything above and below the body rows — the identity header, the column headers and
+// the footer — in ems of body type, so it scales with the card the way the rest does.
+// These are measured from the rendered card rather than guessed; if PolarCard's header or
+// padding changes materially, re-measure them.
+const OVERHEAD_EM = { sheet: 9.0, card: 12.0 };
+// Height of one body row, likewise measured: cell padding plus the line box, with the
+// card's larger wind-speed stub setting the pitch there.
+const ROW_PITCH_EM = { sheet: 2.15, card: 2.45 };
 // Row-label column: "Beat angle (TWA)" is the widest label on the sheet, but it is set
 // smaller than the data and abbreviated in print.
 const STUB_EM = { sheet: 7.2, card: 2.6 };
@@ -281,18 +318,29 @@ function ceilingPt(layout, cardWmm) {
 /**
  * Body type size for a layout on a given card, and whether that card can carry it at all.
  *
+ * @param bodyRows rows of data — wind angles on the sheet, wind speeds on the card. The
+ *        header rows are part of the layout's fixed overhead, not counted here.
  * @returns { pt, fitPt, allowed } — `fitPt` is the size the geometry allows before the
  *          per-size ceiling is applied; `allowed` is false when it is below MIN_BODY_PT.
  */
-export function cardFontSizePt({ cardWmm, cardHmm, columns, rows, layout = 'sheet', marginMm = 6 }) {
-    // Widest data cell: "10.56" on the sheet, "148" or "6.1" on the card.
-    const dataEm = layout === 'sheet' ? emForChars(4, 1) : emForChars(3, 0);
+export function cardFontSizePt({
+    cardWmm,
+    cardHmm,
+    columns,
+    bodyRows,
+    layout = 'sheet',
+    marginMm = 5,
+    valueEm = null,
+}) {
+    // Widest data cell, measured from the values when the caller has a model to hand and
+    // otherwise assumed: "10.56" on the sheet, "148" on the card.
+    const dataEm = valueEm ?? (layout === 'sheet' ? emForChars(4, 1) : emForChars(3, 0));
     const columnEm = dataEm + CELL_PADDING_EM;
     const widthEm = STUB_EM[layout] + columns * columnEm;
-    const heightEm = rows * ROW_PITCH_EM;
+    const heightEm = bodyRows * ROW_PITCH_EM[layout] + OVERHEAD_EM[layout];
 
     const usableWmm = cardWmm - 2 * marginMm;
-    const usableHmm = cardHmm - 2 * marginMm - RESERVE_MM[layout];
+    const usableHmm = cardHmm - 2 * marginMm;
 
     const fitPt = Math.min(usableWmm / widthEm, usableHmm / heightEm) / MM_PER_PT;
 
@@ -303,8 +351,8 @@ export function cardFontSizePt({ cardWmm, cardHmm, columns, rows, layout = 'shee
     };
 }
 
-// Rows a sheet occupies, for the fit calculation: the wind-speed header, the blocks, and
-// the rules between them.
+// Data rows a sheet holds, for the fit calculation. The column header is part of the
+// layout's fixed overhead and is not counted here.
 export function sheetRowCount(sheet) {
-    return 1 + sheet.blocks.reduce((total, block) => total + block.rows.length, 0);
+    return sheet.blocks.reduce((total, block) => total + block.rows.length, 0);
 }

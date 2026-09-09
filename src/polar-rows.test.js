@@ -155,10 +155,11 @@ describe('polarCard', () => {
 });
 
 describe('cardFontSizePt', () => {
-    const sheetRows = sheetRowCount(polarSheet(VPP)) + 5; // the fixture is short by 5 angles
+    // The fixture keeps three wind angles instead of the eight every certificate carries.
+    const sheetRows = sheetRowCount(polarSheet(VPP)) + 5;
 
-    const forCard = (cardWmm, cardHmm, columns, layout = 'sheet', rows = sheetRows) =>
-        cardFontSizePt({ cardWmm, cardHmm, columns, rows, layout });
+    const forCard = (cardWmm, cardHmm, columns, layout = 'sheet', bodyRows = sheetRows) =>
+        cardFontSizePt({ cardWmm, cardHmm, columns, bodyRows, layout });
 
     it('gives a smaller size to a certificate with more wind speeds', () => {
         const seven = forCard(215.9, 279.4, 7);

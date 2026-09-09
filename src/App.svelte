@@ -2,18 +2,21 @@
 import { onMount } from 'svelte';
 
 import { randomBoat } from './api.js';
+import { DATA_YEAR } from './boat-meta.js';
 import Boat from './components/Boat.svelte';
 import BoatSelect from './components/BoatSelect.svelte';
 import Compare from './components/Compare.svelte';
 import CustomPlot from './components/CustomPlot.svelte';
 import Extremes from './components/Extremes.svelte';
 import Glossary from './components/Glossary.svelte';
+import PrintView from './components/PrintView.svelte';
 import Table from './components/Table.svelte';
 export let route = 'extremes';
 export let sailnumber = null;
 
-// A route is custom if it starts with one of the route prefixes.
-const prefixes = ['extremes', 'customplot', 'compare', 'type', 'random', 'glossary'];
+// A route is custom if it starts with one of the route prefixes. Sail numbers always begin
+// with an uppercase country code, so none of these can collide with one.
+const prefixes = ['extremes', 'customplot', 'compare', 'type', 'random', 'glossary', 'print'];
 const isCustomRoute = (value) => prefixes.some((item) => value.startsWith(item));
 
 function onhashchange() {
@@ -42,11 +45,16 @@ $: {
 $: if (route == 'random') {
     window.location.hash = $randomBoat;
 }
+
+// The print route carries the boat in the route itself and its options in a query string
+// after it: #print-EST/EST688?layout=card. The sail number is passed one-way to PrintView
+// so that changing an option there cannot feed back into the router.
+$: printSailnumber = route.startsWith('print-') ? route.substring('print-'.length).split('?')[0] : null;
 </script>
 
 <nav class="navbar navbar-expand-lg navbar-light bg-light d-print-none">
     <div class="container-fluid">
-        <a class="navbar-brand" href="#extremes">ORC Sailboat Data (2026)</a>
+        <a class="navbar-brand" href="#extremes">ORC Sailboat Data ({DATA_YEAR})</a>
         <button
             class="navbar-toggler"
             type="button"
@@ -85,6 +93,15 @@ $: if (route == 'random') {
     <CustomPlot />
 {:else if route.startsWith('glossary')}
     <Glossary />
+{:else if route.startsWith('print')}
+    {#if printSailnumber}
+        <PrintView sailnumber={printSailnumber} />
+    {:else}
+        <div class="container p-4">
+            <p>Open a boat and choose “Print polar” to make a printable sheet.</p>
+            <a href="#extremes">Back to the boat list</a>
+        </div>
+    {/if}
 {:else if route.startsWith('compare')}
     <Compare />
 {:else if route.startsWith('type')}
