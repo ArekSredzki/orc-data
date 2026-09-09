@@ -394,6 +394,16 @@ tbody:last-of-type tr:last-child td {
 .is-card thead .column-head + .column-head {
     border-left: max(0.3pt, 0.02em) solid #dcdcdc;
 }
+/* The spacer is a cell like any other, so the rule above would draw a light line on it and
+   another on the cell after it — two thin lines where the one heavy one belongs. The block
+   rule wins on the spacer, and the cell following it carries none. */
+.is-card .gutter {
+    border-left: 0.75pt solid #000;
+}
+.is-card .gutter + td,
+.is-card .gutter + .column-head {
+    border-left: 0;
+}
 
 /* The true wind angle and the boat speed are the pair you act on — steer to the angle,
    check the speed. Both carry the weight; the apparent-wind column is there for the boats
