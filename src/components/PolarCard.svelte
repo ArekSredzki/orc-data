@@ -143,7 +143,11 @@ $: downwindSail =
             <tbody>
                 {#each card.rows as row, i}
                     <tr>
-                        <th class="stub tws" style={tint(i, card.rows.length)}>{row.tws}</th>
+                        <!-- The wind speed is the key you look the row up by, so it carries the
+                             row's colour as well: you find the breeze, then read across in it. -->
+                        <th
+                            class="stub tws {colour === 'screen' ? `tws-${row.tws}` : ''}"
+                            style={tint(i, card.rows.length)}>{row.tws}</th>
                         {#each row.values as value, column}
                             <td
                                 class={colour === 'screen' ? `tws-${row.tws}` : ''}
