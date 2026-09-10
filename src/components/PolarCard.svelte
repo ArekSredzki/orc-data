@@ -123,16 +123,7 @@ $: downwindSail =
                         {#each entry.row.values as value, column}
                             <td
                                 class={colour === 'screen' ? `tws-${speeds[column]}` : ''}
-                                class:emphasis={entry.emphasis}>
-                                {#if value.text.endsWith('°')}
-                                    <!-- The sign is set smaller than the figure it marks: at full
-                                         size it is the widest thing in the table, and every column
-                                         is sized to the widest thing in it. -->
-                                    {value.text.slice(0, -1)}<span class="degree">°</span>
-                                {:else}
-                                    {value.text}
-                                {/if}
-                            </td>
+                                class:emphasis={entry.emphasis}>{value.text}</td>
                         {/each}
                     </tr>
                 {/each}
@@ -303,6 +294,9 @@ table {
     width: 100%;
     border-collapse: collapse;
     table-layout: fixed;
+    /* Every cell is a single figure, so the default line box is carrying leading the
+       numbers can have instead. Sixteen rows of it is most of a page. */
+    line-height: 1.05;
     /* Spend the slack between the table and the footer on the rows rather than leaving a
        band of dead paper at the foot of the page: the rows share it out, which is more air
        per row and an easier read across a wide grid. Rows never shrink below their
@@ -315,7 +309,7 @@ th,
 td {
     /* Horizontal padding is width that the figures could be using instead: the columns are
        separated by their own rules, so the cells do not need much air of their own. */
-    padding: 0.2em 0.18em;
+    padding: 0.16em 0.18em;
     text-align: right;
     font-weight: 400;
     /* Absolute floor: an em-scaled hairline goes below the reproduction limit on a small
@@ -369,10 +363,6 @@ tbody:last-of-type tr:last-child td {
    stay light, the same division the card makes between its columns. */
 .emphasis {
     font-weight: 700;
-}
-
-.degree {
-    font-size: 0.72em;
 }
 
 /* The block headings over the card's two halves. */
