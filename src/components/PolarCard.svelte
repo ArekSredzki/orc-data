@@ -1,11 +1,11 @@
 <script>
-import PolarTable from './PolarTable.svelte';
 import { DATA_YEAR, formatSailnumber, issueDate } from '../boat-meta.js';
 import { polarCard, polarSheet } from '../polar-rows.js';
 
 export let boat;
-// 'sheet' is the full-fidelity nav-station page, 'card' the cockpit target card, and
-// 'page' the site's own wind-velocity table exactly as the boat page draws it.
+// 'card' is the cockpit target card. 'sheet' and 'page' are both the full table, set the
+// same way; the difference is that 'sheet' honours the row switches and 'page' ignores
+// them and prints the lot.
 export let layout = 'sheet';
 export let options = {};
 // Body type in points, computed by the caller from the card's size and column count. Every
@@ -22,9 +22,13 @@ export let colour = 'mono';
 export let details = false;
 export let notes = false;
 
-$: sheet = layout === 'sheet' ? polarSheet(boat.vpp, options) : null;
+// What the complete table prints: every row the certificate supports, whatever the row
+// switches say.
+const EVERYTHING = { awa: true, vmg: true, beatRun: true };
+
+$: sheet = layout === 'card' ? null : polarSheet(boat.vpp, layout === 'page' ? EVERYTHING : options);
 $: card = layout === 'card' ? polarCard(boat.vpp, options) : null;
-$: speeds = sheet ? sheet.speeds : card ? card.speeds : boat.vpp.speeds;
+$: speeds = sheet ? sheet.speeds : card.speeds;
 $: sizes = boat.boat.sizes;
 $: issued = issueDate(boat);
 
@@ -75,13 +79,7 @@ $: downwindSail =
         {/if}
     </header>
 
-    {#if layout === 'page'}
-        <!-- Literally the boat page's table, the same component with the same classes, so
-             what comes out of the printer is what was on the screen. -->
-        <div class="page-table" class:mono={colour === 'mono'}>
-            <PolarTable vpp={boat.vpp} />
-        </div>
-    {:else if sheet}
+    {#if sheet}
         <table>
             <colgroup>
                 <col class="stub-col" />
@@ -338,40 +336,6 @@ tbody:last-of-type tr:last-child td {
     background: #f0f0f0;
 }
 
-/* The page layout borrows the site's own table, which is sized for a browser column: it
-   has to take this card's type size and give up its screen width cap. Its colours come
-   from the global .tws-N classes, so "match the plot" needs no help here. */
-.page-table {
-    display: flex;
-    flex: 1 1 auto;
-}
-.page-table :global(.polar-table) {
-    font-size: inherit;
-    max-width: none;
-    width: 100%;
-    margin: 0;
-}
-.page-table :global(.polar-table td),
-.page-table :global(.polar-table th) {
-    padding: 0.2em 0.35em;
-    border-color: #ccc;
-}
-.page-table.mono :global(.polar-table td),
-.page-table.mono :global(.polar-table th) {
-    color: #000;
-}
-.group {
-    text-align: center;
-    border-bottom: max(0.3pt, 0.02em) solid #bfbfbf;
-    text-transform: uppercase;
-    /* Set small enough that "Downwind" fits the columns it spans even when those columns
-       are only as wide as a three-digit angle. */
-    letter-spacing: 0.06em;
-    font-size: 0.72em;
-}
-.column-head {
-    font-size: 0.85em;
-}
 /* The rule between the upwind and downwind halves, so a row cannot be read across the join
    by accident. It sits on the spacer column with matching air either side: the preceding
    cell's own padding on the left, the spacer's width on the right. */

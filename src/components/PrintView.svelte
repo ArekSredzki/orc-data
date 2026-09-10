@@ -253,7 +253,7 @@ $: previewHeight = (page.h / MM_PER_PX) * zoom;
                 <legend>Layout</legend>
                 <label><input type="radio" bind:group={options.layout} value="card" /> Targets card</label>
                 <label><input type="radio" bind:group={options.layout} value="sheet" /> Full sheet</label>
-                <label><input type="radio" bind:group={options.layout} value="page" /> Table as on the page</label>
+                <label><input type="radio" bind:group={options.layout} value="page" /> Complete table</label>
             </fieldset>
 
             <fieldset>
@@ -296,8 +296,12 @@ $: previewHeight = (page.h / MM_PER_PX) * zoom;
 
             <fieldset>
                 <legend>Rows</legend>
-                <label><input type="checkbox" bind:checked={options.awa} /> Apparent wind angles</label>
-                <label><input type="checkbox" bind:checked={options.vmg} /> VMG</label>
+                {#if options.layout === 'page'}
+                    <p class="note">The complete table prints every row the certificate carries.</p>
+                {:else}
+                    <label><input type="checkbox" bind:checked={options.awa} /> Apparent wind angles</label>
+                    <label><input type="checkbox" bind:checked={options.vmg} /> VMG</label>
+                {/if}
                 {#if options.layout === 'sheet'}
                     <label><input type="checkbox" bind:checked={options.beatRun} /> Beat and run blocks</label>
                 {:else if options.layout === 'card'}
@@ -404,6 +408,11 @@ label {
 }
 label.disabled {
     color: #aaa;
+}
+.note {
+    margin: 0 0 0.25rem;
+    font-size: 0.8rem;
+    color: #777;
 }
 .why {
     font-size: 0.75rem;

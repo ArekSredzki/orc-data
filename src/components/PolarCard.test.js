@@ -89,12 +89,22 @@ describe('PolarCard, full sheet', () => {
         expect(screen.getByText(/LOA 8.55 m/)).toBeDefined();
     });
 
-    it('prints the site’s own table when asked for the page layout', () => {
+    it('prints every row in the complete table, whatever the row switches say', () => {
+        // The complete table is the one you pick when you do not want to make choices, so
+        // it ignores them: apparent wind and VMG are there even though both are switched off.
+        render(PolarCard, { boat: BOAT, layout: 'page', options: { awa: false, vmg: false, beatRun: false } });
+
+        for (const label of ['Beat TWA', 'Beat AWA', 'Beat kt', 'Beat VMG', 'Run VMG', 'Run TWA', 'Run AWA', 'Run kt']) {
+            expect(screen.getByText(label)).toBeDefined();
+        }
+    });
+
+    it('sets the complete table the same way as the sheet', () => {
         const { container } = render(PolarCard, { boat: BOAT, layout: 'page' });
 
-        expect(container.querySelector('.polar-table')).not.toBeNull();
-        // The page table keeps the site's full row labels rather than the print abbreviations.
-        expect(screen.getByText('Beat angle (TWA)')).toBeDefined();
+        // Not the site's own table any more: the print markup, so it matches the other layouts.
+        expect(container.querySelector('.polar-table')).toBeNull();
+        expect(container.querySelector('.print-card table')).not.toBeNull();
     });
 
     it('masks a corrupt boat speed instead of printing it', () => {

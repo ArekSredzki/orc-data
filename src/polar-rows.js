@@ -277,9 +277,6 @@ const GLYPH_EM = {
     '.': POINT_EM,
     '—': 1.0,
 };
-// The site's own table keeps a degree sign in every angle cell, which the print layouts
-// move to the header. It is only worth counting where it is actually printed.
-const DEGREE_EM = 0.4;
 const glyphEm = (character) => GLYPH_EM[character] ?? DIGIT_EM;
 const textEm = (text) => [...text].reduce((total, character) => total + glyphEm(character), 0);
 
@@ -339,7 +336,7 @@ const CEILING = {
 // from the rendered card with the table's stretch taken off, so they are what the content
 // actually needs rather than a guess — and they are what decides how big the type can be,
 // so a stale value here shows up as a page with a band of unused paper at the foot.
-const OVERHEAD_EM = { sheet: 3.9, card: 3.9, page: 3.8 };
+const OVERHEAD_EM = { sheet: 3.9, card: 3.9, page: 3.9 };
 // Added only when the optional blocks are printed: the detail lines under the boat's name,
 // and the footer's legend, caveat and provenance.
 const DETAIL_EM = { sheet: 1.8, card: 1.7, page: 1.8 };
@@ -347,7 +344,7 @@ const FOOTER_EM = { sheet: 2.3, card: 2.2, page: 2.3 };
 // Height of one body row, likewise measured: cell padding plus the line box, with the
 // card's larger wind-speed stub setting the pitch there. Under-estimating clips a row
 // rather than leaving a gap, so these are taken from the small end of each range.
-const ROW_PITCH_EM = { sheet: 2.15, card: 1.6, page: 2.0 };
+const ROW_PITCH_EM = { sheet: 2.15, card: 1.6, page: 2.15 };
 
 // A row measures a little under this at large sizes and a little over 1.5em at small ones,
 // as the browser rounds line boxes to whole pixels. Interpolating between the two ends was
@@ -358,7 +355,7 @@ const ROW_PITCH_EM = { sheet: 2.15, card: 1.6, page: 2.0 };
 // reserves for it — they have to agree, or the table is laid out wider than the type size
 // was solved for. The page layout keeps the site's full row labels ("Beat angle (TWA)"),
 // which is most of why it cannot be set as large as the sheet.
-const STUB_EM = { sheet: 6.4, card: 3.2, page: 8.6 };
+const STUB_EM = { sheet: 6.4, card: 3.2, page: 6.4 };
 
 const emForChars = (digits, points) => digits * DIGIT_EM + points * POINT_EM;
 
@@ -387,8 +384,7 @@ export function cardFontSizePt({
 }) {
     // Widest data cell, measured from the values when the caller has a model to hand and
     // otherwise assumed: "10.56" on the sheet, "148" on the card.
-    const dataEm =
-        (valueEm ?? (layout === 'card' ? emForChars(3, 0) : emForChars(4, 1))) + (layout === 'page' ? DEGREE_EM : 0);
+    const dataEm = valueEm ?? (layout === 'card' ? emForChars(3, 0) : emForChars(4, 1));
     // A few percent over the measured advance widths: the figures that matter are set bold,
     // and the fallback faces do not all agree with Helvetica's metrics to the last unit.
     const columnEm = dataEm * 1.03 + CELL_PADDING_EM;
