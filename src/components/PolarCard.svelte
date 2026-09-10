@@ -26,6 +26,23 @@ export let notes = false;
 // switches say.
 const EVERYTHING = { awa: true, vmg: true, beatRun: true };
 
+// The true wind angle and the boat speed are what you act on — steer to the angle, check
+// the speed — so they carry the weight here as they do on the card. The apparent-wind and
+// VMG rows are reference, and stay light.
+const emphasised = (key) => key.endsWith('-twa') || key.endsWith('-speed') || key.startsWith('twa-');
+
+// The blocks flattened into one run of rows, each knowing whether it opens a block, so the
+// banding and the block rules can both be driven off a single index.
+$: sheetRows = sheet
+    ? sheet.blocks.flatMap((block) =>
+          block.rows.map((row, index) => ({
+              row,
+              startsBlock: index === 0,
+              emphasis: emphasised(row.key),
+          })),
+      )
+    : [];
+
 $: sheet = layout === 'card' ? null : polarSheet(boat.vpp, layout === 'page' ? EVERYTHING : options);
 $: card = layout === 'card' ? polarCard(boat.vpp, options) : null;
 $: speeds = sheet ? sheet.speeds : card.speeds;
@@ -97,18 +114,21 @@ $: downwindSail =
                     {/each}
                 </tr>
             </thead>
-            {#each sheet.blocks as block}
-                <tbody class="block-{block.key}">
-                    {#each block.rows as row}
-                        <tr>
-                            <th class="stub">{row.short}</th>
-                            {#each row.values as value, i}
-                                <td class={colour === 'screen' ? `tws-${speeds[i]}` : ''}>{value.text}</td>
-                            {/each}
-                        </tr>
-                    {/each}
-                </tbody>
-            {/each}
+            <!-- One tbody, so the banding alternates down the whole table rather than
+                 restarting at each block, and the block rules are drawn on the rows that
+                 begin one. -->
+            <tbody>
+                {#each sheetRows as entry, i}
+                    <tr class:banded={i % 2 === 1} class:block-start={entry.startsBlock && i > 0}>
+                        <th class="stub">{entry.row.short}</th>
+                        {#each entry.row.values as value, column}
+                            <td
+                                class={colour === 'screen' ? `tws-${speeds[column]}` : ''}
+                                class:emphasis={entry.emphasis}>{value.text}</td>
+                        {/each}
+                    </tr>
+                {/each}
+            </tbody>
         </table>
     {:else}
         <table>
@@ -317,10 +337,8 @@ tbody:last-of-type tr:last-child td {
 
 /* The beat and run blocks are the top and bottom of the same polar, so they are separated
    by a single rule and a little air rather than boxed off as different data. */
-.block-grid tr:first-child th,
-.block-grid tr:first-child td,
-.block-run tr:first-child th,
-.block-run tr:first-child td {
+.block-start th,
+.block-start td {
     border-top: 0.75pt solid #000;
     padding-top: 0.45em;
 }
@@ -330,10 +348,16 @@ tbody:last-of-type tr:last-child td {
    so the rules above have to carry the structure on their own when this does not print.
    7% is the usable window — much lighter and a laser drops it, much darker and it starts
    to fight the numerals. */
-.block-grid tr:nth-child(even) td,
-.block-grid tr:nth-child(even) th,
+.banded td,
+.banded th,
 .is-card tbody tr:nth-child(even) td {
     background: #f0f0f0;
+}
+
+/* Steer to the angle, check the speed. Apparent wind and VMG are reference figures and
+   stay light, the same division the card makes between its columns. */
+.emphasis {
+    font-weight: 700;
 }
 
 /* The rule between the upwind and downwind halves, so a row cannot be read across the join

@@ -54,6 +54,12 @@ const labels = {
                 <a href="https://github.com/ArekSredzki/orc-data">GitHub</a>. All data is fetched from
                 <a href="https://orc.org/index.asp?id=44">ORC.org</a>.
             </p>
+
+            <p class="credit">
+                This site was originally built by
+                <a href="https://github.com/jieter">Jan Pieter Waagmeester</a> as
+                <a href="https://github.com/jieter/orc-data">jieter/orc-data</a>, and is maintained here as a fork.
+            </p>
         </div>
         <div class="col-sm-4 p-4">
             <a href="#random" class="btn btn-primary">Random boat</a>
@@ -103,6 +109,13 @@ const labels = {
 </div>
 
 <style>
+/* Credit where the project came from: set quietly, since it is provenance rather than
+   something a visitor came here to read. */
+.credit {
+    font-size: 0.875rem;
+    color: #6c757d;
+}
+
 .link-primary,
 .boat {
     cursor: pointer;
