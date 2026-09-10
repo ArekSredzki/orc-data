@@ -272,7 +272,7 @@ export function polarCard(vpp, options = {}) {
 const MM_PER_PT = 0.352778;
 const DIGIT_EM = 0.556;
 const POINT_EM = 0.278;
-const CELL_PADDING_EM = 0.7;
+const CELL_PADDING_EM = 0.54;
 // The spacer column that carries the rule between the upwind and downwind blocks, plus the
 // wider right padding on the cell before it.
 const GROUP_GUTTER_EM = 0.7;
@@ -374,7 +374,7 @@ const ROW_PITCH_EM = { sheet: 2.15, card: 1.6, page: 2.15 };
 // reserves for it — they have to agree, or the table is laid out wider than the type size
 // was solved for. The page layout keeps the site's full row labels ("Beat angle (TWA)"),
 // which is most of why it cannot be set as large as the sheet.
-const STUB_EM = { sheet: 6.4, card: 3.2, page: 6.4 };
+const STUB_EM = { sheet: 6.1, card: 3.2, page: 6.1 };
 
 const emForChars = (digits, points) => digits * DIGIT_EM + points * POINT_EM;
 

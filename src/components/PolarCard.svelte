@@ -304,8 +304,9 @@ table {
 }
 th,
 td {
-    padding: 0.28em 0.3em;
-    /* The card is short of height, not width, so it spends less of it between rows. */
+    /* Horizontal padding is width that the figures could be using instead: the columns are
+       separated by their own rules, so the cells do not need much air of their own. */
+    padding: 0.28em 0.22em;
     text-align: right;
     font-weight: 400;
     /* Absolute floor: an em-scaled hairline goes below the reproduction limit on a small
@@ -324,7 +325,9 @@ thead th {
     white-space: nowrap;
 }
 .stub-col {
-    width: 6.4em;
+    /* Just wider than "Wind Speed", the longest label it carries — and the one set bold,
+       which is what makes it the widest. */
+    width: 6.1em;
 }
 .is-card .stub-col {
     width: 3.2em;
@@ -357,6 +360,20 @@ tbody:last-of-type tr:last-child td {
    stay light, the same division the card makes between its columns. */
 .emphasis {
     font-weight: 700;
+}
+
+/* The block headings over the card's two halves. */
+.group {
+    text-align: center;
+    border-bottom: max(0.3pt, 0.02em) solid #bfbfbf;
+    text-transform: uppercase;
+    /* Set small enough that "Downwind" fits the columns it spans even when those columns
+       are only as wide as a three-digit angle. */
+    letter-spacing: 0.06em;
+    font-size: 0.72em;
+}
+.column-head {
+    font-size: 0.85em;
 }
 
 /* The rule between the upwind and downwind halves, so a row cannot be read across the join

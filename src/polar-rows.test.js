@@ -196,11 +196,20 @@ describe('cardFontSizePt', () => {
         expect(full.pt).toBeGreaterThan(MIN_BODY_PT);
     });
 
-    it('refuses the full sheet on a quarter page', () => {
+    it('refuses a full sheet that cannot reach the legible floor', () => {
+        // An eighth of a Letter page: sixteen rows have nowhere to go.
+        const eighth = forCard(107.95, 69.85, 9);
+
+        expect(eighth.allowed).toBe(false);
+        expect(eighth.fitPt).toBeLessThan(MIN_BODY_PT);
+    });
+
+    it('holds a quarter page to the floor, where the full sheet only just fits', () => {
         const quarter = forCard(107.95, 139.7, 9);
 
-        expect(quarter.allowed).toBe(false);
-        expect(quarter.fitPt).toBeLessThan(MIN_BODY_PT);
+        expect(quarter.allowed).toBe(true);
+        expect(quarter.pt).toBeGreaterThanOrEqual(MIN_BODY_PT);
+        expect(quarter.pt).toBeLessThan(10);
     });
 
     it('allows the card on a quarter page, which is what it is for', () => {
