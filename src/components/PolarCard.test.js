@@ -22,7 +22,16 @@ const BOAT = {
     rating: { gph: 769.5, osn: 748.5 },
     boat: {
         type: 'RJ 85',
-        sizes: { loa: 8.55, beam: 2.01, draft: 1.23, displacement: 2444, main: 17.57, genoa: 19.82, spinnaker: 39.55, spinnaker_asym: 0 },
+        sizes: {
+            loa: 8.55,
+            beam: 2.01,
+            draft: 1.23,
+            displacement: 2444,
+            main: 17.57,
+            genoa: 19.82,
+            spinnaker: 39.55,
+            spinnaker_asym: 0,
+        },
     },
     vpp: VPP,
 };
@@ -63,7 +72,10 @@ describe('PolarCard, full sheet', () => {
     });
 
     it('calls an asymmetric an asymmetric', () => {
-        const asym = { ...BOAT, boat: { ...BOAT.boat, sizes: { ...BOAT.boat.sizes, spinnaker: 0, spinnaker_asym: 143.6 } } };
+        const asym = {
+            ...BOAT,
+            boat: { ...BOAT.boat, sizes: { ...BOAT.boat.sizes, spinnaker: 0, spinnaker_asym: 143.6 } },
+        };
         render(PolarCard, { boat: asym, layout: 'sheet', details: true });
 
         expect(screen.getByText('asymmetric spinnaker')).toBeDefined();
@@ -94,9 +106,26 @@ describe('PolarCard, full sheet', () => {
         // it ignores them: apparent wind and VMG are there even though both are switched off.
         render(PolarCard, { boat: BOAT, layout: 'page', options: { awa: false, vmg: false, beatRun: false } });
 
-        for (const label of ['Beat TWA', 'Beat AWA', 'Beat kt', 'Beat VMG', 'Run VMG', 'Run TWA', 'Run AWA', 'Run kt']) {
+        for (const label of [
+            'Beat TWA',
+            'Beat AWA',
+            'Beat Speed',
+            'Beat VMG',
+            'Run VMG',
+            'Run TWA',
+            'Run AWA',
+            'Run Speed',
+        ]) {
             expect(screen.getByText(label)).toBeDefined();
         }
+    });
+
+    it('puts the degree sign on every angle, the way the certificate does', () => {
+        render(PolarCard, { boat: BOAT, layout: 'page' });
+
+        // Beat angle at 6 kt, and the wind-angle row labels.
+        expect(screen.getByText('43.8°')).toBeDefined();
+        expect(screen.getByText('52°')).toBeDefined();
     });
 
     it('sets the complete table the same way as the sheet', () => {

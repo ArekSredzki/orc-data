@@ -1,6 +1,6 @@
 <script>
 import { DATA_YEAR, formatSailnumber, issueDate } from '../boat-meta.js';
-import { polarCard, polarSheet } from '../polar-rows.js';
+import { COMPLETE_SHEET, polarCard, polarSheet, PRINT_SHEET } from '../polar-rows.js';
 
 export let boat;
 // 'card' is the cockpit target card. 'sheet' and 'page' are both the full table, set the
@@ -22,10 +22,6 @@ export let colour = 'mono';
 export let details = false;
 export let notes = false;
 
-// What the complete table prints: every row the certificate supports, whatever the row
-// switches say.
-const EVERYTHING = { awa: true, vmg: true, beatRun: true };
-
 // The true wind angle and the boat speed are what you act on — steer to the angle, check
 // the speed — so they carry the weight here as they do on the card. The apparent-wind and
 // VMG rows are reference, and stay light.
@@ -43,7 +39,10 @@ $: sheetRows = sheet
       )
     : [];
 
-$: sheet = layout === 'card' ? null : polarSheet(boat.vpp, layout === 'page' ? EVERYTHING : options);
+$: sheet =
+    layout === 'card'
+        ? null
+        : polarSheet(boat.vpp, layout === 'page' ? COMPLETE_SHEET : { ...options, ...PRINT_SHEET });
 $: card = layout === 'card' ? polarCard(boat.vpp, options) : null;
 $: speeds = sheet ? sheet.speeds : card.speeds;
 $: sizes = boat.boat.sizes;
@@ -106,7 +105,7 @@ $: downwindSail =
             </colgroup>
             <thead>
                 <tr>
-                    <th class="stub">TWS kt</th>
+                    <th class="stub">Wind Speed</th>
                     {#each speeds as speed, i}
                         <th style={tint(i, speeds.length)} class={colour === 'screen' ? `tws-${speed}` : ''}>
                             {speed}

@@ -4,7 +4,15 @@ import { onMount } from 'svelte';
 import PolarCard from './PolarCard.svelte';
 import { getBoat } from '../api.js';
 import { boatSubject, pageTitle } from '../boat-meta.js';
-import { cardFontSizePt, polarCard, polarSheet, sheetRowCount, widestValueEm } from '../polar-rows.js';
+import {
+    cardFontSizePt,
+    COMPLETE_SHEET,
+    polarCard,
+    polarSheet,
+    PRINT_SHEET,
+    sheetRowCount,
+    widestValueEm,
+} from '../polar-rows.js';
 import {
     CARD_MARGIN_MM,
     cardGeometry,
@@ -153,7 +161,7 @@ $: rowOptions =
 $: model = boat
     ? options.layout === 'card'
         ? polarCard(boat.vpp, rowOptions)
-        : polarSheet(boat.vpp, options.layout === 'page' ? {} : rowOptions)
+        : polarSheet(boat.vpp, options.layout === 'page' ? COMPLETE_SHEET : { ...rowOptions, ...PRINT_SHEET })
     : null;
 $: columns = model ? (options.layout === 'card' ? model.columns.length : model.columns) : 0;
 $: bodyRows = model ? (options.layout === 'card' ? model.rows.length : sheetRowCount(model)) : 0;

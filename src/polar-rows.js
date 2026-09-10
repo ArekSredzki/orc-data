@@ -19,6 +19,12 @@ import { twa2awa, vmg2sog } from './util.js';
 // steers to, so the card drops it and the sheet keeps whatever the certificate carries.
 export const CARD_SPEED_RANGE = [6, 20];
 
+// The options the printed layouts build their table with: the degree sign belongs in the
+// cells there, as it does on the certificate, and the complete table takes every row
+// whatever the switches say.
+export const PRINT_SHEET = { degrees: true };
+export const COMPLETE_SHEET = { awa: true, vmg: true, beatRun: true, degrees: true };
+
 // A run angle this deep means the VPP's optimum is dead downwind rather than a gybing
 // angle, which is what "179.0°" is really saying.
 export const DDW_THRESHOLD = 175;
@@ -72,9 +78,20 @@ function row(key, label, unit, values, short = label) {
  * @param options.decimals  decimal places for boat speeds
  * @param options.angleDecimals decimal places for angles
  * @param options.range     [min, max] wind speed filter, or null for the whole certificate
+ * @param options.degrees   put the degree sign in the angle cells and the wind-angle row
+ *                          labels. The print layouts do; the screen table appends its own.
  */
 export function polarSheet(vpp, options = {}) {
-    const { awa = true, vmg = true, beatRun = true, decimals = 2, angleDecimals = 1, range = null } = options;
+    const {
+        awa = true,
+        vmg = true,
+        beatRun = true,
+        decimals = 2,
+        angleDecimals = 1,
+        range = null,
+        degrees = false,
+    } = options;
+    const deg = (text) => (degrees ? `${text}°` : text);
     const indices = speedIndices(vpp, range);
     const speeds = indices.map((i) => vpp.speeds[i]);
     const blocks = [];
@@ -85,7 +102,7 @@ export function polarSheet(vpp, options = {}) {
                 'beat-twa',
                 'Beat angle (TWA)',
                 '°',
-                indices.map((i) => cell(angle(vpp.beat_angle[i], angleDecimals))),
+                indices.map((i) => cell(deg(angle(vpp.beat_angle[i], angleDecimals)))),
                 'Beat TWA',
             ),
         ];
@@ -96,7 +113,7 @@ export function polarSheet(vpp, options = {}) {
                     'Beat angle (AWA)',
                     '°',
                     indices.map((i) =>
-                        cell(angle(twa2awa(vpp.beat_angle[i], vpp.speeds[i], beatSog(vpp, i)), angleDecimals)),
+                        cell(deg(angle(twa2awa(vpp.beat_angle[i], vpp.speeds[i], beatSog(vpp, i)), angleDecimals))),
                     ),
                     'Beat AWA',
                 ),
@@ -108,7 +125,7 @@ export function polarSheet(vpp, options = {}) {
                 'Beat speed',
                 'kt',
                 indices.map((i) => cell(speed(beatSog(vpp, i), decimals))),
-                'Beat kt',
+                'Beat Speed',
             ),
         );
         if (vmg) {
@@ -135,6 +152,7 @@ export function polarSheet(vpp, options = {}) {
                 indices.map((i) =>
                     cell(speed(vpp[twa][i], decimals), { tws: vpp.speeds[i], sog: vpp[twa][i], cog: twa }),
                 ),
+                deg(String(twa)),
             ),
         ),
     });
@@ -156,7 +174,7 @@ export function polarSheet(vpp, options = {}) {
                 'run-twa',
                 'Run angle (TWA)',
                 '°',
-                indices.map((i) => cell(angle(vpp.run_angle[i], angleDecimals))),
+                indices.map((i) => cell(deg(angle(vpp.run_angle[i], angleDecimals)))),
                 'Run TWA',
             ),
         );
@@ -167,7 +185,7 @@ export function polarSheet(vpp, options = {}) {
                     'Run angle (AWA)',
                     '°',
                     indices.map((i) =>
-                        cell(angle(twa2awa(vpp.run_angle[i], vpp.speeds[i], runSog(vpp, i)), angleDecimals)),
+                        cell(deg(angle(twa2awa(vpp.run_angle[i], vpp.speeds[i], runSog(vpp, i)), angleDecimals))),
                     ),
                     'Run AWA',
                 ),
@@ -179,7 +197,7 @@ export function polarSheet(vpp, options = {}) {
                 'Run speed',
                 'kt',
                 indices.map((i) => cell(speed(runSog(vpp, i), decimals))),
-                'Run kt',
+                'Run Speed',
             ),
         );
         blocks.push({ key: 'run', label: 'Run', rows });
@@ -263,6 +281,7 @@ const GROUP_GUTTER_EM = 0.7;
 // characters that can appear in a data cell are listed; "DDW" is the reason this exists at
 // all, being half again as wide as the three digits it replaces.
 const GLYPH_EM = {
+    '°': 0.4,
     A: 0.667,
     B: 0.667,
     D: 0.722,
