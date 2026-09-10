@@ -272,7 +272,7 @@ export function polarCard(vpp, options = {}) {
 const MM_PER_PT = 0.352778;
 const DIGIT_EM = 0.556;
 const POINT_EM = 0.278;
-const CELL_PADDING_EM = 0.54;
+const CELL_PADDING_EM = 0.45;
 // The spacer column that carries the rule between the upwind and downwind blocks, plus the
 // wider right padding on the cell before it.
 const GROUP_GUTTER_EM = 0.7;
@@ -281,7 +281,8 @@ const GROUP_GUTTER_EM = 0.7;
 // characters that can appear in a data cell are listed; "DDW" is the reason this exists at
 // all, being half again as wide as the three digits it replaces.
 const GLYPH_EM = {
-    '°': 0.4,
+    // Set at 0.72em by the card's stylesheet, so it costs less width than a full glyph.
+    '°': 0.29,
     A: 0.667,
     B: 0.667,
     D: 0.722,
@@ -363,7 +364,7 @@ const FOOTER_EM = { sheet: 2.3, card: 2.2, page: 2.3 };
 // Height of one body row, likewise measured: cell padding plus the line box, with the
 // card's larger wind-speed stub setting the pitch there. Under-estimating clips a row
 // rather than leaving a gap, so these are taken from the small end of each range.
-const ROW_PITCH_EM = { sheet: 2.15, card: 1.6, page: 2.15 };
+const ROW_PITCH_EM = { sheet: 2.0, card: 1.6, page: 2.0 };
 
 // A row measures a little under this at large sizes and a little over 1.5em at small ones,
 // as the browser rounds line boxes to whole pixels. Interpolating between the two ends was

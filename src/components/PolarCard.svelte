@@ -123,7 +123,16 @@ $: downwindSail =
                         {#each entry.row.values as value, column}
                             <td
                                 class={colour === 'screen' ? `tws-${speeds[column]}` : ''}
-                                class:emphasis={entry.emphasis}>{value.text}</td>
+                                class:emphasis={entry.emphasis}>
+                                {#if value.text.endsWith('°')}
+                                    <!-- The sign is set smaller than the figure it marks: at full
+                                         size it is the widest thing in the table, and every column
+                                         is sized to the widest thing in it. -->
+                                    {value.text.slice(0, -1)}<span class="degree">°</span>
+                                {:else}
+                                    {value.text}
+                                {/if}
+                            </td>
                         {/each}
                     </tr>
                 {/each}
@@ -306,7 +315,7 @@ th,
 td {
     /* Horizontal padding is width that the figures could be using instead: the columns are
        separated by their own rules, so the cells do not need much air of their own. */
-    padding: 0.28em 0.22em;
+    padding: 0.2em 0.18em;
     text-align: right;
     font-weight: 400;
     /* Absolute floor: an em-scaled hairline goes below the reproduction limit on a small
@@ -360,6 +369,10 @@ tbody:last-of-type tr:last-child td {
    stay light, the same division the card makes between its columns. */
 .emphasis {
     font-weight: 700;
+}
+
+.degree {
+    font-size: 0.72em;
 }
 
 /* The block headings over the card's two halves. */

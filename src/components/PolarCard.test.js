@@ -121,11 +121,14 @@ describe('PolarCard, full sheet', () => {
     });
 
     it('puts the degree sign on every angle, the way the certificate does', () => {
-        render(PolarCard, { boat: BOAT, layout: 'page' });
+        const { container } = render(PolarCard, { boat: BOAT, layout: 'page' });
 
-        // Beat angle at 6 kt, and the wind-angle row labels.
-        expect(screen.getByText('43.8°')).toBeDefined();
-        expect(screen.getByText('52°')).toBeDefined();
+        // The sign is its own element so it can be set smaller, so read whole cells.
+        const cells = [...container.querySelectorAll('td')].map((cell) => cell.textContent.replace(/\s+/g, ''));
+
+        expect(cells).toContain('43.8°'); // beat angle at 6 kt
+        expect(cells).toContain('4.26'); // a boat speed, with no sign
+        expect(screen.getByText('52°')).toBeDefined(); // and the wind-angle row labels
     });
 
     it('sets the complete table the same way as the sheet', () => {
