@@ -212,6 +212,21 @@ describe('cardFontSizePt', () => {
         expect(quarter.pt).toBeLessThan(10);
     });
 
+    it('budgets for the boat’s name only when it is printed', () => {
+        const shown = cardFontSizePt({ cardWmm: 215.9, cardHmm: 139.7, columns: 9, bodyRows: 16, layout: 'page' });
+        const hidden = cardFontSizePt({
+            cardWmm: 215.9,
+            cardHmm: 139.7,
+            columns: 9,
+            bodyRows: 16,
+            layout: 'page',
+            identity: false,
+        });
+
+        // Two lines back is two lines the table can have.
+        expect(hidden.fitPt).toBeGreaterThan(shown.fitPt);
+    });
+
     it('allows the card on a quarter page, which is what it is for', () => {
         const quarter = forCard(107.95, 139.7, 6, 'card', 8);
 

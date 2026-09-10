@@ -21,6 +21,9 @@ export let colour = 'mono';
 // `notes` adds the units legend, the prediction caveat and the certificate provenance.
 export let details = false;
 export let notes = false;
+// The boat's name and sail number. On by default — a printout nobody can identify is of
+// limited use — but a tightly packed table may want the two lines back.
+export let identity = true;
 
 // The true wind angle and the boat speed are what you act on — steer to the angle, check
 // the speed — so they carry the weight here as they do on the card. The apparent-wind and
@@ -79,21 +82,25 @@ $: downwindSail =
 </script>
 
 <div class="print-card" class:is-card={layout === 'card'} style="font-size: {fontPt}pt">
-    <header>
-        <div class="identity">
-            <div class="name">{boat.name || 'Name unknown'}</div>
-            <div class="sail">{formatSailnumber(boat.sailnumber)}</div>
-        </div>
-        {#if details}
-            <div class="meta">
-                {#if boat.boat.type}<span>{boat.boat.type}</span>{/if}
-                <span>{downwindSail}</span>
-                <span>LOA {sizes.loa} m · {sizes.displacement} kg</span>
-                {#if boat.rating?.gph != null}<span>GPH {boat.rating.gph.toFixed(1)}</span>{/if}
-                {#if boat.rating?.osn != null}<span>Offshore {boat.rating.osn.toFixed(1)}</span>{/if}
-            </div>
-        {/if}
-    </header>
+    {#if identity || details}
+        <header>
+            {#if identity}
+                <div class="identity">
+                    <div class="name">{boat.name || 'Name unknown'}</div>
+                    <div class="sail">{formatSailnumber(boat.sailnumber)}</div>
+                </div>
+            {/if}
+            {#if details}
+                <div class="meta">
+                    {#if boat.boat.type}<span>{boat.boat.type}</span>{/if}
+                    <span>{downwindSail}</span>
+                    <span>LOA {sizes.loa} m · {sizes.displacement} kg</span>
+                    {#if boat.rating?.gph != null}<span>GPH {boat.rating.gph.toFixed(1)}</span>{/if}
+                    {#if boat.rating?.osn != null}<span>Offshore {boat.rating.osn.toFixed(1)}</span>{/if}
+                </div>
+            {/if}
+        </header>
+    {/if}
 
     {#if sheet}
         <table>
@@ -243,7 +250,9 @@ $: downwindSail =
 }
 
 header {
-    margin-bottom: 0.6em;
+    /* The identity is for telling one printout from another, not for reading at the helm,
+       so it takes as little of the page as it can get away with. */
+    margin-bottom: 0.4em;
 }
 .identity {
     display: flex;
@@ -252,7 +261,7 @@ header {
     gap: 1em;
 }
 .name {
-    font-size: 1.4em;
+    font-size: 1.15em;
     font-weight: 700;
     line-height: 1.1;
     /* A long name must not push the table down the page; the sail number identifies the
@@ -262,7 +271,7 @@ header {
     white-space: nowrap;
 }
 .sail {
-    font-size: 1.1em;
+    font-size: 1em;
     font-weight: 700;
     white-space: nowrap;
 }

@@ -48,6 +48,7 @@ let options = {
     vmg: false,
     beatRun: true,
     fullRange: false,
+    identity: true,
     details: false,
     notes: false,
     colour: 'mono',
@@ -95,7 +96,7 @@ function optionsFromHash() {
     for (const [key, value] of params) {
         if (key === 'perSheet' || key === 'margin') {
             parsed[key] = Number(value);
-        } else if (['awa', 'vmg', 'beatRun', 'fullRange', 'details', 'notes'].includes(key)) {
+        } else if (['awa', 'vmg', 'beatRun', 'fullRange', 'identity', 'details', 'notes'].includes(key)) {
             parsed[key] = value === '1';
         } else {
             parsed[key] = value;
@@ -120,6 +121,7 @@ function persist(options, perSheet) {
         vmg: options.vmg ? '1' : '0',
         beatRun: options.beatRun ? '1' : '0',
         fullRange: options.fullRange ? '1' : '0',
+        identity: options.identity ? '1' : '0',
         details: options.details ? '1' : '0',
         notes: options.notes ? '1' : '0',
         colour: options.colour,
@@ -178,6 +180,7 @@ $: fit = model
           bodyRows,
           valueEm,
           layout: options.layout,
+          identity: options.identity,
           details: options.details,
           notes: options.notes,
       })
@@ -196,6 +199,7 @@ $: allowedPerSheet = model
               bodyRows,
               valueEm,
               layout: options.layout,
+              identity: options.identity,
               details: options.details,
               notes: options.notes,
           }).allowed;
@@ -315,6 +319,7 @@ $: previewHeight = (page.h / MM_PER_PX) * zoom;
                 {:else if options.layout === 'card'}
                     <label><input type="checkbox" bind:checked={options.fullRange} /> All wind speeds</label>
                 {/if}
+                <label><input type="checkbox" bind:checked={options.identity} /> Boat name and sail number</label>
                 <label><input type="checkbox" bind:checked={options.details} /> Boat details</label>
                 <label><input type="checkbox" bind:checked={options.notes} /> Units and caveat</label>
             </fieldset>
@@ -352,6 +357,7 @@ $: previewHeight = (page.h / MM_PER_PX) * zoom;
                                     options={rowOptions}
                                     fontPt={fit.pt}
                                     colour={options.colour}
+                                    identity={options.identity}
                                     details={options.details}
                                     notes={options.notes} />
                             </div>

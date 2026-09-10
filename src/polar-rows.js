@@ -352,11 +352,15 @@ const CEILING = {
 // the footer — in ems of body type, so it scales with the card the way the rest does.
 // These are measured from the rendered card rather than guessed; if PolarCard's header or
 // padding changes materially, re-measure them.
-// The identity line and the column headers, which every layout always carries. Measured
-// from the rendered card with the table's stretch taken off, so they are what the content
-// actually needs rather than a guess — and they are what decides how big the type can be,
-// so a stale value here shows up as a page with a band of unused paper at the foot.
-const OVERHEAD_EM = { sheet: 3.9, card: 3.9, page: 3.9 };
+// Everything above and below the rows, measured from the rendered card with the table's
+// stretch taken off, so these are what the content actually needs rather than a guess.
+// They decide how large the type can be, so a stale value here shows up as a page with a
+// band of unused paper at the foot.
+//
+// The column headers are always there; the boat's name, the detail line and the footer are
+// each printed only when asked for, and only then do they cost anything.
+const OVERHEAD_EM = { sheet: 1.5, card: 2.4, page: 1.5 };
+const IDENTITY_EM = { sheet: 2.0, card: 1.6, page: 2.0 };
 // Added only when the optional blocks are printed: the detail lines under the boat's name,
 // and the footer's legend, caveat and provenance.
 const DETAIL_EM = { sheet: 1.8, card: 1.7, page: 1.8 };
@@ -364,7 +368,7 @@ const FOOTER_EM = { sheet: 2.3, card: 2.2, page: 2.3 };
 // Height of one body row, likewise measured: cell padding plus the line box, with the
 // card's larger wind-speed stub setting the pitch there. Under-estimating clips a row
 // rather than leaving a gap, so these are taken from the small end of each range.
-const ROW_PITCH_EM = { sheet: 1.55, card: 1.6, page: 1.55 };
+const ROW_PITCH_EM = { sheet: 1.5, card: 1.6, page: 1.5 };
 
 // A row measures a little under this at large sizes and a little over 1.5em at small ones,
 // as the browser rounds line boxes to whole pixels. Interpolating between the two ends was
@@ -399,6 +403,7 @@ export function cardFontSizePt({
     layout = 'sheet',
     marginMm = 5,
     valueEm = null,
+    identity = true,
     details = false,
     notes = false,
 }) {
@@ -409,7 +414,11 @@ export function cardFontSizePt({
     // and the fallback faces do not all agree with Helvetica's metrics to the last unit.
     const columnEm = dataEm * 1.03 + CELL_PADDING_EM;
     const widthEm = STUB_EM[layout] + columns * columnEm + (layout === 'card' ? GROUP_GUTTER_EM : 0);
-    const fixedEm = OVERHEAD_EM[layout] + (details ? DETAIL_EM[layout] : 0) + (notes ? FOOTER_EM[layout] : 0);
+    const fixedEm =
+        OVERHEAD_EM[layout] +
+        (identity ? IDENTITY_EM[layout] : 0) +
+        (details ? DETAIL_EM[layout] : 0) +
+        (notes ? FOOTER_EM[layout] : 0);
 
     const usableWmm = cardWmm - 2 * marginMm;
     const usableHmm = cardHmm - 2 * marginMm;
