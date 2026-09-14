@@ -14,7 +14,12 @@
       0.6505,
       0.8787,
       1.0036
-    ]
+    ],
+    "ilc": 687.9,
+    "aph_tod": 560.4,
+    "aph_tot": 1.0706,
+    "tmf_inshore": 0.8723,
+    "tmf_offshore": 0.9842
   },
   "boat": {
     "builder": "CUSTOM MADE",
@@ -33,7 +38,10 @@
       "crew": 500.0,
       "wetted_surface": 32.5
     },
-    "stability_index": 108.1
+    "stability_index": 108.1,
+    "cdl": 9.226,
+    "division": "C",
+    "issue_date": "2026-09-02T11:49:36.990Z"
   },
   "vpp": {
     "angles": [
