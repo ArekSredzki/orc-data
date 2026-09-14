@@ -14,7 +14,12 @@
       0.6547,
       0.8972,
       1.0322
-    ]
+    ],
+    "ilc": 674.2,
+    "aph_tod": 550.9,
+    "aph_tot": 1.089,
+    "tmf_inshore": 0.89,
+    "tmf_offshore": 1.0021
   },
   "boat": {
     "builder": "David Dylan",
@@ -33,7 +38,10 @@
       "crew": 601.0,
       "wetted_surface": 20.36
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.06,
+    "division": "R",
+    "issue_date": "2026-09-06T23:02:29.655Z"
   },
   "vpp": {
     "angles": [
