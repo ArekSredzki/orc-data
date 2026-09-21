@@ -173,16 +173,16 @@
       33.035
     ],
     [
+      "GBR/_1",
+      "PS5 Playstation",
+      "SWAN 108",
+      33.03
+    ],
+    [
       "GRE/GBR106",
       "WALLY B",
       "BRENTA 106",
       33.0
-    ],
-    [
-      "ITA/ITA1946",
-      "ULISSE",
-      "Frers 105'",
-      32.777
     ]
   ],
   "max_displacement": [
@@ -197,12 +197,6 @@
       "PATH",
       "Baltic 146",
       174081.0
-    ],
-    [
-      "GBR/_1",
-      "FAR HORIZON",
-      "GAFF SCHOONER",
-      132602.0
     ],
     [
       "GBR/_0",
@@ -233,6 +227,12 @@
       "ULISSE",
       "Frers 105'",
       95604.0
+    ],
+    [
+      "GBR/_1",
+      "PS5 Playstation",
+      "SWAN 108",
+      88391.0
     ],
     [
       "MLT/MLT112",

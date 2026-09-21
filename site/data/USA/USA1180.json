@@ -3,45 +3,45 @@
   "country": "USA",
   "name": "BACCHANAL",
   "rating": {
-    "gph": 556.9,
+    "gph": 557.0,
     "osn": 540.8,
     "triple_offshore": [
-      0.9472,
+      0.9471,
       1.2129,
       1.3612
     ],
     "triple_inshore": [
-      0.7351,
+      0.735,
       0.9838,
       1.115
     ],
     "ilc": 614.9,
-    "aph_tod": 497.1,
+    "aph_tod": 497.2,
     "aph_tot": 1.2069,
-    "tmf_inshore": 0.9758,
+    "tmf_inshore": 0.9757,
     "tmf_offshore": 1.1094
   },
   "boat": {
     "builder": "Innovative Composi",
-    "type": "JPK 1180",
-    "designer": "Jacques Valer",
+    "type": "JPK 1180 FIN KEEL",
+    "designer": "VALER JACQUES",
     "year": 2018,
     "sizes": {
       "loa": 11.816,
       "beam": 3.95,
       "draft": 2.33,
       "displacement": 6204.0,
-      "genoa": 40.33,
+      "genoa": 40.3,
       "main": 54.42,
       "spinnaker": 0.0,
-      "spinnaker_asym": 155.59,
+      "spinnaker_asym": 155.48,
       "crew": 790.0,
       "wetted_surface": 33.02
     },
     "stability_index": 115.2,
-    "cdl": 10.757,
+    "cdl": 10.756,
     "division": "R",
-    "issue_date": "2026-08-27T16:26:11.142Z"
+    "issue_date": "2026-09-16T15:50:15.353Z"
   },
   "vpp": {
     "angles": [
@@ -90,7 +90,7 @@
     "75": [
       4.77,
       6.36,
-      7.35,
+      7.34,
       7.88,
       8.25,
       8.54,
@@ -136,7 +136,7 @@
       5.69,
       7.05,
       7.88,
-      8.48,
+      8.47,
       9.08,
       9.77,
       11.67,
@@ -151,7 +151,7 @@
       8.35,
       8.86,
       10.16,
-      12.77
+      12.76
     ],
     "beat_angle": [
       46,
@@ -195,7 +195,7 @@
       7.29,
       7.71,
       8.8,
-      11.06
+      11.05
     ]
   }
 }
