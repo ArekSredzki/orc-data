@@ -15,41 +15,46 @@ let sailnumberB = undefined;
 let boatA = undefined;
 let boatB = undefined;
 
-let sailnumbers = [];
 const PREFIX = 'compare-';
 const SEPARATOR = '|';
 
-onMount(() => {
+// The URL owns the selection. Select widgets may clear their internal values while
+// options load; only an explicit user change should write a new history entry.
+function readUrl() {
     const hash = window.location.hash.substring(1);
-    if (hash.startsWith(PREFIX)) {
+    if (hash === 'compare' || hash.startsWith(PREFIX)) {
         [sailnumberA, sailnumberB] = hash.substring(PREFIX.length).split(SEPARATOR);
     }
+}
+
+onMount(() => {
+    readUrl();
+    window.addEventListener('hashchange', readUrl);
+    return () => window.removeEventListener('hashchange', readUrl);
 });
 
-function updateUrl(sailnumbers) {
-    if (sailnumbers.some((x) => x)) {
-        window.location.hash = `${PREFIX}${sailnumbers.join(SEPARATOR)}`;
-    }
-    return sailnumbers;
-}
-async function loadBoatA(sailnumber) {
-    if (sailnumber === undefined) {
-        target = undefined;
-        return;
-    }
-    boatA = await getBoat(sailnumber);
-}
-async function loadBoatB(sailnumber) {
-    if (sailnumber === undefined) {
-        target = undefined;
-        return;
-    }
-    boatB = await getBoat(sailnumber);
+function selectBoat(side, event) {
+    const selected = [sailnumberA || '', sailnumberB || ''];
+    selected[side] = event.detail?.sailnumber || '';
+    window.location.hash = `${PREFIX}${selected.join(SEPARATOR)}`;
+    readUrl();
 }
 
-$: sailnumbers = updateUrl([sailnumberA, sailnumberB]);
-$: sailnumberA && loadBoatA(sailnumberA);
-$: sailnumberB && loadBoatB(sailnumberB);
+async function loadBoatA(sailnumber) {
+    boatA = undefined;
+    if (!sailnumber) return;
+    const loaded = await getBoat(sailnumber);
+    if (sailnumberA === sailnumber) boatA = loaded;
+}
+async function loadBoatB(sailnumber) {
+    boatB = undefined;
+    if (!sailnumber) return;
+    const loaded = await getBoat(sailnumber);
+    if (sailnumberB === sailnumber) boatB = loaded;
+}
+
+$: loadBoatA(sailnumberA);
+$: loadBoatB(sailnumberB);
 
 function topSpeed(boat) {
     if (!boat) {
@@ -104,10 +109,10 @@ $: visibleRows = rows.filter((row) => row.separator || [boatA, boatB].some((boat
 <div class="container-fluid">
     <div class="row p-2 row-cols-2">
         <div class="col">
-            <BoatSelect bind:sailnumber={sailnumberA} />
+            <BoatSelect sailnumber={sailnumberA} on:change={(event) => selectBoat(0, event)} />
         </div>
         <div class="col">
-            <BoatSelect bind:sailnumber={sailnumberB} />
+            <BoatSelect sailnumber={sailnumberB} on:change={(event) => selectBoat(1, event)} />
         </div>
     </div>
     <div class="row p-2 row-cols-2"></div>

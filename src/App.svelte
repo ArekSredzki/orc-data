@@ -75,7 +75,7 @@ $: printSailnumber = route.startsWith('print-') ? route.substring('print-'.lengt
 
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                {#if !sailnumber || (sailnumber && !sailnumber.startsWith('compare'))}
+                {#if !route.startsWith('compare')}
                     <li class="nav-item d-block-md">
                         <BoatSelect bind:sailnumber />
                     </li>
@@ -86,7 +86,11 @@ $: printSailnumber = route.startsWith('print-') ? route.substring('print-'.lengt
                     </li>
                 {/if}
                 <li class="nav-item">
-                    <a href="#compare-{boatSailnumber || sailnumber || ''}" class="nav-link">Compare boats</a>
+                    <a
+                        href={route.startsWith('compare')
+                            ? `#${route}`
+                            : `#compare-${boatSailnumber || sailnumber || ''}`}
+                        class="nav-link">Compare boats</a>
                 </li>
                 <li class="nav-item"><a href="#customplot" class="nav-link">Plot custom CSV</a></li>
                 <li class="nav-item"><a href="#glossary" class="nav-link">Glossary</a></li>
