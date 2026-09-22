@@ -68,6 +68,10 @@ let plot;
                 </a>
             </div>
 
+            {#if boat.reference}
+                <p><span class="text-muted">ORC reference</span> {boat.reference}</p>
+            {/if}
+
             <table class="table">
                 <tr><th>Sail number</th><th>Type</th><th>Designer</th><th>Builder</th></tr>
                 <tr>
