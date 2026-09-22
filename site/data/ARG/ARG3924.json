@@ -14,7 +14,12 @@
       0.5695,
       0.7794,
       0.8918
-    ]
+    ],
+    "ilc": 776.2,
+    "aph_tod": 633.6,
+    "aph_tot": 0.9469,
+    "tmf_inshore": 0.773,
+    "tmf_offshore": 0.8704
   },
   "boat": {
     "builder": "AST. D'ANGELO",
@@ -33,7 +38,10 @@
       "crew": 448.0,
       "wetted_surface": 18.75
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 7.092,
+    "division": "C",
+    "issue_date": "2026-09-04T20:36:07.499Z"
   },
   "vpp": {
     "angles": [

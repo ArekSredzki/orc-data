@@ -14,7 +14,12 @@
       0.568,
       0.7363,
       0.8156
-    ]
+    ],
+    "ilc": 821.4,
+    "aph_tod": 685.0,
+    "aph_tot": 0.876,
+    "tmf_inshore": 0.7304,
+    "tmf_offshore": 0.8127
   },
   "boat": {
     "builder": "FIBRESTER",
@@ -33,7 +38,10 @@
       "crew": 300.0,
       "wetted_surface": 11.86
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 5.713,
+    "division": "R",
+    "issue_date": "2026-09-02T11:27:55.104Z"
   },
   "vpp": {
     "angles": [

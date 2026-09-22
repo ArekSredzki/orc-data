@@ -41,7 +41,7 @@
     "stability_index": 124.0,
     "cdl": 10.446,
     "division": "C",
-    "issue_date": "2026-04-15T23:37:54.751Z"
+    "issue_date": "2026-09-04T16:31:54.399Z"
   },
   "vpp": {
     "angles": [
@@ -197,6 +197,5 @@
       8.05,
       8.7
     ]
-  },
-  "reference": "03420004LJ3"
+  }
 }

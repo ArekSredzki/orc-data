@@ -14,7 +14,12 @@
       0.6853,
       1.0359,
       1.3015
-    ]
+    ],
+    "ilc": 583.1,
+    "aph_tod": 453.2,
+    "aph_tot": 1.3239,
+    "tmf_inshore": 1.029,
+    "tmf_offshore": 1.1961
   },
   "boat": {
     "builder": "JD Paquito, SA",
@@ -33,7 +38,10 @@
       "crew": 2720.0,
       "wetted_surface": 207.02
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 19.642,
+    "division": "C",
+    "issue_date": "2026-05-28T14:53:32.065Z"
   },
   "vpp": {
     "angles": [

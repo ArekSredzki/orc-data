@@ -14,7 +14,12 @@
       0.7952,
       1.0061,
       1.1935
-    ]
+    ],
+    "ilc": 593.5,
+    "aph_tod": 469.8,
+    "aph_tot": 1.2771,
+    "tmf_inshore": 1.0109,
+    "tmf_offshore": 1.166
   },
   "boat": {
     "builder": "Licospar",
@@ -33,7 +38,10 @@
       "crew": 520.0,
       "wetted_surface": 15.94
     },
-    "stability_index": -1.0
+    "stability_index": null,
+    "cdl": 9.839,
+    "division": "R",
+    "issue_date": "2026-09-04T13:21:00.160Z"
   },
   "vpp": {
     "angles": [
