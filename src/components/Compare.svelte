@@ -62,6 +62,7 @@ function topSpeed(boat) {
 // `label` may carry a `help` key naming a glossary entry, and `area: true` renders the m²
 // suffix. Values are read through accessors so a missing boat is simply undefined.
 const rows = [
+    { label: 'ORC reference', value: (boat) => boat?.reference },
     { label: 'Name', value: (boat) => boat?.name },
     { label: 'Type', value: (boat) => boat?.boat.type },
     { label: 'Year', value: (boat) => boat?.boat.year },

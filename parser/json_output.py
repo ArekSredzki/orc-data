@@ -48,6 +48,7 @@ def format_data(data):
     ret = {
         "sailnumber": sailnumber.strip(),
         "country": country,
+        "reference": optional_str(data.get("RefNo")),
         "name": (data.get("YachtName", "") or "").strip(),
         "rating": {
             "gph": float(data["GPH"]),
