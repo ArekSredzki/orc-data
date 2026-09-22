@@ -38,10 +38,10 @@
       "crew": 750.0,
       "wetted_surface": 47.8
     },
-    "stability_index": null,
+    "stability_index": 127.0,
     "cdl": 10.672,
     "division": "C",
-    "issue_date": "2026-05-06T21:45:40.653Z"
+    "issue_date": "2026-09-17T20:26:01.820Z"
   },
   "vpp": {
     "angles": [
@@ -197,6 +197,5 @@
       8.45,
       9.13
     ]
-  },
-  "reference": "04410004OSU"
+  }
 }
