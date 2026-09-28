@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR5859",
   "country": "NOR",
+  "reference": "03440004PBJ",
   "name": "Idefix",
   "rating": {
     "gph": 575.6,
@@ -197,6 +198,5 @@
       8.42,
       9.32
     ]
-  },
-  "reference": "03440004PBJ"
+  }
 }

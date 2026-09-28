@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13920",
   "country": "NOR",
+  "reference": "03440004QS6",
   "name": "Smil",
   "rating": {
     "gph": 613.3,
@@ -197,6 +198,5 @@
       8.17,
       9.06
     ]
-  },
-  "reference": "03440004QS6"
+  }
 }

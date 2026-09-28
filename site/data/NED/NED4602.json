@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4602",
   "country": "NED",
+  "reference": "04310004MC6",
   "name": "ISABELLA",
   "rating": {
     "gph": 487.8,
@@ -197,6 +198,5 @@
       9.65,
       10.51
     ]
-  },
-  "reference": "04310004MC6"
+  }
 }

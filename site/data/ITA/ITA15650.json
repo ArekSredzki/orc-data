@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15650",
   "country": "ITA",
+  "reference": "03190004HAI",
   "name": "ADRIGOLE II",
   "rating": {
     "gph": 560.9,
@@ -197,6 +198,5 @@
       8.75,
       10.43
     ]
-  },
-  "reference": "03190004HAI"
+  }
 }

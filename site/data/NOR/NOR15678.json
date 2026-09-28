@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15678",
   "country": "NOR",
+  "reference": "03440004MPN",
   "name": "Berenike",
   "rating": {
     "gph": 583.6,
@@ -197,6 +198,5 @@
       8.5,
       9.32
     ]
-  },
-  "reference": "03440004MPN"
+  }
 }

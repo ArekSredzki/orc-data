@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8799",
   "country": "GER",
+  "reference": "03520004SJ8",
   "name": "VOYAGE",
   "rating": {
     "gph": 638.8,
@@ -197,6 +198,5 @@
       7.86,
       8.71
     ]
-  },
-  "reference": "03520004SJ8"
+  }
 }

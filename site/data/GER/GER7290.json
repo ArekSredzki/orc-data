@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7290",
   "country": "GER",
+  "reference": "03520004I29",
   "name": "JOS OF HAMBLE",
   "rating": {
     "gph": 673.1,
@@ -197,6 +198,5 @@
       7.42,
       8.02
     ]
-  },
-  "reference": "03520004I29"
+  }
 }

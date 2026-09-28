@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8393",
   "country": "GER",
+  "reference": "03520004Q86",
   "name": "T\u00d8SEN 2",
   "rating": {
     "gph": 521.1,
@@ -197,6 +198,5 @@
       10.94,
       14.06
     ]
-  },
-  "reference": "03520004Q86"
+  }
 }

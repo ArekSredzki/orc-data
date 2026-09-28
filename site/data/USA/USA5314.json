@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA5314",
   "country": "USA",
+  "reference": "04560004URE",
   "name": "Cynthia Lyn",
   "rating": {
     "gph": 545.6,
@@ -197,6 +198,5 @@
       9.3,
       10.37
     ]
-  },
-  "reference": "04560004URE"
+  }
 }

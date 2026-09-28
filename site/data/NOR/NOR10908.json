@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10908",
   "country": "NOR",
+  "reference": "03440004SFS",
   "name": "Lona Hi5",
   "rating": {
     "gph": 652.8,
@@ -197,6 +198,5 @@
       7.82,
       8.44
     ]
-  },
-  "reference": "03440004SFS"
+  }
 }

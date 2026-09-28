@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17415",
   "country": "ITA",
+  "reference": "03190004OPW",
   "name": "KUNDALINI",
   "rating": {
     "gph": 635.3,
@@ -197,6 +198,5 @@
       8.03,
       8.95
     ]
-  },
-  "reference": "03190004OPW"
+  }
 }

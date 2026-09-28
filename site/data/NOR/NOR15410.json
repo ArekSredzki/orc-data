@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15410",
   "country": "NOR",
+  "reference": "03440004SK9",
   "name": "Blanke Arc ^2",
   "rating": {
     "gph": 575.0,
@@ -197,6 +198,5 @@
       8.63,
       9.54
     ]
-  },
-  "reference": "03440004SK9"
+  }
 }

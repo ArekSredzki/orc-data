@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8763",
   "country": "NED",
+  "reference": "04310004K1O",
   "name": "Catweazle",
   "rating": {
     "gph": 668.3,
@@ -197,6 +198,5 @@
       7.49,
       8.2
     ]
-  },
-  "reference": "04310004K1O"
+  }
 }

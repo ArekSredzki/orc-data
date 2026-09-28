@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6002",
   "country": "GER",
+  "reference": "03520004UER",
   "name": "SALTY DOGS",
   "rating": {
     "gph": 541.6,
@@ -197,6 +198,5 @@
       10.19,
       12.88
     ]
-  },
-  "reference": "03520004UER"
+  }
 }

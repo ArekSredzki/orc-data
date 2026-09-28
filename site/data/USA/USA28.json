@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA28",
   "country": "USA",
+  "reference": "04560004TQJ",
   "name": "PADAWAN 4",
   "rating": {
     "gph": 561.1,
@@ -197,6 +198,5 @@
       9.21,
       11.87
     ]
-  },
-  "reference": "04560004TQJ"
+  }
 }

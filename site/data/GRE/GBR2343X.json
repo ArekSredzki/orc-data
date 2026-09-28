@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GBR2343X",
   "country": "GRE",
+  "reference": "03420004RKS",
   "name": "PELAGIA",
   "rating": {
     "gph": 577.7,
@@ -197,6 +198,5 @@
       8.19,
       8.86
     ]
-  },
-  "reference": "03420004RKS"
+  }
 }

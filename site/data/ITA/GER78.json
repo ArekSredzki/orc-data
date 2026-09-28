@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GER78",
   "country": "ITA",
+  "reference": "03190004IA3",
   "name": "GAIA",
   "rating": {
     "gph": 578.6,
@@ -197,6 +198,5 @@
       8.68,
       9.44
     ]
-  },
-  "reference": "03190004IA3"
+  }
 }

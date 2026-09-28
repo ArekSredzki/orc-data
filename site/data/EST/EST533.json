@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST533",
   "country": "EST",
+  "reference": "04340004V4D",
   "name": "ADVENTURE",
   "rating": {
     "gph": 625.3,
@@ -197,6 +198,5 @@
       7.87,
       8.58
     ]
-  },
-  "reference": "04340004V4D"
+  }
 }

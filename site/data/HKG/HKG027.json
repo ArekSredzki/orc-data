@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG027",
   "country": "HKG",
+  "reference": "03880004WW1",
   "name": "Iron Man 25",
   "rating": {
     "gph": 606.4,
@@ -197,6 +198,5 @@
       10.78,
       13.88
     ]
-  },
-  "reference": "03880004WW1"
+  }
 }

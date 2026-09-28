@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11643",
   "country": "NOR",
+  "reference": "03440004NB4",
   "name": "Spiralis",
   "rating": {
     "gph": 641.2,
@@ -197,6 +198,5 @@
       8.05,
       8.77
     ]
-  },
-  "reference": "03440004NB4"
+  }
 }

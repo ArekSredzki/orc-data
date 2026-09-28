@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8733",
   "country": "GER",
+  "reference": "03520004QA7",
   "name": "TABITI",
   "rating": {
     "gph": 655.9,
@@ -197,6 +198,5 @@
       7.32,
       8.44
     ]
-  },
-  "reference": "03520004QA7"
+  }
 }

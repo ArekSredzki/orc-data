@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1997",
   "country": "TUR",
+  "reference": "04590004M1U",
   "name": "GUARANA - GLOBIT",
   "rating": {
     "gph": 655.8,
@@ -197,6 +198,5 @@
       9.13,
       12.3
     ]
-  },
-  "reference": "04590004M1U"
+  }
 }

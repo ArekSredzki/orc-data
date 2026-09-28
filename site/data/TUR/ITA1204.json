@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/ITA1204",
   "country": "TUR",
+  "reference": "04590004VQA",
   "name": "ON THE ROCKSS",
   "rating": {
     "gph": 672.5,
@@ -197,6 +198,5 @@
       9.17,
       12.34
     ]
-  },
-  "reference": "04590004VQA"
+  }
 }

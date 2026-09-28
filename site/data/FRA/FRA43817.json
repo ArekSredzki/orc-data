@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA43817",
   "country": "FRA",
+  "reference": "04330004CCD",
   "name": "JUBILATE",
   "rating": {
     "gph": 644.2,
@@ -197,6 +198,5 @@
       7.39,
       8.75
     ]
-  },
-  "reference": "04330004CCD"
+  }
 }

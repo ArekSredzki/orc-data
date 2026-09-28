@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7627_C",
   "country": "ESP",
+  "reference": "03510004BFD",
   "name": "ARAOK",
   "rating": {
     "gph": 747.3,
@@ -197,6 +198,5 @@
       6.74,
       7.33
     ]
-  },
-  "reference": "03510004BFD"
+  }
 }

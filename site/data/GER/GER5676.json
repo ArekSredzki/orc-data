@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5676",
   "country": "GER",
+  "reference": "03520004RV2",
   "name": "RAFALE",
   "rating": {
     "gph": 424.0,
@@ -197,6 +198,5 @@
       13.78,
       17.25
     ]
-  },
-  "reference": "03520004RV2"
+  }
 }

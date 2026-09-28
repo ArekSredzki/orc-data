@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8609",
   "country": "GER",
+  "reference": "03520004I2W",
   "name": "JAY",
   "rating": {
     "gph": 627.3,
@@ -197,6 +198,5 @@
       8.35,
       11.02
     ]
-  },
-  "reference": "03520004I2W"
+  }
 }

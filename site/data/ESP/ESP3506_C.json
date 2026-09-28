@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3506_C",
   "country": "ESP",
+  "reference": "03510004UR4",
   "name": "GYPSY",
   "rating": {
     "gph": 733.0,
@@ -197,6 +198,5 @@
       6.74,
       8.39
     ]
-  },
-  "reference": "03510004UR4"
+  }
 }

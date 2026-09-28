@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7270",
   "country": "ESP",
+  "reference": "03510004BJW",
   "name": "MARATHON DOS",
   "rating": {
     "gph": 694.3,
@@ -197,6 +198,5 @@
       6.94,
       7.51
     ]
-  },
-  "reference": "03510004BJW"
+  }
 }

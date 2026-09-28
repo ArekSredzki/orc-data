@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2898",
   "country": "BRA",
+  "reference": "04420004VFR",
   "name": "Saci",
   "rating": {
     "gph": 506.7,
@@ -197,6 +198,5 @@
       11.88,
       15.1
     ]
-  },
-  "reference": "04420004VFR"
+  }
 }

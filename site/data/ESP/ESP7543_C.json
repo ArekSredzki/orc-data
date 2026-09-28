@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7543_C",
   "country": "ESP",
+  "reference": "03510004FNQ",
   "name": "FRONKONSTIN",
   "rating": {
     "gph": 612.9,
@@ -197,6 +198,5 @@
       8.96,
       11.68
     ]
-  },
-  "reference": "03510004FNQ"
+  }
 }

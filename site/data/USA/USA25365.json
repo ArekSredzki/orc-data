@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25365",
   "country": "USA",
+  "reference": "04560004EVF",
   "name": "Charlotte",
   "rating": {
     "gph": 612.6,
@@ -197,6 +198,5 @@
       8.38,
       11.52
     ]
-  },
-  "reference": "04560004EVF"
+  }
 }

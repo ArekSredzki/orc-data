@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14643",
   "country": "NOR",
+  "reference": "03440004N9S",
   "name": "Begge Dehler",
   "rating": {
     "gph": 565.4,
@@ -197,6 +198,5 @@
       8.79,
       9.75
     ]
-  },
-  "reference": "03440004N9S"
+  }
 }

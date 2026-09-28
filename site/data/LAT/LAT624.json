@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT624",
   "country": "LAT",
+  "reference": "04960004QUV",
   "name": "De Luna",
   "rating": {
     "gph": 612.7,
@@ -197,6 +198,5 @@
       7.65,
       8.47
     ]
-  },
-  "reference": "04960004QUV"
+  }
 }

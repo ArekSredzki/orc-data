@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2803",
   "country": "CRO",
+  "reference": "03620004B4I",
   "name": "Samoa",
   "rating": {
     "gph": 549.2,
@@ -197,6 +198,5 @@
       8.81,
       9.71
     ]
-  },
-  "reference": "03620004B4I"
+  }
 }

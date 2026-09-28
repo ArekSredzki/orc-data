@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8596",
   "country": "GER",
+  "reference": "03520004I2V",
   "name": "BLUE CHIP",
   "rating": {
     "gph": 599.0,
@@ -197,6 +198,5 @@
       7.95,
       9.1
     ]
-  },
-  "reference": "03520004I2V"
+  }
 }

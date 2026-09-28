@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN21",
   "country": "HUN",
+  "reference": "04890004PUW",
   "name": "ROSA",
   "rating": {
     "gph": 625.3,
@@ -197,6 +198,5 @@
       8.6,
       10.74
     ]
-  },
-  "reference": "04890004PUW"
+  }
 }

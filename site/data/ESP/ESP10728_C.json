@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10728_C",
   "country": "ESP",
+  "reference": "03510004KO2",
   "name": "ANDROMAXA TOO",
   "rating": {
     "gph": 622.9,
@@ -197,6 +198,5 @@
       7.81,
       8.46
     ]
-  },
-  "reference": "03510004KO2"
+  }
 }

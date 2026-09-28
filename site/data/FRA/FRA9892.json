@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9892",
   "country": "FRA",
+  "reference": "04330004FTF",
   "name": "REVE D'O",
   "rating": {
     "gph": 580.6,
@@ -197,6 +198,5 @@
       8.47,
       9.2
     ]
-  },
-  "reference": "04330004FTF"
+  }
 }

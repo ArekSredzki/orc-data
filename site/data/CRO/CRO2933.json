@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2933",
   "country": "CRO",
+  "reference": "03620004RA1",
   "name": "Whisper 2",
   "rating": {
     "gph": 630.1,
@@ -197,6 +198,5 @@
       9.57,
       12.74
     ]
-  },
-  "reference": "03620004RA1"
+  }
 }

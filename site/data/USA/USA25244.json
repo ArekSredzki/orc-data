@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25244",
   "country": "USA",
+  "reference": "04560004QBF",
   "name": "PALANTIR 5",
   "rating": {
     "gph": 558.4,
@@ -197,6 +198,5 @@
       8.3,
       9.04
     ]
-  },
-  "reference": "04560004QBF"
+  }
 }

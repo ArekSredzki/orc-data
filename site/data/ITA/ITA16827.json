@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16827",
   "country": "ITA",
+  "reference": "03190004FLH",
   "name": "JACK SPARROW",
   "rating": {
     "gph": 561.3,
@@ -197,6 +198,5 @@
       8.66,
       10.49
     ]
-  },
-  "reference": "03190004FLH"
+  }
 }

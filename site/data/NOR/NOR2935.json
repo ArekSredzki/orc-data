@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR2935",
   "country": "NOR",
+  "reference": "03440004RB0",
   "name": "Hyak",
   "rating": {
     "gph": 676.3,
@@ -197,6 +198,5 @@
       7.24,
       8.0
     ]
-  },
-  "reference": "03440004RB0"
+  }
 }

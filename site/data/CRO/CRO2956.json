@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2956",
   "country": "CRO",
+  "reference": "03620004LWN",
   "name": "Bella II",
   "rating": {
     "gph": 620.0,
@@ -197,6 +198,5 @@
       7.88,
       8.45
     ]
-  },
-  "reference": "03620004LWN"
+  }
 }

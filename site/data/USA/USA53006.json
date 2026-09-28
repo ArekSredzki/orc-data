@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA53006",
   "country": "USA",
+  "reference": "04560004WK2",
   "name": "ENCORE",
   "rating": {
     "gph": 579.5,
@@ -197,6 +198,5 @@
       8.49,
       9.79
     ]
-  },
-  "reference": "04560004WK2"
+  }
 }

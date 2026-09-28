@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/2",
   "country": "FIN",
+  "reference": "04140004WH2",
   "name": "One And All",
   "rating": {
     "gph": 741.5,
@@ -197,6 +198,5 @@
       7.08,
       7.59
     ]
-  },
-  "reference": "04140004WH2"
+  }
 }

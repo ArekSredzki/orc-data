@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA9355",
   "country": "ITA",
+  "reference": "03190004K7D",
   "name": "MARIA VITTORIA",
   "rating": {
     "gph": 607.1,
@@ -197,6 +198,5 @@
       7.72,
       8.22
     ]
-  },
-  "reference": "03190004K7D"
+  }
 }

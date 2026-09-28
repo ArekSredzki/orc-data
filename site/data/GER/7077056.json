@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/7077056",
   "country": "GER",
+  "reference": "03520004UEA",
   "name": "RAGE CAGE",
   "rating": {
     "gph": 680.2,
@@ -197,6 +198,5 @@
       8.81,
       11.96
     ]
-  },
-  "reference": "03520004UEA"
+  }
 }

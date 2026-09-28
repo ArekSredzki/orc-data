@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5561",
   "country": "ESP",
+  "reference": "03510004BIM",
   "name": "ORBALLO UNO",
   "rating": {
     "gph": 662.2,
@@ -197,6 +198,5 @@
       7.21,
       8.14
     ]
-  },
-  "reference": "03510004BIM"
+  }
 }

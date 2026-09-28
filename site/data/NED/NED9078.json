@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9078",
   "country": "NED",
+  "reference": "04310004VVQ",
   "name": "Happy Hour",
   "rating": {
     "gph": 663.2,
@@ -197,6 +198,5 @@
       7.75,
       10.61
     ]
-  },
-  "reference": "04310004VVQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12538",
   "country": "NOR",
+  "reference": "03440004WJL",
   "name": "Masito",
   "rating": {
     "gph": 583.6,
@@ -197,6 +198,5 @@
       8.25,
       8.92
     ]
-  },
-  "reference": "03440004WJL"
+  }
 }

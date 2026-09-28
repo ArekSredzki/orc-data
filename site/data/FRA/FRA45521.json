@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA45521",
   "country": "FRA",
+  "reference": "04330004CBM",
   "name": "CARPE DIEM",
   "rating": {
     "gph": 755.2,
@@ -197,6 +198,5 @@
       6.55,
       7.07
     ]
-  },
-  "reference": "04330004CBM"
+  }
 }

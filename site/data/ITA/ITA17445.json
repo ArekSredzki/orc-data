@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17445",
   "country": "ITA",
+  "reference": "03190004P18",
   "name": "WILD 1^",
   "rating": {
     "gph": 569.0,
@@ -197,6 +198,5 @@
       8.78,
       9.64
     ]
-  },
-  "reference": "03190004P18"
+  }
 }

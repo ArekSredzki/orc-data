@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED904",
   "country": "NED",
+  "reference": "04310004K2B",
   "name": "Windsprint",
   "rating": {
     "gph": 580.4,
@@ -197,6 +198,5 @@
       8.32,
       9.86
     ]
-  },
-  "reference": "04310004K2B"
+  }
 }

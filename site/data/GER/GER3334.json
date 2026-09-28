@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER3334",
   "country": "GER",
+  "reference": "03520004I1L",
   "name": "LORE",
   "rating": {
     "gph": 643.9,
@@ -197,6 +198,5 @@
       7.61,
       8.27
     ]
-  },
-  "reference": "03520004I1L"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN6875",
   "country": "JPN",
+  "reference": "03390004JHV",
   "name": "Spectre",
   "rating": {
     "gph": 612.7,
@@ -197,6 +198,5 @@
       8.13,
       8.97
     ]
-  },
-  "reference": "03390004JHV"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51007",
   "country": "USA",
+  "reference": "04560004KI7",
   "name": "RYUJIN",
   "rating": {
     "gph": 438.1,
@@ -197,6 +198,5 @@
       13.6,
       16.62
     ]
-  },
-  "reference": "04560004KI7"
+  }
 }

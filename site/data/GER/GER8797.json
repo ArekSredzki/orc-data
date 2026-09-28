@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8797",
   "country": "GER",
+  "reference": "03520004TMU",
   "name": "WINDFALL",
   "rating": {
     "gph": 532.5,
@@ -197,6 +198,5 @@
       9.56,
       11.67
     ]
-  },
-  "reference": "03520004TMU"
+  }
 }

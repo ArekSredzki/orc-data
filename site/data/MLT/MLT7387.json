@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/MLT7387",
   "country": "MLT",
+  "reference": "03230004UPD",
   "name": "Vivace",
   "rating": {
     "gph": 597.5,
@@ -197,6 +198,5 @@
       8.0,
       9.16
     ]
-  },
-  "reference": "03230004UPD"
+  }
 }

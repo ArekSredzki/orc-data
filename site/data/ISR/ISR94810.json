@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR94810",
   "country": "ISR",
+  "reference": "04390004841",
   "name": "Lou of Ixopo",
   "rating": {
     "gph": 675.4,
@@ -197,6 +198,5 @@
       7.53,
       8.2
     ]
-  },
-  "reference": "04390004841"
+  }
 }

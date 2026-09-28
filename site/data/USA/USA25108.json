@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25108",
   "country": "USA",
+  "reference": "04560004PQJ",
   "name": "BARON",
   "rating": {
     "gph": 656.9,
@@ -197,6 +198,5 @@
       7.34,
       8.12
     ]
-  },
-  "reference": "04560004PQJ"
+  }
 }

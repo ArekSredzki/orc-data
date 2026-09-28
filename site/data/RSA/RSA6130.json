@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA6130",
   "country": "RSA",
+  "reference": "04620004W39",
   "name": "Yolo",
   "rating": {
     "gph": 626.0,
@@ -197,6 +198,5 @@
       7.89,
       10.09
     ]
-  },
-  "reference": "04620004W39"
+  }
 }

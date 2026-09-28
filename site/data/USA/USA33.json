@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA33",
   "country": "USA",
+  "reference": "04560004REI",
   "name": "HELIOS",
   "rating": {
     "gph": 609.2,
@@ -197,6 +198,5 @@
       7.61,
       8.31
     ]
-  },
-  "reference": "04560004REI"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU19",
   "country": "ROU",
+  "reference": "05040004RHA",
   "name": "Elysea",
   "rating": {
     "gph": 695.9,
@@ -197,6 +198,5 @@
       7.05,
       7.54
     ]
-  },
-  "reference": "05040004RHA"
+  }
 }

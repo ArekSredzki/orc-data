@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9212",
   "country": "NED",
+  "reference": "04310004K2V",
   "name": "Oh Jee!!!",
   "rating": {
     "gph": 638.8,
@@ -197,6 +198,5 @@
       7.99,
       10.9
     ]
-  },
-  "reference": "04310004K2V"
+  }
 }

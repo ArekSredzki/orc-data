@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7848",
   "country": "NED",
+  "reference": "04310004N3U",
   "name": "VorteX",
   "rating": {
     "gph": 599.8,
@@ -197,6 +198,5 @@
       8.34,
       9.13
     ]
-  },
-  "reference": "04310004N3U"
+  }
 }

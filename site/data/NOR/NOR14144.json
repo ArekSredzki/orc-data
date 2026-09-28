@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14144",
   "country": "NOR",
+  "reference": "03440004SJH",
   "name": "Gammal Moro",
   "rating": {
     "gph": 584.4,
@@ -197,6 +198,5 @@
       8.44,
       10.5
     ]
-  },
-  "reference": "03440004SJH"
+  }
 }

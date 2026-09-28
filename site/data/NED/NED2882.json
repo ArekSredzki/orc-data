@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2882",
   "country": "NED",
+  "reference": "04310004JTD",
   "name": "Resonate",
   "rating": {
     "gph": 622.3,
@@ -197,6 +198,5 @@
       7.93,
       8.58
     ]
-  },
-  "reference": "04310004JTD"
+  }
 }

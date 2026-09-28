@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/Q71",
   "country": "GBR",
+  "reference": "03860004UO4",
   "name": "VICTORIA",
   "rating": {
     "gph": 613.5,
@@ -197,6 +198,5 @@
       8.11,
       8.82
     ]
-  },
-  "reference": "03860004UO4"
+  }
 }

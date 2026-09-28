@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1437",
   "country": "GRE",
+  "reference": "03420004INP",
   "name": "YANI",
   "rating": {
     "gph": 843.7,
@@ -197,6 +198,5 @@
       6.1,
       6.6
     ]
-  },
-  "reference": "03420004INP"
+  }
 }

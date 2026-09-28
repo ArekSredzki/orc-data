@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10605",
   "country": "FIN",
+  "reference": "04140004RUQ",
   "name": "Penelope",
   "rating": {
     "gph": 687.4,
@@ -197,6 +198,5 @@
       7.43,
       8.11
     ]
-  },
-  "reference": "04140004RUQ"
+  }
 }

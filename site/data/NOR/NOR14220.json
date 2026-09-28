@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14220",
   "country": "NOR",
+  "reference": "03440004M4I",
   "name": "Track",
   "rating": {
     "gph": 674.2,
@@ -197,6 +198,5 @@
       7.51,
       8.27
     ]
-  },
-  "reference": "03440004M4I"
+  }
 }

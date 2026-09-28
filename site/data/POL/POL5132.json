@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL5132",
   "country": "POL",
+  "reference": "04410004OM2",
   "name": "ZOLTAR",
   "rating": {
     "gph": 615.3,
@@ -197,6 +198,5 @@
       8.6,
       10.74
     ]
-  },
-  "reference": "04410004OM2"
+  }
 }

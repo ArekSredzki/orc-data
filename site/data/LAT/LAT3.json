@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT3",
   "country": "LAT",
+  "reference": "04960004T16",
   "name": "Gabriel",
   "rating": {
     "gph": 593.3,
@@ -197,6 +198,5 @@
       8.25,
       9.0
     ]
-  },
-  "reference": "04960004T16"
+  }
 }

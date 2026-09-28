@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11197",
   "country": "NOR",
+  "reference": "03440004OQH",
   "name": "Mulen",
   "rating": {
     "gph": 619.0,
@@ -197,6 +198,5 @@
       7.89,
       8.61
     ]
-  },
-  "reference": "03440004OQH"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/GBR9410",
   "country": "NED",
+  "reference": "04310004QJR",
   "name": "Gotcha2",
   "rating": {
     "gph": 623.9,
@@ -197,6 +198,5 @@
       8.07,
       9.02
     ]
-  },
-  "reference": "04310004QJR"
+  }
 }

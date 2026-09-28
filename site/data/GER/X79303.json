@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/X79303",
   "country": "GER",
+  "reference": "04150004M0O",
   "name": "EXTRALAESSIG",
   "rating": {
     "gph": 687.9,
@@ -197,6 +198,5 @@
       7.38,
       9.32
     ]
-  },
-  "reference": "04150004M0O"
+  }
 }

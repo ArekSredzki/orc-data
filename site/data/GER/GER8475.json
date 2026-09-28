@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8475",
   "country": "GER",
+  "reference": "04150004IVB",
   "name": "SECOND LIFE",
   "rating": {
     "gph": 725.4,
@@ -197,6 +198,5 @@
       7.18,
       7.95
     ]
-  },
-  "reference": "04150004IVB"
+  }
 }

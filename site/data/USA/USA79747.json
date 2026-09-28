@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA79747",
   "country": "USA",
+  "reference": "04560004VUO",
   "name": "LITTLE FOX",
   "rating": {
     "gph": 598.8,
@@ -197,6 +198,5 @@
       8.82,
       11.62
     ]
-  },
-  "reference": "04560004VUO"
+  }
 }

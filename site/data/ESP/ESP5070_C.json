@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5070_C",
   "country": "ESP",
+  "reference": "03510004B4V",
   "name": "EMPENTA",
   "rating": {
     "gph": 598.3,
@@ -197,6 +198,5 @@
       8.26,
       9.08
     ]
-  },
-  "reference": "03510004B4V"
+  }
 }

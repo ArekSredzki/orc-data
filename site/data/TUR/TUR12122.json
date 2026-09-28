@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR12122",
   "country": "TUR",
+  "reference": "04590004C4H",
   "name": "BLUE MOON",
   "rating": {
     "gph": 529.7,
@@ -197,6 +198,5 @@
       10.04,
       12.89
     ]
-  },
-  "reference": "04590004C4H"
+  }
 }

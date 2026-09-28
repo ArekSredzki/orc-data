@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8070_C",
   "country": "ESP",
+  "reference": "035100048ID",
   "name": "ILLUKA",
   "rating": {
     "gph": 575.5,
@@ -197,6 +198,5 @@
       8.27,
       8.93
     ]
-  },
-  "reference": "035100048ID"
+  }
 }

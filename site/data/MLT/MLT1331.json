@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/MLT1331",
   "country": "MLT",
+  "reference": "03230004K5F",
   "name": "Blue Kairos",
   "rating": {
     "gph": 533.1,
@@ -197,6 +198,5 @@
       9.24,
       10.65
     ]
-  },
-  "reference": "03230004K5F"
+  }
 }

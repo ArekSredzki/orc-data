@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4300",
   "country": "NED",
+  "reference": "04310004JUE",
   "name": "Lux",
   "rating": {
     "gph": 575.2,
@@ -197,6 +198,5 @@
       8.28,
       9.02
     ]
-  },
-  "reference": "04310004JUE"
+  }
 }

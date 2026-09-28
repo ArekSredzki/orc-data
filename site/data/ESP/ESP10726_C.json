@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10726_C",
   "country": "ESP",
+  "reference": "03510004F9W",
   "name": "TROTTO",
   "rating": {
     "gph": 708.2,
@@ -197,6 +198,5 @@
       7.26,
       7.83
     ]
-  },
-  "reference": "03510004F9W"
+  }
 }

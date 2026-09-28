@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/R6886",
   "country": "AUS",
+  "reference": "03020004S7Q",
   "name": "YOUNG LION",
   "rating": {
     "gph": 664.3,
@@ -197,6 +198,5 @@
       7.46,
       8.32
     ]
-  },
-  "reference": "03020004S7Q"
+  }
 }

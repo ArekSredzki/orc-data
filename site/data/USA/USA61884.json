@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61884",
   "country": "USA",
+  "reference": "04560004WV1",
   "name": "LARK",
   "rating": {
     "gph": 581.4,
@@ -197,6 +198,5 @@
       8.7,
       11.15
     ]
-  },
-  "reference": "04560004WV1"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CZE998",
   "country": "CRO",
+  "reference": "03620004MWD",
   "name": "Giulia",
   "rating": {
     "gph": 612.5,
@@ -197,6 +198,5 @@
       7.82,
       9.53
     ]
-  },
-  "reference": "03620004MWD"
+  }
 }

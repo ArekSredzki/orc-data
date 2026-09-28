@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8714",
   "country": "GER",
+  "reference": "03520004I34",
   "name": "FLY",
   "rating": {
     "gph": 555.1,
@@ -197,6 +198,5 @@
       8.4,
       9.06
     ]
-  },
-  "reference": "03520004I34"
+  }
 }

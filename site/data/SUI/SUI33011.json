@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI33011",
   "country": "SUI",
+  "reference": "03080004K3M",
   "name": "ESSE 330",
   "rating": {
     "gph": 588.2,
@@ -197,6 +198,5 @@
       10.16,
       13.01
     ]
-  },
-  "reference": "03080004K3M"
+  }
 }

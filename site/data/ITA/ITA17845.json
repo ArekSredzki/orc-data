@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17845",
   "country": "ITA",
+  "reference": "03190004BDM",
   "name": "LIBER",
   "rating": {
     "gph": 733.9,
@@ -197,6 +198,5 @@
       6.5,
       6.97
     ]
-  },
-  "reference": "03190004BDM"
+  }
 }

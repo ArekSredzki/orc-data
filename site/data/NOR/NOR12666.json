@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12666",
   "country": "NOR",
+  "reference": "03440004RB9",
   "name": "Uredd II",
   "rating": {
     "gph": 570.1,
@@ -197,6 +198,5 @@
       8.35,
       10.06
     ]
-  },
-  "reference": "03440004RB9"
+  }
 }

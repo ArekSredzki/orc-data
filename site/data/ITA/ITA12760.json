@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12760",
   "country": "ITA",
+  "reference": "03190004U0P",
   "name": "PRIO",
   "rating": {
     "gph": 652.3,
@@ -197,6 +198,5 @@
       7.65,
       8.2
     ]
-  },
-  "reference": "03190004U0P"
+  }
 }

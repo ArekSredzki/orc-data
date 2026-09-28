@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7164",
   "country": "ESP",
+  "reference": "03510004C8O",
   "name": "OZU 2",
   "rating": {
     "gph": 627.7,
@@ -197,6 +198,5 @@
       7.82,
       9.55
     ]
-  },
-  "reference": "03510004C8O"
+  }
 }

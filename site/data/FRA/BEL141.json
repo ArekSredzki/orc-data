@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/BEL141",
   "country": "FRA",
+  "reference": "04330004SV5",
   "name": "TAZZ",
   "rating": {
     "gph": 686.8,
@@ -197,6 +198,5 @@
       7.43,
       9.53
     ]
-  },
-  "reference": "04330004SV5"
+  }
 }

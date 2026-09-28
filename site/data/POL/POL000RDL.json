@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL000RDL",
   "country": "POL",
+  "reference": "04410004W17",
   "name": "RADIOHEAD",
   "rating": {
     "gph": 592.5,
@@ -197,6 +198,5 @@
       8.26,
       9.02
     ]
-  },
-  "reference": "04410004W17"
+  }
 }

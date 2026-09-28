@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA46421",
   "country": "FRA",
+  "reference": "04330004OL0",
   "name": "ZACAPA",
   "rating": {
     "gph": 585.5,
@@ -197,6 +198,5 @@
       8.36,
       9.09
     ]
-  },
-  "reference": "04330004OL0"
+  }
 }

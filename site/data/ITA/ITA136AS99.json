@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA136AS99",
   "country": "ITA",
+  "reference": "03190004Q2P",
   "name": "ASSETTO 99",
   "rating": {
     "gph": 554.8,
@@ -197,6 +198,5 @@
       10.36,
       13.53
     ]
-  },
-  "reference": "03190004Q2P"
+  }
 }

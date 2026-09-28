@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6428",
   "country": "NED",
+  "reference": "04310004K94",
   "name": "GRIEL",
   "rating": {
     "gph": 611.3,
@@ -197,6 +198,5 @@
       8.16,
       8.87
     ]
-  },
-  "reference": "04310004K94"
+  }
 }

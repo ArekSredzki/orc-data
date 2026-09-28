@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10697",
   "country": "ESP",
+  "reference": "03510004F2B",
   "name": "RUFO II",
   "rating": {
     "gph": 746.2,
@@ -197,6 +198,5 @@
       6.59,
       7.17
     ]
-  },
-  "reference": "03510004F2B"
+  }
 }

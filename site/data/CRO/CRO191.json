@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO191",
   "country": "CRO",
+  "reference": "03620004KMV",
   "name": "El Orada",
   "rating": {
     "gph": 619.0,
@@ -197,6 +198,5 @@
       9.65,
       12.81
     ]
-  },
-  "reference": "03620004KMV"
+  }
 }

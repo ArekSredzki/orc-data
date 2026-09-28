@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAPARTE",
   "country": "ITA",
+  "reference": "03190004QCQ",
   "name": "PARTE A RAZZO",
   "rating": {
     "gph": 707.3,
@@ -197,6 +198,5 @@
       7.05,
       8.27
     ]
-  },
-  "reference": "03190004QCQ"
+  }
 }

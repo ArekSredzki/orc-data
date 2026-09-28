@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1085",
   "country": "GRE",
+  "reference": "03420004QQF",
   "name": "SUN FIZZ",
   "rating": {
     "gph": 673.9,
@@ -197,6 +198,5 @@
       7.68,
       8.28
     ]
-  },
-  "reference": "03420004QQF"
+  }
 }

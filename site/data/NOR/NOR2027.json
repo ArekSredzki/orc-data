@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR2027",
   "country": "NOR",
+  "reference": "03440004PM0",
   "name": "Albinchen",
   "rating": {
     "gph": 737.8,
@@ -197,6 +198,5 @@
       6.72,
       7.26
     ]
-  },
-  "reference": "03440004PM0"
+  }
 }

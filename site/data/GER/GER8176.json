@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8176",
   "country": "GER",
+  "reference": "03520004T9W",
   "name": "ALPHA LYRAE",
   "rating": {
     "gph": 566.5,
@@ -197,6 +198,5 @@
       8.39,
       9.2
     ]
-  },
-  "reference": "03520004T9W"
+  }
 }

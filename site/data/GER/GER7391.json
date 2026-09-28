@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7391",
   "country": "GER",
+  "reference": "04150004JEO",
   "name": "BIBI NA TOLU",
   "rating": {
     "gph": 603.7,
@@ -197,6 +198,5 @@
       8.17,
       8.86
     ]
-  },
-  "reference": "04150004JEO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7036",
   "country": "NED",
+  "reference": "04310004KC0",
   "name": "CHOUETTE",
   "rating": {
     "gph": 646.9,
@@ -197,6 +198,5 @@
       7.77,
       8.41
     ]
-  },
-  "reference": "04310004KC0"
+  }
 }

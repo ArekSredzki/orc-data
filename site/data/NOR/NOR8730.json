@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR8730",
   "country": "NOR",
+  "reference": "03440004OQ7",
   "name": "X Files",
   "rating": {
     "gph": 694.8,
@@ -197,6 +198,5 @@
       7.34,
       9.03
     ]
-  },
-  "reference": "03440004OQ7"
+  }
 }

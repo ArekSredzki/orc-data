@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2434",
   "country": "LTU",
+  "reference": "03590004S9A",
   "name": "TEGU",
   "rating": {
     "gph": 612.5,
@@ -197,6 +198,5 @@
       7.78,
       9.78
     ]
-  },
-  "reference": "03590004S9A"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7925",
   "country": "NED",
+  "reference": "04310004K09",
   "name": "Hemma",
   "rating": {
     "gph": 672.8,
@@ -197,6 +198,5 @@
       7.34,
       7.91
     ]
-  },
-  "reference": "04310004K09"
+  }
 }

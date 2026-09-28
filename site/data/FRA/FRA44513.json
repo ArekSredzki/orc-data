@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA44513",
   "country": "FRA",
+  "reference": "04330004KSN",
   "name": "LAPOUS GLAZ II",
   "rating": {
     "gph": 693.2,
@@ -197,6 +198,5 @@
       7.15,
       7.75
     ]
-  },
-  "reference": "04330004KSN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/FRA17254",
   "country": "BUL",
+  "reference": "03850004QBA",
   "name": "Mowgli",
   "rating": {
     "gph": 683.1,
@@ -197,6 +198,5 @@
       7.29,
       7.95
     ]
-  },
-  "reference": "03850004QBA"
+  }
 }

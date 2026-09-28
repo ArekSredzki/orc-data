@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/J801189",
   "country": "GER",
+  "reference": "04150004TAD",
   "name": "WIRBELZOPF 3/4",
   "rating": {
     "gph": 662.5,
@@ -197,6 +198,5 @@
       8.73,
       11.83
     ]
-  },
-  "reference": "04150004TAD"
+  }
 }

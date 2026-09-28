@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA8033",
   "country": "FRA",
+  "reference": "04330004IJK",
   "name": "CIPANGO III",
   "rating": {
     "gph": 751.8,
@@ -197,6 +198,5 @@
       6.66,
       7.2
     ]
-  },
-  "reference": "04330004IJK"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11334_C",
   "country": "ESP",
+  "reference": "03510004C2N",
   "name": "CIRDAN",
   "rating": {
     "gph": 626.3,
@@ -197,6 +198,5 @@
       7.7,
       8.31
     ]
-  },
-  "reference": "03510004C2N"
+  }
 }

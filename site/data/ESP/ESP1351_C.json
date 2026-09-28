@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1351_C",
   "country": "ESP",
+  "reference": "03510004HL9",
   "name": "LANCELOT",
   "rating": {
     "gph": 767.1,
@@ -197,6 +198,5 @@
       6.31,
       6.77
     ]
-  },
-  "reference": "03510004HL9"
+  }
 }

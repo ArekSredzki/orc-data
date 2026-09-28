@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA29718",
   "country": "USA",
+  "reference": "04560004IJL",
   "name": "AURORA",
   "rating": {
     "gph": 680.9,
@@ -197,6 +198,5 @@
       7.25,
       7.89
     ]
-  },
-  "reference": "04560004IJL"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA46841",
   "country": "FRA",
+  "reference": "04330004UK9",
   "name": "YANNSOLO",
   "rating": {
     "gph": 618.2,
@@ -197,6 +198,5 @@
       7.76,
       9.76
     ]
-  },
-  "reference": "04330004UK9"
+  }
 }

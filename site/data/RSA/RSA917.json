@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA917",
   "country": "RSA",
+  "reference": "04620004B75",
   "name": "Voodoo",
   "rating": {
     "gph": 574.0,
@@ -197,6 +198,5 @@
       8.91,
       9.66
     ]
-  },
-  "reference": "04620004B75"
+  }
 }

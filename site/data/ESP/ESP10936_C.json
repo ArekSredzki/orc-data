@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10936_C",
   "country": "ESP",
+  "reference": "03510004S26",
   "name": "YIYI",
   "rating": {
     "gph": 741.7,
@@ -197,6 +198,5 @@
       6.91,
       7.59
     ]
-  },
-  "reference": "03510004S26"
+  }
 }

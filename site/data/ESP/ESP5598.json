@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5598",
   "country": "ESP",
+  "reference": "03510004IBI",
   "name": "FILU",
   "rating": {
     "gph": 618.8,
@@ -197,6 +198,5 @@
       8.48,
       10.54
     ]
-  },
-  "reference": "03510004IBI"
+  }
 }

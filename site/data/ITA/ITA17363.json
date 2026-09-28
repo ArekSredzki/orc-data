@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17363",
   "country": "ITA",
+  "reference": "03190004I78",
   "name": "DIAMIR",
   "rating": {
     "gph": 654.1,
@@ -197,6 +198,5 @@
       7.53,
       8.95
     ]
-  },
-  "reference": "03190004I78"
+  }
 }

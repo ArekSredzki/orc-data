@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/DEN555",
   "country": "ITA",
+  "reference": "03190004BL1",
   "name": "FLED 2",
   "rating": {
     "gph": 755.7,
@@ -197,6 +198,5 @@
       6.86,
       7.99
     ]
-  },
-  "reference": "03190004BL1"
+  }
 }

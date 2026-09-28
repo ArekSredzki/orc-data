@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/MON71",
   "country": "ITA",
+  "reference": "03190004PD2",
   "name": "GORILLA GANG",
   "rating": {
     "gph": 539.7,
@@ -197,6 +198,5 @@
       9.24,
       11.34
     ]
-  },
-  "reference": "03190004PD2"
+  }
 }

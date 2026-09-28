@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8680",
   "country": "GER",
+  "reference": "03520004I30",
   "name": "ELFIN 5",
   "rating": {
     "gph": 579.4,
@@ -197,6 +198,5 @@
       10.08,
       12.92
     ]
-  },
-  "reference": "03520004I30"
+  }
 }

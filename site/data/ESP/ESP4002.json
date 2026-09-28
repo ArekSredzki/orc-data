@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4002",
   "country": "ESP",
+  "reference": "03510004V2O",
   "name": "VILLANO",
   "rating": {
     "gph": 667.6,
@@ -197,6 +198,5 @@
       7.17,
       7.69
     ]
-  },
-  "reference": "03510004V2O"
+  }
 }

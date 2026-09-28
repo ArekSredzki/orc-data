@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA4206",
   "country": "USA",
+  "reference": "04560004W6V",
   "name": "IMPETUOUS",
   "rating": {
     "gph": 530.4,
@@ -197,6 +198,5 @@
       9.49,
       11.91
     ]
-  },
-  "reference": "04560004W6V"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2805",
   "country": "BRA",
+  "reference": "04420004WKB",
   "name": "MAESTRALE  IV",
   "rating": {
     "gph": 628.9,
@@ -197,6 +198,5 @@
       8.06,
       9.59
     ]
-  },
-  "reference": "04420004WKB"
+  }
 }

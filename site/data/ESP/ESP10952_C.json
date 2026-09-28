@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10952_C",
   "country": "ESP",
+  "reference": "03510004F2E",
   "name": "EDAN",
   "rating": {
     "gph": 658.6,
@@ -197,6 +198,5 @@
       7.26,
       7.87
     ]
-  },
-  "reference": "03510004F2E"
+  }
 }

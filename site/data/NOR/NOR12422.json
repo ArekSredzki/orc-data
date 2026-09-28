@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12422",
   "country": "NOR",
+  "reference": "03440004PLV",
   "name": "Olliver",
   "rating": {
     "gph": 608.5,
@@ -197,6 +198,5 @@
       8.19,
       8.94
     ]
-  },
-  "reference": "03440004PLV"
+  }
 }

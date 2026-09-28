@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53462",
   "country": "FRA",
+  "reference": "04330004J54",
   "name": "NEIGE",
   "rating": {
     "gph": 602.7,
@@ -197,6 +198,5 @@
       8.99,
       11.9
     ]
-  },
-  "reference": "04330004J54"
+  }
 }

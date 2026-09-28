@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA11M32",
   "country": "ITA",
+  "reference": "03190004IPE",
   "name": "LEXOTAN",
   "rating": {
     "gph": 535.1,
@@ -197,6 +198,5 @@
       12.58,
       15.75
     ]
-  },
-  "reference": "03190004IPE"
+  }
 }

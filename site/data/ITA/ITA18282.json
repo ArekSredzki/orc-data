@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18282",
   "country": "ITA",
+  "reference": "03190004IPV",
   "name": "OLTRE",
   "rating": {
     "gph": 582.5,
@@ -197,6 +198,5 @@
       9.3,
       12.84
     ]
-  },
-  "reference": "03190004IPV"
+  }
 }

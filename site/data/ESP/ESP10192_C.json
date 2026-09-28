@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10192_C",
   "country": "ESP",
+  "reference": "03510004JA7",
   "name": "HADDOCK",
   "rating": {
     "gph": 675.7,
@@ -197,6 +198,5 @@
       7.44,
       8.16
     ]
-  },
-  "reference": "03510004JA7"
+  }
 }

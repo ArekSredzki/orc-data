@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/S197",
   "country": "AUS",
+  "reference": "03020004VC7",
   "name": "Take Five",
   "rating": {
     "gph": 637.0,
@@ -197,6 +198,5 @@
       7.94,
       9.12
     ]
-  },
-  "reference": "03020004VC7"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17617",
   "country": "ITA",
+  "reference": "03190004FOH",
   "name": "BLUE MARLIN",
   "rating": {
     "gph": 606.1,
@@ -197,6 +198,5 @@
       7.96,
       8.65
     ]
-  },
-  "reference": "03190004FOH"
+  }
 }

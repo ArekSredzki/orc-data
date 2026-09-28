@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/RSA123",
   "country": "GRE",
+  "reference": "03420004K3Q",
   "name": "CLYMENE",
   "rating": {
     "gph": 744.4,
@@ -197,6 +198,5 @@
       7.4,
       7.95
     ]
-  },
-  "reference": "03420004K3Q"
+  }
 }

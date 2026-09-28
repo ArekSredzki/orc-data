@@ -1,6 +1,7 @@
 {
   "sailnumber": "ECU/ECU118",
   "country": "ECU",
+  "reference": "03880004SOS",
   "name": "ALINA",
   "rating": {
     "gph": 506.0,
@@ -197,6 +198,5 @@
       11.78,
       14.99
     ]
-  },
-  "reference": "03880004SOS"
+  }
 }

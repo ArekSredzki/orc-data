@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI8",
   "country": "SUI",
+  "reference": "03080004J9W",
   "name": "Xperience",
   "rating": {
     "gph": 595.7,
@@ -197,6 +198,5 @@
       8.23,
       10.6
     ]
-  },
-  "reference": "03080004J9W"
+  }
 }

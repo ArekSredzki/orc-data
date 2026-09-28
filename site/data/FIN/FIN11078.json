@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11078",
   "country": "FIN",
+  "reference": "04140004QLD",
   "name": "Valkyrian",
   "rating": {
     "gph": 643.0,
@@ -197,6 +198,5 @@
       7.82,
       8.58
     ]
-  },
-  "reference": "04140004QLD"
+  }
 }

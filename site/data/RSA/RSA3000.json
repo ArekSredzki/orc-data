@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3000",
   "country": "RSA",
+  "reference": "04620004866",
   "name": "Alegria",
   "rating": {
     "gph": 605.0,
@@ -197,6 +198,5 @@
       9.25,
       12.69
     ]
-  },
-  "reference": "04620004866"
+  }
 }

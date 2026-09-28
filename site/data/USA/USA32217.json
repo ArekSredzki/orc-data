@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA32217",
   "country": "USA",
+  "reference": "04560004JKW",
   "name": "RHUMB RUNNER",
   "rating": {
     "gph": 650.4,
@@ -197,6 +198,5 @@
       7.48,
       8.33
     ]
-  },
-  "reference": "04560004JKW"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP786_C",
   "country": "ESP",
+  "reference": "0351000489B",
   "name": "BABILLO",
   "rating": {
     "gph": 656.4,
@@ -197,6 +198,5 @@
       8.77,
       11.91
     ]
-  },
-  "reference": "0351000489B"
+  }
 }

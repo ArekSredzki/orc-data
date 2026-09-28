@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED1077",
   "country": "NED",
+  "reference": "04310004PCL",
   "name": "CheckMATe",
   "rating": {
     "gph": 586.7,
@@ -197,6 +198,5 @@
       8.5,
       9.97
     ]
-  },
-  "reference": "04310004PCL"
+  }
 }

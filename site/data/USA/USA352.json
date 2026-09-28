@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA352",
   "country": "USA",
+  "reference": "04560004UFW",
   "name": "WINSOME MORE",
   "rating": {
     "gph": 660.5,
@@ -197,6 +198,5 @@
       7.45,
       7.97
     ]
-  },
-  "reference": "04560004UFW"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT5",
   "country": "AUT",
+  "reference": "03210004QR9",
   "name": "Tschenny II",
   "rating": {
     "gph": 669.1,
@@ -197,6 +198,5 @@
       7.5,
       8.17
     ]
-  },
-  "reference": "03210004QR9"
+  }
 }

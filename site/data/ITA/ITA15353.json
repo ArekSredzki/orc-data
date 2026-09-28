@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15353",
   "country": "ITA",
+  "reference": "03190004HRU",
   "name": "VOLABASSO",
   "rating": {
     "gph": 591.1,
@@ -197,6 +198,5 @@
       7.92,
       9.43
     ]
-  },
-  "reference": "03190004HRU"
+  }
 }

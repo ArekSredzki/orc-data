@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR5052",
   "country": "KOR",
+  "reference": "04550004Q56",
   "name": "Land of Sea VI",
   "rating": {
     "gph": 696.0,
@@ -197,6 +198,5 @@
       7.16,
       7.69
     ]
-  },
-  "reference": "04550004Q56"
+  }
 }

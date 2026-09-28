@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR655",
   "country": "TUR",
+  "reference": "04590004U79",
   "name": "FORTUNA 5",
   "rating": {
     "gph": 624.0,
@@ -197,6 +198,5 @@
       7.6,
       8.27
     ]
-  },
-  "reference": "04590004U79"
+  }
 }

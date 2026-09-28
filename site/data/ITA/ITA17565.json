@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17565",
   "country": "ITA",
+  "reference": "03190004U7J",
   "name": "HAGAR V",
   "rating": {
     "gph": 429.9,
@@ -197,6 +198,5 @@
       12.31,
       14.86
     ]
-  },
-  "reference": "03190004U7J"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1610",
   "country": "GRE",
+  "reference": "03420004S17",
   "name": "ALEX",
   "rating": {
     "gph": 746.3,
@@ -197,6 +198,5 @@
       6.71,
       7.22
     ]
-  },
-  "reference": "03420004S17"
+  }
 }

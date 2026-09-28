@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/EX190",
   "country": "GER",
+  "reference": "04150004IAH",
   "name": "HERMITDEMSCH\u00d6NENLEBEN",
   "rating": {
     "gph": 725.0,
@@ -197,6 +198,5 @@
       6.98,
       7.83
     ]
-  },
-  "reference": "04150004IAH"
+  }
 }

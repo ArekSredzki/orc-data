@@ -1,6 +1,7 @@
 {
   "sailnumber": "ECU/ECU11452",
   "country": "ECU",
+  "reference": "03880004RL9",
   "name": "GARUFA",
   "rating": {
     "gph": 621.0,
@@ -197,6 +198,5 @@
       7.78,
       8.49
     ]
-  },
-  "reference": "03880004RL9"
+  }
 }

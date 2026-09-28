@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR150",
   "country": "ISR",
+  "reference": "0439000483Q",
   "name": "Bellendaine",
   "rating": {
     "gph": 774.1,
@@ -197,6 +198,5 @@
       7.02,
       7.6
     ]
-  },
-  "reference": "0439000483Q"
+  }
 }

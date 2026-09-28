@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP431",
   "country": "ESP",
+  "reference": "03510004C45",
   "name": "FANYTAS",
   "rating": {
     "gph": 604.7,
@@ -197,6 +198,5 @@
       7.98,
       8.65
     ]
-  },
-  "reference": "03510004C45"
+  }
 }

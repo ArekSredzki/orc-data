@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA8023",
   "country": "ITA",
+  "reference": "03190004KOH",
   "name": "DOKTOR FAUST",
   "rating": {
     "gph": 613.1,
@@ -197,6 +198,5 @@
       7.61,
       8.2
     ]
-  },
-  "reference": "03190004KOH"
+  }
 }

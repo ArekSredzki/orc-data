@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/MNG0162",
   "country": "KOR",
+  "reference": "04550004VL4",
   "name": "First",
   "rating": {
     "gph": 586.7,
@@ -197,6 +198,5 @@
       8.29,
       9.09
     ]
-  },
-  "reference": "04550004VL4"
+  }
 }

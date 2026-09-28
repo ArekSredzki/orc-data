@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15715",
   "country": "ITA",
+  "reference": "03190004P16",
   "name": "SYRINX",
   "rating": {
     "gph": 604.7,
@@ -197,6 +198,5 @@
       8.21,
       9.25
     ]
-  },
-  "reference": "03190004P16"
+  }
 }

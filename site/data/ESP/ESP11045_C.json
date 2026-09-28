@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11045_C",
   "country": "ESP",
+  "reference": "03510004HTF",
   "name": "SHARKY",
   "rating": {
     "gph": 813.0,
@@ -197,6 +198,5 @@
       5.98,
       6.53
     ]
-  },
-  "reference": "03510004HTF"
+  }
 }

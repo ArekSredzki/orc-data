@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR568",
   "country": "NOR",
+  "reference": "03440004NAS",
   "name": "JIPPI",
   "rating": {
     "gph": 665.2,
@@ -197,6 +198,5 @@
       8.48,
       11.62
     ]
-  },
-  "reference": "03440004NAS"
+  }
 }

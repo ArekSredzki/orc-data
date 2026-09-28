@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7072",
   "country": "ESP",
+  "reference": "03510004C5B",
   "name": "S'INDIO III",
   "rating": {
     "gph": 616.1,
@@ -197,6 +198,5 @@
       7.87,
       8.53
     ]
-  },
-  "reference": "03510004C5B"
+  }
 }

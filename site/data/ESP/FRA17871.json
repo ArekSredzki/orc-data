@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/FRA17871",
   "country": "ESP",
+  "reference": "03510004NV2",
   "name": "FEND-LA-BISE",
   "rating": {
     "gph": 628.5,
@@ -197,6 +198,5 @@
       8.0,
       9.27
     ]
-  },
-  "reference": "03510004NV2"
+  }
 }

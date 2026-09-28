@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA22344",
   "country": "FRA",
+  "reference": "04330004CCE",
   "name": "SEVEN SPIRIT",
   "rating": {
     "gph": 699.5,
@@ -197,6 +198,5 @@
       7.27,
       8.95
     ]
-  },
-  "reference": "04330004CCE"
+  }
 }

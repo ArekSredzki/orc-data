@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4628_C",
   "country": "ESP",
+  "reference": "03510004JCA",
   "name": "ALPHYN",
   "rating": {
     "gph": 588.1,
@@ -197,6 +198,5 @@
       8.47,
       9.22
     ]
-  },
-  "reference": "03510004JCA"
+  }
 }

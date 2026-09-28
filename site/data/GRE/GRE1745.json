@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1745",
   "country": "GRE",
+  "reference": "03420004IMR",
   "name": "NAFPARIS",
   "rating": {
     "gph": 670.7,
@@ -197,6 +198,5 @@
       7.55,
       8.2
     ]
-  },
-  "reference": "03420004IMR"
+  }
 }

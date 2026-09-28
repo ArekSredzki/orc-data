@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER884",
   "country": "GER",
+  "reference": "04150004M0M",
   "name": "OROMOCTO",
   "rating": {
     "gph": 647.3,
@@ -197,6 +198,5 @@
       7.6,
       8.22
     ]
-  },
-  "reference": "04150004M0M"
+  }
 }

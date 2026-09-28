@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA32011",
   "country": "FRA",
+  "reference": "04330004RUF",
   "name": "CUZCO",
   "rating": {
     "gph": 676.7,
@@ -197,6 +198,5 @@
       7.64,
       10.31
     ]
-  },
-  "reference": "04330004RUF"
+  }
 }

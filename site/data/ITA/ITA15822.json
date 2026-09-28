@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15822",
   "country": "ITA",
+  "reference": "03190004MNE",
   "name": "MAWI",
   "rating": {
     "gph": 698.6,
@@ -197,6 +198,5 @@
       7.23,
       7.85
     ]
-  },
-  "reference": "03190004MNE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15811",
   "country": "ITA",
+  "reference": "03190004MVV",
   "name": "ANEMOX",
   "rating": {
     "gph": 594.7,
@@ -197,6 +198,5 @@
       8.01,
       10.1
     ]
-  },
-  "reference": "03190004MVV"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST959",
   "country": "EST",
+  "reference": "04340004UPU",
   "name": "Merilane",
   "rating": {
     "gph": 737.7,
@@ -197,6 +198,5 @@
       6.83,
       7.51
     ]
-  },
-  "reference": "04340004UPU"
+  }
 }

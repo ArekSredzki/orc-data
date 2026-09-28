@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17788",
   "country": "ITA",
+  "reference": "03190004NVO",
   "name": "SEA DUST",
   "rating": {
     "gph": 659.4,
@@ -197,6 +198,5 @@
       7.63,
       8.25
     ]
-  },
-  "reference": "03190004NVO"
+  }
 }

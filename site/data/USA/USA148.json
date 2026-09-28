@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA148",
   "country": "USA",
+  "reference": "04560004RK9",
   "name": "ARIEL",
   "rating": {
     "gph": 684.0,
@@ -197,6 +198,5 @@
       7.05,
       7.55
     ]
-  },
-  "reference": "04560004RK9"
+  }
 }

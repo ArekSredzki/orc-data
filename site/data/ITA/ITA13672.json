@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13672",
   "country": "ITA",
+  "reference": "03190004KK3",
   "name": "X-WAVE",
   "rating": {
     "gph": 656.5,
@@ -197,6 +198,5 @@
       7.65,
       8.37
     ]
-  },
-  "reference": "03190004KK3"
+  }
 }

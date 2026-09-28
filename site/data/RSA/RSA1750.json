@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1750",
   "country": "RSA",
+  "reference": "046200048IT",
   "name": "Black Cat",
   "rating": {
     "gph": 605.2,
@@ -197,6 +198,5 @@
       8.67,
       9.96
     ]
-  },
-  "reference": "046200048IT"
+  }
 }

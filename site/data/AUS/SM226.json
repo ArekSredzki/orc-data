@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/SM226",
   "country": "AUS",
+  "reference": "03020004VE2",
   "name": "BLUEPRINT",
   "rating": {
     "gph": 503.6,
@@ -197,6 +198,5 @@
       12.6,
       15.97
     ]
-  },
-  "reference": "03020004VE2"
+  }
 }

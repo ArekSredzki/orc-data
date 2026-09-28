@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN6688",
   "country": "JPN",
+  "reference": "03390004K8S",
   "name": "KINE KINE FF",
   "rating": {
     "gph": 583.6,
@@ -197,6 +198,5 @@
       8.14,
       10.14
     ]
-  },
-  "reference": "03390004K8S"
+  }
 }

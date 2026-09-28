@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP47741_C",
   "country": "ESP",
+  "reference": "03510004FW3",
   "name": "EL RAUXA",
   "rating": {
     "gph": 678.3,
@@ -197,6 +198,5 @@
       7.4,
       8.17
     ]
-  },
-  "reference": "03510004FW3"
+  }
 }

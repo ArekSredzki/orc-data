@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA151",
   "country": "USA",
+  "reference": "04560004S1C",
   "name": "EON",
   "rating": {
     "gph": 661.2,
@@ -197,6 +198,5 @@
       8.36,
       11.69
     ]
-  },
-  "reference": "04560004S1C"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA3909",
   "country": "USA",
+  "reference": "04560004EW8",
   "name": "Absolutely",
   "rating": {
     "gph": 529.0,
@@ -197,6 +198,5 @@
       9.82,
       12.73
     ]
-  },
-  "reference": "04560004EW8"
+  }
 }

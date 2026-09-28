@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9812_C",
   "country": "ESP",
+  "reference": "03510004AW6",
   "name": "PEQUOD II",
   "rating": {
     "gph": 652.7,
@@ -197,6 +198,5 @@
       7.73,
       8.56
     ]
-  },
-  "reference": "03510004AW6"
+  }
 }

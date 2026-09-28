@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR2013",
   "country": "KOR",
+  "reference": "04550004B45",
   "name": "Team Changwon",
   "rating": {
     "gph": 622.4,
@@ -197,6 +198,5 @@
       8.1,
       10.75
     ]
-  },
-  "reference": "04550004B45"
+  }
 }

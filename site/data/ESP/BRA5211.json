@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/BRA5211",
   "country": "ESP",
+  "reference": "03510004VO2",
   "name": "CABALLO LOCO",
   "rating": {
     "gph": 428.0,
@@ -197,6 +198,5 @@
       13.71,
       17.06
     ]
-  },
-  "reference": "03510004VO2"
+  }
 }

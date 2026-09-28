@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3078_C",
   "country": "ESP",
+  "reference": "03510004B8H",
   "name": "ESQUITX III",
   "rating": {
     "gph": 696.2,
@@ -197,6 +198,5 @@
       7.21,
       7.92
     ]
-  },
-  "reference": "03510004B8H"
+  }
 }

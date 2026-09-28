@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR470",
   "country": "TUR",
+  "reference": "04590004WC2",
   "name": "MARE",
   "rating": {
     "gph": 627.2,
@@ -197,6 +198,5 @@
       7.73,
       8.34
     ]
-  },
-  "reference": "04590004WC2"
+  }
 }

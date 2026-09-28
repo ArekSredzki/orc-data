@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18127",
   "country": "ITA",
+  "reference": "03190004VM0",
   "name": "ELLE",
   "rating": {
     "gph": 538.4,
@@ -197,6 +198,5 @@
       8.92,
       9.54
     ]
-  },
-  "reference": "03190004VM0"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1378_C",
   "country": "ESP",
+  "reference": "03510004B4H",
   "name": "VERTIGO",
   "rating": {
     "gph": 656.3,
@@ -197,6 +198,5 @@
       8.65,
       11.87
     ]
-  },
-  "reference": "03510004B4H"
+  }
 }

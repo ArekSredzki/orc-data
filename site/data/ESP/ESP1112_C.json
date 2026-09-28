@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1112_C",
   "country": "ESP",
+  "reference": "03510004BI7",
   "name": "LA ETRUSCA",
   "rating": {
     "gph": 650.1,
@@ -197,6 +198,5 @@
       8.72,
       11.89
     ]
-  },
-  "reference": "03510004BI7"
+  }
 }

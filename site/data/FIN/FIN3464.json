@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN3464",
   "country": "FIN",
+  "reference": "04140004TQP",
   "name": "Hattiwatti",
   "rating": {
     "gph": 689.2,
@@ -197,6 +198,5 @@
       7.26,
       8.1
     ]
-  },
-  "reference": "04140004TQP"
+  }
 }

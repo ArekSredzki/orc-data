@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8688",
   "country": "ESP",
+  "reference": "03510004EW4",
   "name": "BLUE STAR V",
   "rating": {
     "gph": 676.2,
@@ -197,6 +198,5 @@
       7.38,
       8.08
     ]
-  },
-  "reference": "03510004EW4"
+  }
 }

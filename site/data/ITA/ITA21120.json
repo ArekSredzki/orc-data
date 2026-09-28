@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA21120",
   "country": "ITA",
+  "reference": "03190004NEC",
   "name": "JAMILA",
   "rating": {
     "gph": 618.7,
@@ -197,6 +198,5 @@
       7.7,
       8.25
     ]
-  },
-  "reference": "03190004NEC"
+  }
 }

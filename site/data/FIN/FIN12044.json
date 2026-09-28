@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12044",
   "country": "FIN",
+  "reference": "04140004R8W",
   "name": "SiemauS",
   "rating": {
     "gph": 624.1,
@@ -197,6 +198,5 @@
       8.03,
       8.62
     ]
-  },
-  "reference": "04140004R8W"
+  }
 }

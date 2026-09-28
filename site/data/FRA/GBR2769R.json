@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR2769R",
   "country": "FRA",
+  "reference": "04330004QT9",
   "name": "PER ELISA",
   "rating": {
     "gph": 660.5,
@@ -197,6 +198,5 @@
       7.67,
       9.05
     ]
-  },
-  "reference": "04330004QT9"
+  }
 }

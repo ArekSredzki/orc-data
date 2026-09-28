@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1009",
   "country": "GRE",
+  "reference": "03420004LRR",
   "name": "DESTINY",
   "rating": {
     "gph": 726.6,
@@ -197,6 +198,5 @@
       7.03,
       7.63
     ]
-  },
-  "reference": "03420004LRR"
+  }
 }

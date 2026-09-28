@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10929",
   "country": "NOR",
+  "reference": "03440004FIQ",
   "name": "Bl\u00e5ne",
   "rating": {
     "gph": 646.5,
@@ -197,6 +198,5 @@
       7.7,
       8.37
     ]
-  },
-  "reference": "03440004FIQ"
+  }
 }

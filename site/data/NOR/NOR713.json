@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR713",
   "country": "NOR",
+  "reference": "03440004WI4",
   "name": "Simsalabim",
   "rating": {
     "gph": 725.5,
@@ -197,6 +198,5 @@
       6.97,
       7.81
     ]
-  },
-  "reference": "03440004WI4"
+  }
 }

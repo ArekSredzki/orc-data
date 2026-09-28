@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/B1347",
   "country": "AUS",
+  "reference": "03020004TV5",
   "name": "SHIRAZ",
   "rating": {
     "gph": 631.4,
@@ -197,6 +198,5 @@
       7.77,
       8.53
     ]
-  },
-  "reference": "03020004TV5"
+  }
 }

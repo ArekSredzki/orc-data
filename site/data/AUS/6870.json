@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/6870",
   "country": "AUS",
+  "reference": "03020004VC6",
   "name": "ASCALON",
   "rating": {
     "gph": 582.8,
@@ -197,6 +198,5 @@
       8.56,
       9.43
     ]
-  },
-  "reference": "03020004VC6"
+  }
 }

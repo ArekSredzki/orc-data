@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2447",
   "country": "BRA",
+  "reference": "04420004VF7",
   "name": "VESPER",
   "rating": {
     "gph": 509.8,
@@ -197,6 +198,5 @@
       11.87,
       15.03
     ]
-  },
-  "reference": "04420004VF7"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10574_C",
   "country": "ESP",
+  "reference": "03510004BKF",
   "name": "PELAGIA",
   "rating": {
     "gph": 591.0,
@@ -197,6 +198,5 @@
       7.95,
       8.53
     ]
-  },
-  "reference": "03510004BKF"
+  }
 }

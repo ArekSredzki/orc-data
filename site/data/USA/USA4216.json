@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA4216",
   "country": "USA",
+  "reference": "04560004EUT",
   "name": "SELKIE",
   "rating": {
     "gph": 530.0,
@@ -197,6 +198,5 @@
       8.96,
       10.97
     ]
-  },
-  "reference": "04560004EUT"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10245",
   "country": "FIN",
+  "reference": "04140004TQM",
   "name": "Helmi",
   "rating": {
     "gph": 660.5,
@@ -197,6 +198,5 @@
       7.72,
       8.54
     ]
-  },
-  "reference": "04140004TQM"
+  }
 }

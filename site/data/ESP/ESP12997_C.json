@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP12997_C",
   "country": "ESP",
+  "reference": "03510004ETL",
   "name": "VENT FARR",
   "rating": {
     "gph": 596.1,
@@ -197,6 +198,5 @@
       9.05,
       11.6
     ]
-  },
-  "reference": "03510004ETL"
+  }
 }

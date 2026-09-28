@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA93272",
   "country": "USA",
+  "reference": "04560004RT9",
   "name": "JANINE",
   "rating": {
     "gph": 607.4,
@@ -197,6 +198,5 @@
       7.76,
       9.23
     ]
-  },
-  "reference": "04560004RT9"
+  }
 }

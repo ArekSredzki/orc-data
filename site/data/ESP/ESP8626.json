@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8626",
   "country": "ESP",
+  "reference": "03510004F9R",
   "name": "SABARA",
   "rating": {
     "gph": 641.5,
@@ -197,6 +198,5 @@
       7.86,
       8.54
     ]
-  },
-  "reference": "03510004F9R"
+  }
 }

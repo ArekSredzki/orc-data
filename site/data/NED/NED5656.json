@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED5656",
   "country": "NED",
+  "reference": "04310004M9J",
   "name": "Tack Sails",
   "rating": {
     "gph": 597.0,
@@ -197,6 +198,5 @@
       8.34,
       9.21
     ]
-  },
-  "reference": "04310004M9J"
+  }
 }

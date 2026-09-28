@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12093",
   "country": "NOR",
+  "reference": "03440004L48",
   "name": "Ami",
   "rating": {
     "gph": 664.0,
@@ -197,6 +198,5 @@
       7.47,
       8.18
     ]
-  },
-  "reference": "03440004L48"
+  }
 }

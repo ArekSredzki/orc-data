@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA43",
   "country": "USA",
+  "reference": "04560004KO6",
   "name": "Sprig",
   "rating": {
     "gph": 657.1,
@@ -197,6 +198,5 @@
       7.57,
       8.27
     ]
-  },
-  "reference": "04560004KO6"
+  }
 }

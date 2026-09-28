@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA114",
   "country": "USA",
+  "reference": "04560004FFF",
   "name": "PSYCHO",
   "rating": {
     "gph": 622.6,
@@ -197,6 +198,5 @@
       10.71,
       13.82
     ]
-  },
-  "reference": "04560004FFF"
+  }
 }

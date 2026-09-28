@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/51483",
   "country": "USA",
+  "reference": "04560004NUO",
   "name": "RODE RAGE",
   "rating": {
     "gph": 523.8,
@@ -197,6 +198,5 @@
       10.15,
       12.88
     ]
-  },
-  "reference": "04560004NUO"
+  }
 }

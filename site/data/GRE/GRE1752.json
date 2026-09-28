@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1752",
   "country": "GRE",
+  "reference": "03420004NK4",
   "name": "NIKEA",
   "rating": {
     "gph": 619.7,
@@ -197,6 +198,5 @@
       8.44,
       9.15
     ]
-  },
-  "reference": "03420004NK4"
+  }
 }

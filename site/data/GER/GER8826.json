@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8826",
   "country": "GER",
+  "reference": "03520004TI9",
   "name": "MARTHA PFAHL",
   "rating": {
     "gph": 605.8,
@@ -197,6 +198,5 @@
       8.63,
       10.92
     ]
-  },
-  "reference": "03520004TI9"
+  }
 }

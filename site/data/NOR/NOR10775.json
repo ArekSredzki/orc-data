@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10775",
   "country": "NOR",
+  "reference": "03440004ODW",
   "name": "Kjappfot",
   "rating": {
     "gph": 585.5,
@@ -197,6 +198,5 @@
       8.38,
       9.2
     ]
-  },
-  "reference": "03440004ODW"
+  }
 }

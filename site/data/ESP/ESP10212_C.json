@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10212_C",
   "country": "ESP",
+  "reference": "03510004UQ5",
   "name": "QUO VADIS II",
   "rating": {
     "gph": 639.4,
@@ -197,6 +198,5 @@
       8.06,
       8.84
     ]
-  },
-  "reference": "03510004UQ5"
+  }
 }

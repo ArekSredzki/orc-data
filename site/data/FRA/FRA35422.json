@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA35422",
   "country": "FRA",
+  "reference": "04330004MKW",
   "name": "ENJOY",
   "rating": {
     "gph": 573.2,
@@ -197,6 +198,5 @@
       8.23,
       9.56
     ]
-  },
-  "reference": "04330004MKW"
+  }
 }

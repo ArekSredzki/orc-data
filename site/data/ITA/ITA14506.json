@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14506",
   "country": "ITA",
+  "reference": "03190004C3S",
   "name": "LO RE",
   "rating": {
     "gph": 552.8,
@@ -197,6 +198,5 @@
       9.81,
       12.69
     ]
-  },
-  "reference": "03190004C3S"
+  }
 }

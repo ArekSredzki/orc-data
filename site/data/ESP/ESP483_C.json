@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP483_C",
   "country": "ESP",
+  "reference": "03510004IBO",
   "name": "RIGEL",
   "rating": {
     "gph": 810.8,
@@ -197,6 +198,5 @@
       6.5,
       7.27
     ]
-  },
-  "reference": "03510004IBO"
+  }
 }

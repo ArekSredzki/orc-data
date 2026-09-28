@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA25577",
   "country": "FRA",
+  "reference": "04330004FF6",
   "name": "JIBOULIX",
   "rating": {
     "gph": 622.8,
@@ -197,6 +198,5 @@
       7.92,
       8.7
     ]
-  },
-  "reference": "04330004FF6"
+  }
 }

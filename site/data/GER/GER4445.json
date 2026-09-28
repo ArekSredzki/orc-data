@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER4445",
   "country": "GER",
+  "reference": "04150004IAI",
   "name": "THIASSI",
   "rating": {
     "gph": 663.0,
@@ -197,6 +198,5 @@
       7.43,
       8.13
     ]
-  },
-  "reference": "04150004IAI"
+  }
 }

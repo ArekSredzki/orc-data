@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9884",
   "country": "NOR",
+  "reference": "03440004RB1",
   "name": "Flux",
   "rating": {
     "gph": 639.9,
@@ -197,6 +198,5 @@
       7.74,
       8.48
     ]
-  },
-  "reference": "03440004RB1"
+  }
 }

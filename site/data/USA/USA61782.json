@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61782",
   "country": "USA",
+  "reference": "04560004QV9",
   "name": "RUMBLE",
   "rating": {
     "gph": 609.4,
@@ -197,6 +198,5 @@
       8.45,
       10.89
     ]
-  },
-  "reference": "04560004QV9"
+  }
 }

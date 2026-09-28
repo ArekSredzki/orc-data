@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/EST773",
   "country": "ESP",
+  "reference": "03510004VWC",
   "name": "NOLA",
   "rating": {
     "gph": 478.0,
@@ -197,6 +198,5 @@
       12.51,
       15.97
     ]
-  },
-  "reference": "03510004VWC"
+  }
 }

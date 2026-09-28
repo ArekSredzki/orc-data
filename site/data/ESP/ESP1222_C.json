@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1222_C",
   "country": "ESP",
+  "reference": "03510004C4B",
   "name": "LEON",
   "rating": {
     "gph": 562.3,
@@ -197,6 +198,5 @@
       8.51,
       9.88
     ]
-  },
-  "reference": "03510004C4B"
+  }
 }

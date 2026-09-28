@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2801",
   "country": "BRA",
+  "reference": "044200048QA",
   "name": "AVENTUREIRO 3M",
   "rating": {
     "gph": 622.1,
@@ -197,6 +198,5 @@
       8.04,
       9.53
     ]
-  },
-  "reference": "044200048QA"
+  }
 }

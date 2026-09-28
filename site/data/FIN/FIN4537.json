@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN4537",
   "country": "FIN",
+  "reference": "04140004IKJ",
   "name": "Vellamo",
   "rating": {
     "gph": 701.6,
@@ -197,6 +198,5 @@
       7.19,
       7.81
     ]
-  },
-  "reference": "04140004IKJ"
+  }
 }

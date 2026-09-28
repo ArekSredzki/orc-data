@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA50002",
   "country": "USA",
+  "reference": "04560004S5A",
   "name": "WIZARD",
   "rating": {
     "gph": 430.2,
@@ -197,6 +198,5 @@
       13.6,
       16.96
     ]
-  },
-  "reference": "04560004S5A"
+  }
 }

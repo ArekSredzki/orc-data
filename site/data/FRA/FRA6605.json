@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA6605",
   "country": "FRA",
+  "reference": "04330004PRT",
   "name": "SAUDADE",
   "rating": {
     "gph": 705.1,
@@ -197,6 +198,5 @@
       7.03,
       7.67
     ]
-  },
-  "reference": "04330004PRT"
+  }
 }

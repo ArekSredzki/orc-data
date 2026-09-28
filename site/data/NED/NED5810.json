@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED5810",
   "country": "NED",
+  "reference": "04310004JVF",
   "name": "Irish Mist",
   "rating": {
     "gph": 605.9,
@@ -197,6 +198,5 @@
       8.17,
       9.01
     ]
-  },
-  "reference": "04310004JVF"
+  }
 }

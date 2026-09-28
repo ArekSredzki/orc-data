@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10738",
   "country": "NOR",
+  "reference": "03440004NAT",
   "name": "Skyggefaxe",
   "rating": {
     "gph": 610.2,
@@ -197,6 +198,5 @@
       7.97,
       8.67
     ]
-  },
-  "reference": "03440004NAT"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR4932",
   "country": "NOR",
+  "reference": "03440004M4O",
   "name": "Grid",
   "rating": {
     "gph": 747.2,
@@ -197,6 +198,5 @@
       6.71,
       7.28
     ]
-  },
-  "reference": "03440004M4O"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA1911",
   "country": "USA",
+  "reference": "04560004UCO",
   "name": "SET FREE",
   "rating": {
     "gph": 622.3,
@@ -197,6 +198,5 @@
       8.04,
       8.77
     ]
-  },
-  "reference": "04560004UCO"
+  }
 }

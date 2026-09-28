@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4778",
   "country": "ESP",
+  "reference": "03510004B4U",
   "name": "UNUS",
   "rating": {
     "gph": 650.9,
@@ -197,6 +198,5 @@
       7.71,
       8.46
     ]
-  },
-  "reference": "03510004B4U"
+  }
 }

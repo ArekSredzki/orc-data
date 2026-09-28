@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2718",
   "country": "CRO",
+  "reference": "03620004BE1",
   "name": "Rosso",
   "rating": {
     "gph": 580.6,
@@ -197,6 +198,5 @@
       9.46,
       12.63
     ]
-  },
-  "reference": "03620004BE1"
+  }
 }

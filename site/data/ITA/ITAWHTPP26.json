@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAWHTPP26",
   "country": "ITA",
+  "reference": "03190004UWM",
   "name": "WHITE PEPPER",
   "rating": {
     "gph": 713.3,
@@ -197,6 +198,5 @@
       6.89,
       7.47
     ]
-  },
-  "reference": "03190004UWM"
+  }
 }

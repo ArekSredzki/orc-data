@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/AND01_C",
   "country": "ESP",
+  "reference": "03510004FTM",
   "name": "ATTITUDE",
   "rating": {
     "gph": 613.3,
@@ -197,6 +198,5 @@
       7.8,
       8.41
     ]
-  },
-  "reference": "03510004FTM"
+  }
 }

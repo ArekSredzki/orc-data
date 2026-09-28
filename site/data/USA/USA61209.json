@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61209",
   "country": "USA",
+  "reference": "04560004UQT",
   "name": "No Bad Days",
   "rating": {
     "gph": 579.3,
@@ -197,6 +198,5 @@
       8.3,
       8.99
     ]
-  },
-  "reference": "04560004UQT"
+  }
 }

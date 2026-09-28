@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA2773",
   "country": "RSA",
+  "reference": "046200048R8",
   "name": "Naledi",
   "rating": {
     "gph": 578.6,
@@ -197,6 +198,5 @@
       8.29,
       10.02
     ]
-  },
-  "reference": "046200048R8"
+  }
 }

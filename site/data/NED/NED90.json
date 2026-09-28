@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED90",
   "country": "NED",
+  "reference": "04310004WIT",
   "name": "SIXpack",
   "rating": {
     "gph": 614.9,
@@ -197,6 +198,5 @@
       8.0,
       8.8
     ]
-  },
-  "reference": "04310004WIT"
+  }
 }

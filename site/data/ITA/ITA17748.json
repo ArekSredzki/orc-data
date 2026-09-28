@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17748",
   "country": "ITA",
+  "reference": "03190004BNB",
   "name": "JECO",
   "rating": {
     "gph": 591.8,
@@ -197,6 +198,5 @@
       8.21,
       10.1
     ]
-  },
-  "reference": "03190004BNB"
+  }
 }

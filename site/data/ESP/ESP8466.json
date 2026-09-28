@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8466",
   "country": "ESP",
+  "reference": "03510004WFF",
   "name": "SALVORA",
   "rating": {
     "gph": 610.1,
@@ -197,6 +198,5 @@
       8.24,
       9.11
     ]
-  },
-  "reference": "03510004WFF"
+  }
 }

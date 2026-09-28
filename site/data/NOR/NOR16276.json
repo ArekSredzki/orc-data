@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16276",
   "country": "NOR",
+  "reference": "03440004PM3",
   "name": "Amigo VIII",
   "rating": {
     "gph": 635.7,
@@ -197,6 +198,5 @@
       7.67,
       8.21
     ]
-  },
-  "reference": "03440004PM3"
+  }
 }

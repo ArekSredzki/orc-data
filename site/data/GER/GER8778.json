@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8778",
   "country": "GER",
+  "reference": "03520004ONP",
   "name": "MARIEJO",
   "rating": {
     "gph": 585.7,
@@ -197,6 +198,5 @@
       9.55,
       13.04
     ]
-  },
-  "reference": "03520004ONP"
+  }
 }

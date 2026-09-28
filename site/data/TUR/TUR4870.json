@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR4870",
   "country": "TUR",
+  "reference": "04590004J3R",
   "name": "OCEAN ADDICT",
   "rating": {
     "gph": 539.7,
@@ -197,6 +198,5 @@
       8.97,
       9.68
     ]
-  },
-  "reference": "04590004J3R"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA44391",
   "country": "FRA",
+  "reference": "04330004HE6",
   "name": "KARINYA",
   "rating": {
     "gph": 613.4,
@@ -197,6 +198,5 @@
       8.19,
       9.0
     ]
-  },
-  "reference": "04330004HE6"
+  }
 }

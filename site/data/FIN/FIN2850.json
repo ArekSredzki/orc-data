@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN2850",
   "country": "FIN",
+  "reference": "03290004T1P",
   "name": "TETIAROA",
   "rating": {
     "gph": 614.8,
@@ -197,6 +198,5 @@
       7.95,
       8.64
     ]
-  },
-  "reference": "03290004T1P"
+  }
 }

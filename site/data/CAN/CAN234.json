@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN234",
   "country": "CAN",
+  "reference": "03430004J3I",
   "name": "Syrena",
   "rating": {
     "gph": 638.3,
@@ -197,6 +198,5 @@
       7.92,
       8.56
     ]
-  },
-  "reference": "03430004J3I"
+  }
 }

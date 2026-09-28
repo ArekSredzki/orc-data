@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG3661",
   "country": "ARG",
+  "reference": "038800048P2",
   "name": "TINTO",
   "rating": {
     "gph": 548.6,
@@ -197,6 +198,5 @@
       9.23,
       10.31
     ]
-  },
-  "reference": "038800048P2"
+  }
 }

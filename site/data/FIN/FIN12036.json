@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12036",
   "country": "FIN",
+  "reference": "04140004O37",
   "name": "Inferna",
   "rating": {
     "gph": 619.3,
@@ -197,6 +198,5 @@
       7.68,
       8.48
     ]
-  },
-  "reference": "04140004O37"
+  }
 }

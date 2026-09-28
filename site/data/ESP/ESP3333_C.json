@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3333_C",
   "country": "ESP",
+  "reference": "03510004HAV",
   "name": "DRAGON DEL MAR",
   "rating": {
     "gph": 749.1,
@@ -197,6 +198,5 @@
       6.88,
       7.5
     ]
-  },
-  "reference": "03510004HAV"
+  }
 }

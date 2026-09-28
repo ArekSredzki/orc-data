@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITABG26",
   "country": "ITA",
+  "reference": "03190004WQ2",
   "name": "BIGA",
   "rating": {
     "gph": 704.5,
@@ -197,6 +198,5 @@
       7.07,
       7.6
     ]
-  },
-  "reference": "03190004WQ2"
+  }
 }

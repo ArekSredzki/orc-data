@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9136_C",
   "country": "ESP",
+  "reference": "03510004AW7",
   "name": "TANAKAS",
   "rating": {
     "gph": 693.2,
@@ -197,6 +198,5 @@
       7.06,
       7.67
     ]
-  },
-  "reference": "03510004AW7"
+  }
 }

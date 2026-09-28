@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8371",
   "country": "NED",
+  "reference": "04310004K14",
   "name": "Narjis",
   "rating": {
     "gph": 643.2,
@@ -197,6 +198,5 @@
       7.34,
       7.99
     ]
-  },
-  "reference": "04310004K14"
+  }
 }

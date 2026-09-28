@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA9803",
   "country": "ITA",
+  "reference": "03190004OMV",
   "name": "MELTEM",
   "rating": {
     "gph": 707.6,
@@ -197,6 +198,5 @@
       7.13,
       7.81
     ]
-  },
-  "reference": "03190004OMV"
+  }
 }

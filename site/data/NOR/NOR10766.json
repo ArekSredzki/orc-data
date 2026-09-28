@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10766",
   "country": "NOR",
+  "reference": "03440004KAD",
   "name": "Luna",
   "rating": {
     "gph": 692.6,
@@ -197,6 +198,5 @@
       7.06,
       7.9
     ]
-  },
-  "reference": "03440004KAD"
+  }
 }

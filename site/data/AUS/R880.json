@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/R880",
   "country": "AUS",
+  "reference": "03020004USA",
   "name": "Alien",
   "rating": {
     "gph": 597.6,
@@ -197,6 +198,5 @@
       8.29,
       9.69
     ]
-  },
-  "reference": "03020004USA"
+  }
 }

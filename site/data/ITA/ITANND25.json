@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITANND25",
   "country": "ITA",
+  "reference": "03190004R7I",
   "name": "BUENAONDA",
   "rating": {
     "gph": 639.2,
@@ -197,6 +198,5 @@
       7.36,
       7.96
     ]
-  },
-  "reference": "03190004R7I"
+  }
 }

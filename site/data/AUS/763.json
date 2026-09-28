@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/763",
   "country": "AUS",
+  "reference": "03020004W5P",
   "name": "PRION",
   "rating": {
     "gph": 610.2,
@@ -197,6 +198,5 @@
       8.22,
       10.39
     ]
-  },
-  "reference": "03020004W5P"
+  }
 }

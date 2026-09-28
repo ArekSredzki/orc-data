@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3452_C",
   "country": "ESP",
+  "reference": "03510004OLA",
   "name": "MAR GARRIGUELLA 3",
   "rating": {
     "gph": 579.5,
@@ -197,6 +198,5 @@
       8.3,
       8.94
     ]
-  },
-  "reference": "03510004OLA"
+  }
 }

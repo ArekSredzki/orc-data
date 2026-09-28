@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15320",
   "country": "ITA",
+  "reference": "03190004KKM",
   "name": "COSTA DEL SALENTO",
   "rating": {
     "gph": 597.0,
@@ -197,6 +198,5 @@
       8.42,
       9.26
     ]
-  },
-  "reference": "03190004KKM"
+  }
 }

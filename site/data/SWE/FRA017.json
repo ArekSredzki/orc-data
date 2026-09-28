@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/FRA017",
   "country": "SWE",
+  "reference": "03200004T81",
   "name": "Pandion",
   "rating": {
     "gph": 550.1,
@@ -197,6 +198,5 @@
       9.31,
       11.65
     ]
-  },
-  "reference": "03200004T81"
+  }
 }

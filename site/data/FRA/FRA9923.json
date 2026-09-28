@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9923",
   "country": "FRA",
+  "reference": "04330004UMK",
   "name": "SABRISA",
   "rating": {
     "gph": 644.2,
@@ -197,6 +198,5 @@
       8.12,
       10.61
     ]
-  },
-  "reference": "04330004UMK"
+  }
 }

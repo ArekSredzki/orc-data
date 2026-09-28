@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP390",
   "country": "ESP",
+  "reference": "03510004ULT",
   "name": "M 10",
   "rating": {
     "gph": 524.4,
@@ -197,6 +198,5 @@
       9.25,
       10.48
     ]
-  },
-  "reference": "03510004ULT"
+  }
 }

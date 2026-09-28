@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR",
   "country": "TUR",
+  "reference": "04590004N3C",
   "name": "VEGA",
   "rating": {
     "gph": 651.3,
@@ -197,6 +198,5 @@
       7.71,
       8.28
     ]
-  },
-  "reference": "04590004N3C"
+  }
 }

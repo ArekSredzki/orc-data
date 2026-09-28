@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7108",
   "country": "NED",
+  "reference": "04310004LNP",
   "name": "Pas de Deux",
   "rating": {
     "gph": 630.1,
@@ -197,6 +198,5 @@
       7.99,
       8.73
     ]
-  },
-  "reference": "04310004LNP"
+  }
 }

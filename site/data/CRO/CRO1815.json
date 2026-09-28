@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO1815",
   "country": "CRO",
+  "reference": "03620004LUE",
   "name": "Aiolos",
   "rating": {
     "gph": 641.5,
@@ -197,6 +198,5 @@
       7.97,
       8.57
     ]
-  },
-  "reference": "03620004LUE"
+  }
 }

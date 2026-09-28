@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16141",
   "country": "ITA",
+  "reference": "03190004BA7",
   "name": "TWIN SOUL",
   "rating": {
     "gph": 576.5,
@@ -197,6 +198,5 @@
       8.29,
       9.0
     ]
-  },
-  "reference": "03190004BA7"
+  }
 }

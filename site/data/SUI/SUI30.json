@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI30",
   "country": "SUI",
+  "reference": "03080004L81",
   "name": "BOHOMO",
   "rating": {
     "gph": 680.8,
@@ -197,6 +198,5 @@
       7.68,
       8.43
     ]
-  },
-  "reference": "03080004L81"
+  }
 }

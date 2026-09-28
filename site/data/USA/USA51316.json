@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51316",
   "country": "USA",
+  "reference": "04560004FFH",
   "name": "SECOND WIND",
   "rating": {
     "gph": 549.6,
@@ -197,6 +198,5 @@
       8.79,
       10.62
     ]
-  },
-  "reference": "04560004FFH"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8040",
   "country": "NED",
+  "reference": "04310004K0F",
   "name": "Missing Link",
   "rating": {
     "gph": 597.2,
@@ -197,6 +198,5 @@
       8.33,
       9.11
     ]
-  },
-  "reference": "04310004K0F"
+  }
 }

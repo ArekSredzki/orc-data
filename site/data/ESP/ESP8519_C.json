@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8519_C",
   "country": "ESP",
+  "reference": "035100048KS",
   "name": "ISIS",
   "rating": {
     "gph": 702.2,
@@ -197,6 +198,5 @@
       7.1,
       7.74
     ]
-  },
-  "reference": "035100048KS"
+  }
 }

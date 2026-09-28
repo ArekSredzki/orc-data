@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14407",
   "country": "ITA",
+  "reference": "03190004PLH",
   "name": "FREE SPIRIT",
   "rating": {
     "gph": 581.6,
@@ -197,6 +198,5 @@
       8.39,
       9.24
     ]
-  },
-  "reference": "03190004PLH"
+  }
 }

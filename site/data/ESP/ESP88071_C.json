@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP88071_C",
   "country": "ESP",
+  "reference": "03510004HSN",
   "name": "ARISTOTLE",
   "rating": {
     "gph": 659.8,
@@ -197,6 +198,5 @@
       7.37,
       7.99
     ]
-  },
-  "reference": "03510004HSN"
+  }
 }

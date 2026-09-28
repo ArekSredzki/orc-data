@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR4004",
   "country": "TUR",
+  "reference": "04590004INI",
   "name": "ANYTHING GOES",
   "rating": {
     "gph": 578.1,
@@ -197,6 +198,5 @@
       8.56,
       9.44
     ]
-  },
-  "reference": "04590004INI"
+  }
 }

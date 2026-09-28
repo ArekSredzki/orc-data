@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/H1010",
   "country": "AUS",
+  "reference": "03020004UAT",
   "name": "IKON",
   "rating": {
     "gph": 550.5,
@@ -197,6 +198,5 @@
       8.97,
       9.96
     ]
-  },
-  "reference": "03020004UAT"
+  }
 }

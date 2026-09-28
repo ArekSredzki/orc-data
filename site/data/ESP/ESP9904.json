@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9904",
   "country": "ESP",
+  "reference": "03510004BJF",
   "name": "MEIGAS FORA III",
   "rating": {
     "gph": 627.8,
@@ -197,6 +198,5 @@
       8.0,
       9.68
     ]
-  },
-  "reference": "03510004BJF"
+  }
 }

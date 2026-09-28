@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60511",
   "country": "USA",
+  "reference": "04560004U8S",
   "name": "SUNDOG",
   "rating": {
     "gph": 565.0,
@@ -197,6 +198,5 @@
       9.25,
       11.82
     ]
-  },
-  "reference": "04560004U8S"
+  }
 }

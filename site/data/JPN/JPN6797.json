@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN6797",
   "country": "JPN",
+  "reference": "03390004U8Q",
   "name": "EUREKA",
   "rating": {
     "gph": 650.5,
@@ -197,6 +198,5 @@
       7.33,
       7.94
     ]
-  },
-  "reference": "03390004U8Q"
+  }
 }

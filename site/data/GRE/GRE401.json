@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE401",
   "country": "GRE",
+  "reference": "03420004IR2",
   "name": "DORIAN",
   "rating": {
     "gph": 781.4,
@@ -197,6 +198,5 @@
       6.57,
       7.08
     ]
-  },
-  "reference": "03420004IR2"
+  }
 }

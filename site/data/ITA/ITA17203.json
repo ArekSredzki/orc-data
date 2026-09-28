@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17203",
   "country": "ITA",
+  "reference": "03190004S3W",
   "name": "LESS",
   "rating": {
     "gph": 563.3,
@@ -197,6 +198,5 @@
       8.52,
       9.24
     ]
-  },
-  "reference": "03190004S3W"
+  }
 }

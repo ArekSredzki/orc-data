@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/6006",
   "country": "AUS",
+  "reference": "03020004TNO",
   "name": "Gusto",
   "rating": {
     "gph": 560.4,
@@ -197,6 +198,5 @@
       8.93,
       10.61
     ]
-  },
-  "reference": "03020004TNO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL1991",
   "country": "BUL",
+  "reference": "03850004PQ4",
   "name": "LZ Yachting 1991",
   "rating": {
     "gph": 559.5,
@@ -197,6 +198,5 @@
       8.9,
       10.24
     ]
-  },
-  "reference": "03850004PQ4"
+  }
 }

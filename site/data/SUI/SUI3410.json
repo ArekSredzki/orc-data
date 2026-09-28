@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI3410",
   "country": "SUI",
+  "reference": "03080004NP5",
   "name": "SUBITO",
   "rating": {
     "gph": 630.9,
@@ -197,6 +198,5 @@
       7.89,
       8.73
     ]
-  },
-  "reference": "03080004NP5"
+  }
 }

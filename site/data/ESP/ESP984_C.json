@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP984_C",
   "country": "ESP",
+  "reference": "03510004SCV",
   "name": "SOMVELA",
   "rating": {
     "gph": 662.0,
@@ -197,6 +198,5 @@
       8.46,
       11.71
     ]
-  },
-  "reference": "03510004SCV"
+  }
 }

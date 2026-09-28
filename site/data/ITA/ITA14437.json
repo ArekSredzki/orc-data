@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14437",
   "country": "ITA",
+  "reference": "03190004IAR",
   "name": "ZUCCHERO E CANNELLA",
   "rating": {
     "gph": 679.2,
@@ -197,6 +198,5 @@
       7.43,
       7.99
     ]
-  },
-  "reference": "03190004IAR"
+  }
 }

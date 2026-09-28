@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7846_C",
   "country": "ESP",
+  "reference": "03510004BI2",
   "name": "EMBOLIC - U",
   "rating": {
     "gph": 637.9,
@@ -197,6 +198,5 @@
       7.7,
       8.36
     ]
-  },
-  "reference": "03510004BI2"
+  }
 }

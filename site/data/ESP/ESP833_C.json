@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP833_C",
   "country": "ESP",
+  "reference": "0351000489O",
   "name": "PATRONI",
   "rating": {
     "gph": 677.8,
@@ -197,6 +198,5 @@
       7.37,
       9.55
     ]
-  },
-  "reference": "0351000489O"
+  }
 }

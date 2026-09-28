@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA101H22",
   "country": "ITA",
+  "reference": "03190004NUJ",
   "name": "ALBA",
   "rating": {
     "gph": 660.5,
@@ -197,6 +198,5 @@
       10.25,
       13.28
     ]
-  },
-  "reference": "03190004NUJ"
+  }
 }

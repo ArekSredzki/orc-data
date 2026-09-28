@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA7118",
   "country": "RSA",
+  "reference": "04620004ATO",
   "name": "Southern Star",
   "rating": {
     "gph": 639.7,
@@ -197,6 +198,5 @@
       7.5,
       8.88
     ]
-  },
-  "reference": "04620004ATO"
+  }
 }

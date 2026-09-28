@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/NED8257_C",
   "country": "ESP",
+  "reference": "03510004KVE",
   "name": "Windshear",
   "rating": {
     "gph": 623.6,
@@ -197,6 +198,5 @@
       7.75,
       9.35
     ]
-  },
-  "reference": "03510004KVE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA41",
   "country": "ITA",
+  "reference": "03190004AWR",
   "name": "OBELIX",
   "rating": {
     "gph": 566.5,
@@ -197,6 +198,5 @@
       8.66,
       9.67
     ]
-  },
-  "reference": "03190004AWR"
+  }
 }

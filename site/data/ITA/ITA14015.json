@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14015",
   "country": "ITA",
+  "reference": "03190004C3R",
   "name": "X ALTAIR",
   "rating": {
     "gph": 578.7,
@@ -197,6 +198,5 @@
       8.18,
       9.68
     ]
-  },
-  "reference": "03190004C3R"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10575",
   "country": "ESP",
+  "reference": "03510004BF5",
   "name": "LEZO",
   "rating": {
     "gph": 616.8,
@@ -197,6 +198,5 @@
       8.25,
       8.98
     ]
-  },
-  "reference": "03510004BF5"
+  }
 }

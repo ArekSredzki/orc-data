@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL000KTM",
   "country": "POL",
+  "reference": "04410004W01",
   "name": "SAILING FACTORY",
   "rating": {
     "gph": 518.9,
@@ -197,6 +198,5 @@
       10.02,
       12.3
     ]
-  },
-  "reference": "04410004W01"
+  }
 }

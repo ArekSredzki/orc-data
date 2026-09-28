@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA2226M22",
   "country": "ITA",
+  "reference": "03190004FOP",
   "name": "FALABRACH",
   "rating": {
     "gph": 660.0,
@@ -197,6 +198,5 @@
       10.19,
       13.2
     ]
-  },
-  "reference": "03190004FOP"
+  }
 }

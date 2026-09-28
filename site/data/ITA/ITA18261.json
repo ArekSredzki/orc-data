@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18261",
   "country": "ITA",
+  "reference": "03190004BUN",
   "name": "LE KOALA",
   "rating": {
     "gph": 736.1,
@@ -197,6 +198,5 @@
       6.97,
       7.57
     ]
-  },
-  "reference": "03190004BUN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA33731",
   "country": "USA",
+  "reference": "04560004V6N",
   "name": "TRIXIE",
   "rating": {
     "gph": 660.8,
@@ -197,6 +198,5 @@
       7.02,
       7.54
     ]
-  },
-  "reference": "04560004V6N"
+  }
 }

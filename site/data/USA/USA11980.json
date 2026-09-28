@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA11980",
   "country": "USA",
+  "reference": "04560004VQL",
   "name": "Cercavento",
   "rating": {
     "gph": 585.1,
@@ -197,6 +198,5 @@
       8.16,
       9.53
     ]
-  },
-  "reference": "04560004VQL"
+  }
 }

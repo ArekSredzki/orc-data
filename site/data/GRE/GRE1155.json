@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1155",
   "country": "GRE",
+  "reference": "03420004K4T",
   "name": "ZOI",
   "rating": {
     "gph": 683.6,
@@ -197,6 +198,5 @@
       7.58,
       8.2
     ]
-  },
-  "reference": "03420004K4T"
+  }
 }

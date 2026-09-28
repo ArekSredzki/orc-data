@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/M34003",
   "country": "GER",
+  "reference": "04150004Q6N",
   "name": "DOJO",
   "rating": {
     "gph": 563.2,
@@ -197,6 +198,5 @@
       10.57,
       13.55
     ]
-  },
-  "reference": "04150004Q6N"
+  }
 }

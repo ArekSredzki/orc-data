@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU1211",
   "country": "LTU",
+  "reference": "03590004V2L",
   "name": "LEVANTE",
   "rating": {
     "gph": 641.2,
@@ -197,6 +198,5 @@
       8.98,
       12.17
     ]
-  },
-  "reference": "03590004V2L"
+  }
 }

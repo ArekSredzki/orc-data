@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16193",
   "country": "NOR",
+  "reference": "03440004OEQ",
   "name": "Falkungen",
   "rating": {
     "gph": 674.0,
@@ -197,6 +198,5 @@
       7.7,
       9.78
     ]
-  },
-  "reference": "03440004OEQ"
+  }
 }

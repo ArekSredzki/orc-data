@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5058",
   "country": "ESP",
+  "reference": "03510004HFH",
   "name": "BLUE BROTHERS 2",
   "rating": {
     "gph": 642.5,
@@ -197,6 +198,5 @@
       7.75,
       8.51
     ]
-  },
-  "reference": "03510004HFH"
+  }
 }

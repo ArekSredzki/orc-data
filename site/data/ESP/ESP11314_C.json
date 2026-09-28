@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11314_C",
   "country": "ESP",
+  "reference": "03510004894",
   "name": "TURKANA I",
   "rating": {
     "gph": 705.7,
@@ -197,6 +198,5 @@
       6.98,
       7.6
     ]
-  },
-  "reference": "03510004894"
+  }
 }

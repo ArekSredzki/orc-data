@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1448",
   "country": "GRE",
+  "reference": "03420004IWJ",
   "name": "IKAROS",
   "rating": {
     "gph": 702.3,
@@ -197,6 +198,5 @@
       7.29,
       7.9
     ]
-  },
-  "reference": "03420004IWJ"
+  }
 }

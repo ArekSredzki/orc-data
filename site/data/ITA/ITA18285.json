@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18285",
   "country": "ITA",
+  "reference": "03190004V1A",
   "name": "FLORA",
   "rating": {
     "gph": 633.9,
@@ -197,6 +198,5 @@
       8.38,
       10.91
     ]
-  },
-  "reference": "03190004V1A"
+  }
 }

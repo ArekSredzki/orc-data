@@ -1,6 +1,7 @@
 {
   "sailnumber": "SLO/SLO2406",
   "country": "SLO",
+  "reference": "03090004IIK",
   "name": "Sailing Grace",
   "rating": {
     "gph": 551.7,
@@ -197,6 +198,5 @@
       8.76,
       9.65
     ]
-  },
-  "reference": "03090004IIK"
+  }
 }

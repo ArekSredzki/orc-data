@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9099",
   "country": "NED",
+  "reference": "04310004WBP",
   "name": "Twenty Five",
   "rating": {
     "gph": 770.1,
@@ -197,6 +198,5 @@
       6.67,
       7.29
     ]
-  },
-  "reference": "04310004WBP"
+  }
 }

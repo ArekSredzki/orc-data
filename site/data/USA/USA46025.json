@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA46025",
   "country": "USA",
+  "reference": "04560004H31",
   "name": "VORACIOUS",
   "rating": {
     "gph": 717.7,
@@ -197,6 +198,5 @@
       7.07,
       9.3
     ]
-  },
-  "reference": "04560004H31"
+  }
 }

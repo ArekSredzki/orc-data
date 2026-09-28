@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2604",
   "country": "BRA",
+  "reference": "04420004QV0",
   "name": "MINNA 1",
   "rating": {
     "gph": 597.6,
@@ -197,6 +198,5 @@
       8.45,
       9.26
     ]
-  },
-  "reference": "04420004QV0"
+  }
 }

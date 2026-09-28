@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17974",
   "country": "ITA",
+  "reference": "03190004B68",
   "name": "MORETTA",
   "rating": {
     "gph": 590.7,
@@ -197,6 +198,5 @@
       9.4,
       12.61
     ]
-  },
-  "reference": "03190004B68"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2088",
   "country": "GRE",
+  "reference": "03420004NJT",
   "name": "RED BONE",
   "rating": {
     "gph": 668.9,
@@ -197,6 +198,5 @@
       8.38,
       11.6
     ]
-  },
-  "reference": "03420004NJT"
+  }
 }

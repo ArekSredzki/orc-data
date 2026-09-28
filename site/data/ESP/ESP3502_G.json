@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3502_G",
   "country": "ESP",
+  "reference": "03510004BD3",
   "name": "BLUSAIL24 GEN  RCNP",
   "rating": {
     "gph": 671.4,
@@ -197,6 +198,5 @@
       8.35,
       11.38
     ]
-  },
-  "reference": "03510004BD3"
+  }
 }

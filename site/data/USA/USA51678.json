@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51678",
   "country": "USA",
+  "reference": "04560004QV8",
   "name": "PATRIOT",
   "rating": {
     "gph": 614.2,
@@ -197,6 +198,5 @@
       7.88,
       8.6
     ]
-  },
-  "reference": "04560004QV8"
+  }
 }

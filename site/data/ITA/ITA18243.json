@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18243",
   "country": "ITA",
+  "reference": "03190004BDO",
   "name": "OLLIP",
   "rating": {
     "gph": 634.9,
@@ -197,6 +198,5 @@
       8.04,
       10.71
     ]
-  },
-  "reference": "03190004BDO"
+  }
 }

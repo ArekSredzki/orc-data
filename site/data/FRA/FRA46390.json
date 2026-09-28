@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA46390",
   "country": "FRA",
+  "reference": "04330004PLT",
   "name": "SERENDIPITY",
   "rating": {
     "gph": 528.5,
@@ -197,6 +198,5 @@
       9.53,
       11.96
     ]
-  },
-  "reference": "04330004PLT"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16170",
   "country": "NOR",
+  "reference": "03440004W7P",
   "name": "Pippi",
   "rating": {
     "gph": 808.2,
@@ -197,6 +198,5 @@
       6.62,
       7.24
     ]
-  },
-  "reference": "03440004W7P"
+  }
 }

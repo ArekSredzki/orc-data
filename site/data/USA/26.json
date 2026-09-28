@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/26",
   "country": "USA",
+  "reference": "04560004NI3",
   "name": "GROUPE 5",
   "rating": {
     "gph": 582.7,
@@ -197,6 +198,5 @@
       10.03,
       12.92
     ]
-  },
-  "reference": "04560004NI3"
+  }
 }

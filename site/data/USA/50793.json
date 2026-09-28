@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/50793",
   "country": "USA",
+  "reference": "04560004S5J",
   "name": "LATITUDE",
   "rating": {
     "gph": 568.0,
@@ -197,6 +198,5 @@
       8.37,
       10.2
     ]
-  },
-  "reference": "04560004S5J"
+  }
 }

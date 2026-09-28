@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2083",
   "country": "GRE",
+  "reference": "03420004KC8",
   "name": "CRETE",
   "rating": {
     "gph": 674.7,
@@ -197,6 +198,5 @@
       7.35,
       7.88
     ]
-  },
-  "reference": "03420004KC8"
+  }
 }

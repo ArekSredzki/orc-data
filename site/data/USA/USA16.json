@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA16",
   "country": "USA",
+  "reference": "04560004ODL",
   "name": "GAUCHO",
   "rating": {
     "gph": 624.2,
@@ -197,6 +198,5 @@
       8.65,
       11.53
     ]
-  },
-  "reference": "04560004ODL"
+  }
 }

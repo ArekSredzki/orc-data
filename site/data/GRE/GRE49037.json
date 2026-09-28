@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49037",
   "country": "GRE",
+  "reference": "03420004LAC",
   "name": "SIM CAT",
   "rating": {
     "gph": 671.7,
@@ -197,6 +198,5 @@
       7.42,
       7.98
     ]
-  },
-  "reference": "03420004LAC"
+  }
 }

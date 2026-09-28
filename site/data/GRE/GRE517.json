@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE517",
   "country": "GRE",
+  "reference": "03420004IR0",
   "name": "ALLEGORIA",
   "rating": {
     "gph": 625.7,
@@ -197,6 +198,5 @@
       8.02,
       8.79
     ]
-  },
-  "reference": "03420004IR0"
+  }
 }

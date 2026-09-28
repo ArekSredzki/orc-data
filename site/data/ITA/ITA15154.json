@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15154",
   "country": "ITA",
+  "reference": "03190004LOS",
   "name": "SURPRISE",
   "rating": {
     "gph": 668.8,
@@ -197,6 +198,5 @@
       7.5,
       8.23
     ]
-  },
-  "reference": "03190004LOS"
+  }
 }

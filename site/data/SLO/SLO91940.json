@@ -1,6 +1,7 @@
 {
   "sailnumber": "SLO/SLO91940",
   "country": "SLO",
+  "reference": "03090004IIO",
   "name": "Elaya D",
   "rating": {
     "gph": 591.7,
@@ -197,6 +198,5 @@
       8.16,
       8.95
     ]
-  },
-  "reference": "03090004IIO"
+  }
 }

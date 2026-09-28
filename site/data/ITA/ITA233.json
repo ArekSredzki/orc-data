@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA233",
   "country": "ITA",
+  "reference": "03190004UTT",
   "name": "BLACK ARROW",
   "rating": {
     "gph": 512.2,
@@ -197,6 +198,5 @@
       12.46,
       15.65
     ]
-  },
-  "reference": "03190004UTT"
+  }
 }

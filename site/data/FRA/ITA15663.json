@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/ITA15663",
   "country": "FRA",
+  "reference": "04330004HNF",
   "name": "GODZILLA",
   "rating": {
     "gph": 626.1,
@@ -197,6 +198,5 @@
       7.93,
       8.61
     ]
-  },
-  "reference": "04330004HNF"
+  }
 }

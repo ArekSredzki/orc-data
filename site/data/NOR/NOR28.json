@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR28",
   "country": "NOR",
+  "reference": "03440004L4F",
   "name": "Fulmara",
   "rating": {
     "gph": 623.0,
@@ -197,6 +198,5 @@
       7.57,
       8.92
     ]
-  },
-  "reference": "03440004L4F"
+  }
 }

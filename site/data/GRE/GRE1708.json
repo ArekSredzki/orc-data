@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1708",
   "country": "GRE",
+  "reference": "03420004VAL",
   "name": "MYTILANA-Orgonitecreations",
   "rating": {
     "gph": 667.2,
@@ -197,6 +198,5 @@
       7.76,
       8.37
     ]
-  },
-  "reference": "03420004VAL"
+  }
 }

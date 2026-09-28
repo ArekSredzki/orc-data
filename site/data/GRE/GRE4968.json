@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE4968",
   "country": "GRE",
+  "reference": "03420004LIQ",
   "name": "NINIA",
   "rating": {
     "gph": 754.4,
@@ -197,6 +198,5 @@
       6.91,
       7.44
     ]
-  },
-  "reference": "03420004LIQ"
+  }
 }

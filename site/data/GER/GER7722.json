@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7722",
   "country": "GER",
+  "reference": "03520004SL1",
   "name": "ELIDA",
   "rating": {
     "gph": 459.9,
@@ -197,6 +198,5 @@
       11.91,
       14.97
     ]
-  },
-  "reference": "03520004SL1"
+  }
 }

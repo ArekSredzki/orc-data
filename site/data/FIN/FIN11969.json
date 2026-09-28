@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11969",
   "country": "FIN",
+  "reference": "03290004T1R",
   "name": "Krut",
   "rating": {
     "gph": 596.6,
@@ -197,6 +198,5 @@
       8.32,
       10.59
     ]
-  },
-  "reference": "03290004T1R"
+  }
 }

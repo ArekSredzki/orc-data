@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST733",
   "country": "EST",
+  "reference": "04340004WCR",
   "name": "BORA",
   "rating": {
     "gph": 737.0,
@@ -197,6 +198,5 @@
       6.72,
       7.35
     ]
-  },
-  "reference": "04340004WCR"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR25553",
   "country": "POR",
+  "reference": "03530004HHJ",
   "name": "GARRUCHA",
   "rating": {
     "gph": 645.4,
@@ -197,6 +198,5 @@
       7.72,
       8.45
     ]
-  },
-  "reference": "03530004HHJ"
+  }
 }

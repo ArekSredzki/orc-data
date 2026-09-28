@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10205",
   "country": "NOR",
+  "reference": "03440004L3U",
   "name": "Duli",
   "rating": {
     "gph": 689.5,
@@ -197,6 +198,5 @@
       7.51,
       8.19
     ]
-  },
-  "reference": "03440004L3U"
+  }
 }

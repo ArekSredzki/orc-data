@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5813_C",
   "country": "ESP",
+  "reference": "03510004RL8",
   "name": "KELAYA",
   "rating": {
     "gph": 654.4,
@@ -197,6 +198,5 @@
       7.67,
       8.33
     ]
-  },
-  "reference": "03510004RL8"
+  }
 }

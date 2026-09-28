@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5156_C",
   "country": "ESP",
+  "reference": "03510004BHP",
   "name": "COCOLISO",
   "rating": {
     "gph": 679.5,
@@ -197,6 +198,5 @@
       8.0,
       10.51
     ]
-  },
-  "reference": "03510004BHP"
+  }
 }

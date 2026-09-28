@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/SWE123",
   "country": "ITA",
+  "reference": "03190004LPD",
   "name": "MABELLE II",
   "rating": {
     "gph": 565.6,
@@ -197,6 +198,5 @@
       8.45,
       9.14
     ]
-  },
-  "reference": "03190004LPD"
+  }
 }

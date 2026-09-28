@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI014",
   "country": "SUI",
+  "reference": "03080004V2K",
   "name": "ESSE 750",
   "rating": {
     "gph": 631.4,
@@ -197,6 +198,5 @@
       10.7,
       13.56
     ]
-  },
-  "reference": "03080004V2K"
+  }
 }

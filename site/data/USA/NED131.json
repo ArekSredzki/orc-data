@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/NED131",
   "country": "USA",
+  "reference": "04560004QUK",
   "name": "NORTHERN SPY",
   "rating": {
     "gph": 560.2,
@@ -197,6 +198,5 @@
       8.79,
       9.63
     ]
-  },
-  "reference": "04560004QUK"
+  }
 }

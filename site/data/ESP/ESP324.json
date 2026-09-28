@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP324",
   "country": "ESP",
+  "reference": "03510004C2B",
   "name": "MOURA",
   "rating": {
     "gph": 662.5,
@@ -197,6 +198,5 @@
       8.98,
       12.04
     ]
-  },
-  "reference": "03510004C2B"
+  }
 }

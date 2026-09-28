@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9102",
   "country": "NED",
+  "reference": "04310004K2K",
   "name": "Narwal",
   "rating": {
     "gph": 591.3,
@@ -197,6 +198,5 @@
       8.1,
       9.93
     ]
-  },
-  "reference": "04310004K2K"
+  }
 }

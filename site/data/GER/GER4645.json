@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER4645",
   "country": "GER",
+  "reference": "03520004U5F",
   "name": "LA DIANA",
   "rating": {
     "gph": 682.6,
@@ -197,6 +198,5 @@
       7.41,
       7.95
     ]
-  },
-  "reference": "03520004U5F"
+  }
 }

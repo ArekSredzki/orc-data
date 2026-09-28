@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1508",
   "country": "TUR",
+  "reference": "04590004U89",
   "name": "AGENT",
   "rating": {
     "gph": 609.1,
@@ -197,6 +198,5 @@
       8.16,
       9.42
     ]
-  },
-  "reference": "04590004U89"
+  }
 }

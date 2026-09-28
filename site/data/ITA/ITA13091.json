@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13091",
   "country": "ITA",
+  "reference": "03190004QC7",
   "name": "TWISTER",
   "rating": {
     "gph": 671.0,
@@ -197,6 +198,5 @@
       7.35,
       8.12
     ]
-  },
-  "reference": "03190004QC7"
+  }
 }

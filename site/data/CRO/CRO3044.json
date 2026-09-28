@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO3044",
   "country": "CRO",
+  "reference": "03620004PCB",
   "name": "Belissima",
   "rating": {
     "gph": 618.9,
@@ -197,6 +198,5 @@
       7.74,
       9.36
     ]
-  },
-  "reference": "03620004PCB"
+  }
 }

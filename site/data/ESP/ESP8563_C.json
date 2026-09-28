@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8563_C",
   "country": "ESP",
+  "reference": "03510004HC2",
   "name": "S'EMBUI",
   "rating": {
     "gph": 730.8,
@@ -197,6 +198,5 @@
       7.03,
       7.76
     ]
-  },
-  "reference": "03510004HC2"
+  }
 }

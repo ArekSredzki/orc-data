@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR7006",
   "country": "NOR",
+  "reference": "03440004PPC",
   "name": "Luringen",
   "rating": {
     "gph": 629.6,
@@ -197,6 +198,5 @@
       7.9,
       8.59
     ]
-  },
-  "reference": "03440004PPC"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12223",
   "country": "FIN",
+  "reference": "04140004QL7",
   "name": "Kiet",
   "rating": {
     "gph": 609.0,
@@ -197,6 +198,5 @@
       8.21,
       8.96
     ]
-  },
-  "reference": "04140004QL7"
+  }
 }

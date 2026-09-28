@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR8556",
   "country": "POR",
+  "reference": "03530004VJQ",
   "name": "YEMAYA",
   "rating": {
     "gph": 594.6,
@@ -197,6 +198,5 @@
       8.23,
       9.02
     ]
-  },
-  "reference": "03530004VJQ"
+  }
 }

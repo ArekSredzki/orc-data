@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS138",
   "country": "AUS",
+  "reference": "03020004V43",
   "name": "Crazy Diamond",
   "rating": {
     "gph": 535.1,
@@ -197,6 +198,5 @@
       12.44,
       15.64
     ]
-  },
-  "reference": "03020004V43"
+  }
 }

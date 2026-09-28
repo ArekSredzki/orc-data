@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA219",
   "country": "USA",
+  "reference": "04560004NUR",
   "name": "SHERASA",
   "rating": {
     "gph": 631.1,
@@ -197,6 +198,5 @@
       7.86,
       8.49
     ]
-  },
-  "reference": "04560004NUR"
+  }
 }

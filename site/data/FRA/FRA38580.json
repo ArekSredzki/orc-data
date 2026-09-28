@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA38580",
   "country": "FRA",
+  "reference": "04330004OT3",
   "name": "ESPARLICA 3",
   "rating": {
     "gph": 579.0,
@@ -197,6 +198,5 @@
       8.2,
       9.8
     ]
-  },
-  "reference": "04330004OT3"
+  }
 }

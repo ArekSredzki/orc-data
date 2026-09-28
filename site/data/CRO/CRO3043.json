@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO3043",
   "country": "CRO",
+  "reference": "03620004N2P",
   "name": "Lyana",
   "rating": {
     "gph": 621.6,
@@ -197,6 +198,5 @@
       8.05,
       8.64
     ]
-  },
-  "reference": "03620004N2P"
+  }
 }

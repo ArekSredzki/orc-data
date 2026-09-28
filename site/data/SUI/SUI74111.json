@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI74111",
   "country": "SUI",
+  "reference": "03080004J90",
   "name": "BALLYHOO",
   "rating": {
     "gph": 522.7,
@@ -197,6 +198,5 @@
       11.69,
       15.01
     ]
-  },
-  "reference": "03080004J90"
+  }
 }

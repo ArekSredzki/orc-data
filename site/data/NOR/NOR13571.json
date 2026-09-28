@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13571",
   "country": "NOR",
+  "reference": "03440004N9H",
   "name": "Maija",
   "rating": {
     "gph": 605.6,
@@ -197,6 +198,5 @@
       7.93,
       8.56
     ]
-  },
-  "reference": "03440004N9H"
+  }
 }

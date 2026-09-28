@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA482",
   "country": "USA",
+  "reference": "04560004VIU",
   "name": "TALISMAN",
   "rating": {
     "gph": 467.8,
@@ -197,6 +198,5 @@
       10.67,
       13.11
     ]
-  },
-  "reference": "04560004VIU"
+  }
 }

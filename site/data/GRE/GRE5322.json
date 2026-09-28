@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE5322",
   "country": "GRE",
+  "reference": "03420004SVB",
   "name": "IZANAMI",
   "rating": {
     "gph": 536.5,
@@ -197,6 +198,5 @@
       9.17,
       10.06
     ]
-  },
-  "reference": "03420004SVB"
+  }
 }

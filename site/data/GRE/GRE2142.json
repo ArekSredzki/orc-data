@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2142",
   "country": "GRE",
+  "reference": "03420004MDH",
   "name": "HYDROBATES",
   "rating": {
     "gph": 805.2,
@@ -197,6 +198,5 @@
       6.85,
       7.29
     ]
-  },
-  "reference": "03420004MDH"
+  }
 }

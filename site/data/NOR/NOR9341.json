@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9341",
   "country": "NOR",
+  "reference": "03440004ISQ",
   "name": "X-faktor",
   "rating": {
     "gph": 642.8,
@@ -197,6 +198,5 @@
       7.74,
       8.5
     ]
-  },
-  "reference": "03440004ISQ"
+  }
 }

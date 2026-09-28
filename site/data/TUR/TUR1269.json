@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1269",
   "country": "TUR",
+  "reference": "04590004ILR",
   "name": "DHO DENIZ KIZI 17",
   "rating": {
     "gph": 665.9,
@@ -197,6 +198,5 @@
       8.5,
       11.63
     ]
-  },
-  "reference": "04590004ILR"
+  }
 }

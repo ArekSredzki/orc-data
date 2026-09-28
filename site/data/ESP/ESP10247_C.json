@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10247_C",
   "country": "ESP",
+  "reference": "03510004C2K",
   "name": "MENGANO",
   "rating": {
     "gph": 670.0,
@@ -197,6 +198,5 @@
       6.93,
       7.86
     ]
-  },
-  "reference": "03510004C2K"
+  }
 }

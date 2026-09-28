@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11438_C",
   "country": "ESP",
+  "reference": "03510004HKP",
   "name": "ALCOTAN III",
   "rating": {
     "gph": 665.3,
@@ -197,6 +198,5 @@
       7.29,
       9.49
     ]
-  },
-  "reference": "03510004HKP"
+  }
 }

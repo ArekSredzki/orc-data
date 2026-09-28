@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12322",
   "country": "FIN",
+  "reference": "04140004U3C",
   "name": "Kossava",
   "rating": {
     "gph": 578.3,
@@ -197,6 +198,5 @@
       11.24,
       14.32
     ]
-  },
-  "reference": "04140004U3C"
+  }
 }

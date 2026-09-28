@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/ESP8811",
   "country": "FRA",
+  "reference": "04330004CBQ",
   "name": "BEAGLE",
   "rating": {
     "gph": 620.9,
@@ -197,6 +198,5 @@
       7.98,
       8.69
     ]
-  },
-  "reference": "04330004CBQ"
+  }
 }

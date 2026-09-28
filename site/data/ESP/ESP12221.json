@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP12221",
   "country": "ESP",
+  "reference": "035100048M2",
   "name": "BLUE OYSTER",
   "rating": {
     "gph": 615.7,
@@ -197,6 +198,5 @@
       8.16,
       9.0
     ]
-  },
-  "reference": "035100048M2"
+  }
 }

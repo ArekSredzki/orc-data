@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1308",
   "country": "GRE",
+  "reference": "03420004S18",
   "name": "NIRITIS",
   "rating": {
     "gph": 690.8,
@@ -197,6 +198,5 @@
       7.3,
       8.81
     ]
-  },
-  "reference": "03420004S18"
+  }
 }

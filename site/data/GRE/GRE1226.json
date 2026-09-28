@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1226",
   "country": "GRE",
+  "reference": "03420004J71",
   "name": "CALYPSO",
   "rating": {
     "gph": 618.3,
@@ -197,6 +198,5 @@
       8.31,
       9.01
     ]
-  },
-  "reference": "03420004J71"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2233",
   "country": "GRE",
+  "reference": "03420004TAP",
   "name": "ASTERAKI",
   "rating": {
     "gph": 752.5,
@@ -197,6 +198,5 @@
       6.86,
       7.44
     ]
-  },
-  "reference": "03420004TAP"
+  }
 }

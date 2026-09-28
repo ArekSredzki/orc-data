@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR487",
   "country": "NOR",
+  "reference": "03440004RQE",
   "name": "Hotshot",
   "rating": {
     "gph": 535.7,
@@ -197,6 +198,5 @@
       12.41,
       15.62
     ]
-  },
-  "reference": "03440004RQE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/525100",
   "country": "AUS",
+  "reference": "03020004VL5",
   "name": "BLACK JACK 100",
   "rating": {
     "gph": 332.2,
@@ -197,6 +198,5 @@
       17.5,
       20.65
     ]
-  },
-  "reference": "03020004VL5"
+  }
 }

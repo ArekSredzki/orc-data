@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52901",
   "country": "USA",
+  "reference": "04560004L11",
   "name": "BLITZKRIEG",
   "rating": {
     "gph": 569.2,
@@ -197,6 +198,5 @@
       8.31,
       9.93
     ]
-  },
-  "reference": "04560004L11"
+  }
 }

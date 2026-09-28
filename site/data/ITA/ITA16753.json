@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16753",
   "country": "ITA",
+  "reference": "03190004F7A",
   "name": "ATAHUALPA",
   "rating": {
     "gph": 584.4,
@@ -197,6 +198,5 @@
       8.01,
       8.62
     ]
-  },
-  "reference": "03190004F7A"
+  }
 }

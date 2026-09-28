@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11219",
   "country": "FIN",
+  "reference": "04140004TQU",
   "name": "EkoTeko",
   "rating": {
     "gph": 567.2,
@@ -197,6 +198,5 @@
       8.81,
       10.61
     ]
-  },
-  "reference": "04140004TQU"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA37370",
   "country": "FRA",
+  "reference": "04330004PRP",
   "name": "TAGAN IV",
   "rating": {
     "gph": 663.4,
@@ -197,6 +198,5 @@
       8.06,
       9.67
     ]
-  },
-  "reference": "04330004PRP"
+  }
 }

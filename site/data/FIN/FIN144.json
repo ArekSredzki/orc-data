@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN144",
   "country": "FIN",
+  "reference": "04140004T1D",
   "name": "Rox-Mary",
   "rating": {
     "gph": 712.4,
@@ -197,6 +198,5 @@
       7.34,
       8.76
     ]
-  },
-  "reference": "04140004T1D"
+  }
 }

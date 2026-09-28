@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14742",
   "country": "NOR",
+  "reference": "03440004W3L",
   "name": "Woody",
   "rating": {
     "gph": 629.5,
@@ -197,6 +198,5 @@
       7.94,
       10.4
     ]
-  },
-  "reference": "03440004W3L"
+  }
 }

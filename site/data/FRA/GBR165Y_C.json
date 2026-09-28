@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR165Y_C",
   "country": "FRA",
+  "reference": "04330004QB0",
   "name": "STILETTO",
   "rating": {
     "gph": 757.8,
@@ -197,6 +198,5 @@
       6.79,
       7.39
     ]
-  },
-  "reference": "04330004QB0"
+  }
 }

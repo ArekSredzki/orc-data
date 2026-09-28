@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9781",
   "country": "NOR",
+  "reference": "03440004OH8",
   "name": "Lykke",
   "rating": {
     "gph": 595.5,
@@ -197,6 +198,5 @@
       8.24,
       9.0
     ]
-  },
-  "reference": "03440004OH8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA5797",
   "country": "FRA",
+  "reference": "04330004TCU",
   "name": "EL PEPITO",
   "rating": {
     "gph": 716.3,
@@ -197,6 +198,5 @@
       6.9,
       7.49
     ]
-  },
-  "reference": "04330004TCU"
+  }
 }

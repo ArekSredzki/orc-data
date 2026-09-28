@@ -1,6 +1,7 @@
 {
   "sailnumber": "SLO/SLO1596",
   "country": "SLO",
+  "reference": "03090004P0N",
   "name": "Athena Pirnar",
   "rating": {
     "gph": 607.0,
@@ -197,6 +198,5 @@
       8.13,
       9.08
     ]
-  },
-  "reference": "03090004P0N"
+  }
 }

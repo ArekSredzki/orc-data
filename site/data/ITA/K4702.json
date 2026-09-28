@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/K4702",
   "country": "ITA",
+  "reference": "03190004L93",
   "name": "OJALA' II",
   "rating": {
     "gph": 666.9,
@@ -197,6 +198,5 @@
       7.41,
       7.96
     ]
-  },
-  "reference": "03190004L93"
+  }
 }

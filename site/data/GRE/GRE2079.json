@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2079",
   "country": "GRE",
+  "reference": "03420004R5F",
   "name": "RICCI",
   "rating": {
     "gph": 665.0,
@@ -197,6 +198,5 @@
       7.27,
       8.32
     ]
-  },
-  "reference": "03420004R5F"
+  }
 }

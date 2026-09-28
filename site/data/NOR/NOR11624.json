@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11624",
   "country": "NOR",
+  "reference": "03440004NKO",
   "name": "Taygeta",
   "rating": {
     "gph": 642.2,
@@ -197,6 +198,5 @@
       7.85,
       8.49
     ]
-  },
-  "reference": "03440004NKO"
+  }
 }

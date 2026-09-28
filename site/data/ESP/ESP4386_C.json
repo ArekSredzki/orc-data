@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4386_C",
   "country": "ESP",
+  "reference": "03510004BEC",
   "name": "BARBABLU",
   "rating": {
     "gph": 567.6,
@@ -197,6 +198,5 @@
       8.29,
       8.99
     ]
-  },
-  "reference": "03510004BEC"
+  }
 }

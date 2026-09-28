@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8540",
   "country": "GER",
+  "reference": "04150004RD7",
   "name": "JUBEL",
   "rating": {
     "gph": 605.7,
@@ -197,6 +198,5 @@
       7.76,
       9.19
     ]
-  },
-  "reference": "04150004RD7"
+  }
 }

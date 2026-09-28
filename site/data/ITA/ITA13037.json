@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13037",
   "country": "ITA",
+  "reference": "03190004EOB",
   "name": "RELAX III",
   "rating": {
     "gph": 658.4,
@@ -197,6 +198,5 @@
       7.55,
       8.23
     ]
-  },
-  "reference": "03190004EOB"
+  }
 }

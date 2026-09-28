@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25168",
   "country": "USA",
+  "reference": "04560004VDH",
   "name": "VALOR",
   "rating": {
     "gph": 462.8,
@@ -197,6 +198,5 @@
       11.61,
       13.9
     ]
-  },
-  "reference": "04560004VDH"
+  }
 }

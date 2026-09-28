@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA39694",
   "country": "FRA",
+  "reference": "04330004FU4",
   "name": "TEAM CAPTAIN NASON'S",
   "rating": {
     "gph": 637.5,
@@ -197,6 +198,5 @@
       8.06,
       9.19
     ]
-  },
-  "reference": "04330004FU4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7280_C",
   "country": "ESP",
+  "reference": "03510004H3K",
   "name": "COMANCHE",
   "rating": {
     "gph": 585.0,
@@ -197,6 +198,5 @@
       8.03,
       8.71
     ]
-  },
-  "reference": "03510004H3K"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/7232",
   "country": "AUS",
+  "reference": "03020004V4F",
   "name": "Ca Va",
   "rating": {
     "gph": 583.8,
@@ -197,6 +198,5 @@
       8.27,
       9.33
     ]
-  },
-  "reference": "03020004V4F"
+  }
 }

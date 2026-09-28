@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10899_C",
   "country": "ESP",
+  "reference": "0351000488P",
   "name": "SAILWAYS AZUL",
   "rating": {
     "gph": 633.9,
@@ -197,6 +198,5 @@
       10.2,
       13.27
     ]
-  },
-  "reference": "0351000488P"
+  }
 }

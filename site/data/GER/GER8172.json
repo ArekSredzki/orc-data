@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8172",
   "country": "GER",
+  "reference": "03520004I2N",
   "name": "SMILE",
   "rating": {
     "gph": 615.0,
@@ -197,6 +198,5 @@
       7.86,
       9.19
     ]
-  },
-  "reference": "03520004I2N"
+  }
 }

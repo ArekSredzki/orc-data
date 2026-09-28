@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT43",
   "country": "LAT",
+  "reference": "04960004WEQ",
   "name": "Express",
   "rating": {
     "gph": 674.2,
@@ -197,6 +198,5 @@
       7.26,
       9.45
     ]
-  },
-  "reference": "04960004WEQ"
+  }
 }

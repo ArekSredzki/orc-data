@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1972S850",
   "country": "ITA",
+  "reference": "03190004BN7",
   "name": "O.C.ESSE",
   "rating": {
     "gph": 605.3,
@@ -197,6 +198,5 @@
       10.23,
       13.25
     ]
-  },
-  "reference": "03190004BN7"
+  }
 }

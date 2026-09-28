@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5091_C",
   "country": "ESP",
+  "reference": "03510004FRU",
   "name": "MELENAS",
   "rating": {
     "gph": 691.8,
@@ -197,6 +198,5 @@
       7.21,
       7.84
     ]
-  },
-  "reference": "03510004FRU"
+  }
 }

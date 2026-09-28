@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP68",
   "country": "ESP",
+  "reference": "03510004H3I",
   "name": "PELOTARI",
   "rating": {
     "gph": 418.6,
@@ -197,6 +198,5 @@
       12.74,
       15.49
     ]
-  },
-  "reference": "03510004H3I"
+  }
 }

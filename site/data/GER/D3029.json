@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/D3029",
   "country": "GER",
+  "reference": "04150004MFV",
   "name": "PLAY TIME",
   "rating": {
     "gph": 590.4,
@@ -197,6 +198,5 @@
       9.03,
       12.5
     ]
-  },
-  "reference": "04150004MFV"
+  }
 }

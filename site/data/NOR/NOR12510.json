@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12510",
   "country": "NOR",
+  "reference": "03440004NKV",
   "name": "Breezin",
   "rating": {
     "gph": 589.7,
@@ -197,6 +198,5 @@
       8.35,
       9.17
     ]
-  },
-  "reference": "03440004NKV"
+  }
 }

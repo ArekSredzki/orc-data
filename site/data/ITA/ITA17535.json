@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17535",
   "country": "ITA",
+  "reference": "03190004TSI",
   "name": "VICTORY",
   "rating": {
     "gph": 530.7,
@@ -197,6 +198,5 @@
       10.46,
       13.62
     ]
-  },
-  "reference": "03190004TSI"
+  }
 }

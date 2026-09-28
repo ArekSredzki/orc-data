@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG272",
   "country": "HKG",
+  "reference": "03880004WSB",
   "name": "One Dragon",
   "rating": {
     "gph": 648.1,
@@ -197,6 +198,5 @@
       11.72,
       14.3
     ]
-  },
-  "reference": "03880004WSB"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10014",
   "country": "NOR",
+  "reference": "03440004L3T",
   "name": "Nora",
   "rating": {
     "gph": 654.3,
@@ -197,6 +198,5 @@
       7.65,
       8.25
     ]
-  },
-  "reference": "03440004L3T"
+  }
 }

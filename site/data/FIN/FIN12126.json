@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12126",
   "country": "FIN",
+  "reference": "04140004P6P",
   "name": "Jolie",
   "rating": {
     "gph": 648.5,
@@ -197,6 +198,5 @@
       7.8,
       10.24
     ]
-  },
-  "reference": "04140004P6P"
+  }
 }

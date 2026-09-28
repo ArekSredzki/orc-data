@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE211",
   "country": "SWE",
+  "reference": "03200004PIV",
   "name": "Vindrus",
   "rating": {
     "gph": 613.8,
@@ -197,6 +198,5 @@
       7.75,
       9.55
     ]
-  },
-  "reference": "03200004PIV"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61658",
   "country": "USA",
+  "reference": "04560004N6R",
   "name": "CHEEKY",
   "rating": {
     "gph": 563.5,
@@ -197,6 +198,5 @@
       8.47,
       10.39
     ]
-  },
-  "reference": "04560004N6R"
+  }
 }

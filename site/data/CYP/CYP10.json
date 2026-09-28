@@ -1,6 +1,7 @@
 {
   "sailnumber": "CYP/CYP10",
   "country": "CYP",
+  "reference": "03470004RL1",
   "name": "JULIET",
   "rating": {
     "gph": 591.9,
@@ -197,6 +198,5 @@
       11.01,
       14.14
     ]
-  },
-  "reference": "03470004RL1"
+  }
 }

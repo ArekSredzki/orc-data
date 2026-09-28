@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR1107",
   "country": "KOR",
+  "reference": "04550004BCJ",
   "name": "Polaris",
   "rating": {
     "gph": 700.2,
@@ -197,6 +198,5 @@
       7.29,
       8.01
     ]
-  },
-  "reference": "04550004BCJ"
+  }
 }

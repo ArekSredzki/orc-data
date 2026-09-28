@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14599",
   "country": "ITA",
+  "reference": "03190004OPC",
   "name": "MANIDA",
   "rating": {
     "gph": 613.4,
@@ -197,6 +198,5 @@
       8.17,
       10.37
     ]
-  },
-  "reference": "03190004OPC"
+  }
 }

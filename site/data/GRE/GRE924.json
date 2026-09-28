@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE924",
   "country": "GRE",
+  "reference": "03420004H8I",
   "name": "SOFAKI",
   "rating": {
     "gph": 720.8,
@@ -197,6 +198,5 @@
       6.71,
       7.17
     ]
-  },
-  "reference": "03420004H8I"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8760",
   "country": "GER",
+  "reference": "03520004T65",
   "name": "JANNE 2",
   "rating": {
     "gph": 618.1,
@@ -197,6 +198,5 @@
       7.83,
       8.5
     ]
-  },
-  "reference": "03520004T65"
+  }
 }

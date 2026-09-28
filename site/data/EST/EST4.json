@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST4",
   "country": "EST",
+  "reference": "04340004SQ8",
   "name": "Tuuslar",
   "rating": {
     "gph": 733.9,
@@ -197,6 +198,5 @@
       6.84,
       7.39
     ]
-  },
-  "reference": "04340004SQ8"
+  }
 }

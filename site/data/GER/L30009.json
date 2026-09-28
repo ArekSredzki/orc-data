@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/L30009",
   "country": "GER",
+  "reference": "03520004I37",
   "name": "TURMALIN",
   "rating": {
     "gph": 592.1,
@@ -197,6 +198,5 @@
       9.56,
       12.5
     ]
-  },
-  "reference": "03520004I37"
+  }
 }

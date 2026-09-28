@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA15004",
   "country": "USA",
+  "reference": "04560004QV7",
   "name": "FAST TANGO",
   "rating": {
     "gph": 620.1,
@@ -197,6 +198,5 @@
       7.81,
       8.51
     ]
-  },
-  "reference": "04560004QV7"
+  }
 }

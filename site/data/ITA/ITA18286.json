@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18286",
   "country": "ITA",
+  "reference": "03190004KRA",
   "name": "ALRISHA",
   "rating": {
     "gph": 675.0,
@@ -197,6 +198,5 @@
       7.25,
       9.32
     ]
-  },
-  "reference": "03190004KRA"
+  }
 }

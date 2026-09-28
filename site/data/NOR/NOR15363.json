@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15363",
   "country": "NOR",
+  "reference": "03440004QMR",
   "name": "Decoy",
   "rating": {
     "gph": 655.1,
@@ -197,6 +198,5 @@
       7.4,
       8.14
     ]
-  },
-  "reference": "03440004QMR"
+  }
 }

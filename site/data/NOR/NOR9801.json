@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9801",
   "country": "NOR",
+  "reference": "03440004WCI",
   "name": "Trigger",
   "rating": {
     "gph": 659.1,
@@ -197,6 +198,5 @@
       7.64,
       8.33
     ]
-  },
-  "reference": "03440004WCI"
+  }
 }

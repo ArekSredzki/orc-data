@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/FRA43833",
   "country": "GRE",
+  "reference": "03420004OVA",
   "name": "EROS",
   "rating": {
     "gph": 487.2,
@@ -197,6 +198,5 @@
       11.36,
       13.8
     ]
-  },
-  "reference": "03420004OVA"
+  }
 }

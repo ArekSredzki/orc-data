@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2211",
   "country": "GRE",
+  "reference": "03420004LJ5",
   "name": "ORION",
   "rating": {
     "gph": 736.2,
@@ -197,6 +198,5 @@
       6.94,
       7.53
     ]
-  },
-  "reference": "03420004LJ5"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/GBR5809R",
   "country": "NED",
+  "reference": "04310004L1R",
   "name": "Advance Romance",
   "rating": {
     "gph": 615.4,
@@ -197,6 +198,5 @@
       7.68,
       8.82
     ]
-  },
-  "reference": "04310004L1R"
+  }
 }

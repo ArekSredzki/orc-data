@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2003",
   "country": "LTU",
+  "reference": "03590004WP1",
   "name": "TOJANA",
   "rating": {
     "gph": 628.5,
@@ -197,6 +198,5 @@
       8.31,
       9.67
     ]
-  },
-  "reference": "03590004WP1"
+  }
 }

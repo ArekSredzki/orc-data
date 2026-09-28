@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4043_C",
   "country": "ESP",
+  "reference": "03510004S2A",
   "name": "ANTAVIANA III",
   "rating": {
     "gph": 694.9,
@@ -197,6 +198,5 @@
       7.16,
       7.84
     ]
-  },
-  "reference": "03510004S2A"
+  }
 }

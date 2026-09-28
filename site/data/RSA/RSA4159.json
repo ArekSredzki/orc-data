@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4159",
   "country": "RSA",
+  "reference": "04620004BRD",
   "name": "Aquamaniac",
   "rating": {
     "gph": 622.0,
@@ -197,6 +198,5 @@
       9.86,
       13.03
     ]
-  },
-  "reference": "04620004BRD"
+  }
 }

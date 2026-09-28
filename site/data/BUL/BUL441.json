@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL441",
   "country": "BUL",
+  "reference": "03850004PRJ",
   "name": "Petra",
   "rating": {
     "gph": 551.6,
@@ -197,6 +198,5 @@
       9.21,
       11.18
     ]
-  },
-  "reference": "03850004PRJ"
+  }
 }

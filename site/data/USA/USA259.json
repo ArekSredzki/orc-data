@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA259",
   "country": "USA",
+  "reference": "04560004P55",
   "name": "MAYNIAC",
   "rating": {
     "gph": 589.0,
@@ -197,6 +198,5 @@
       11.25,
       14.32
     ]
-  },
-  "reference": "04560004P55"
+  }
 }

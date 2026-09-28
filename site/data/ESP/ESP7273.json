@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7273",
   "country": "ESP",
+  "reference": "03510004W98",
   "name": "FERRER Y GARCIA",
   "rating": {
     "gph": 619.2,
@@ -197,6 +198,5 @@
       8.04,
       8.76
     ]
-  },
-  "reference": "03510004W98"
+  }
 }

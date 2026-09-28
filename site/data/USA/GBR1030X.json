@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/GBR1030X",
   "country": "USA",
+  "reference": "04560004Q31",
   "name": "ZELEE",
   "rating": {
     "gph": 608.7,
@@ -197,6 +198,5 @@
       8.22,
       10.41
     ]
-  },
-  "reference": "04560004Q31"
+  }
 }

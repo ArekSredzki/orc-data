@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CZE19",
   "country": "CRO",
+  "reference": "03620004JCR",
   "name": "Sea Mouse 3",
   "rating": {
     "gph": 590.9,
@@ -197,6 +198,5 @@
       9.88,
       12.88
     ]
-  },
-  "reference": "03620004JCR"
+  }
 }

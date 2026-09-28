@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5512_C",
   "country": "ESP",
+  "reference": "03510004B0M",
   "name": "MIRALEJOS",
   "rating": {
     "gph": 666.7,
@@ -197,6 +198,5 @@
       7.53,
       8.27
     ]
-  },
-  "reference": "03510004B0M"
+  }
 }

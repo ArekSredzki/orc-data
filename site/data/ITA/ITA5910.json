@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA5910",
   "country": "ITA",
+  "reference": "03190004HJQ",
   "name": "PIERROT LUNAIRE",
   "rating": {
     "gph": 740.2,
@@ -197,6 +198,5 @@
       6.79,
       7.37
     ]
-  },
-  "reference": "03190004HJQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG4539",
   "country": "ARG",
+  "reference": "03880004WM6",
   "name": "DOLCE VITA",
   "rating": {
     "gph": 656.3,
@@ -197,6 +198,5 @@
       7.65,
       8.42
     ]
-  },
-  "reference": "03880004WM6"
+  }
 }

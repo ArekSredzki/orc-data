@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8259_C",
   "country": "ESP",
+  "reference": "03510004RPW",
   "name": "ARCHER DOS",
   "rating": {
     "gph": 596.8,
@@ -197,6 +198,5 @@
       8.37,
       9.15
     ]
-  },
-  "reference": "03510004RPW"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA93310",
   "country": "USA",
+  "reference": "04560004R8K",
   "name": "THE ROVER",
   "rating": {
     "gph": 583.1,
@@ -197,6 +198,5 @@
       7.88,
       8.46
     ]
-  },
-  "reference": "04560004R8K"
+  }
 }

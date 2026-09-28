@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS320",
   "country": "AUS",
+  "reference": "03020004UAI",
   "name": "ROCK N ROLL",
   "rating": {
     "gph": 535.1,
@@ -197,6 +198,5 @@
       12.58,
       15.75
     ]
-  },
-  "reference": "03020004UAI"
+  }
 }

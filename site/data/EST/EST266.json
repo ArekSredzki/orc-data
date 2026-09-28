@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST266",
   "country": "EST",
+  "reference": "04340004QEW",
   "name": "Cassandra",
   "rating": {
     "gph": 606.2,
@@ -197,6 +198,5 @@
       8.14,
       9.11
     ]
-  },
-  "reference": "04340004QEW"
+  }
 }

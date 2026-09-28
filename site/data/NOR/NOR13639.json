@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13639",
   "country": "NOR",
+  "reference": "03440004MPA",
   "name": "Quadriga",
   "rating": {
     "gph": 573.5,
@@ -197,6 +198,5 @@
       8.62,
       9.59
     ]
-  },
-  "reference": "03440004MPA"
+  }
 }

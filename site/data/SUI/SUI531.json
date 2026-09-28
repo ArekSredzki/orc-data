@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI531",
   "country": "SUI",
+  "reference": "03080004NJ3",
   "name": "FASTFORCE",
   "rating": {
     "gph": 623.9,
@@ -197,6 +198,5 @@
       8.04,
       9.61
     ]
-  },
-  "reference": "03080004NJ3"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA538M24",
   "country": "ITA",
+  "reference": "03190004Q3Q",
   "name": "ADRIATICA",
   "rating": {
     "gph": 620.8,
@@ -197,6 +198,5 @@
       10.78,
       13.87
     ]
-  },
-  "reference": "03190004Q3Q"
+  }
 }

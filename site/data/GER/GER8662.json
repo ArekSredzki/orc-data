@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8662",
   "country": "GER",
+  "reference": "04150004JF0",
   "name": "HEROINE",
   "rating": {
     "gph": 497.6,
@@ -197,6 +198,5 @@
       9.42,
       10.56
     ]
-  },
-  "reference": "04150004JF0"
+  }
 }

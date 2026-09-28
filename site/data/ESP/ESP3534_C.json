@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3534_C",
   "country": "ESP",
+  "reference": "03510004W2N",
   "name": "MASTIN",
   "rating": {
     "gph": 667.1,
@@ -197,6 +198,5 @@
       7.81,
       10.47
     ]
-  },
-  "reference": "03510004W2N"
+  }
 }

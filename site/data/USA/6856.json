@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/6856",
   "country": "USA",
+  "reference": "04560004SPQ",
   "name": "SURPRISE",
   "rating": {
     "gph": 653.3,
@@ -197,6 +198,5 @@
       7.36,
       7.9
     ]
-  },
-  "reference": "04560004SPQ"
+  }
 }

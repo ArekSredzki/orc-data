@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16087",
   "country": "NOR",
+  "reference": "03440004O9D",
   "name": "Aquarius",
   "rating": {
     "gph": 587.3,
@@ -197,6 +198,5 @@
       8.01,
       9.06
     ]
-  },
-  "reference": "03440004O9D"
+  }
 }

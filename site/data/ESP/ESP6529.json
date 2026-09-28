@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6529",
   "country": "ESP",
+  "reference": "03510004QAE",
   "name": "DIGNITY",
   "rating": {
     "gph": 599.5,
@@ -197,6 +198,5 @@
       8.32,
       9.16
     ]
-  },
-  "reference": "03510004QAE"
+  }
 }

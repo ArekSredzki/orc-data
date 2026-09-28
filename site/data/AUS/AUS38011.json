@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS38011",
   "country": "AUS",
+  "reference": "03020004TRU",
   "name": "GINGER",
   "rating": {
     "gph": 507.7,
@@ -197,6 +198,5 @@
       12.47,
       15.85
     ]
-  },
-  "reference": "03020004TRU"
+  }
 }

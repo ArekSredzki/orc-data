@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13022",
   "country": "ITA",
+  "reference": "03190004SJP",
   "name": "VAGAMONDO",
   "rating": {
     "gph": 709.8,
@@ -197,6 +198,5 @@
       7.09,
       7.66
     ]
-  },
-  "reference": "03190004SJP"
+  }
 }

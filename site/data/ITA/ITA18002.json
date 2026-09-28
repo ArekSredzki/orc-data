@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18002",
   "country": "ITA",
+  "reference": "03190004R82",
   "name": "GIPSEA",
   "rating": {
     "gph": 685.4,
@@ -197,6 +198,5 @@
       7.69,
       8.29
     ]
-  },
-  "reference": "03190004R82"
+  }
 }

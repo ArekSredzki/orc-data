@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/MNE0672",
   "country": "TUR",
+  "reference": "04590004LH7",
   "name": "BUYAN",
   "rating": {
     "gph": 549.9,
@@ -197,6 +198,5 @@
       8.69,
       10.06
     ]
-  },
-  "reference": "04590004LH7"
+  }
 }

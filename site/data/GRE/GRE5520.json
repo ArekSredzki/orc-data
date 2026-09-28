@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE5520",
   "country": "GRE",
+  "reference": "03420004ME5",
   "name": "YAKINTHI",
   "rating": {
     "gph": 698.5,
@@ -197,6 +198,5 @@
       7.27,
       8.64
     ]
-  },
-  "reference": "03420004ME5"
+  }
 }

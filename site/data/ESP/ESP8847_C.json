@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8847_C",
   "country": "ESP",
+  "reference": "03510004P4D",
   "name": "NOMADIC",
   "rating": {
     "gph": 685.8,
@@ -197,6 +198,5 @@
       7.33,
       7.9
     ]
-  },
-  "reference": "03510004P4D"
+  }
 }

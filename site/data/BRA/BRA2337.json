@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2337",
   "country": "BRA",
+  "reference": "04420004RUC",
   "name": "Saci Jr.",
   "rating": {
     "gph": 671.8,
@@ -197,6 +198,5 @@
       9.34,
       12.43
     ]
-  },
-  "reference": "04420004RUC"
+  }
 }

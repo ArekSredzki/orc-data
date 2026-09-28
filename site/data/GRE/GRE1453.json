@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1453",
   "country": "GRE",
+  "reference": "03420004KCD",
   "name": "THALASSINI",
   "rating": {
     "gph": 732.3,
@@ -197,6 +198,5 @@
       6.98,
       7.52
     ]
-  },
-  "reference": "03420004KCD"
+  }
 }

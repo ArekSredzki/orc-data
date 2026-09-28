@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/11798",
   "country": "FIN",
+  "reference": "04140004VE8",
   "name": "Satusaari",
   "rating": {
     "gph": 634.5,
@@ -197,6 +198,5 @@
       7.82,
       8.53
     ]
-  },
-  "reference": "04140004VE8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18079",
   "country": "ITA",
+  "reference": "031900048PB",
   "name": "VAJRA 4.0",
   "rating": {
     "gph": 657.3,
@@ -197,6 +198,5 @@
       7.51,
       9.36
     ]
-  },
-  "reference": "031900048PB"
+  }
 }

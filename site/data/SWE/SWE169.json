@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE169",
   "country": "SWE",
+  "reference": "03200004V39",
   "name": "Amazigh",
   "rating": {
     "gph": 593.6,
@@ -197,6 +198,5 @@
       9.18,
       11.2
     ]
-  },
-  "reference": "03200004V39"
+  }
 }

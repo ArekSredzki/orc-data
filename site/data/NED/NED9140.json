@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9140",
   "country": "NED",
+  "reference": "04310004W3U",
   "name": "Moshulu",
   "rating": {
     "gph": 595.4,
@@ -197,6 +198,5 @@
       8.41,
       9.26
     ]
-  },
-  "reference": "04310004W3U"
+  }
 }

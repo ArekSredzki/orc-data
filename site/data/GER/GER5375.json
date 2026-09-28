@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5375",
   "country": "GER",
+  "reference": "04150004MH1",
   "name": "LOCURA",
   "rating": {
     "gph": 653.7,
@@ -197,6 +198,5 @@
       7.65,
       8.28
     ]
-  },
-  "reference": "04150004MH1"
+  }
 }

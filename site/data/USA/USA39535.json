@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA39535",
   "country": "USA",
+  "reference": "04560004UN7",
   "name": "WELLENREITER",
   "rating": {
     "gph": 554.0,
@@ -197,6 +198,5 @@
       9.07,
       11.63
     ]
-  },
-  "reference": "04560004UN7"
+  }
 }

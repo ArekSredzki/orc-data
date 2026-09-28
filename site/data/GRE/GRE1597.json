@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1597",
   "country": "GRE",
+  "reference": "03420004T9M",
   "name": "BLUES",
   "rating": {
     "gph": 808.5,
@@ -197,6 +198,5 @@
       6.17,
       6.64
     ]
-  },
-  "reference": "03420004T9M"
+  }
 }

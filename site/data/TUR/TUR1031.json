@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1031",
   "country": "TUR",
+  "reference": "04590004J4Q",
   "name": "GRIFFIN",
   "rating": {
     "gph": 639.8,
@@ -197,6 +198,5 @@
       7.76,
       8.44
     ]
-  },
-  "reference": "04590004J4Q"
+  }
 }

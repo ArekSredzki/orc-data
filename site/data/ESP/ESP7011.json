@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7011",
   "country": "ESP",
+  "reference": "03510004H6A",
   "name": "NAUTIC CAFE DEL MAR",
   "rating": {
     "gph": 609.7,
@@ -197,6 +198,5 @@
       8.14,
       9.17
     ]
-  },
-  "reference": "03510004H6A"
+  }
 }

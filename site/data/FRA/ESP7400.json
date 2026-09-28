@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/ESP7400",
   "country": "FRA",
+  "reference": "04330004UKE",
   "name": "TARANTA",
   "rating": {
     "gph": 603.3,
@@ -197,6 +198,5 @@
       8.17,
       8.94
     ]
-  },
-  "reference": "04330004UKE"
+  }
 }

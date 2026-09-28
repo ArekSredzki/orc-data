@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/IRL3600",
   "country": "USA",
+  "reference": "04560004WBT",
   "name": "ABEONA",
   "rating": {
     "gph": 553.8,
@@ -197,6 +198,5 @@
       10.27,
       13.48
     ]
-  },
-  "reference": "04560004WBT"
+  }
 }

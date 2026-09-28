@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9912",
   "country": "FRA",
+  "reference": "04330004FB4",
   "name": "MULLOVER",
   "rating": {
     "gph": 737.9,
@@ -197,6 +198,5 @@
       6.96,
       7.51
     ]
-  },
-  "reference": "04330004FB4"
+  }
 }

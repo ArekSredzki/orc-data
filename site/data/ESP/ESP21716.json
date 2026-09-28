@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP21716",
   "country": "ESP",
+  "reference": "03510004HLK",
   "name": "TORII",
   "rating": {
     "gph": 623.4,
@@ -197,6 +198,5 @@
       8.04,
       8.84
     ]
-  },
-  "reference": "03510004HLK"
+  }
 }

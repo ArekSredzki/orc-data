@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP21333_C",
   "country": "ESP",
+  "reference": "03510004FO0",
   "name": "EOS",
   "rating": {
     "gph": 594.6,
@@ -197,6 +198,5 @@
       8.19,
       8.94
     ]
-  },
-  "reference": "03510004FO0"
+  }
 }

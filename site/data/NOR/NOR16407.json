@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16407",
   "country": "NOR",
+  "reference": "03440004R2M",
   "name": "Mata",
   "rating": {
     "gph": 661.6,
@@ -197,6 +198,5 @@
       7.63,
       8.88
     ]
-  },
-  "reference": "03440004R2M"
+  }
 }

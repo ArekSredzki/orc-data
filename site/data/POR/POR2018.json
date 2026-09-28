@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR2018",
   "country": "POR",
+  "reference": "03530004UOO",
   "name": "MAR MEU",
   "rating": {
     "gph": 603.1,
@@ -197,6 +198,5 @@
       8.65,
       11.93
     ]
-  },
-  "reference": "03530004UOO"
+  }
 }

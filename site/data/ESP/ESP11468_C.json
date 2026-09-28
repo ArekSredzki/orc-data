@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11468_C",
   "country": "ESP",
+  "reference": "03510004IEC",
   "name": "VOLANDERO",
   "rating": {
     "gph": 761.6,
@@ -197,6 +198,5 @@
       6.47,
       6.91
     ]
-  },
-  "reference": "03510004IEC"
+  }
 }

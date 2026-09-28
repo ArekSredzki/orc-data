@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4255",
   "country": "ESP",
+  "reference": "03510004C79",
   "name": "ALBA III",
   "rating": {
     "gph": 675.6,
@@ -197,6 +198,5 @@
       7.49,
       8.29
     ]
-  },
-  "reference": "03510004C79"
+  }
 }

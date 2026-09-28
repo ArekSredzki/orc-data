@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13944",
   "country": "NOR",
+  "reference": "03440004KA2",
   "name": "Jutlandia II",
   "rating": {
     "gph": 698.2,
@@ -197,6 +198,5 @@
       7.52,
       8.24
     ]
-  },
-  "reference": "03440004KA2"
+  }
 }

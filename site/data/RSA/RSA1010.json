@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1010",
   "country": "RSA",
+  "reference": "04620004EMS",
   "name": "ISABELLA",
   "rating": {
     "gph": 621.1,
@@ -197,6 +198,5 @@
       7.88,
       8.47
     ]
-  },
-  "reference": "04620004EMS"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11444",
   "country": "NOR",
+  "reference": "03440004O9U",
   "name": "Safir",
   "rating": {
     "gph": 572.9,
@@ -197,6 +198,5 @@
       8.28,
       8.97
     ]
-  },
-  "reference": "03440004O9U"
+  }
 }

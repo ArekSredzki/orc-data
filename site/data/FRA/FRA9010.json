@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9010",
   "country": "FRA",
+  "reference": "04330004RUL",
   "name": "PICHENETTE",
   "rating": {
     "gph": 695.4,
@@ -197,6 +198,5 @@
       7.19,
       7.87
     ]
-  },
-  "reference": "04330004RUL"
+  }
 }

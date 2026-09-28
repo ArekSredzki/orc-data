@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7265",
   "country": "NED",
+  "reference": "04310004JWH",
   "name": "RELAXION",
   "rating": {
     "gph": 627.3,
@@ -197,6 +198,5 @@
       7.85,
       8.52
     ]
-  },
-  "reference": "04310004JWH"
+  }
 }

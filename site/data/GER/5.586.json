@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/5.586",
   "country": "GER",
+  "reference": "03520004I17",
   "name": "RANDALE 5.5",
   "rating": {
     "gph": 675.4,
@@ -197,6 +198,5 @@
       7.69,
       9.54
     ]
-  },
-  "reference": "03520004I17"
+  }
 }

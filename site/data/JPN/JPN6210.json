@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN6210",
   "country": "JPN",
+  "reference": "03390004JHN",
   "name": "RAIA",
   "rating": {
     "gph": 601.2,
@@ -197,6 +198,5 @@
       8.18,
       9.18
     ]
-  },
-  "reference": "03390004JHN"
+  }
 }

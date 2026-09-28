@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA17892",
   "country": "FRA",
+  "reference": "04330004N91",
   "name": "LE PETIT NAIN",
   "rating": {
     "gph": 618.2,
@@ -197,6 +198,5 @@
       7.86,
       9.83
     ]
-  },
-  "reference": "04330004N91"
+  }
 }

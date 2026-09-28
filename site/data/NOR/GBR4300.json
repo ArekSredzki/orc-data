@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/GBR4300",
   "country": "NOR",
+  "reference": "03440004Q76",
   "name": "Reindeer",
   "rating": {
     "gph": 645.9,
@@ -197,6 +198,5 @@
       7.78,
       8.37
     ]
-  },
-  "reference": "03440004Q76"
+  }
 }

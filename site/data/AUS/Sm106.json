@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm106",
   "country": "AUS",
+  "reference": "03020004UVM",
   "name": "ELLIPSE II",
   "rating": {
     "gph": 580.6,
@@ -197,6 +198,5 @@
       8.27,
       10.5
     ]
-  },
-  "reference": "03020004UVM"
+  }
 }

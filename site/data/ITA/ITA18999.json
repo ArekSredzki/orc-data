@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18999",
   "country": "ITA",
+  "reference": "03190004NC3",
   "name": "GEEX",
   "rating": {
     "gph": 585.1,
@@ -197,6 +198,5 @@
       8.22,
       9.86
     ]
-  },
-  "reference": "03190004NC3"
+  }
 }

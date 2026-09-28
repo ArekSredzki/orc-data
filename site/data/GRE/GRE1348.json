@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1348",
   "country": "GRE",
+  "reference": "03420004IR5",
   "name": "PECHLIVANIS",
   "rating": {
     "gph": 708.2,
@@ -197,6 +198,5 @@
       7.23,
       7.83
     ]
-  },
-  "reference": "03420004IR5"
+  }
 }

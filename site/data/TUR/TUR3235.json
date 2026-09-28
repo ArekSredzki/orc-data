@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR3235",
   "country": "TUR",
+  "reference": "04590004B3L",
   "name": "CALLISTA",
   "rating": {
     "gph": 577.6,
@@ -197,6 +198,5 @@
       8.45,
       9.19
     ]
-  },
-  "reference": "04590004B3L"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5422_C",
   "country": "ESP",
+  "reference": "03510004TW9",
   "name": "HOPPER",
   "rating": {
     "gph": 666.9,
@@ -197,6 +198,5 @@
       7.53,
       8.27
     ]
-  },
-  "reference": "03510004TW9"
+  }
 }

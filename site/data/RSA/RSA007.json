@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA007",
   "country": "RSA",
+  "reference": "04620004PB8",
   "name": "MONEY PENNY",
   "rating": {
     "gph": 661.2,
@@ -197,6 +198,5 @@
       7.21,
       7.79
     ]
-  },
-  "reference": "04620004PB8"
+  }
 }

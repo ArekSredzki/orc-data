@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE320",
   "country": "GRE",
+  "reference": "03420004VJE",
   "name": "FEEL FREE",
   "rating": {
     "gph": 631.9,
@@ -197,6 +198,5 @@
       10.29,
       13.41
     ]
-  },
-  "reference": "03420004VJE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA84042",
   "country": "USA",
+  "reference": "04560004PQK",
   "name": "JAMMIN",
   "rating": {
     "gph": 669.8,
@@ -197,6 +198,5 @@
       7.18,
       7.78
     ]
-  },
-  "reference": "04560004PQK"
+  }
 }

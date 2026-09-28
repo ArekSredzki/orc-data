@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8465",
   "country": "NED",
+  "reference": "04310004NQ7",
   "name": "Loos",
   "rating": {
     "gph": 594.6,
@@ -197,6 +198,5 @@
       8.28,
       9.03
     ]
-  },
-  "reference": "04310004NQ7"
+  }
 }

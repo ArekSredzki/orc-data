@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6603_C",
   "country": "ESP",
+  "reference": "03510004KIL",
   "name": "PIONENE",
   "rating": {
     "gph": 663.7,
@@ -197,6 +198,5 @@
       7.78,
       8.41
     ]
-  },
-  "reference": "03510004KIL"
+  }
 }

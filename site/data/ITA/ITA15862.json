@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15862",
   "country": "ITA",
+  "reference": "03190004I0N",
   "name": "SHANTARAM",
   "rating": {
     "gph": 758.6,
@@ -197,6 +198,5 @@
       6.67,
       7.32
     ]
-  },
-  "reference": "03190004I0N"
+  }
 }

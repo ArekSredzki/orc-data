@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/ITA16824",
   "country": "FRA",
+  "reference": "04330004W8J",
   "name": "MARICA",
   "rating": {
     "gph": 609.0,
@@ -197,6 +198,5 @@
       8.25,
       9.1
     ]
-  },
-  "reference": "04330004W8J"
+  }
 }

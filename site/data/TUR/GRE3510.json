@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/GRE3510",
   "country": "TUR",
+  "reference": "04590004HKL",
   "name": "AGILE",
   "rating": {
     "gph": 602.6,
@@ -197,6 +198,5 @@
       8.18,
       9.17
     ]
-  },
-  "reference": "04590004HKL"
+  }
 }

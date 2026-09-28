@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR2637",
   "country": "KOR",
+  "reference": "04550004HHE",
   "name": "Team Chuyong",
   "rating": {
     "gph": 550.8,
@@ -197,6 +198,5 @@
       9.65,
       12.05
     ]
-  },
-  "reference": "04550004HHE"
+  }
 }

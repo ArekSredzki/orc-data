@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP71700_C",
   "country": "ESP",
+  "reference": "035100050O8",
   "name": "EDGE",
   "rating": {
     "gph": 559.7,

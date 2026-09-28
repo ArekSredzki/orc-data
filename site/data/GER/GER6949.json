@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6949",
   "country": "GER",
+  "reference": "04150004OW1",
   "name": "X-WING",
   "rating": {
     "gph": 629.9,
@@ -197,6 +198,5 @@
       7.89,
       8.57
     ]
-  },
-  "reference": "04150004OW1"
+  }
 }

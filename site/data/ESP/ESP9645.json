@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9645",
   "country": "ESP",
+  "reference": "03510004BMH",
   "name": "ELAMAR",
   "rating": {
     "gph": 636.3,
@@ -197,6 +198,5 @@
       7.8,
       8.59
     ]
-  },
-  "reference": "03510004BMH"
+  }
 }

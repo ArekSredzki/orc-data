@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1356",
   "country": "GRE",
+  "reference": "03420004LRH",
   "name": "TRITON",
   "rating": {
     "gph": 654.1,
@@ -197,6 +198,5 @@
       7.56,
       8.14
     ]
-  },
-  "reference": "03420004LRH"
+  }
 }

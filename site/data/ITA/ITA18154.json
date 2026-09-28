@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18154",
   "country": "ITA",
+  "reference": "03190004K7W",
   "name": "MAI DIRE MAI",
   "rating": {
     "gph": 643.2,
@@ -197,6 +198,5 @@
       7.29,
       7.94
     ]
-  },
-  "reference": "03190004K7W"
+  }
 }

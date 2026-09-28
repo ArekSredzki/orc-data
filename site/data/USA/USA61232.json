@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61232",
   "country": "USA",
+  "reference": "04560004VDL",
   "name": "ELEVATION",
   "rating": {
     "gph": 582.9,
@@ -197,6 +198,5 @@
       8.14,
       10.15
     ]
-  },
-  "reference": "04560004VDL"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST188",
   "country": "EST",
+  "reference": "04340004SCP",
   "name": "TEMPER",
   "rating": {
     "gph": 699.3,
@@ -197,6 +198,5 @@
       7.16,
       7.82
     ]
-  },
-  "reference": "04340004SCP"
+  }
 }

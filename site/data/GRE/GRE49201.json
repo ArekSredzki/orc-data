@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49201",
   "country": "GRE",
+  "reference": "03420004LDK",
   "name": "ARGONAFTIS II",
   "rating": {
     "gph": 703.2,
@@ -197,6 +198,5 @@
       7.09,
       7.69
     ]
-  },
-  "reference": "03420004LDK"
+  }
 }

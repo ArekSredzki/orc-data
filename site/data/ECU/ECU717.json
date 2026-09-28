@@ -1,6 +1,7 @@
 {
   "sailnumber": "ECU/ECU717",
   "country": "ECU",
+  "reference": "03880004H3T",
   "name": "NEGRA",
   "rating": {
     "gph": 526.6,
@@ -197,6 +198,5 @@
       9.22,
       10.43
     ]
-  },
-  "reference": "03880004H3T"
+  }
 }

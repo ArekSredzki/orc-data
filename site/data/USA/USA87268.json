@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA87268",
   "country": "USA",
+  "reference": "04560004ITN",
   "name": "BLIND SQUIRREL",
   "rating": {
     "gph": 658.8,
@@ -197,6 +198,5 @@
       7.44,
       8.25
     ]
-  },
-  "reference": "04560004ITN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4203",
   "country": "NED",
+  "reference": "04310004JUD",
   "name": "La Vagabonda",
   "rating": {
     "gph": 640.3,
@@ -197,6 +198,5 @@
       7.74,
       8.31
     ]
-  },
-  "reference": "04310004JUD"
+  }
 }

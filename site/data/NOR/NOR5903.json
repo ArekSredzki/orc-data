@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR5903",
   "country": "NOR",
+  "reference": "03440004LKU",
   "name": "Taurus",
   "rating": {
     "gph": 689.8,
@@ -197,6 +198,5 @@
       7.29,
       7.93
     ]
-  },
-  "reference": "03440004LKU"
+  }
 }

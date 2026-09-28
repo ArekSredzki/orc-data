@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT413",
   "country": "LAT",
+  "reference": "04960004QLJ",
   "name": "VooDoo",
   "rating": {
     "gph": 671.2,
@@ -197,6 +198,5 @@
       7.64,
       10.08
     ]
-  },
-  "reference": "04960004QLJ"
+  }
 }

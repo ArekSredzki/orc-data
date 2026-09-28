@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5029",
   "country": "ESP",
+  "reference": "03510004HL8",
   "name": "CHAITAN II",
   "rating": {
     "gph": 594.7,
@@ -197,6 +198,5 @@
       8.28,
       9.09
     ]
-  },
-  "reference": "03510004HL8"
+  }
 }

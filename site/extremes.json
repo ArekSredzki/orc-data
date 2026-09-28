@@ -63,15 +63,15 @@
   ],
   "min_speed": [
     [
-      "ESP/ESP10497_C",
-      "ISFAGEL",
-      "CUTLASS 27",
-      6.8
-    ],
-    [
       "GRE/GRE1505",
       "ALMYRA",
       "EVASION 28",
+      6.8
+    ],
+    [
+      "ESP/ESP10497_C",
+      "ISFAGEL",
+      "CUTLASS 27",
       6.8
     ],
     [
@@ -179,10 +179,10 @@
       33.03
     ],
     [
-      "GRE/GBR106",
-      "WALLY B",
-      "BRENTA 106",
-      33.0
+      "GBR/_3",
+      "PS5 Playstation",
+      "SWAN 108",
+      33.03
     ]
   ],
   "max_displacement": [
@@ -200,6 +200,12 @@
     ],
     [
       "GBR/_0",
+      "FAR HORIZON",
+      "GAFF SCHOONER",
+      132602.0
+    ],
+    [
+      "GBR/_2",
       "FAR HORIZON",
       "GAFF SCHOONER",
       132602.0
@@ -235,16 +241,10 @@
       88391.0
     ],
     [
-      "MLT/MLT112",
-      "SHAGALA BAGALA",
-      "Baltic 112 R/P",
-      88057.0
-    ],
-    [
-      "GRE/GBR106",
-      "WALLY B",
-      "BRENTA 106",
-      82098.0
+      "GBR/_3",
+      "PS5 Playstation",
+      "SWAN 108",
+      88391.0
     ]
   ],
   "max_draft": [

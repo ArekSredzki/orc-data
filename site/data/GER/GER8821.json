@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8821",
   "country": "GER",
+  "reference": "03520004TIC",
   "name": "TOM KYLE",
   "rating": {
     "gph": 557.4,
@@ -197,6 +198,5 @@
       8.34,
       9.06
     ]
-  },
-  "reference": "03520004TIC"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/USA94622",
   "country": "AUS",
+  "reference": "03020004UKI",
   "name": "Black Sparrow",
   "rating": {
     "gph": 476.5,
@@ -197,6 +198,5 @@
       12.1,
       15.22
     ]
-  },
-  "reference": "03020004UKI"
+  }
 }

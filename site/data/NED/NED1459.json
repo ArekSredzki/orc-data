@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED1459",
   "country": "NED",
+  "reference": "04310004KFU",
   "name": "In the Groove",
   "rating": {
     "gph": 627.1,
@@ -197,6 +198,5 @@
       8.03,
       8.82
     ]
-  },
-  "reference": "04310004KFU"
+  }
 }

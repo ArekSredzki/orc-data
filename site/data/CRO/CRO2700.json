@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2700",
   "country": "CRO",
+  "reference": "03620004B6N",
   "name": "Analea",
   "rating": {
     "gph": 622.7,
@@ -197,6 +198,5 @@
       7.46,
       8.23
     ]
-  },
-  "reference": "03620004B6N"
+  }
 }

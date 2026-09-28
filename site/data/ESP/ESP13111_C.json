@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP13111_C",
   "country": "ESP",
+  "reference": "03510004C4Q",
   "name": "PHOTOGENIKA",
   "rating": {
     "gph": 609.7,
@@ -197,6 +198,5 @@
       8.08,
       9.85
     ]
-  },
-  "reference": "03510004C4Q"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA104",
   "country": "USA",
+  "reference": "04560004UJT",
   "name": "VYTIS",
   "rating": {
     "gph": 612.9,
@@ -197,6 +198,5 @@
       7.94,
       9.97
     ]
-  },
-  "reference": "04560004UJT"
+  }
 }

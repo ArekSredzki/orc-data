@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3415_C",
   "country": "ESP",
+  "reference": "03510004BEO",
   "name": "ALADROQUE",
   "rating": {
     "gph": 700.5,
@@ -197,6 +198,5 @@
       7.74,
       10.77
     ]
-  },
-  "reference": "03510004BEO"
+  }
 }

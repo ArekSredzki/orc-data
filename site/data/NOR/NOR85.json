@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR85",
   "country": "NOR",
+  "reference": "03440004KA6",
   "name": "POLLY",
   "rating": {
     "gph": 567.4,
@@ -197,6 +198,5 @@
       9.06,
       11.55
     ]
-  },
-  "reference": "03440004KA6"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA41793",
   "country": "USA",
+  "reference": "04560004EUP",
   "name": "TAHLEQUAH",
   "rating": {
     "gph": 608.5,
@@ -197,6 +198,5 @@
       7.98,
       8.89
     ]
-  },
-  "reference": "04560004EUP"
+  }
 }

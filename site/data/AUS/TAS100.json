@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/TAS100",
   "country": "AUS",
+  "reference": "03020004UKJ",
   "name": "FORK IN THE ROAD",
   "rating": {
     "gph": 499.5,
@@ -197,6 +198,5 @@
       10.89,
       13.7
     ]
-  },
-  "reference": "03020004UKJ"
+  }
 }

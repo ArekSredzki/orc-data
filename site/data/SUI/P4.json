@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/P4",
   "country": "SUI",
+  "reference": "03080004N3K",
   "name": "KUNDRY",
   "rating": {
     "gph": 680.3,
@@ -197,6 +198,5 @@
       7.8,
       9.3
     ]
-  },
-  "reference": "03080004N3K"
+  }
 }

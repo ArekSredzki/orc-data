@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA97661",
   "country": "USA",
+  "reference": "04560004FHV",
   "name": "A WISP OF WIND",
   "rating": {
     "gph": 674.4,
@@ -197,6 +198,5 @@
       7.24,
       7.91
     ]
-  },
-  "reference": "04560004FHV"
+  }
 }

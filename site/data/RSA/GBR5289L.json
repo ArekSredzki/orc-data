@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/GBR5289L",
   "country": "RSA",
+  "reference": "04620004C82",
   "name": "ATALANTA",
   "rating": {
     "gph": 615.2,
@@ -197,6 +198,5 @@
       8.25,
       9.98
     ]
-  },
-  "reference": "04620004C82"
+  }
 }

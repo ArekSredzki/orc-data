@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4887",
   "country": "NED",
+  "reference": "04310004LAQ",
   "name": "MAJIC",
   "rating": {
     "gph": 687.3,
@@ -197,6 +198,5 @@
       7.38,
       8.52
     ]
-  },
-  "reference": "04310004LAQ"
+  }
 }

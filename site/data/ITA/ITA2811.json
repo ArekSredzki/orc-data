@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA2811",
   "country": "ITA",
+  "reference": "03190004VST",
   "name": "PORA",
   "rating": {
     "gph": 548.1,
@@ -197,6 +198,5 @@
       11.65,
       14.81
     ]
-  },
-  "reference": "03190004VST"
+  }
 }

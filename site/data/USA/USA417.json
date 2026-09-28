@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA417",
   "country": "USA",
+  "reference": "04560004TUU",
   "name": "WOLVERINE",
   "rating": {
     "gph": 615.4,
@@ -197,6 +198,5 @@
       7.89,
       9.89
     ]
-  },
-  "reference": "04560004TUU"
+  }
 }

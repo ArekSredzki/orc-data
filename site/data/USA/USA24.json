@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA24",
   "country": "USA",
+  "reference": "04560004Q3A",
   "name": "THIN MAN",
   "rating": {
     "gph": 611.4,
@@ -197,6 +198,5 @@
       7.97,
       10.2
     ]
-  },
-  "reference": "04560004Q3A"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA24077",
   "country": "ITA",
+  "reference": "03190004I7B",
   "name": "MODESTAMENTE",
   "rating": {
     "gph": 662.4,
@@ -197,6 +198,5 @@
       8.81,
       11.9
     ]
-  },
-  "reference": "03190004I7B"
+  }
 }

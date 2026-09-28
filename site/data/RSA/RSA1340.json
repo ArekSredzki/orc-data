@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1340",
   "country": "RSA",
+  "reference": "04620004FNI",
   "name": "Moon River",
   "rating": {
     "gph": 619.1,
@@ -197,6 +198,5 @@
       8.26,
       9.3
     ]
-  },
-  "reference": "04620004FNI"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16564",
   "country": "ITA",
+  "reference": "03190004TDE",
   "name": "STREGONIA",
   "rating": {
     "gph": 625.1,
@@ -197,6 +198,5 @@
       7.99,
       8.77
     ]
-  },
-  "reference": "03190004TDE"
+  }
 }

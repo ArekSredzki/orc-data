@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15711",
   "country": "ITA",
+  "reference": "03190004F83",
   "name": "ALBORAN 2",
   "rating": {
     "gph": 636.8,
@@ -197,6 +198,5 @@
       7.45,
       8.23
     ]
-  },
-  "reference": "03190004F83"
+  }
 }

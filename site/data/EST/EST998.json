@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST998",
   "country": "EST",
+  "reference": "04340004Q9P",
   "name": "DIRECTO",
   "rating": {
     "gph": 618.5,
@@ -197,6 +198,5 @@
       8.13,
       9.05
     ]
-  },
-  "reference": "04340004Q9P"
+  }
 }

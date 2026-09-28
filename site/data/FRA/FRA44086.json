@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA44086",
   "country": "FRA",
+  "reference": "04330004HHQ",
   "name": "VEGA",
   "rating": {
     "gph": 634.0,
@@ -197,6 +198,5 @@
       8.09,
       9.26
     ]
-  },
-  "reference": "04330004HHQ"
+  }
 }

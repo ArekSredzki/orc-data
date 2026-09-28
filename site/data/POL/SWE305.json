@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/SWE305",
   "country": "POL",
+  "reference": "04410004SE5",
   "name": "RIO RACING",
   "rating": {
     "gph": 734.1,
@@ -197,6 +198,5 @@
       6.97,
       7.76
     ]
-  },
-  "reference": "04410004SE5"
+  }
 }

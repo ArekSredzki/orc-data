@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11512",
   "country": "NOR",
+  "reference": "03440004Q5N",
   "name": "Tolama",
   "rating": {
     "gph": 615.1,
@@ -197,6 +198,5 @@
       8.04,
       8.78
     ]
-  },
-  "reference": "03440004Q5N"
+  }
 }

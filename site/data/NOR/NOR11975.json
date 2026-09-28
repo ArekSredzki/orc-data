@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11975",
   "country": "NOR",
+  "reference": "03440004KA1",
   "name": "Nirvana",
   "rating": {
     "gph": 675.7,
@@ -197,6 +198,5 @@
       7.32,
       7.96
     ]
-  },
-  "reference": "03440004KA1"
+  }
 }

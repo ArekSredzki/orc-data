@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16055",
   "country": "NOR",
+  "reference": "03440004WKI",
   "name": "Embla",
   "rating": {
     "gph": 663.2,
@@ -197,6 +198,5 @@
       7.4,
       7.94
     ]
-  },
-  "reference": "03440004WKI"
+  }
 }

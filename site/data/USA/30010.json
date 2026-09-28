@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/30010",
   "country": "USA",
+  "reference": "04560004Q35",
   "name": "Total Mayhem",
   "rating": {
     "gph": 573.6,
@@ -197,6 +198,5 @@
       10.56,
       13.81
     ]
-  },
-  "reference": "04560004Q35"
+  }
 }

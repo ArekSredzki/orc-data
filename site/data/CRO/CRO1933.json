@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO1933",
   "country": "CRO",
+  "reference": "03620004JCP",
   "name": "Dubrovnik",
   "rating": {
     "gph": 506.8,
@@ -197,6 +198,5 @@
       11.39,
       14.74
     ]
-  },
-  "reference": "03620004JCP"
+  }
 }

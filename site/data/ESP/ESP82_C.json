@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP82_C",
   "country": "ESP",
+  "reference": "03510004F1E",
   "name": "INTREPIDO",
   "rating": {
     "gph": 705.0,
@@ -197,6 +198,5 @@
       7.08,
       7.72
     ]
-  },
-  "reference": "03510004F1E"
+  }
 }

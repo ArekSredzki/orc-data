@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/EST850",
   "country": "ITA",
+  "reference": "03190004J66",
   "name": "VELASQUEZ",
   "rating": {
     "gph": 589.1,
@@ -197,6 +198,5 @@
       8.11,
       9.73
     ]
-  },
-  "reference": "03190004J66"
+  }
 }

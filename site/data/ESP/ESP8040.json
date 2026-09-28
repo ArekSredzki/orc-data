@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8040",
   "country": "ESP",
+  "reference": "03510004B3P",
   "name": "REMOLI",
   "rating": {
     "gph": 685.0,
@@ -197,6 +198,5 @@
       7.3,
       8.84
     ]
-  },
-  "reference": "03510004B3P"
+  }
 }

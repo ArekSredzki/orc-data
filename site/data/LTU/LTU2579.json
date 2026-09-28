@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2579",
   "country": "LTU",
+  "reference": "03590004VIE",
   "name": "LYNX",
   "rating": {
     "gph": 688.8,
@@ -197,6 +198,5 @@
       7.35,
       8.96
     ]
-  },
-  "reference": "03590004VIE"
+  }
 }

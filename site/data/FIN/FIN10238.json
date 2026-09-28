@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10238",
   "country": "FIN",
+  "reference": "04140004L22",
   "name": "Hakuna Matata",
   "rating": {
     "gph": 655.7,
@@ -197,6 +198,5 @@
       7.58,
       8.19
     ]
-  },
-  "reference": "04140004L22"
+  }
 }

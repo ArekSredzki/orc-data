@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2030",
   "country": "GRE",
+  "reference": "03420004ITU",
   "name": "PHILEAS FOGG",
   "rating": {
     "gph": 566.2,
@@ -197,6 +198,5 @@
       8.81,
       10.3
     ]
-  },
-  "reference": "03420004ITU"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16364",
   "country": "NOR",
+  "reference": "03440004RAU",
   "name": "Konstanse",
   "rating": {
     "gph": 617.3,
@@ -197,6 +198,5 @@
       7.72,
       8.34
     ]
-  },
-  "reference": "03440004RAU"
+  }
 }

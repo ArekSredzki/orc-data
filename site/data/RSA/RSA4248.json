@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4248",
   "country": "RSA",
+  "reference": "0462000486H",
   "name": "Rocket",
   "rating": {
     "gph": 508.2,
@@ -197,6 +198,5 @@
       9.85,
       11.32
     ]
-  },
-  "reference": "0462000486H"
+  }
 }

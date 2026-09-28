@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/256",
   "country": "USA",
+  "reference": "04560004S1L",
   "name": "SISU",
   "rating": {
     "gph": 676.2,
@@ -197,6 +198,5 @@
       7.05,
       7.53
     ]
-  },
-  "reference": "04560004S1L"
+  }
 }

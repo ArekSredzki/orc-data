@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR1451",
   "country": "POR",
+  "reference": "03530004T26",
   "name": "WANDERLUST",
   "rating": {
     "gph": 602.8,
@@ -197,6 +198,5 @@
       8.18,
       8.95
     ]
-  },
-  "reference": "03530004T26"
+  }
 }

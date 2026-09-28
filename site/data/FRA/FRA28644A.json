@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA28644A",
   "country": "FRA",
+  "reference": "04330004F6L",
   "name": "JOA",
   "rating": {
     "gph": 637.5,
@@ -197,6 +198,5 @@
       7.86,
       8.58
     ]
-  },
-  "reference": "04330004F6L"
+  }
 }

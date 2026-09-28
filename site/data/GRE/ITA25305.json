@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/ITA25305",
   "country": "GRE",
+  "reference": "03420004VRN",
   "name": "GOLD DIGGER",
   "rating": {
     "gph": 679.1,
@@ -197,6 +198,5 @@
       7.75,
       10.16
     ]
-  },
-  "reference": "03420004VRN"
+  }
 }

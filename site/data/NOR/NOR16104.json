@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16104",
   "country": "NOR",
+  "reference": "03440004L3F",
   "name": "Livlig",
   "rating": {
     "gph": 609.0,
@@ -197,6 +198,5 @@
       8.16,
       9.03
     ]
-  },
-  "reference": "03440004L3F"
+  }
 }

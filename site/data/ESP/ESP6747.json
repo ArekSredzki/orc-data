@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6747",
   "country": "ESP",
+  "reference": "03510004C69",
   "name": "HMS SURPRISE",
   "rating": {
     "gph": 613.3,
@@ -197,6 +198,5 @@
       8.15,
       9.01
     ]
-  },
-  "reference": "03510004C69"
+  }
 }

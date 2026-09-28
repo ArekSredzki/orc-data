@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA820",
   "country": "RSA",
+  "reference": "04620004SEA",
   "name": "Aquavit",
   "rating": {
     "gph": 661.3,
@@ -197,6 +198,5 @@
       7.59,
       8.31
     ]
-  },
-  "reference": "04620004SEA"
+  }
 }

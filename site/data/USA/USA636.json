@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA636",
   "country": "USA",
+  "reference": "04560004QKM",
   "name": "EPIC CIRCUS",
   "rating": {
     "gph": 621.0,
@@ -197,6 +198,5 @@
       7.87,
       9.61
     ]
-  },
-  "reference": "04560004QKM"
+  }
 }

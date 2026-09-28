@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7035",
   "country": "NED",
+  "reference": "04310004W2C",
   "name": "Candy",
   "rating": {
     "gph": 595.1,
@@ -197,6 +198,5 @@
       11.78,
       14.77
     ]
-  },
-  "reference": "04310004W2C"
+  }
 }

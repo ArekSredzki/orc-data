@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN870",
   "country": "HUN",
+  "reference": "04890004T2E",
   "name": "M\u00f3Pog\u00f3",
   "rating": {
     "gph": 633.4,
@@ -197,6 +198,5 @@
       7.46,
       9.69
     ]
-  },
-  "reference": "04890004T2E"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/HUN18",
   "country": "TUR",
+  "reference": "0459000485L",
   "name": "INHACA",
   "rating": {
     "gph": 608.7,
@@ -197,6 +198,5 @@
       10.12,
       12.9
     ]
-  },
-  "reference": "0459000485L"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2115",
   "country": "TUR",
+  "reference": "04590004MVB",
   "name": "ANYWAY",
   "rating": {
     "gph": 573.6,
@@ -197,6 +198,5 @@
       8.66,
       9.68
     ]
-  },
-  "reference": "04590004MVB"
+  }
 }

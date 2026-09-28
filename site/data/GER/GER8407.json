@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8407",
   "country": "GER",
+  "reference": "03520004I2T",
   "name": "GIN KNOPF",
   "rating": {
     "gph": 618.5,
@@ -197,6 +198,5 @@
       7.8,
       8.46
     ]
-  },
-  "reference": "03520004I2T"
+  }
 }

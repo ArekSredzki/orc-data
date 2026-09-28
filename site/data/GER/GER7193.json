@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7193",
   "country": "GER",
+  "reference": "04150004SMN",
   "name": "VINGA",
   "rating": {
     "gph": 537.3,
@@ -197,6 +198,5 @@
       9.1,
       10.15
     ]
-  },
-  "reference": "04150004SMN"
+  }
 }

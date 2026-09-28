@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN7236",
   "country": "JPN",
+  "reference": "03390004RNW",
   "name": "Sunnyside Cruise",
   "rating": {
     "gph": 676.9,
@@ -197,6 +198,5 @@
       7.02,
       7.52
     ]
-  },
-  "reference": "03390004RNW"
+  }
 }

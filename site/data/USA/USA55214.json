@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA55214",
   "country": "USA",
+  "reference": "04560004VQF",
   "name": "DRAGON",
   "rating": {
     "gph": 548.0,
@@ -197,6 +198,5 @@
       9.18,
       9.9
     ]
-  },
-  "reference": "04560004VQF"
+  }
 }

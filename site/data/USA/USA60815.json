@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60815",
   "country": "USA",
+  "reference": "04560004WCN",
   "name": "PERIGEE",
   "rating": {
     "gph": 573.9,
@@ -197,6 +198,5 @@
       8.12,
       9.24
     ]
-  },
-  "reference": "04560004WCN"
+  }
 }

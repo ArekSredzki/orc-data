@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAEDEN25",
   "country": "ITA",
+  "reference": "03190004TIW",
   "name": "EDEN",
   "rating": {
     "gph": 612.5,
@@ -197,6 +198,5 @@
       7.85,
       8.49
     ]
-  },
-  "reference": "03190004TIW"
+  }
 }

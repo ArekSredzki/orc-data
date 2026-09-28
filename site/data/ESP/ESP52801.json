@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP52801",
   "country": "ESP",
+  "reference": "03510004VP9",
   "name": "URBANIA",
   "rating": {
     "gph": 440.5,
@@ -197,6 +198,5 @@
       13.23,
       16.4
     ]
-  },
-  "reference": "03510004VP9"
+  }
 }

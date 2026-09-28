@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1691_C",
   "country": "ESP",
+  "reference": "03510004HPM",
   "name": "GRUMETE",
   "rating": {
     "gph": 733.3,
@@ -197,6 +198,5 @@
       6.82,
       7.59
     ]
-  },
-  "reference": "03510004HPM"
+  }
 }

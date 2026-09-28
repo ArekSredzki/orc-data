@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12011",
   "country": "NOR",
+  "reference": "03440004NB9",
   "name": "gamma",
   "rating": {
     "gph": 583.2,
@@ -197,6 +198,5 @@
       8.46,
       9.22
     ]
-  },
-  "reference": "03440004NB9"
+  }
 }

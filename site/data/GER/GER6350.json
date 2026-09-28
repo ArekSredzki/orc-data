@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6350",
   "country": "GER",
+  "reference": "04150004RRN",
   "name": "AVENTURA III",
   "rating": {
     "gph": 624.4,
@@ -197,6 +198,5 @@
       7.59,
       8.22
     ]
-  },
-  "reference": "04150004RRN"
+  }
 }

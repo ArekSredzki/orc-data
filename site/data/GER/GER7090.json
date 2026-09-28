@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7090",
   "country": "GER",
+  "reference": "03520004LQU",
   "name": "XIRASOL",
   "rating": {
     "gph": 648.4,
@@ -197,6 +198,5 @@
       7.73,
       8.46
     ]
-  },
-  "reference": "03520004LQU"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR18332",
   "country": "TUR",
+  "reference": "04590004J8R",
   "name": "EVOLUTION",
   "rating": {
     "gph": 587.1,
@@ -197,6 +198,5 @@
       9.82,
       12.91
     ]
-  },
-  "reference": "04590004J8R"
+  }
 }

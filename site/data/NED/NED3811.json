@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3811",
   "country": "NED",
+  "reference": "04310004JU6",
   "name": "Wind",
   "rating": {
     "gph": 611.1,
@@ -197,6 +198,5 @@
       8.23,
       9.01
     ]
-  },
-  "reference": "04310004JU6"
+  }
 }

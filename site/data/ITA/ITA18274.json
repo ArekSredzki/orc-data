@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18274",
   "country": "ITA",
+  "reference": "03190004HSV",
   "name": "IMPAVIDA",
   "rating": {
     "gph": 691.5,
@@ -197,6 +198,5 @@
       6.9,
       7.4
     ]
-  },
-  "reference": "03190004HSV"
+  }
 }

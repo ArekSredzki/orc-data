@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10961_C",
   "country": "ESP",
+  "reference": "03510004JK6",
   "name": "COLOMBA",
   "rating": {
     "gph": 620.4,
@@ -197,6 +198,5 @@
       8.11,
       8.84
     ]
-  },
-  "reference": "03510004JK6"
+  }
 }

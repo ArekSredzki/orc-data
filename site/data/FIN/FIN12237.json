@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12237",
   "country": "FIN",
+  "reference": "04140004W1R",
   "name": "Greta",
   "rating": {
     "gph": 628.9,
@@ -197,6 +198,5 @@
       7.62,
       8.32
     ]
-  },
-  "reference": "04140004W1R"
+  }
 }

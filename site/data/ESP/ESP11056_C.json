@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11056_C",
   "country": "ESP",
+  "reference": "03510004B07",
   "name": "BLISS",
   "rating": {
     "gph": 660.6,
@@ -197,6 +198,5 @@
       7.55,
       8.15
     ]
-  },
-  "reference": "03510004B07"
+  }
 }

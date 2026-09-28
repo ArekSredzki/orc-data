@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/NZL12502",
   "country": "USA",
+  "reference": "04560004TPN",
   "name": "CALLISTO",
   "rating": {
     "gph": 518.0,
@@ -197,6 +198,5 @@
       11.06,
       14.13
     ]
-  },
-  "reference": "04560004TPN"
+  }
 }

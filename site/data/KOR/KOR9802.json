@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR9802",
   "country": "KOR",
+  "reference": "04550004RRV",
   "name": "Gaeguri",
   "rating": {
     "gph": 687.3,
@@ -197,6 +198,5 @@
       7.2,
       7.92
     ]
-  },
-  "reference": "04550004RRV"
+  }
 }

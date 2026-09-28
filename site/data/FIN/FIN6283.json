@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN6283",
   "country": "FIN",
+  "reference": "04140004P6L",
   "name": "Ramona",
   "rating": {
     "gph": 677.7,
@@ -197,6 +198,5 @@
       7.22,
       7.87
     ]
-  },
-  "reference": "04140004P6L"
+  }
 }

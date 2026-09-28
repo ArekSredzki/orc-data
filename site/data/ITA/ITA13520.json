@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13520",
   "country": "ITA",
+  "reference": "03190004NW8",
   "name": "BLU TANGO BLU",
   "rating": {
     "gph": 589.7,
@@ -197,6 +198,5 @@
       7.89,
       8.67
     ]
-  },
-  "reference": "03190004NW8"
+  }
 }

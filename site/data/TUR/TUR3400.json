@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR3400",
   "country": "TUR",
+  "reference": "04590004WQR",
   "name": "PHOENIX JR",
   "rating": {
     "gph": 682.0,
@@ -197,6 +198,5 @@
       7.66,
       10.14
     ]
-  },
-  "reference": "04590004WQR"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2433",
   "country": "BRA",
+  "reference": "04420004SOW",
   "name": "ITAJAI SAILING",
   "rating": {
     "gph": 515.8,
@@ -197,6 +198,5 @@
       11.58,
       14.68
     ]
-  },
-  "reference": "04420004SOW"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3921",
   "country": "NED",
+  "reference": "04310004JU8",
   "name": "Nimrod",
   "rating": {
     "gph": 572.2,
@@ -197,6 +198,5 @@
       8.86,
       10.69
     ]
-  },
-  "reference": "04310004JU8"
+  }
 }

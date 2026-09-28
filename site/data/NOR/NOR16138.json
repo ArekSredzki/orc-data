@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16138",
   "country": "NOR",
+  "reference": "03440004L3H",
   "name": "Wolpertinger",
   "rating": {
     "gph": 621.0,
@@ -197,6 +198,5 @@
       7.73,
       8.72
     ]
-  },
-  "reference": "03440004L3H"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG4363",
   "country": "ARG",
+  "reference": "03880004UWT",
   "name": "YUNTA BRAVA",
   "rating": {
     "gph": 691.0,
@@ -197,6 +198,5 @@
       7.15,
       7.8
     ]
-  },
-  "reference": "03880004UWT"
+  }
 }

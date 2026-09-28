@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1664",
   "country": "GRE",
+  "reference": "03420004LK8",
   "name": "ASTARTE",
   "rating": {
     "gph": 675.0,
@@ -197,6 +198,5 @@
       7.2,
       7.7
     ]
-  },
-  "reference": "03420004LK8"
+  }
 }

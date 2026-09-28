@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GBR6278L",
   "country": "ITA",
+  "reference": "03190004RA4",
   "name": "GG",
   "rating": {
     "gph": 469.6,
@@ -197,6 +198,5 @@
       10.32,
       11.2
     ]
-  },
-  "reference": "03190004RA4"
+  }
 }

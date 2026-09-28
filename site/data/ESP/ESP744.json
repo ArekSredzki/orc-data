@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP744",
   "country": "ESP",
+  "reference": "03510004UI2",
   "name": "AQUARELLE 1",
   "rating": {
     "gph": 497.0,
@@ -197,6 +198,5 @@
       11.22,
       14.24
     ]
-  },
-  "reference": "03510004UI2"
+  }
 }

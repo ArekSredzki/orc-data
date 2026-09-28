@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13996",
   "country": "ITA",
+  "reference": "03190004R42",
   "name": "IL RAIS",
   "rating": {
     "gph": 605.1,
@@ -197,6 +198,5 @@
       8.15,
       8.89
     ]
-  },
-  "reference": "03190004R42"
+  }
 }

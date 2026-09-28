@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7713",
   "country": "NED",
+  "reference": "04310004K01",
   "name": "Prosecco",
   "rating": {
     "gph": 614.8,
@@ -197,6 +198,5 @@
       8.42,
       11.24
     ]
-  },
-  "reference": "04310004K01"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITABLIFE22",
   "country": "ITA",
+  "reference": "03190004K6U",
   "name": "B-LIFE",
   "rating": {
     "gph": 597.0,
@@ -197,6 +198,5 @@
       10.42,
       13.55
     ]
-  },
-  "reference": "03190004K6U"
+  }
 }

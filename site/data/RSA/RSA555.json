@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA555",
   "country": "RSA",
+  "reference": "04620004J8K",
   "name": "Solitaire",
   "rating": {
     "gph": 648.8,
@@ -197,6 +198,5 @@
       7.97,
       8.56
     ]
-  },
-  "reference": "04620004J8K"
+  }
 }

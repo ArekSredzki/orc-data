@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9603",
   "country": "ESP",
+  "reference": "035100048K4",
   "name": "GAVILAN V",
   "rating": {
     "gph": 658.2,
@@ -197,6 +198,5 @@
       7.63,
       8.22
     ]
-  },
-  "reference": "035100048K4"
+  }
 }

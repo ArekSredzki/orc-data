@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/B8888",
   "country": "AUS",
+  "reference": "03020004V9S",
   "name": "ADMIRAL",
   "rating": {
     "gph": 551.5,
@@ -197,6 +198,5 @@
       8.59,
       9.59
     ]
-  },
-  "reference": "03020004V9S"
+  }
 }

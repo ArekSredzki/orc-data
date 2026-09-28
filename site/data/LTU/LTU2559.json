@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2559",
   "country": "LTU",
+  "reference": "03590004VVF",
   "name": "LA CALMA",
   "rating": {
     "gph": 663.1,
@@ -197,6 +198,5 @@
       7.55,
       8.21
     ]
-  },
-  "reference": "03590004VVF"
+  }
 }

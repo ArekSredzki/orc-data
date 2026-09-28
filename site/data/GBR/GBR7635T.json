@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GBR7635T",
   "country": "GBR",
+  "reference": "03860004W4L",
   "name": "SNOW WOLF",
   "rating": {
     "gph": 607.8,
@@ -197,6 +198,5 @@
       8.27,
       8.88
     ]
-  },
-  "reference": "03860004W4L"
+  }
 }

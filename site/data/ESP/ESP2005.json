@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2005",
   "country": "ESP",
+  "reference": "03510004H4T",
   "name": "CELESTE DI MARE",
   "rating": {
     "gph": 709.1,
@@ -197,6 +198,5 @@
       7.04,
       7.62
     ]
-  },
-  "reference": "03510004H4T"
+  }
 }

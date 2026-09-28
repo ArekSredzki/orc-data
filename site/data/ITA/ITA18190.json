@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18190",
   "country": "ITA",
+  "reference": "03190004O09",
   "name": "AMA",
   "rating": {
     "gph": 563.8,
@@ -197,6 +198,5 @@
       8.34,
       9.4
     ]
-  },
-  "reference": "03190004O09"
+  }
 }

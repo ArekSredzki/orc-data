@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3585",
   "country": "RSA",
+  "reference": "04620004BRU",
   "name": "South East Cloud",
   "rating": {
     "gph": 710.6,
@@ -197,6 +198,5 @@
       7.18,
       7.78
     ]
-  },
-  "reference": "04620004BRU"
+  }
 }

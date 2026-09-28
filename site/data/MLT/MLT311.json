@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/MLT311",
   "country": "MLT",
+  "reference": "03230004UHF",
   "name": "Jubatus",
   "rating": {
     "gph": 554.0,
@@ -197,6 +198,5 @@
       11.51,
       14.65
     ]
-  },
-  "reference": "03230004UHF"
+  }
 }

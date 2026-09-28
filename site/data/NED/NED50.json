@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED50",
   "country": "NED",
+  "reference": "04310004JV3",
   "name": "Kiet",
   "rating": {
     "gph": 641.2,
@@ -197,6 +198,5 @@
       7.51,
       8.1
     ]
-  },
-  "reference": "04310004JV3"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1191",
   "country": "GRE",
+  "reference": "03420004K3D",
   "name": "PERAN",
   "rating": {
     "gph": 730.2,
@@ -197,6 +198,5 @@
       6.67,
       7.11
     ]
-  },
-  "reference": "03420004K3D"
+  }
 }

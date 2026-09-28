@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/SUI5103",
   "country": "GER",
+  "reference": "02920004W07",
   "name": "KILARA II",
   "rating": {
     "gph": 431.0,
@@ -197,6 +198,5 @@
       13.77,
       16.9
     ]
-  },
-  "reference": "02920004W07"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR49070",
   "country": "NOR",
+  "reference": "03440004N3D",
   "name": "Psycho",
   "rating": {
     "gph": 576.3,
@@ -197,6 +198,5 @@
       8.48,
       9.34
     ]
-  },
-  "reference": "03440004N3D"
+  }
 }

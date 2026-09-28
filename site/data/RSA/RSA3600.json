@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3600",
   "country": "RSA",
+  "reference": "0462000486J",
   "name": "Ballyhoo Too",
   "rating": {
     "gph": 574.7,
@@ -197,6 +198,5 @@
       8.91,
       11.27
     ]
-  },
-  "reference": "0462000486J"
+  }
 }

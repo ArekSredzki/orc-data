@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED46",
   "country": "NED",
+  "reference": "04310004JUN",
   "name": "Dontenville",
   "rating": {
     "gph": 572.7,
@@ -197,6 +198,5 @@
       8.59,
       9.33
     ]
-  },
-  "reference": "04310004JUN"
+  }
 }

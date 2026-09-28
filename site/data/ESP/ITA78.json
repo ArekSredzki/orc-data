@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ITA78",
   "country": "ESP",
+  "reference": "03510004RSQ",
   "name": "MILKWAVE",
   "rating": {
     "gph": 561.5,
@@ -197,6 +198,5 @@
       11.25,
       14.42
     ]
-  },
-  "reference": "03510004RSQ"
+  }
 }

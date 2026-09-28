@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE144",
   "country": "GRE",
+  "reference": "03420004VAR",
   "name": "RUSH",
   "rating": {
     "gph": 565.5,
@@ -197,6 +198,5 @@
       8.69,
       10.12
     ]
-  },
-  "reference": "03420004VAR"
+  }
 }

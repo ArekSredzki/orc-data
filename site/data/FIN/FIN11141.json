@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11141",
   "country": "FIN",
+  "reference": "04140004MK3",
   "name": "FAVOLA",
   "rating": {
     "gph": 583.5,
@@ -197,6 +198,5 @@
       8.42,
       9.2
     ]
-  },
-  "reference": "04140004MK3"
+  }
 }

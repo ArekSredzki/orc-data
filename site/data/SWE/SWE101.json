@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE101",
   "country": "SWE",
+  "reference": "03200004UF4",
   "name": "Jolene",
   "rating": {
     "gph": 547.5,
@@ -197,6 +198,5 @@
       9.3,
       11.53
     ]
-  },
-  "reference": "03200004UF4"
+  }
 }

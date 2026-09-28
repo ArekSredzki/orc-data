@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN74359",
   "country": "CAN",
+  "reference": "03430004FS7",
   "name": "ALLONS-Y",
   "rating": {
     "gph": 607.6,
@@ -197,6 +198,5 @@
       7.98,
       8.75
     ]
-  },
-  "reference": "03430004FS7"
+  }
 }

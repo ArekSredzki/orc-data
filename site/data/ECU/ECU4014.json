@@ -1,6 +1,7 @@
 {
   "sailnumber": "ECU/ECU4014",
   "country": "ECU",
+  "reference": "03880004KOQ",
   "name": "MARIA CRISTINA I",
   "rating": {
     "gph": 550.2,
@@ -197,6 +198,5 @@
       8.78,
       10.78
     ]
-  },
-  "reference": "03880004KOQ"
+  }
 }

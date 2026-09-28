@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16570",
   "country": "ITA",
+  "reference": "03190004LPT",
   "name": "VERTIGO",
   "rating": {
     "gph": 595.7,
@@ -197,6 +198,5 @@
       8.18,
       9.94
     ]
-  },
-  "reference": "03190004LPT"
+  }
 }

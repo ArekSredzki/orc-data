@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI772",
   "country": "SUI",
+  "reference": "03080004ODR",
   "name": "PHOENIX DU LAC",
   "rating": {
     "gph": 689.4,
@@ -197,6 +198,5 @@
       7.41,
       9.54
     ]
-  },
-  "reference": "03080004ODR"
+  }
 }

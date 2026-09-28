@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA5252",
   "country": "ITA",
+  "reference": "03190004VWF",
   "name": "BLUE",
   "rating": {
     "gph": 437.2,
@@ -197,6 +198,5 @@
       13.41,
       16.56
     ]
-  },
-  "reference": "03190004VWF"
+  }
 }

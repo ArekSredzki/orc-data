@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR2400",
   "country": "POR",
+  "reference": "03530004MJ2",
   "name": "MIADOIS",
   "rating": {
     "gph": 669.5,
@@ -197,6 +198,5 @@
       7.97,
       10.68
     ]
-  },
-  "reference": "03530004MJ2"
+  }
 }

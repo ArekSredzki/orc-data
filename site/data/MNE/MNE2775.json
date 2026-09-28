@@ -1,6 +1,7 @@
 {
   "sailnumber": "MNE/MNE2775",
   "country": "MNE",
+  "reference": "03880004IU5",
   "name": "FAVORIT",
   "rating": {
     "gph": 518.1,
@@ -197,6 +198,5 @@
       10.13,
       12.56
     ]
-  },
-  "reference": "03880004IU5"
+  }
 }

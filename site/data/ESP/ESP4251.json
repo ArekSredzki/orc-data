@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4251",
   "country": "ESP",
+  "reference": "035100048M5",
   "name": "IRISEA",
   "rating": {
     "gph": 608.0,
@@ -197,6 +198,5 @@
       8.48,
       10.34
     ]
-  },
-  "reference": "035100048M5"
+  }
 }

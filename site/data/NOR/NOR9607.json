@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9607",
   "country": "NOR",
+  "reference": "03440004T5I",
   "name": "L\u00f8rva",
   "rating": {
     "gph": 641.6,
@@ -197,6 +198,5 @@
       7.85,
       10.27
     ]
-  },
-  "reference": "03440004T5I"
+  }
 }

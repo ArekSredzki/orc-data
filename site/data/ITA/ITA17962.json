@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17962",
   "country": "ITA",
+  "reference": "03190004I0P",
   "name": "SOLE VERDE",
   "rating": {
     "gph": 643.5,
@@ -197,6 +198,5 @@
       7.77,
       8.44
     ]
-  },
-  "reference": "03190004I0P"
+  }
 }

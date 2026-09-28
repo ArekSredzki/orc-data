@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA9091",
   "country": "ITA",
+  "reference": "03190004FFO",
   "name": "MEDITERRANEO",
   "rating": {
     "gph": 622.5,
@@ -197,6 +198,5 @@
       7.82,
       8.56
     ]
-  },
-  "reference": "03190004FFO"
+  }
 }

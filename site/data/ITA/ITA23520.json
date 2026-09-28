@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA23520",
   "country": "ITA",
+  "reference": "03190004P46",
   "name": "XIO",
   "rating": {
     "gph": 433.4,
@@ -197,6 +198,5 @@
       13.41,
       16.78
     ]
-  },
-  "reference": "03190004P46"
+  }
 }

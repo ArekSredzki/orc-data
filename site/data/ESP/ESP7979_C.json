@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7979_C",
   "country": "ESP",
+  "reference": "03510004Q8J",
   "name": "LLAMP",
   "rating": {
     "gph": 561.8,
@@ -197,6 +198,5 @@
       8.82,
       9.59
     ]
-  },
-  "reference": "03510004Q8J"
+  }
 }

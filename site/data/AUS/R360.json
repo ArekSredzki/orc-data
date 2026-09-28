@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/R360",
   "country": "AUS",
+  "reference": "03020004VCJ",
   "name": "ORA",
   "rating": {
     "gph": 600.1,
@@ -197,6 +198,5 @@
       8.2,
       9.07
     ]
-  },
-  "reference": "03020004VCJ"
+  }
 }

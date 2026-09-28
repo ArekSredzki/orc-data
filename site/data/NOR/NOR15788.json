@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15788",
   "country": "NOR",
+  "reference": "03440004OTB",
   "name": "Off Course",
   "rating": {
     "gph": 553.2,
@@ -197,6 +198,5 @@
       8.75,
       10.16
     ]
-  },
-  "reference": "03440004OTB"
+  }
 }

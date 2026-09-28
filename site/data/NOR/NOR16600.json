@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16600",
   "country": "NOR",
+  "reference": "03440004SN0",
   "name": "Virginia",
   "rating": {
     "gph": 533.4,
@@ -197,6 +198,5 @@
       9.12,
       11.26
     ]
-  },
-  "reference": "03440004SN0"
+  }
 }

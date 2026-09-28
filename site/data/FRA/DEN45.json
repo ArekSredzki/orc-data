@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/DEN45",
   "country": "FRA",
+  "reference": "04330004CBK",
   "name": "PARADOXE 3",
   "rating": {
     "gph": 566.5,
@@ -197,6 +198,5 @@
       8.48,
       9.18
     ]
-  },
-  "reference": "04330004CBK"
+  }
 }

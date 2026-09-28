@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA40433",
   "country": "USA",
+  "reference": "04560004UFS",
   "name": "MEAT",
   "rating": {
     "gph": 665.0,
@@ -197,6 +198,5 @@
       7.57,
       8.44
     ]
-  },
-  "reference": "04560004UFS"
+  }
 }

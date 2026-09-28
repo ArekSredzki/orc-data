@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11065",
   "country": "NOR",
+  "reference": "03440004H72",
   "name": "Oter'n",
   "rating": {
     "gph": 610.4,
@@ -197,6 +198,5 @@
       8.17,
       8.93
     ]
-  },
-  "reference": "03440004H72"
+  }
 }

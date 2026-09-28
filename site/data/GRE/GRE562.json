@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE562",
   "country": "GRE",
+  "reference": "03420004S1A",
   "name": "ANGELINA",
   "rating": {
     "gph": 674.6,
@@ -197,6 +198,5 @@
       7.46,
       8.01
     ]
-  },
-  "reference": "03420004S1A"
+  }
 }

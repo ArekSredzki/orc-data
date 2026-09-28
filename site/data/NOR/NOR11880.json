@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11880",
   "country": "NOR",
+  "reference": "03440004UBH",
   "name": "HELTOK",
   "rating": {
     "gph": 621.1,
@@ -197,6 +198,5 @@
       8.02,
       8.76
     ]
-  },
-  "reference": "03440004UBH"
+  }
 }

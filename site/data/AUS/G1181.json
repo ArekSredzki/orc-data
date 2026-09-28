@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/G1181",
   "country": "AUS",
+  "reference": "03020004V4H",
   "name": "AZZURA",
   "rating": {
     "gph": 649.6,
@@ -197,6 +198,5 @@
       7.65,
       8.27
     ]
-  },
-  "reference": "03020004V4H"
+  }
 }

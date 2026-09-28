@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA8330",
   "country": "FRA",
+  "reference": "04330004TFI",
   "name": "OPLITE",
   "rating": {
     "gph": 666.1,
@@ -197,6 +198,5 @@
       7.68,
       9.12
     ]
-  },
-  "reference": "04330004TFI"
+  }
 }

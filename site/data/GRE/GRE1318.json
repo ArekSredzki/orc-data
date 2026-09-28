@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1318",
   "country": "GRE",
+  "reference": "03420004MD9",
   "name": "IRIS",
   "rating": {
     "gph": 675.8,
@@ -197,6 +198,5 @@
       7.42,
       8.06
     ]
-  },
-  "reference": "03420004MD9"
+  }
 }

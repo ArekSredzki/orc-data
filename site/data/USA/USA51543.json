@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51543",
   "country": "USA",
+  "reference": "04560004UD6",
   "name": "PHOENIX",
   "rating": {
     "gph": 535.4,
@@ -197,6 +198,5 @@
       9.32,
       11.5
     ]
-  },
-  "reference": "04560004UD6"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11475_C",
   "country": "ESP",
+  "reference": "03510004MJB",
   "name": "PANTXINETA",
   "rating": {
     "gph": 731.8,
@@ -197,6 +198,5 @@
       7.32,
       10.58
     ]
-  },
-  "reference": "03510004MJB"
+  }
 }

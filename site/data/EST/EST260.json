@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST260",
   "country": "EST",
+  "reference": "04340004ONI",
   "name": "Laine",
   "rating": {
     "gph": 791.2,
@@ -197,6 +198,5 @@
       6.36,
       6.93
     ]
-  },
-  "reference": "04340004ONI"
+  }
 }

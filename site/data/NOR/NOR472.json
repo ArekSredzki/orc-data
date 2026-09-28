@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR472",
   "country": "NOR",
+  "reference": "03440004WPB",
   "name": "Bes",
   "rating": {
     "gph": 689.5,
@@ -197,6 +198,5 @@
       7.23,
       7.92
     ]
-  },
-  "reference": "03440004WPB"
+  }
 }

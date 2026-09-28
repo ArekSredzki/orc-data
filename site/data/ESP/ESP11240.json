@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11240",
   "country": "ESP",
+  "reference": "03510004AVA",
   "name": "ESCLOP 1",
   "rating": {
     "gph": 766.5,
@@ -197,6 +198,5 @@
       6.93,
       7.59
     ]
-  },
-  "reference": "03510004AVA"
+  }
 }

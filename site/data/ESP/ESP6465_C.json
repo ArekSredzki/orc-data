@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6465_C",
   "country": "ESP",
+  "reference": "03510004RLD",
   "name": "JULIETA",
   "rating": {
     "gph": 632.5,
@@ -197,6 +198,5 @@
       7.76,
       8.44
     ]
-  },
-  "reference": "03510004RLD"
+  }
 }

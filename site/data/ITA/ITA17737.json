@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17737",
   "country": "ITA",
+  "reference": "03190004PDI",
   "name": "QUIZAS",
   "rating": {
     "gph": 556.5,
@@ -197,6 +198,5 @@
       8.55,
       9.45
     ]
-  },
-  "reference": "03190004PDI"
+  }
 }

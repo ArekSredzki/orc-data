@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG54",
   "country": "ARG",
+  "reference": "03880004Q2B",
   "name": "ALTAIR",
   "rating": {
     "gph": 668.3,
@@ -197,6 +198,5 @@
       7.54,
       8.14
     ]
-  },
-  "reference": "03880004Q2B"
+  }
 }

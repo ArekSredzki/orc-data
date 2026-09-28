@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2490",
   "country": "BRA",
+  "reference": "04420004VF2",
   "name": "RUD\u00c1",
   "rating": {
     "gph": 581.0,
@@ -197,6 +198,5 @@
       8.59,
       9.52
     ]
-  },
-  "reference": "04420004VF2"
+  }
 }

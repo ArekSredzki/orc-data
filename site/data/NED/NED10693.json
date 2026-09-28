@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED10693",
   "country": "NED",
+  "reference": "04310004PRK",
   "name": "Junicorn",
   "rating": {
     "gph": 608.6,
@@ -197,6 +198,5 @@
       7.74,
       9.55
     ]
-  },
-  "reference": "04310004PRK"
+  }
 }

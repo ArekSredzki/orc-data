@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA30AS99",
   "country": "ITA",
+  "reference": "03190004LP3",
   "name": "MINDFITCLINIC.IT",
   "rating": {
     "gph": 534.5,
@@ -197,6 +198,5 @@
       12.61,
       15.67
     ]
-  },
-  "reference": "03190004LP3"
+  }
 }

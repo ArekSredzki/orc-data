@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA38377",
   "country": "FRA",
+  "reference": "04330004QEE",
   "name": "XTREM JP",
   "rating": {
     "gph": 661.4,
@@ -197,6 +198,5 @@
       8.35,
       11.72
     ]
-  },
-  "reference": "04330004QEE"
+  }
 }

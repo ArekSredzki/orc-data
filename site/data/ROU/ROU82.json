@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU82",
   "country": "ROU",
+  "reference": "05040004RIP",
   "name": "Incognito",
   "rating": {
     "gph": 594.0,
@@ -197,6 +198,5 @@
       8.23,
       8.99
     ]
-  },
-  "reference": "05040004RIP"
+  }
 }

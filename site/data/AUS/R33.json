@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/R33",
   "country": "AUS",
+  "reference": "03020004T4Q",
   "name": "CHUTZPAH",
   "rating": {
     "gph": 506.6,
@@ -197,6 +198,5 @@
       11.62,
       14.88
     ]
-  },
-  "reference": "03020004T4Q"
+  }
 }

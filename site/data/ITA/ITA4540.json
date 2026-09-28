@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA4540",
   "country": "ITA",
+  "reference": "03190004W4F",
   "name": "NICE",
   "rating": {
     "gph": 412.8,
@@ -197,6 +198,5 @@
       12.45,
       15.06
     ]
-  },
-  "reference": "03190004W4F"
+  }
 }

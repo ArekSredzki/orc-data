@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU042",
   "country": "ROU",
+  "reference": "05040004WWF",
   "name": "Lion\u2019s Story",
   "rating": {
     "gph": 534.2,
@@ -197,6 +198,5 @@
       9.3,
       11.61
     ]
-  },
-  "reference": "05040004WWF"
+  }
 }

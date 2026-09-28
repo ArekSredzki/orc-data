@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP51_C",
   "country": "ESP",
+  "reference": "03510004FS0",
   "name": "IMOCA ESCOLA VELA",
   "rating": {
     "gph": 401.5,
@@ -197,6 +198,5 @@
       13.68,
       17.3
     ]
-  },
-  "reference": "03510004FS0"
+  }
 }

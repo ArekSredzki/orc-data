@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/DEN21",
   "country": "ESP",
+  "reference": "03510004C68",
   "name": "LIV",
   "rating": {
     "gph": 673.3,
@@ -197,6 +198,5 @@
       7.42,
       8.04
     ]
-  },
-  "reference": "03510004C68"
+  }
 }

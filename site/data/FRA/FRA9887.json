@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9887",
   "country": "FRA",
+  "reference": "04330004HLB",
   "name": "MAB AVEL",
   "rating": {
     "gph": 656.6,
@@ -197,6 +198,5 @@
       8.22,
       11.02
     ]
-  },
-  "reference": "04330004HLB"
+  }
 }

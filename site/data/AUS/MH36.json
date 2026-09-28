@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/MH36",
   "country": "AUS",
+  "reference": "03020004UB9",
   "name": "No Friends",
   "rating": {
     "gph": 615.6,
@@ -197,6 +198,5 @@
       8.51,
       10.91
     ]
-  },
-  "reference": "03020004UB9"
+  }
 }

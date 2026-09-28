@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61220",
   "country": "USA",
+  "reference": "04560004QBJ",
   "name": "LOKI",
   "rating": {
     "gph": 570.4,
@@ -197,6 +198,5 @@
       8.28,
       9.75
     ]
-  },
-  "reference": "04560004QBJ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11946",
   "country": "FIN",
+  "reference": "03290004O43",
   "name": "La Flaquita",
   "rating": {
     "gph": 685.7,
@@ -197,6 +198,5 @@
       7.43,
       8.12
     ]
-  },
-  "reference": "03290004O43"
+  }
 }

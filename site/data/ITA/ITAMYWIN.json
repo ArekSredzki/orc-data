@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAMYWIN",
   "country": "ITA",
+  "reference": "03190004F3P",
   "name": "MY WIND",
   "rating": {
     "gph": 619.5,
@@ -197,6 +198,5 @@
       7.79,
       8.36
     ]
-  },
-  "reference": "03190004F3P"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49380",
   "country": "GRE",
+  "reference": "03420004MJV",
   "name": "ADONIS",
   "rating": {
     "gph": 619.1,
@@ -197,6 +198,5 @@
       8.25,
       8.89
     ]
-  },
-  "reference": "03420004MJV"
+  }
 }

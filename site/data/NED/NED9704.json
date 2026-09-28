@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9704",
   "country": "NED",
+  "reference": "04310004K34",
   "name": "SES",
   "rating": {
     "gph": 653.5,
@@ -197,6 +198,5 @@
       7.34,
       8.03
     ]
-  },
-  "reference": "04310004K34"
+  }
 }

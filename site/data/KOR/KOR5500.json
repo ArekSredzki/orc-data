@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR5500",
   "country": "KOR",
+  "reference": "04550004HHF",
   "name": "Blue Queen II",
   "rating": {
     "gph": 579.7,
@@ -197,6 +198,5 @@
       8.62,
       10.97
     ]
-  },
-  "reference": "04550004HHF"
+  }
 }

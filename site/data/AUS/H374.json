@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/H374",
   "country": "AUS",
+  "reference": "03020004U35",
   "name": "Pompette",
   "rating": {
     "gph": 630.8,
@@ -197,6 +198,5 @@
       7.75,
       8.48
     ]
-  },
-  "reference": "03020004U35"
+  }
 }

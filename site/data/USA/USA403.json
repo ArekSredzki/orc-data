@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA403",
   "country": "USA",
+  "reference": "04560004VHV",
   "name": "ESCAPE",
   "rating": {
     "gph": 656.9,
@@ -197,6 +198,5 @@
       8.66,
       11.76
     ]
-  },
-  "reference": "04560004VHV"
+  }
 }

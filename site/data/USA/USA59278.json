@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA59278",
   "country": "USA",
+  "reference": "04560004W0S",
   "name": "ROCKET J. SQUIRREL",
   "rating": {
     "gph": 618.9,
@@ -197,6 +198,5 @@
       7.87,
       8.53
     ]
-  },
-  "reference": "04560004W0S"
+  }
 }

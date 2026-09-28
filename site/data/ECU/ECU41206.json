@@ -1,6 +1,7 @@
 {
   "sailnumber": "ECU/ECU41206",
   "country": "ECU",
+  "reference": "03880004KOS",
   "name": "VIO VIO 5",
   "rating": {
     "gph": 653.6,
@@ -197,6 +198,5 @@
       7.71,
       8.31
     ]
-  },
-  "reference": "03880004KOS"
+  }
 }

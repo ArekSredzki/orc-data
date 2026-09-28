@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11754",
   "country": "FIN",
+  "reference": "03290004UJE",
   "name": "Tuutikki",
   "rating": {
     "gph": 620.6,
@@ -197,6 +198,5 @@
       8.02,
       9.25
     ]
-  },
-  "reference": "03290004UJE"
+  }
 }

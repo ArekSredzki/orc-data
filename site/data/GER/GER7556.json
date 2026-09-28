@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7556",
   "country": "GER",
+  "reference": "04150004RTK",
   "name": "MADAME",
   "rating": {
     "gph": 671.7,
@@ -197,6 +198,5 @@
       7.57,
       8.12
     ]
-  },
-  "reference": "04150004RTK"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1201",
   "country": "TUR",
+  "reference": "04590004B3F",
   "name": "MINNI",
   "rating": {
     "gph": 600.5,
@@ -197,6 +198,5 @@
       7.9,
       9.85
     ]
-  },
-  "reference": "04590004B3F"
+  }
 }

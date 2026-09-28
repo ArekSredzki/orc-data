@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE756",
   "country": "GRE",
+  "reference": "03420004NEE",
   "name": "ORFEAS",
   "rating": {
     "gph": 768.0,
@@ -197,6 +198,5 @@
       6.81,
       7.33
     ]
-  },
-  "reference": "03420004NEE"
+  }
 }

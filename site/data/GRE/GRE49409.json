@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49409",
   "country": "GRE",
+  "reference": "03420004K3P",
   "name": "MOUSMOULO",
   "rating": {
     "gph": 805.1,
@@ -197,6 +198,5 @@
       6.47,
       6.99
     ]
-  },
-  "reference": "03420004K3P"
+  }
 }

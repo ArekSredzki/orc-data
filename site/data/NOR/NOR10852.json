@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10852",
   "country": "NOR",
+  "reference": "03440004QN1",
   "name": "Obelix",
   "rating": {
     "gph": 606.1,
@@ -197,6 +198,5 @@
       8.11,
       8.86
     ]
-  },
-  "reference": "03440004QN1"
+  }
 }

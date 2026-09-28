@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/R2001",
   "country": "AUS",
+  "reference": "03020004VDU",
   "name": "LIBERATOR",
   "rating": {
     "gph": 577.1,
@@ -197,6 +198,5 @@
       8.89,
       10.75
     ]
-  },
-  "reference": "03020004VDU"
+  }
 }

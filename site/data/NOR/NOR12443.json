@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12443",
   "country": "NOR",
+  "reference": "03440004OEF",
   "name": "White Shadow",
   "rating": {
     "gph": 534.4,
@@ -197,6 +198,5 @@
       8.85,
       10.82
     ]
-  },
-  "reference": "03440004OEF"
+  }
 }

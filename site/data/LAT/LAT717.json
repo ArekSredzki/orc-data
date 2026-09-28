@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT717",
   "country": "LAT",
+  "reference": "04960004VSN",
   "name": "Estelle",
   "rating": {
     "gph": 624.3,
@@ -197,6 +198,5 @@
       8.03,
       8.83
     ]
-  },
-  "reference": "04960004VSN"
+  }
 }

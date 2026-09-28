@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST775",
   "country": "EST",
+  "reference": "04340004R99",
   "name": "Tuuleiil",
   "rating": {
     "gph": 738.1,
@@ -197,6 +198,5 @@
       7.18,
       8.22
     ]
-  },
-  "reference": "04340004R99"
+  }
 }

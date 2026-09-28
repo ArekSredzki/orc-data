@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/487",
   "country": "NOR",
+  "reference": "03440004RAV",
   "name": "NN",
   "rating": {
     "gph": 622.6,
@@ -197,6 +198,5 @@
       10.73,
       13.84
     ]
-  },
-  "reference": "03440004RAV"
+  }
 }

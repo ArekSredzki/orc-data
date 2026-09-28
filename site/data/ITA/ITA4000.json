@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA4000",
   "country": "ITA",
+  "reference": "03190004S00",
   "name": "TERZA BERENICE",
   "rating": {
     "gph": 651.5,
@@ -197,6 +198,5 @@
       7.83,
       8.45
     ]
-  },
-  "reference": "03190004S00"
+  }
 }

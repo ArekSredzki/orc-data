@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2430",
   "country": "BRA",
+  "reference": "04420004VEU",
   "name": "XAMA",
   "rating": {
     "gph": 555.1,
@@ -197,6 +198,5 @@
       9.05,
       9.98
     ]
-  },
-  "reference": "04420004VEU"
+  }
 }

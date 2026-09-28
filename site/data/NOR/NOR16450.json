@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16450",
   "country": "NOR",
+  "reference": "03440004O9K",
   "name": "Lilles\u00f8s",
   "rating": {
     "gph": 596.3,
@@ -197,6 +198,5 @@
       7.97,
       8.63
     ]
-  },
-  "reference": "03440004O9K"
+  }
 }

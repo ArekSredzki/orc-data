@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1730",
   "country": "RSA",
+  "reference": "04620004B5R",
   "name": "PHANTOM",
   "rating": {
     "gph": 761.0,
@@ -197,6 +198,5 @@
       6.87,
       7.42
     ]
-  },
-  "reference": "04620004B5R"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA88856",
   "country": "USA",
+  "reference": "04560004LTJ",
   "name": "Bad Pak",
   "rating": {
     "gph": 401.9,
@@ -197,6 +198,5 @@
       14.27,
       17.66
     ]
-  },
-  "reference": "04560004LTJ"
+  }
 }

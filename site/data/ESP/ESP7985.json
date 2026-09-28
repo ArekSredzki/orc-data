@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7985",
   "country": "ESP",
+  "reference": "03510004KNU",
   "name": "ORION II",
   "rating": {
     "gph": 647.3,
@@ -197,6 +198,5 @@
       7.5,
       8.03
     ]
-  },
-  "reference": "03510004KNU"
+  }
 }

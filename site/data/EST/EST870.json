@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST870",
   "country": "EST",
+  "reference": "04340004V1W",
   "name": "Zeitgeist",
   "rating": {
     "gph": 654.1,
@@ -197,6 +198,5 @@
       7.8,
       8.46
     ]
-  },
-  "reference": "04340004V1W"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15545",
   "country": "ITA",
+  "reference": "03190004NVL",
   "name": "KEIRA",
   "rating": {
     "gph": 633.0,
@@ -197,6 +198,5 @@
       7.76,
       8.35
     ]
-  },
-  "reference": "03190004NVL"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9507",
   "country": "FRA",
+  "reference": "04330004JK9",
   "name": "STERGANN",
   "rating": {
     "gph": 569.3,
@@ -197,6 +198,5 @@
       8.64,
       10.59
     ]
-  },
-  "reference": "04330004JK9"
+  }
 }

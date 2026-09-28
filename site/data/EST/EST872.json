@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST872",
   "country": "EST",
+  "reference": "04340004S84",
   "name": "AQUILA",
   "rating": {
     "gph": 684.2,
@@ -197,6 +198,5 @@
       7.31,
       7.99
     ]
-  },
-  "reference": "04340004S84"
+  }
 }

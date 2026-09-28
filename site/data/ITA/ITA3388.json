@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA3388",
   "country": "ITA",
+  "reference": "03190004HN2",
   "name": "SPARTACO",
   "rating": {
     "gph": 612.1,
@@ -197,6 +198,5 @@
       8.12,
       10.48
     ]
-  },
-  "reference": "03190004HN2"
+  }
 }

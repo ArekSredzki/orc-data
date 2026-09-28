@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10075_C",
   "country": "ESP",
+  "reference": "0351000488A",
   "name": "TAMARAN UNO",
   "rating": {
     "gph": 700.2,
@@ -197,6 +198,5 @@
       7.04,
       7.57
     ]
-  },
-  "reference": "0351000488A"
+  }
 }

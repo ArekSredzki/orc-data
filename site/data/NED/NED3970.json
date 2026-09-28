@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3970",
   "country": "NED",
+  "reference": "04310004JU9",
   "name": "THE FOX",
   "rating": {
     "gph": 618.4,
@@ -197,6 +198,5 @@
       8.15,
       8.9
     ]
-  },
-  "reference": "04310004JU9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6407_C",
   "country": "ESP",
+  "reference": "035100050M8",
   "name": "PARRULO V",
   "rating": {
     "gph": 667.2,

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GBR562R",
   "country": "ITA",
+  "reference": "03190004K6D",
   "name": "DAJENU",
   "rating": {
     "gph": 544.7,
@@ -197,6 +198,5 @@
       8.79,
       11.02
     ]
-  },
-  "reference": "03190004K6D"
+  }
 }

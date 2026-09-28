@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE4295",
   "country": "GRE",
+  "reference": "03420004I6C",
   "name": "WATER GIPSY",
   "rating": {
     "gph": 681.1,
@@ -197,6 +198,5 @@
       7.48,
       7.95
     ]
-  },
-  "reference": "03420004I6C"
+  }
 }

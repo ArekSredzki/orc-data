@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA15124",
   "country": "FRA",
+  "reference": "04330004CBU",
   "name": "DURDUC",
   "rating": {
     "gph": 617.9,
@@ -197,6 +198,5 @@
       8.22,
       9.4
     ]
-  },
-  "reference": "04330004CBU"
+  }
 }

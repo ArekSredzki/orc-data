@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17534",
   "country": "ITA",
+  "reference": "03190004BA8",
   "name": "LAURA",
   "rating": {
     "gph": 654.1,
@@ -197,6 +198,5 @@
       7.34,
       7.93
     ]
-  },
-  "reference": "03190004BA8"
+  }
 }

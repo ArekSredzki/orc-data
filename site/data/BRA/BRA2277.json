@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2277",
   "country": "BRA",
+  "reference": "04420004QE6",
   "name": "KLIMAX",
   "rating": {
     "gph": 519.2,
@@ -197,6 +198,5 @@
       10.44,
       13.1
     ]
-  },
-  "reference": "04420004QE6"
+  }
 }

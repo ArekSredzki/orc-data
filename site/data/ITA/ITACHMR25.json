@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITACHMR25",
   "country": "ITA",
+  "reference": "03190004UIU",
   "name": "CHIMERA",
   "rating": {
     "gph": 494.7,
@@ -197,6 +198,5 @@
       10.36,
       12.82
     ]
-  },
-  "reference": "03190004UIU"
+  }
 }

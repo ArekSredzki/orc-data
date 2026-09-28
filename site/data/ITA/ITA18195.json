@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18195",
   "country": "ITA",
+  "reference": "03190004OTI",
   "name": "BLACK PEKOE 3",
   "rating": {
     "gph": 511.9,
@@ -197,6 +198,5 @@
       9.41,
       10.62
     ]
-  },
-  "reference": "03190004OTI"
+  }
 }

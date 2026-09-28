@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6323",
   "country": "ESP",
+  "reference": "03510004HAU",
   "name": "DELFYNA",
   "rating": {
     "gph": 646.0,
@@ -197,6 +198,5 @@
       7.5,
       8.44
     ]
-  },
-  "reference": "03510004HAU"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3427_C",
   "country": "ESP",
+  "reference": "035100048KV",
   "name": "OLI OYL",
   "rating": {
     "gph": 602.0,
@@ -197,6 +198,5 @@
       9.86,
       13.07
     ]
-  },
-  "reference": "035100048KV"
+  }
 }

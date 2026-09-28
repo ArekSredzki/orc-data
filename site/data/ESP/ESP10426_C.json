@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10426_C",
   "country": "ESP",
+  "reference": "03510004FET",
   "name": "ESPRIT DE VENT",
   "rating": {
     "gph": 650.4,
@@ -197,6 +198,5 @@
       7.47,
       8.12
     ]
-  },
-  "reference": "03510004FET"
+  }
 }

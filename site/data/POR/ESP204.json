@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/ESP204",
   "country": "POR",
+  "reference": "03530004WR0",
   "name": "F1",
   "rating": {
     "gph": 550.9,
@@ -197,6 +198,5 @@
       11.73,
       14.92
     ]
-  },
-  "reference": "03530004WR0"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/FIN11944",
   "country": "POR",
+  "reference": "03530004WJP",
   "name": "EAGLE III",
   "rating": {
     "gph": 533.9,
@@ -197,6 +198,5 @@
       9.21,
       11.5
     ]
-  },
-  "reference": "03530004WJP"
+  }
 }

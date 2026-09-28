@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/esp7804",
   "country": "ESP",
+  "reference": "03510004SCS",
   "name": "TOSSUT DOS",
   "rating": {
     "gph": 644.9,
@@ -197,6 +198,5 @@
       7.47,
       8.1
     ]
-  },
-  "reference": "03510004SCS"
+  }
 }

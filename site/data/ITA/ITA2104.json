@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA2104",
   "country": "ITA",
+  "reference": "03190004P45",
   "name": "B.LEX",
   "rating": {
     "gph": 581.9,
@@ -197,6 +198,5 @@
       9.98,
       13.05
     ]
-  },
-  "reference": "03190004P45"
+  }
 }

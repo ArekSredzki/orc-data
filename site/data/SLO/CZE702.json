@@ -1,6 +1,7 @@
 {
   "sailnumber": "SLO/CZE702",
   "country": "SLO",
+  "reference": "03090004IBJ",
   "name": "Fulcrum III",
   "rating": {
     "gph": 531.9,
@@ -197,6 +198,5 @@
       9.95,
       12.37
     ]
-  },
-  "reference": "03090004IBJ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25600",
   "country": "USA",
+  "reference": "04560004PQW",
   "name": "RAMPAGE",
   "rating": {
     "gph": 519.7,
@@ -197,6 +198,5 @@
       9.59,
       11.42
     ]
-  },
-  "reference": "04560004PQW"
+  }
 }

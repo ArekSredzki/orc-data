@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11473_C",
   "country": "ESP",
+  "reference": "03510004HE2",
   "name": "SIDUS",
   "rating": {
     "gph": 655.2,
@@ -197,6 +198,5 @@
       7.46,
       8.06
     ]
-  },
-  "reference": "03510004HE2"
+  }
 }

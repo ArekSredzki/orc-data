@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14740",
   "country": "ITA",
+  "reference": "03190004L8R",
   "name": "BRUTTIVIZI 2",
   "rating": {
     "gph": 600.0,
@@ -197,6 +198,5 @@
       7.83,
       8.48
     ]
-  },
-  "reference": "03190004L8R"
+  }
 }

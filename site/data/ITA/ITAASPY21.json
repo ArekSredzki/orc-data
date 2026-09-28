@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAASPY21",
   "country": "ITA",
+  "reference": "03190004KHA",
   "name": "ASPY",
   "rating": {
     "gph": 647.3,
@@ -197,6 +198,5 @@
       7.73,
       8.35
     ]
-  },
-  "reference": "03190004KHA"
+  }
 }

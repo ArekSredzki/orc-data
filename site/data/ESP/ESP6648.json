@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6648",
   "country": "ESP",
+  "reference": "03510004QS3",
   "name": "TORTOOGA",
   "rating": {
     "gph": 687.5,
@@ -197,6 +198,5 @@
       7.66,
       8.73
     ]
-  },
-  "reference": "03510004QS3"
+  }
 }

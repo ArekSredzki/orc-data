@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10706",
   "country": "ESP",
+  "reference": "035100048Q2",
   "name": "ARAL",
   "rating": {
     "gph": 629.8,
@@ -197,6 +198,5 @@
       7.94,
       8.67
     ]
-  },
-  "reference": "035100048Q2"
+  }
 }

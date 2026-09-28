@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/H8118",
   "country": "AUS",
+  "reference": "03020004TS1",
   "name": "Merlion",
   "rating": {
     "gph": 586.8,
@@ -197,6 +198,5 @@
       8.37,
       9.23
     ]
-  },
-  "reference": "03020004TS1"
+  }
 }

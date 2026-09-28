@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN3",
   "country": "CAN",
+  "reference": "03430004MTK",
   "name": "The Magic Number",
   "rating": {
     "gph": 585.0,
@@ -197,6 +198,5 @@
       8.28,
       10.34
     ]
-  },
-  "reference": "03430004MTK"
+  }
 }

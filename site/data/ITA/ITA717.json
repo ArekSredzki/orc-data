@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA717",
   "country": "ITA",
+  "reference": "03190004KOM",
   "name": "SEVEN J SEVEN",
   "rating": {
     "gph": 608.2,
@@ -197,6 +198,5 @@
       7.82,
       9.56
     ]
-  },
-  "reference": "03190004KOM"
+  }
 }

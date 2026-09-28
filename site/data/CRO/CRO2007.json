@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2007",
   "country": "CRO",
+  "reference": "03620004ISE",
   "name": "Sportski vuk",
   "rating": {
     "gph": 634.3,
@@ -197,6 +198,5 @@
       8.03,
       8.73
     ]
-  },
-  "reference": "03620004ISE"
+  }
 }

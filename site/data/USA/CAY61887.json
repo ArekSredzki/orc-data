@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/CAY61887",
   "country": "USA",
+  "reference": "04560004QLT",
   "name": "KATARA56",
   "rating": {
     "gph": 526.7,
@@ -197,6 +198,5 @@
       9.23,
       9.96
     ]
-  },
-  "reference": "04560004QLT"
+  }
 }

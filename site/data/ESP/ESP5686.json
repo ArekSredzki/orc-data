@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5686",
   "country": "ESP",
+  "reference": "03510004HT8",
   "name": "HARMATTAN PRIMERO",
   "rating": {
     "gph": 579.7,
@@ -197,6 +198,5 @@
       8.05,
       8.68
     ]
-  },
-  "reference": "03510004HT8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN86",
   "country": "CAN",
+  "reference": "03430004QR4",
   "name": "Duo Trio",
   "rating": {
     "gph": 580.2,
@@ -197,6 +198,5 @@
       8.23,
       8.86
     ]
-  },
-  "reference": "03430004QR4"
+  }
 }

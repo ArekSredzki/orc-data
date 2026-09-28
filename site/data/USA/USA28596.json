@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA28596",
   "country": "USA",
+  "reference": "04560004HOD",
   "name": "CC RIDER",
   "rating": {
     "gph": 569.7,
@@ -197,6 +198,5 @@
       8.31,
       10.08
     ]
-  },
-  "reference": "04560004HOD"
+  }
 }

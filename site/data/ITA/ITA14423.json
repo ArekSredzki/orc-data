@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14423",
   "country": "ITA",
+  "reference": "03190004BNS",
   "name": "STARFLY",
   "rating": {
     "gph": 572.5,
@@ -197,6 +198,5 @@
       8.59,
       9.38
     ]
-  },
-  "reference": "03190004BNS"
+  }
 }

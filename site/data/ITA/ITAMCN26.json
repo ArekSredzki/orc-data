@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAMCN26",
   "country": "ITA",
+  "reference": "03190004LPB",
   "name": "MACAONE",
   "rating": {
     "gph": 690.3,
@@ -197,6 +198,5 @@
       7.1,
       7.74
     ]
-  },
-  "reference": "03190004LPB"
+  }
 }

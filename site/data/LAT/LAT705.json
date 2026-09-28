@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT705",
   "country": "LAT",
+  "reference": "04960004T0R",
   "name": "Gorilla",
   "rating": {
     "gph": 587.3,
@@ -197,6 +198,5 @@
       8.21,
       9.7
     ]
-  },
-  "reference": "04960004T0R"
+  }
 }

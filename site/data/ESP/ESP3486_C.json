@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3486_C",
   "country": "ESP",
+  "reference": "03510004LOA",
   "name": "CRYSEL 3",
   "rating": {
     "gph": 653.4,
@@ -197,6 +198,5 @@
       7.91,
       8.6
     ]
-  },
-  "reference": "03510004LOA"
+  }
 }

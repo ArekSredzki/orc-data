@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA2587B",
   "country": "FRA",
+  "reference": "04330004F6K",
   "name": "XCEPTION",
   "rating": {
     "gph": 675.3,
@@ -197,6 +198,5 @@
       7.71,
       8.56
     ]
-  },
-  "reference": "04330004F6K"
+  }
 }

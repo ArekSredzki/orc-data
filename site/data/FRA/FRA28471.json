@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA28471",
   "country": "FRA",
+  "reference": "04330004ICO",
   "name": "JSQUARRED",
   "rating": {
     "gph": 614.8,
@@ -197,6 +198,5 @@
       8.01,
       10.03
     ]
-  },
-  "reference": "04330004ICO"
+  }
 }

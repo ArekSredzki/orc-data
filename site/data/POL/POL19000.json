@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL19000",
   "country": "POL",
+  "reference": "04410004WEI",
   "name": "VATAHA",
   "rating": {
     "gph": 635.4,
@@ -197,6 +198,5 @@
       7.59,
       8.27
     ]
-  },
-  "reference": "04410004WEI"
+  }
 }

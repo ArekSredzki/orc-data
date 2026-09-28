@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/52520",
   "country": "USA",
+  "reference": "04560004UN8",
   "name": "Uzivo",
   "rating": {
     "gph": 586.6,
@@ -197,6 +198,5 @@
       8.06,
       9.61
     ]
-  },
-  "reference": "04560004UN8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA38934",
   "country": "FRA",
+  "reference": "04330004IJF",
   "name": "GALUDAJO II",
   "rating": {
     "gph": 690.3,
@@ -197,6 +198,5 @@
       7.32,
       8.02
     ]
-  },
-  "reference": "04330004IJF"
+  }
 }

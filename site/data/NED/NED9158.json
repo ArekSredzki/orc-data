@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9158",
   "country": "NED",
+  "reference": "04310004K2T",
   "name": "MaXimum",
   "rating": {
     "gph": 634.4,
@@ -197,6 +198,5 @@
       7.85,
       8.95
     ]
-  },
-  "reference": "04310004K2T"
+  }
 }

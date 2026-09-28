@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17834",
   "country": "ITA",
+  "reference": "03190004IEQ",
   "name": "LUCY IN THE SKY",
   "rating": {
     "gph": 726.7,
@@ -197,6 +198,5 @@
       7.12,
       7.92
     ]
-  },
-  "reference": "03190004IEQ"
+  }
 }

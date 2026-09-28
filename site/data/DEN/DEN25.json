@@ -1,6 +1,7 @@
 {
   "sailnumber": "DEN/DEN25",
   "country": "DEN",
+  "reference": "03370004VDS",
   "name": "No Name",
   "rating": {
     "gph": 598.6,
@@ -197,6 +198,5 @@
       8.71,
       10.48
     ]
-  },
-  "reference": "03370004VDS"
+  }
 }

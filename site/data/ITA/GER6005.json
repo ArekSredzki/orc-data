@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GER6005",
   "country": "ITA",
+  "reference": "03190004OPI",
   "name": "MOVIDA-R",
   "rating": {
     "gph": 531.2,
@@ -197,6 +198,5 @@
       9.96,
       12.43
     ]
-  },
-  "reference": "03190004OPI"
+  }
 }

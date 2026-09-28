@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/Fin11903",
   "country": "FIN",
+  "reference": "04140004VJO",
   "name": "Taxfree",
   "rating": {
     "gph": 632.7,
@@ -197,6 +198,5 @@
       7.91,
       9.1
     ]
-  },
-  "reference": "04140004VJO"
+  }
 }

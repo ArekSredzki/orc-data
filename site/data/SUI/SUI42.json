@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI42",
   "country": "SUI",
+  "reference": "03080004M8F",
   "name": "KAILASH",
   "rating": {
     "gph": 626.3,
@@ -197,6 +198,5 @@
       10.67,
       13.54
     ]
-  },
-  "reference": "03080004M8F"
+  }
 }

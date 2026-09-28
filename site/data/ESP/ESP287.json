@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP287",
   "country": "ESP",
+  "reference": "03510004C0P",
   "name": "IA ORANA",
   "rating": {
     "gph": 627.7,
@@ -197,6 +198,5 @@
       7.99,
       8.86
     ]
-  },
-  "reference": "03510004C0P"
+  }
 }

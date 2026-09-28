@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49320",
   "country": "GRE",
+  "reference": "03420004ITP",
   "name": "SAGITTARIUS",
   "rating": {
     "gph": 752.7,
@@ -197,6 +198,5 @@
       6.79,
       7.34
     ]
-  },
-  "reference": "03420004ITP"
+  }
 }

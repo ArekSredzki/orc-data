@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GER22",
   "country": "ESP",
+  "reference": "03510004VWP",
   "name": "MEERBLICK",
   "rating": {
     "gph": 556.7,
@@ -197,6 +198,5 @@
       11.24,
       14.41
     ]
-  },
-  "reference": "03510004VWP"
+  }
 }

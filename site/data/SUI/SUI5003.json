@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI5003",
   "country": "SUI",
+  "reference": "03080004JAA",
   "name": "Lifgun",
   "rating": {
     "gph": 550.1,
@@ -197,6 +198,5 @@
       8.71,
       9.53
     ]
-  },
-  "reference": "03080004JAA"
+  }
 }

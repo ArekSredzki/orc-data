@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP985",
   "country": "ESP",
+  "reference": "03510004S67",
   "name": "DAVINCY",
   "rating": {
     "gph": 694.4,
@@ -197,6 +198,5 @@
       7.26,
       8.87
     ]
-  },
-  "reference": "03510004S67"
+  }
 }

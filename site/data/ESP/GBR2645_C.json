@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GBR2645_C",
   "country": "ESP",
+  "reference": "03510004EU3",
   "name": "ALICE",
   "rating": {
     "gph": 579.4,
@@ -197,6 +198,5 @@
       8.14,
       8.78
     ]
-  },
-  "reference": "03510004EU3"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE751",
   "country": "GRE",
+  "reference": "03420004ME8",
   "name": "HELLENIC POLICE  EA5",
   "rating": {
     "gph": 734.4,
@@ -197,6 +198,5 @@
       6.82,
       7.68
     ]
-  },
-  "reference": "03420004ME8"
+  }
 }

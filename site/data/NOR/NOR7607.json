@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR7607",
   "country": "NOR",
+  "reference": "03440004IH0",
   "name": "Lucille",
   "rating": {
     "gph": 686.9,
@@ -197,6 +198,5 @@
       7.26,
       7.87
     ]
-  },
-  "reference": "03440004IH0"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "SLO/SLO244",
   "country": "SLO",
+  "reference": "03090004OHC",
   "name": "\u010clanica",
   "rating": {
     "gph": 609.3,
@@ -197,6 +198,5 @@
       8.14,
       9.08
     ]
-  },
-  "reference": "03090004OHC"
+  }
 }

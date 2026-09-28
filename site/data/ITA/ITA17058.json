@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17058",
   "country": "ITA",
+  "reference": "03190004CBF",
   "name": "PARMAVELA SHIDE",
   "rating": {
     "gph": 631.4,
@@ -197,6 +198,5 @@
       7.82,
       8.52
     ]
-  },
-  "reference": "03190004CBF"
+  }
 }

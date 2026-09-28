@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4279_C",
   "country": "ESP",
+  "reference": "03510004VHH",
   "name": "ANAMAR SEIS",
   "rating": {
     "gph": 746.2,
@@ -197,6 +198,5 @@
       6.84,
       7.39
     ]
-  },
-  "reference": "03510004VHH"
+  }
 }

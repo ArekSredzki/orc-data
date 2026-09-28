@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16700",
   "country": "NOR",
+  "reference": "03440004SFO",
   "name": "Fine Line",
   "rating": {
     "gph": 633.4,
@@ -197,6 +198,5 @@
       8.2,
       10.72
     ]
-  },
-  "reference": "03440004SFO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA56443",
   "country": "USA",
+  "reference": "04560004FFD",
   "name": "MicroDarcy",
   "rating": {
     "gph": 553.9,
@@ -197,6 +198,5 @@
       9.3,
       11.56
     ]
-  },
-  "reference": "04560004FFD"
+  }
 }

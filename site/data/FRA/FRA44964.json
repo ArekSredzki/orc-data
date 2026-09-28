@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA44964",
   "country": "FRA",
+  "reference": "04330004JB6",
   "name": "EXELAN",
   "rating": {
     "gph": 593.8,
@@ -197,6 +198,5 @@
       8.45,
       9.26
     ]
-  },
-  "reference": "04330004JB6"
+  }
 }

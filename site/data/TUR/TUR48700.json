@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR48700",
   "country": "TUR",
+  "reference": "04590004855",
   "name": "AVOLARE",
   "rating": {
     "gph": 597.3,
@@ -197,6 +198,5 @@
       8.3,
       9.11
     ]
-  },
-  "reference": "04590004855"
+  }
 }

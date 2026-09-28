@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17600",
   "country": "ITA",
+  "reference": "03190004KSQ",
   "name": "BLOOM",
   "rating": {
     "gph": 540.5,
@@ -197,6 +198,5 @@
       8.68,
       9.77
     ]
-  },
-  "reference": "03190004KSQ"
+  }
 }

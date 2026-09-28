@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA978",
   "country": "ITA",
+  "reference": "03190004PEC",
   "name": "SHAULA",
   "rating": {
     "gph": 598.6,
@@ -197,6 +198,5 @@
       8.33,
       9.15
     ]
-  },
-  "reference": "03190004PEC"
+  }
 }

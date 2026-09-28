@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7743",
   "country": "ESP",
+  "reference": "03510004BDF",
   "name": "NO TE NOM",
   "rating": {
     "gph": 654.8,
@@ -197,6 +198,5 @@
       7.64,
       8.28
     ]
-  },
-  "reference": "03510004BDF"
+  }
 }

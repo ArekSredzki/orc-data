@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17210",
   "country": "ITA",
+  "reference": "03190004I8F",
   "name": "MY XANAX",
   "rating": {
     "gph": 557.7,
@@ -197,6 +198,5 @@
       8.54,
       9.66
     ]
-  },
-  "reference": "03190004I8F"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR4454",
   "country": "NOR",
+  "reference": "03440004P8O",
   "name": "Midnight X",
   "rating": {
     "gph": 682.1,
@@ -197,6 +198,5 @@
       7.52,
       8.46
     ]
-  },
-  "reference": "03440004P8O"
+  }
 }

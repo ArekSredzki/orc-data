@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN2039",
   "country": "FIN",
+  "reference": "04140004O39",
   "name": "Pikku Myy",
   "rating": {
     "gph": 743.3,
@@ -197,6 +198,5 @@
       7.02,
       7.76
     ]
-  },
-  "reference": "04140004O39"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2344",
   "country": "BRA",
+  "reference": "04420004B2T",
   "name": "JAZZ",
   "rating": {
     "gph": 630.8,
@@ -197,6 +198,5 @@
       7.98,
       8.69
     ]
-  },
-  "reference": "04420004B2T"
+  }
 }

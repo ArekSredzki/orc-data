@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1977",
   "country": "TUR",
+  "reference": "04590004K8M",
   "name": "CHEESE VIII",
   "rating": {
     "gph": 570.4,
@@ -197,6 +198,5 @@
       8.32,
       9.96
     ]
-  },
-  "reference": "04590004K8M"
+  }
 }

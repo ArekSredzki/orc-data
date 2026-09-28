@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU9442",
   "country": "ROU",
+  "reference": "05040004L87",
   "name": "CODE ZERO",
   "rating": {
     "gph": 562.4,
@@ -197,6 +198,5 @@
       8.72,
       9.76
     ]
-  },
-  "reference": "05040004L87"
+  }
 }

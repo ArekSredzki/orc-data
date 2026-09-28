@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3414_C",
   "country": "ESP",
+  "reference": "03510004FI6",
   "name": "B\u00d3REAS",
   "rating": {
     "gph": 647.6,
@@ -197,6 +198,5 @@
       7.39,
       7.97
     ]
-  },
-  "reference": "03510004FI6"
+  }
 }

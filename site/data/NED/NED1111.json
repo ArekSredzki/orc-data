@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED1111",
   "country": "NED",
+  "reference": "04310004QWN",
   "name": "Ibex",
   "rating": {
     "gph": 571.4,
@@ -197,6 +198,5 @@
       8.65,
       10.78
     ]
-  },
-  "reference": "04310004QWN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6190",
   "country": "GER",
+  "reference": "03520004I22",
   "name": "TIMANTTI",
   "rating": {
     "gph": 592.4,
@@ -197,6 +198,5 @@
       8.09,
       9.99
     ]
-  },
-  "reference": "03520004I22"
+  }
 }

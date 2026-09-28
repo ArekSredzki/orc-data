@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16342",
   "country": "ITA",
+  "reference": "03190004HA0",
   "name": "HERMOSA",
   "rating": {
     "gph": 602.5,
@@ -197,6 +198,5 @@
       8.09,
       8.88
     ]
-  },
-  "reference": "03190004HA0"
+  }
 }

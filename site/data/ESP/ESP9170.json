@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9170",
   "country": "ESP",
+  "reference": "03510004VOH",
   "name": "TRAVESIO",
   "rating": {
     "gph": 685.7,
@@ -197,6 +198,5 @@
       7.43,
       8.21
     ]
-  },
-  "reference": "03510004VOH"
+  }
 }

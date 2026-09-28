@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE12111",
   "country": "GRE",
+  "reference": "03420004NKW",
   "name": "OKEANOS II",
   "rating": {
     "gph": 590.3,
@@ -197,6 +198,5 @@
       8.5,
       9.41
     ]
-  },
-  "reference": "03420004NKW"
+  }
 }

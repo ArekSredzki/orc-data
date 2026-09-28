@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61630",
   "country": "USA",
+  "reference": "04560004THE",
   "name": "ANDARE",
   "rating": {
     "gph": 563.8,
@@ -197,6 +198,5 @@
       8.56,
       9.28
     ]
-  },
-  "reference": "04560004THE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11965",
   "country": "NOR",
+  "reference": "03440004M5H",
   "name": "Sk\u00e5rungen",
   "rating": {
     "gph": 684.8,
@@ -197,6 +198,5 @@
       7.22,
       7.86
     ]
-  },
-  "reference": "03440004M5H"
+  }
 }

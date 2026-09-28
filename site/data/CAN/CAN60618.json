@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN60618",
   "country": "CAN",
+  "reference": "03430004HFW",
   "name": "Rogues",
   "rating": {
     "gph": 553.6,
@@ -197,6 +198,5 @@
       8.55,
       9.67
     ]
-  },
-  "reference": "03430004HFW"
+  }
 }

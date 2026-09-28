@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GBR188N",
   "country": "ITA",
+  "reference": "03190004P3S",
   "name": "DJANGO JP",
   "rating": {
     "gph": 468.6,
@@ -197,6 +198,5 @@
       12.94,
       16.41
     ]
-  },
-  "reference": "03190004P3S"
+  }
 }

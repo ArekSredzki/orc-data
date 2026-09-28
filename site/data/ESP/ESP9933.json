@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9933",
   "country": "ESP",
+  "reference": "03510004J38",
   "name": "PLIS-PLAY",
   "rating": {
     "gph": 428.2,
@@ -197,6 +198,5 @@
       11.37,
       13.18
     ]
-  },
-  "reference": "03510004J38"
+  }
 }

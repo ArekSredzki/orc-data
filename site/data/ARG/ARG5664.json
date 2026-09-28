@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5664",
   "country": "ARG",
+  "reference": "03880004N0V",
   "name": "BRIBON",
   "rating": {
     "gph": 600.0,
@@ -197,6 +198,5 @@
       8.35,
       9.06
     ]
-  },
-  "reference": "03880004N0V"
+  }
 }

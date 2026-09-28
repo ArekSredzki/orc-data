@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA43944",
   "country": "FRA",
+  "reference": "04330004HLM",
   "name": "VENT DES SABLES",
   "rating": {
     "gph": 628.7,
@@ -197,6 +198,5 @@
       8.12,
       9.25
     ]
-  },
-  "reference": "04330004HLM"
+  }
 }

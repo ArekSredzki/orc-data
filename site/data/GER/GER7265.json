@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7265",
   "country": "GER",
+  "reference": "03520004NNM",
   "name": "LOEWE VON BREMEN",
   "rating": {
     "gph": 595.6,
@@ -197,6 +198,5 @@
       8.19,
       10.33
     ]
-  },
-  "reference": "03520004NNM"
+  }
 }

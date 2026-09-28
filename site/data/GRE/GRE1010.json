@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1010",
   "country": "GRE",
+  "reference": "03420004OWD",
   "name": "IASON",
   "rating": {
     "gph": 695.5,
@@ -197,6 +198,5 @@
       7.65,
       8.3
     ]
-  },
-  "reference": "03420004OWD"
+  }
 }

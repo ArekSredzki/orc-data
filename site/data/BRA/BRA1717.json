@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA1717",
   "country": "BRA",
+  "reference": "0442000489F",
   "name": "Duplo 17",
   "rating": {
     "gph": 637.1,
@@ -197,6 +198,5 @@
       7.98,
       8.94
     ]
-  },
-  "reference": "0442000489F"
+  }
 }

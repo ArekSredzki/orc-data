@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/ITA25382",
   "country": "POR",
+  "reference": "03530004I9D",
   "name": "GABBIANO",
   "rating": {
     "gph": 663.9,
@@ -197,6 +198,5 @@
       7.85,
       10.71
     ]
-  },
-  "reference": "03530004I9D"
+  }
 }

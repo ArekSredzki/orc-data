@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5685",
   "country": "ESP",
+  "reference": "03510004BTM",
   "name": "MARINA SEIS",
   "rating": {
     "gph": 677.9,
@@ -197,6 +198,5 @@
       7.52,
       8.29
     ]
-  },
-  "reference": "03510004BTM"
+  }
 }

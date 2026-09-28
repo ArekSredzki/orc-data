@@ -1,6 +1,7 @@
 {
   "sailnumber": "SLO/SLO1050",
   "country": "SLO",
+  "reference": "03090004LF9",
   "name": "Pogaze",
   "rating": {
     "gph": 585.8,
@@ -197,6 +198,5 @@
       9.45,
       11.9
     ]
-  },
-  "reference": "03090004LF9"
+  }
 }

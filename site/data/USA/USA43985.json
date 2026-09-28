@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA43985",
   "country": "USA",
+  "reference": "04560004QV5",
   "name": "PEACEMAKER",
   "rating": {
     "gph": 639.3,
@@ -197,6 +198,5 @@
       7.57,
       8.37
     ]
-  },
-  "reference": "04560004QV5"
+  }
 }

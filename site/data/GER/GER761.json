@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER761",
   "country": "GER",
+  "reference": "03520004I2E",
   "name": "HANS UHL",
   "rating": {
     "gph": 698.3,
@@ -197,6 +198,5 @@
       7.59,
       8.28
     ]
-  },
-  "reference": "03520004I2E"
+  }
 }

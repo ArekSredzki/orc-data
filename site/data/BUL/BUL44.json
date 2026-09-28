@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL44",
   "country": "BUL",
+  "reference": "03850004PQC",
   "name": "Tilly",
   "rating": {
     "gph": 683.3,
@@ -197,6 +198,5 @@
       7.14,
       7.66
     ]
-  },
-  "reference": "03850004PQC"
+  }
 }

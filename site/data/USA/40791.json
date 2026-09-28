@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/40791",
   "country": "USA",
+  "reference": "04560004VFE",
   "name": "OPTIMA",
   "rating": {
     "gph": 668.6,
@@ -197,6 +198,5 @@
       7.43,
       8.18
     ]
-  },
-  "reference": "04560004VFE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2342",
   "country": "BRA",
+  "reference": "04420004SP1",
   "name": "BRAVO",
   "rating": {
     "gph": 660.5,
@@ -197,6 +198,5 @@
       7.52,
       8.22
     ]
-  },
-  "reference": "04420004SP1"
+  }
 }

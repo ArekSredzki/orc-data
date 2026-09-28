@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST789",
   "country": "EST",
+  "reference": "04340004QF8",
   "name": "Lohe Lu",
   "rating": {
     "gph": 754.4,
@@ -197,6 +198,5 @@
       6.55,
       7.1
     ]
-  },
-  "reference": "04340004QF8"
+  }
 }

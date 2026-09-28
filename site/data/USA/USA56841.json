@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA56841",
   "country": "USA",
+  "reference": "04560004H3C",
   "name": "BOLERO",
   "rating": {
     "gph": 686.2,
@@ -197,6 +198,5 @@
       7.23,
       7.87
     ]
-  },
-  "reference": "04560004H3C"
+  }
 }

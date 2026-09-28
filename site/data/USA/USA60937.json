@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60937",
   "country": "USA",
+  "reference": "04560004UNM",
   "name": "BLACK DIAMOND",
   "rating": {
     "gph": 548.3,
@@ -197,6 +198,5 @@
       10.14,
       12.69
     ]
-  },
-  "reference": "04560004UNM"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT464",
   "country": "LAT",
+  "reference": "04960004SI7",
   "name": "Must Be",
   "rating": {
     "gph": 592.7,
@@ -197,6 +198,5 @@
       8.24,
       9.1
     ]
-  },
-  "reference": "04960004SI7"
+  }
 }

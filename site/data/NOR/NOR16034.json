@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16034",
   "country": "NOR",
+  "reference": "03440004L3E",
   "name": "Eureka",
   "rating": {
     "gph": 614.9,
@@ -197,6 +198,5 @@
       8.05,
       10.2
     ]
-  },
-  "reference": "03440004L3E"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7065",
   "country": "ESP",
+  "reference": "03510004WB4",
   "name": "VERTIGO SAILING",
   "rating": {
     "gph": 644.4,
@@ -197,6 +198,5 @@
       7.81,
       8.47
     ]
-  },
-  "reference": "03510004WB4"
+  }
 }

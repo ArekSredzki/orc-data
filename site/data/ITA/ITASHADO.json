@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITASHADO",
   "country": "ITA",
+  "reference": "03190004S0N",
   "name": "S.H.A.D.O.",
   "rating": {
     "gph": 557.1,
@@ -197,6 +198,5 @@
       9.24,
       10.08
     ]
-  },
-  "reference": "03190004S0N"
+  }
 }

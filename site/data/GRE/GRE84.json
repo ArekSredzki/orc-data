@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE84",
   "country": "GRE",
+  "reference": "03420004LAK",
   "name": "APOLLON",
   "rating": {
     "gph": 655.9,
@@ -197,6 +198,5 @@
       7.61,
       8.27
     ]
-  },
-  "reference": "03420004LAK"
+  }
 }

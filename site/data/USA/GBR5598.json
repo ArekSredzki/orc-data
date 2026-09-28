@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/GBR5598",
   "country": "USA",
+  "reference": "04560004WWC",
   "name": "KENAI",
   "rating": {
     "gph": 569.1,
@@ -197,6 +198,5 @@
       8.28,
       8.97
     ]
-  },
-  "reference": "04560004WWC"
+  }
 }

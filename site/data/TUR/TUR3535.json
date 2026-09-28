@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR3535",
   "country": "TUR",
+  "reference": "04590004OLK",
   "name": "BLUE MOON",
   "rating": {
     "gph": 432.3,
@@ -197,6 +198,5 @@
       13.71,
       16.93
     ]
-  },
-  "reference": "04590004OLK"
+  }
 }

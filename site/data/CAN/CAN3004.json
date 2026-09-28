@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN3004",
   "country": "CAN",
+  "reference": "03430004TAO",
   "name": "Redrob",
   "rating": {
     "gph": 562.5,
@@ -197,6 +198,5 @@
       11.3,
       14.55
     ]
-  },
-  "reference": "03430004TAO"
+  }
 }

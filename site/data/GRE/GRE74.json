@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE74",
   "country": "GRE",
+  "reference": "03420004U61",
   "name": "BAXIMUS-OMPRELA",
   "rating": {
     "gph": 604.9,
@@ -197,6 +198,5 @@
       8.16,
       9.12
     ]
-  },
-  "reference": "03420004U61"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1222",
   "country": "GRE",
+  "reference": "03420004VJH",
   "name": "SOFI",
   "rating": {
     "gph": 654.8,
@@ -197,6 +198,5 @@
       7.33,
       7.91
     ]
-  },
-  "reference": "03420004VJH"
+  }
 }

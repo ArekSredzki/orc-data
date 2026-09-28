@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE3333",
   "country": "GRE",
+  "reference": "03420004RNV",
   "name": "AEGEANIX",
   "rating": {
     "gph": 686.7,
@@ -197,6 +198,5 @@
       7.4,
       8.14
     ]
-  },
-  "reference": "03420004RNV"
+  }
 }

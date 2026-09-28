@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53004",
   "country": "FRA",
+  "reference": "04330004OT1",
   "name": "VASCO",
   "rating": {
     "gph": 566.3,
@@ -197,6 +198,5 @@
       9.27,
       12.03
     ]
-  },
-  "reference": "04330004OT1"
+  }
 }

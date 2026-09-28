@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR709",
   "country": "ISR",
+  "reference": "043900048LP",
   "name": "\u05d2\u05dc 2",
   "rating": {
     "gph": 671.8,
@@ -197,6 +198,5 @@
       9.34,
       12.43
     ]
-  },
-  "reference": "043900048LP"
+  }
 }

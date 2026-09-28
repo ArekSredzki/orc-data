@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14870",
   "country": "ITA",
+  "reference": "03190004Q16",
   "name": "GARBIN II",
   "rating": {
     "gph": 584.1,
@@ -197,6 +198,5 @@
       8.37,
       9.19
     ]
-  },
-  "reference": "03190004Q16"
+  }
 }

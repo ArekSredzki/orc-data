@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11301",
   "country": "FIN",
+  "reference": "04140004RN6",
   "name": "Vivace",
   "rating": {
     "gph": 611.2,
@@ -197,6 +198,5 @@
       7.95,
       9.88
     ]
-  },
-  "reference": "04140004RN6"
+  }
 }

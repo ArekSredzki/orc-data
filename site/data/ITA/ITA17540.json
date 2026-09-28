@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17540",
   "country": "ITA",
+  "reference": "03190004RIV",
   "name": "PREFERISCO",
   "rating": {
     "gph": 557.1,
@@ -197,6 +198,5 @@
       8.88,
       10.63
     ]
-  },
-  "reference": "03190004RIV"
+  }
 }

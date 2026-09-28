@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18260",
   "country": "ITA",
+  "reference": "03190004UWV",
   "name": "DOLCE LUNA IV",
   "rating": {
     "gph": 588.6,
@@ -197,6 +198,5 @@
       8.02,
       8.68
     ]
-  },
-  "reference": "03190004UWV"
+  }
 }

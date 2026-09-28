@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA15063",
   "country": "FRA",
+  "reference": "04330004LQI",
   "name": "DEDALE",
   "rating": {
     "gph": 628.4,
@@ -197,6 +198,5 @@
       8.03,
       8.98
     ]
-  },
-  "reference": "04330004LQI"
+  }
 }

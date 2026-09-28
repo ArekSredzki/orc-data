@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9743",
   "country": "ESP",
+  "reference": "03510004TBF",
   "name": "SWAHILI",
   "rating": {
     "gph": 645.6,
@@ -197,6 +198,5 @@
       7.71,
       8.38
     ]
-  },
-  "reference": "03510004TBF"
+  }
 }

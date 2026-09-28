@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP42028",
   "country": "ESP",
+  "reference": "0351000489T",
   "name": "BLUE",
   "rating": {
     "gph": 536.1,
@@ -197,6 +198,5 @@
       9.07,
       11.16
     ]
-  },
-  "reference": "0351000489T"
+  }
 }

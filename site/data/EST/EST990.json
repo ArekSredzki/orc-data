@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST990",
   "country": "EST",
+  "reference": "04340004OE1",
   "name": "J\u00c4\u00c4LIND",
   "rating": {
     "gph": 634.8,
@@ -197,6 +198,5 @@
       7.92,
       9.3
     ]
-  },
-  "reference": "04340004OE1"
+  }
 }

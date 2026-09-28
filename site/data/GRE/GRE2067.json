@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2067",
   "country": "GRE",
+  "reference": "03420004T9N",
   "name": "ASTREA OF ATTICA",
   "rating": {
     "gph": 674.7,
@@ -197,6 +198,5 @@
       8.01,
       8.62
     ]
-  },
-  "reference": "03420004T9N"
+  }
 }

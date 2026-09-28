@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18105",
   "country": "ITA",
+  "reference": "03190004KM3",
   "name": "MARIA LUDOVICA",
   "rating": {
     "gph": 599.0,
@@ -197,6 +198,5 @@
       8.24,
       9.06
     ]
-  },
-  "reference": "03190004KM3"
+  }
 }

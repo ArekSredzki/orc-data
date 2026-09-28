@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA87J22",
   "country": "ITA",
+  "reference": "03190004KRB",
   "name": "MALANDRINA",
   "rating": {
     "gph": 739.8,
@@ -197,6 +198,5 @@
       7.05,
       9.53
     ]
-  },
-  "reference": "03190004KRB"
+  }
 }

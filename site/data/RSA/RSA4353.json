@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4353",
   "country": "RSA",
+  "reference": "04620004BW3",
   "name": "Stella",
   "rating": {
     "gph": 569.7,
@@ -197,6 +198,5 @@
       8.93,
       10.38
     ]
-  },
-  "reference": "04620004BW3"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "DEN/DEN05",
   "country": "DEN",
+  "reference": "03370004WPF",
   "name": "Quinta Light",
   "rating": {
     "gph": 487.7,
@@ -197,6 +198,5 @@
       12.65,
       16.05
     ]
-  },
-  "reference": "03370004WPF"
+  }
 }

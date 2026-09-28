@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7979",
   "country": "NED",
+  "reference": "04310004K0C",
   "name": "Tug of Wa(a)r",
   "rating": {
     "gph": 854.4,
@@ -197,6 +198,5 @@
       6.26,
       7.2
     ]
-  },
-  "reference": "04310004K0C"
+  }
 }

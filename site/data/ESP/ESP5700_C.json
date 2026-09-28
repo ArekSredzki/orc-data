@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5700_C",
   "country": "ESP",
+  "reference": "03510004MCL",
   "name": "TIVIC DOS",
   "rating": {
     "gph": 571.8,
@@ -197,6 +198,5 @@
       8.78,
       9.64
     ]
-  },
-  "reference": "03510004MCL"
+  }
 }

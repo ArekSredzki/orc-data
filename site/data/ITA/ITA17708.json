@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17708",
   "country": "ITA",
+  "reference": "03190004KRP",
   "name": "MARIA SOFIA",
   "rating": {
     "gph": 514.9,
@@ -197,6 +198,5 @@
       9.29,
       10.12
     ]
-  },
-  "reference": "03190004KRP"
+  }
 }

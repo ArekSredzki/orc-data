@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8826_C",
   "country": "ESP",
+  "reference": "03510004BKV",
   "name": "COMPAS 1",
   "rating": {
     "gph": 631.4,
@@ -197,6 +198,5 @@
       7.69,
       8.28
     ]
-  },
-  "reference": "03510004BKV"
+  }
 }

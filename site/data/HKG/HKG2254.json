@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG2254",
   "country": "HKG",
+  "reference": "03880004W5D",
   "name": "So SO",
   "rating": {
     "gph": 622.2,
@@ -197,6 +198,5 @@
       10.78,
       13.83
     ]
-  },
-  "reference": "03880004W5D"
+  }
 }

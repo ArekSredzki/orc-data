@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3560",
   "country": "RSA",
+  "reference": "04620004PD0",
   "name": "Sugarman",
   "rating": {
     "gph": 744.2,
@@ -197,6 +198,5 @@
       6.66,
       7.13
     ]
-  },
-  "reference": "04620004PD0"
+  }
 }

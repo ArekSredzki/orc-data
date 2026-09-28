@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4868_C",
   "country": "ESP",
+  "reference": "03510004BT8",
   "name": "ETREUS II",
   "rating": {
     "gph": 648.8,
@@ -197,6 +198,5 @@
       7.65,
       8.22
     ]
-  },
-  "reference": "03510004BT8"
+  }
 }

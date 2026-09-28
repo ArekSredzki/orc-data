@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13533",
   "country": "NOR",
+  "reference": "03440004ISL",
   "name": "Cruella deVil",
   "rating": {
     "gph": 631.3,
@@ -197,6 +198,5 @@
       8.08,
       9.29
     ]
-  },
-  "reference": "03440004ISL"
+  }
 }

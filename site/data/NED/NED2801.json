@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2801",
   "country": "NED",
+  "reference": "04310004JTC",
   "name": "The Reflex",
   "rating": {
     "gph": 632.7,
@@ -197,6 +198,5 @@
       8.45,
       11.04
     ]
-  },
-  "reference": "04310004JTC"
+  }
 }

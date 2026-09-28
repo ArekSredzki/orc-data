@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1608",
   "country": "GRE",
+  "reference": "03420004KC9",
   "name": "SKIRON",
   "rating": {
     "gph": 775.4,
@@ -197,6 +198,5 @@
       6.48,
       6.93
     ]
-  },
-  "reference": "03420004KC9"
+  }
 }

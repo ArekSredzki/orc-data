@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA22060",
   "country": "ITA",
+  "reference": "03190004F3N",
   "name": "FORMOSA",
   "rating": {
     "gph": 574.5,
@@ -197,6 +198,5 @@
       8.65,
       9.27
     ]
-  },
-  "reference": "03190004F3N"
+  }
 }

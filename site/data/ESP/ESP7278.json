@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7278",
   "country": "ESP",
+  "reference": "035100048A0",
   "name": "DRAGONFLY",
   "rating": {
     "gph": 621.3,
@@ -197,6 +198,5 @@
       8.03,
       8.81
     ]
-  },
-  "reference": "035100048A0"
+  }
 }

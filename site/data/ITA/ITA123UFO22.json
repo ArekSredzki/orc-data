@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA123UFO22",
   "country": "ITA",
+  "reference": "03190004WB7",
   "name": "LULU'",
   "rating": {
     "gph": 670.7,
@@ -197,6 +198,5 @@
       10.1,
       13.07
     ]
-  },
-  "reference": "03190004WB7"
+  }
 }

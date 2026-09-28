@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR40",
   "country": "ISR",
+  "reference": "0439000483U",
   "name": "Blanc Bleu",
   "rating": {
     "gph": 635.5,
@@ -197,6 +198,5 @@
       7.92,
       8.56
     ]
-  },
-  "reference": "0439000483U"
+  }
 }

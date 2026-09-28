@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT80",
   "country": "AUT",
+  "reference": "03210004LFQ",
   "name": "NO RELAX",
   "rating": {
     "gph": 592.9,
@@ -197,6 +198,5 @@
       8.27,
       9.23
     ]
-  },
-  "reference": "03210004LFQ"
+  }
 }

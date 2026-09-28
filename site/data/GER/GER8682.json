@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8682",
   "country": "GER",
+  "reference": "03520004I31",
   "name": "BALTO",
   "rating": {
     "gph": 618.8,
@@ -197,6 +198,5 @@
       8.95,
       11.83
     ]
-  },
-  "reference": "03520004I31"
+  }
 }

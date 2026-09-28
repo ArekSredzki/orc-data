@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14152",
   "country": "NOR",
+  "reference": "03440004M4H",
   "name": "Sagitta V",
   "rating": {
     "gph": 659.2,
@@ -197,6 +198,5 @@
       7.76,
       8.56
     ]
-  },
-  "reference": "03440004M4H"
+  }
 }

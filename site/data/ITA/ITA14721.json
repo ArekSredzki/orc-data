@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14721",
   "country": "ITA",
+  "reference": "03190004MA7",
   "name": "IMPAZZISCO",
   "rating": {
     "gph": 627.2,
@@ -197,6 +198,5 @@
       7.66,
       8.92
     ]
-  },
-  "reference": "03190004MA7"
+  }
 }

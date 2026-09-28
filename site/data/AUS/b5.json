@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/b5",
   "country": "AUS",
+  "reference": "03020004WVL",
   "name": "PENDING",
   "rating": {
     "gph": 629.1,
@@ -197,6 +198,5 @@
       7.84,
       8.65
     ]
-  },
-  "reference": "03020004WVL"
+  }
 }

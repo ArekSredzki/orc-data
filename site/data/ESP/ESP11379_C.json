@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11379_C",
   "country": "ESP",
+  "reference": "03510004WO1",
   "name": "LUCERO III",
   "rating": {
     "gph": 647.9,
@@ -197,6 +198,5 @@
       7.61,
       8.3
     ]
-  },
-  "reference": "03510004WO1"
+  }
 }

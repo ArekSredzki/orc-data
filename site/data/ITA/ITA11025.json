@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA11025",
   "country": "ITA",
+  "reference": "03190004I11",
   "name": "FIVETOSIX",
   "rating": {
     "gph": 640.4,
@@ -197,6 +198,5 @@
       7.75,
       8.56
     ]
-  },
-  "reference": "03190004I11"
+  }
 }

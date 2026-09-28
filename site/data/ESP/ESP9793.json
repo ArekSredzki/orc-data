@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9793",
   "country": "ESP",
+  "reference": "03510004W8F",
   "name": "MERDOCQ",
   "rating": {
     "gph": 483.9,
@@ -197,6 +198,5 @@
       11.04,
       12.93
     ]
-  },
-  "reference": "03510004W8F"
+  }
 }

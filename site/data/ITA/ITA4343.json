@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA4343",
   "country": "ITA",
+  "reference": "03190004ST8",
   "name": "FUTURA",
   "rating": {
     "gph": 571.5,
@@ -197,6 +198,5 @@
       8.14,
       8.82
     ]
-  },
-  "reference": "03190004ST8"
+  }
 }

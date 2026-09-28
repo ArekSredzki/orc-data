@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA29340",
   "country": "FRA",
+  "reference": "04330004KUW",
   "name": "CAVOK 4",
   "rating": {
     "gph": 635.7,
@@ -197,6 +198,5 @@
       7.99,
       9.24
     ]
-  },
-  "reference": "04330004KUW"
+  }
 }

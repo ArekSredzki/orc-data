@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED5955",
   "country": "NED",
+  "reference": "04310004JVM",
   "name": "TIJDGEEST",
   "rating": {
     "gph": 659.9,
@@ -197,6 +198,5 @@
       7.42,
       7.99
     ]
-  },
-  "reference": "04310004JVM"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/FRA83",
   "country": "ITA",
+  "reference": "03190004W03",
   "name": "LIBERTE'",
   "rating": {
     "gph": 499.2,
@@ -197,6 +198,5 @@
       11.92,
       15.42
     ]
-  },
-  "reference": "03190004W03"
+  }
 }

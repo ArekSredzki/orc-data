@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/SYD8",
   "country": "AUS",
+  "reference": "03020004T54",
   "name": "GRACE OF SYDNEY",
   "rating": {
     "gph": 560.6,
@@ -197,6 +198,5 @@
       8.32,
       8.87
     ]
-  },
-  "reference": "03020004T54"
+  }
 }

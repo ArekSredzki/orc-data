@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI333",
   "country": "SUI",
+  "reference": "03080004JA1",
   "name": "AQUARIUS",
   "rating": {
     "gph": 635.6,
@@ -197,6 +198,5 @@
       7.61,
       8.82
     ]
-  },
-  "reference": "03080004JA1"
+  }
 }

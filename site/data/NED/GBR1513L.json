@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/GBR1513L",
   "country": "NED",
+  "reference": "04310004JRW",
   "name": "Euphoria",
   "rating": {
     "gph": 560.7,
@@ -197,6 +198,5 @@
       8.78,
       9.66
     ]
-  },
-  "reference": "04310004JRW"
+  }
 }

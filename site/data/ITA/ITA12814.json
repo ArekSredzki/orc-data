@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12814",
   "country": "ITA",
+  "reference": "03190004PE7",
   "name": "ANIME SALVE",
   "rating": {
     "gph": 681.3,
@@ -197,6 +198,5 @@
       7.86,
       10.42
     ]
-  },
-  "reference": "03190004PE7"
+  }
 }

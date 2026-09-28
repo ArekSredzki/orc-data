@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1544",
   "country": "ESP",
+  "reference": "03510004RJK",
   "name": "MOLIBDE",
   "rating": {
     "gph": 553.6,
@@ -197,6 +198,5 @@
       8.96,
       10.82
     ]
-  },
-  "reference": "03510004RJK"
+  }
 }

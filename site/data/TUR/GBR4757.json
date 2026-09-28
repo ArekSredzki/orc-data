@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/GBR4757",
   "country": "TUR",
+  "reference": "04590004N1Q",
   "name": "JOLLY BABA",
   "rating": {
     "gph": 571.6,
@@ -197,6 +198,5 @@
       8.24,
       9.73
     ]
-  },
-  "reference": "04590004N1Q"
+  }
 }

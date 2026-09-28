@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/5700",
   "country": "AUS",
+  "reference": "03020004W8U",
   "name": "Flyin Scud",
   "rating": {
     "gph": 535.9,
@@ -197,6 +198,5 @@
       9.73,
       12.41
     ]
-  },
-  "reference": "03020004W8U"
+  }
 }

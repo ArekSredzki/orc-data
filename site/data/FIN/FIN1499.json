@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN1499",
   "country": "FIN",
+  "reference": "04140004HD1",
   "name": "Minnamari",
   "rating": {
     "gph": 680.6,
@@ -197,6 +198,5 @@
       7.3,
       7.94
     ]
-  },
-  "reference": "04140004HD1"
+  }
 }

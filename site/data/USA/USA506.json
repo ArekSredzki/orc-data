@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA506",
   "country": "USA",
+  "reference": "04560004HKE",
   "name": "Sauvage",
   "rating": {
     "gph": 597.0,
@@ -197,6 +198,5 @@
       8.28,
       8.97
     ]
-  },
-  "reference": "04560004HKE"
+  }
 }

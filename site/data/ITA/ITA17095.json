@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17095",
   "country": "ITA",
+  "reference": "03190004O08",
   "name": "GEBEL",
   "rating": {
     "gph": 632.5,
@@ -197,6 +198,5 @@
       7.6,
       8.15
     ]
-  },
-  "reference": "03190004O08"
+  }
 }

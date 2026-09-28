@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA14138",
   "country": "FRA",
+  "reference": "04330004H5H",
   "name": "OXALIDE",
   "rating": {
     "gph": 642.7,
@@ -197,6 +198,5 @@
       7.74,
       8.48
     ]
-  },
-  "reference": "04330004H5H"
+  }
 }

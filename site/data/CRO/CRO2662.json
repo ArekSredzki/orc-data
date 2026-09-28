@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2662",
   "country": "CRO",
+  "reference": "03620004N0O",
   "name": "My Way",
   "rating": {
     "gph": 658.6,
@@ -197,6 +198,5 @@
       8.36,
       11.45
     ]
-  },
-  "reference": "03620004N0O"
+  }
 }

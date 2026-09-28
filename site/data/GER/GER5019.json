@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5019",
   "country": "GER",
+  "reference": "04150004IUW",
   "name": "SUSEWIND",
   "rating": {
     "gph": 621.3,
@@ -197,6 +198,5 @@
       8.02,
       8.73
     ]
-  },
-  "reference": "04150004IUW"
+  }
 }

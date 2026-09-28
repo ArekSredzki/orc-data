@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11285",
   "country": "NOR",
+  "reference": "03440004NKN",
   "name": "Tuss\u00e5",
   "rating": {
     "gph": 652.1,
@@ -197,6 +198,5 @@
       7.89,
       8.65
     ]
-  },
-  "reference": "03440004NKN"
+  }
 }

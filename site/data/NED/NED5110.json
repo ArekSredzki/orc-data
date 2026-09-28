@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED5110",
   "country": "NED",
+  "reference": "04310004JV6",
   "name": "HOUSE OF HERMENS",
   "rating": {
     "gph": 595.6,
@@ -197,6 +198,5 @@
       8.12,
       8.7
     ]
-  },
-  "reference": "04310004JV6"
+  }
 }

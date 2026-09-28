@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAUPHR25",
   "country": "ITA",
+  "reference": "03190004SOL",
   "name": "EUPHORIA",
   "rating": {
     "gph": 638.6,
@@ -197,6 +198,5 @@
       7.39,
       8.07
     ]
-  },
-  "reference": "03190004SOL"
+  }
 }

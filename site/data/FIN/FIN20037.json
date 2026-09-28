@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN20037",
   "country": "FIN",
+  "reference": "04140004O67",
   "name": "Xperium",
   "rating": {
     "gph": 615.7,
@@ -197,6 +198,5 @@
       8.07,
       8.81
     ]
-  },
-  "reference": "04140004O67"
+  }
 }

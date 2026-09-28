@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE04",
   "country": "GRE",
+  "reference": "03420004U6D",
   "name": "MELITI",
   "rating": {
     "gph": 413.7,
@@ -197,6 +198,5 @@
       12.11,
       14.18
     ]
-  },
-  "reference": "03420004U6D"
+  }
 }

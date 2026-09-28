@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA167",
   "country": "USA",
+  "reference": "04560004QWV",
   "name": "SAVE THE SOUND",
   "rating": {
     "gph": 611.3,
@@ -197,6 +198,5 @@
       7.87,
       10.03
     ]
-  },
-  "reference": "04560004QWV"
+  }
 }

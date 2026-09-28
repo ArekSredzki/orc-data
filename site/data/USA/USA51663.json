@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51663",
   "country": "USA",
+  "reference": "04560004OJF",
   "name": "DIANTHUS",
   "rating": {
     "gph": 604.1,
@@ -197,6 +198,5 @@
       8.11,
       8.8
     ]
-  },
-  "reference": "04560004OJF"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14871",
   "country": "ITA",
+  "reference": "03190004FFV",
   "name": "CHEBOTTA",
   "rating": {
     "gph": 592.1,
@@ -197,6 +198,5 @@
       8.4,
       9.27
     ]
-  },
-  "reference": "03190004FFV"
+  }
 }

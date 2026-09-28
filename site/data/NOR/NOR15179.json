@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15179",
   "country": "NOR",
+  "reference": "03440004KEL",
   "name": "St\u00e6r",
   "rating": {
     "gph": 572.4,
@@ -197,6 +198,5 @@
       8.65,
       9.62
     ]
-  },
-  "reference": "03440004KEL"
+  }
 }

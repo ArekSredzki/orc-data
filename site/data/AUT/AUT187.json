@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT187",
   "country": "AUT",
+  "reference": "03210004PO5",
   "name": "Segelmanufactur",
   "rating": {
     "gph": 549.5,
@@ -197,6 +198,5 @@
       11.85,
       15.06
     ]
-  },
-  "reference": "03210004PO5"
+  }
 }

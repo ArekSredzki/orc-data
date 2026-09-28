@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10613_C",
   "country": "ESP",
+  "reference": "03510004LQ4",
   "name": "IMPALA",
   "rating": {
     "gph": 700.8,
@@ -197,6 +198,5 @@
       7.08,
       7.71
     ]
-  },
-  "reference": "03510004LQ4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR4041",
   "country": "TUR",
+  "reference": "04590004AUN",
   "name": "NAVITA II",
   "rating": {
     "gph": 607.6,
@@ -197,6 +198,5 @@
       7.78,
       8.36
     ]
-  },
-  "reference": "04590004AUN"
+  }
 }

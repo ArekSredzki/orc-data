@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14825",
   "country": "ITA",
+  "reference": "03190004C3K",
   "name": "MATAMANOA",
   "rating": {
     "gph": 559.1,
@@ -197,6 +198,5 @@
       8.84,
       9.68
     ]
-  },
-  "reference": "03190004C3K"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/5826",
   "country": "AUS",
+  "reference": "03020004VE5",
   "name": "Salt shaker",
   "rating": {
     "gph": 592.6,
@@ -197,6 +198,5 @@
       8.29,
       9.5
     ]
-  },
-  "reference": "03020004VE5"
+  }
 }

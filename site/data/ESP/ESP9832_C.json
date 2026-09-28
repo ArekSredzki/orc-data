@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9832_C",
   "country": "ESP",
+  "reference": "03510004WBW",
   "name": "MARRA",
   "rating": {
     "gph": 712.5,
@@ -197,6 +198,5 @@
       7.47,
       8.09
     ]
-  },
-  "reference": "03510004WBW"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITALNBR24",
   "country": "ITA",
+  "reference": "03190004CB6",
   "name": "LINEADOMBRA",
   "rating": {
     "gph": 724.7,
@@ -197,6 +198,5 @@
       7.21,
       7.86
     ]
-  },
-  "reference": "03190004CB6"
+  }
 }

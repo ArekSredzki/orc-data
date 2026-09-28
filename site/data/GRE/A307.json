@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/A307",
   "country": "GRE",
+  "reference": "03420004VD7",
   "name": "GARBIS",
   "rating": {
     "gph": 663.7,
@@ -197,6 +198,5 @@
       7.89,
       8.56
     ]
-  },
-  "reference": "03420004VD7"
+  }
 }

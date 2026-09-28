@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14549",
   "country": "ITA",
+  "reference": "03190004UKU",
   "name": "MADEJA",
   "rating": {
     "gph": 616.3,
@@ -197,6 +198,5 @@
       7.83,
       9.49
     ]
-  },
-  "reference": "03190004UKU"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16028",
   "country": "NOR",
+  "reference": "03440004RAQ",
   "name": "Ellevill",
   "rating": {
     "gph": 611.8,
@@ -197,6 +198,5 @@
       7.81,
       8.46
     ]
-  },
-  "reference": "03440004RAQ"
+  }
 }

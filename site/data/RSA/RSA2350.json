@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA2350",
   "country": "RSA",
+  "reference": "04620004864",
   "name": "Joie de Vie",
   "rating": {
     "gph": 708.9,
@@ -197,6 +198,5 @@
       7.03,
       7.49
     ]
-  },
-  "reference": "04620004864"
+  }
 }

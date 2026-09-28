@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1100",
   "country": "GRE",
+  "reference": "03420004HSO",
   "name": "IONIA",
   "rating": {
     "gph": 579.2,
@@ -197,6 +198,5 @@
       8.53,
       9.36
     ]
-  },
-  "reference": "03420004HSO"
+  }
 }

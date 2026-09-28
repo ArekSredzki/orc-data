@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9063",
   "country": "ESP",
+  "reference": "035100048J9",
   "name": "MARACAN\u00c1 I",
   "rating": {
     "gph": 655.0,
@@ -197,6 +198,5 @@
       7.63,
       8.26
     ]
-  },
-  "reference": "035100048J9"
+  }
 }

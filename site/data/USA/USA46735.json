@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA46735",
   "country": "USA",
+  "reference": "04560004U2I",
   "name": "NV",
   "rating": {
     "gph": 613.5,
@@ -197,6 +198,5 @@
       7.81,
       8.62
     ]
-  },
-  "reference": "04560004U2I"
+  }
 }

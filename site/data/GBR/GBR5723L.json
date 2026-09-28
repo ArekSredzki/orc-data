@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GBR5723L",
   "country": "GBR",
+  "reference": "03860004QAH",
   "name": "MATador II",
   "rating": {
     "gph": 589.8,
@@ -197,6 +198,5 @@
       8.29,
       10.37
     ]
-  },
-  "reference": "03860004QAH"
+  }
 }

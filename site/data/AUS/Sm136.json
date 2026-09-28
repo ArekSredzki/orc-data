@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm136",
   "country": "AUS",
+  "reference": "03020004VNN",
   "name": "RAGNAR",
   "rating": {
     "gph": 582.0,
@@ -197,6 +198,5 @@
       8.71,
       11.16
     ]
-  },
-  "reference": "03020004VNN"
+  }
 }

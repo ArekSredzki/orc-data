@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17012",
   "country": "ITA",
+  "reference": "03190004S89",
   "name": "VAMOLA'",
   "rating": {
     "gph": 607.9,
@@ -197,6 +198,5 @@
       7.87,
       8.53
     ]
-  },
-  "reference": "03190004S89"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS6530",
   "country": "AUS",
+  "reference": "03020004TNN",
   "name": "Indi",
   "rating": {
     "gph": 527.9,
@@ -197,6 +198,5 @@
       10.26,
       12.98
     ]
-  },
-  "reference": "03020004TNN"
+  }
 }

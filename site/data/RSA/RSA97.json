@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA97",
   "country": "RSA",
+  "reference": "04620004ROI",
   "name": "Bona Dia",
   "rating": {
     "gph": 766.5,
@@ -197,6 +198,5 @@
       6.78,
       7.3
     ]
-  },
-  "reference": "04620004ROI"
+  }
 }

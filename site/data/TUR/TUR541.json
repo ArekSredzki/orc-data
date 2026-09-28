@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR541",
   "country": "TUR",
+  "reference": "04590004M2F",
   "name": "NOX",
   "rating": {
     "gph": 608.9,
@@ -197,6 +198,5 @@
       7.92,
       10.15
     ]
-  },
-  "reference": "04590004M2F"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS8888",
   "country": "AUS",
+  "reference": "03020004W4C",
   "name": "Team Hollywood",
   "rating": {
     "gph": 470.4,
@@ -197,6 +198,5 @@
       12.84,
       16.03
     ]
-  },
-  "reference": "03020004W4C"
+  }
 }

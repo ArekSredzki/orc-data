@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5635_C",
   "country": "ESP",
+  "reference": "03510004BHE",
   "name": "esCERT",
   "rating": {
     "gph": 678.8,
@@ -197,6 +198,5 @@
       7.38,
       8.06
     ]
-  },
-  "reference": "03510004BHE"
+  }
 }

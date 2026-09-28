@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8293",
   "country": "GER",
+  "reference": "04150004QMH",
   "name": "ALMA ROBERTA 2",
   "rating": {
     "gph": 613.1,
@@ -197,6 +198,5 @@
       8.32,
       10.63
     ]
-  },
-  "reference": "04150004QMH"
+  }
 }

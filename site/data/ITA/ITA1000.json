@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1000",
   "country": "ITA",
+  "reference": "03190004NBH",
   "name": "BRAVA",
   "rating": {
     "gph": 519.6,
@@ -197,6 +198,5 @@
       9.58,
       11.36
     ]
-  },
-  "reference": "03190004NBH"
+  }
 }

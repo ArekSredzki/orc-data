@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/R18",
   "country": "AUS",
+  "reference": "03020004T4S",
   "name": "Laurelle",
   "rating": {
     "gph": 626.5,
@@ -197,6 +198,5 @@
       8.02,
       8.8
     ]
-  },
-  "reference": "03020004T4S"
+  }
 }

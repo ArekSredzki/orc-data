@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA6401",
   "country": "ITA",
+  "reference": "03190004KOI",
   "name": "LITHIAN",
   "rating": {
     "gph": 645.7,
@@ -197,6 +198,5 @@
       7.32,
       7.79
     ]
-  },
-  "reference": "03190004KOI"
+  }
 }

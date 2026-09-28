@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT262",
   "country": "LAT",
+  "reference": "04960004RNK",
   "name": "Flying Witch",
   "rating": {
     "gph": 670.2,
@@ -197,6 +198,5 @@
       7.04,
       7.61
     ]
-  },
-  "reference": "04960004RNK"
+  }
 }

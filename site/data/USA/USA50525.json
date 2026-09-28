@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA50525",
   "country": "USA",
+  "reference": "04560004ODJ",
   "name": "CIMARRON",
   "rating": {
     "gph": 617.3,
@@ -197,6 +198,5 @@
       7.67,
       8.73
     ]
-  },
-  "reference": "04560004ODJ"
+  }
 }

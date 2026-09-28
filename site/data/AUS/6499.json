@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/6499",
   "country": "AUS",
+  "reference": "03020004WTT",
   "name": "Supernova",
   "rating": {
     "gph": 595.8,
@@ -197,6 +198,5 @@
       8.32,
       9.38
     ]
-  },
-  "reference": "03020004WTT"
+  }
 }

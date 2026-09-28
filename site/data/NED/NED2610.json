@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2610",
   "country": "NED",
+  "reference": "04310004JT8",
   "name": "SOLUTION TOO",
   "rating": {
     "gph": 693.7,
@@ -197,6 +198,5 @@
       7.08,
       7.75
     ]
-  },
-  "reference": "04310004JT8"
+  }
 }

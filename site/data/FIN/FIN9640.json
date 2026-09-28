@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN9640",
   "country": "FIN",
+  "reference": "04140004W6O",
   "name": "Sun \u00e4itis",
   "rating": {
     "gph": 628.7,
@@ -197,6 +198,5 @@
       7.93,
       9.02
     ]
-  },
-  "reference": "04140004W6O"
+  }
 }

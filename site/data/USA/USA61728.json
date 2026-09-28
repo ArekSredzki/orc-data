@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61728",
   "country": "USA",
+  "reference": "04560004UWR",
   "name": "HARBINGER",
   "rating": {
     "gph": 651.5,
@@ -197,6 +198,5 @@
       7.13,
       7.63
     ]
-  },
-  "reference": "04560004UWR"
+  }
 }

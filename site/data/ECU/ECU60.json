@@ -1,6 +1,7 @@
 {
   "sailnumber": "ECU/ECU60",
   "country": "ECU",
+  "reference": "03880004H3S",
   "name": "TABASCO",
   "rating": {
     "gph": 615.0,
@@ -197,6 +198,5 @@
       8.06,
       8.77
     ]
-  },
-  "reference": "03880004H3S"
+  }
 }

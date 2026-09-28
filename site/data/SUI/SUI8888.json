@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI8888",
   "country": "SUI",
+  "reference": "03080004J8W",
   "name": "NASHORN",
   "rating": {
     "gph": 524.2,
@@ -197,6 +198,5 @@
       9.81,
       12.01
     ]
-  },
-  "reference": "03080004J8W"
+  }
 }

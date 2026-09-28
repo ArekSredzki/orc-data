@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11142",
   "country": "NOR",
+  "reference": "03440004OA0",
   "name": "Fast Born",
   "rating": {
     "gph": 616.3,
@@ -197,6 +198,5 @@
       8.26,
       9.4
     ]
-  },
-  "reference": "03440004OA0"
+  }
 }

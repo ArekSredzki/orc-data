@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2620",
   "country": "BRA",
+  "reference": "04420004VET",
   "name": "BOTO V",
   "rating": {
     "gph": 528.1,
@@ -197,6 +198,5 @@
       9.38,
       10.75
     ]
-  },
-  "reference": "04420004VET"
+  }
 }

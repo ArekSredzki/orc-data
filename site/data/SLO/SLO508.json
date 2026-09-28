@@ -1,6 +1,7 @@
 {
   "sailnumber": "SLO/SLO508",
   "country": "SLO",
+  "reference": "03090004IC0",
   "name": "Jagoda",
   "rating": {
     "gph": 606.8,
@@ -197,6 +198,5 @@
       12.04,
       15.18
     ]
-  },
-  "reference": "03090004IC0"
+  }
 }

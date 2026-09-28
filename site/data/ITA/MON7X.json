@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/MON7X",
   "country": "ITA",
+  "reference": "03190004OOD",
   "name": "MYZUNA",
   "rating": {
     "gph": 549.5,
@@ -197,6 +198,5 @@
       8.53,
       9.71
     ]
-  },
-  "reference": "03190004OOD"
+  }
 }

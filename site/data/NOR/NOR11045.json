@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11045",
   "country": "NOR",
+  "reference": "03440004OI2",
   "name": "Espresso",
   "rating": {
     "gph": 623.9,
@@ -197,6 +198,5 @@
       8.1,
       8.82
     ]
-  },
-  "reference": "03440004OI2"
+  }
 }

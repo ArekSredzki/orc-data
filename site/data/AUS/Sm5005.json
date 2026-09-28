@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm5005",
   "country": "AUS",
+  "reference": "03020004V49",
   "name": "SHIMMER",
   "rating": {
     "gph": 559.3,
@@ -197,6 +198,5 @@
       8.59,
       9.25
     ]
-  },
-  "reference": "03020004V49"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ECU/ECU002",
   "country": "ECU",
+  "reference": "03880004H3N",
   "name": "ALEGATO III",
   "rating": {
     "gph": 609.4,
@@ -197,6 +198,5 @@
       8.05,
       8.83
     ]
-  },
-  "reference": "03880004H3N"
+  }
 }

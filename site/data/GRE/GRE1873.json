@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1873",
   "country": "GRE",
+  "reference": "03420004TAM",
   "name": "CAPTAIN JIM",
   "rating": {
     "gph": 698.0,
@@ -197,6 +198,5 @@
       7.17,
       7.79
     ]
-  },
-  "reference": "03420004TAM"
+  }
 }

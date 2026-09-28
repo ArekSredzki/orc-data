@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8331",
   "country": "GER",
+  "reference": "03520004I2R",
   "name": "HOTTE",
   "rating": {
     "gph": 528.2,
@@ -197,6 +198,5 @@
       9.65,
       12.19
     ]
-  },
-  "reference": "03520004I2R"
+  }
 }

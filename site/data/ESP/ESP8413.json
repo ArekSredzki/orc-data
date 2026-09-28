@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8413",
   "country": "ESP",
+  "reference": "03510004UW9",
   "name": "PAJUELIN XIII BENIDORM",
   "rating": {
     "gph": 617.6,
@@ -197,6 +198,5 @@
       8.07,
       8.83
     ]
-  },
-  "reference": "03510004UW9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR6263",
   "country": "NOR",
+  "reference": "03440004LL2",
   "name": "Late",
   "rating": {
     "gph": 682.8,
@@ -197,6 +198,5 @@
       7.26,
       7.95
     ]
-  },
-  "reference": "03440004LL2"
+  }
 }

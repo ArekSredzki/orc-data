@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1327",
   "country": "GRE",
+  "reference": "03420004IMQ",
   "name": "KORONI II",
   "rating": {
     "gph": 707.4,
@@ -197,6 +198,5 @@
       7.16,
       7.73
     ]
-  },
-  "reference": "03420004IMQ"
+  }
 }

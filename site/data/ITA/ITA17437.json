@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17437",
   "country": "ITA",
+  "reference": "03190004UNH",
   "name": "REWIND",
   "rating": {
     "gph": 558.0,
@@ -197,6 +198,5 @@
       8.53,
       9.23
     ]
-  },
-  "reference": "03190004UNH"
+  }
 }

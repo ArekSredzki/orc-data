@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN5591",
   "country": "FIN",
+  "reference": "04140004P6K",
   "name": "Accelerando",
   "rating": {
     "gph": 684.2,
@@ -197,6 +198,5 @@
       7.28,
       7.97
     ]
-  },
-  "reference": "04140004P6K"
+  }
 }

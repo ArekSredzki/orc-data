@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16033",
   "country": "ITA",
+  "reference": "03190004HMS",
   "name": "NON SOLO CIURMA",
   "rating": {
     "gph": 602.2,
@@ -197,6 +198,5 @@
       8.26,
       9.07
     ]
-  },
-  "reference": "03190004HMS"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8244",
   "country": "NED",
+  "reference": "04310004WB5",
   "name": "Jalla!Jalla!",
   "rating": {
     "gph": 614.1,
@@ -197,6 +198,5 @@
       7.97,
       9.91
     ]
-  },
-  "reference": "04310004WB5"
+  }
 }

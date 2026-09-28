@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13403",
   "country": "ITA",
+  "reference": "03190004K5N",
   "name": "ATENA",
   "rating": {
     "gph": 586.7,
@@ -197,6 +198,5 @@
       7.82,
       8.51
     ]
-  },
-  "reference": "03190004K5N"
+  }
 }

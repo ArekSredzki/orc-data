@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/BSN26",
   "country": "ITA",
+  "reference": "03190004UND",
   "name": "BESUN",
   "rating": {
     "gph": 630.8,
@@ -197,6 +198,5 @@
       8.52,
       11.25
     ]
-  },
-  "reference": "03190004UND"
+  }
 }

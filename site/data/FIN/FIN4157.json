@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN4157",
   "country": "FIN",
+  "reference": "04140004S6R",
   "name": "Slender",
   "rating": {
     "gph": 738.5,
@@ -197,6 +198,5 @@
       6.67,
       7.24
     ]
-  },
-  "reference": "04140004S6R"
+  }
 }

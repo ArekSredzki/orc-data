@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1153",
   "country": "GRE",
+  "reference": "03420004PTP",
   "name": "BLUE LINE",
   "rating": {
     "gph": 635.4,
@@ -197,6 +198,5 @@
       7.99,
       8.76
     ]
-  },
-  "reference": "03420004PTP"
+  }
 }

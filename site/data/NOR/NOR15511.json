@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15511",
   "country": "NOR",
+  "reference": "03440004PS2",
   "name": "Pernille",
   "rating": {
     "gph": 620.0,
@@ -197,6 +198,5 @@
       7.78,
       8.4
     ]
-  },
-  "reference": "03440004PS2"
+  }
 }

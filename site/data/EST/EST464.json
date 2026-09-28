@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST464",
   "country": "EST",
+  "reference": "04340004UPJ",
   "name": "KATARINA JEE",
   "rating": {
     "gph": 654.1,
@@ -197,6 +198,5 @@
       7.39,
       8.02
     ]
-  },
-  "reference": "04340004UPJ"
+  }
 }

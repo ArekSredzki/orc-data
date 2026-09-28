@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/GBR1796",
   "country": "POR",
+  "reference": "03530004O1H",
   "name": "SEITA",
   "rating": {
     "gph": 634.8,
@@ -197,6 +198,5 @@
       9.83,
       13.03
     ]
-  },
-  "reference": "03530004O1H"
+  }
 }

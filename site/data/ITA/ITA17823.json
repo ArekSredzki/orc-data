@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17823",
   "country": "ITA",
+  "reference": "03190004F49",
   "name": "ARIEL",
   "rating": {
     "gph": 622.9,
@@ -197,6 +198,5 @@
       7.63,
       8.94
     ]
-  },
-  "reference": "03190004F49"
+  }
 }

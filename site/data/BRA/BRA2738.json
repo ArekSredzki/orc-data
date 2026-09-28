@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2738",
   "country": "BRA",
+  "reference": "04420004R4N",
   "name": "Mr. Pilot",
   "rating": {
     "gph": 635.5,
@@ -197,6 +198,5 @@
       9.66,
       12.85
     ]
-  },
-  "reference": "04420004R4N"
+  }
 }

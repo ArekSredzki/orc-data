@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI329",
   "country": "SUI",
+  "reference": "03080004OEA",
   "name": "SAUDADE",
   "rating": {
     "gph": 690.8,
@@ -197,6 +198,5 @@
       7.29,
       9.15
     ]
-  },
-  "reference": "03080004OEA"
+  }
 }

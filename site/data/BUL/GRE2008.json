@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/GRE2008",
   "country": "BUL",
+  "reference": "03850004LKK",
   "name": "NORTH WIND I",
   "rating": {
     "gph": 620.9,
@@ -197,6 +198,5 @@
       7.71,
       8.52
     ]
-  },
-  "reference": "03850004LKK"
+  }
 }

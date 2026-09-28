@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14926",
   "country": "ITA",
+  "reference": "03190004L8T",
   "name": "CECILIA",
   "rating": {
     "gph": 649.8,
@@ -197,6 +198,5 @@
       7.58,
       8.21
     ]
-  },
-  "reference": "03190004L8T"
+  }
 }

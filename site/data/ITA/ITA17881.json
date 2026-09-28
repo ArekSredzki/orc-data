@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17881",
   "country": "ITA",
+  "reference": "03190004QCI",
   "name": "CIOTTOLA",
   "rating": {
     "gph": 643.4,
@@ -197,6 +198,5 @@
       7.49,
       8.24
     ]
-  },
-  "reference": "03190004QCI"
+  }
 }

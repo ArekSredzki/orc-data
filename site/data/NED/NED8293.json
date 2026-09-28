@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8293",
   "country": "NED",
+  "reference": "04310004K11",
   "name": "Adios",
   "rating": {
     "gph": 625.1,
@@ -197,6 +198,5 @@
       7.96,
       8.66
     ]
-  },
-  "reference": "04310004K11"
+  }
 }

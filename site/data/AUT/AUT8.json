@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT8",
   "country": "AUT",
+  "reference": "03210004PNU",
   "name": "Get Lucky",
   "rating": {
     "gph": 587.8,
@@ -197,6 +198,5 @@
       8.49,
       9.26
     ]
-  },
-  "reference": "03210004PNU"
+  }
 }

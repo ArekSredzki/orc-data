@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA54375",
   "country": "USA",
+  "reference": "04560004TQF",
   "name": "LADY K",
   "rating": {
     "gph": 557.0,
@@ -197,6 +198,5 @@
       8.66,
       10.27
     ]
-  },
-  "reference": "04560004TQF"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18091",
   "country": "ITA",
+  "reference": "03190004SOK",
   "name": "SHANTI",
   "rating": {
     "gph": 490.7,
@@ -197,6 +198,5 @@
       9.59,
       10.9
     ]
-  },
-  "reference": "03190004SOK"
+  }
 }

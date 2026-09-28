@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1784",
   "country": "ESP",
+  "reference": "03510004VHI",
   "name": "MK III",
   "rating": {
     "gph": 654.7,
@@ -197,6 +198,5 @@
       7.59,
       8.21
     ]
-  },
-  "reference": "03510004VHI"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7544",
   "country": "ESP",
+  "reference": "03510004F22",
   "name": "JAMBO MAR SIN PLASTICO",
   "rating": {
     "gph": 619.0,
@@ -197,6 +198,5 @@
       7.56,
       8.24
     ]
-  },
-  "reference": "03510004F22"
+  }
 }

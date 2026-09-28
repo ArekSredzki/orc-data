@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8712",
   "country": "GER",
+  "reference": "03520004WRJ",
   "name": "JONNA BENTS\u00d8",
   "rating": {
     "gph": 600.2,
@@ -197,6 +198,5 @@
       8.27,
       9.07
     ]
-  },
-  "reference": "03520004WRJ"
+  }
 }

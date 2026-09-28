@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/URU266",
   "country": "ARG",
+  "reference": "03880004F1T",
   "name": "FALUA",
   "rating": {
     "gph": 653.1,
@@ -197,6 +198,5 @@
       7.65,
       8.32
     ]
-  },
-  "reference": "03880004F1T"
+  }
 }

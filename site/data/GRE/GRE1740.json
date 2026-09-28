@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1740",
   "country": "GRE",
+  "reference": "03420004VJK",
   "name": "MARAKI",
   "rating": {
     "gph": 615.4,
@@ -197,6 +198,5 @@
       8.13,
       8.83
     ]
-  },
-  "reference": "03420004VJK"
+  }
 }

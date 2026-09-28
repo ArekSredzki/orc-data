@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1665",
   "country": "RSA",
+  "reference": "0462000486N",
   "name": "Faraway",
   "rating": {
     "gph": 604.1,
@@ -197,6 +198,5 @@
       8.18,
       9.06
     ]
-  },
-  "reference": "0462000486N"
+  }
 }

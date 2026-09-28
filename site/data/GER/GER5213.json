@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5213",
   "country": "GER",
+  "reference": "03520004TCL",
   "name": "TEAM 02",
   "rating": {
     "gph": 617.6,
@@ -197,6 +198,5 @@
       7.99,
       8.73
     ]
-  },
-  "reference": "03520004TCL"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA66866",
   "country": "USA",
+  "reference": "04560004WK1",
   "name": "POLARIS",
   "rating": {
     "gph": 522.9,
@@ -197,6 +198,5 @@
       9.61,
       11.52
     ]
-  },
-  "reference": "04560004WK1"
+  }
 }

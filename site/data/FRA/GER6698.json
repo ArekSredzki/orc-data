@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GER6698",
   "country": "FRA",
+  "reference": "04330004TD7",
   "name": "MALU",
   "rating": {
     "gph": 586.2,
@@ -197,6 +198,5 @@
       8.53,
       9.35
     ]
-  },
-  "reference": "04330004TD7"
+  }
 }

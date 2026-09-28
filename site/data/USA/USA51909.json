@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51909",
   "country": "USA",
+  "reference": "04560004SWW",
   "name": "Just One More",
   "rating": {
     "gph": 602.0,
@@ -197,6 +198,5 @@
       7.81,
       9.59
     ]
-  },
-  "reference": "04560004SWW"
+  }
 }

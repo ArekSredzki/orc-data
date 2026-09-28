@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA2198",
   "country": "ITA",
+  "reference": "03190004AWO",
   "name": "CALIGU TERZO RABBIT",
   "rating": {
     "gph": 727.0,
@@ -197,6 +198,5 @@
       7.05,
       7.63
     ]
-  },
-  "reference": "03190004AWO"
+  }
 }

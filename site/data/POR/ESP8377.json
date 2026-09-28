@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/ESP8377",
   "country": "POR",
+  "reference": "03530004H21",
   "name": "VICKY",
   "rating": {
     "gph": 610.2,
@@ -197,6 +198,5 @@
       8.21,
       9.13
     ]
-  },
-  "reference": "03530004H21"
+  }
 }

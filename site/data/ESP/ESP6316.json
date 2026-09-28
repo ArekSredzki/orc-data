@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6316",
   "country": "ESP",
+  "reference": "03510004FTC",
   "name": "FENICIO",
   "rating": {
     "gph": 580.6,
@@ -197,6 +198,5 @@
       8.2,
       9.79
     ]
-  },
-  "reference": "03510004FTC"
+  }
 }

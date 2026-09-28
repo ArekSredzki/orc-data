@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA45016",
   "country": "ITA",
+  "reference": "03190004PAE",
   "name": "BLUE SKY",
   "rating": {
     "gph": 526.1,
@@ -197,6 +198,5 @@
       9.2,
       10.32
     ]
-  },
-  "reference": "03190004PAE"
+  }
 }

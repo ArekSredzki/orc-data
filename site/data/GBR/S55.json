@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/S55",
   "country": "GBR",
+  "reference": "03860004TU7",
   "name": "MATILDA  II",
   "rating": {
     "gph": 607.3,
@@ -197,6 +198,5 @@
       8.12,
       8.67
     ]
-  },
-  "reference": "03860004TU7"
+  }
 }

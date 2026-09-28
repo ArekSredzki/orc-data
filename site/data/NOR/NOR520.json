@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR520",
   "country": "NOR",
+  "reference": "03440004RI0",
   "name": "4FUN",
   "rating": {
     "gph": 662.5,
@@ -197,6 +198,5 @@
       8.73,
       11.83
     ]
-  },
-  "reference": "03440004RI0"
+  }
 }

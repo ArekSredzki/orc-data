@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8028",
   "country": "ESP",
+  "reference": "03510004ESR",
   "name": "COMETA A DOS",
   "rating": {
     "gph": 612.9,
@@ -197,6 +198,5 @@
       8.26,
       9.1
     ]
-  },
-  "reference": "03510004ESR"
+  }
 }

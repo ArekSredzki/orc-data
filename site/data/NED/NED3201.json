@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3201",
   "country": "NED",
+  "reference": "04310004JTP",
   "name": "Punch",
   "rating": {
     "gph": 634.5,
@@ -197,6 +198,5 @@
       8.23,
       9.98
     ]
-  },
-  "reference": "04310004JTP"
+  }
 }

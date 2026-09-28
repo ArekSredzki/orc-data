@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITARSMN26",
   "country": "ITA",
+  "reference": "03190004WUU",
   "name": "ORSA MINORE",
   "rating": {
     "gph": 621.0,
@@ -197,6 +198,5 @@
       8.07,
       8.9
     ]
-  },
-  "reference": "03190004WUU"
+  }
 }

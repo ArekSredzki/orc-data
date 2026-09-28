@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12057",
   "country": "NOR",
+  "reference": "03440004LLA",
   "name": "Time Bandit",
   "rating": {
     "gph": 609.9,
@@ -197,6 +198,5 @@
       7.73,
       8.33
     ]
-  },
-  "reference": "03440004LLA"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN18",
   "country": "CAN",
+  "reference": "03430004J37",
   "name": "Through",
   "rating": {
     "gph": 586.8,
@@ -197,6 +198,5 @@
       9.62,
       12.47
     ]
-  },
-  "reference": "03430004J37"
+  }
 }

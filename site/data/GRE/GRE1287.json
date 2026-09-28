@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1287",
   "country": "GRE",
+  "reference": "03420004IQ7",
   "name": "ADRIFT",
   "rating": {
     "gph": 744.2,
@@ -197,6 +198,5 @@
       6.93,
       7.46
     ]
-  },
-  "reference": "03420004IQ7"
+  }
 }

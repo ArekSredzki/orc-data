@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR4040",
   "country": "NOR",
+  "reference": "03440004LL5",
   "name": "Fram VIII",
   "rating": {
     "gph": 685.5,
@@ -197,6 +198,5 @@
       7.3,
       8.04
     ]
-  },
-  "reference": "03440004LL5"
+  }
 }

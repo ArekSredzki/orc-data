@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE7856",
   "country": "GRE",
+  "reference": "03420004OUN",
   "name": "SUENO",
   "rating": {
     "gph": 631.4,
@@ -197,6 +198,5 @@
       7.78,
       8.38
     ]
-  },
-  "reference": "03420004OUN"
+  }
 }

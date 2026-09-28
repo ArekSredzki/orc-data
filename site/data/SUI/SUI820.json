@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI820",
   "country": "SUI",
+  "reference": "03080004VEM",
   "name": "TOUGH COOKIE",
   "rating": {
     "gph": 604.6,
@@ -197,6 +198,5 @@
       12.07,
       15.02
     ]
-  },
-  "reference": "03080004VEM"
+  }
 }

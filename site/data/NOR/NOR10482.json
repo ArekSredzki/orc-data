@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10482",
   "country": "NOR",
+  "reference": "03440004L3Q",
   "name": "SHADOWFAX",
   "rating": {
     "gph": 635.0,
@@ -197,6 +198,5 @@
       7.79,
       8.46
     ]
-  },
-  "reference": "03440004L3Q"
+  }
 }

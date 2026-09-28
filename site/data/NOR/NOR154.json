@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR154",
   "country": "NOR",
+  "reference": "03440004WJN",
   "name": "Xcalibur",
   "rating": {
     "gph": 594.3,
@@ -197,6 +198,5 @@
       8.03,
       10.15
     ]
-  },
-  "reference": "03440004WJN"
+  }
 }

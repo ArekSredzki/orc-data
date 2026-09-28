@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITABALCO",
   "country": "ITA",
+  "reference": "03190004F3D",
   "name": "BALLA COI LUPI",
   "rating": {
     "gph": 758.4,
@@ -197,6 +198,5 @@
       6.52,
       7.07
     ]
-  },
-  "reference": "03190004F3D"
+  }
 }

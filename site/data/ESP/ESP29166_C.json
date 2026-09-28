@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP29166_C",
   "country": "ESP",
+  "reference": "03510004T46",
   "name": "ESPRIT DE MER",
   "rating": {
     "gph": 666.5,
@@ -197,6 +198,5 @@
       7.53,
       8.28
     ]
-  },
-  "reference": "03510004T46"
+  }
 }

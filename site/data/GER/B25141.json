@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/B25141",
   "country": "GER",
+  "reference": "04150004TD4",
   "name": "HONK",
   "rating": {
     "gph": 663.2,
@@ -197,6 +198,5 @@
       7.75,
       10.61
     ]
-  },
-  "reference": "04150004TD4"
+  }
 }

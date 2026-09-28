@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP929_C",
   "country": "ESP",
+  "reference": "03510004KUC",
   "name": "OTTO",
   "rating": {
     "gph": 655.5,
@@ -197,6 +198,5 @@
       8.77,
       11.91
     ]
-  },
-  "reference": "03510004KUC"
+  }
 }

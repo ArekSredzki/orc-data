@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16898",
   "country": "ITA",
+  "reference": "03190004MNF",
   "name": "GILLY",
   "rating": {
     "gph": 588.6,
@@ -197,6 +198,5 @@
       7.88,
       8.65
     ]
-  },
-  "reference": "03190004MNF"
+  }
 }

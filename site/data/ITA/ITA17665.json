@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17665",
   "country": "ITA",
+  "reference": "03190004JEF",
   "name": "OSIRA",
   "rating": {
     "gph": 590.3,
@@ -197,6 +198,5 @@
       8.06,
       9.03
     ]
-  },
-  "reference": "03190004JEF"
+  }
 }

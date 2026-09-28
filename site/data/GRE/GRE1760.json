@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1760",
   "country": "GRE",
+  "reference": "03420004I6D",
   "name": "RUTHIE",
   "rating": {
     "gph": 640.9,
@@ -197,6 +198,5 @@
       7.73,
       8.32
     ]
-  },
-  "reference": "03420004I6D"
+  }
 }

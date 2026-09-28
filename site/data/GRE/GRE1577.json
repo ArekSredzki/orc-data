@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1577",
   "country": "GRE",
+  "reference": "03420004T9P",
   "name": "METATRON II",
   "rating": {
     "gph": 575.7,
@@ -197,6 +198,5 @@
       8.28,
       9.0
     ]
-  },
-  "reference": "03420004T9P"
+  }
 }

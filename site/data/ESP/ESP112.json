@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP112",
   "country": "ESP",
+  "reference": "035100050KR",
   "name": "MITO",
   "rating": {
     "gph": 690.6,

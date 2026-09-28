@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7038",
   "country": "NED",
+  "reference": "04310004JWA",
   "name": "RAN",
   "rating": {
     "gph": 694.7,
@@ -197,6 +198,5 @@
       7.04,
       7.62
     ]
-  },
-  "reference": "04310004JWA"
+  }
 }

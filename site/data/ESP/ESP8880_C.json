@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8880_C",
   "country": "ESP",
+  "reference": "035100048KP",
   "name": "DUNIA PRIMERO",
   "rating": {
     "gph": 685.5,
@@ -197,6 +198,5 @@
       7.41,
       8.12
     ]
-  },
-  "reference": "035100048KP"
+  }
 }

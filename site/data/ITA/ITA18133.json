@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18133",
   "country": "ITA",
+  "reference": "03190004B5L",
   "name": "MADA",
   "rating": {
     "gph": 654.5,
@@ -197,6 +198,5 @@
       8.66,
       10.7
     ]
-  },
-  "reference": "03190004B5L"
+  }
 }

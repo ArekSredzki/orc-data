@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1243",
   "country": "GRE",
+  "reference": "03420004I49",
   "name": "HAKUNA MATATA",
   "rating": {
     "gph": 582.4,
@@ -197,6 +198,5 @@
       8.51,
       9.37
     ]
-  },
-  "reference": "03420004I49"
+  }
 }

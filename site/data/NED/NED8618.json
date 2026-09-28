@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8618",
   "country": "NED",
+  "reference": "04310004K1K",
   "name": "Yin",
   "rating": {
     "gph": 590.8,
@@ -197,6 +198,5 @@
       10.95,
       14.07
     ]
-  },
-  "reference": "04310004K1K"
+  }
 }

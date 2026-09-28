@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA2915",
   "country": "ITA",
+  "reference": "03190004TOS",
   "name": "TO BE",
   "rating": {
     "gph": 583.8,
@@ -197,6 +198,5 @@
       8.21,
       9.85
     ]
-  },
-  "reference": "03190004TOS"
+  }
 }

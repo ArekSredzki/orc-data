@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN87617",
   "country": "CAN",
+  "reference": "03430004MHN",
   "name": "ELBOWS UP!",
   "rating": {
     "gph": 619.1,
@@ -197,6 +198,5 @@
       7.99,
       10.82
     ]
-  },
-  "reference": "03430004MHN"
+  }
 }

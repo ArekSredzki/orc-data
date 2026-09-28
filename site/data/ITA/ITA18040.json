@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18040",
   "country": "ITA",
+  "reference": "03190004JBO",
   "name": "YANKEE R",
   "rating": {
     "gph": 589.0,
@@ -197,6 +198,5 @@
       8.15,
       8.91
     ]
-  },
-  "reference": "03190004JBO"
+  }
 }

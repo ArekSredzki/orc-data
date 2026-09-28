@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/ME1500",
   "country": "AUS",
+  "reference": "03020004UDA",
   "name": "VAMOS",
   "rating": {
     "gph": 643.0,
@@ -197,6 +198,5 @@
       7.85,
       9.18
     ]
-  },
-  "reference": "03020004UDA"
+  }
 }

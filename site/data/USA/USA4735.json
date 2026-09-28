@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA4735",
   "country": "USA",
+  "reference": "04560004QE2",
   "name": "SIESTA",
   "rating": {
     "gph": 569.1,
@@ -197,6 +198,5 @@
       8.22,
       9.13
     ]
-  },
-  "reference": "04560004QE2"
+  }
 }

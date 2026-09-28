@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18153",
   "country": "ITA",
+  "reference": "03190004VWW",
   "name": "LUCKY JACK",
   "rating": {
     "gph": 624.7,
@@ -197,6 +198,5 @@
       7.8,
       8.6
     ]
-  },
-  "reference": "03190004VWW"
+  }
 }

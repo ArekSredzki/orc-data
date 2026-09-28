@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12243",
   "country": "NOR",
+  "reference": "03440004RAH",
   "name": "GAME",
   "rating": {
     "gph": 532.7,
@@ -197,6 +198,5 @@
       9.08,
       11.25
     ]
-  },
-  "reference": "03440004RAH"
+  }
 }

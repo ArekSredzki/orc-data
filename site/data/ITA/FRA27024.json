@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/FRA27024",
   "country": "ITA",
+  "reference": "03190004IQL",
   "name": "VOX SEA",
   "rating": {
     "gph": 654.6,
@@ -197,6 +198,5 @@
       7.78,
       8.97
     ]
-  },
-  "reference": "03190004IQL"
+  }
 }

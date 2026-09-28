@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE461",
   "country": "GRE",
+  "reference": "03420004IN9",
   "name": "ANDIAMO",
   "rating": {
     "gph": 619.4,
@@ -197,6 +198,5 @@
       8.7,
       9.61
     ]
-  },
-  "reference": "03420004IN9"
+  }
 }

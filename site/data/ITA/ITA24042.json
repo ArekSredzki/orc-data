@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA24042",
   "country": "ITA",
+  "reference": "03190004HJM",
   "name": "VACO A VIENTO",
   "rating": {
     "gph": 660.6,
@@ -197,6 +198,5 @@
       9.63,
       12.61
     ]
-  },
-  "reference": "03190004HJM"
+  }
 }

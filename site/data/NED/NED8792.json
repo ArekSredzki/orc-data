@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8792",
   "country": "NED",
+  "reference": "04310004K1R",
   "name": "X-Life",
   "rating": {
     "gph": 598.4,
@@ -197,6 +198,5 @@
       8.3,
       9.06
     ]
-  },
-  "reference": "04310004K1R"
+  }
 }

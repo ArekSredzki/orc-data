@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11240",
   "country": "NOR",
+  "reference": "03440004NSP",
   "name": "Stayer 2",
   "rating": {
     "gph": 613.7,
@@ -197,6 +198,5 @@
       7.92,
       8.66
     ]
-  },
-  "reference": "03440004NSP"
+  }
 }

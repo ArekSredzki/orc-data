@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN52919",
   "country": "CAN",
+  "reference": "03430004PQM",
   "name": "Hooligan II",
   "rating": {
     "gph": 566.1,
@@ -197,6 +198,5 @@
       8.33,
       10.05
     ]
-  },
-  "reference": "03430004PQM"
+  }
 }

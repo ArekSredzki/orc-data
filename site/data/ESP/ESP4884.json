@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4884",
   "country": "ESP",
+  "reference": "03510004HDQ",
   "name": "VINDIO X",
   "rating": {
     "gph": 651.9,
@@ -197,6 +198,5 @@
       7.71,
       8.45
     ]
-  },
-  "reference": "03510004HDQ"
+  }
 }

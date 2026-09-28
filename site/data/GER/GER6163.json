@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6163",
   "country": "GER",
+  "reference": "03520004M00",
   "name": "ARRABBIATA",
   "rating": {
     "gph": 629.8,
@@ -197,6 +198,5 @@
       8.21,
       10.64
     ]
-  },
-  "reference": "03520004M00"
+  }
 }

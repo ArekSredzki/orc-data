@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52141",
   "country": "USA",
+  "reference": "04560004R8Q",
   "name": "EAGLES WINGS",
   "rating": {
     "gph": 551.5,
@@ -197,6 +198,5 @@
       9.25,
       11.52
     ]
-  },
-  "reference": "04560004R8Q"
+  }
 }

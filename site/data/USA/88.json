@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/88",
   "country": "USA",
+  "reference": "04560004OLS",
   "name": "J Almighty",
   "rating": {
     "gph": 616.3,
@@ -197,6 +198,5 @@
       7.92,
       9.91
     ]
-  },
-  "reference": "04560004OLS"
+  }
 }

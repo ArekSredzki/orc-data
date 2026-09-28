@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/SWE9995",
   "country": "NOR",
+  "reference": "03440004MPB",
   "name": "Mummamia",
   "rating": {
     "gph": 583.7,
@@ -197,6 +198,5 @@
       8.45,
       9.85
     ]
-  },
-  "reference": "03440004MPB"
+  }
 }

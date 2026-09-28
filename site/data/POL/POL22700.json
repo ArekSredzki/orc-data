@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL22700",
   "country": "POL",
+  "reference": "04410004SAP",
   "name": "MIO PORTOFINO",
   "rating": {
     "gph": 715.4,
@@ -197,6 +198,5 @@
       7.52,
       8.14
     ]
-  },
-  "reference": "04410004SAP"
+  }
 }

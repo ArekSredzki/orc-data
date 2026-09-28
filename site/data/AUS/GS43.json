@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/GS43",
   "country": "AUS",
+  "reference": "03020004TN9",
   "name": "Wahoo",
   "rating": {
     "gph": 570.0,
@@ -197,6 +198,5 @@
       8.89,
       9.88
     ]
-  },
-  "reference": "03020004TN9"
+  }
 }

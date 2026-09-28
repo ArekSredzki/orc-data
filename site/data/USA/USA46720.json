@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA46720",
   "country": "USA",
+  "reference": "04560004FAE",
   "name": "NORTH STAR",
   "rating": {
     "gph": 578.4,
@@ -197,6 +198,5 @@
       8.37,
       9.24
     ]
-  },
-  "reference": "04560004FAE"
+  }
 }

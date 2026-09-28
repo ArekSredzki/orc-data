@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8340",
   "country": "GER",
+  "reference": "03520004UW6",
   "name": "RENTNERBANK",
   "rating": {
     "gph": 612.8,
@@ -197,6 +198,5 @@
       8.37,
       10.77
     ]
-  },
-  "reference": "03520004UW6"
+  }
 }

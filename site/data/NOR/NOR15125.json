@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15125",
   "country": "NOR",
+  "reference": "03440004NSD",
   "name": "Lynx",
   "rating": {
     "gph": 585.6,
@@ -197,6 +198,5 @@
       8.5,
       9.39
     ]
-  },
-  "reference": "03440004NSD"
+  }
 }

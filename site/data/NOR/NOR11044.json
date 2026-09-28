@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11044",
   "country": "NOR",
+  "reference": "03440004OQF",
   "name": "Mani",
   "rating": {
     "gph": 624.1,
@@ -197,6 +198,5 @@
       8.1,
       8.81
     ]
-  },
-  "reference": "03440004OQF"
+  }
 }

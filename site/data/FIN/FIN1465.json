@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN1465",
   "country": "FIN",
+  "reference": "04140004T0O",
   "name": "Nina-Charlotta II",
   "rating": {
     "gph": 751.4,
@@ -197,6 +198,5 @@
       6.63,
       7.23
     ]
-  },
-  "reference": "04140004T0O"
+  }
 }

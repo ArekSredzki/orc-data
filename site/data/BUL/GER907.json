@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/GER907",
   "country": "BUL",
+  "reference": "03850004Q4S",
   "name": "J 24 ONE DESIGN",
   "rating": {
     "gph": 742.1,
@@ -197,6 +198,5 @@
       6.74,
       7.48
     ]
-  },
-  "reference": "03850004Q4S"
+  }
 }

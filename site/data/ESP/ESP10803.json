@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10803",
   "country": "ESP",
+  "reference": "03510004JAD",
   "name": "AVIADOR",
   "rating": {
     "gph": 517.6,
@@ -197,6 +198,5 @@
       9.5,
       10.85
     ]
-  },
-  "reference": "03510004JAD"
+  }
 }

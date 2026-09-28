@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11843",
   "country": "NOR",
+  "reference": "03440004NHK",
   "name": "Sinbad 2",
   "rating": {
     "gph": 632.1,
@@ -197,6 +198,5 @@
       7.55,
       8.93
     ]
-  },
-  "reference": "03440004NHK"
+  }
 }

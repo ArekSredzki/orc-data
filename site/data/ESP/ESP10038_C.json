@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10038_C",
   "country": "ESP",
+  "reference": "035100048MR",
   "name": "MIRIAPODO",
   "rating": {
     "gph": 594.4,
@@ -197,6 +198,5 @@
       8.41,
       9.24
     ]
-  },
-  "reference": "035100048MR"
+  }
 }

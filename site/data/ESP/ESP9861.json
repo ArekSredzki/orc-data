@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9861",
   "country": "ESP",
+  "reference": "03510004ETK",
   "name": "BARBA FEITA",
   "rating": {
     "gph": 601.5,
@@ -197,6 +198,5 @@
       8.25,
       9.01
     ]
-  },
-  "reference": "03510004ETK"
+  }
 }

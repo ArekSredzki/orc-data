@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA38321",
   "country": "FRA",
+  "reference": "04330004CC6",
   "name": "PICKWICK",
   "rating": {
     "gph": 644.2,
@@ -197,6 +198,5 @@
       7.42,
       8.8
     ]
-  },
-  "reference": "04330004CC6"
+  }
 }

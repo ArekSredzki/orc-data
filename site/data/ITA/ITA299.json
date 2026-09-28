@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA299",
   "country": "ITA",
+  "reference": "03190004PEB",
   "name": "FOLGORE",
   "rating": {
     "gph": 605.5,
@@ -197,6 +198,5 @@
       8.06,
       10.42
     ]
-  },
-  "reference": "03190004PEB"
+  }
 }

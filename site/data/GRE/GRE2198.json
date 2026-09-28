@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2198",
   "country": "GRE",
+  "reference": "03420004VAC",
   "name": "APOSPERITIS",
   "rating": {
     "gph": 607.7,
@@ -197,6 +198,5 @@
       8.4,
       9.16
     ]
-  },
-  "reference": "03420004VAC"
+  }
 }

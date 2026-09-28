@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14747",
   "country": "ITA",
+  "reference": "03190004QRQ",
   "name": "ADELANTE",
   "rating": {
     "gph": 615.0,
@@ -197,6 +198,5 @@
       8.15,
       8.94
     ]
-  },
-  "reference": "03190004QRQ"
+  }
 }

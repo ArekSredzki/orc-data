@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7030",
   "country": "NED",
+  "reference": "04310004JW8",
   "name": "Team Heiner 2",
   "rating": {
     "gph": 571.7,
@@ -197,6 +198,5 @@
       8.66,
       11.01
     ]
-  },
-  "reference": "04310004JW8"
+  }
 }

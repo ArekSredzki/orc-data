@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN9815",
   "country": "FIN",
+  "reference": "04140004S6U",
   "name": "Piika",
   "rating": {
     "gph": 654.1,
@@ -197,6 +198,5 @@
       7.63,
       8.31
     ]
-  },
-  "reference": "04140004S6U"
+  }
 }

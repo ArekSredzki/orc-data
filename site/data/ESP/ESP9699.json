@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9699",
   "country": "ESP",
+  "reference": "03510004UF8",
   "name": "ZIVING",
   "rating": {
     "gph": 541.2,
@@ -197,6 +198,5 @@
       8.77,
       9.94
     ]
-  },
-  "reference": "03510004UF8"
+  }
 }

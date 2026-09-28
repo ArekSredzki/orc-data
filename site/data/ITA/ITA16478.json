@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16478",
   "country": "ITA",
+  "reference": "03190004I8N",
   "name": "ZEN 2",
   "rating": {
     "gph": 579.0,
@@ -197,6 +198,5 @@
       8.65,
       9.41
     ]
-  },
-  "reference": "03190004I8N"
+  }
 }

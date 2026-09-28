@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR4848",
   "country": "TUR",
+  "reference": "04590004856",
   "name": "TOXIC",
   "rating": {
     "gph": 595.8,
@@ -197,6 +198,5 @@
       8.2,
       9.78
     ]
-  },
-  "reference": "04590004856"
+  }
 }

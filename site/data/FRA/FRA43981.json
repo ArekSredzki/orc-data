@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA43981",
   "country": "FRA",
+  "reference": "04330004N7H",
   "name": "JAMBO",
   "rating": {
     "gph": 638.8,
@@ -197,6 +198,5 @@
       7.44,
       8.98
     ]
-  },
-  "reference": "04330004N7H"
+  }
 }

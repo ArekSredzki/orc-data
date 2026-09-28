@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13265",
   "country": "ITA",
+  "reference": "03190004RHC",
   "name": "GRADISCA",
   "rating": {
     "gph": 590.9,
@@ -197,6 +198,5 @@
       8.23,
       9.01
     ]
-  },
-  "reference": "03190004RHC"
+  }
 }

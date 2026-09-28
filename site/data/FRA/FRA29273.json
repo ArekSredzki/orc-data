@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA29273",
   "country": "FRA",
+  "reference": "04330004HRP",
   "name": "BUGIS",
   "rating": {
     "gph": 609.9,
@@ -197,6 +198,5 @@
       8.06,
       8.79
     ]
-  },
-  "reference": "04330004HRP"
+  }
 }

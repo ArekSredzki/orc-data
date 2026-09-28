@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1880",
   "country": "GRE",
+  "reference": "03420004R4H",
   "name": "APIDALOS NAFS",
   "rating": {
     "gph": 581.7,
@@ -197,6 +198,5 @@
       8.09,
       9.29
     ]
-  },
-  "reference": "03420004R4H"
+  }
 }

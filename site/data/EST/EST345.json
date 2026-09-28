@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST345",
   "country": "EST",
+  "reference": "04340004ROS",
   "name": "NORA LII",
   "rating": {
     "gph": 640.5,
@@ -197,6 +198,5 @@
       7.75,
       8.41
     ]
-  },
-  "reference": "04340004ROS"
+  }
 }

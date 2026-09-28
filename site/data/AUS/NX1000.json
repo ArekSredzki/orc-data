@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/NX1000",
   "country": "AUS",
+  "reference": "03020004UD9",
   "name": "TWO WAY STREET",
   "rating": {
     "gph": 798.7,
@@ -197,6 +198,5 @@
       6.73,
       7.45
     ]
-  },
-  "reference": "03020004UD9"
+  }
 }

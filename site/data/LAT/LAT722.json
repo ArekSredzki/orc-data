@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT722",
   "country": "LAT",
+  "reference": "04960004QP7",
   "name": "Calypso",
   "rating": {
     "gph": 660.7,
@@ -197,6 +198,5 @@
       7.5,
       8.12
     ]
-  },
-  "reference": "04960004QP7"
+  }
 }

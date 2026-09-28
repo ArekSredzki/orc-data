@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8694",
   "country": "GER",
+  "reference": "03520004T9S",
   "name": "BALTIC PEARL",
   "rating": {
     "gph": 592.9,
@@ -197,6 +198,5 @@
       8.19,
       10.14
     ]
-  },
-  "reference": "03520004T9S"
+  }
 }

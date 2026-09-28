@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR8709R",
   "country": "FRA",
+  "reference": "04330004SJW",
   "name": "LADY JANE",
   "rating": {
     "gph": 617.3,
@@ -197,6 +198,5 @@
       7.69,
       8.97
     ]
-  },
-  "reference": "04330004SJW"
+  }
 }

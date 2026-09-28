@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG2172",
   "country": "HKG",
+  "reference": "038800048LE",
   "name": "BABY BELUGA",
   "rating": {
     "gph": 652.8,
@@ -197,6 +198,5 @@
       7.19,
       7.91
     ]
-  },
-  "reference": "038800048LE"
+  }
 }

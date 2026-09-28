@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/MLT296",
   "country": "MLT",
+  "reference": "03230004KD1",
   "name": "Snow Queen",
   "rating": {
     "gph": 500.8,
@@ -197,6 +198,5 @@
       9.39,
       10.19
     ]
-  },
-  "reference": "03230004KD1"
+  }
 }

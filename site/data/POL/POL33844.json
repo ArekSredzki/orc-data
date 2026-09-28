@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL33844",
   "country": "POL",
+  "reference": "04410004WEM",
   "name": "TINTAMARRE",
   "rating": {
     "gph": 628.4,
@@ -197,6 +198,5 @@
       7.93,
       8.67
     ]
-  },
-  "reference": "04410004WEM"
+  }
 }

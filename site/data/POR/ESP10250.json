@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/ESP10250",
   "country": "POR",
+  "reference": "03530004MAO",
   "name": "X TRIM",
   "rating": {
     "gph": 558.2,
@@ -197,6 +198,5 @@
       8.87,
       9.76
     ]
-  },
-  "reference": "03530004MAO"
+  }
 }

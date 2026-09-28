@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12530",
   "country": "ITA",
+  "reference": "03190004QPO",
   "name": "BABY CARTOUCHE",
   "rating": {
     "gph": 609.5,
@@ -197,6 +198,5 @@
       7.8,
       9.13
     ]
-  },
-  "reference": "03190004QPO"
+  }
 }

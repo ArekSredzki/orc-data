@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14760",
   "country": "NOR",
+  "reference": "03440004NK8",
   "name": "Illuminati",
   "rating": {
     "gph": 581.6,
@@ -197,6 +198,5 @@
       8.25,
       9.01
     ]
-  },
-  "reference": "03440004NK8"
+  }
 }

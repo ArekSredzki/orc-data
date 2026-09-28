@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA21827",
   "country": "USA",
+  "reference": "04560004VB0",
   "name": "Tarbaby",
   "rating": {
     "gph": 657.0,
@@ -197,6 +198,5 @@
       7.56,
       8.48
     ]
-  },
-  "reference": "04560004VB0"
+  }
 }

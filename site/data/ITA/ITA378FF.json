@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA378FF",
   "country": "ITA",
+  "reference": "03190004P1C",
   "name": "ELVIRA",
   "rating": {
     "gph": 764.8,
@@ -197,6 +198,5 @@
       7.78,
       10.55
     ]
-  },
-  "reference": "03190004P1C"
+  }
 }

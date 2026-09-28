@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11817",
   "country": "NOR",
+  "reference": "03440004NPS",
   "name": "Yess",
   "rating": {
     "gph": 673.7,
@@ -197,6 +198,5 @@
       7.48,
       8.19
     ]
-  },
-  "reference": "03440004NPS"
+  }
 }

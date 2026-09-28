@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2794",
   "country": "CRO",
+  "reference": "03620004B15",
   "name": "So Farr",
   "rating": {
     "gph": 569.4,
@@ -197,6 +198,5 @@
       10.44,
       13.6
     ]
-  },
-  "reference": "03620004B15"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1224",
   "country": "GRE",
+  "reference": "03420004PTM",
   "name": "LYGEIA",
   "rating": {
     "gph": 710.2,
@@ -197,6 +198,5 @@
       6.99,
       7.54
     ]
-  },
-  "reference": "03420004PTM"
+  }
 }

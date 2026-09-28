@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA60101",
   "country": "FRA",
+  "reference": "04330004WWB",
   "name": "AROBAS",
   "rating": {
     "gph": 460.0,
@@ -197,6 +198,5 @@
       10.6,
       12.79
     ]
-  },
-  "reference": "04330004WWB"
+  }
 }

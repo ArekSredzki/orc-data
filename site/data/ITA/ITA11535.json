@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA11535",
   "country": "ITA",
+  "reference": "03190004N6K",
   "name": "MARIA PAOLA",
   "rating": {
     "gph": 609.1,
@@ -197,6 +198,5 @@
       7.98,
       8.78
     ]
-  },
-  "reference": "03190004N6K"
+  }
 }

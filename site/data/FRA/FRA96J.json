@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA96J",
   "country": "FRA",
+  "reference": "04330004KSL",
   "name": "MIRAGE",
   "rating": {
     "gph": 571.6,
@@ -197,6 +198,5 @@
       8.93,
       11.37
     ]
-  },
-  "reference": "04330004KSL"
+  }
 }

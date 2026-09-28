@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4461",
   "country": "RSA",
+  "reference": "04620004881",
   "name": "Rhythm of My Heart",
   "rating": {
     "gph": 593.8,
@@ -197,6 +198,5 @@
       8.07,
       9.31
     ]
-  },
-  "reference": "04620004881"
+  }
 }

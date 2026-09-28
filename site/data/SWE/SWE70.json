@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE70",
   "country": "SWE",
+  "reference": "03200004T2P",
   "name": "AlmaViva",
   "rating": {
     "gph": 571.7,
@@ -197,6 +198,5 @@
       8.67,
       9.71
     ]
-  },
-  "reference": "03200004T2P"
+  }
 }

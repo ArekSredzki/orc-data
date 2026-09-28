@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL80",
   "country": "POL",
+  "reference": "04410004UCA",
   "name": "PNEUMA",
   "rating": {
     "gph": 619.7,
@@ -197,6 +198,5 @@
       8.32,
       9.72
     ]
-  },
-  "reference": "04410004UCA"
+  }
 }

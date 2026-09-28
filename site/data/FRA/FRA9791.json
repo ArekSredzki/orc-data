@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9791",
   "country": "FRA",
+  "reference": "04330004HTM",
   "name": "ZIGZAG",
   "rating": {
     "gph": 573.2,
@@ -197,6 +198,5 @@
       8.48,
       10.3
     ]
-  },
-  "reference": "04330004HTM"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR17171",
   "country": "TUR",
+  "reference": "04590004U5D",
   "name": "VAKKORAMA II",
   "rating": {
     "gph": 521.9,
@@ -197,6 +198,5 @@
       10.54,
       13.57
     ]
-  },
-  "reference": "04590004U5D"
+  }
 }

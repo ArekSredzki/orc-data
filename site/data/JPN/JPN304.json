@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN304",
   "country": "JPN",
+  "reference": "03390004JHF",
   "name": "BAGUS",
   "rating": {
     "gph": 623.6,
@@ -197,6 +198,5 @@
       10.63,
       13.71
     ]
-  },
-  "reference": "03390004JHF"
+  }
 }

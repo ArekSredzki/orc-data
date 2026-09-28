@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5783_C",
   "country": "ESP",
+  "reference": "03510004T8C",
   "name": "PI\u00d1A COLADA",
   "rating": {
     "gph": 592.0,
@@ -197,6 +198,5 @@
       8.37,
       9.14
     ]
-  },
-  "reference": "03510004T8C"
+  }
 }

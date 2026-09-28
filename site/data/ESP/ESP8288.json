@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8288",
   "country": "ESP",
+  "reference": "03510004KVT",
   "name": "SORONDONGO IV",
   "rating": {
     "gph": 543.6,
@@ -197,6 +198,5 @@
       9.11,
       9.99
     ]
-  },
-  "reference": "03510004KVT"
+  }
 }

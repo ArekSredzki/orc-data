@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53299",
   "country": "FRA",
+  "reference": "04330004PN3",
   "name": "BLACK SPIRIT",
   "rating": {
     "gph": 592.1,
@@ -197,6 +198,5 @@
       8.85,
       11.73
     ]
-  },
-  "reference": "04330004PN3"
+  }
 }

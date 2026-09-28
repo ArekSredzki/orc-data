@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA26300",
   "country": "USA",
+  "reference": "04560004UJV",
   "name": "WINNEBAGO",
   "rating": {
     "gph": 662.4,
@@ -197,6 +198,5 @@
       7.57,
       8.46
     ]
-  },
-  "reference": "04560004UJV"
+  }
 }

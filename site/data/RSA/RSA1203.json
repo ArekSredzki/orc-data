@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1203",
   "country": "RSA",
+  "reference": "046200048R3",
   "name": "Scatterling",
   "rating": {
     "gph": 594.0,
@@ -197,6 +198,5 @@
       8.71,
       10.73
     ]
-  },
-  "reference": "046200048R3"
+  }
 }

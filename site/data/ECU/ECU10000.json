@@ -1,6 +1,7 @@
 {
   "sailnumber": "ECU/ECU10000",
   "country": "ECU",
+  "reference": "03880004KOP",
   "name": "READY-SET-GO",
   "rating": {
     "gph": 511.9,
@@ -197,6 +198,5 @@
       11.73,
       14.89
     ]
-  },
-  "reference": "03880004KOP"
+  }
 }

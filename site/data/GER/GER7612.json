@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7612",
   "country": "GER",
+  "reference": "03520004I2F",
   "name": "CHAPU CHAPU",
   "rating": {
     "gph": 652.6,
@@ -197,6 +198,5 @@
       9.14,
       12.24
     ]
-  },
-  "reference": "03520004I2F"
+  }
 }

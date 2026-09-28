@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT550",
   "country": "LAT",
+  "reference": "04960004T0W",
   "name": "jAuda",
   "rating": {
     "gph": 591.3,
@@ -197,6 +198,5 @@
       8.46,
       9.67
     ]
-  },
-  "reference": "04960004T0W"
+  }
 }

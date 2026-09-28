@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7786",
   "country": "GER",
+  "reference": "04150004LNN",
   "name": "VMAX",
   "rating": {
     "gph": 658.5,
@@ -197,6 +198,5 @@
       7.3,
       8.94
     ]
-  },
-  "reference": "04150004LNN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5041_C",
   "country": "ESP",
+  "reference": "03510004BHW",
   "name": "NITROX",
   "rating": {
     "gph": 632.3,
@@ -197,6 +198,5 @@
       7.95,
       8.65
     ]
-  },
-  "reference": "03510004BHW"
+  }
 }

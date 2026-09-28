@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9886_C",
   "country": "ESP",
+  "reference": "03510004FA4",
   "name": "SARGANTALZULU",
   "rating": {
     "gph": 525.2,
@@ -197,6 +198,5 @@
       9.84,
       11.78
     ]
-  },
-  "reference": "03510004FA4"
+  }
 }

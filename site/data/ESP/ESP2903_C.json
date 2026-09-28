@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2903_C",
   "country": "ESP",
+  "reference": "03510004LTM",
   "name": "RIGEL",
   "rating": {
     "gph": 625.0,
@@ -197,6 +198,5 @@
       7.77,
       8.67
     ]
-  },
-  "reference": "03510004LTM"
+  }
 }

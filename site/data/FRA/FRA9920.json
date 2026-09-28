@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9920",
   "country": "FRA",
+  "reference": "04330004W7A",
   "name": "KOKOMO",
   "rating": {
     "gph": 490.6,
@@ -197,6 +198,5 @@
       9.79,
       11.02
     ]
-  },
-  "reference": "04330004W7A"
+  }
 }

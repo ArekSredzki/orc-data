@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8794",
   "country": "GER",
+  "reference": "03520004PNK",
   "name": "HUGGEREN",
   "rating": {
     "gph": 759.5,
@@ -197,6 +198,5 @@
       6.64,
       7.19
     ]
-  },
-  "reference": "03520004PNK"
+  }
 }

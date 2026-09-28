@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA198",
   "country": "USA",
+  "reference": "04560004H3D",
   "name": "GERONIMO",
   "rating": {
     "gph": 592.0,
@@ -197,6 +198,5 @@
       7.9,
       9.82
     ]
-  },
-  "reference": "04560004H3D"
+  }
 }

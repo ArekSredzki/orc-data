@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1293",
   "country": "TUR",
+  "reference": "04590004862",
   "name": "BELUGA",
   "rating": {
     "gph": 616.1,
@@ -197,6 +198,5 @@
       8.13,
       8.74
     ]
-  },
-  "reference": "04590004862"
+  }
 }

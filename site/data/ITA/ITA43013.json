@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA43013",
   "country": "ITA",
+  "reference": "03190004MOJ",
   "name": "NEO KIKA",
   "rating": {
     "gph": 510.1,
@@ -197,6 +198,5 @@
       10.59,
       13.39
     ]
-  },
-  "reference": "03190004MOJ"
+  }
 }

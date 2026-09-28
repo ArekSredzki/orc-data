@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4886",
   "country": "RSA",
+  "reference": "0462000486K",
   "name": "Polarity",
   "rating": {
     "gph": 580.8,
@@ -197,6 +198,5 @@
       8.35,
       8.94
     ]
-  },
-  "reference": "0462000486K"
+  }
 }

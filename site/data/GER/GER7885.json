@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7885",
   "country": "GER",
+  "reference": "03520004WHT",
   "name": "MADAMEX2",
   "rating": {
     "gph": 578.3,
@@ -197,6 +198,5 @@
       8.59,
       9.65
     ]
-  },
-  "reference": "03520004WHT"
+  }
 }

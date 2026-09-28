@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16271",
   "country": "NOR",
+  "reference": "03440004L3J",
   "name": "Sigrid",
   "rating": {
     "gph": 833.8,
@@ -197,6 +198,5 @@
       6.11,
       6.62
     ]
-  },
-  "reference": "03440004L3J"
+  }
 }

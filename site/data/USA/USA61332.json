@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61332",
   "country": "USA",
+  "reference": "04560004UV8",
   "name": "AFTERPARTY",
   "rating": {
     "gph": 633.7,
@@ -197,6 +198,5 @@
       7.75,
       8.43
     ]
-  },
-  "reference": "04560004UV8"
+  }
 }

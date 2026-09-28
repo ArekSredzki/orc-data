@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR7342",
   "country": "NOR",
+  "reference": "03440004OJC",
   "name": "El Nino",
   "rating": {
     "gph": 670.1,
@@ -197,6 +198,5 @@
       7.94,
       10.79
     ]
-  },
-  "reference": "03440004OJC"
+  }
 }

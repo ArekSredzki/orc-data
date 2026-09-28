@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16403",
   "country": "ITA",
+  "reference": "03190004NP3",
   "name": "VALKYRIA",
   "rating": {
     "gph": 630.6,
@@ -197,6 +198,5 @@
       7.86,
       8.63
     ]
-  },
-  "reference": "03190004NP3"
+  }
 }

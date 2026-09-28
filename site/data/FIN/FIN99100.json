@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN99100",
   "country": "FIN",
+  "reference": "03290004P91",
   "name": "Joyride",
   "rating": {
     "gph": 611.0,
@@ -197,6 +198,5 @@
       7.8,
       9.83
     ]
-  },
-  "reference": "03290004P91"
+  }
 }

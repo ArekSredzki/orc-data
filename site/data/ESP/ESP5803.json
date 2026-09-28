@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5803",
   "country": "ESP",
+  "reference": "03510004MD1",
   "name": "ESQUIO",
   "rating": {
     "gph": 682.0,
@@ -197,6 +198,5 @@
       7.34,
       8.0
     ]
-  },
-  "reference": "03510004MD1"
+  }
 }

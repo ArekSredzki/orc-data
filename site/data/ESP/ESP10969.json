@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10969",
   "country": "ESP",
+  "reference": "03510004UFD",
   "name": "TEAMTAC",
   "rating": {
     "gph": 606.2,
@@ -197,6 +198,5 @@
       8.51,
       10.77
     ]
-  },
-  "reference": "03510004UFD"
+  }
 }

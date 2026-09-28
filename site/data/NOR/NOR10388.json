@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10388",
   "country": "NOR",
+  "reference": "03440004WRU",
   "name": "JAMBO",
   "rating": {
     "gph": 609.4,
@@ -197,6 +198,5 @@
       7.78,
       9.34
     ]
-  },
-  "reference": "03440004WRU"
+  }
 }

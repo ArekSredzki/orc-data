@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/56810",
   "country": "USA",
+  "reference": "04560004UM1",
   "name": "ARCHIMEDES III",
   "rating": {
     "gph": 588.8,
@@ -197,6 +198,5 @@
       7.99,
       9.25
     ]
-  },
-  "reference": "04560004UM1"
+  }
 }

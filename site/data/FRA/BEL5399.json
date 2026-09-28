@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/BEL5399",
   "country": "FRA",
+  "reference": "04330004TCR",
   "name": "SPIP",
   "rating": {
     "gph": 671.1,
@@ -197,6 +198,5 @@
       7.54,
       8.42
     ]
-  },
-  "reference": "04330004TCR"
+  }
 }

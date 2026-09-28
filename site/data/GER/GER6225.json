@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6225",
   "country": "GER",
+  "reference": "03520004VA8",
   "name": "JAZARA",
   "rating": {
     "gph": 642.1,
@@ -197,6 +198,5 @@
       7.47,
       8.04
     ]
-  },
-  "reference": "03520004VA8"
+  }
 }

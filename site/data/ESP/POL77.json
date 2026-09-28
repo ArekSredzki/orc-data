@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/POL77",
   "country": "ESP",
+  "reference": "03510004UW8",
   "name": "MAGANO",
   "rating": {
     "gph": 584.6,
@@ -197,6 +198,5 @@
       8.66,
       10.82
     ]
-  },
-  "reference": "03510004UW8"
+  }
 }

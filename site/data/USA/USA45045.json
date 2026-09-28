@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA45045",
   "country": "USA",
+  "reference": "04560004WOT",
   "name": "PTERODACTYL",
   "rating": {
     "gph": 468.4,
@@ -197,6 +198,5 @@
       12.78,
       15.95
     ]
-  },
-  "reference": "04560004WOT"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3063_C",
   "country": "ESP",
+  "reference": "03510004C7R",
   "name": "FRAU FRIDA",
   "rating": {
     "gph": 690.2,
@@ -197,6 +198,5 @@
       7.27,
       7.93
     ]
-  },
-  "reference": "03510004C7R"
+  }
 }

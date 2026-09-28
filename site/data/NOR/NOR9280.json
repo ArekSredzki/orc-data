@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9280",
   "country": "NOR",
+  "reference": "03440004OET",
   "name": "Lillefix",
   "rating": {
     "gph": 600.6,
@@ -197,6 +198,5 @@
       8.17,
       8.92
     ]
-  },
-  "reference": "03440004OET"
+  }
 }

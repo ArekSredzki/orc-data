@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/25540",
   "country": "USA",
+  "reference": "04560004VI0",
   "name": "GOSLING",
   "rating": {
     "gph": 601.7,
@@ -197,6 +198,5 @@
       8.04,
       9.01
     ]
-  },
-  "reference": "04560004VI0"
+  }
 }

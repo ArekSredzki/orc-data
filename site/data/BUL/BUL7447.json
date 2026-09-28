@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL7447",
   "country": "BUL",
+  "reference": "03850004W8I",
   "name": "Lilia",
   "rating": {
     "gph": 651.4,
@@ -197,6 +198,5 @@
       7.3,
       7.85
     ]
-  },
-  "reference": "03850004W8I"
+  }
 }

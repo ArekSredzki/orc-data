@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA19052",
   "country": "FRA",
+  "reference": "04330004H04",
   "name": "SARBACANE",
   "rating": {
     "gph": 679.8,
@@ -197,6 +198,5 @@
       7.43,
       8.19
     ]
-  },
-  "reference": "04330004H04"
+  }
 }

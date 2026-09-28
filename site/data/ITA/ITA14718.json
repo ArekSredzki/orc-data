@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14718",
   "country": "ITA",
+  "reference": "03190004C3T",
   "name": "IREAL",
   "rating": {
     "gph": 553.7,
@@ -197,6 +198,5 @@
       8.51,
       9.54
     ]
-  },
-  "reference": "03190004C3T"
+  }
 }

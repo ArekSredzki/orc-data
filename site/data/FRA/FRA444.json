@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA444",
   "country": "FRA",
+  "reference": "04330004QBO",
   "name": "QUATRE QUARTS 4",
   "rating": {
     "gph": 496.5,
@@ -197,6 +198,5 @@
       9.78,
       10.99
     ]
-  },
-  "reference": "04330004QBO"
+  }
 }

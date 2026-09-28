@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9122",
   "country": "NED",
+  "reference": "04310004K2L",
   "name": "Maas",
   "rating": {
     "gph": 569.3,
@@ -197,6 +198,5 @@
       8.26,
       9.85
     ]
-  },
-  "reference": "04310004K2L"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9666",
   "country": "NOR",
+  "reference": "03440004OQC",
   "name": "Sol",
   "rating": {
     "gph": 667.6,
@@ -197,6 +198,5 @@
       7.47,
       8.18
     ]
-  },
-  "reference": "03440004OQC"
+  }
 }

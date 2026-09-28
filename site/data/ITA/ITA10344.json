@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10344",
   "country": "ITA",
+  "reference": "03190004EVN",
   "name": "AQUARIUS",
   "rating": {
     "gph": 664.1,
@@ -197,6 +198,5 @@
       7.12,
       7.62
     ]
-  },
-  "reference": "03190004EVN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/3733",
   "country": "AUS",
+  "reference": "03020004VCQ",
   "name": "Y",
   "rating": {
     "gph": 586.3,
@@ -197,6 +198,5 @@
       9.36,
       12.22
     ]
-  },
-  "reference": "03020004VCQ"
+  }
 }

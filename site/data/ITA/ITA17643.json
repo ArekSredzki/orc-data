@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17643",
   "country": "ITA",
+  "reference": "03190004H0D",
   "name": "BARONESSA",
   "rating": {
     "gph": 600.8,
@@ -197,6 +198,5 @@
       8.26,
       11.06
     ]
-  },
-  "reference": "03190004H0D"
+  }
 }

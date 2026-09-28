@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16950",
   "country": "ITA",
+  "reference": "03190004I8O",
   "name": "LUNATIKA",
   "rating": {
     "gph": 601.0,
@@ -197,6 +198,5 @@
       7.97,
       9.65
     ]
-  },
-  "reference": "03190004I8O"
+  }
 }

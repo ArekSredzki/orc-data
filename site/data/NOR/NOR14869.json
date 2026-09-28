@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14869",
   "country": "NOR",
+  "reference": "03440004RVF",
   "name": "SteamFlyer",
   "rating": {
     "gph": 637.8,
@@ -197,6 +198,5 @@
       7.41,
       8.17
     ]
-  },
-  "reference": "03440004RVF"
+  }
 }

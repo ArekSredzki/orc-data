@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA1609",
   "country": "FRA",
+  "reference": "04330004IHO",
   "name": "YERMAD",
   "rating": {
     "gph": 734.9,
@@ -197,6 +198,5 @@
       6.74,
       7.37
     ]
-  },
-  "reference": "04330004IHO"
+  }
 }

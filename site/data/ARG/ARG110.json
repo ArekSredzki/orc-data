@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG110",
   "country": "ARG",
+  "reference": "03880004LU1",
   "name": "JABEQUE by HOOD",
   "rating": {
     "gph": 656.0,
@@ -197,6 +198,5 @@
       7.81,
       9.59
     ]
-  },
-  "reference": "03880004LU1"
+  }
 }

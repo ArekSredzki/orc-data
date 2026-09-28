@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/GBR6831T",
   "country": "POR",
+  "reference": "03530004O04",
   "name": "SULA-TOO",
   "rating": {
     "gph": 656.0,
@@ -197,6 +198,5 @@
       7.65,
       8.38
     ]
-  },
-  "reference": "03530004O04"
+  }
 }

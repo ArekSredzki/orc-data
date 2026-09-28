@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10276",
   "country": "FIN",
+  "reference": "04140004KW5",
   "name": "Eveliina",
   "rating": {
     "gph": 638.0,
@@ -197,6 +198,5 @@
       7.75,
       8.48
     ]
-  },
-  "reference": "04140004KW5"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN13",
   "country": "CAN",
+  "reference": "03430004HCR",
   "name": "Havoc",
   "rating": {
     "gph": 588.8,
@@ -197,6 +198,5 @@
       8.45,
       10.96
     ]
-  },
-  "reference": "03430004HCR"
+  }
 }

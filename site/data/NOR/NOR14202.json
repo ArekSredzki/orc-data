@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14202",
   "country": "NOR",
+  "reference": "03440004NS9",
   "name": "Fri Flyt",
   "rating": {
     "gph": 563.5,
@@ -197,6 +198,5 @@
       8.83,
       9.79
     ]
-  },
-  "reference": "03440004NS9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7753_C",
   "country": "ESP",
+  "reference": "03510004F9Q",
   "name": "UMA",
   "rating": {
     "gph": 619.6,
@@ -197,6 +198,5 @@
       8.18,
       8.94
     ]
-  },
-  "reference": "03510004F9Q"
+  }
 }

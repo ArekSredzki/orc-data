@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2701",
   "country": "NED",
+  "reference": "04310004JTA",
   "name": "Blue Note",
   "rating": {
     "gph": 686.6,
@@ -197,6 +198,5 @@
       7.01,
       8.58
     ]
-  },
-  "reference": "04310004JTA"
+  }
 }

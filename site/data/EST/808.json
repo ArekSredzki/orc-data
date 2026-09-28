@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/808",
   "country": "EST",
+  "reference": "04340004RS5",
   "name": "Esterel",
   "rating": {
     "gph": 620.3,
@@ -197,6 +198,5 @@
       7.81,
       8.42
     ]
-  },
-  "reference": "04340004RS5"
+  }
 }

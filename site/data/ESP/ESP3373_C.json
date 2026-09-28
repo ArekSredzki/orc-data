@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3373_C",
   "country": "ESP",
+  "reference": "03510004BIC",
   "name": "FUCUS",
   "rating": {
     "gph": 679.5,
@@ -197,6 +198,5 @@
       7.28,
       7.94
     ]
-  },
-  "reference": "03510004BIC"
+  }
 }

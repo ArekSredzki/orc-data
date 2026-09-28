@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS35",
   "country": "AUS",
+  "reference": "03020004U9P",
   "name": "RHAPSODY",
   "rating": {
     "gph": 696.0,
@@ -197,6 +198,5 @@
       7.54,
       9.26
     ]
-  },
-  "reference": "03020004U9P"
+  }
 }

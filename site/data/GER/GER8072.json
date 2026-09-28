@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8072",
   "country": "GER",
+  "reference": "04150004LNO",
   "name": "LOUP",
   "rating": {
     "gph": 629.9,
@@ -197,6 +198,5 @@
       7.87,
       8.59
     ]
-  },
-  "reference": "04150004LNO"
+  }
 }

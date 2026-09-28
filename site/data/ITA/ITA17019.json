@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17019",
   "country": "ITA",
+  "reference": "03190004FLA",
   "name": "AZIMUT",
   "rating": {
     "gph": 666.1,
@@ -197,6 +198,5 @@
       7.67,
       8.27
     ]
-  },
-  "reference": "03190004FLA"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13951",
   "country": "NOR",
+  "reference": "03440004FIF",
   "name": "Stormen",
   "rating": {
     "gph": 681.1,
@@ -197,6 +198,5 @@
       7.47,
       8.1
     ]
-  },
-  "reference": "03440004FIF"
+  }
 }

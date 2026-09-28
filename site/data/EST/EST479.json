@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST479",
   "country": "EST",
+  "reference": "04340004UTD",
   "name": "WindWalker",
   "rating": {
     "gph": 684.3,
@@ -197,6 +198,5 @@
       7.63,
       8.21
     ]
-  },
-  "reference": "04340004UTD"
+  }
 }

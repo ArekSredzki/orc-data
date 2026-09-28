@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/6559",
   "country": "AUS",
+  "reference": "03020004THU",
   "name": "WOTS NEXT",
   "rating": {
     "gph": 523.0,
@@ -197,6 +198,5 @@
       9.46,
       11.03
     ]
-  },
-  "reference": "03020004THU"
+  }
 }

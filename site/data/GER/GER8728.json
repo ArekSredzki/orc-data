@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8728",
   "country": "GER",
+  "reference": "03520004QB2",
   "name": "ROEDE ORM",
   "rating": {
     "gph": 717.8,
@@ -197,6 +198,5 @@
       7.16,
       7.66
     ]
-  },
-  "reference": "03520004QB2"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10146",
   "country": "FIN",
+  "reference": "04140004VPT",
   "name": "Miramare",
   "rating": {
     "gph": 690.3,
@@ -197,6 +198,5 @@
       7.35,
       7.85
     ]
-  },
-  "reference": "04140004VPT"
+  }
 }

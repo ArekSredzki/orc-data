@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12977",
   "country": "ITA",
+  "reference": "03190004QTA",
   "name": "MANIA",
   "rating": {
     "gph": 685.6,
@@ -197,6 +198,5 @@
       7.22,
       7.79
     ]
-  },
-  "reference": "03190004QTA"
+  }
 }

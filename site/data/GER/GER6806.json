@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6806",
   "country": "GER",
+  "reference": "04150004IAJ",
   "name": "LAFE",
   "rating": {
     "gph": 695.2,
@@ -197,6 +198,5 @@
       7.26,
       7.92
     ]
-  },
-  "reference": "04150004IAJ"
+  }
 }

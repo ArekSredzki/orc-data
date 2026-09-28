@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6400",
   "country": "GER",
+  "reference": "04150004LNF",
   "name": "LYNX",
   "rating": {
     "gph": 535.3,
@@ -197,6 +198,5 @@
       9.18,
       10.12
     ]
-  },
-  "reference": "04150004LNF"
+  }
 }

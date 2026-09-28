@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA4811",
   "country": "ITA",
+  "reference": "03190004I79",
   "name": "CICCI VII",
   "rating": {
     "gph": 718.7,
@@ -197,6 +198,5 @@
       6.88,
       7.47
     ]
-  },
-  "reference": "03190004I79"
+  }
 }

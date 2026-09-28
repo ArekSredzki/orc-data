@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2132",
   "country": "GRE",
+  "reference": "03420004NJD",
   "name": "NIONIOS",
   "rating": {
     "gph": 726.2,
@@ -197,6 +198,5 @@
       7.0,
       7.59
     ]
-  },
-  "reference": "03420004NJD"
+  }
 }

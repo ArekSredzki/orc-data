@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITADRG26",
   "country": "ITA",
+  "reference": "03190004PLC",
   "name": "DRAGONDINE",
   "rating": {
     "gph": 769.7,
@@ -197,6 +198,5 @@
       6.76,
       7.48
     ]
-  },
-  "reference": "03190004PLC"
+  }
 }

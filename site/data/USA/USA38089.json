@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA38089",
   "country": "USA",
+  "reference": "04560004QKR",
   "name": "WING IT",
   "rating": {
     "gph": 572.6,
@@ -197,6 +198,5 @@
       8.74,
       9.55
     ]
-  },
-  "reference": "04560004QKR"
+  }
 }

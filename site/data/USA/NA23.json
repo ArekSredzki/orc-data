@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/NA23",
   "country": "USA",
+  "reference": "04560004SA9",
   "name": "DEFIANCE",
   "rating": {
     "gph": 599.1,
@@ -197,6 +198,5 @@
       8.21,
       8.83
     ]
-  },
-  "reference": "04560004SA9"
+  }
 }

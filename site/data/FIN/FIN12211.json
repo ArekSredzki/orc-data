@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12211",
   "country": "FIN",
+  "reference": "03290004Q4O",
   "name": "Wingman",
   "rating": {
     "gph": 684.2,
@@ -197,6 +198,5 @@
       7.33,
       8.01
     ]
-  },
-  "reference": "03290004Q4O"
+  }
 }

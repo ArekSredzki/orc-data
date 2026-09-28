@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2117",
   "country": "BRA",
+  "reference": "04420004VF4",
   "name": "WAIRUA",
   "rating": {
     "gph": 550.5,
@@ -197,6 +198,5 @@
       9.23,
       11.08
     ]
-  },
-  "reference": "04420004VF4"
+  }
 }

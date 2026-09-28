@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16118",
   "country": "NOR",
+  "reference": "03440004PBF",
   "name": "Tahoe Tessie",
   "rating": {
     "gph": 570.1,
@@ -197,6 +198,5 @@
       8.3,
       9.48
     ]
-  },
-  "reference": "03440004PBF"
+  }
 }

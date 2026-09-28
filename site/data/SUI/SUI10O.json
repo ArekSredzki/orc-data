@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI10O",
   "country": "SUI",
+  "reference": "03080004L14",
   "name": "GINGER_O",
   "rating": {
     "gph": 490.0,
@@ -197,6 +198,5 @@
       10.45,
       12.77
     ]
-  },
-  "reference": "03080004L14"
+  }
 }

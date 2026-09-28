@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2517",
   "country": "CRO",
+  "reference": "03620004N58",
   "name": "Oracle",
   "rating": {
     "gph": 707.6,
@@ -197,6 +198,5 @@
       7.27,
       7.83
     ]
-  },
-  "reference": "03620004N58"
+  }
 }

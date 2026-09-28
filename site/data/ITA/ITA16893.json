@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16893",
   "country": "ITA",
+  "reference": "03190004FOE",
   "name": "ANDROMEDA",
   "rating": {
     "gph": 590.7,
@@ -197,6 +198,5 @@
       8.1,
       8.92
     ]
-  },
-  "reference": "03190004FOE"
+  }
 }

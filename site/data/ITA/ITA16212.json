@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16212",
   "country": "ITA",
+  "reference": "03190004V1B",
   "name": "CUORE DI ALIANTE",
   "rating": {
     "gph": 579.9,
@@ -197,6 +198,5 @@
       8.48,
       10.18
     ]
-  },
-  "reference": "03190004V1B"
+  }
 }

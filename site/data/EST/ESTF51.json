@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/ESTF51",
   "country": "EST",
+  "reference": "04340004NIN",
   "name": "FRIDA",
   "rating": {
     "gph": 840.8,
@@ -197,6 +198,5 @@
       6.21,
       6.76
     ]
-  },
-  "reference": "04340004NIN"
+  }
 }

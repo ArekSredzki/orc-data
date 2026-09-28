@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA46307",
   "country": "USA",
+  "reference": "04560004FLP",
   "name": "EL SUENO",
   "rating": {
     "gph": 543.4,
@@ -197,6 +198,5 @@
       8.95,
       9.83
     ]
-  },
-  "reference": "04560004FLP"
+  }
 }

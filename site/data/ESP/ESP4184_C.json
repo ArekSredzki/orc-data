@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4184_C",
   "country": "ESP",
+  "reference": "03510004BCO",
   "name": "MAKIATO",
   "rating": {
     "gph": 675.7,
@@ -197,6 +198,5 @@
       7.5,
       8.19
     ]
-  },
-  "reference": "03510004BCO"
+  }
 }

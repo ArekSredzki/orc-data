@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG2287",
   "country": "HKG",
+  "reference": "03880004SMQ",
   "name": "JARRAH",
   "rating": {
     "gph": 582.2,
@@ -197,6 +198,5 @@
       8.57,
       9.44
     ]
-  },
-  "reference": "03880004SMQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7355",
   "country": "GER",
+  "reference": "04150004IV5",
   "name": "FEINSCHLIFF",
   "rating": {
     "gph": 649.6,
@@ -197,6 +198,5 @@
       8.05,
       9.65
     ]
-  },
-  "reference": "04150004IV5"
+  }
 }

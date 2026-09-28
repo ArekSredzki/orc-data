@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17633",
   "country": "ITA",
+  "reference": "03190004VD5",
   "name": "BLU 3",
   "rating": {
     "gph": 584.0,
@@ -197,6 +198,5 @@
       8.22,
       9.32
     ]
-  },
-  "reference": "03190004VD5"
+  }
 }

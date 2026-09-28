@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA31008",
   "country": "RSA",
+  "reference": "0462000487I",
   "name": "008",
   "rating": {
     "gph": 550.4,
@@ -197,6 +198,5 @@
       11.68,
       14.83
     ]
-  },
-  "reference": "0462000487I"
+  }
 }

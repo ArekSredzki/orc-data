@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP15500_C",
   "country": "ESP",
+  "reference": "03510004QSB",
   "name": "GALBULA 10",
   "rating": {
     "gph": 518.6,
@@ -197,6 +198,5 @@
       9.28,
       10.06
     ]
-  },
-  "reference": "03510004QSB"
+  }
 }

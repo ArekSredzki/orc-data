@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15655",
   "country": "NOR",
+  "reference": "03440004NAA",
   "name": "Naomi 3",
   "rating": {
     "gph": 572.5,
@@ -197,6 +198,5 @@
       8.32,
       8.98
     ]
-  },
-  "reference": "03440004NAA"
+  }
 }

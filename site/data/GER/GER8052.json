@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8052",
   "country": "GER",
+  "reference": "03520004TC0",
   "name": "SWEET CANDY",
   "rating": {
     "gph": 674.1,
@@ -197,6 +198,5 @@
       7.53,
       8.26
     ]
-  },
-  "reference": "03520004TC0"
+  }
 }

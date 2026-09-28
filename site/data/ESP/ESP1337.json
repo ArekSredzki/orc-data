@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1337",
   "country": "ESP",
+  "reference": "03510004V8P",
   "name": "THERA",
   "rating": {
     "gph": 653.5,
@@ -197,6 +198,5 @@
       7.47,
       9.33
     ]
-  },
-  "reference": "03510004V8P"
+  }
 }

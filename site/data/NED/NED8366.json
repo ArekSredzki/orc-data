@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8366",
   "country": "NED",
+  "reference": "04310004OT8",
   "name": "Ansjovy",
   "rating": {
     "gph": 605.5,
@@ -197,6 +198,5 @@
       7.74,
       9.67
     ]
-  },
-  "reference": "04310004OT8"
+  }
 }

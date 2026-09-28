@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/P245",
   "country": "GER",
+  "reference": "04150004MH6",
   "name": "GITTA",
   "rating": {
     "gph": 613.6,
@@ -197,6 +198,5 @@
       8.4,
       11.15
     ]
-  },
-  "reference": "04150004MH6"
+  }
 }

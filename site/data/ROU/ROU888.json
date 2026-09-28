@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU888",
   "country": "ROU",
+  "reference": "05040004RA0",
   "name": "Argo",
   "rating": {
     "gph": 654.5,
@@ -197,6 +198,5 @@
       7.64,
       8.27
     ]
-  },
-  "reference": "05040004RA0"
+  }
 }

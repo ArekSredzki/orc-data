@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG141",
   "country": "ARG",
+  "reference": "03880004B34",
   "name": "FJORD V",
   "rating": {
     "gph": 689.1,
@@ -197,6 +198,5 @@
       7.5,
       8.1
     ]
-  },
-  "reference": "03880004B34"
+  }
 }

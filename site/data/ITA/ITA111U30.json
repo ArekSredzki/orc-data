@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA111U30",
   "country": "ITA",
+  "reference": "03190004JDQ",
   "name": "BANDALARGA",
   "rating": {
     "gph": 493.0,
@@ -197,6 +198,5 @@
       15.03,
       17.69
     ]
-  },
-  "reference": "03190004JDQ"
+  }
 }

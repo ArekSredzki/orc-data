@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10704_C",
   "country": "ESP",
+  "reference": "03510004SVS",
   "name": "PANIAN",
   "rating": {
     "gph": 640.4,
@@ -197,6 +198,5 @@
       7.32,
       7.9
     ]
-  },
-  "reference": "03510004SVS"
+  }
 }

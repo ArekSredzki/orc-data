@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA264",
   "country": "ITA",
+  "reference": "03190004HK9",
   "name": "LE VENT PERDU",
   "rating": {
     "gph": 552.4,
@@ -197,6 +198,5 @@
       9.0,
       9.9
     ]
-  },
-  "reference": "03190004HK9"
+  }
 }

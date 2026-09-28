@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN43",
   "country": "CAN",
+  "reference": "03430004I4N",
   "name": "Stiletto",
   "rating": {
     "gph": 580.0,
@@ -197,6 +198,5 @@
       8.33,
       10.03
     ]
-  },
-  "reference": "03430004I4N"
+  }
 }

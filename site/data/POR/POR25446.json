@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR25446",
   "country": "POR",
+  "reference": "03530004V8D",
   "name": "JAVALI SAILING",
   "rating": {
     "gph": 663.2,
@@ -197,6 +198,5 @@
       7.75,
       10.61
     ]
-  },
-  "reference": "03530004V8D"
+  }
 }

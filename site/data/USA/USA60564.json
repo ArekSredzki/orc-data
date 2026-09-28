@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60564",
   "country": "USA",
+  "reference": "04560004U5L",
   "name": "FINAL FINAL",
   "rating": {
     "gph": 431.3,
@@ -197,6 +198,5 @@
       13.65,
       16.78
     ]
-  },
-  "reference": "04560004U5L"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA39894",
   "country": "FRA",
+  "reference": "04330004HTL",
   "name": "TABON",
   "rating": {
     "gph": 650.9,
@@ -197,6 +198,5 @@
       7.69,
       9.97
     ]
-  },
-  "reference": "04330004HTL"
+  }
 }

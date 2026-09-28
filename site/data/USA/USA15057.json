@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA15057",
   "country": "USA",
+  "reference": "04560004V5T",
   "name": "IT'S A ZOO",
   "rating": {
     "gph": 654.5,
@@ -197,6 +198,5 @@
       7.47,
       8.2
     ]
-  },
-  "reference": "04560004V5T"
+  }
 }

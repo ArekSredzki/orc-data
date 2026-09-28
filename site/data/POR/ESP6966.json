@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/ESP6966",
   "country": "POR",
+  "reference": "03530004T29",
   "name": "WHO'S NEXT",
   "rating": {
     "gph": 580.3,
@@ -197,6 +198,5 @@
       8.61,
       9.63
     ]
-  },
-  "reference": "03530004T29"
+  }
 }

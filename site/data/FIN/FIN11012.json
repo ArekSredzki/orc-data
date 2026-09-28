@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11012",
   "country": "FIN",
+  "reference": "04140004VK3",
   "name": "Ariel",
   "rating": {
     "gph": 647.5,
@@ -197,6 +198,5 @@
       7.89,
       8.88
     ]
-  },
-  "reference": "04140004VK3"
+  }
 }

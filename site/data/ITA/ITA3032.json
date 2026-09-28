@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA3032",
   "country": "ITA",
+  "reference": "03190004J7J",
   "name": "INTRUDER",
   "rating": {
     "gph": 588.7,
@@ -197,6 +198,5 @@
       9.33,
       12.22
     ]
-  },
-  "reference": "03190004J7J"
+  }
 }

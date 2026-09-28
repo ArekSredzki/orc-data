@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO1902",
   "country": "CRO",
+  "reference": "03620004IMJ",
   "name": "Quebec",
   "rating": {
     "gph": 612.3,
@@ -197,6 +198,5 @@
       7.83,
       9.15
     ]
-  },
-  "reference": "03620004IMJ"
+  }
 }

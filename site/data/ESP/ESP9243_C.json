@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9243_C",
   "country": "ESP",
+  "reference": "03510004FTD",
   "name": "MENTHOLAD - IBIZASAILINGEXPERIENCE",
   "rating": {
     "gph": 676.0,
@@ -197,6 +198,5 @@
       7.22,
       7.76
     ]
-  },
-  "reference": "03510004FTD"
+  }
 }

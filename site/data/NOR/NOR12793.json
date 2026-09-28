@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12793",
   "country": "NOR",
+  "reference": "03440004O8R",
   "name": "Susanne1",
   "rating": {
     "gph": 601.5,
@@ -197,6 +198,5 @@
       7.92,
       8.58
     ]
-  },
-  "reference": "03440004O8R"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3516",
   "country": "NED",
+  "reference": "04310004LTO",
   "name": "Blackbird",
   "rating": {
     "gph": 611.5,
@@ -197,6 +198,5 @@
       7.69,
       8.47
     ]
-  },
-  "reference": "04310004LTO"
+  }
 }

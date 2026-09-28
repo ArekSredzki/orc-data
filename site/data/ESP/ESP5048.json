@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5048",
   "country": "ESP",
+  "reference": "03510004F0E",
   "name": "LLOP UNO",
   "rating": {
     "gph": 696.7,
@@ -197,6 +198,5 @@
       7.08,
       7.7
     ]
-  },
-  "reference": "03510004F0E"
+  }
 }

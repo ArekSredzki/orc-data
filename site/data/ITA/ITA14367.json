@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14367",
   "country": "ITA",
+  "reference": "03190004S3U",
   "name": "VAIMO' SHERE KHAN",
   "rating": {
     "gph": 629.6,
@@ -197,6 +198,5 @@
       7.85,
       8.55
     ]
-  },
-  "reference": "03190004S3U"
+  }
 }

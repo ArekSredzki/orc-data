@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL7888",
   "country": "BUL",
+  "reference": "03850004Q9H",
   "name": "MAXI",
   "rating": {
     "gph": 699.6,
@@ -197,6 +198,5 @@
       9.58,
       12.55
     ]
-  },
-  "reference": "03850004Q9H"
+  }
 }

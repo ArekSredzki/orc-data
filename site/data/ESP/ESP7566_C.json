@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7566_C",
   "country": "ESP",
+  "reference": "03510004BJL",
   "name": "BROTHERS JAMES",
   "rating": {
     "gph": 583.4,
@@ -197,6 +198,5 @@
       8.16,
       8.81
     ]
-  },
-  "reference": "03510004BJL"
+  }
 }

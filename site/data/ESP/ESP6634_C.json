@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6634_C",
   "country": "ESP",
+  "reference": "03510004C5N",
   "name": "HAPPY",
   "rating": {
     "gph": 688.5,
@@ -197,6 +198,5 @@
       7.14,
       7.71
     ]
-  },
-  "reference": "03510004C5N"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAMAGAG",
   "country": "ITA",
+  "reference": "03190004FFP",
   "name": "MAGA G BY TOO",
   "rating": {
     "gph": 634.4,
@@ -197,6 +198,5 @@
       7.85,
       8.5
     ]
-  },
-  "reference": "03190004FFP"
+  }
 }

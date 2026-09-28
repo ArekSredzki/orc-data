@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5549",
   "country": "GER",
+  "reference": "03520004T1K",
   "name": "MOANA",
   "rating": {
     "gph": 487.0,
@@ -197,6 +198,5 @@
       11.1,
       13.63
     ]
-  },
-  "reference": "03520004T1K"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52511",
   "country": "USA",
+  "reference": "04560004H06",
   "name": "SPIRITED",
   "rating": {
     "gph": 567.3,
@@ -197,6 +198,5 @@
       8.38,
       10.22
     ]
-  },
-  "reference": "04560004H06"
+  }
 }

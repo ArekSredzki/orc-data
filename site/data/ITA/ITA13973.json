@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13973",
   "country": "ITA",
+  "reference": "03190004WCL",
   "name": "SHIRLAF",
   "rating": {
     "gph": 550.1,
@@ -197,6 +198,5 @@
       8.73,
       9.35
     ]
-  },
-  "reference": "03190004WCL"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL9658",
   "country": "POL",
+  "reference": "04410004OM0",
   "name": "CZARODZIEJKA",
   "rating": {
     "gph": 745.0,
@@ -197,6 +198,5 @@
       6.68,
       7.26
     ]
-  },
-  "reference": "04410004OM0"
+  }
 }

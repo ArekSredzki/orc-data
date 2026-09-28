@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7017",
   "country": "GER",
+  "reference": "04150004WFT",
   "name": "RELAX DE LUXE",
   "rating": {
     "gph": 628.7,
@@ -197,6 +198,5 @@
       8.12,
       8.86
     ]
-  },
-  "reference": "04150004WFT"
+  }
 }

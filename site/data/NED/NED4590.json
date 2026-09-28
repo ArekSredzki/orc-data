@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4590",
   "country": "NED",
+  "reference": "04310004JUL",
   "name": "Boruna",
   "rating": {
     "gph": 581.2,
@@ -197,6 +198,5 @@
       8.61,
       9.31
     ]
-  },
-  "reference": "04310004JUL"
+  }
 }

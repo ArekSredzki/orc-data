@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GBR171",
   "country": "GBR",
+  "reference": "03860004JFF",
   "name": "MATCHLESS",
   "rating": {
     "gph": 562.2,
@@ -197,6 +198,5 @@
       8.34,
       8.97
     ]
-  },
-  "reference": "03860004JFF"
+  }
 }

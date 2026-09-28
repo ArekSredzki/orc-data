@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP501_C",
   "country": "ESP",
+  "reference": "03510004SLO",
   "name": "BARLOVENTO",
   "rating": {
     "gph": 653.0,
@@ -197,6 +198,5 @@
       7.89,
       8.73
     ]
-  },
-  "reference": "03510004SLO"
+  }
 }

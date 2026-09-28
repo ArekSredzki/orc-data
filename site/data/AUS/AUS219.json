@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS219",
   "country": "AUS",
+  "reference": "03020004TBM",
   "name": "Ultimate Tune",
   "rating": {
     "gph": 606.3,
@@ -197,6 +198,5 @@
       10.19,
       12.98
     ]
-  },
-  "reference": "03020004TBM"
+  }
 }

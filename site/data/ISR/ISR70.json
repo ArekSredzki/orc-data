@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR70",
   "country": "ISR",
+  "reference": "043900048BP",
   "name": "Jam",
   "rating": {
     "gph": 671.8,
@@ -197,6 +198,5 @@
       9.34,
       12.43
     ]
-  },
-  "reference": "043900048BP"
+  }
 }

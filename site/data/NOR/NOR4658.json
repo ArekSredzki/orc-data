@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR4658",
   "country": "NOR",
+  "reference": "03440004O91",
   "name": "Lady Stardust",
   "rating": {
     "gph": 673.6,
@@ -197,6 +198,5 @@
       7.45,
       8.18
     ]
-  },
-  "reference": "03440004O91"
+  }
 }

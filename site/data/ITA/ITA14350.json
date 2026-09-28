@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14350",
   "country": "ITA",
+  "reference": "03190004I9L",
   "name": "HONEY BADGER",
   "rating": {
     "gph": 599.2,
@@ -197,6 +198,5 @@
       7.74,
       9.0
     ]
-  },
-  "reference": "03190004I9L"
+  }
 }

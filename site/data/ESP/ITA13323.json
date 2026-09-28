@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ITA13323",
   "country": "ESP",
+  "reference": "03510004B7I",
   "name": "JONATHAN VII",
   "rating": {
     "gph": 606.7,
@@ -197,6 +198,5 @@
       8.15,
       9.11
     ]
-  },
-  "reference": "03510004B7I"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15075",
   "country": "ITA",
+  "reference": "03190004I8D",
   "name": "VIS IOVIS",
   "rating": {
     "gph": 690.6,
@@ -197,6 +198,5 @@
       7.38,
       8.07
     ]
-  },
-  "reference": "03190004I8D"
+  }
 }

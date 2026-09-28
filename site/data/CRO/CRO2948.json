@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2948",
   "country": "CRO",
+  "reference": "03620004B1B",
   "name": "March",
   "rating": {
     "gph": 582.1,
@@ -197,6 +198,5 @@
       8.83,
       11.55
     ]
-  },
-  "reference": "03620004B1B"
+  }
 }

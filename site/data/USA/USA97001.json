@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA97001",
   "country": "USA",
+  "reference": "04560004FL1",
   "name": "AL NA'IR",
   "rating": {
     "gph": 633.6,
@@ -197,6 +198,5 @@
       7.62,
       9.0
     ]
-  },
-  "reference": "04560004FL1"
+  }
 }

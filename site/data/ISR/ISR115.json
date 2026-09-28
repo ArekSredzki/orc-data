@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR115",
   "country": "ISR",
+  "reference": "04390004EDS",
   "name": "Dina D",
   "rating": {
     "gph": 747.6,
@@ -197,6 +198,5 @@
       6.98,
       9.02
     ]
-  },
-  "reference": "04390004EDS"
+  }
 }

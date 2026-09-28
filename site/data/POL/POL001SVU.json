@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL001SVU",
   "country": "POL",
+  "reference": "04410004W34",
   "name": "MILOU",
   "rating": {
     "gph": 620.2,
@@ -197,6 +198,5 @@
       7.99,
       8.79
     ]
-  },
-  "reference": "04410004W34"
+  }
 }

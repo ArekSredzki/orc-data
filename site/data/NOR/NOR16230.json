@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16230",
   "country": "NOR",
+  "reference": "03440004SLL",
   "name": "Meaning of life",
   "rating": {
     "gph": 638.8,
@@ -197,6 +198,5 @@
       7.6,
       9.42
     ]
-  },
-  "reference": "03440004SLL"
+  }
 }

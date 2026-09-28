@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL6544",
   "country": "POL",
+  "reference": "04410004U2U",
   "name": "SKY PROJECT",
   "rating": {
     "gph": 718.5,
@@ -197,6 +198,5 @@
       7.15,
       7.79
     ]
-  },
-  "reference": "04410004U2U"
+  }
 }

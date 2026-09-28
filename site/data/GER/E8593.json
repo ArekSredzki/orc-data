@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/E8593",
   "country": "GER",
+  "reference": "04150004M0F",
   "name": "MINNE MUUS",
   "rating": {
     "gph": 602.9,
@@ -197,6 +198,5 @@
       11.01,
       13.91
     ]
-  },
-  "reference": "04150004M0F"
+  }
 }

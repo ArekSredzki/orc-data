@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1126",
   "country": "GRE",
+  "reference": "03420004LC6",
   "name": "CAPT. YIOTIS",
   "rating": {
     "gph": 651.7,
@@ -197,6 +198,5 @@
       8.05,
       8.67
     ]
-  },
-  "reference": "03420004LC6"
+  }
 }

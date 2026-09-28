@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7167",
   "country": "GER",
+  "reference": "04150004KL9",
   "name": "CHARLOTTE",
   "rating": {
     "gph": 734.6,
@@ -197,6 +198,5 @@
       7.02,
       7.64
     ]
-  },
-  "reference": "04150004KL9"
+  }
 }

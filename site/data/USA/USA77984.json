@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA77984",
   "country": "USA",
+  "reference": "04560004V6R",
   "name": "OC 68",
   "rating": {
     "gph": 477.0,
@@ -197,6 +198,5 @@
       11.07,
       13.16
     ]
-  },
-  "reference": "04560004V6R"
+  }
 }

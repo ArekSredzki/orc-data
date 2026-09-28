@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8734",
   "country": "GER",
+  "reference": "03520004SKS",
   "name": "SPLEENIG",
   "rating": {
     "gph": 628.6,
@@ -197,6 +198,5 @@
       7.9,
       8.54
     ]
-  },
-  "reference": "03520004SKS"
+  }
 }

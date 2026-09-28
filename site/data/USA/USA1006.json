@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA1006",
   "country": "USA",
+  "reference": "04560004P8E",
   "name": "KUCHI KOPI",
   "rating": {
     "gph": 570.5,
@@ -197,6 +198,5 @@
       8.17,
       9.31
     ]
-  },
-  "reference": "04560004P8E"
+  }
 }

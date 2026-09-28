@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16035",
   "country": "ITA",
+  "reference": "03190004L17",
   "name": "GIUGIU'NELVENTO",
   "rating": {
     "gph": 537.5,
@@ -197,6 +198,5 @@
       9.3,
       11.6
     ]
-  },
-  "reference": "03190004L17"
+  }
 }

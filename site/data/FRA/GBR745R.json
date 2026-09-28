@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR745R",
   "country": "FRA",
+  "reference": "04330004WLN",
   "name": "AMANJIWO",
   "rating": {
     "gph": 506.5,
@@ -197,6 +198,5 @@
       10.75,
       13.56
     ]
-  },
-  "reference": "04330004WLN"
+  }
 }

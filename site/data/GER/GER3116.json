@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER3116",
   "country": "GER",
+  "reference": "03520004I1J",
   "name": "STALKER",
   "rating": {
     "gph": 694.3,
@@ -197,6 +198,5 @@
       7.15,
       7.82
     ]
-  },
-  "reference": "03520004I1J"
+  }
 }

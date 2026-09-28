@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/ESP9297",
   "country": "GRE",
+  "reference": "03420004PUR",
   "name": "ANDARIN",
   "rating": {
     "gph": 618.4,
@@ -197,6 +198,5 @@
       8.24,
       10.35
     ]
-  },
-  "reference": "03420004PUR"
+  }
 }

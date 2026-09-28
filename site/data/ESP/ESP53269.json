@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP53269",
   "country": "ESP",
+  "reference": "03510004FSD",
   "name": "SAVIMIKI",
   "rating": {
     "gph": 610.9,
@@ -197,6 +198,5 @@
       10.68,
       13.7
     ]
-  },
-  "reference": "03510004FSD"
+  }
 }

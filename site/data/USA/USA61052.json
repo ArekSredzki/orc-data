@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61052",
   "country": "USA",
+  "reference": "04560004OKB",
   "name": "True Love",
   "rating": {
     "gph": 622.5,
@@ -197,6 +198,5 @@
       8.05,
       8.62
     ]
-  },
-  "reference": "04560004OKB"
+  }
 }

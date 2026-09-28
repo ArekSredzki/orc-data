@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8345",
   "country": "ESP",
+  "reference": "03510004RK4",
   "name": "MIAJA X",
   "rating": {
     "gph": 569.1,
@@ -197,6 +198,5 @@
       8.76,
       9.91
     ]
-  },
-  "reference": "03510004RK4"
+  }
 }

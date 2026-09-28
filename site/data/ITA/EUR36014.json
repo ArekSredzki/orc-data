@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/EUR36014",
   "country": "ITA",
+  "reference": "03190004PDV",
   "name": "INES",
   "rating": {
     "gph": 550.7,
@@ -197,6 +198,5 @@
       10.33,
       13.44
     ]
-  },
-  "reference": "03190004PDV"
+  }
 }

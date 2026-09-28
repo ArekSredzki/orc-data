@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN3409",
   "country": "FIN",
+  "reference": "04140004T10",
   "name": "Kipin\u00e4",
   "rating": {
     "gph": 689.0,
@@ -197,6 +198,5 @@
       7.21,
       7.86
     ]
-  },
-  "reference": "04140004T10"
+  }
 }

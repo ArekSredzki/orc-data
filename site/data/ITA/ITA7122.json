@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA7122",
   "country": "ITA",
+  "reference": "03190004MO2",
   "name": "BOSCERINO KEIMON",
   "rating": {
     "gph": 643.5,
@@ -197,6 +198,5 @@
       7.6,
       8.28
     ]
-  },
-  "reference": "03190004MO2"
+  }
 }

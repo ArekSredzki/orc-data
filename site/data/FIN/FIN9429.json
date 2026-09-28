@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN9429",
   "country": "FIN",
+  "reference": "04140004WT7",
   "name": "Fuuga",
   "rating": {
     "gph": 694.8,
@@ -197,6 +198,5 @@
       6.83,
       7.36
     ]
-  },
-  "reference": "04140004WT7"
+  }
 }

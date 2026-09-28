@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8848_C",
   "country": "ESP",
+  "reference": "03510004MOL",
   "name": "ALGAZUL 3",
   "rating": {
     "gph": 640.2,
@@ -197,6 +198,5 @@
       7.76,
       8.49
     ]
-  },
-  "reference": "03510004MOL"
+  }
 }

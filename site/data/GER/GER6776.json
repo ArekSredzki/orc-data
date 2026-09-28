@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6776",
   "country": "GER",
+  "reference": "04150004RTI",
   "name": "HIT",
   "rating": {
     "gph": 524.6,
@@ -197,6 +198,5 @@
       10.85,
       14.0
     ]
-  },
-  "reference": "04150004RTI"
+  }
 }

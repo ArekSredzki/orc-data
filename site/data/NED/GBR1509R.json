@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/GBR1509R",
   "country": "NED",
+  "reference": "04310004JRV",
   "name": "Jibe",
   "rating": {
     "gph": 615.0,
@@ -197,6 +198,5 @@
       7.69,
       8.82
     ]
-  },
-  "reference": "04310004JRV"
+  }
 }

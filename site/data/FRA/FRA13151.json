@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA13151",
   "country": "FRA",
+  "reference": "04330004FF0",
   "name": "LADY JO",
   "rating": {
     "gph": 572.6,
@@ -197,6 +198,5 @@
       8.7,
       9.48
     ]
-  },
-  "reference": "04330004FF0"
+  }
 }

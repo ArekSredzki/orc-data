@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN47",
   "country": "FIN",
+  "reference": "03290004T4F",
   "name": "Monkey 47",
   "rating": {
     "gph": 513.8,
@@ -197,6 +198,5 @@
       10.93,
       14.12
     ]
-  },
-  "reference": "03290004T4F"
+  }
 }

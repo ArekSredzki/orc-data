@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16416",
   "country": "NOR",
+  "reference": "03440004Q9V",
   "name": "PocketRocket",
   "rating": {
     "gph": 802.1,
@@ -197,6 +198,5 @@
       7.34,
       10.17
     ]
-  },
-  "reference": "03440004Q9V"
+  }
 }

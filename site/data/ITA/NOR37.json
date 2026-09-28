@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/NOR37",
   "country": "ITA",
+  "reference": "03190004LPC",
   "name": "IBUBI-X",
   "rating": {
     "gph": 565.5,
@@ -197,6 +198,5 @@
       8.35,
       9.93
     ]
-  },
-  "reference": "03190004LPC"
+  }
 }

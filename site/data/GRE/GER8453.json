@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GER8453",
   "country": "GRE",
+  "reference": "03420004IVJ",
   "name": "ON Y VA",
   "rating": {
     "gph": 510.3,
@@ -197,6 +198,5 @@
       9.58,
       11.08
     ]
-  },
-  "reference": "03420004IVJ"
+  }
 }

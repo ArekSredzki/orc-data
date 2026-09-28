@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE888",
   "country": "GRE",
+  "reference": "03420004I7V",
   "name": "RAFFICA DI VENTO",
   "rating": {
     "gph": 587.8,
@@ -197,6 +198,5 @@
       8.52,
       9.6
     ]
-  },
-  "reference": "03420004I7V"
+  }
 }

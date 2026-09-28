@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8391",
   "country": "NED",
+  "reference": "04310004K16",
   "name": "Bluesmile",
   "rating": {
     "gph": 645.8,
@@ -197,6 +198,5 @@
       11.56,
       14.13
     ]
-  },
-  "reference": "04310004K16"
+  }
 }

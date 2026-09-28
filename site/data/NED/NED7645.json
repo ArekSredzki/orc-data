@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7645",
   "country": "NED",
+  "reference": "04310004UCC",
   "name": "Osprey",
   "rating": {
     "gph": 608.6,
@@ -197,6 +198,5 @@
       8.21,
       9.05
     ]
-  },
-  "reference": "04310004UCC"
+  }
 }

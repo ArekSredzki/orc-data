@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8491_C",
   "country": "ESP",
+  "reference": "03510004KIC",
   "name": "MOFLETE",
   "rating": {
     "gph": 656.3,
@@ -197,6 +198,5 @@
       7.88,
       8.51
     ]
-  },
-  "reference": "03510004KIC"
+  }
 }

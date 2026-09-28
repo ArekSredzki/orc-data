@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16061",
   "country": "ITA",
+  "reference": "03190004LOU",
   "name": "PORTHOS",
   "rating": {
     "gph": 574.6,
@@ -197,6 +198,5 @@
       8.41,
       9.23
     ]
-  },
-  "reference": "03190004LOU"
+  }
 }

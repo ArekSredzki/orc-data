@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP25364_C",
   "country": "ESP",
+  "reference": "03510004BTB",
   "name": "PAGELL",
   "rating": {
     "gph": 670.8,
@@ -197,6 +198,5 @@
       7.77,
       10.63
     ]
-  },
-  "reference": "03510004BTB"
+  }
 }

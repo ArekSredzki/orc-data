@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA82004",
   "country": "USA",
+  "reference": "04560004VFJ",
   "name": "UNDERLORD",
   "rating": {
     "gph": 445.1,
@@ -197,6 +198,5 @@
       10.75,
       11.95
     ]
-  },
-  "reference": "04560004VFJ"
+  }
 }

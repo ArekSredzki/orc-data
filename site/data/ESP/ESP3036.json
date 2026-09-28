@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3036",
   "country": "ESP",
+  "reference": "03510004FT3",
   "name": "PETROUCHKA II",
   "rating": {
     "gph": 690.1,
@@ -197,6 +198,5 @@
       7.26,
       7.86
     ]
-  },
-  "reference": "03510004FT3"
+  }
 }

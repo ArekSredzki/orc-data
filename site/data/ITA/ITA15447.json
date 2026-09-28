@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15447",
   "country": "ITA",
+  "reference": "03190004STA",
   "name": "HALLEY",
   "rating": {
     "gph": 624.3,
@@ -197,6 +198,5 @@
       7.54,
       9.03
     ]
-  },
-  "reference": "03190004STA"
+  }
 }

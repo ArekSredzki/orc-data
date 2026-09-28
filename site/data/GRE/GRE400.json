@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE400",
   "country": "GRE",
+  "reference": "03420004OWC",
   "name": "SUGAR",
   "rating": {
     "gph": 594.6,
@@ -197,6 +198,5 @@
       8.42,
       9.29
     ]
-  },
-  "reference": "03420004OWC"
+  }
 }

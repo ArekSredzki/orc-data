@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12014",
   "country": "NOR",
+  "reference": "03440004NB5",
   "name": "CoCo Jr",
   "rating": {
     "gph": 599.4,
@@ -197,6 +198,5 @@
       7.69,
       8.77
     ]
-  },
-  "reference": "03440004NB5"
+  }
 }

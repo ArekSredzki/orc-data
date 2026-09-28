@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8834",
   "country": "NED",
+  "reference": "04310004PEL",
   "name": "Dehlerious",
   "rating": {
     "gph": 627.0,
@@ -197,6 +198,5 @@
       7.59,
       8.25
     ]
-  },
-  "reference": "04310004PEL"
+  }
 }

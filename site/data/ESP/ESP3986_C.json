@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3986_C",
   "country": "ESP",
+  "reference": "03510004888",
   "name": "EL INTREPIDO",
   "rating": {
     "gph": 763.4,
@@ -197,6 +198,5 @@
       6.63,
       7.21
     ]
-  },
-  "reference": "03510004888"
+  }
 }

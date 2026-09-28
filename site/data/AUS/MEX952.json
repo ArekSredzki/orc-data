@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/MEX952",
   "country": "AUS",
+  "reference": "03020004T17",
   "name": "M52",
   "rating": {
     "gph": 452.5,
@@ -197,6 +198,5 @@
       12.81,
       15.82
     ]
-  },
-  "reference": "03020004T17"
+  }
 }

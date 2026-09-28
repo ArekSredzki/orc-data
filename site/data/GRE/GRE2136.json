@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2136",
   "country": "GRE",
+  "reference": "03420004SVC",
   "name": "MORAVA",
   "rating": {
     "gph": 630.1,
@@ -197,6 +198,5 @@
       7.89,
       8.51
     ]
-  },
-  "reference": "03420004SVC"
+  }
 }

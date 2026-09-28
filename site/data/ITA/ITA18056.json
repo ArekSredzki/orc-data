@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18056",
   "country": "ITA",
+  "reference": "03190004C0M",
   "name": "ARRICCIASPICCIA II",
   "rating": {
     "gph": 663.8,
@@ -197,6 +198,5 @@
       7.64,
       8.43
     ]
-  },
-  "reference": "03190004C0M"
+  }
 }

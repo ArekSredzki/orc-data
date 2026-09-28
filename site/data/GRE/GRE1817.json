@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1817",
   "country": "GRE",
+  "reference": "03420004OUF",
   "name": "SUNBIRD",
   "rating": {
     "gph": 603.9,
@@ -197,6 +198,5 @@
       8.18,
       8.9
     ]
-  },
-  "reference": "03420004OUF"
+  }
 }

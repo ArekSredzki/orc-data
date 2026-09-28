@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA64",
   "country": "USA",
+  "reference": "04560004S6E",
   "name": "TASHIMA",
   "rating": {
     "gph": 579.9,
@@ -197,6 +198,5 @@
       8.39,
       10.64
     ]
-  },
-  "reference": "04560004S6E"
+  }
 }

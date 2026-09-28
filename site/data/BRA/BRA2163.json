@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2163",
   "country": "BRA",
+  "reference": "04420004VF8",
   "name": "TERROSO",
   "rating": {
     "gph": 517.2,
@@ -197,6 +198,5 @@
       9.91,
       11.47
     ]
-  },
-  "reference": "04420004VF8"
+  }
 }

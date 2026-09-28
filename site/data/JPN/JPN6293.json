@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN6293",
   "country": "JPN",
+  "reference": "03390004N3R",
   "name": "PASTIME 2",
   "rating": {
     "gph": 670.4,
@@ -197,6 +198,5 @@
       7.33,
       8.17
     ]
-  },
-  "reference": "03390004N3R"
+  }
 }

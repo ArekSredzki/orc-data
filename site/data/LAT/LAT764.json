@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT764",
   "country": "LAT",
+  "reference": "04960004WJS",
   "name": "Spura",
   "rating": {
     "gph": 757.0,
@@ -197,6 +198,5 @@
       6.77,
       7.58
     ]
-  },
-  "reference": "04960004WJS"
+  }
 }

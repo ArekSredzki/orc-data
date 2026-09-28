@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE42509",
   "country": "GRE",
+  "reference": "03420004NMT",
   "name": "ALBATROS",
   "rating": {
     "gph": 848.8,
@@ -197,6 +198,5 @@
       6.55,
       7.1
     ]
-  },
-  "reference": "03420004NMT"
+  }
 }

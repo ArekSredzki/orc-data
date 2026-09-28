@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA60008",
   "country": "ITA",
+  "reference": "03190004PVO",
   "name": "CRAZY DIAMOND",
   "rating": {
     "gph": 503.7,
@@ -197,6 +198,5 @@
       9.6,
       10.45
     ]
-  },
-  "reference": "03190004PVO"
+  }
 }

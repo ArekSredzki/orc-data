@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/16129",
   "country": "AUS",
+  "reference": "03020004TS4",
   "name": "Wailea",
   "rating": {
     "gph": 591.0,
@@ -197,6 +198,5 @@
       8.37,
       9.22
     ]
-  },
-  "reference": "03020004TS4"
+  }
 }

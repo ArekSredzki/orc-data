@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA59500",
   "country": "USA",
+  "reference": "04560004F0R",
   "name": "First Light",
   "rating": {
     "gph": 570.9,
@@ -197,6 +198,5 @@
       8.73,
       9.51
     ]
-  },
-  "reference": "04560004F0R"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16622",
   "country": "ITA",
+  "reference": "03190004SSP",
   "name": "SPRITZ",
   "rating": {
     "gph": 626.0,
@@ -197,6 +198,5 @@
       7.7,
       9.24
     ]
-  },
-  "reference": "03190004SSP"
+  }
 }

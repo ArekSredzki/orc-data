@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3801",
   "country": "ESP",
+  "reference": "03510004MVL",
   "name": "ESMAR V",
   "rating": {
     "gph": 607.1,
@@ -197,6 +198,5 @@
       8.1,
       8.99
     ]
-  },
-  "reference": "03510004MVL"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1190_C",
   "country": "ESP",
+  "reference": "03510004BKI",
   "name": "PIM",
   "rating": {
     "gph": 656.5,
@@ -197,6 +198,5 @@
       8.72,
       11.87
     ]
-  },
-  "reference": "03510004BKI"
+  }
 }

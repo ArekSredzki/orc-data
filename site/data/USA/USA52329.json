@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52329",
   "country": "USA",
+  "reference": "04560004UJJ",
   "name": "GRIT",
   "rating": {
     "gph": 444.1,
@@ -197,6 +198,5 @@
       13.16,
       16.2
     ]
-  },
-  "reference": "04560004UJJ"
+  }
 }

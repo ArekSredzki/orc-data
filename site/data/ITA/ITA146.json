@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA146",
   "country": "ITA",
+  "reference": "03190004U5B",
   "name": "GOLFO MISTICO",
   "rating": {
     "gph": 627.2,
@@ -197,6 +198,5 @@
       7.74,
       9.87
     ]
-  },
-  "reference": "03190004U5B"
+  }
 }

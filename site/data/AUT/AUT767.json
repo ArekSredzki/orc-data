@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT767",
   "country": "AUT",
+  "reference": "03210004I8V",
   "name": "Maverix",
   "rating": {
     "gph": 591.5,
@@ -197,6 +198,5 @@
       7.88,
       8.51
     ]
-  },
-  "reference": "03210004I8V"
+  }
 }

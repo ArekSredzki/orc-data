@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm4000",
   "country": "AUS",
+  "reference": "03020004TNS",
   "name": "Niche",
   "rating": {
     "gph": 578.9,
@@ -197,6 +198,5 @@
       8.59,
       9.51
     ]
-  },
-  "reference": "03020004TNS"
+  }
 }

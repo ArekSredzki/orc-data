@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/HUN3301",
   "country": "BUL",
+  "reference": "03850004W44",
   "name": "Maxi-X",
   "rating": {
     "gph": 599.8,
@@ -197,6 +198,5 @@
       8.1,
       10.42
     ]
-  },
-  "reference": "03850004W44"
+  }
 }

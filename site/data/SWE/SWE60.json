@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE60",
   "country": "SWE",
+  "reference": "03200004T7F",
   "name": "LUFT",
   "rating": {
     "gph": 510.2,
@@ -197,6 +198,5 @@
       9.67,
       10.67
     ]
-  },
-  "reference": "03200004T7F"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5353",
   "country": "ARG",
+  "reference": "03880004N0U",
   "name": "CORRENTOSO SURFER",
   "rating": {
     "gph": 579.3,
@@ -197,6 +198,5 @@
       9.93,
       12.42
     ]
-  },
-  "reference": "03880004N0U"
+  }
 }

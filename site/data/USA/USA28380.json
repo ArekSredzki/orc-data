@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA28380",
   "country": "USA",
+  "reference": "04560004RJB",
   "name": "UNKNOWN LADY NAI",
   "rating": {
     "gph": 547.5,
@@ -197,6 +198,5 @@
       8.86,
       10.32
     ]
-  },
-  "reference": "04560004RJB"
+  }
 }

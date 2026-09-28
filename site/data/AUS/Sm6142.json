@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm6142",
   "country": "AUS",
+  "reference": "03020004TVA",
   "name": "Watermark II",
   "rating": {
     "gph": 656.0,
@@ -197,6 +198,5 @@
       7.55,
       8.44
     ]
-  },
-  "reference": "03020004TVA"
+  }
 }

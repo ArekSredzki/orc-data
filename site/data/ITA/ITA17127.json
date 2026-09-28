@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17127",
   "country": "ITA",
+  "reference": "03190004L8U",
   "name": "SOUND OF SILENCE",
   "rating": {
     "gph": 599.6,
@@ -197,6 +198,5 @@
       8.41,
       10.21
     ]
-  },
-  "reference": "03190004L8U"
+  }
 }

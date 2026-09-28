@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9064_C",
   "country": "ESP",
+  "reference": "03510004AW5",
   "name": "RATETA",
   "rating": {
     "gph": 699.5,
@@ -197,6 +198,5 @@
       7.09,
       7.72
     ]
-  },
-  "reference": "03510004AW5"
+  }
 }

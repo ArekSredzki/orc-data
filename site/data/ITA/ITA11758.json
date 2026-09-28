@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA11758",
   "country": "ITA",
+  "reference": "03190004I5V",
   "name": "FAROUCHE",
   "rating": {
     "gph": 730.0,
@@ -197,6 +198,5 @@
       6.97,
       7.57
     ]
-  },
-  "reference": "03190004I5V"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9177_C",
   "country": "ESP",
+  "reference": "03510004BLB",
   "name": "KATANA",
   "rating": {
     "gph": 625.8,
@@ -197,6 +198,5 @@
       7.83,
       8.55
     ]
-  },
-  "reference": "03510004BLB"
+  }
 }

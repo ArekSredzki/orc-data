@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA6217",
   "country": "ITA",
+  "reference": "03190004FON",
   "name": "CHAPLIN",
   "rating": {
     "gph": 551.9,
@@ -197,6 +198,5 @@
       9.1,
       9.88
     ]
-  },
-  "reference": "03190004FON"
+  }
 }

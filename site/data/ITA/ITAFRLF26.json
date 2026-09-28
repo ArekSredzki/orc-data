@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAFRLF26",
   "country": "ITA",
+  "reference": "03190004BSV",
   "name": "FREELIFE",
   "rating": {
     "gph": 611.2,
@@ -197,6 +198,5 @@
       9.19,
       12.35
     ]
-  },
-  "reference": "03190004BSV"
+  }
 }

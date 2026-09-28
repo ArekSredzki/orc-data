@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5784",
   "country": "GER",
+  "reference": "04150004KL4",
   "name": "ELKE 8",
   "rating": {
     "gph": 594.8,
@@ -197,6 +198,5 @@
       8.48,
       9.19
     ]
-  },
-  "reference": "04150004KL4"
+  }
 }

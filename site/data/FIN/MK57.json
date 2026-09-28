@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/MK57",
   "country": "FIN",
+  "reference": "04140004WCW",
   "name": "Arajeta",
   "rating": {
     "gph": 702.7,
@@ -197,6 +198,5 @@
       7.14,
       7.69
     ]
-  },
-  "reference": "04140004WCW"
+  }
 }

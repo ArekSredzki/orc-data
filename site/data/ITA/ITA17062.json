@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17062",
   "country": "ITA",
+  "reference": "03190004QCF",
   "name": "EXPENSIVE T OY",
   "rating": {
     "gph": 657.2,
@@ -197,6 +198,5 @@
       7.23,
       7.84
     ]
-  },
-  "reference": "03190004QCF"
+  }
 }

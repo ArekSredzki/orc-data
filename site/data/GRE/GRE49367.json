@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49367",
   "country": "GRE",
+  "reference": "03420004K3R",
   "name": "SKORPIOS",
   "rating": {
     "gph": 813.4,
@@ -197,6 +198,5 @@
       6.4,
       6.9
     ]
-  },
-  "reference": "03420004K3R"
+  }
 }

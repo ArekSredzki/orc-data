@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7100_C",
   "country": "ESP",
+  "reference": "03510004J7O",
   "name": "CHARISMA",
   "rating": {
     "gph": 545.7,
@@ -197,6 +198,5 @@
       8.8,
       9.45
     ]
-  },
-  "reference": "03510004J7O"
+  }
 }

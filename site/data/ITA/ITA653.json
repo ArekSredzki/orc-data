@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA653",
   "country": "ITA",
+  "reference": "03190004B9L",
   "name": "ENIGMA",
   "rating": {
     "gph": 534.1,
@@ -197,6 +198,5 @@
       8.95,
       9.75
     ]
-  },
-  "reference": "03190004B9L"
+  }
 }

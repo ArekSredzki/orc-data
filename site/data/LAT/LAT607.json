@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT607",
   "country": "LAT",
+  "reference": "04960004W2U",
   "name": "Blue Jade",
   "rating": {
     "gph": 649.2,
@@ -197,6 +198,5 @@
       7.74,
       8.42
     ]
-  },
-  "reference": "04960004W2U"
+  }
 }

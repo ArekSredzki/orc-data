@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6790",
   "country": "ESP",
+  "reference": "03510004KP4",
   "name": "FULL PIN",
   "rating": {
     "gph": 606.2,
@@ -197,6 +198,5 @@
       8.19,
       8.95
     ]
-  },
-  "reference": "03510004KP4"
+  }
 }

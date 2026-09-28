@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2504",
   "country": "LTU",
+  "reference": "03590004V11",
   "name": "VITO",
   "rating": {
     "gph": 679.1,
@@ -197,6 +198,5 @@
       7.37,
       9.35
     ]
-  },
-  "reference": "03590004V11"
+  }
 }

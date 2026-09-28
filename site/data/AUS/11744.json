@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/11744",
   "country": "AUS",
+  "reference": "03020004UMR",
   "name": "XS MOMENT",
   "rating": {
     "gph": 540.7,
@@ -197,6 +198,5 @@
       9.15,
       10.35
     ]
-  },
-  "reference": "03020004UMR"
+  }
 }

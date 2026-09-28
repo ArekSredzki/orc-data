@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6005_C",
   "country": "ESP",
+  "reference": "03510004V59",
   "name": "MIPIKI",
   "rating": {
     "gph": 673.9,
@@ -197,6 +198,5 @@
       7.33,
       7.95
     ]
-  },
-  "reference": "03510004V59"
+  }
 }

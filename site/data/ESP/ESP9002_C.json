@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9002_C",
   "country": "ESP",
+  "reference": "03510004BKC",
   "name": "O MONTARAZ",
   "rating": {
     "gph": 754.9,
@@ -197,6 +198,5 @@
       6.76,
       7.32
     ]
-  },
-  "reference": "03510004BKC"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9608_C",
   "country": "ESP",
+  "reference": "03510004KPC",
   "name": "HACH",
   "rating": {
     "gph": 668.3,
@@ -197,6 +198,5 @@
       7.56,
       8.34
     ]
-  },
-  "reference": "03510004KPC"
+  }
 }

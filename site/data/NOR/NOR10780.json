@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10780",
   "country": "NOR",
+  "reference": "03440004MQ1",
   "name": "First Mill",
   "rating": {
     "gph": 619.1,
@@ -197,6 +198,5 @@
       7.92,
       8.68
     ]
-  },
-  "reference": "03440004MQ1"
+  }
 }

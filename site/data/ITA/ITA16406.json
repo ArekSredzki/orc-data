@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16406",
   "country": "ITA",
+  "reference": "03190004OMR",
   "name": "SOUTH KENSINGTON",
   "rating": {
     "gph": 617.1,
@@ -197,6 +198,5 @@
       8.1,
       8.92
     ]
-  },
-  "reference": "03190004OMR"
+  }
 }

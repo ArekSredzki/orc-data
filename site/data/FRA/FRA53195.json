@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53195",
   "country": "FRA",
+  "reference": "04330004KUV",
   "name": "MAUPITI",
   "rating": {
     "gph": 625.7,
@@ -197,6 +198,5 @@
       8.32,
       9.93
     ]
-  },
-  "reference": "04330004KUV"
+  }
 }

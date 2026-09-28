@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10350_C",
   "country": "ESP",
+  "reference": "03510004N3I",
   "name": "TEMPIA",
   "rating": {
     "gph": 623.4,
@@ -197,6 +198,5 @@
       8.21,
       8.98
     ]
-  },
-  "reference": "03510004N3I"
+  }
 }

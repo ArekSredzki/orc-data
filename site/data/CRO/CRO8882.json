@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO8882",
   "country": "CRO",
+  "reference": "03620004B1I",
   "name": "LeeLoo",
   "rating": {
     "gph": 526.5,
@@ -197,6 +198,5 @@
       10.67,
       13.76
     ]
-  },
-  "reference": "03620004B1I"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4510_C",
   "country": "ESP",
+  "reference": "03510004HPL",
   "name": "EL X",
   "rating": {
     "gph": 611.8,
@@ -197,6 +198,5 @@
       8.13,
       9.07
     ]
-  },
-  "reference": "03510004HPL"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE7575",
   "country": "GRE",
+  "reference": "03420004IUO",
   "name": "GRACE",
   "rating": {
     "gph": 562.9,
@@ -197,6 +198,5 @@
       8.82,
       10.02
     ]
-  },
-  "reference": "03420004IUO"
+  }
 }

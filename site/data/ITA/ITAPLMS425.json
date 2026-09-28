@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAPLMS425",
   "country": "ITA",
+  "reference": "03190004PE3",
   "name": "PALMAS 4",
   "rating": {
     "gph": 656.1,
@@ -197,6 +198,5 @@
       7.45,
       8.08
     ]
-  },
-  "reference": "03190004PE3"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL168",
   "country": "BUL",
+  "reference": "03850004MVM",
   "name": "MINA-CAN II",
   "rating": {
     "gph": 678.8,
@@ -197,6 +198,5 @@
       7.81,
       8.47
     ]
-  },
-  "reference": "03850004MVM"
+  }
 }

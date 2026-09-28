@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14434",
   "country": "ITA",
+  "reference": "03190004QCB",
   "name": "DRAKAR",
   "rating": {
     "gph": 662.4,
@@ -197,6 +198,5 @@
       7.26,
       7.81
     ]
-  },
-  "reference": "03190004QCB"
+  }
 }

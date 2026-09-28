@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA12204",
   "country": "USA",
+  "reference": "04560004P63",
   "name": "DIRE WOLF",
   "rating": {
     "gph": 568.1,
@@ -197,6 +198,5 @@
       8.3,
       9.92
     ]
-  },
-  "reference": "04560004P63"
+  }
 }

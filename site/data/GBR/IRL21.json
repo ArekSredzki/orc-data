@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/IRL21",
   "country": "GBR",
+  "reference": "03860004878",
   "name": "NIMON",
   "rating": {
     "gph": 777.2,
@@ -197,6 +198,5 @@
       6.54,
       7.25
     ]
-  },
-  "reference": "03860004878"
+  }
 }

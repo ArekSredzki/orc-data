@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/PC27",
   "country": "AUS",
+  "reference": "03020004THW",
   "name": "Balancing Act",
   "rating": {
     "gph": 611.4,
@@ -197,6 +198,5 @@
       8.13,
       9.66
     ]
-  },
-  "reference": "03020004THW"
+  }
 }

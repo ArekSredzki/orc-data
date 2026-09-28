@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4793",
   "country": "ESP",
+  "reference": "03510004RF7",
   "name": "DUENDE 50",
   "rating": {
     "gph": 490.4,
@@ -197,6 +198,5 @@
       10.97,
       13.71
     ]
-  },
-  "reference": "03510004RF7"
+  }
 }

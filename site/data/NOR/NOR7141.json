@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR7141",
   "country": "NOR",
+  "reference": "03440004M4S",
   "name": "Elina",
   "rating": {
     "gph": 635.3,
@@ -197,6 +198,5 @@
       7.9,
       8.61
     ]
-  },
-  "reference": "03440004M4S"
+  }
 }

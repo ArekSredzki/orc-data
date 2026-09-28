@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER4159",
   "country": "GER",
+  "reference": "03520004I1P",
   "name": "SCHRAT II",
   "rating": {
     "gph": 653.3,
@@ -197,6 +198,5 @@
       7.84,
       8.8
     ]
-  },
-  "reference": "03520004I1P"
+  }
 }

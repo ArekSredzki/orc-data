@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10937",
   "country": "ESP",
+  "reference": "03510004SN5",
   "name": "RAYTER",
   "rating": {
     "gph": 604.3,
@@ -197,6 +198,5 @@
       8.28,
       9.07
     ]
-  },
-  "reference": "03510004SN5"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11449",
   "country": "FIN",
+  "reference": "04140004RF1",
   "name": "Xtra Staerk",
   "rating": {
     "gph": 541.4,
@@ -197,6 +198,5 @@
       8.76,
       10.31
     ]
-  },
-  "reference": "04140004RF1"
+  }
 }

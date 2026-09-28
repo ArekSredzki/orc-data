@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11503_C",
   "country": "ESP",
+  "reference": "03510004MO7",
   "name": "Skiathos",
   "rating": {
     "gph": 697.2,
@@ -197,6 +198,5 @@
       7.08,
       7.77
     ]
-  },
-  "reference": "03510004MO7"
+  }
 }

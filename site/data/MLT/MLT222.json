@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/MLT222",
   "country": "MLT",
+  "reference": "03230004UP4",
   "name": "Inspiration",
   "rating": {
     "gph": 609.8,
@@ -197,6 +198,5 @@
       7.71,
       8.34
     ]
-  },
-  "reference": "03230004UP4"
+  }
 }

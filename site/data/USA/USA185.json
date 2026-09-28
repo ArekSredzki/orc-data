@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA185",
   "country": "USA",
+  "reference": "04560004N2K",
   "name": "BLACK ARROW",
   "rating": {
     "gph": 613.9,
@@ -197,6 +198,5 @@
       7.7,
       8.6
     ]
-  },
-  "reference": "04560004N2K"
+  }
 }

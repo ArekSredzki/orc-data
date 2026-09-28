@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8360",
   "country": "GER",
+  "reference": "04150004TCM",
   "name": "SURSULAPITSCHI",
   "rating": {
     "gph": 675.3,
@@ -197,6 +198,5 @@
       7.47,
       8.2
     ]
-  },
-  "reference": "04150004TCM"
+  }
 }

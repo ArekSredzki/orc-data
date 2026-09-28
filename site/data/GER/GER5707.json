@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5707",
   "country": "GER",
+  "reference": "04150004QJD",
   "name": "LIES",
   "rating": {
     "gph": 612.0,
@@ -197,6 +198,5 @@
       8.18,
       8.85
     ]
-  },
-  "reference": "04150004QJD"
+  }
 }

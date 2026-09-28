@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN9",
   "country": "CAN",
+  "reference": "03430004TE0",
   "name": "Moxie",
   "rating": {
     "gph": 585.0,
@@ -197,6 +198,5 @@
       9.68,
       12.71
     ]
-  },
-  "reference": "03430004TE0"
+  }
 }

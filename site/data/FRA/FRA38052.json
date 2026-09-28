@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA38052",
   "country": "FRA",
+  "reference": "04330004MLF",
   "name": "OVERDOSE CHARLY",
   "rating": {
     "gph": 618.6,
@@ -197,6 +198,5 @@
       8.01,
       8.74
     ]
-  },
-  "reference": "04330004MLF"
+  }
 }

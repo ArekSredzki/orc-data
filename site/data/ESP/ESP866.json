@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP866",
   "country": "ESP",
+  "reference": "03510004WJ5",
   "name": "EBRO NAVEA",
   "rating": {
     "gph": 666.0,
@@ -197,6 +198,5 @@
       8.45,
       11.57
     ]
-  },
-  "reference": "03510004WJ5"
+  }
 }

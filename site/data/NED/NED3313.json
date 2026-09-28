@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3313",
   "country": "NED",
+  "reference": "04310004UM8",
   "name": "Xpectation",
   "rating": {
     "gph": 615.7,
@@ -197,6 +198,5 @@
       7.7,
       9.35
     ]
-  },
-  "reference": "04310004UM8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA39243",
   "country": "FRA",
+  "reference": "04330004H2R",
   "name": "SCHEGGIA",
   "rating": {
     "gph": 633.1,
@@ -197,6 +198,5 @@
       8.08,
       9.22
     ]
-  },
-  "reference": "04330004H2R"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL14776",
   "country": "POL",
+  "reference": "04410004W16",
   "name": "ASSO",
   "rating": {
     "gph": 717.1,
@@ -197,6 +198,5 @@
       7.33,
       8.4
     ]
-  },
-  "reference": "04410004W16"
+  }
 }

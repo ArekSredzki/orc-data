@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2594",
   "country": "LTU",
+  "reference": "03590004V3H",
   "name": "SALV\u0116",
   "rating": {
     "gph": 623.6,
@@ -197,6 +198,5 @@
       10.55,
       13.68
     ]
-  },
-  "reference": "03590004V3H"
+  }
 }

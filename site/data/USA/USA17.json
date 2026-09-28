@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA17",
   "country": "USA",
+  "reference": "04560004LI6",
   "name": "MAGGIE",
   "rating": {
     "gph": 594.0,
@@ -197,6 +198,5 @@
       9.39,
       12.11
     ]
-  },
-  "reference": "04560004LI6"
+  }
 }

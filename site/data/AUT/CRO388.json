@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/CRO388",
   "country": "AUT",
+  "reference": "03210004LJP",
   "name": "Bellavita_O",
   "rating": {
     "gph": 605.0,
@@ -197,6 +198,5 @@
       8.57,
       9.32
     ]
-  },
-  "reference": "03210004LJP"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/EUR36017",
   "country": "ITA",
+  "reference": "03190004TIN",
   "name": "EMY TOO",
   "rating": {
     "gph": 564.0,
@@ -197,6 +198,5 @@
       9.85,
       12.71
     ]
-  },
-  "reference": "03190004TIN"
+  }
 }

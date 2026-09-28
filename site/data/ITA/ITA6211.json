@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA6211",
   "country": "ITA",
+  "reference": "03190004PP2",
   "name": "ANN",
   "rating": {
     "gph": 672.8,
@@ -197,6 +198,5 @@
       7.47,
       8.04
     ]
-  },
-  "reference": "03190004PP2"
+  }
 }

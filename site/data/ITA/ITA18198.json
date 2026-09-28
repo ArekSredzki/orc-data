@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18198",
   "country": "ITA",
+  "reference": "03190004QU0",
   "name": "FREEDOM",
   "rating": {
     "gph": 620.2,
@@ -197,6 +198,5 @@
       8.55,
       9.36
     ]
-  },
-  "reference": "03190004QU0"
+  }
 }

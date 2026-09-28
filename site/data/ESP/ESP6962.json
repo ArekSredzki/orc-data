@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6962",
   "country": "ESP",
+  "reference": "035100048JE",
   "name": "ESTRELLA",
   "rating": {
     "gph": 686.7,
@@ -197,6 +198,5 @@
       7.32,
       7.96
     ]
-  },
-  "reference": "035100048JE"
+  }
 }

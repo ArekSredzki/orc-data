@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18218",
   "country": "ITA",
+  "reference": "03190004J7H",
   "name": "FOLGORE",
   "rating": {
     "gph": 587.2,
@@ -197,6 +198,5 @@
       8.11,
       9.08
     ]
-  },
-  "reference": "03190004J7H"
+  }
 }

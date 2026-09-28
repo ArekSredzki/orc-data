@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/ITA12128",
   "country": "RSA",
+  "reference": "04620004A47",
   "name": "MSC Donna Mia",
   "rating": {
     "gph": 634.7,
@@ -197,6 +198,5 @@
       7.76,
       8.54
     ]
-  },
-  "reference": "04620004A47"
+  }
 }

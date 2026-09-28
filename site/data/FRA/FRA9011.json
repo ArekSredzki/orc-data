@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9011",
   "country": "FRA",
+  "reference": "04330004O2V",
   "name": "TURBIDITE",
   "rating": {
     "gph": 700.9,
@@ -197,6 +198,5 @@
       7.23,
       7.93
     ]
-  },
-  "reference": "04330004O2V"
+  }
 }

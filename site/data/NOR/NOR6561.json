@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR6561",
   "country": "NOR",
+  "reference": "03440004MPI",
   "name": "TLALOCAN",
   "rating": {
     "gph": 697.6,
@@ -197,6 +198,5 @@
       7.18,
       7.84
     ]
-  },
-  "reference": "03440004MPI"
+  }
 }

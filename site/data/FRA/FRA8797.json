@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA8797",
   "country": "FRA",
+  "reference": "04330004LQK",
   "name": "FREELANCE",
   "rating": {
     "gph": 665.9,
@@ -197,6 +198,5 @@
       7.53,
       8.5
     ]
-  },
-  "reference": "04330004LQK"
+  }
 }

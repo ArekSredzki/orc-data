@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/CZE814",
   "country": "GRE",
+  "reference": "03420004R5T",
   "name": "LIRICA",
   "rating": {
     "gph": 550.3,
@@ -197,6 +198,5 @@
       8.52,
       9.46
     ]
-  },
-  "reference": "03420004R5T"
+  }
 }

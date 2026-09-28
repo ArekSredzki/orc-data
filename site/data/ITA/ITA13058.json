@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13058",
   "country": "ITA",
+  "reference": "03190004I72",
   "name": "ZEROINCONDOTTA",
   "rating": {
     "gph": 603.3,
@@ -197,6 +198,5 @@
       7.74,
       8.34
     ]
-  },
-  "reference": "03190004I72"
+  }
 }

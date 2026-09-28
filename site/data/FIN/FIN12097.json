@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12097",
   "country": "FIN",
+  "reference": "04140004QL5",
   "name": "Bellefantti",
   "rating": {
     "gph": 667.8,
@@ -197,6 +198,5 @@
       7.46,
       8.11
     ]
-  },
-  "reference": "04140004QL5"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO288",
   "country": "CRO",
+  "reference": "03620004VTT",
   "name": "Satan 2",
   "rating": {
     "gph": 659.4,
@@ -197,6 +198,5 @@
       7.59,
       9.38
     ]
-  },
-  "reference": "03620004VTT"
+  }
 }

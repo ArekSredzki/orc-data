@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA969",
   "country": "RSA",
+  "reference": "04620004CBS",
   "name": "Corum",
   "rating": {
     "gph": 565.7,
@@ -197,6 +198,5 @@
       8.84,
       10.07
     ]
-  },
-  "reference": "04620004CBS"
+  }
 }

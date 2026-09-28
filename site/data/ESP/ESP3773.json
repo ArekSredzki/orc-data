@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3773",
   "country": "ESP",
+  "reference": "03510004VQP",
   "name": "DRAC TEAM",
   "rating": {
     "gph": 586.3,
@@ -197,6 +198,5 @@
       8.49,
       9.43
     ]
-  },
-  "reference": "03510004VQP"
+  }
 }

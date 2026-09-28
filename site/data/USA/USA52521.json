@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52521",
   "country": "USA",
+  "reference": "04560004VIQ",
   "name": "HOOLIGAN",
   "rating": {
     "gph": 445.8,
@@ -197,6 +198,5 @@
       13.02,
       16.3
     ]
-  },
-  "reference": "04560004VIQ"
+  }
 }

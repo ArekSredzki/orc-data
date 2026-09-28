@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11134",
   "country": "ESP",
+  "reference": "03510004SHS",
   "name": "ROSIE",
   "rating": {
     "gph": 594.1,
@@ -197,6 +198,5 @@
       8.54,
       10.56
     ]
-  },
-  "reference": "03510004SHS"
+  }
 }

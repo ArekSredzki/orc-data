@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8763",
   "country": "GER",
+  "reference": "03520004QA9",
   "name": "AVANTI",
   "rating": {
     "gph": 585.5,
@@ -197,6 +198,5 @@
       9.0,
       11.55
     ]
-  },
-  "reference": "03520004QA9"
+  }
 }

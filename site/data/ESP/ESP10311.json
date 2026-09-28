@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10311",
   "country": "ESP",
+  "reference": "03510004VKM",
   "name": "NORTH FACE",
   "rating": {
     "gph": 711.5,
@@ -197,6 +198,5 @@
       7.13,
       7.78
     ]
-  },
-  "reference": "03510004VKM"
+  }
 }

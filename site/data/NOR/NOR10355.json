@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10355",
   "country": "NOR",
+  "reference": "03440004NAQ",
   "name": "Serendipity",
   "rating": {
     "gph": 621.5,
@@ -197,6 +198,5 @@
       7.9,
       8.62
     ]
-  },
-  "reference": "03440004NAQ"
+  }
 }

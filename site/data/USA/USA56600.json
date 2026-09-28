@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA56600",
   "country": "USA",
+  "reference": "04560004NI6",
   "name": "EL DIABLO",
   "rating": {
     "gph": 530.9,
@@ -197,6 +198,5 @@
       10.62,
       13.78
     ]
-  },
-  "reference": "04560004NI6"
+  }
 }

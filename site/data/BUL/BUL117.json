@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL117",
   "country": "BUL",
+  "reference": "03850004RU7",
   "name": "Kaliakria",
   "rating": {
     "gph": 625.2,
@@ -197,6 +198,5 @@
       7.87,
       8.53
     ]
-  },
-  "reference": "03850004RU7"
+  }
 }

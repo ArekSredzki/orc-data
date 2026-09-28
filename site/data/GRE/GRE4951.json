@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE4951",
   "country": "GRE",
+  "reference": "03420004K39",
   "name": "ZANTIO",
   "rating": {
     "gph": 714.6,
@@ -197,6 +198,5 @@
       6.95,
       7.56
     ]
-  },
-  "reference": "03420004K39"
+  }
 }

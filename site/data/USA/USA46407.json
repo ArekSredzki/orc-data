@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA46407",
   "country": "USA",
+  "reference": "04560004F9A",
   "name": "BLUR",
   "rating": {
     "gph": 647.1,
@@ -197,6 +198,5 @@
       8.68,
       11.85
     ]
-  },
-  "reference": "04560004F9A"
+  }
 }

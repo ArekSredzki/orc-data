@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE441",
   "country": "GRE",
+  "reference": "03420004LFA",
   "name": "KURONEKO",
   "rating": {
     "gph": 578.9,
@@ -197,6 +198,5 @@
       8.36,
       9.05
     ]
-  },
-  "reference": "03420004LFA"
+  }
 }

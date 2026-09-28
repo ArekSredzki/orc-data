@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN27111",
   "country": "FIN",
+  "reference": "04140004VTC",
   "name": "Sk\u00f8n",
   "rating": {
     "gph": 678.5,
@@ -197,6 +198,5 @@
       7.01,
       7.82
     ]
-  },
-  "reference": "04140004VTC"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/USA278",
   "country": "CAN",
+  "reference": "03430004MBI",
   "name": "Moonshadow",
   "rating": {
     "gph": 614.2,
@@ -197,6 +198,5 @@
       8.16,
       10.13
     ]
-  },
-  "reference": "03430004MBI"
+  }
 }

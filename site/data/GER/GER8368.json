@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8368",
   "country": "GER",
+  "reference": "04150004IV9",
   "name": "CAELESTIA",
   "rating": {
     "gph": 643.7,
@@ -197,6 +198,5 @@
       7.47,
       8.03
     ]
-  },
-  "reference": "04150004IV9"
+  }
 }

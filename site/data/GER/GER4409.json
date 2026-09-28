@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER4409",
   "country": "GER",
+  "reference": "04150004MN2",
   "name": "PANDA",
   "rating": {
     "gph": 634.0,
@@ -197,6 +198,5 @@
       7.9,
       8.73
     ]
-  },
-  "reference": "04150004MN2"
+  }
 }

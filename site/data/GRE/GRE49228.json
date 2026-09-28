@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49228",
   "country": "GRE",
+  "reference": "03420004H92",
   "name": "EVRIALI",
   "rating": {
     "gph": 641.7,
@@ -197,6 +198,5 @@
       7.84,
       8.62
     ]
-  },
-  "reference": "03420004H92"
+  }
 }

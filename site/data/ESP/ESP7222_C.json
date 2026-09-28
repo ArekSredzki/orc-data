@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7222_C",
   "country": "ESP",
+  "reference": "03510004W4H",
   "name": "FILISPIN",
   "rating": {
     "gph": 620.2,
@@ -197,6 +198,5 @@
       7.79,
       8.94
     ]
-  },
-  "reference": "03510004W4H"
+  }
 }

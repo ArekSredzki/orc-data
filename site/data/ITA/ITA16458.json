@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16458",
   "country": "ITA",
+  "reference": "03190004HJH",
   "name": "NAIR",
   "rating": {
     "gph": 580.3,
@@ -197,6 +198,5 @@
       8.1,
       8.82
     ]
-  },
-  "reference": "03190004HJH"
+  }
 }

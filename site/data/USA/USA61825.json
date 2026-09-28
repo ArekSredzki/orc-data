@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61825",
   "country": "USA",
+  "reference": "04560004RTU",
   "name": "SECOND STORM",
   "rating": {
     "gph": 622.6,
@@ -197,6 +198,5 @@
       7.83,
       8.42
     ]
-  },
-  "reference": "04560004RTU"
+  }
 }

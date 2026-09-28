@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA69311",
   "country": "USA",
+  "reference": "04560004V9E",
   "name": "REDLINE",
   "rating": {
     "gph": 606.7,
@@ -197,6 +198,5 @@
       7.92,
       8.78
     ]
-  },
-  "reference": "04560004V9E"
+  }
 }

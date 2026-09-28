@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA31003",
   "country": "RSA",
+  "reference": "04620004B49",
   "name": "CuAl6(PO4)4(OH)8.4H2O",
   "rating": {
     "gph": 548.0,
@@ -197,6 +198,5 @@
       11.86,
       14.99
     ]
-  },
-  "reference": "04620004B49"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49814",
   "country": "GRE",
+  "reference": "03420004K8F",
   "name": "HURRICANE",
   "rating": {
     "gph": 691.8,
@@ -197,6 +198,5 @@
       7.22,
       7.73
     ]
-  },
-  "reference": "03420004K8F"
+  }
 }

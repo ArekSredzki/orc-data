@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60711",
   "country": "USA",
+  "reference": "04560004NUN",
   "name": "PHANTOM",
   "rating": {
     "gph": 538.5,
@@ -197,6 +198,5 @@
       8.83,
       10.47
     ]
-  },
-  "reference": "04560004NUN"
+  }
 }

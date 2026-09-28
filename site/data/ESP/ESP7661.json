@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7661",
   "country": "ESP",
+  "reference": "03510004BJV",
   "name": "MANU TERCER",
   "rating": {
     "gph": 668.9,
@@ -197,6 +198,5 @@
       7.43,
       8.03
     ]
-  },
-  "reference": "03510004BJV"
+  }
 }

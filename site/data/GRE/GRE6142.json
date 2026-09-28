@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE6142",
   "country": "GRE",
+  "reference": "03420004IW6",
   "name": "BELL' ANGIOLINA",
   "rating": {
     "gph": 759.5,
@@ -197,6 +198,5 @@
       6.81,
       7.33
     ]
-  },
-  "reference": "03420004IW6"
+  }
 }

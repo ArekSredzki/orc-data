@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/GBR4626R",
   "country": "USA",
+  "reference": "04560004VRQ",
   "name": "BREEZIN UP",
   "rating": {
     "gph": 572.5,
@@ -197,6 +198,5 @@
       8.17,
       8.79
     ]
-  },
-  "reference": "04560004VRQ"
+  }
 }

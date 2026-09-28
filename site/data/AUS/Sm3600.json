@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm3600",
   "country": "AUS",
+  "reference": "03020004VCR",
   "name": "Maverick",
   "rating": {
     "gph": 601.7,
@@ -197,6 +198,5 @@
       7.88,
       9.38
     ]
-  },
-  "reference": "03020004VCR"
+  }
 }

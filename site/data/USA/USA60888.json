@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60888",
   "country": "USA",
+  "reference": "04560004P0C",
   "name": "LUCKY EIGHTS",
   "rating": {
     "gph": 559.5,
@@ -197,6 +198,5 @@
       9.1,
       11.3
     ]
-  },
-  "reference": "04560004P0C"
+  }
 }

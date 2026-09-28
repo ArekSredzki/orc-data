@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16702",
   "country": "ITA",
+  "reference": "03190004NVM",
   "name": "SOFIA",
   "rating": {
     "gph": 635.4,
@@ -197,6 +198,5 @@
       7.76,
       8.41
     ]
-  },
-  "reference": "03190004NVM"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN790",
   "country": "FIN",
+  "reference": "04140004JFT",
   "name": "Nonami",
   "rating": {
     "gph": 624.2,
@@ -197,6 +198,5 @@
       10.54,
       13.66
     ]
-  },
-  "reference": "04140004JFT"
+  }
 }

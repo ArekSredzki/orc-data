@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS61",
   "country": "AUS",
+  "reference": "03020004W5R",
   "name": "Tigris",
   "rating": {
     "gph": 572.0,
@@ -197,6 +198,5 @@
       10.37,
       13.48
     ]
-  },
-  "reference": "03020004W5R"
+  }
 }

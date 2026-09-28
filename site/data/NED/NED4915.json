@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4915",
   "country": "NED",
+  "reference": "04310004JV0",
   "name": "AURUM",
   "rating": {
     "gph": 662.7,
@@ -197,6 +198,5 @@
       7.66,
       8.32
     ]
-  },
-  "reference": "04310004JV0"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9390",
   "country": "NOR",
+  "reference": "03440004NAL",
   "name": "Too Much",
   "rating": {
     "gph": 626.2,
@@ -197,6 +198,5 @@
       7.75,
       8.32
     ]
-  },
-  "reference": "03440004NAL"
+  }
 }

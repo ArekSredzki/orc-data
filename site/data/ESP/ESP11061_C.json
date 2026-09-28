@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11061_C",
   "country": "ESP",
+  "reference": "03510004KED",
   "name": "IRREVERSIBLE",
   "rating": {
     "gph": 763.6,
@@ -197,6 +198,5 @@
       6.86,
       7.36
     ]
-  },
-  "reference": "03510004KED"
+  }
 }

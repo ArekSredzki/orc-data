@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN3213",
   "country": "FIN",
+  "reference": "04140004P6I",
   "name": "La Monde Mia",
   "rating": {
     "gph": 689.1,
@@ -197,6 +198,5 @@
       7.32,
       8.16
     ]
-  },
-  "reference": "04140004P6I"
+  }
 }

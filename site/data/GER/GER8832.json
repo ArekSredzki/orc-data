@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8832",
   "country": "GER",
+  "reference": "03520004WRI",
   "name": "\u00d6VERDRIVA",
   "rating": {
     "gph": 736.8,
@@ -197,6 +198,5 @@
       7.17,
       7.82
     ]
-  },
-  "reference": "03520004WRI"
+  }
 }

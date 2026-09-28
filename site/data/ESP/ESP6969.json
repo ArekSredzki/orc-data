@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6969",
   "country": "ESP",
+  "reference": "03510004WAT",
   "name": "RED DEVIL",
   "rating": {
     "gph": 565.8,
@@ -197,6 +198,5 @@
       8.75,
       9.66
     ]
-  },
-  "reference": "03510004WAT"
+  }
 }

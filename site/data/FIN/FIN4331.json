@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN4331",
   "country": "FIN",
+  "reference": "04140004R0C",
   "name": "Elysion",
   "rating": {
     "gph": 691.0,
@@ -197,6 +198,5 @@
       6.99,
       7.95
     ]
-  },
-  "reference": "04140004R0C"
+  }
 }

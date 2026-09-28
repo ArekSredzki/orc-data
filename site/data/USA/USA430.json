@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA430",
   "country": "USA",
+  "reference": "04560004PUT",
   "name": "CARRERA",
   "rating": {
     "gph": 540.3,
@@ -197,6 +198,5 @@
       9.04,
       10.83
     ]
-  },
-  "reference": "04560004PUT"
+  }
 }

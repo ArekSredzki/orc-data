@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR72",
   "country": "ISR",
+  "reference": "0439000483P",
   "name": "GANT",
   "rating": {
     "gph": 604.1,
@@ -197,6 +198,5 @@
       8.23,
       9.35
     ]
-  },
-  "reference": "0439000483P"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA35244",
   "country": "FRA",
+  "reference": "04330004VKF",
   "name": "NOMI",
   "rating": {
     "gph": 698.8,
@@ -197,6 +198,5 @@
       7.27,
       7.92
     ]
-  },
-  "reference": "04330004VKF"
+  }
 }

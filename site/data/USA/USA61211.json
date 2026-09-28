@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61211",
   "country": "USA",
+  "reference": "04560004NQK",
   "name": "ARMA",
   "rating": {
     "gph": 494.1,
@@ -197,6 +198,5 @@
       12.03,
       15.27
     ]
-  },
-  "reference": "04560004NQK"
+  }
 }

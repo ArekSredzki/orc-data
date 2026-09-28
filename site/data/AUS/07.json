@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/07",
   "country": "AUS",
+  "reference": "03020004VBS",
   "name": "WINGS",
   "rating": {
     "gph": 542.8,
@@ -197,6 +198,5 @@
       9.23,
       10.25
     ]
-  },
-  "reference": "03020004VBS"
+  }
 }

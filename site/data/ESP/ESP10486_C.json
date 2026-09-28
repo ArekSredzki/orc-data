@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10486_C",
   "country": "ESP",
+  "reference": "03510004PCT",
   "name": "MARENGO",
   "rating": {
     "gph": 695.4,
@@ -197,6 +198,5 @@
       7.0,
       7.51
     ]
-  },
-  "reference": "03510004PCT"
+  }
 }

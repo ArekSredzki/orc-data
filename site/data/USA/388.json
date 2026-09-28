@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/388",
   "country": "USA",
+  "reference": "04560004JBB",
   "name": "MAWAENA",
   "rating": {
     "gph": 638.2,
@@ -197,6 +198,5 @@
       7.59,
       8.15
     ]
-  },
-  "reference": "04560004JBB"
+  }
 }

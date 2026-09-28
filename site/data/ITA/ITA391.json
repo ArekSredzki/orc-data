@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA391",
   "country": "ITA",
+  "reference": "03190004KT3",
   "name": "MORGAN IV",
   "rating": {
     "gph": 584.4,
@@ -197,6 +198,5 @@
       8.53,
       9.42
     ]
-  },
-  "reference": "03190004KT3"
+  }
 }

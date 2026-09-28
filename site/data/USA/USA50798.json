@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA50798",
   "country": "USA",
+  "reference": "04560004U2H",
   "name": "MOOVIN",
   "rating": {
     "gph": 615.6,
@@ -197,6 +198,5 @@
       7.63,
       8.53
     ]
-  },
-  "reference": "04560004U2H"
+  }
 }

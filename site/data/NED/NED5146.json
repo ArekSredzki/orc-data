@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED5146",
   "country": "NED",
+  "reference": "04310004W9P",
   "name": "ZEEBEER 3",
   "rating": {
     "gph": 604.2,
@@ -197,6 +198,5 @@
       8.29,
       9.27
     ]
-  },
-  "reference": "04310004W9P"
+  }
 }

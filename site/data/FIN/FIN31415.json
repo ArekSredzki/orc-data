@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN31415",
   "country": "FIN",
+  "reference": "04140004T06",
   "name": "Skala",
   "rating": {
     "gph": 580.0,
@@ -197,6 +198,5 @@
       8.49,
       9.31
     ]
-  },
-  "reference": "04140004T06"
+  }
 }

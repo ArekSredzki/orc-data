@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR40400",
   "country": "TUR",
+  "reference": "04590004HKM",
   "name": "MARMARISA",
   "rating": {
     "gph": 601.0,
@@ -197,6 +198,5 @@
       8.03,
       8.71
     ]
-  },
-  "reference": "04590004HKM"
+  }
 }

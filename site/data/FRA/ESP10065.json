@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/ESP10065",
   "country": "FRA",
+  "reference": "04330004FEN",
   "name": "DIALIX",
   "rating": {
     "gph": 617.7,
@@ -197,6 +198,5 @@
       7.82,
       8.66
     ]
-  },
-  "reference": "04330004FEN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1122",
   "country": "GRE",
+  "reference": "03420004INR",
   "name": "KATERINA",
   "rating": {
     "gph": 669.4,
@@ -197,6 +198,5 @@
       7.58,
       8.2
     ]
-  },
-  "reference": "03420004INR"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA27834",
   "country": "FRA",
+  "reference": "04330004ML0",
   "name": "MADMAX",
   "rating": {
     "gph": 679.8,
@@ -197,6 +198,5 @@
       7.75,
       10.65
     ]
-  },
-  "reference": "04330004ML0"
+  }
 }

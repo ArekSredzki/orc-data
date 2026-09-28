@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8503",
   "country": "NED",
+  "reference": "04310004K1E",
   "name": "Nerida",
   "rating": {
     "gph": 674.3,
@@ -197,6 +198,5 @@
       7.37,
       8.03
     ]
-  },
-  "reference": "04310004K1E"
+  }
 }

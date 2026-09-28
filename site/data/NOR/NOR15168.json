@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15168",
   "country": "NOR",
+  "reference": "03440004N55",
   "name": "Helika to",
   "rating": {
     "gph": 647.7,
@@ -197,6 +198,5 @@
       7.5,
       8.06
     ]
-  },
-  "reference": "03440004N55"
+  }
 }

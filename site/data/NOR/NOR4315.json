@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR4315",
   "country": "NOR",
+  "reference": "03440004O94",
   "name": "Odins Ravn",
   "rating": {
     "gph": 687.2,
@@ -197,6 +198,5 @@
       7.26,
       7.95
     ]
-  },
-  "reference": "03440004O94"
+  }
 }

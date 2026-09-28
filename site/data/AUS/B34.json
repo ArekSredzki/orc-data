@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/B34",
   "country": "AUS",
+  "reference": "03020004UB2",
   "name": "ELEMENT 22",
   "rating": {
     "gph": 605.6,
@@ -197,6 +198,5 @@
       7.9,
       9.4
     ]
-  },
-  "reference": "03020004UB2"
+  }
 }

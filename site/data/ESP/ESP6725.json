@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6725",
   "country": "ESP",
+  "reference": "03510004MOV",
   "name": "POLILLON-CITO",
   "rating": {
     "gph": 578.4,
@@ -197,6 +198,5 @@
       11.0,
       14.09
     ]
-  },
-  "reference": "03510004MOV"
+  }
 }

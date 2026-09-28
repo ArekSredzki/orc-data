@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA45672",
   "country": "FRA",
+  "reference": "04330004LQB",
   "name": "DALCH MAT II",
   "rating": {
     "gph": 698.6,
@@ -197,6 +198,5 @@
       7.4,
       8.23
     ]
-  },
-  "reference": "04330004LQB"
+  }
 }

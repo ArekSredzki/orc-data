@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61982",
   "country": "USA",
+  "reference": "04560004RT5",
   "name": "SKILLAGALEE",
   "rating": {
     "gph": 535.1,
@@ -197,6 +198,5 @@
       12.58,
       15.75
     ]
-  },
-  "reference": "04560004RT5"
+  }
 }

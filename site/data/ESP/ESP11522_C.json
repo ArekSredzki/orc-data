@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11522_C",
   "country": "ESP",
+  "reference": "03510004T98",
   "name": "BLUE STAR DOS",
   "rating": {
     "gph": 677.5,
@@ -197,6 +198,5 @@
       7.08,
       7.61
     ]
-  },
-  "reference": "03510004T98"
+  }
 }

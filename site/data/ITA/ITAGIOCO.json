@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAGIOCO",
   "country": "ITA",
+  "reference": "03190004U7N",
   "name": "GIOCONDA",
   "rating": {
     "gph": 610.2,
@@ -197,6 +198,5 @@
       7.82,
       8.42
     ]
-  },
-  "reference": "03190004U7N"
+  }
 }

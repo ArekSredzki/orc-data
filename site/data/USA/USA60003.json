@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60003",
   "country": "USA",
+  "reference": "04560004SDH",
   "name": "TARAHUMARA",
   "rating": {
     "gph": 567.9,
@@ -197,6 +198,5 @@
       8.29,
       9.89
     ]
-  },
-  "reference": "04560004SDH"
+  }
 }

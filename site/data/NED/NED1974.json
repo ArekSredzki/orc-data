@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED1974",
   "country": "NED",
+  "reference": "04310004JT0",
   "name": "Full Grown Man",
   "rating": {
     "gph": 729.4,
@@ -197,6 +198,5 @@
       6.76,
       7.3
     ]
-  },
-  "reference": "04310004JT0"
+  }
 }

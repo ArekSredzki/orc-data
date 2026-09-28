@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7799",
   "country": "GER",
+  "reference": "03520004P2J",
   "name": "KEENA",
   "rating": {
     "gph": 625.1,
@@ -197,6 +198,5 @@
       8.3,
       10.84
     ]
-  },
-  "reference": "03520004P2J"
+  }
 }

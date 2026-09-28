@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG346",
   "country": "HKG",
+  "reference": "03880004WSD",
   "name": "Serendipity",
   "rating": {
     "gph": 645.8,
@@ -197,6 +198,5 @@
       11.9,
       14.49
     ]
-  },
-  "reference": "03880004WSD"
+  }
 }

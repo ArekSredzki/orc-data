@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA36P",
   "country": "ITA",
+  "reference": "03190004NVT",
   "name": "COLPO DI KODA",
   "rating": {
     "gph": 636.0,
@@ -197,6 +198,5 @@
       9.32,
       12.35
     ]
-  },
-  "reference": "03190004NVT"
+  }
 }

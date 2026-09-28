@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18204",
   "country": "ITA",
+  "reference": "03190004P50",
   "name": "JUA KALI",
   "rating": {
     "gph": 577.5,
@@ -197,6 +198,5 @@
       8.24,
       8.94
     ]
-  },
-  "reference": "03190004P50"
+  }
 }

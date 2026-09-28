@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAMIZZI",
   "country": "ITA",
+  "reference": "03190004U0Q",
   "name": "MIZZICA",
   "rating": {
     "gph": 614.0,
@@ -197,6 +198,5 @@
       7.86,
       8.46
     ]
-  },
-  "reference": "03190004U0Q"
+  }
 }

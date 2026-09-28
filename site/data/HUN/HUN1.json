@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN1",
   "country": "HUN",
+  "reference": "04890004QKD",
   "name": "Tramontana II",
   "rating": {
     "gph": 614.6,
@@ -197,6 +198,5 @@
       8.53,
       9.56
     ]
-  },
-  "reference": "04890004QKD"
+  }
 }

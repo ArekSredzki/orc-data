@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10861",
   "country": "NOR",
+  "reference": "03440004LL8",
   "name": "Octarine",
   "rating": {
     "gph": 697.7,
@@ -197,6 +198,5 @@
       6.82,
       7.38
     ]
-  },
-  "reference": "03440004LL8"
+  }
 }

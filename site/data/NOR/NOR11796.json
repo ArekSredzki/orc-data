@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11796",
   "country": "NOR",
+  "reference": "03440004QA3",
   "name": "Kunna II",
   "rating": {
     "gph": 562.8,
@@ -197,6 +198,5 @@
       8.8,
       9.61
     ]
-  },
-  "reference": "03440004QA3"
+  }
 }

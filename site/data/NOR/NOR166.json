@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR166",
   "country": "NOR",
+  "reference": "03440004RI1",
   "name": "Nordman Classic",
   "rating": {
     "gph": 616.6,
@@ -197,6 +198,5 @@
       12.53,
       15.65
     ]
-  },
-  "reference": "03440004RI1"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7154",
   "country": "ESP",
+  "reference": "03510004KI3",
   "name": "WHITE SPIRIT II",
   "rating": {
     "gph": 623.0,
@@ -197,6 +198,5 @@
       8.04,
       8.79
     ]
-  },
-  "reference": "03510004KI3"
+  }
 }

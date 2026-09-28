@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN9595",
   "country": "FIN",
+  "reference": "04140004V05",
   "name": "Eos",
   "rating": {
     "gph": 579.5,
@@ -197,6 +198,5 @@
       8.14,
       9.0
     ]
-  },
-  "reference": "04140004V05"
+  }
 }

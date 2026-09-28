@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA3976",
   "country": "ITA",
+  "reference": "03190004PVN",
   "name": "STELLA FILANTE",
   "rating": {
     "gph": 502.3,
@@ -197,6 +198,5 @@
       11.51,
       14.39
     ]
-  },
-  "reference": "03190004PVN"
+  }
 }

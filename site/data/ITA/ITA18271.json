@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18271",
   "country": "ITA",
+  "reference": "03190004FLD",
   "name": "MOOREA",
   "rating": {
     "gph": 683.6,
@@ -197,6 +198,5 @@
       6.89,
       7.48
     ]
-  },
-  "reference": "03190004FLD"
+  }
 }

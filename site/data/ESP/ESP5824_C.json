@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5824_C",
   "country": "ESP",
+  "reference": "03510004EWO",
   "name": "TUCAN",
   "rating": {
     "gph": 803.3,
@@ -197,6 +198,5 @@
       6.43,
       7.07
     ]
-  },
-  "reference": "03510004EWO"
+  }
 }

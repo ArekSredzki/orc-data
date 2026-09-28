@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2762",
   "country": "ESP",
+  "reference": "03510004BHK",
   "name": "BONA VENTURA",
   "rating": {
     "gph": 734.2,
@@ -197,6 +198,5 @@
       6.85,
       7.4
     ]
-  },
-  "reference": "03510004BHK"
+  }
 }

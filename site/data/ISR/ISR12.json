@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR12",
   "country": "ISR",
+  "reference": "04390004844",
   "name": "Semiramis",
   "rating": {
     "gph": 685.5,
@@ -197,6 +198,5 @@
       7.08,
       7.58
     ]
-  },
-  "reference": "04390004844"
+  }
 }

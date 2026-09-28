@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15196",
   "country": "ITA",
+  "reference": "03190004LOT",
   "name": "CORTO MALTESE",
   "rating": {
     "gph": 654.9,
@@ -197,6 +198,5 @@
       7.56,
       8.22
     ]
-  },
-  "reference": "03190004LOT"
+  }
 }

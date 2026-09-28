@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5374",
   "country": "GER",
+  "reference": "03520004I3S",
   "name": "BLANC BLEU",
   "rating": {
     "gph": 627.5,
@@ -197,6 +198,5 @@
       7.86,
       8.56
     ]
-  },
-  "reference": "03520004I3S"
+  }
 }

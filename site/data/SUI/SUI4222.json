@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI4222",
   "country": "SUI",
+  "reference": "030800048OJ",
   "name": "TADEWI",
   "rating": {
     "gph": 584.1,
@@ -197,6 +198,5 @@
       8.06,
       8.7
     ]
-  },
-  "reference": "030800048OJ"
+  }
 }

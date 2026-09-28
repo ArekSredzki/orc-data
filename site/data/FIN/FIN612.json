@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN612",
   "country": "FIN",
+  "reference": "04140004VK4",
   "name": "Hieprukka",
   "rating": {
     "gph": 718.0,
@@ -197,6 +198,5 @@
       7.04,
       7.66
     ]
-  },
-  "reference": "04140004VK4"
+  }
 }

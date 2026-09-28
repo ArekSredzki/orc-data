@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18279",
   "country": "ITA",
+  "reference": "03190004QOB",
   "name": "MO-CUISHLE",
   "rating": {
     "gph": 591.1,
@@ -197,6 +198,5 @@
       8.02,
       8.71
     ]
-  },
-  "reference": "03190004QOB"
+  }
 }

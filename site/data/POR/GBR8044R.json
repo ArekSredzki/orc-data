@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/GBR8044R",
   "country": "POR",
+  "reference": "03530004NNI",
   "name": "MONOMANIA",
   "rating": {
     "gph": 660.6,
@@ -197,6 +198,5 @@
       8.56,
       11.73
     ]
-  },
-  "reference": "03530004NNI"
+  }
 }

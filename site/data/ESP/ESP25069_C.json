@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP25069_C",
   "country": "ESP",
+  "reference": "035100048JB",
   "name": "VAGALUME",
   "rating": {
     "gph": 676.4,
@@ -197,6 +198,5 @@
       7.51,
       10.29
     ]
-  },
-  "reference": "035100048JB"
+  }
 }

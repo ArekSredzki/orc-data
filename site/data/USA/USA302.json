@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA302",
   "country": "USA",
+  "reference": "04560004SB6",
   "name": "MORE PRESSURE",
   "rating": {
     "gph": 655.7,
@@ -197,6 +198,5 @@
       7.31,
       8.99
     ]
-  },
-  "reference": "04560004SB6"
+  }
 }

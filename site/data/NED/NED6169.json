@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6169",
   "country": "NED",
+  "reference": "04310004N2L",
   "name": "ELKE",
   "rating": {
     "gph": 572.1,
@@ -197,6 +198,5 @@
       8.65,
       9.66
     ]
-  },
-  "reference": "04310004N2L"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15461",
   "country": "NOR",
+  "reference": "03440004W7O",
   "name": "Ms. Mellett",
   "rating": {
     "gph": 599.4,
@@ -197,6 +198,5 @@
       8.32,
       9.73
     ]
-  },
-  "reference": "03440004W7O"
+  }
 }

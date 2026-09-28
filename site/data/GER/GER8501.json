@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8501",
   "country": "GER",
+  "reference": "03520004ES9",
   "name": "VINETA",
   "rating": {
     "gph": 502.2,
@@ -197,6 +198,5 @@
       11.61,
       15.2
     ]
-  },
-  "reference": "03520004ES9"
+  }
 }

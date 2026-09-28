@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9101",
   "country": "NED",
+  "reference": "04310004QJV",
   "name": "Joe Speedboot",
   "rating": {
     "gph": 637.3,
@@ -197,6 +198,5 @@
       7.88,
       9.13
     ]
-  },
-  "reference": "04310004QJV"
+  }
 }

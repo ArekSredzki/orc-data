@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN5610",
   "country": "FIN",
+  "reference": "04140004TQR",
   "name": "Ulla II",
   "rating": {
     "gph": 659.7,
@@ -197,6 +198,5 @@
       7.43,
       8.05
     ]
-  },
-  "reference": "04140004TQR"
+  }
 }

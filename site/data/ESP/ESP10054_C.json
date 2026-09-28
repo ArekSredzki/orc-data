@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10054_C",
   "country": "ESP",
+  "reference": "03510004BH6",
   "name": "GAROLA III",
   "rating": {
     "gph": 738.0,
@@ -197,6 +198,5 @@
       6.96,
       7.52
     ]
-  },
-  "reference": "03510004BH6"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR345",
   "country": "NOR",
+  "reference": "03440004H6W",
   "name": "Ylle22",
   "rating": {
     "gph": 828.8,
@@ -197,6 +198,5 @@
       6.34,
       7.55
     ]
-  },
-  "reference": "03440004H6W"
+  }
 }

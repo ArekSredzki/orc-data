@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9985_C",
   "country": "ESP",
+  "reference": "03510004BH7",
   "name": "MAKOHE",
   "rating": {
     "gph": 597.8,
@@ -197,6 +198,5 @@
       8.16,
       8.79
     ]
-  },
-  "reference": "03510004BH7"
+  }
 }

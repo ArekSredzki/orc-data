@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/6024",
   "country": "AUS",
+  "reference": "03020004TN6",
   "name": "WINDY TOO",
   "rating": {
     "gph": 527.9,
@@ -197,6 +198,5 @@
       10.16,
       12.83
     ]
-  },
-  "reference": "03020004TN6"
+  }
 }

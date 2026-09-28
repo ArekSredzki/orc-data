@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1556",
   "country": "GRE",
+  "reference": "03420004I4L",
   "name": "MEDOUSA III",
   "rating": {
     "gph": 654.8,
@@ -197,6 +198,5 @@
       7.89,
       8.44
     ]
-  },
-  "reference": "03420004I4L"
+  }
 }

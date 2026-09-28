@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10000",
   "country": "ESP",
+  "reference": "03510004VSJ",
   "name": "HISPANIA",
   "rating": {
     "gph": 426.4,
@@ -197,6 +198,5 @@
       13.72,
       17.11
     ]
-  },
-  "reference": "03510004VSJ"
+  }
 }

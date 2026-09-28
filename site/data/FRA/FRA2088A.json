@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA2088A",
   "country": "FRA",
+  "reference": "04330004F6E",
   "name": "ARCHIBALD",
   "rating": {
     "gph": 677.0,
@@ -197,6 +198,5 @@
       7.57,
       8.53
     ]
-  },
-  "reference": "04330004F6E"
+  }
 }

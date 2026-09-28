@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA8297",
   "country": "FRA",
+  "reference": "04330004LQE",
   "name": "TOMI",
   "rating": {
     "gph": 774.8,
@@ -197,6 +198,5 @@
       6.67,
       7.36
     ]
-  },
-  "reference": "04330004LQE"
+  }
 }

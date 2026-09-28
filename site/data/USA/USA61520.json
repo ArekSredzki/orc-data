@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61520",
   "country": "USA",
+  "reference": "04560004R8L",
   "name": "Arcadia",
   "rating": {
     "gph": 552.1,
@@ -197,6 +198,5 @@
       8.75,
       9.84
     ]
-  },
-  "reference": "04560004R8L"
+  }
 }

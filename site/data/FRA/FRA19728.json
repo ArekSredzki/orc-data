@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA19728",
   "country": "FRA",
+  "reference": "04330004QEF",
   "name": "WALLI",
   "rating": {
     "gph": 625.8,
@@ -197,6 +198,5 @@
       8.15,
       9.69
     ]
-  },
-  "reference": "04330004QEF"
+  }
 }

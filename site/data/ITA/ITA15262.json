@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15262",
   "country": "ITA",
+  "reference": "03190004SJQ",
   "name": "ATTENTI A QUEI DUE",
   "rating": {
     "gph": 569.9,
@@ -197,6 +198,5 @@
       8.56,
       10.11
     ]
-  },
-  "reference": "03190004SJQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49312",
   "country": "GRE",
+  "reference": "03420004I4E",
   "name": "DOCUMENTO",
   "rating": {
     "gph": 706.1,
@@ -197,6 +198,5 @@
       7.03,
       7.58
     ]
-  },
-  "reference": "03420004I4E"
+  }
 }

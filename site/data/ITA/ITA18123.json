@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18123",
   "country": "ITA",
+  "reference": "03190004K5V",
   "name": "RESINA",
   "rating": {
     "gph": 601.7,
@@ -197,6 +198,5 @@
       7.83,
       9.52
     ]
-  },
-  "reference": "03190004K5V"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE875",
   "country": "GRE",
+  "reference": "03420004TR1",
   "name": "NALU",
   "rating": {
     "gph": 724.2,
@@ -197,6 +198,5 @@
       7.27,
       7.82
     ]
-  },
-  "reference": "03420004TR1"
+  }
 }

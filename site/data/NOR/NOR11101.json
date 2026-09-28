@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11101",
   "country": "NOR",
+  "reference": "03440004M5B",
   "name": "Pepita",
   "rating": {
     "gph": 600.4,
@@ -197,6 +198,5 @@
       8.19,
       8.96
     ]
-  },
-  "reference": "03440004M5B"
+  }
 }

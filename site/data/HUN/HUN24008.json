@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN24008",
   "country": "HUN",
+  "reference": "04890004O2C",
   "name": "FLAASH",
   "rating": {
     "gph": 592.0,
@@ -197,6 +198,5 @@
       11.66,
       14.6
     ]
-  },
-  "reference": "04890004O2C"
+  }
 }

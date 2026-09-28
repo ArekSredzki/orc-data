@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8322",
   "country": "GER",
+  "reference": "03520004UMU",
   "name": "ONYX",
   "rating": {
     "gph": 572.8,
@@ -197,6 +198,5 @@
       8.27,
       9.02
     ]
-  },
-  "reference": "03520004UMU"
+  }
 }

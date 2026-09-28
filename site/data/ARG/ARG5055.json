@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5055",
   "country": "ARG",
+  "reference": "03880004IFA",
   "name": "MONARCA DE LOS MARES",
   "rating": {
     "gph": 619.3,
@@ -197,6 +198,5 @@
       7.96,
       8.86
     ]
-  },
-  "reference": "03880004IFA"
+  }
 }

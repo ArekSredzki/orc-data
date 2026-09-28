@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10921_C",
   "country": "ESP",
+  "reference": "03510004HBV",
   "name": "SYLVANA",
   "rating": {
     "gph": 778.2,
@@ -197,6 +198,5 @@
       6.1,
       6.63
     ]
-  },
-  "reference": "03510004HBV"
+  }
 }

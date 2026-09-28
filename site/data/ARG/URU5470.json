@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/URU5470",
   "country": "ARG",
+  "reference": "03880004N14",
   "name": "PANTERA",
   "rating": {
     "gph": 728.9,
@@ -197,6 +198,5 @@
       6.85,
       7.78
     ]
-  },
-  "reference": "03880004N14"
+  }
 }

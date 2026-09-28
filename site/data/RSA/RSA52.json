@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA52",
   "country": "RSA",
+  "reference": "04620004JJ8",
   "name": "Cape Columbine",
   "rating": {
     "gph": 733.9,
@@ -197,6 +198,5 @@
       6.85,
       7.6
     ]
-  },
-  "reference": "04620004JJ8"
+  }
 }

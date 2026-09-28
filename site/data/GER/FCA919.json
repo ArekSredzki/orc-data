@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/FCA919",
   "country": "GER",
+  "reference": "04150004RBA",
   "name": "MACHTNIX",
   "rating": {
     "gph": 681.8,
@@ -197,6 +198,5 @@
       7.3,
       8.94
     ]
-  },
-  "reference": "04150004RBA"
+  }
 }

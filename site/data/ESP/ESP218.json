@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP218",
   "country": "ESP",
+  "reference": "03510004FI7",
   "name": "GUAIRA",
   "rating": {
     "gph": 690.9,
@@ -197,6 +198,5 @@
       7.36,
       9.33
     ]
-  },
-  "reference": "03510004FI7"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/X3550",
   "country": "GER",
+  "reference": "03520004TA5",
   "name": "TROTTOLINA BELLIKOSARACE",
   "rating": {
     "gph": 592.9,
@@ -197,6 +198,5 @@
       8.09,
       10.26
     ]
-  },
-  "reference": "03520004TA5"
+  }
 }

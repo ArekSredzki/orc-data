@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU177",
   "country": "ROU",
+  "reference": "05040004Q7L",
   "name": "Ostwind",
   "rating": {
     "gph": 622.2,
@@ -197,6 +198,5 @@
       8.09,
       8.77
     ]
-  },
-  "reference": "05040004Q7L"
+  }
 }

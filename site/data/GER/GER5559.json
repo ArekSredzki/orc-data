@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5559",
   "country": "GER",
+  "reference": "04150004OU9",
   "name": "MORRAN",
   "rating": {
     "gph": 587.9,
@@ -197,6 +198,5 @@
       8.51,
       9.57
     ]
-  },
-  "reference": "04150004OU9"
+  }
 }

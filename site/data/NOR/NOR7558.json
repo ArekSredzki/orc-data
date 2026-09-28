@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR7558",
   "country": "NOR",
+  "reference": "03440004SK7",
   "name": "Daddys Dream",
   "rating": {
     "gph": 787.3,
@@ -197,6 +198,5 @@
       6.21,
       6.75
     ]
-  },
-  "reference": "03440004SK7"
+  }
 }

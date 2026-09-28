@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA46447",
   "country": "USA",
+  "reference": "04560004H2O",
   "name": "Sea Maiden",
   "rating": {
     "gph": 657.6,
@@ -197,6 +198,5 @@
       7.38,
       7.98
     ]
-  },
-  "reference": "04560004H2O"
+  }
 }

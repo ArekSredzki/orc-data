@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11394_C",
   "country": "ESP",
+  "reference": "03510004MOU",
   "name": "MARTINILLA",
   "rating": {
     "gph": 685.1,
@@ -197,6 +198,5 @@
       7.47,
       8.12
     ]
-  },
-  "reference": "03510004MOU"
+  }
 }

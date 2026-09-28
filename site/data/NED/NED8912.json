@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8912",
   "country": "NED",
+  "reference": "04310004K9B",
   "name": "Popcorn",
   "rating": {
     "gph": 599.5,
@@ -197,6 +198,5 @@
       8.25,
       9.05
     ]
-  },
-  "reference": "04310004K9B"
+  }
 }

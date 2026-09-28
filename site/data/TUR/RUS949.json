@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/RUS949",
   "country": "TUR",
+  "reference": "0459000484B",
   "name": "BROZEX",
   "rating": {
     "gph": 533.2,
@@ -197,6 +198,5 @@
       9.2,
       11.46
     ]
-  },
-  "reference": "0459000484B"
+  }
 }

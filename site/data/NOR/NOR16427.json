@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16427",
   "country": "NOR",
+  "reference": "03440004TVN",
   "name": "Selfis",
   "rating": {
     "gph": 681.8,
@@ -197,6 +198,5 @@
       7.07,
       7.62
     ]
-  },
-  "reference": "03440004TVN"
+  }
 }

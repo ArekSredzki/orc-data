@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7672",
   "country": "NED",
+  "reference": "04310004JWW",
   "name": "TT Yellow Rose",
   "rating": {
     "gph": 642.4,
@@ -197,6 +198,5 @@
       10.14,
       13.13
     ]
-  },
-  "reference": "04310004JWW"
+  }
 }

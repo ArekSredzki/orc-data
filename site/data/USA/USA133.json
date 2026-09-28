@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA133",
   "country": "USA",
+  "reference": "04560004UCV",
   "name": "TERRIER",
   "rating": {
     "gph": 561.9,
@@ -197,6 +198,5 @@
       9.26,
       11.92
     ]
-  },
-  "reference": "04560004UCV"
+  }
 }

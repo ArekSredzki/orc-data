@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11447_C",
   "country": "ESP",
+  "reference": "03510004FIC",
   "name": "MAUI",
   "rating": {
     "gph": 649.5,
@@ -197,6 +198,5 @@
       7.45,
       8.06
     ]
-  },
-  "reference": "03510004FIC"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1451",
   "country": "GRE",
+  "reference": "03420004IR7",
   "name": "MUSUKO",
   "rating": {
     "gph": 614.5,
@@ -197,6 +198,5 @@
       7.7,
       8.65
     ]
-  },
-  "reference": "03420004IR7"
+  }
 }

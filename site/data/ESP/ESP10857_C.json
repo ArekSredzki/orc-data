@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10857_C",
   "country": "ESP",
+  "reference": "03510004BEM",
   "name": "AINUR",
   "rating": {
     "gph": 602.7,
@@ -197,6 +198,5 @@
       8.93,
       11.81
     ]
-  },
-  "reference": "03510004BEM"
+  }
 }

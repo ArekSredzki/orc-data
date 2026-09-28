@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR3590",
   "country": "TUR",
+  "reference": "04590004VQ4",
   "name": "WIND RIDER",
   "rating": {
     "gph": 574.3,
@@ -197,6 +198,5 @@
       8.22,
       9.51
     ]
-  },
-  "reference": "04590004VQ4"
+  }
 }

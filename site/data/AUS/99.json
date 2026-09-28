@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/99",
   "country": "AUS",
+  "reference": "03020004WVJ",
   "name": "GIZMO",
   "rating": {
     "gph": 601.4,
@@ -197,6 +198,5 @@
       7.95,
       9.78
     ]
-  },
-  "reference": "03020004WVJ"
+  }
 }

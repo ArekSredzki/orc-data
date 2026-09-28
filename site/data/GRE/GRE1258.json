@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1258",
   "country": "GRE",
+  "reference": "03420004LMH",
   "name": "DELSPYANA",
   "rating": {
     "gph": 664.5,
@@ -197,6 +198,5 @@
       7.67,
       8.37
     ]
-  },
-  "reference": "03420004LMH"
+  }
 }

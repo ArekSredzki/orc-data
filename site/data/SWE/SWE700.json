@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE700",
   "country": "SWE",
+  "reference": "03200004PB7",
   "name": "Albatross Magic",
   "rating": {
     "gph": 557.1,
@@ -197,6 +198,5 @@
       8.41,
       10.27
     ]
-  },
-  "reference": "03200004PB7"
+  }
 }

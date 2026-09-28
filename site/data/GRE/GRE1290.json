@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1290",
   "country": "GRE",
+  "reference": "03420004ITL",
   "name": "GIORGIO",
   "rating": {
     "gph": 629.6,
@@ -197,6 +198,5 @@
       7.98,
       8.62
     ]
-  },
-  "reference": "03420004ITL"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GER7",
   "country": "ESP",
+  "reference": "03510004M8T",
   "name": "LEGOLAS",
   "rating": {
     "gph": 600.8,
@@ -197,6 +198,5 @@
       8.17,
       10.16
     ]
-  },
-  "reference": "03510004M8T"
+  }
 }

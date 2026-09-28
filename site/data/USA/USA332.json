@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA332",
   "country": "USA",
+  "reference": "04560004V64",
   "name": "BLUE EYES",
   "rating": {
     "gph": 693.2,
@@ -197,6 +198,5 @@
       6.84,
       7.31
     ]
-  },
-  "reference": "04560004V64"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16968",
   "country": "ITA",
+  "reference": "03190004HN0",
   "name": "JOSHUA 3",
   "rating": {
     "gph": 634.7,
@@ -197,6 +198,5 @@
       7.76,
       8.69
     ]
-  },
-  "reference": "03190004HN0"
+  }
 }

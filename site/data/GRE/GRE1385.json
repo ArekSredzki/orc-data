@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1385",
   "country": "GRE",
+  "reference": "03420004OUQ",
   "name": "ESPEROS",
   "rating": {
     "gph": 747.5,
@@ -197,6 +198,5 @@
       6.53,
       6.96
     ]
-  },
-  "reference": "03420004OUQ"
+  }
 }

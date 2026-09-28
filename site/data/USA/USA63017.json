@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA63017",
   "country": "USA",
+  "reference": "04560004W8P",
   "name": "ARTEMIS",
   "rating": {
     "gph": 561.1,
@@ -197,6 +198,5 @@
       10.91,
       13.87
     ]
-  },
-  "reference": "04560004W8P"
+  }
 }

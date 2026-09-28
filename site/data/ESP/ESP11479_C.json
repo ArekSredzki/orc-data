@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11479_C",
   "country": "ESP",
+  "reference": "03510004HQT",
   "name": "LINYERA",
   "rating": {
     "gph": 769.5,
@@ -197,6 +198,5 @@
       6.66,
       7.27
     ]
-  },
-  "reference": "03510004HQT"
+  }
 }

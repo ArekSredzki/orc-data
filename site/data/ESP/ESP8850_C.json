@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8850_C",
   "country": "ESP",
+  "reference": "03510004OWA",
   "name": "ALBATROS",
   "rating": {
     "gph": 752.7,
@@ -197,6 +198,5 @@
       6.49,
       7.03
     ]
-  },
-  "reference": "03510004OWA"
+  }
 }

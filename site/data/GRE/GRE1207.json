@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1207",
   "country": "GRE",
+  "reference": "03420004I70",
   "name": "IOESSA",
   "rating": {
     "gph": 717.3,
@@ -197,6 +198,5 @@
       7.05,
       7.62
     ]
-  },
-  "reference": "03420004I70"
+  }
 }
