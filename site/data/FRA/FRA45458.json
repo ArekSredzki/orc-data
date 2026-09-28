@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA45458",
   "country": "FRA",
+  "reference": "04330004OM5",
   "name": "WALILI",
   "rating": {
     "gph": 619.0,
@@ -197,6 +198,5 @@
       8.19,
       10.58
     ]
-  },
-  "reference": "04330004OM5"
+  }
 }

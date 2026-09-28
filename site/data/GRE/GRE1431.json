@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1431",
   "country": "GRE",
+  "reference": "03420004K3S",
   "name": "AGERI",
   "rating": {
     "gph": 626.0,
@@ -197,6 +198,5 @@
       7.85,
       8.39
     ]
-  },
-  "reference": "03420004K3S"
+  }
 }

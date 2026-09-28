@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR3641",
   "country": "NOR",
+  "reference": "03440004LKS",
   "name": "BANNERN",
   "rating": {
     "gph": 659.0,
@@ -197,6 +198,5 @@
       7.24,
       8.01
     ]
-  },
-  "reference": "03440004LKS"
+  }
 }

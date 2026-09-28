@@ -1,6 +1,7 @@
 {
   "sailnumber": "ECU/ECU4660",
   "country": "ECU",
+  "reference": "03880004H3R",
   "name": "NEMESIS II",
   "rating": {
     "gph": 576.1,
@@ -197,6 +198,5 @@
       8.64,
       9.9
     ]
-  },
-  "reference": "03880004H3R"
+  }
 }

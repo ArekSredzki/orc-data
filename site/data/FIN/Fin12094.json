@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/Fin12094",
   "country": "FIN",
+  "reference": "04140004Q8S",
   "name": "Raindance Maggie",
   "rating": {
     "gph": 627.7,
@@ -197,6 +198,5 @@
       7.99,
       8.75
     ]
-  },
-  "reference": "04140004Q8S"
+  }
 }

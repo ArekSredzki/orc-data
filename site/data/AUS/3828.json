@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/3828",
   "country": "AUS",
+  "reference": "03020004SQ3",
   "name": "MAGGIE",
   "rating": {
     "gph": 694.5,
@@ -197,6 +198,5 @@
       7.16,
       7.78
     ]
-  },
-  "reference": "03020004SQ3"
+  }
 }

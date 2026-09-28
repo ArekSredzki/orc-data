@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8681_C",
   "country": "ESP",
+  "reference": "03510004N6C",
   "name": "PANGOLIN IV",
   "rating": {
     "gph": 715.9,
@@ -197,6 +198,5 @@
       7.19,
       9.08
     ]
-  },
-  "reference": "03510004N6C"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL000KSA",
   "country": "POL",
+  "reference": "04410004NPD",
   "name": "MAGICO",
   "rating": {
     "gph": 666.9,
@@ -197,6 +198,5 @@
       7.6,
       8.41
     ]
-  },
-  "reference": "04410004NPD"
+  }
 }

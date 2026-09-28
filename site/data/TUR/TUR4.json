@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR4",
   "country": "TUR",
+  "reference": "04590004N3A",
   "name": "Ankara Yelken",
   "rating": {
     "gph": 709.9,
@@ -197,6 +198,5 @@
       9.04,
       12.09
     ]
-  },
-  "reference": "04590004N3A"
+  }
 }

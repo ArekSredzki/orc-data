@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN709",
   "country": "FIN",
+  "reference": "04140004R0H",
   "name": "Irie",
   "rating": {
     "gph": 618.5,
@@ -197,6 +198,5 @@
       7.72,
       9.05
     ]
-  },
-  "reference": "04140004R0H"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14700",
   "country": "ITA",
+  "reference": "03190004KO1",
   "name": "X MAS",
   "rating": {
     "gph": 536.5,
@@ -197,6 +198,5 @@
       9.88,
       12.64
     ]
-  },
-  "reference": "03190004KO1"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11595",
   "country": "FIN",
+  "reference": "03290004O42",
   "name": "Tetu 5",
   "rating": {
     "gph": 638.1,
@@ -197,6 +198,5 @@
       7.86,
       8.58
     ]
-  },
-  "reference": "03290004O42"
+  }
 }

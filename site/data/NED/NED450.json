@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED450",
   "country": "NED",
+  "reference": "04310004R1F",
   "name": "Waverider",
   "rating": {
     "gph": 638.7,
@@ -197,6 +198,5 @@
       8.01,
       9.04
     ]
-  },
-  "reference": "04310004R1F"
+  }
 }

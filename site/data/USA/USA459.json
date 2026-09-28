@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA459",
   "country": "USA",
+  "reference": "04560004HE4",
   "name": "ABSTRACT",
   "rating": {
     "gph": 613.8,
@@ -197,6 +198,5 @@
       7.99,
       10.05
     ]
-  },
-  "reference": "04560004HE4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS29",
   "country": "AUS",
+  "reference": "03020004VA3",
   "name": "Antares",
   "rating": {
     "gph": 706.4,
@@ -197,6 +198,5 @@
       7.53,
       9.16
     ]
-  },
-  "reference": "03020004VA3"
+  }
 }

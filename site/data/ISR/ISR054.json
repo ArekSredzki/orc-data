@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR054",
   "country": "ISR",
+  "reference": "04390004WKE",
   "name": "ANAIS",
   "rating": {
     "gph": 664.1,
@@ -197,6 +198,5 @@
       7.67,
       8.27
     ]
-  },
-  "reference": "04390004WKE"
+  }
 }

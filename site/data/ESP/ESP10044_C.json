@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10044_C",
   "country": "ESP",
+  "reference": "03510004W3H",
   "name": "FELIPEVA VI",
   "rating": {
     "gph": 568.1,
@@ -197,6 +198,5 @@
       8.85,
       9.79
     ]
-  },
-  "reference": "03510004W3H"
+  }
 }

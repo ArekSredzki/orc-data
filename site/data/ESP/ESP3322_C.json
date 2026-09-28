@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3322_C",
   "country": "ESP",
+  "reference": "03510004C7B",
   "name": "XIMA",
   "rating": {
     "gph": 669.3,
@@ -197,6 +198,5 @@
       7.02,
       7.57
     ]
-  },
-  "reference": "03510004C7B"
+  }
 }

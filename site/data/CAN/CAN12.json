@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN12",
   "country": "CAN",
+  "reference": "03430004W47",
   "name": "Can12",
   "rating": {
     "gph": 586.3,
@@ -197,6 +198,5 @@
       9.63,
       12.48
     ]
-  },
-  "reference": "03430004W47"
+  }
 }

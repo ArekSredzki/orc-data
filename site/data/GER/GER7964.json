@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7964",
   "country": "GER",
+  "reference": "03520004I2J",
   "name": "CARBON ARROW",
   "rating": {
     "gph": 624.0,
@@ -197,6 +198,5 @@
       10.89,
       13.88
     ]
-  },
-  "reference": "03520004I2J"
+  }
 }

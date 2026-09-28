@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED99",
   "country": "NED",
+  "reference": "04310004PHM",
   "name": "Jackle",
   "rating": {
     "gph": 615.0,
@@ -197,6 +198,5 @@
       7.8,
       9.85
     ]
-  },
-  "reference": "04310004PHM"
+  }
 }

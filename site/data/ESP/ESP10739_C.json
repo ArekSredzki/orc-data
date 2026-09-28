@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10739_C",
   "country": "ESP",
+  "reference": "03510004HAN",
   "name": "ADLER",
   "rating": {
     "gph": 640.7,
@@ -197,6 +198,5 @@
       7.43,
       8.8
     ]
-  },
-  "reference": "03510004HAN"
+  }
 }

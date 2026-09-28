@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15P",
   "country": "ITA",
+  "reference": "03190004QTW",
   "name": "MISTER MAX",
   "rating": {
     "gph": 637.9,
@@ -197,6 +198,5 @@
       10.03,
       12.93
     ]
-  },
-  "reference": "03190004QTW"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER3084",
   "country": "GER",
+  "reference": "03520004OE0",
   "name": "FREYA",
   "rating": {
     "gph": 572.7,
@@ -197,6 +198,5 @@
       8.82,
       9.46
     ]
-  },
-  "reference": "03520004OE0"
+  }
 }

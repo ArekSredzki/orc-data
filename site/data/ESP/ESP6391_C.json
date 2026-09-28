@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6391_C",
   "country": "ESP",
+  "reference": "03510004BIS",
   "name": "PROTON",
   "rating": {
     "gph": 750.0,
@@ -197,6 +198,5 @@
       6.21,
       6.77
     ]
-  },
-  "reference": "03510004BIS"
+  }
 }

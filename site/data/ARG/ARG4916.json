@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG4916",
   "country": "ARG",
+  "reference": "03880004VE6",
   "name": "MAGO",
   "rating": {
     "gph": 652.1,
@@ -197,6 +198,5 @@
       7.76,
       8.68
     ]
-  },
-  "reference": "03880004VE6"
+  }
 }

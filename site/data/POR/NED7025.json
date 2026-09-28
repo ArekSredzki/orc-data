@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/NED7025",
   "country": "POR",
+  "reference": "03530004WWE",
   "name": "MAD MAX",
   "rating": {
     "gph": 561.5,
@@ -197,6 +198,5 @@
       8.81,
       9.79
     ]
-  },
-  "reference": "03530004WWE"
+  }
 }

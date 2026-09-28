@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8538",
   "country": "GER",
+  "reference": "03520004VCP",
   "name": "ORINOCO",
   "rating": {
     "gph": 582.5,
@@ -197,6 +198,5 @@
       8.19,
       9.88
     ]
-  },
-  "reference": "03520004VCP"
+  }
 }

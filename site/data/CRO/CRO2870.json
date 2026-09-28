@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2870",
   "country": "CRO",
+  "reference": "03620004BL0",
   "name": "Sundown",
   "rating": {
     "gph": 540.0,
@@ -197,6 +198,5 @@
       8.73,
       10.29
     ]
-  },
-  "reference": "03620004BL0"
+  }
 }

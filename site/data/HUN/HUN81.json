@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN81",
   "country": "HUN",
+  "reference": "04890004WI2",
   "name": "Ellinore",
   "rating": {
     "gph": 593.4,
@@ -197,6 +198,5 @@
       9.45,
       11.71
     ]
-  },
-  "reference": "04890004WI2"
+  }
 }

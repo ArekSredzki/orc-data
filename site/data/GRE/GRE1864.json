@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1864",
   "country": "GRE",
+  "reference": "03420004SCW",
   "name": "MELINA",
   "rating": {
     "gph": 684.7,
@@ -197,6 +198,5 @@
       7.23,
       8.53
     ]
-  },
-  "reference": "03420004SCW"
+  }
 }

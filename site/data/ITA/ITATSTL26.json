@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITATSTL26",
   "country": "ITA",
+  "reference": "03190004S2L",
   "name": "TUSITALA",
   "rating": {
     "gph": 622.4,
@@ -197,6 +198,5 @@
       7.92,
       8.55
     ]
-  },
-  "reference": "03190004S2L"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8473",
   "country": "GER",
+  "reference": "04150004LNL",
   "name": "JOKER",
   "rating": {
     "gph": 611.2,
@@ -197,6 +198,5 @@
       7.66,
       8.79
     ]
-  },
-  "reference": "04150004LNL"
+  }
 }

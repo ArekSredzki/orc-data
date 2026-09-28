@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7054",
   "country": "ESP",
+  "reference": "03510004AVN",
   "name": "WASABI",
   "rating": {
     "gph": 739.2,
@@ -197,6 +198,5 @@
       6.81,
       7.59
     ]
-  },
-  "reference": "03510004AVN"
+  }
 }

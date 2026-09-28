@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5382",
   "country": "ESP",
+  "reference": "03510004F27",
   "name": "VA BIEN",
   "rating": {
     "gph": 665.2,
@@ -197,6 +198,5 @@
       7.47,
       8.07
     ]
-  },
-  "reference": "03510004F27"
+  }
 }

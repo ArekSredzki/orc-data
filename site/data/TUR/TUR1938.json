@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1938",
   "country": "TUR",
+  "reference": "04590004K8H",
   "name": "GEMINI",
   "rating": {
     "gph": 637.6,
@@ -197,6 +198,5 @@
       7.93,
       8.77
     ]
-  },
-  "reference": "04590004K8H"
+  }
 }

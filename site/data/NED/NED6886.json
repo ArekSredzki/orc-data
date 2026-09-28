@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6886",
   "country": "NED",
+  "reference": "04310004JW5",
   "name": "CHILLOUT!",
   "rating": {
     "gph": 609.7,
@@ -197,6 +198,5 @@
       8.06,
       8.94
     ]
-  },
-  "reference": "04310004JW5"
+  }
 }

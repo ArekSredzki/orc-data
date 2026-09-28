@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/B71",
   "country": "AUS",
+  "reference": "03020004VLC",
   "name": "Another Chapter",
   "rating": {
     "gph": 557.0,
@@ -197,6 +198,5 @@
       8.87,
       9.79
     ]
-  },
-  "reference": "03020004VLC"
+  }
 }

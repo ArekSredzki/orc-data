@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN53",
   "country": "FIN",
+  "reference": "04140004VFM",
   "name": "Blue Nun",
   "rating": {
     "gph": 693.1,
@@ -197,6 +198,5 @@
       7.33,
       8.13
     ]
-  },
-  "reference": "04140004VFM"
+  }
 }

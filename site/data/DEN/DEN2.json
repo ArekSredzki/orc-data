@@ -1,6 +1,7 @@
 {
   "sailnumber": "DEN/DEN2",
   "country": "DEN",
+  "reference": "03370004VDR",
   "name": "Medvind",
   "rating": {
     "gph": 551.1,
@@ -197,6 +198,5 @@
       8.53,
       9.16
     ]
-  },
-  "reference": "03370004VDR"
+  }
 }

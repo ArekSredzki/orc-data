@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN295",
   "country": "HUN",
+  "reference": "04890004NPW",
   "name": "Aiolos",
   "rating": {
     "gph": 675.9,
@@ -197,6 +198,5 @@
       7.56,
       8.37
     ]
-  },
-  "reference": "04890004NPW"
+  }
 }

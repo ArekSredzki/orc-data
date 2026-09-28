@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GER4432",
   "country": "ESP",
+  "reference": "03510004ULO",
   "name": "ALEGRIA",
   "rating": {
     "gph": 552.3,
@@ -197,6 +198,5 @@
       8.62,
       9.78
     ]
-  },
-  "reference": "03510004ULO"
+  }
 }

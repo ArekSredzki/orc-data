@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5074_C",
   "country": "ESP",
+  "reference": "03510004C7A",
   "name": "DRAP",
   "rating": {
     "gph": 680.9,
@@ -197,6 +198,5 @@
       7.47,
       8.02
     ]
-  },
-  "reference": "03510004C7A"
+  }
 }

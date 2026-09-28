@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA16681",
   "country": "FRA",
+  "reference": "04330004J1I",
   "name": "MATAMOUF of RECOUCOU",
   "rating": {
     "gph": 646.8,
@@ -197,6 +198,5 @@
       7.73,
       8.82
     ]
-  },
-  "reference": "04330004J1I"
+  }
 }

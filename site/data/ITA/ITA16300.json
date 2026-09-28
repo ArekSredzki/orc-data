@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16300",
   "country": "ITA",
+  "reference": "03190004UJ6",
   "name": "ALTAIR 3",
   "rating": {
     "gph": 489.1,
@@ -197,6 +198,5 @@
       11.2,
       13.86
     ]
-  },
-  "reference": "03190004UJ6"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1223",
   "country": "TUR",
+  "reference": "04590004O1S",
   "name": "MAX JR",
   "rating": {
     "gph": 580.6,
@@ -197,6 +198,5 @@
       8.1,
       9.07
     ]
-  },
-  "reference": "04590004O1S"
+  }
 }

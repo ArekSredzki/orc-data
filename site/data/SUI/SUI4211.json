@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI4211",
   "country": "SUI",
+  "reference": "03080004P4Q",
   "name": "SWISS NAUTIC ONE",
   "rating": {
     "gph": 576.2,
@@ -197,6 +198,5 @@
       8.24,
       8.98
     ]
-  },
-  "reference": "03080004P4Q"
+  }
 }

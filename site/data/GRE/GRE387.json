@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE387",
   "country": "GRE",
+  "reference": "03420004VKR",
   "name": "STONE AGE",
   "rating": {
     "gph": 639.8,
@@ -197,6 +198,5 @@
       10.08,
       13.17
     ]
-  },
-  "reference": "03420004VKR"
+  }
 }

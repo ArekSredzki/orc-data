@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14879",
   "country": "ITA",
+  "reference": "03190004P3V",
   "name": "PADAWAN",
   "rating": {
     "gph": 589.0,
@@ -197,6 +198,5 @@
       8.25,
       9.01
     ]
-  },
-  "reference": "03190004P3V"
+  }
 }

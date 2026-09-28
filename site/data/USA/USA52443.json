@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52443",
   "country": "USA",
+  "reference": "04560004W6A",
   "name": "VAMOOSE",
   "rating": {
     "gph": 546.9,
@@ -197,6 +198,5 @@
       8.62,
       10.17
     ]
-  },
-  "reference": "04560004W6A"
+  }
 }

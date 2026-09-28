@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52774",
   "country": "USA",
+  "reference": "04560004V7P",
   "name": "AMANTE 2",
   "rating": {
     "gph": 490.1,
@@ -197,6 +198,5 @@
       10.73,
       13.7
     ]
-  },
-  "reference": "04560004V7P"
+  }
 }

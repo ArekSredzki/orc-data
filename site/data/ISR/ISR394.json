@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR394",
   "country": "ISR",
+  "reference": "04390004846",
   "name": "YOLO",
   "rating": {
     "gph": 692.7,
@@ -197,6 +198,5 @@
       7.32,
       7.87
     ]
-  },
-  "reference": "04390004846"
+  }
 }

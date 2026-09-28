@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11315",
   "country": "ESP",
+  "reference": "03510004BEE",
   "name": "BAFFI",
   "rating": {
     "gph": 582.5,
@@ -197,6 +198,5 @@
       8.3,
       8.98
     ]
-  },
-  "reference": "03510004BEE"
+  }
 }

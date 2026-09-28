@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16905",
   "country": "ITA",
+  "reference": "03190004FL9",
   "name": "MARTA III",
   "rating": {
     "gph": 621.1,
@@ -197,6 +198,5 @@
       7.72,
       8.36
     ]
-  },
-  "reference": "03190004FL9"
+  }
 }

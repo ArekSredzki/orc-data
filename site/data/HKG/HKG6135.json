@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG6135",
   "country": "HKG",
+  "reference": "03880004CAM",
   "name": "Ichiban",
   "rating": {
     "gph": 630.3,
@@ -197,6 +198,5 @@
       7.96,
       8.67
     ]
-  },
-  "reference": "03880004CAM"
+  }
 }

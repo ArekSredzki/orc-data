@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7625",
   "country": "ESP",
+  "reference": "03510004ET1",
   "name": "TANIT IV - MEDILEVEL",
   "rating": {
     "gph": 607.7,
@@ -197,6 +198,5 @@
       8.12,
       8.84
     ]
-  },
-  "reference": "03510004ET1"
+  }
 }

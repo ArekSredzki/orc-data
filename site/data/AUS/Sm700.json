@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm700",
   "country": "AUS",
+  "reference": "03020004WH8",
   "name": "Belle",
   "rating": {
     "gph": 485.7,
@@ -197,6 +198,5 @@
       9.92,
       11.57
     ]
-  },
-  "reference": "03020004WH8"
+  }
 }

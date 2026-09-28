@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9888",
   "country": "ESP",
+  "reference": "03510004BHT",
   "name": "FRAGIL V",
   "rating": {
     "gph": 644.0,
@@ -197,6 +198,5 @@
       8.09,
       9.31
     ]
-  },
-  "reference": "03510004BHT"
+  }
 }

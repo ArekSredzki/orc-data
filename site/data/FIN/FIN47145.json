@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN47145",
   "country": "FIN",
+  "reference": "04140004IKK",
   "name": "Echo",
   "rating": {
     "gph": 670.9,
@@ -197,6 +198,5 @@
       7.01,
       7.46
     ]
-  },
-  "reference": "04140004IKK"
+  }
 }

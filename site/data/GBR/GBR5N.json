@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GBR5N",
   "country": "GBR",
+  "reference": "03860004O1L",
   "name": "INO VERITAS",
   "rating": {
     "gph": 426.6,
@@ -197,6 +198,5 @@
       13.65,
       16.86
     ]
-  },
-  "reference": "03860004O1L"
+  }
 }

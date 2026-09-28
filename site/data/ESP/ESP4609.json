@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4609",
   "country": "ESP",
+  "reference": "03510004C2J",
   "name": "FURIENT",
   "rating": {
     "gph": 687.5,
@@ -197,6 +198,5 @@
       8.36,
       11.02
     ]
-  },
-  "reference": "03510004C2J"
+  }
 }

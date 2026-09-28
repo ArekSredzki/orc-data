@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN4900",
   "country": "FIN",
+  "reference": "04140004W46",
   "name": "Belmont",
   "rating": {
     "gph": 568.4,
@@ -197,6 +198,5 @@
       8.7,
       9.34
     ]
-  },
-  "reference": "04140004W46"
+  }
 }

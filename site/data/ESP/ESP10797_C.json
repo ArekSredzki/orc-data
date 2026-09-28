@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10797_C",
   "country": "ESP",
+  "reference": "03510004F2C",
   "name": "POSIDONEA",
   "rating": {
     "gph": 681.4,
@@ -197,6 +198,5 @@
       7.44,
       8.12
     ]
-  },
-  "reference": "03510004F2C"
+  }
 }

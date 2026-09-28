@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA40079",
   "country": "USA",
+  "reference": "04560004P69",
   "name": "ASTRA",
   "rating": {
     "gph": 528.2,
@@ -197,6 +198,5 @@
       10.13,
       12.77
     ]
-  },
-  "reference": "04560004P69"
+  }
 }

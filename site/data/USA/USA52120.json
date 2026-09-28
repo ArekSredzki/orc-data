@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52120",
   "country": "USA",
+  "reference": "04560004Q32",
   "name": "KEELFORCE",
   "rating": {
     "gph": 574.4,
@@ -197,6 +198,5 @@
       8.28,
       9.98
     ]
-  },
-  "reference": "04560004Q32"
+  }
 }

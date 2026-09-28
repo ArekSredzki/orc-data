@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11460",
   "country": "NOR",
+  "reference": "03440004HR2",
   "name": "Najaden",
   "rating": {
     "gph": 692.7,
@@ -197,6 +198,5 @@
       7.26,
       7.9
     ]
-  },
-  "reference": "03440004HR2"
+  }
 }

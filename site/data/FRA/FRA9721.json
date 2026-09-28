@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9721",
   "country": "FRA",
+  "reference": "04330004H1E",
   "name": "LA BELUGUE",
   "rating": {
     "gph": 655.3,
@@ -197,6 +198,5 @@
       7.62,
       8.29
     ]
-  },
-  "reference": "04330004H1E"
+  }
 }

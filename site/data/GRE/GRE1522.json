@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1522",
   "country": "GRE",
+  "reference": "03420004LIM",
   "name": "ALKYON",
   "rating": {
     "gph": 646.9,
@@ -197,6 +198,5 @@
       8.14,
       8.81
     ]
-  },
-  "reference": "03420004LIM"
+  }
 }

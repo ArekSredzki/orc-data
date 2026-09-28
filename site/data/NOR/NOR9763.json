@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9763",
   "country": "NOR",
+  "reference": "03440004RFP",
   "name": "Wish",
   "rating": {
     "gph": 671.2,
@@ -197,6 +198,5 @@
       7.5,
       8.24
     ]
-  },
-  "reference": "03440004RFP"
+  }
 }

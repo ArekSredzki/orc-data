@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4187_C",
   "country": "ESP",
+  "reference": "03510004NRF",
   "name": "X-AIRE",
   "rating": {
     "gph": 590.2,
@@ -197,6 +198,5 @@
       8.19,
       8.97
     ]
-  },
-  "reference": "03510004NRF"
+  }
 }

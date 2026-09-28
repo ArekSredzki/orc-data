@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST868",
   "country": "EST",
+  "reference": "04340004TCO",
   "name": "Birgitta",
   "rating": {
     "gph": 695.5,
@@ -197,6 +198,5 @@
       7.19,
       7.83
     ]
-  },
-  "reference": "04340004TCO"
+  }
 }

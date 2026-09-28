@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16255",
   "country": "NOR",
+  "reference": "03440004ROV",
   "name": "Nisa",
   "rating": {
     "gph": 791.9,
@@ -197,6 +198,5 @@
       6.52,
       7.14
     ]
-  },
-  "reference": "03440004ROV"
+  }
 }

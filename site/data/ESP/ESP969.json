@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP969",
   "country": "ESP",
+  "reference": "03510004BIF",
   "name": "VELAMAR XV",
   "rating": {
     "gph": 719.9,
@@ -197,6 +198,5 @@
       7.01,
       7.63
     ]
-  },
-  "reference": "03510004BIF"
+  }
 }

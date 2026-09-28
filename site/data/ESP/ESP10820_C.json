@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10820_C",
   "country": "ESP",
+  "reference": "03510004IBR",
   "name": "MAGIC CARPET",
   "rating": {
     "gph": 557.7,
@@ -197,6 +198,5 @@
       8.75,
       9.98
     ]
-  },
-  "reference": "03510004IBR"
+  }
 }

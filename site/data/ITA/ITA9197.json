@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA9197",
   "country": "ITA",
+  "reference": "03190004LP7",
   "name": "DOGARESSA",
   "rating": {
     "gph": 652.7,
@@ -197,6 +198,5 @@
       7.52,
       8.15
     ]
-  },
-  "reference": "03190004LP7"
+  }
 }

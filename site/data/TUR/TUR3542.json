@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR3542",
   "country": "TUR",
+  "reference": "04590004B3I",
   "name": "KIRMIZI 1",
   "rating": {
     "gph": 621.5,
@@ -197,6 +198,5 @@
       7.56,
       8.22
     ]
-  },
-  "reference": "04590004B3I"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/CRO1504",
   "country": "ITA",
+  "reference": "03190004F7E",
   "name": "ZIGGY",
   "rating": {
     "gph": 607.6,
@@ -197,6 +198,5 @@
       8.35,
       9.16
     ]
-  },
-  "reference": "03190004F7E"
+  }
 }

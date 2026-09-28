@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13626",
   "country": "NOR",
+  "reference": "03440004PLU",
   "name": "Muligheten Seilavi",
   "rating": {
     "gph": 583.7,
@@ -197,6 +198,5 @@
       8.2,
       8.86
     ]
-  },
-  "reference": "03440004PLU"
+  }
 }

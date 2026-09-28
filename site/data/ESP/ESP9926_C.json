@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9926_C",
   "country": "ESP",
+  "reference": "03510004OMF",
   "name": "PINTO TERCERO",
   "rating": {
     "gph": 628.1,
@@ -197,6 +198,5 @@
       10.15,
       13.29
     ]
-  },
-  "reference": "03510004OMF"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR4686",
   "country": "FRA",
+  "reference": "04330004W78",
   "name": "MARIPOSA",
   "rating": {
     "gph": 593.0,
@@ -197,6 +198,5 @@
       8.28,
       8.9
     ]
-  },
-  "reference": "04330004W78"
+  }
 }

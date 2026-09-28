@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12696",
   "country": "ITA",
+  "reference": "03190004FO9",
   "name": "ROSIKALISCA",
   "rating": {
     "gph": 638.4,
@@ -197,6 +198,5 @@
       7.71,
       8.44
     ]
-  },
-  "reference": "03190004FO9"
+  }
 }

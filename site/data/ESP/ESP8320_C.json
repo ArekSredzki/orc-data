@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8320_C",
   "country": "ESP",
+  "reference": "03510004ETT",
   "name": "BIMBA",
   "rating": {
     "gph": 606.3,
@@ -197,6 +198,5 @@
       8.11,
       8.71
     ]
-  },
-  "reference": "03510004ETT"
+  }
 }

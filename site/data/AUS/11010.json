@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/11010",
   "country": "AUS",
+  "reference": "03020004U9S",
   "name": "MATADOR",
   "rating": {
     "gph": 607.7,
@@ -197,6 +198,5 @@
       8.12,
       9.27
     ]
-  },
-  "reference": "03020004U9S"
+  }
 }

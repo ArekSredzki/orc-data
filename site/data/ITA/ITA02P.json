@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA02P",
   "country": "ITA",
+  "reference": "03190004QTU",
   "name": "PROTAGONIST",
   "rating": {
     "gph": 647.5,
@@ -197,6 +198,5 @@
       8.6,
       11.42
     ]
-  },
-  "reference": "03190004QTU"
+  }
 }

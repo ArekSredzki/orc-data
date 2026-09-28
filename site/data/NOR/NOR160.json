@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR160",
   "country": "NOR",
+  "reference": "03440004OQO",
   "name": "Point 2 Point",
   "rating": {
     "gph": 606.3,
@@ -197,6 +198,5 @@
       10.19,
       12.98
     ]
-  },
-  "reference": "03440004OQO"
+  }
 }

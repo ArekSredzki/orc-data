@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14869",
   "country": "ITA",
+  "reference": "03190004KHB",
   "name": "ZERO",
   "rating": {
     "gph": 597.0,
@@ -197,6 +198,5 @@
       8.36,
       9.2
     ]
-  },
-  "reference": "03190004KHB"
+  }
 }

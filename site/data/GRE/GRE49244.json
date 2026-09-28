@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49244",
   "country": "GRE",
+  "reference": "03420004U6B",
   "name": "GREGOS",
   "rating": {
     "gph": 818.6,
@@ -197,6 +198,5 @@
       6.36,
       6.84
     ]
-  },
-  "reference": "03420004U6B"
+  }
 }

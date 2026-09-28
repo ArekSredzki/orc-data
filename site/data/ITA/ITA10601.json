@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10601",
   "country": "ITA",
+  "reference": "03190004POV",
   "name": "BELFAGOR",
   "rating": {
     "gph": 616.6,
@@ -197,6 +198,5 @@
       7.75,
       8.29
     ]
-  },
-  "reference": "03190004POV"
+  }
 }

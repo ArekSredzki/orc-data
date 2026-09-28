@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA17324",
   "country": "FRA",
+  "reference": "04330004N8R",
   "name": "TETE D'ARTICHAUD",
   "rating": {
     "gph": 700.3,
@@ -197,6 +198,5 @@
       8.39,
       11.6
     ]
-  },
-  "reference": "04330004N8R"
+  }
 }

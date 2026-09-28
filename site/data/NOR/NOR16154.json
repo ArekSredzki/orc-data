@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16154",
   "country": "NOR",
+  "reference": "03440004O9E",
   "name": "Sirius",
   "rating": {
     "gph": 642.8,
@@ -197,6 +198,5 @@
       7.58,
       8.15
     ]
-  },
-  "reference": "03440004O9E"
+  }
 }

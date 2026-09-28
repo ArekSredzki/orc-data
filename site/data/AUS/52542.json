@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/52542",
   "country": "AUS",
+  "reference": "03020004U3I",
   "name": "BLACK DIAMOND",
   "rating": {
     "gph": 497.5,
@@ -197,6 +198,5 @@
       11.08,
       14.15
     ]
-  },
-  "reference": "03020004U3I"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS9999",
   "country": "AUS",
+  "reference": "03020004VOV",
   "name": "Assassin",
   "rating": {
     "gph": 505.1,
@@ -197,6 +198,5 @@
       12.61,
       15.98
     ]
-  },
-  "reference": "03020004VOV"
+  }
 }

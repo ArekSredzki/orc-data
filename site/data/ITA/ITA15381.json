@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15381",
   "country": "ITA",
+  "reference": "03190004HAD",
   "name": "KAIROS",
   "rating": {
     "gph": 616.9,
@@ -197,6 +198,5 @@
       7.71,
       8.32
     ]
-  },
-  "reference": "03190004HAD"
+  }
 }

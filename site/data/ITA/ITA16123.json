@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16123",
   "country": "ITA",
+  "reference": "03190004K5R",
   "name": "NACA",
   "rating": {
     "gph": 537.5,
@@ -197,6 +198,5 @@
       8.88,
       10.25
     ]
-  },
-  "reference": "03190004K5R"
+  }
 }

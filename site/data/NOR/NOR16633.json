@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16633",
   "country": "NOR",
+  "reference": "03440004QFK",
   "name": "Kismet d.y.",
   "rating": {
     "gph": 688.1,
@@ -197,6 +198,5 @@
       7.31,
       7.95
     ]
-  },
-  "reference": "03440004QFK"
+  }
 }

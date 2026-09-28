@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN42382",
   "country": "CAN",
+  "reference": "03430004NBQ",
   "name": "Dominatrix",
   "rating": {
     "gph": 582.1,
@@ -197,6 +198,5 @@
       8.48,
       9.58
     ]
-  },
-  "reference": "03430004NBQ"
+  }
 }

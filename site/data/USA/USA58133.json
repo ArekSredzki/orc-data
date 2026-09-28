@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA58133",
   "country": "USA",
+  "reference": "04560004WCP",
   "name": "ASSARAIN",
   "rating": {
     "gph": 548.5,
@@ -197,6 +198,5 @@
       8.74,
       10.53
     ]
-  },
-  "reference": "04560004WCP"
+  }
 }

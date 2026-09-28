@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR7252",
   "country": "NOR",
+  "reference": "03440004M4N",
   "name": "Sjelami",
   "rating": {
     "gph": 678.4,
@@ -197,6 +198,5 @@
       7.35,
       9.29
     ]
-  },
-  "reference": "03440004M4N"
+  }
 }

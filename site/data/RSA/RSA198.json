@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA198",
   "country": "RSA",
+  "reference": "04620004LAE",
   "name": "Hill Billy",
   "rating": {
     "gph": 685.0,
@@ -197,6 +198,5 @@
       7.45,
       9.05
     ]
-  },
-  "reference": "04620004LAE"
+  }
 }

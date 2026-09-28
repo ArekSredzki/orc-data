@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7491_C",
   "country": "ESP",
+  "reference": "03510004KI1",
   "name": "NEMO IV",
   "rating": {
     "gph": 714.7,
@@ -197,6 +198,5 @@
       7.02,
       8.29
     ]
-  },
-  "reference": "03510004KI1"
+  }
 }

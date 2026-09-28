@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17719",
   "country": "ITA",
+  "reference": "03190004F48",
   "name": "SLY FOX CUBE",
   "rating": {
     "gph": 577.3,
@@ -197,6 +198,5 @@
       8.35,
       9.04
     ]
-  },
-  "reference": "03190004F48"
+  }
 }

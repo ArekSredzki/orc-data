@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/B2",
   "country": "AUS",
+  "reference": "03020004TNF",
   "name": "BKT JAMHU",
   "rating": {
     "gph": 560.3,
@@ -197,6 +198,5 @@
       8.97,
       10.65
     ]
-  },
-  "reference": "03020004TNF"
+  }
 }

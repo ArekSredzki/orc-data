@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8442",
   "country": "GER",
+  "reference": "03520004WNF",
   "name": "MIMI ELECTRA",
   "rating": {
     "gph": 647.4,
@@ -197,6 +198,5 @@
       7.76,
       8.28
     ]
-  },
-  "reference": "03520004WNF"
+  }
 }

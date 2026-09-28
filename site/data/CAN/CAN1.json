@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN1",
   "country": "CAN",
+  "reference": "03430004TVC",
   "name": "Mad Dash",
   "rating": {
     "gph": 606.7,
@@ -197,6 +198,5 @@
       8.14,
       9.55
     ]
-  },
-  "reference": "03430004TVC"
+  }
 }

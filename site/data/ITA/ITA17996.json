@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17996",
   "country": "ITA",
+  "reference": "03190004S2D",
   "name": "GRIFON D'ORO",
   "rating": {
     "gph": 639.7,
@@ -197,6 +198,5 @@
       7.39,
       8.51
     ]
-  },
-  "reference": "03190004S2D"
+  }
 }

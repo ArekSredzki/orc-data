@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17460",
   "country": "ITA",
+  "reference": "03190004PPI",
   "name": "RAFFICA 3",
   "rating": {
     "gph": 568.5,
@@ -197,6 +198,5 @@
       8.49,
       9.63
     ]
-  },
-  "reference": "03190004PPI"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR2023",
   "country": "POR",
+  "reference": "03530004O0E",
   "name": "CORS\u00c1RIO DO ALGARVE",
   "rating": {
     "gph": 635.4,
@@ -197,6 +198,5 @@
       9.71,
       12.87
     ]
-  },
-  "reference": "03530004O0E"
+  }
 }

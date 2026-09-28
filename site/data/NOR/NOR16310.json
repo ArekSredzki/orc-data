@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16310",
   "country": "NOR",
+  "reference": "03440004OER",
   "name": "Jorunn",
   "rating": {
     "gph": 655.1,
@@ -197,6 +198,5 @@
       7.37,
       7.96
     ]
-  },
-  "reference": "03440004OER"
+  }
 }

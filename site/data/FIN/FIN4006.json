@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN4006",
   "country": "FIN",
+  "reference": "04140004T07",
   "name": "Humbug",
   "rating": {
     "gph": 679.3,
@@ -197,6 +198,5 @@
       7.32,
       8.01
     ]
-  },
-  "reference": "04140004T07"
+  }
 }

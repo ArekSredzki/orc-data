@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6337",
   "country": "GER",
+  "reference": "03520004I3U",
   "name": "JACARANDA",
   "rating": {
     "gph": 622.7,
@@ -197,6 +198,5 @@
       7.95,
       8.67
     ]
-  },
-  "reference": "03520004I3U"
+  }
 }

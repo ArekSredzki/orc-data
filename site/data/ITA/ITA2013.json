@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA2013",
   "country": "ITA",
+  "reference": "03190004CB3",
   "name": "MY FIN",
   "rating": {
     "gph": 573.2,
@@ -197,6 +198,5 @@
       8.18,
       8.84
     ]
-  },
-  "reference": "03190004CB3"
+  }
 }

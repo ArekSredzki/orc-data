@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA77774",
   "country": "ITA",
+  "reference": "03190004L92",
   "name": "FLYINGNIKKA",
   "rating": {
     "gph": 278.9,
@@ -197,6 +198,5 @@
       28.44,
       30.08
     ]
-  },
-  "reference": "03190004L92"
+  }
 }

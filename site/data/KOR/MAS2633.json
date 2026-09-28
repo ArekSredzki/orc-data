@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/MAS2633",
   "country": "KOR",
+  "reference": "04550004V9U",
   "name": "SPIRIT",
   "rating": {
     "gph": 620.7,
@@ -197,6 +198,5 @@
       8.01,
       8.79
     ]
-  },
-  "reference": "04550004V9U"
+  }
 }

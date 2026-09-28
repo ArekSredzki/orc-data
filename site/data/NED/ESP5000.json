@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/ESP5000",
   "country": "NED",
+  "reference": "04310004W0H",
   "name": "Bunda",
   "rating": {
     "gph": 622.6,
@@ -197,6 +198,5 @@
       8.07,
       9.07
     ]
-  },
-  "reference": "04310004W0H"
+  }
 }

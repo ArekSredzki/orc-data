@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO1830",
   "country": "CRO",
+  "reference": "03620004HA4",
   "name": "Scorpio",
   "rating": {
     "gph": 635.6,
@@ -197,6 +198,5 @@
       7.97,
       8.71
     ]
-  },
-  "reference": "03620004HA4"
+  }
 }

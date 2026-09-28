@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61950",
   "country": "USA",
+  "reference": "04560004QKO",
   "name": "HUZZAH",
   "rating": {
     "gph": 626.6,
@@ -197,6 +198,5 @@
       7.98,
       8.57
     ]
-  },
-  "reference": "04560004QKO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA66",
   "country": "RSA",
+  "reference": "0462000486M",
   "name": "Indaba",
   "rating": {
     "gph": 701.7,
@@ -197,6 +198,5 @@
       7.2,
       7.8
     ]
-  },
-  "reference": "0462000486M"
+  }
 }

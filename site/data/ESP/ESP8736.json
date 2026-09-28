@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8736",
   "country": "ESP",
+  "reference": "03510004B2K",
   "name": "SAVENC",
   "rating": {
     "gph": 616.3,
@@ -197,6 +198,5 @@
       8.13,
       8.91
     ]
-  },
-  "reference": "03510004B2K"
+  }
 }

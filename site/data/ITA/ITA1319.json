@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1319",
   "country": "ITA",
+  "reference": "03190004MDD",
   "name": "\u00c7a Va",
   "rating": {
     "gph": 553.7,
@@ -197,6 +198,5 @@
       8.56,
       9.4
     ]
-  },
-  "reference": "03190004MDD"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN7000",
   "country": "FIN",
+  "reference": "04140004MKB",
   "name": "FunFarr",
   "rating": {
     "gph": 589.4,
@@ -197,6 +198,5 @@
       8.22,
       9.13
     ]
-  },
-  "reference": "04140004MKB"
+  }
 }

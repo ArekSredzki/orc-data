@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA27043",
   "country": "FRA",
+  "reference": "04330004FLW",
   "name": "QUASAR",
   "rating": {
     "gph": 642.0,
@@ -197,6 +198,5 @@
       7.58,
       9.83
     ]
-  },
-  "reference": "04330004FLW"
+  }
 }

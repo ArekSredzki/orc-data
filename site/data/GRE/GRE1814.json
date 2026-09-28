@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1814",
   "country": "GRE",
+  "reference": "03420004NMS",
   "name": "AURA",
   "rating": {
     "gph": 696.7,
@@ -197,6 +198,5 @@
       7.01,
       7.56
     ]
-  },
-  "reference": "03420004NMS"
+  }
 }

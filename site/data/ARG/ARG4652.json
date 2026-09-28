@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG4652",
   "country": "ARG",
+  "reference": "03880004WM9",
   "name": "PANIC ATTACK",
   "rating": {
     "gph": 611.0,
@@ -197,6 +198,5 @@
       8.24,
       9.76
     ]
-  },
-  "reference": "03880004WM9"
+  }
 }

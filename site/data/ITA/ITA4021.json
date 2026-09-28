@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA4021",
   "country": "ITA",
+  "reference": "03190004NBO",
   "name": "MASCALZONE LATINO",
   "rating": {
     "gph": 528.4,
@@ -197,6 +198,5 @@
       10.42,
       13.37
     ]
-  },
-  "reference": "03190004NBO"
+  }
 }

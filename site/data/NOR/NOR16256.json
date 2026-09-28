@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16256",
   "country": "NOR",
+  "reference": "03440004SFN",
   "name": "Fortuna",
   "rating": {
     "gph": 682.3,
@@ -197,6 +198,5 @@
       7.14,
       7.67
     ]
-  },
-  "reference": "03440004SFN"
+  }
 }

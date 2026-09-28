@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2031",
   "country": "GRE",
+  "reference": "03420004HH7",
   "name": "DENNIS DUE",
   "rating": {
     "gph": 618.8,
@@ -197,6 +198,5 @@
       7.81,
       8.5
     ]
-  },
-  "reference": "03420004HH7"
+  }
 }

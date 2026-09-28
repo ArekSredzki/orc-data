@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7998",
   "country": "GER",
+  "reference": "04150004IAK",
   "name": "NORDEN",
   "rating": {
     "gph": 613.3,
@@ -197,6 +198,5 @@
       8.12,
       8.9
     ]
-  },
-  "reference": "04150004IAK"
+  }
 }

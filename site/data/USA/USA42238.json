@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA42238",
   "country": "USA",
+  "reference": "04560004QBQ",
   "name": "Vice",
   "rating": {
     "gph": 614.9,
@@ -197,6 +198,5 @@
       8.15,
       10.48
     ]
-  },
-  "reference": "04560004QBQ"
+  }
 }

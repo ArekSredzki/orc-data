@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16001",
   "country": "ITA",
+  "reference": "03190004UMM",
   "name": "DUC IN ALTUM",
   "rating": {
     "gph": 644.7,
@@ -197,6 +198,5 @@
       7.36,
       7.94
     ]
-  },
-  "reference": "03190004UMM"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/R9",
   "country": "HUN",
+  "reference": "04890004PIH",
   "name": "LOSTA",
   "rating": {
     "gph": 584.4,
@@ -197,6 +198,5 @@
       9.2,
       11.72
     ]
-  },
-  "reference": "04890004PIH"
+  }
 }

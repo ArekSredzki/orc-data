@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17764",
   "country": "ITA",
+  "reference": "03190004I9O",
   "name": "SCHEGGIA",
   "rating": {
     "gph": 670.5,
@@ -197,6 +198,5 @@
       7.51,
       8.26
     ]
-  },
-  "reference": "03190004I9O"
+  }
 }

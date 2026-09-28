@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13440",
   "country": "NOR",
+  "reference": "03440004KAK",
   "name": "Ren Glede",
   "rating": {
     "gph": 587.9,
@@ -197,6 +198,5 @@
       8.36,
       9.06
     ]
-  },
-  "reference": "03440004KAK"
+  }
 }

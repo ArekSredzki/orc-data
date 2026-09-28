@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA5252",
   "country": "USA",
+  "reference": "04560004VIT",
   "name": "NATALIE J",
   "rating": {
     "gph": 433.5,
@@ -197,6 +198,5 @@
       13.45,
       16.75
     ]
-  },
-  "reference": "04560004VIT"
+  }
 }

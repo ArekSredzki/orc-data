@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3405_C",
   "country": "ESP",
+  "reference": "03510004J36",
   "name": "KOAN",
   "rating": {
     "gph": 695.0,
@@ -197,6 +198,5 @@
       9.21,
       12.25
     ]
-  },
-  "reference": "03510004J36"
+  }
 }

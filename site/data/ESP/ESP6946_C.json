@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6946_C",
   "country": "ESP",
+  "reference": "03510004KVU",
   "name": "SALITRE",
   "rating": {
     "gph": 566.5,
@@ -197,6 +198,5 @@
       8.65,
       9.45
     ]
-  },
-  "reference": "03510004KVU"
+  }
 }

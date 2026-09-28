@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2543",
   "country": "LTU",
+  "reference": "03590004UOL",
   "name": "FIGARO",
   "rating": {
     "gph": 662.9,
@@ -197,6 +198,5 @@
       7.77,
       10.59
     ]
-  },
-  "reference": "03590004UOL"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI043",
   "country": "SUI",
+  "reference": "03080004OLU",
   "name": "UFENAU",
   "rating": {
     "gph": 624.4,
@@ -197,6 +198,5 @@
       10.2,
       13.24
     ]
-  },
-  "reference": "03080004OLU"
+  }
 }

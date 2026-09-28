@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5802_C",
   "country": "ESP",
+  "reference": "03510004QTM",
   "name": "EUPHORIA",
   "rating": {
     "gph": 657.7,
@@ -197,6 +198,5 @@
       7.71,
       8.63
     ]
-  },
-  "reference": "03510004QTM"
+  }
 }

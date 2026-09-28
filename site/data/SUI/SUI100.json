@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI100",
   "country": "SUI",
+  "reference": "03080004TBU",
   "name": "IBINADO",
   "rating": {
     "gph": 611.2,
@@ -197,6 +198,5 @@
       10.69,
       13.71
     ]
-  },
-  "reference": "03080004TBU"
+  }
 }

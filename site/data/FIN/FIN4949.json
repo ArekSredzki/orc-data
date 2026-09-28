@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN4949",
   "country": "FIN",
+  "reference": "04140004Q8I",
   "name": "Tiimi",
   "rating": {
     "gph": 681.1,
@@ -197,6 +198,5 @@
       7.19,
       7.85
     ]
-  },
-  "reference": "04140004Q8I"
+  }
 }

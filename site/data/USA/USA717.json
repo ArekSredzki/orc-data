@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA717",
   "country": "USA",
+  "reference": "04560004PHI",
   "name": "SPRINT VII",
   "rating": {
     "gph": 565.8,
@@ -197,6 +198,5 @@
       10.85,
       14.07
     ]
-  },
-  "reference": "04560004PHI"
+  }
 }

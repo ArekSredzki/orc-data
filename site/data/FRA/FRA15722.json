@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA15722",
   "country": "FRA",
+  "reference": "04330004H39",
   "name": "EMA",
   "rating": {
     "gph": 646.0,
@@ -197,6 +198,5 @@
       9.34,
       12.47
     ]
-  },
-  "reference": "04330004H39"
+  }
 }

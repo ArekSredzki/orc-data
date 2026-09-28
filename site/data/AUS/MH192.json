@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/MH192",
   "country": "AUS",
+  "reference": "03020004V71",
   "name": "Artemis",
   "rating": {
     "gph": 617.9,
@@ -197,6 +198,5 @@
       8.39,
       10.69
     ]
-  },
-  "reference": "03020004V71"
+  }
 }

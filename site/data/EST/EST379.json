@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST379",
   "country": "EST",
+  "reference": "04340004VS4",
   "name": "AMSERV TOYOTA ST",
   "rating": {
     "gph": 613.5,
@@ -197,6 +198,5 @@
       7.71,
       8.55
     ]
-  },
-  "reference": "04340004VS4"
+  }
 }

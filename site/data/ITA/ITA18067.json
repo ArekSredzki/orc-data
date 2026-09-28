@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18067",
   "country": "ITA",
+  "reference": "03190004IES",
   "name": "GOOD VIBES",
   "rating": {
     "gph": 651.9,
@@ -197,6 +198,5 @@
       7.3,
       7.86
     ]
-  },
-  "reference": "03190004IES"
+  }
 }

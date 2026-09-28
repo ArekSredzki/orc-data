@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR1372",
   "country": "POR",
+  "reference": "03530004NMO",
   "name": "CIDADE DE FARO",
   "rating": {
     "gph": 614.9,
@@ -197,6 +198,5 @@
       8.14,
       9.18
     ]
-  },
-  "reference": "03530004NMO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE976",
   "country": "GRE",
+  "reference": "03420004R5A",
   "name": "ELLINAS",
   "rating": {
     "gph": 660.8,
@@ -197,6 +198,5 @@
       7.18,
       7.67
     ]
-  },
-  "reference": "03420004R5A"
+  }
 }

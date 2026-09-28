@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/POR25689_C",
   "country": "ESP",
+  "reference": "03510004P57",
   "name": "FARNIENTE",
   "rating": {
     "gph": 631.1,
@@ -197,6 +198,5 @@
       7.78,
       8.38
     ]
-  },
-  "reference": "03510004P57"
+  }
 }

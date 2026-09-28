@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12541",
   "country": "NOR",
+  "reference": "03440004H76",
   "name": "SoMa",
   "rating": {
     "gph": 575.8,
@@ -197,6 +198,5 @@
       8.19,
       9.1
     ]
-  },
-  "reference": "03440004H76"
+  }
 }

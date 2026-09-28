@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR46837",
   "country": "POR",
+  "reference": "03530004N2N",
   "name": "GUANCHE",
   "rating": {
     "gph": 708.1,
@@ -197,6 +198,5 @@
       7.2,
       7.76
     ]
-  },
-  "reference": "03530004N2N"
+  }
 }

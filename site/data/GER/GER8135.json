@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8135",
   "country": "GER",
+  "reference": "04150004JET",
   "name": "SKUUM",
   "rating": {
     "gph": 602.2,
@@ -197,6 +198,5 @@
       8.08,
       9.98
     ]
-  },
-  "reference": "04150004JET"
+  }
 }

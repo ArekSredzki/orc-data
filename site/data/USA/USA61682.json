@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61682",
   "country": "USA",
+  "reference": "04560004NNJ",
   "name": "BANTER",
   "rating": {
     "gph": 565.9,
@@ -197,6 +198,5 @@
       8.33,
       10.12
     ]
-  },
-  "reference": "04560004NNJ"
+  }
 }

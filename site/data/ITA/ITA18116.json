@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18116",
   "country": "ITA",
+  "reference": "03190004UNJ",
   "name": "MARADA",
   "rating": {
     "gph": 617.2,
@@ -197,6 +198,5 @@
       7.9,
       8.49
     ]
-  },
-  "reference": "03190004UNJ"
+  }
 }

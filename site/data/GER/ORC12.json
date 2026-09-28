@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/ORC12",
   "country": "GER",
+  "reference": "04150004RTP",
   "name": "MAJO",
   "rating": {
     "gph": 675.8,
@@ -197,6 +198,5 @@
       7.34,
       7.97
     ]
-  },
-  "reference": "04150004RTP"
+  }
 }

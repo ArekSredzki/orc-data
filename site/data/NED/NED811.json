@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED811",
   "country": "NED",
+  "reference": "04310004K0M",
   "name": "Jamas!",
   "rating": {
     "gph": 662.5,
@@ -197,6 +198,5 @@
       8.73,
       11.83
     ]
-  },
-  "reference": "04310004K0M"
+  }
 }

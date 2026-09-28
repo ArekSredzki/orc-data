@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18173",
   "country": "ITA",
+  "reference": "03190004EOE",
   "name": "LUNA",
   "rating": {
     "gph": 525.6,
@@ -197,6 +198,5 @@
       9.18,
       10.25
     ]
-  },
-  "reference": "03190004EOE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GER33_C",
   "country": "ESP",
+  "reference": "03510004B8D",
   "name": "DELARTE",
   "rating": {
     "gph": 626.9,
@@ -197,6 +198,5 @@
       7.87,
       8.47
     ]
-  },
-  "reference": "03510004B8D"
+  }
 }

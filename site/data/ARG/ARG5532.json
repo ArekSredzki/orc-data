@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5532",
   "country": "ARG",
+  "reference": "03880004UWU",
   "name": "INTERCEPTOR",
   "rating": {
     "gph": 653.1,
@@ -197,6 +198,5 @@
       7.71,
       8.46
     ]
-  },
-  "reference": "03880004UWU"
+  }
 }

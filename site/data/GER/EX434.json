@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/EX434",
   "country": "GER",
+  "reference": "03520004I1H",
   "name": "EXPLODE4US",
   "rating": {
     "gph": 727.8,
@@ -197,6 +198,5 @@
       6.97,
       7.8
     ]
-  },
-  "reference": "03520004I1H"
+  }
 }

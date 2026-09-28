@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE4136",
   "country": "GRE",
+  "reference": "03420004IW3",
   "name": "NOSTOS",
   "rating": {
     "gph": 845.7,
@@ -197,6 +198,5 @@
       6.16,
       6.9
     ]
-  },
-  "reference": "03420004IW3"
+  }
 }

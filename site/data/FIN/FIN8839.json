@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN8839",
   "country": "FIN",
+  "reference": "04140004IKN",
   "name": "La Passion",
   "rating": {
     "gph": 646.7,
@@ -197,6 +198,5 @@
       7.66,
       8.45
     ]
-  },
-  "reference": "04140004IKN"
+  }
 }

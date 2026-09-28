@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10398",
   "country": "ITA",
+  "reference": "03190004HAC",
   "name": "TELEPATIA",
   "rating": {
     "gph": 645.0,
@@ -197,6 +198,5 @@
       7.6,
       8.35
     ]
-  },
-  "reference": "03190004HAC"
+  }
 }

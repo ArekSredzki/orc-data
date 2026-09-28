@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10806_C",
   "country": "ESP",
+  "reference": "03510004KFR",
   "name": "DBKB",
   "rating": {
     "gph": 584.8,
@@ -197,6 +198,5 @@
       9.06,
       11.39
     ]
-  },
-  "reference": "03510004KFR"
+  }
 }

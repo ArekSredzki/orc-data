@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP886_C",
   "country": "ESP",
+  "reference": "03510004B4J",
   "name": "VALKYRIE",
   "rating": {
     "gph": 660.6,
@@ -197,6 +198,5 @@
       8.75,
       11.91
     ]
-  },
-  "reference": "03510004B4J"
+  }
 }

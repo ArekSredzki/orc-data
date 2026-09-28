@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5003_C",
   "country": "ESP",
+  "reference": "03510004FUF",
   "name": "MAR DE VENTO",
   "rating": {
     "gph": 691.8,
@@ -197,6 +198,5 @@
       7.46,
       8.01
     ]
-  },
-  "reference": "03510004FUF"
+  }
 }

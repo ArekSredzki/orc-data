@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2195",
   "country": "GRE",
+  "reference": "03420004LDA",
   "name": "SABETTA",
   "rating": {
     "gph": 662.8,
@@ -197,6 +198,5 @@
       7.43,
       7.99
     ]
-  },
-  "reference": "03420004LDA"
+  }
 }

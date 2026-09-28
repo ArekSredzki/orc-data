@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA36507",
   "country": "FRA",
+  "reference": "04330004SCJ",
   "name": "GALATEE",
   "rating": {
     "gph": 607.3,
@@ -197,6 +198,5 @@
       8.15,
       9.2
     ]
-  },
-  "reference": "04330004SCJ"
+  }
 }

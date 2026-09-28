@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7296",
   "country": "GER",
+  "reference": "03520004O83",
   "name": "LAXXI",
   "rating": {
     "gph": 549.9,
@@ -197,6 +198,5 @@
       8.7,
       10.1
     ]
-  },
-  "reference": "03520004O83"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN707",
   "country": "FIN",
+  "reference": "04140004R0F",
   "name": "Que Mundo",
   "rating": {
     "gph": 669.8,
@@ -197,6 +198,5 @@
       9.58,
       12.87
     ]
-  },
-  "reference": "04140004R0F"
+  }
 }

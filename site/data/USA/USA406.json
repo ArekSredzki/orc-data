@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA406",
   "country": "USA",
+  "reference": "04560004VFH",
   "name": "RAMROD",
   "rating": {
     "gph": 501.2,
@@ -197,6 +198,5 @@
       11.99,
       15.2
     ]
-  },
-  "reference": "04560004VFH"
+  }
 }

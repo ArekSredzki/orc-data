@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16534",
   "country": "ITA",
+  "reference": "03190004IEU",
   "name": "HYPNOTIC",
   "rating": {
     "gph": 624.6,
@@ -197,6 +198,5 @@
       8.01,
       8.93
     ]
-  },
-  "reference": "03190004IEU"
+  }
 }

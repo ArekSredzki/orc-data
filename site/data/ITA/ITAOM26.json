@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAOM26",
   "country": "ITA",
+  "reference": "03190004WRD",
   "name": "OMOO",
   "rating": {
     "gph": 726.4,
@@ -197,6 +198,5 @@
       6.52,
       7.7
     ]
-  },
-  "reference": "03190004WRD"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4848",
   "country": "RSA",
+  "reference": "04620004SEW",
   "name": "AVANTI26",
   "rating": {
     "gph": 617.4,
@@ -197,6 +198,5 @@
       9.97,
       13.12
     ]
-  },
-  "reference": "04620004SEW"
+  }
 }

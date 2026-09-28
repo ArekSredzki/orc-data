@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9779",
   "country": "NOR",
+  "reference": "03440004RVN",
   "name": "Jokerman",
   "rating": {
     "gph": 532.4,
@@ -197,6 +198,5 @@
       9.15,
       10.05
     ]
-  },
-  "reference": "03440004RVN"
+  }
 }

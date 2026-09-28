@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE95",
   "country": "GRE",
+  "reference": "03420004NIO",
   "name": "MARPISSA",
   "rating": {
     "gph": 686.4,
@@ -197,6 +198,5 @@
       7.48,
       8.88
     ]
-  },
-  "reference": "03420004NIO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/GER3350",
   "country": "USA",
+  "reference": "04560004Q33",
   "name": "POSITRON",
   "rating": {
     "gph": 627.8,
@@ -197,6 +198,5 @@
       7.8,
       8.82
     ]
-  },
-  "reference": "04560004Q33"
+  }
 }

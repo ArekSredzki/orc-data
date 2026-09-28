@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18171",
   "country": "ITA",
+  "reference": "03190004MOE",
   "name": "GALATEE VA",
   "rating": {
     "gph": 611.2,
@@ -197,6 +198,5 @@
       8.04,
       9.22
     ]
-  },
-  "reference": "03190004MOE"
+  }
 }

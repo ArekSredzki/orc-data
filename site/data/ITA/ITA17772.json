@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17772",
   "country": "ITA",
+  "reference": "03190004FLB",
   "name": "JUPITER",
   "rating": {
     "gph": 682.2,
@@ -197,6 +198,5 @@
       7.17,
       7.81
     ]
-  },
-  "reference": "03190004FLB"
+  }
 }

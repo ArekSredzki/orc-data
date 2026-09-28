@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER3930",
   "country": "GER",
+  "reference": "04150004TA7",
   "name": "ZUKUNFT IV",
   "rating": {
     "gph": 546.6,
@@ -197,6 +198,5 @@
       8.98,
       9.77
     ]
-  },
-  "reference": "04150004TA7"
+  }
 }

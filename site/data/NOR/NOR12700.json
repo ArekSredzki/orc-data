@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12700",
   "country": "NOR",
+  "reference": "03440004R2S",
   "name": "Winocean",
   "rating": {
     "gph": 583.7,
@@ -197,6 +198,5 @@
       8.34,
       9.19
     ]
-  },
-  "reference": "03440004R2S"
+  }
 }

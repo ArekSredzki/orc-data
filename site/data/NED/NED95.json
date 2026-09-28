@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED95",
   "country": "NED",
+  "reference": "04310004Q6T",
   "name": "Skip Intro",
   "rating": {
     "gph": 637.7,
@@ -197,6 +198,5 @@
       8.0,
       10.47
     ]
-  },
-  "reference": "04310004Q6T"
+  }
 }

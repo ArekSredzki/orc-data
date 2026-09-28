@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/A40",
   "country": "AUS",
+  "reference": "03020004VL8",
   "name": "Intrigue",
   "rating": {
     "gph": 577.5,
@@ -197,6 +198,5 @@
       8.54,
       9.75
     ]
-  },
-  "reference": "03020004VL8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT122",
   "country": "AUT",
+  "reference": "03210004LAR",
   "name": "Boreas",
   "rating": {
     "gph": 629.8,
@@ -197,6 +198,5 @@
       7.99,
       8.96
     ]
-  },
-  "reference": "03210004LAR"
+  }
 }

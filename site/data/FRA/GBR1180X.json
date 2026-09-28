@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR1180X",
   "country": "FRA",
+  "reference": "04330004VKI",
   "name": "JACANDA",
   "rating": {
     "gph": 523.3,
@@ -197,6 +198,5 @@
       10.71,
       13.92
     ]
-  },
-  "reference": "04330004VKI"
+  }
 }

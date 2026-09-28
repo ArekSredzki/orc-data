@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/ITA16736",
   "country": "FRA",
+  "reference": "04330004F6J",
   "name": "MADECENNALE",
   "rating": {
     "gph": 638.9,
@@ -197,6 +198,5 @@
       7.72,
       10.13
     ]
-  },
-  "reference": "04330004F6J"
+  }
 }

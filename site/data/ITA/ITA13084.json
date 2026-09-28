@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13084",
   "country": "ITA",
+  "reference": "03190004F82",
   "name": "STEPHANIE",
   "rating": {
     "gph": 612.5,
@@ -197,6 +198,5 @@
       7.75,
       9.0
     ]
-  },
-  "reference": "03190004F82"
+  }
 }

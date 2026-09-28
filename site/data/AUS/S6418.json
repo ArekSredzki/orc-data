@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/S6418",
   "country": "AUS",
+  "reference": "03020004VBT",
   "name": "Sea-Ya",
   "rating": {
     "gph": 572.6,
@@ -197,6 +198,5 @@
       8.62,
       9.75
     ]
-  },
-  "reference": "03020004VBT"
+  }
 }

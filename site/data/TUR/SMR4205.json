@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/SMR4205",
   "country": "TUR",
+  "reference": "04590004HBJ",
   "name": "LAGERTHA",
   "rating": {
     "gph": 529.1,
@@ -197,6 +198,5 @@
       9.27,
       11.63
     ]
-  },
-  "reference": "04590004HBJ"
+  }
 }

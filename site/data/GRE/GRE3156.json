@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE3156",
   "country": "GRE",
+  "reference": "03420004HCT",
   "name": "INCENTIVE",
   "rating": {
     "gph": 728.9,
@@ -197,6 +198,5 @@
       6.96,
       7.5
     ]
-  },
-  "reference": "03420004HCT"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52006",
   "country": "USA",
+  "reference": "04560004T33",
   "name": "LEGACY",
   "rating": {
     "gph": 444.7,
@@ -197,6 +198,5 @@
       13.2,
       16.38
     ]
-  },
-  "reference": "04560004T33"
+  }
 }

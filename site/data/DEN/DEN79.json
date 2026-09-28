@@ -1,6 +1,7 @@
 {
   "sailnumber": "DEN/DEN79",
   "country": "DEN",
+  "reference": "03370004T1N",
   "name": "RelaX",
   "rating": {
     "gph": 566.9,
@@ -197,6 +198,5 @@
       8.71,
       9.77
     ]
-  },
-  "reference": "03370004T1N"
+  }
 }

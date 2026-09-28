@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25547",
   "country": "USA",
+  "reference": "04560004V5N",
   "name": "UNDAUNTED",
   "rating": {
     "gph": 607.6,
@@ -197,6 +198,5 @@
       7.6,
       8.29
     ]
-  },
-  "reference": "04560004V5N"
+  }
 }

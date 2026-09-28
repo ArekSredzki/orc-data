@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11651",
   "country": "NOR",
+  "reference": "03440004KAH",
   "name": "B\u00e5tenv\u00e5r",
   "rating": {
     "gph": 671.8,
@@ -197,6 +198,5 @@
       7.48,
       8.18
     ]
-  },
-  "reference": "03440004KAH"
+  }
 }

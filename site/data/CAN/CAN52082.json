@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN52082",
   "country": "CAN",
+  "reference": "03430004LJH",
   "name": "Salient",
   "rating": {
     "gph": 596.3,
@@ -197,6 +198,5 @@
       8.2,
       8.95
     ]
-  },
-  "reference": "03430004LJH"
+  }
 }

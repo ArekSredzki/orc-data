@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI031",
   "country": "SUI",
+  "reference": "03080004HAL",
   "name": "D\u00c9ESSE",
   "rating": {
     "gph": 628.6,
@@ -197,6 +198,5 @@
       10.68,
       13.55
     ]
-  },
-  "reference": "03080004HAL"
+  }
 }

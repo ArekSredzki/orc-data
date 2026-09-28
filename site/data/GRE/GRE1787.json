@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1787",
   "country": "GRE",
+  "reference": "03420004OW8",
   "name": "LARNE",
   "rating": {
     "gph": 661.8,
@@ -197,6 +198,5 @@
       7.93,
       8.51
     ]
-  },
-  "reference": "03420004OW8"
+  }
 }

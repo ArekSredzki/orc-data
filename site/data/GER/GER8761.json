@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8761",
   "country": "GER",
+  "reference": "03520004WQA",
   "name": "MALIA",
   "rating": {
     "gph": 582.8,
@@ -197,6 +198,5 @@
       10.74,
       13.87
     ]
-  },
-  "reference": "03520004WQA"
+  }
 }

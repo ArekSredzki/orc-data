@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11294_C",
   "country": "ESP",
+  "reference": "03510004OV5",
   "name": "L'ESTEL",
   "rating": {
     "gph": 688.4,
@@ -197,6 +198,5 @@
       7.44,
       8.11
     ]
-  },
-  "reference": "03510004OV5"
+  }
 }

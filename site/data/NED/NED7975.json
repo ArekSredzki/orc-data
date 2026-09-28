@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7975",
   "country": "NED",
+  "reference": "04310004KC3",
   "name": "Blue June",
   "rating": {
     "gph": 641.8,
@@ -197,6 +198,5 @@
       7.91,
       8.46
     ]
-  },
-  "reference": "04310004KC3"
+  }
 }

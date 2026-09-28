@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG1323",
   "country": "ARG",
+  "reference": "03880004WM5",
   "name": "SUR",
   "rating": {
     "gph": 602.3,
@@ -197,6 +198,5 @@
       8.15,
       8.93
     ]
-  },
-  "reference": "03880004WM5"
+  }
 }

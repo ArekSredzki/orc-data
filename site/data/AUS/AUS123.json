@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS123",
   "country": "AUS",
+  "reference": "03020004SPW",
   "name": "Veloce",
   "rating": {
     "gph": 613.9,
@@ -197,6 +198,5 @@
       7.79,
       9.86
     ]
-  },
-  "reference": "03020004SPW"
+  }
 }

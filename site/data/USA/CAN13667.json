@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/CAN13667",
   "country": "USA",
+  "reference": "04560004REM",
   "name": "SUSPECT",
   "rating": {
     "gph": 501.9,
@@ -197,6 +198,5 @@
       9.92,
       11.52
     ]
-  },
-  "reference": "04560004REM"
+  }
 }

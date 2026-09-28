@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9030",
   "country": "NED",
+  "reference": "04310004K2A",
   "name": "Reeskip",
   "rating": {
     "gph": 669.4,
@@ -197,6 +198,5 @@
       7.09,
       7.75
     ]
-  },
-  "reference": "04310004K2A"
+  }
 }

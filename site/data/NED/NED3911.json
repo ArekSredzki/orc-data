@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3911",
   "country": "NED",
+  "reference": "04310004V4Q",
   "name": "Shodoun",
   "rating": {
     "gph": 571.6,
@@ -197,6 +198,5 @@
       8.38,
       9.96
     ]
-  },
-  "reference": "04310004V4Q"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA3621S",
   "country": "ITA",
+  "reference": "03190004Q36",
   "name": "SIXTH SENSE",
   "rating": {
     "gph": 511.3,
@@ -197,6 +198,5 @@
       12.71,
       16.01
     ]
-  },
-  "reference": "03190004Q36"
+  }
 }

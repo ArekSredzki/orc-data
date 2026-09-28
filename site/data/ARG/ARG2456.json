@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG2456",
   "country": "ARG",
+  "reference": "03880004LU3",
   "name": "MORO",
   "rating": {
     "gph": 676.6,
@@ -197,6 +198,5 @@
       7.26,
       7.87
     ]
-  },
-  "reference": "03880004LU3"
+  }
 }

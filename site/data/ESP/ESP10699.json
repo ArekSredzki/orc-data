@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10699",
   "country": "ESP",
+  "reference": "03510004FSR",
   "name": "LA FLACA",
   "rating": {
     "gph": 686.1,
@@ -197,6 +198,5 @@
       7.63,
       9.72
     ]
-  },
-  "reference": "03510004FSR"
+  }
 }

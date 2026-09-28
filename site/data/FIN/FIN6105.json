@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN6105",
   "country": "FIN",
+  "reference": "04140004R90",
   "name": "Relax",
   "rating": {
     "gph": 692.0,
@@ -197,6 +198,5 @@
       7.35,
       8.03
     ]
-  },
-  "reference": "04140004R90"
+  }
 }

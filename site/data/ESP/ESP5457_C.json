@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5457_C",
   "country": "ESP",
+  "reference": "03510004BH3",
   "name": "WAILEA",
   "rating": {
     "gph": 687.3,
@@ -197,6 +198,5 @@
       7.29,
       7.97
     ]
-  },
-  "reference": "03510004BH3"
+  }
 }

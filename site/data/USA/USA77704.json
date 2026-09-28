@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA77704",
   "country": "USA",
+  "reference": "04560004FK8",
   "name": "ROWDY",
   "rating": {
     "gph": 618.6,
@@ -197,6 +198,5 @@
       7.87,
       8.6
     ]
-  },
-  "reference": "04560004FK8"
+  }
 }

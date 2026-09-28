@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15628",
   "country": "NOR",
+  "reference": "03440004TSU",
   "name": "La Linea",
   "rating": {
     "gph": 607.1,
@@ -197,6 +198,5 @@
       8.29,
       9.04
     ]
-  },
-  "reference": "03440004TSU"
+  }
 }

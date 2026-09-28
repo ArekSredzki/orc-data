@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2866",
   "country": "CRO",
+  "reference": "03620004LV4",
   "name": "Mymia",
   "rating": {
     "gph": 642.3,
@@ -197,6 +198,5 @@
       7.59,
       8.19
     ]
-  },
-  "reference": "03620004LV4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA39048",
   "country": "FRA",
+  "reference": "04330004H33",
   "name": "FORCE 7",
   "rating": {
     "gph": 670.5,
@@ -197,6 +198,5 @@
       7.53,
       8.26
     ]
-  },
-  "reference": "04330004H33"
+  }
 }

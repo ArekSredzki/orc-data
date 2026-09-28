@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4482",
   "country": "RSA",
+  "reference": "046200048IH",
   "name": "Cape Dancer",
   "rating": {
     "gph": 586.6,
@@ -197,6 +198,5 @@
       8.08,
       9.43
     ]
-  },
-  "reference": "046200048IH"
+  }
 }

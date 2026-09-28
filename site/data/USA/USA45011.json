@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA45011",
   "country": "USA",
+  "reference": "04560004URK",
   "name": "GOLDEN GIRL",
   "rating": {
     "gph": 522.3,
@@ -197,6 +198,5 @@
       9.23,
       11.08
     ]
-  },
-  "reference": "04560004URK"
+  }
 }

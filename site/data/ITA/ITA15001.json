@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15001",
   "country": "ITA",
+  "reference": "03190004N8I",
   "name": "ARS UNA",
   "rating": {
     "gph": 530.5,
@@ -197,6 +198,5 @@
       8.94,
       10.35
     ]
-  },
-  "reference": "03190004N8I"
+  }
 }

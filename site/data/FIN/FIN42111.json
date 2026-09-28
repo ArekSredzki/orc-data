@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN42111",
   "country": "FIN",
+  "reference": "04140004UPB",
   "name": "Dejlig",
   "rating": {
     "gph": 590.3,
@@ -197,6 +198,5 @@
       8.1,
       8.68
     ]
-  },
-  "reference": "04140004UPB"
+  }
 }

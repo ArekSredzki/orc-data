@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1125",
   "country": "GRE",
+  "reference": "03420004QSM",
   "name": "NEFELI III",
   "rating": {
     "gph": 690.5,
@@ -197,6 +198,5 @@
       7.4,
       7.98
     ]
-  },
-  "reference": "03420004QSM"
+  }
 }

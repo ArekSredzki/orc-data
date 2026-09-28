@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR19187",
   "country": "NOR",
+  "reference": "03440004O0J",
   "name": "Lakrisaviola IV",
   "rating": {
     "gph": 656.6,
@@ -197,6 +198,5 @@
       7.73,
       9.37
     ]
-  },
-  "reference": "03440004O0J"
+  }
 }

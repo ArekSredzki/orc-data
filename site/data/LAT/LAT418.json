@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT418",
   "country": "LAT",
+  "reference": "04960004RNM",
   "name": "Etalon",
   "rating": {
     "gph": 671.1,
@@ -197,6 +198,5 @@
       7.64,
       10.06
     ]
-  },
-  "reference": "04960004RNM"
+  }
 }

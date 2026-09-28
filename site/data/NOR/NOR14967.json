@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14967",
   "country": "NOR",
+  "reference": "03440004P88",
   "name": "G\u00f8yere",
   "rating": {
     "gph": 665.4,
@@ -197,6 +198,5 @@
       8.7,
       11.8
     ]
-  },
-  "reference": "03440004P88"
+  }
 }

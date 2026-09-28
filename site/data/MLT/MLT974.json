@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/MLT974",
   "country": "MLT",
+  "reference": "03230004O1I",
   "name": "Gozo Dream",
   "rating": {
     "gph": 591.2,
@@ -197,6 +198,5 @@
       8.02,
       9.24
     ]
-  },
-  "reference": "03230004O1I"
+  }
 }

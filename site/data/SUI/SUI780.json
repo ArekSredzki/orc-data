@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI780",
   "country": "SUI",
+  "reference": "03080004WII",
   "name": "VUVUZELA",
   "rating": {
     "gph": 531.2,
@@ -197,6 +198,5 @@
       13.77,
       16.82
     ]
-  },
-  "reference": "03080004WII"
+  }
 }

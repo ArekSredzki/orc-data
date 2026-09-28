@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2257",
   "country": "GRE",
+  "reference": "03420004HCO",
   "name": "ROMINA",
   "rating": {
     "gph": 664.7,
@@ -197,6 +198,5 @@
       7.56,
       8.17
     ]
-  },
-  "reference": "03420004HCO"
+  }
 }

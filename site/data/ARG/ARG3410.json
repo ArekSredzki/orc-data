@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG3410",
   "country": "ARG",
+  "reference": "03880004LU2",
   "name": "BIG BANG",
   "rating": {
     "gph": 600.6,
@@ -197,6 +198,5 @@
       8.06,
       8.83
     ]
-  },
-  "reference": "03880004LU2"
+  }
 }

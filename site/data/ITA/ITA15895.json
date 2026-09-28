@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15895",
   "country": "ITA",
+  "reference": "03190004H0C",
   "name": "ATTENTI AL LUPO",
   "rating": {
     "gph": 581.1,
@@ -197,6 +198,5 @@
       8.25,
       9.29
     ]
-  },
-  "reference": "03190004H0C"
+  }
 }

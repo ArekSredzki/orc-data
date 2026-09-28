@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11091_C",
   "country": "ESP",
+  "reference": "03510004IS7",
   "name": "AIRIT",
   "rating": {
     "gph": 705.8,
@@ -197,6 +198,5 @@
       7.12,
       7.67
     ]
-  },
-  "reference": "03510004IS7"
+  }
 }

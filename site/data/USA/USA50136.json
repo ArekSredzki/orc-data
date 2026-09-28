@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA50136",
   "country": "USA",
+  "reference": "04560004SD1",
   "name": "SALSA",
   "rating": {
     "gph": 542.9,
@@ -197,6 +198,5 @@
       8.94,
       11.02
     ]
-  },
-  "reference": "04560004SD1"
+  }
 }

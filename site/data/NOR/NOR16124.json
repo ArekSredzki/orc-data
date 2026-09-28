@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16124",
   "country": "NOR",
+  "reference": "03440004M56",
   "name": "Cinderella",
   "rating": {
     "gph": 634.5,
@@ -197,6 +198,5 @@
       7.71,
       8.31
     ]
-  },
-  "reference": "03440004M56"
+  }
 }

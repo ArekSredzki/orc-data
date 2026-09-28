@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1979",
   "country": "TUR",
+  "reference": "04590004U76",
   "name": "MARY",
   "rating": {
     "gph": 593.8,
@@ -197,6 +198,5 @@
       8.34,
       9.85
     ]
-  },
-  "reference": "04590004U76"
+  }
 }

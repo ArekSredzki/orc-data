@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4496_C",
   "country": "ESP",
+  "reference": "03510004BJM",
   "name": "VEGA9 ALISIOS",
   "rating": {
     "gph": 549.3,
@@ -197,6 +198,5 @@
       9.04,
       10.86
     ]
-  },
-  "reference": "03510004BJM"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1683",
   "country": "GRE",
+  "reference": "03420004I3W",
   "name": "EROMENI",
   "rating": {
     "gph": 707.9,
@@ -197,6 +198,5 @@
       7.06,
       7.61
     ]
-  },
-  "reference": "03420004I3W"
+  }
 }

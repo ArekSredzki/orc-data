@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL7613",
   "country": "BUL",
+  "reference": "03850004VR7",
   "name": "EOS",
   "rating": {
     "gph": 650.9,
@@ -197,6 +198,5 @@
       9.32,
       12.45
     ]
-  },
-  "reference": "03850004VR7"
+  }
 }

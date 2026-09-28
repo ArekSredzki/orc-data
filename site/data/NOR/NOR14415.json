@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14415",
   "country": "NOR",
+  "reference": "03440004OQ4",
   "name": "Green Magic",
   "rating": {
     "gph": 611.8,
@@ -197,6 +198,5 @@
       7.84,
       9.22
     ]
-  },
-  "reference": "03440004OQ4"
+  }
 }

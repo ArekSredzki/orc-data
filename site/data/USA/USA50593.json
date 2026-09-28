@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA50593",
   "country": "USA",
+  "reference": "04560004UH2",
   "name": "TANGO IN BLUE",
   "rating": {
     "gph": 548.5,
@@ -197,6 +198,5 @@
       8.96,
       10.85
     ]
-  },
-  "reference": "04560004UH2"
+  }
 }

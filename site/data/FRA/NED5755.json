@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/NED5755",
   "country": "FRA",
+  "reference": "04330004W8B",
   "name": "BELLE DE HOORN",
   "rating": {
     "gph": 623.8,
@@ -197,6 +198,5 @@
       8.13,
       10.13
     ]
-  },
-  "reference": "04330004W8B"
+  }
 }

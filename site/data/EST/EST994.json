@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST994",
   "country": "EST",
+  "reference": "04340004UDF",
   "name": "Serenity",
   "rating": {
     "gph": 629.5,
@@ -197,6 +198,5 @@
       9.61,
       12.65
     ]
-  },
-  "reference": "04340004UDF"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6001",
   "country": "NED",
+  "reference": "04310004P0R",
   "name": "Montrachet",
   "rating": {
     "gph": 466.4,
@@ -197,6 +198,5 @@
       10.66,
       12.59
     ]
-  },
-  "reference": "04310004P0R"
+  }
 }

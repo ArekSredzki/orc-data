@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN3777",
   "country": "JPN",
+  "reference": "03390004JHS",
   "name": "JJ",
   "rating": {
     "gph": 579.6,
@@ -197,6 +198,5 @@
       8.19,
       10.01
     ]
-  },
-  "reference": "03390004JHS"
+  }
 }

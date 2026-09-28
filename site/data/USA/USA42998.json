@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA42998",
   "country": "USA",
+  "reference": "04560004TPW",
   "name": "Flying Spaghetti Monster CB",
   "rating": {
     "gph": 607.4,
@@ -197,6 +198,5 @@
       7.93,
       8.94
     ]
-  },
-  "reference": "04560004TPW"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3421",
   "country": "ESP",
+  "reference": "03510004S99",
   "name": "JALEO",
   "rating": {
     "gph": 573.8,
@@ -197,6 +198,5 @@
       8.48,
       9.7
     ]
-  },
-  "reference": "03510004S99"
+  }
 }

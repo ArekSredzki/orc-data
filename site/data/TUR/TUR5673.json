@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR5673",
   "country": "TUR",
+  "reference": "04590004FKA",
   "name": "LADY SOLLARE",
   "rating": {
     "gph": 609.7,
@@ -197,6 +198,5 @@
       7.89,
       8.52
     ]
-  },
-  "reference": "04590004FKA"
+  }
 }

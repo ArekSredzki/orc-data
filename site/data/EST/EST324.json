@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST324",
   "country": "EST",
+  "reference": "04340004UPH",
   "name": "TESSA",
   "rating": {
     "gph": 637.2,
@@ -197,6 +198,5 @@
       7.75,
       8.4
     ]
-  },
-  "reference": "04340004UPH"
+  }
 }

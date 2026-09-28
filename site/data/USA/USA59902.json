@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA59902",
   "country": "USA",
+  "reference": "04560004L20",
   "name": "Terramoto",
   "rating": {
     "gph": 532.8,
@@ -197,6 +198,5 @@
       11.52,
       14.74
     ]
-  },
-  "reference": "04560004L20"
+  }
 }

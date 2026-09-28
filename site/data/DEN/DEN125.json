@@ -1,6 +1,7 @@
 {
   "sailnumber": "DEN/DEN125",
   "country": "DEN",
+  "reference": "03370004WR6",
   "name": "Ventoux",
   "rating": {
     "gph": 621.5,
@@ -197,6 +198,5 @@
       8.04,
       8.74
     ]
-  },
-  "reference": "03370004WR6"
+  }
 }

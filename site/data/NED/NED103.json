@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED103",
   "country": "NED",
+  "reference": "04310004JSE",
   "name": "BIZZY BEE",
   "rating": {
     "gph": 671.0,
@@ -197,6 +198,5 @@
       7.54,
       8.15
     ]
-  },
-  "reference": "04310004JSE"
+  }
 }

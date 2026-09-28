@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/C40111",
   "country": "GER",
+  "reference": "03520004I1C",
   "name": "CANTALOOP 40",
   "rating": {
     "gph": 492.9,
@@ -197,6 +198,5 @@
       11.82,
       15.16
     ]
-  },
-  "reference": "03520004I1C"
+  }
 }

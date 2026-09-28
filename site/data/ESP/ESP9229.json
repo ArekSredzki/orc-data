@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9229",
   "country": "ESP",
+  "reference": "03510004RJP",
   "name": "Es tes unno...",
   "rating": {
     "gph": 560.5,
@@ -197,6 +198,5 @@
       8.82,
       9.75
     ]
-  },
-  "reference": "03510004RJP"
+  }
 }

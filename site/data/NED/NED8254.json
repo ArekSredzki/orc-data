@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8254",
   "country": "NED",
+  "reference": "04310004K0S",
   "name": "Barcarolle 2",
   "rating": {
     "gph": 591.8,
@@ -197,6 +198,5 @@
       8.51,
       9.38
     ]
-  },
-  "reference": "04310004K0S"
+  }
 }

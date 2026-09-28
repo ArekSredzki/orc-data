@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA252",
   "country": "ITA",
+  "reference": "03190004NWI",
   "name": "FARRWAY",
   "rating": {
     "gph": 532.2,
@@ -197,6 +198,5 @@
       10.11,
       12.85
     ]
-  },
-  "reference": "03190004NWI"
+  }
 }

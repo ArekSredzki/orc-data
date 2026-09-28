@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/1041",
   "country": "AUS",
+  "reference": "03020004W5Q",
   "name": "CARTE BLANCHE",
   "rating": {
     "gph": 595.2,
@@ -197,6 +198,5 @@
       8.54,
       10.81
     ]
-  },
-  "reference": "03020004W5Q"
+  }
 }

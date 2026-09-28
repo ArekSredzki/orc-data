@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA3010",
   "country": "ITA",
+  "reference": "03190004M16",
   "name": "DIAVOLINA",
   "rating": {
     "gph": 600.9,
@@ -197,6 +198,5 @@
       8.57,
       11.22
     ]
-  },
-  "reference": "03190004M16"
+  }
 }

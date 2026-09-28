@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA247",
   "country": "USA",
+  "reference": "04560004RNR",
   "name": "PAINKILLER 5",
   "rating": {
     "gph": 619.0,
@@ -197,6 +198,5 @@
       7.85,
       8.54
     ]
-  },
-  "reference": "04560004RNR"
+  }
 }

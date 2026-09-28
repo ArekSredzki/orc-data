@@ -1,7 +1,8 @@
 {
   "sailnumber": "GRE/GRE1050",
   "country": "GRE",
-  "name": "ERYTOS II",
+  "reference": "034200050WN",
+  "name": "OLTRE",
   "rating": {
     "gph": 538.4,
     "osn": 524.0,
@@ -41,7 +42,7 @@
     "stability_index": 124.8,
     "cdl": 11.63,
     "division": "R",
-    "issue_date": "2026-03-24T16:36:51.819Z"
+    "issue_date": "2026-09-24T11:06:02.516Z"
   },
   "vpp": {
     "angles": [
@@ -197,6 +198,5 @@
       9.18,
       10.69
     ]
-  },
-  "reference": "03420004IRB"
+  }
 }

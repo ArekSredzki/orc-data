@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18005",
   "country": "ITA",
+  "reference": "03190004N1U",
   "name": "FAUVETTE HR34",
   "rating": {
     "gph": 677.3,
@@ -197,6 +198,5 @@
       7.2,
       7.81
     ]
-  },
-  "reference": "03190004N1U"
+  }
 }

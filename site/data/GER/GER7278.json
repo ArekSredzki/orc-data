@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7278",
   "country": "GER",
+  "reference": "03520004QAB",
   "name": "ALEXIS",
   "rating": {
     "gph": 602.2,
@@ -197,6 +198,5 @@
       8.2,
       9.22
     ]
-  },
-  "reference": "03520004QAB"
+  }
 }

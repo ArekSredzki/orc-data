@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1939",
   "country": "TUR",
+  "reference": "04590004IRF",
   "name": "GEMINI III",
   "rating": {
     "gph": 640.6,
@@ -197,6 +198,5 @@
       7.91,
       8.72
     ]
-  },
-  "reference": "04590004IRF"
+  }
 }

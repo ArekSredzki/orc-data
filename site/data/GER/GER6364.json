@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6364",
   "country": "GER",
+  "reference": "04150004IV1",
   "name": "FUNATICA",
   "rating": {
     "gph": 574.8,
@@ -197,6 +198,5 @@
       9.95,
       12.7
     ]
-  },
-  "reference": "04150004IV1"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA37244",
   "country": "FRA",
+  "reference": "04330004OMA",
   "name": "MIJANELLE 3",
   "rating": {
     "gph": 617.3,
@@ -197,6 +198,5 @@
       8.16,
       9.06
     ]
-  },
-  "reference": "04330004OMA"
+  }
 }

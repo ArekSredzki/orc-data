@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3996",
   "country": "RSA",
+  "reference": "04620004F2Q",
   "name": "Malu'Lani",
   "rating": {
     "gph": 672.4,
@@ -197,6 +198,5 @@
       7.79,
       8.36
     ]
-  },
-  "reference": "04620004F2Q"
+  }
 }

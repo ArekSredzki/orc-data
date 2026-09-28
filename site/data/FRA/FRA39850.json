@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA39850",
   "country": "FRA",
+  "reference": "04330004HTK",
   "name": "JACK MATHURIN",
   "rating": {
     "gph": 646.0,
@@ -197,6 +198,5 @@
       7.66,
       8.3
     ]
-  },
-  "reference": "04330004HTK"
+  }
 }

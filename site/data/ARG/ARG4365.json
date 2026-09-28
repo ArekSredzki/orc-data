@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG4365",
   "country": "ARG",
+  "reference": "03880004IF7",
   "name": "AMERICA DEL SUR",
   "rating": {
     "gph": 499.9,
@@ -197,6 +198,5 @@
       10.01,
       12.05
     ]
-  },
-  "reference": "03880004IF7"
+  }
 }

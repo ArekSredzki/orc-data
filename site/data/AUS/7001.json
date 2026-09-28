@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/7001",
   "country": "AUS",
+  "reference": "03020004TVB",
   "name": "WILD OATS X",
   "rating": {
     "gph": 386.5,
@@ -197,6 +198,5 @@
       15.41,
       18.57
     ]
-  },
-  "reference": "03020004TVB"
+  }
 }

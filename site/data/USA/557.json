@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/557",
   "country": "USA",
+  "reference": "04560004VUE",
   "name": "Viola",
   "rating": {
     "gph": 646.5,
@@ -197,6 +198,5 @@
       7.94,
       8.61
     ]
-  },
-  "reference": "04560004VUE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR159",
   "country": "TUR",
+  "reference": "04590004F8S",
   "name": "WINGS RACING",
   "rating": {
     "gph": 533.3,
@@ -197,6 +198,5 @@
       12.7,
       15.87
     ]
-  },
-  "reference": "04590004F8S"
+  }
 }

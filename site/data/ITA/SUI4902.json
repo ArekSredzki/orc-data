@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/SUI4902",
   "country": "ITA",
+  "reference": "03190004P1O",
   "name": "NASHORN",
   "rating": {
     "gph": 582.7,
@@ -197,6 +198,5 @@
       8.57,
       9.24
     ]
-  },
-  "reference": "03190004P1O"
+  }
 }

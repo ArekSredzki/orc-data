@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN19",
   "country": "FIN",
+  "reference": "04140004WL7",
   "name": "Gransegel",
   "rating": {
     "gph": 609.3,
@@ -197,6 +198,5 @@
       9.48,
       12.67
     ]
-  },
-  "reference": "04140004WL7"
+  }
 }

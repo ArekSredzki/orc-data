@@ -1,6 +1,7 @@
 {
   "sailnumber": "ECU/ECU6",
   "country": "ECU",
+  "reference": "03880004V85",
   "name": "HIGH NOISE",
   "rating": {
     "gph": 615.5,
@@ -197,6 +198,5 @@
       7.94,
       9.88
     ]
-  },
-  "reference": "03880004V85"
+  }
 }

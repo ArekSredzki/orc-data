@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1511",
   "country": "GRE",
+  "reference": "03420004PU3",
   "name": "EINAR",
   "rating": {
     "gph": 577.2,
@@ -197,6 +198,5 @@
       8.38,
       9.04
     ]
-  },
-  "reference": "03420004PU3"
+  }
 }

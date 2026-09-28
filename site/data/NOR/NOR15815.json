@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15815",
   "country": "NOR",
+  "reference": "03440004O98",
   "name": "Cat Ballou",
   "rating": {
     "gph": 587.7,
@@ -197,6 +198,5 @@
       9.13,
       11.99
     ]
-  },
-  "reference": "03440004O98"
+  }
 }

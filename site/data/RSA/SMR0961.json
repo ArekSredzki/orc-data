@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/SMR0961",
   "country": "RSA",
+  "reference": "04620004BWS",
   "name": "Windward",
   "rating": {
     "gph": 515.4,
@@ -197,6 +198,5 @@
       9.31,
       10.5
     ]
-  },
-  "reference": "04620004BWS"
+  }
 }

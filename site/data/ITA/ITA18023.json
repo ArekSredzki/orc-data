@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18023",
   "country": "ITA",
+  "reference": "03190004B5J",
   "name": "MAGICA MICIA",
   "rating": {
     "gph": 646.2,
@@ -197,6 +198,5 @@
       7.57,
       9.28
     ]
-  },
-  "reference": "03190004B5J"
+  }
 }

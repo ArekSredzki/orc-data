@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8403",
   "country": "NED",
+  "reference": "04310004K17",
   "name": "Salina",
   "rating": {
     "gph": 689.4,
@@ -197,6 +198,5 @@
       7.26,
       7.79
     ]
-  },
-  "reference": "04310004K17"
+  }
 }

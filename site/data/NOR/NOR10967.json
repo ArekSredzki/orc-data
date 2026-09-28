@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10967",
   "country": "NOR",
+  "reference": "03440004L43",
   "name": "Amalie",
   "rating": {
     "gph": 608.2,
@@ -197,6 +198,5 @@
       8.15,
       8.87
     ]
-  },
-  "reference": "03440004L43"
+  }
 }

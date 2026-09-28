@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11262_C",
   "country": "ESP",
+  "reference": "03510004RSV",
   "name": "OLLIE",
   "rating": {
     "gph": 712.0,
@@ -197,6 +198,5 @@
       7.06,
       7.69
     ]
-  },
-  "reference": "03510004RSV"
+  }
 }

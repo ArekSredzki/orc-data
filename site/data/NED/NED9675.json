@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9675",
   "country": "NED",
+  "reference": "04310004U0E",
   "name": "FRANS DUVEL II",
   "rating": {
     "gph": 618.1,
@@ -197,6 +198,5 @@
       8.02,
       8.74
     ]
-  },
-  "reference": "04310004U0E"
+  }
 }

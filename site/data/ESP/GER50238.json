@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GER50238",
   "country": "ESP",
+  "reference": "03510004BIT",
   "name": "SEGELBAR",
   "rating": {
     "gph": 545.5,
@@ -197,6 +198,5 @@
       8.82,
       9.56
     ]
-  },
-  "reference": "03510004BIT"
+  }
 }

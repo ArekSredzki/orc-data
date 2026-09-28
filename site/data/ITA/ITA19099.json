@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA19099",
   "country": "ITA",
+  "reference": "03190004W60",
   "name": "TOKIO",
   "rating": {
     "gph": 610.2,
@@ -197,6 +198,5 @@
       7.9,
       10.11
     ]
-  },
-  "reference": "03190004W60"
+  }
 }

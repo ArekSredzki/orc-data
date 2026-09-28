@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10691_C",
   "country": "ESP",
+  "reference": "03510004897",
   "name": "EDELWEISS",
   "rating": {
     "gph": 595.7,
@@ -197,6 +198,5 @@
       8.51,
       9.26
     ]
-  },
-  "reference": "03510004897"
+  }
 }

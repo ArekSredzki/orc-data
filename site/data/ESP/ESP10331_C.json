@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10331_C",
   "country": "ESP",
+  "reference": "03510004C4V",
   "name": "DIJOR",
   "rating": {
     "gph": 668.8,
@@ -197,6 +198,5 @@
       7.59,
       8.2
     ]
-  },
-  "reference": "03510004C4V"
+  }
 }

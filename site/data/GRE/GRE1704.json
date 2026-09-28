@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1704",
   "country": "GRE",
+  "reference": "03420004WBH",
   "name": "KOUZINI",
   "rating": {
     "gph": 743.6,
@@ -197,6 +198,5 @@
       7.13,
       7.85
     ]
-  },
-  "reference": "03420004WBH"
+  }
 }

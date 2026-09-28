@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE973",
   "country": "GRE",
+  "reference": "03420004PST",
   "name": "CHIMERA",
   "rating": {
     "gph": 627.5,
@@ -197,6 +198,5 @@
       8.15,
       9.15
     ]
-  },
-  "reference": "03420004PST"
+  }
 }

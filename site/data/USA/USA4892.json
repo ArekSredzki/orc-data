@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA4892",
   "country": "USA",
+  "reference": "04560004N50",
   "name": "CALYPSO",
   "rating": {
     "gph": 553.9,
@@ -197,6 +198,5 @@
       10.0,
       12.72
     ]
-  },
-  "reference": "04560004N50"
+  }
 }

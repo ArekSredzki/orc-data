@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14696",
   "country": "ITA",
+  "reference": "03190004QRU",
   "name": "NORTHERN LIGHT",
   "rating": {
     "gph": 643.8,
@@ -197,6 +198,5 @@
       7.82,
       8.58
     ]
-  },
-  "reference": "03190004QRU"
+  }
 }

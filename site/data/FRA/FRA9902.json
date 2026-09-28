@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9902",
   "country": "FRA",
+  "reference": "04330004K71",
   "name": "ADAMASTOR",
   "rating": {
     "gph": 613.7,
@@ -197,6 +198,5 @@
       7.93,
       10.05
     ]
-  },
-  "reference": "04330004K71"
+  }
 }

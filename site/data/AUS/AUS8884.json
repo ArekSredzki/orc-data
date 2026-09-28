@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS8884",
   "country": "AUS",
+  "reference": "03020004V4P",
   "name": "EXILE",
   "rating": {
     "gph": 526.5,
@@ -197,6 +198,5 @@
       10.27,
       13.0
     ]
-  },
-  "reference": "03020004V4P"
+  }
 }

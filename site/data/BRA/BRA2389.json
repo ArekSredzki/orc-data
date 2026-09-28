@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2389",
   "country": "BRA",
+  "reference": "04420004B2V",
   "name": "BICHO GRILO",
   "rating": {
     "gph": 606.0,
@@ -197,6 +198,5 @@
       8.76,
       11.44
     ]
-  },
-  "reference": "04420004B2V"
+  }
 }

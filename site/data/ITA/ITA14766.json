@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14766",
   "country": "ITA",
+  "reference": "03190004C3F",
   "name": "PANAMA II",
   "rating": {
     "gph": 591.0,
@@ -197,6 +198,5 @@
       7.92,
       8.61
     ]
-  },
-  "reference": "03190004C3F"
+  }
 }

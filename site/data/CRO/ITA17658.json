@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/ITA17658",
   "country": "CRO",
+  "reference": "03620004R9T",
   "name": "Lentiggini Azzurre",
   "rating": {
     "gph": 506.2,
@@ -197,6 +198,5 @@
       9.39,
       10.16
     ]
-  },
-  "reference": "03620004R9T"
+  }
 }

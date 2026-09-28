@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR4711",
   "country": "NOR",
+  "reference": "03440004RVE",
   "name": "IOR",
   "rating": {
     "gph": 676.1,
@@ -197,6 +198,5 @@
       7.46,
       8.21
     ]
-  },
-  "reference": "03440004RVE"
+  }
 }

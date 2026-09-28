@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5905_C",
   "country": "ESP",
+  "reference": "03510004AVV",
   "name": "EL PINKI",
   "rating": {
     "gph": 729.4,
@@ -197,6 +198,5 @@
       6.97,
       7.66
     ]
-  },
-  "reference": "03510004AVV"
+  }
 }

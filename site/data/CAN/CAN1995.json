@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN1995",
   "country": "CAN",
+  "reference": "03430004WVE",
   "name": "Off Piste",
   "rating": {
     "gph": 590.8,
@@ -197,6 +198,5 @@
       8.28,
       9.23
     ]
-  },
-  "reference": "03430004WVE"
+  }
 }

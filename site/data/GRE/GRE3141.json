@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE3141",
   "country": "GRE",
+  "reference": "03420004I41",
   "name": "FISKARDO",
   "rating": {
     "gph": 680.3,
@@ -197,6 +198,5 @@
       8.01,
       8.7
     ]
-  },
-  "reference": "03420004I41"
+  }
 }

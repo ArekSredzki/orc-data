@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11136",
   "country": "NOR",
+  "reference": "03440004NB1",
   "name": "Gleden",
   "rating": {
     "gph": 651.6,
@@ -197,6 +198,5 @@
       7.64,
       8.33
     ]
-  },
-  "reference": "03440004NB1"
+  }
 }

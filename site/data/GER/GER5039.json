@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5039",
   "country": "GER",
+  "reference": "04150004P0F",
   "name": "NIGHTFEVER",
   "rating": {
     "gph": 594.9,
@@ -197,6 +198,5 @@
       8.31,
       9.1
     ]
-  },
-  "reference": "04150004P0F"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8468",
   "country": "ESP",
+  "reference": "03510004BDK",
   "name": "ISLA MAROLA",
   "rating": {
     "gph": 745.1,
@@ -197,6 +198,5 @@
       6.6,
       7.17
     ]
-  },
-  "reference": "03510004BDK"
+  }
 }

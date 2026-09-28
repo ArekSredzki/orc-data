@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10940",
   "country": "ITA",
+  "reference": "03190004B2R",
   "name": "ANGELICA II",
   "rating": {
     "gph": 584.8,
@@ -197,6 +198,5 @@
       8.53,
       9.11
     ]
-  },
-  "reference": "03190004B2R"
+  }
 }

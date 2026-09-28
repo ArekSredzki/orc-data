@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10619_C",
   "country": "ESP",
+  "reference": "03510004F3C",
   "name": "INTREPID SEGON",
   "rating": {
     "gph": 626.4,
@@ -197,6 +198,5 @@
       7.69,
       8.31
     ]
-  },
-  "reference": "03510004F3C"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1969",
   "country": "GRE",
+  "reference": "03420004NK0",
   "name": "ANASA",
   "rating": {
     "gph": 647.7,
@@ -197,6 +198,5 @@
       7.78,
       8.54
     ]
-  },
-  "reference": "03420004NK0"
+  }
 }

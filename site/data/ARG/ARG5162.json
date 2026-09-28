@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5162",
   "country": "ARG",
+  "reference": "03880004IFB",
   "name": "JACANA 2",
   "rating": {
     "gph": 653.8,
@@ -197,6 +198,5 @@
       7.7,
       8.53
     ]
-  },
-  "reference": "03880004IFB"
+  }
 }

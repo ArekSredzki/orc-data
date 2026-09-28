@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9889",
   "country": "FRA",
+  "reference": "04330004IEO",
   "name": "AQUILON",
   "rating": {
     "gph": 600.0,
@@ -197,6 +198,5 @@
       8.0,
       10.18
     ]
-  },
-  "reference": "04330004IEO"
+  }
 }

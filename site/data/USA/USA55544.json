@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA55544",
   "country": "USA",
+  "reference": "04560004H26",
   "name": "VOLPE",
   "rating": {
     "gph": 490.5,
@@ -197,6 +198,5 @@
       11.36,
       14.35
     ]
-  },
-  "reference": "04560004H26"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "DEN/DEN201",
   "country": "DEN",
+  "reference": "03370004VM8",
   "name": "STONY X",
   "rating": {
     "gph": 586.0,
@@ -197,6 +198,5 @@
       8.46,
       10.64
     ]
-  },
-  "reference": "03370004VM8"
+  }
 }

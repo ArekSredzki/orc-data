@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA56606",
   "country": "USA",
+  "reference": "04560004R8U",
   "name": "ON THE BRINK",
   "rating": {
     "gph": 602.8,
@@ -197,6 +198,5 @@
       9.68,
       12.61
     ]
-  },
-  "reference": "04560004R8U"
+  }
 }

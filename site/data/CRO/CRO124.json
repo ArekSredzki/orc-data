@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO124",
   "country": "CRO",
+  "reference": "03620004KCW",
   "name": "Foton",
   "rating": {
     "gph": 671.8,
@@ -197,6 +198,5 @@
       8.9,
       12.04
     ]
-  },
-  "reference": "03620004KCW"
+  }
 }

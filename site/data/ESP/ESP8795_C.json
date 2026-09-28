@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8795_C",
   "country": "ESP",
+  "reference": "03510004PIL",
   "name": "FANDANGUITO",
   "rating": {
     "gph": 686.4,
@@ -197,6 +198,5 @@
       8.71,
       11.71
     ]
-  },
-  "reference": "03510004PIL"
+  }
 }

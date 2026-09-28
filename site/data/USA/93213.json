@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/93213",
   "country": "USA",
+  "reference": "04560004UV7",
   "name": "KAILANI",
   "rating": {
     "gph": 590.4,
@@ -197,6 +198,5 @@
       8.02,
       8.72
     ]
-  },
-  "reference": "04560004UV7"
+  }
 }

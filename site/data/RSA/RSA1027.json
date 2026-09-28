@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1027",
   "country": "RSA",
+  "reference": "04620004ATC",
   "name": "Thunderchild",
   "rating": {
     "gph": 503.5,
@@ -197,6 +198,5 @@
       9.95,
       12.17
     ]
-  },
-  "reference": "04620004ATC"
+  }
 }

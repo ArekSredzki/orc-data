@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/GBR52X",
   "country": "TUR",
+  "reference": "04590004V3R",
   "name": "CHEETAH",
   "rating": {
     "gph": 445.1,
@@ -197,6 +198,5 @@
       13.28,
       16.49
     ]
-  },
-  "reference": "04590004V3R"
+  }
 }

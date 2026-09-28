@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16138",
   "country": "ITA",
+  "reference": "03190004P40",
   "name": "TES",
   "rating": {
     "gph": 613.0,
@@ -197,6 +198,5 @@
       7.85,
       8.6
     ]
-  },
-  "reference": "03190004P40"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA2",
   "country": "USA",
+  "reference": "04560004EWF",
   "name": "FREJA",
   "rating": {
     "gph": 547.8,
@@ -197,6 +198,5 @@
       9.45,
       11.73
     ]
-  },
-  "reference": "04560004EWF"
+  }
 }

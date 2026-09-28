@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA511",
   "country": "ITA",
+  "reference": "03190004BL3",
   "name": "ALEGHER",
   "rating": {
     "gph": 522.8,
@@ -197,6 +198,5 @@
       9.16,
       9.86
     ]
-  },
-  "reference": "03190004BL3"
+  }
 }

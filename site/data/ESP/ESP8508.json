@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8508",
   "country": "ESP",
+  "reference": "03510004H6B",
   "name": "POSIDONIA UNO",
   "rating": {
     "gph": 703.2,
@@ -197,6 +198,5 @@
       7.0,
       7.59
     ]
-  },
-  "reference": "03510004H6B"
+  }
 }

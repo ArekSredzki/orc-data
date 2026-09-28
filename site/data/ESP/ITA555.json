@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ITA555",
   "country": "ESP",
+  "reference": "03510004F6P",
   "name": "O' POETA E' UN FINGIDOR",
   "rating": {
     "gph": 619.3,
@@ -197,6 +198,5 @@
       7.6,
       8.32
     ]
-  },
-  "reference": "03510004F6P"
+  }
 }

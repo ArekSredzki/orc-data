@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS257",
   "country": "AUS",
+  "reference": "03020004UAQ",
   "name": "CHARLOTTE 2",
   "rating": {
     "gph": 454.5,
@@ -197,6 +198,5 @@
       10.67,
       11.71
     ]
-  },
-  "reference": "03020004UAQ"
+  }
 }

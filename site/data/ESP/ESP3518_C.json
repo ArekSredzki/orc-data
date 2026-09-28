@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3518_C",
   "country": "ESP",
+  "reference": "03510004HW4",
   "name": "SIGFRIDO",
   "rating": {
     "gph": 808.0,
@@ -197,6 +198,5 @@
       6.29,
       6.85
     ]
-  },
-  "reference": "03510004HW4"
+  }
 }

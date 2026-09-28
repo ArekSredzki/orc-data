@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/003",
   "country": "AUS",
+  "reference": "03020004VDW",
   "name": "Navigator",
   "rating": {
     "gph": 752.2,
@@ -197,6 +198,5 @@
       6.86,
       7.43
     ]
-  },
-  "reference": "03020004VDW"
+  }
 }

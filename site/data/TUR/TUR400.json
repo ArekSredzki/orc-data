@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR400",
   "country": "TUR",
+  "reference": "04590004WOO",
   "name": "ALESTA",
   "rating": {
     "gph": 599.4,
@@ -197,6 +198,5 @@
       7.71,
       8.46
     ]
-  },
-  "reference": "04590004WOO"
+  }
 }

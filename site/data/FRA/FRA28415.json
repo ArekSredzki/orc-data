@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA28415",
   "country": "FRA",
+  "reference": "04330004HRS",
   "name": "IMAJINE",
   "rating": {
     "gph": 619.7,
@@ -197,6 +198,5 @@
       8.01,
       8.96
     ]
-  },
-  "reference": "04330004HRS"
+  }
 }

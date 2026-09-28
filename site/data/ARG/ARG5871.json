@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5871",
   "country": "ARG",
+  "reference": "03880004VMV",
   "name": "MAXIMUM",
   "rating": {
     "gph": 677.9,
@@ -197,6 +198,5 @@
       7.37,
       8.06
     ]
-  },
-  "reference": "03880004VMV"
+  }
 }

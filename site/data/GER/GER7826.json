@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7826",
   "country": "GER",
+  "reference": "03520004TJ3",
   "name": "KIAORA",
   "rating": {
     "gph": 612.1,
@@ -197,6 +198,5 @@
       7.86,
       8.46
     ]
-  },
-  "reference": "03520004TJ3"
+  }
 }

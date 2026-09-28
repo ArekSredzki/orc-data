@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/C3143",
   "country": "GER",
+  "reference": "03520004V8N",
   "name": "NIRAMO",
   "rating": {
     "gph": 553.7,
@@ -197,6 +198,5 @@
       11.43,
       14.59
     ]
-  },
-  "reference": "03520004V8N"
+  }
 }

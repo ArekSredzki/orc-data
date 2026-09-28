@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4758",
   "country": "RSA",
+  "reference": "04620004B6H",
   "name": "Dauntless",
   "rating": {
     "gph": 634.7,
@@ -197,6 +198,5 @@
       9.2,
       12.32
     ]
-  },
-  "reference": "04620004B6H"
+  }
 }

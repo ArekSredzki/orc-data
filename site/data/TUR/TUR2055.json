@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2055",
   "country": "TUR",
+  "reference": "04590004V9J",
   "name": "ORIENT EXPRESS 6",
   "rating": {
     "gph": 439.4,
@@ -197,6 +198,5 @@
       13.34,
       16.39
     ]
-  },
-  "reference": "04590004V9J"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA26",
   "country": "USA",
+  "reference": "04560004RK0",
   "name": "RENEGADE",
   "rating": {
     "gph": 550.0,
@@ -197,6 +198,5 @@
       8.51,
       9.84
     ]
-  },
-  "reference": "04560004RK0"
+  }
 }

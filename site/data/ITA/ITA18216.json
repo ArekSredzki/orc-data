@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18216",
   "country": "ITA",
+  "reference": "03190004HA2",
   "name": "FURIA",
   "rating": {
     "gph": 669.7,
@@ -197,6 +198,5 @@
       7.05,
       7.61
     ]
-  },
-  "reference": "03190004HA2"
+  }
 }

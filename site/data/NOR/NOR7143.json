@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR7143",
   "country": "NOR",
+  "reference": "03440004LKQ",
   "name": "Amat\u00f8r\u00b4n",
   "rating": {
     "gph": 682.5,
@@ -197,6 +198,5 @@
       7.27,
       8.84
     ]
-  },
-  "reference": "03440004LKQ"
+  }
 }

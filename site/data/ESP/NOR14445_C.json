@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/NOR14445_C",
   "country": "ESP",
+  "reference": "03510004HM7",
   "name": "ARGO",
   "rating": {
     "gph": 548.9,
@@ -197,6 +198,5 @@
       8.91,
       9.82
     ]
-  },
-  "reference": "03510004HM7"
+  }
 }

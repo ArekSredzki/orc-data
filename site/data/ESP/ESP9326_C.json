@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9326_C",
   "country": "ESP",
+  "reference": "03510004C1M",
   "name": "BRISA",
   "rating": {
     "gph": 698.5,
@@ -197,6 +198,5 @@
       7.17,
       8.57
     ]
-  },
-  "reference": "03510004C1M"
+  }
 }

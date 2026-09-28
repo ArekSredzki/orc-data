@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA11930",
   "country": "ITA",
+  "reference": "03190004C24",
   "name": "T2",
   "rating": {
     "gph": 639.9,
@@ -197,6 +198,5 @@
       7.81,
       8.59
     ]
-  },
-  "reference": "03190004C24"
+  }
 }

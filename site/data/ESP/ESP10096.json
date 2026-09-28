@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10096",
   "country": "ESP",
+  "reference": "03510004895",
   "name": "ORLANDO",
   "rating": {
     "gph": 719.6,
@@ -197,6 +198,5 @@
       7.0,
       7.64
     ]
-  },
-  "reference": "03510004895"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/P244",
   "country": "GER",
+  "reference": "04150004QJF",
   "name": "6. Q",
   "rating": {
     "gph": 612.9,
@@ -197,6 +198,5 @@
       8.38,
       11.08
     ]
-  },
-  "reference": "04150004QJF"
+  }
 }

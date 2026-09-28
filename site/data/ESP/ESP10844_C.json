@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10844_C",
   "country": "ESP",
+  "reference": "03510004C7K",
   "name": "STELLA II",
   "rating": {
     "gph": 702.9,
@@ -197,6 +198,5 @@
       7.4,
       8.06
     ]
-  },
-  "reference": "03510004C7K"
+  }
 }

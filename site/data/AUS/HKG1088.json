@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/HKG1088",
   "country": "AUS",
+  "reference": "03020004SJ3",
   "name": "CORUM",
   "rating": {
     "gph": 576.6,
@@ -197,6 +198,5 @@
       8.9,
       11.42
     ]
-  },
-  "reference": "03020004SJ3"
+  }
 }

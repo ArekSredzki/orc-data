@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/CAN15",
   "country": "USA",
+  "reference": "04560004MAR",
   "name": "BAY RETRIEVER",
   "rating": {
     "gph": 609.0,
@@ -197,6 +198,5 @@
       7.99,
       10.24
     ]
-  },
-  "reference": "04560004MAR"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7595",
   "country": "GER",
+  "reference": "04150004QK2",
   "name": "CIRCUS",
   "rating": {
     "gph": 589.3,
@@ -197,6 +198,5 @@
       8.07,
       9.64
     ]
-  },
-  "reference": "04150004QK2"
+  }
 }

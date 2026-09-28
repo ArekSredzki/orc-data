@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6912_C",
   "country": "ESP",
+  "reference": "03510004FB5",
   "name": "STAM DOS",
   "rating": {
     "gph": 605.6,
@@ -197,6 +198,5 @@
       8.27,
       8.99
     ]
-  },
-  "reference": "03510004FB5"
+  }
 }

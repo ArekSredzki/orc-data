@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4807_C",
   "country": "ESP",
+  "reference": "035100048NU",
   "name": "CARMINA III",
   "rating": {
     "gph": 741.2,
@@ -197,6 +198,5 @@
       6.67,
       7.45
     ]
-  },
-  "reference": "035100048NU"
+  }
 }

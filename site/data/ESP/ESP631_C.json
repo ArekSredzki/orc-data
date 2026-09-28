@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP631_C",
   "country": "ESP",
+  "reference": "03510004BHN",
   "name": "CALM DAYS",
   "rating": {
     "gph": 742.8,
@@ -197,6 +198,5 @@
       6.8,
       7.63
     ]
-  },
-  "reference": "03510004BHN"
+  }
 }

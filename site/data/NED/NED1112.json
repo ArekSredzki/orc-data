@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED1112",
   "country": "NED",
+  "reference": "04310004WMP",
   "name": "Jack Rabbit",
   "rating": {
     "gph": 589.4,
@@ -197,6 +198,5 @@
       8.43,
       9.56
     ]
-  },
-  "reference": "04310004WMP"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10905",
   "country": "NOR",
+  "reference": "03440004MQ3",
   "name": "Landego",
   "rating": {
     "gph": 652.5,
@@ -197,6 +198,5 @@
       7.67,
       8.34
     ]
-  },
-  "reference": "03440004MQ3"
+  }
 }

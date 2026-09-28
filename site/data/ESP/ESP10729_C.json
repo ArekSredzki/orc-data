@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10729_C",
   "country": "ESP",
+  "reference": "03510004Q6P",
   "name": "SAROT",
   "rating": {
     "gph": 594.1,
@@ -197,6 +198,5 @@
       8.26,
       8.97
     ]
-  },
-  "reference": "03510004Q6P"
+  }
 }

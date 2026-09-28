@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA43586",
   "country": "FRA",
+  "reference": "04330004PUS",
   "name": "COLIAND 6",
   "rating": {
     "gph": 651.4,
@@ -197,6 +198,5 @@
       7.47,
       9.38
     ]
-  },
-  "reference": "04330004PUS"
+  }
 }

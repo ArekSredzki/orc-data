@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1176",
   "country": "GRE",
+  "reference": "03420004QQI",
   "name": "MAKEDON",
   "rating": {
     "gph": 708.7,
@@ -197,6 +198,5 @@
       7.35,
       8.0
     ]
-  },
-  "reference": "03420004QQI"
+  }
 }

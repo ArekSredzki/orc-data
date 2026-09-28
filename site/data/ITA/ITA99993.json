@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA99993",
   "country": "ITA",
+  "reference": "03190004IAW",
   "name": "CANDELLUVA 3",
   "rating": {
     "gph": 510.9,
@@ -197,6 +198,5 @@
       9.54,
       11.12
     ]
-  },
-  "reference": "03190004IAW"
+  }
 }

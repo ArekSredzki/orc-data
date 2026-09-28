@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT33",
   "country": "AUT",
+  "reference": "03210004KDT",
   "name": "Aqua Nomis",
   "rating": {
     "gph": 550.4,
@@ -197,6 +198,5 @@
       8.53,
       9.65
     ]
-  },
-  "reference": "03210004KDT"
+  }
 }

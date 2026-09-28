@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL770",
   "country": "BUL",
+  "reference": "03850004RS0",
   "name": "Sea Magic",
   "rating": {
     "gph": 562.3,
@@ -197,6 +198,5 @@
       8.47,
       9.59
     ]
-  },
-  "reference": "03850004RS0"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11850",
   "country": "NOR",
+  "reference": "03440004RB6",
   "name": "Stella Rosso",
   "rating": {
     "gph": 599.1,
@@ -197,6 +198,5 @@
       8.29,
       9.1
     ]
-  },
-  "reference": "03440004RB6"
+  }
 }

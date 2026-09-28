@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49675",
   "country": "GRE",
+  "reference": "03420004OTN",
   "name": "NEMESIS",
   "rating": {
     "gph": 704.2,
@@ -197,6 +198,5 @@
       7.21,
       7.81
     ]
-  },
-  "reference": "03420004OTN"
+  }
 }

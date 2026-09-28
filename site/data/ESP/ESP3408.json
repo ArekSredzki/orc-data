@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3408",
   "country": "ESP",
+  "reference": "03510004SO0",
   "name": "ALBANA II",
   "rating": {
     "gph": 626.2,
@@ -197,6 +198,5 @@
       7.87,
       8.55
     ]
-  },
-  "reference": "03510004SO0"
+  }
 }

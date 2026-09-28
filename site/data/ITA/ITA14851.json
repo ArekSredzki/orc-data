@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14851",
   "country": "ITA",
+  "reference": "03190004QOI",
   "name": "FINALMENTE",
   "rating": {
     "gph": 713.3,
@@ -197,6 +198,5 @@
       7.37,
       8.09
     ]
-  },
-  "reference": "03190004QOI"
+  }
 }

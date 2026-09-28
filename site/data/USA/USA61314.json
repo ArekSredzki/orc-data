@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61314",
   "country": "USA",
+  "reference": "04560004OKA",
   "name": "Vela Volta",
   "rating": {
     "gph": 619.8,
@@ -197,6 +198,5 @@
       8.01,
       8.78
     ]
-  },
-  "reference": "04560004OKA"
+  }
 }

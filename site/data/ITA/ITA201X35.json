@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA201X35",
   "country": "ITA",
+  "reference": "03190004NWF",
   "name": "MISTER X",
   "rating": {
     "gph": 605.0,
@@ -197,6 +198,5 @@
       8.19,
       9.2
     ]
-  },
-  "reference": "03190004NWF"
+  }
 }

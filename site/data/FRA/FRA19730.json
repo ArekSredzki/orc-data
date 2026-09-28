@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA19730",
   "country": "FRA",
+  "reference": "04330004J55",
   "name": "RACKHAM",
   "rating": {
     "gph": 656.0,
@@ -197,6 +198,5 @@
       8.08,
       9.85
     ]
-  },
-  "reference": "04330004J55"
+  }
 }

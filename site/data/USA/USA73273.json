@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA73273",
   "country": "USA",
+  "reference": "04560004KV6",
   "name": "DEFIANT",
   "rating": {
     "gph": 554.1,
@@ -197,6 +198,5 @@
       8.8,
       10.27
     ]
-  },
-  "reference": "04560004KV6"
+  }
 }

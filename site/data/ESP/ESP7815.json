@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7815",
   "country": "ESP",
+  "reference": "03510004VHK",
   "name": "SHAMAL",
   "rating": {
     "gph": 613.7,
@@ -197,6 +198,5 @@
       8.13,
       8.86
     ]
-  },
-  "reference": "03510004VHK"
+  }
 }

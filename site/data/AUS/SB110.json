@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/SB110",
   "country": "AUS",
+  "reference": "03020004W8Q",
   "name": "RAWHIDE",
   "rating": {
     "gph": 621.2,
@@ -197,6 +198,5 @@
       8.47,
       10.81
     ]
-  },
-  "reference": "03020004W8Q"
+  }
 }

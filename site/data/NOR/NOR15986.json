@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15986",
   "country": "NOR",
+  "reference": "03440004OWV",
   "name": "Aurora",
   "rating": {
     "gph": 586.6,
@@ -197,6 +198,5 @@
       8.39,
       10.58
     ]
-  },
-  "reference": "03440004OWV"
+  }
 }

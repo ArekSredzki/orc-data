@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAFANTAL",
   "country": "ITA",
+  "reference": "03190004SSN",
   "name": "FANTASTICA",
   "rating": {
     "gph": 500.6,
@@ -197,6 +198,5 @@
       11.74,
       15.3
     ]
-  },
-  "reference": "03190004SSN"
+  }
 }

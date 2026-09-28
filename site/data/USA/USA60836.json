@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60836",
   "country": "USA",
+  "reference": "04560004SWV",
   "name": "ALBATROSS",
   "rating": {
     "gph": 571.2,
@@ -197,6 +198,5 @@
       8.28,
       9.35
     ]
-  },
-  "reference": "04560004SWV"
+  }
 }

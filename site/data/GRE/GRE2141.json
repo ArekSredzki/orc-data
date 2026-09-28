@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2141",
   "country": "GRE",
+  "reference": "03420004OU4",
   "name": "STAVROULI",
   "rating": {
     "gph": 765.2,
@@ -197,6 +198,5 @@
       6.79,
       7.37
     ]
-  },
-  "reference": "03420004OU4"
+  }
 }

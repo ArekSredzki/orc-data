@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA442",
   "country": "ITA",
+  "reference": "03190004UWQ",
   "name": "SPEED",
   "rating": {
     "gph": 569.6,
@@ -197,6 +198,5 @@
       8.42,
       9.11
     ]
-  },
-  "reference": "03190004UWQ"
+  }
 }

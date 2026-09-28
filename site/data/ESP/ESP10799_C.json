@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10799_C",
   "country": "ESP",
+  "reference": "03510004N38",
   "name": "LUNA DOCE",
   "rating": {
     "gph": 720.9,
@@ -197,6 +198,5 @@
       7.21,
       7.9
     ]
-  },
-  "reference": "03510004N38"
+  }
 }

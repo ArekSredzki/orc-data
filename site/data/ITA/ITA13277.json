@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13277",
   "country": "ITA",
+  "reference": "03190004J2J",
   "name": "ENRIBET",
   "rating": {
     "gph": 596.1,
@@ -197,6 +198,5 @@
       8.32,
       9.13
     ]
-  },
-  "reference": "03190004J2J"
+  }
 }

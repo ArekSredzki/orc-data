@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61855",
   "country": "USA",
+  "reference": "04560004TDT",
   "name": "GHOST",
   "rating": {
     "gph": 561.3,
@@ -197,6 +198,5 @@
       8.56,
       9.32
     ]
-  },
-  "reference": "04560004TDT"
+  }
 }

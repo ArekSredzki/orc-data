@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT394",
   "country": "LAT",
+  "reference": "04960004RNL",
   "name": "Bailarina",
   "rating": {
     "gph": 669.9,
@@ -197,6 +198,5 @@
       7.66,
       10.13
     ]
-  },
-  "reference": "04960004RNL"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52295",
   "country": "USA",
+  "reference": "04560004SWT",
   "name": "CHINOOK",
   "rating": {
     "gph": 622.8,
@@ -197,6 +198,5 @@
       7.92,
       8.65
     ]
-  },
-  "reference": "04560004SWT"
+  }
 }

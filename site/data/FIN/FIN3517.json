@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN3517",
   "country": "FIN",
+  "reference": "04140004KUJ",
   "name": "Augusta",
   "rating": {
     "gph": 709.4,
@@ -197,6 +198,5 @@
       7.15,
       7.82
     ]
-  },
-  "reference": "04140004KUJ"
+  }
 }

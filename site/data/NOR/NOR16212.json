@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16212",
   "country": "NOR",
+  "reference": "03440004SFL",
   "name": "Dara",
   "rating": {
     "gph": 635.7,
@@ -197,6 +198,5 @@
       7.9,
       8.6
     ]
-  },
-  "reference": "03440004SFL"
+  }
 }

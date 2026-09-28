@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA9427",
   "country": "ITA",
+  "reference": "03190004LP8",
   "name": "MELISSA II",
   "rating": {
     "gph": 615.9,
@@ -197,6 +198,5 @@
       7.89,
       8.45
     ]
-  },
-  "reference": "03190004LP8"
+  }
 }

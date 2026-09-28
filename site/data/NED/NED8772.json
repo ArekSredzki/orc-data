@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8772",
   "country": "NED",
+  "reference": "04310004K1P",
   "name": "Tantivy",
   "rating": {
     "gph": 659.7,
@@ -197,6 +198,5 @@
       9.6,
       12.63
     ]
-  },
-  "reference": "04310004K1P"
+  }
 }

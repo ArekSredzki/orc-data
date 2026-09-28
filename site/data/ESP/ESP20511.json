@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP20511",
   "country": "ESP",
+  "reference": "03510004VPJ",
   "name": "HYDRA YOUTH",
   "rating": {
     "gph": 544.5,
@@ -197,6 +198,5 @@
       12.0,
       15.17
     ]
-  },
-  "reference": "03510004VPJ"
+  }
 }

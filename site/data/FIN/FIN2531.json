@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN2531",
   "country": "FIN",
+  "reference": "04140004IKD",
   "name": "Amidala",
   "rating": {
     "gph": 689.3,
@@ -197,6 +198,5 @@
       7.15,
       7.78
     ]
-  },
-  "reference": "04140004IKD"
+  }
 }

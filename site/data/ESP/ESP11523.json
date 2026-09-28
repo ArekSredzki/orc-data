@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11523",
   "country": "ESP",
+  "reference": "03510004WKQ",
   "name": "VOYAGE",
   "rating": {
     "gph": 671.5,
@@ -197,6 +198,5 @@
       7.59,
       8.28
     ]
-  },
-  "reference": "03510004WKQ"
+  }
 }

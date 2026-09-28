@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10721",
   "country": "ITA",
+  "reference": "03190004BA3",
   "name": "REGINA",
   "rating": {
     "gph": 626.5,
@@ -197,6 +198,5 @@
       7.83,
       8.44
     ]
-  },
-  "reference": "03190004BA3"
+  }
 }

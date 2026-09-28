@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG007",
   "country": "ARG",
+  "reference": "03880004IF3",
   "name": "ALEGRIA",
   "rating": {
     "gph": 541.9,
@@ -197,6 +198,5 @@
       11.7,
       14.93
     ]
-  },
-  "reference": "03880004IF3"
+  }
 }

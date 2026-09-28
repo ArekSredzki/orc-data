@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61017",
   "country": "USA",
+  "reference": "04560004OJH",
   "name": "ENDORPHIN",
   "rating": {
     "gph": 502.3,
@@ -197,6 +198,5 @@
       12.09,
       15.3
     ]
-  },
-  "reference": "04560004OJH"
+  }
 }

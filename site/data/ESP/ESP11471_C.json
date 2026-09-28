@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11471_C",
   "country": "ESP",
+  "reference": "03510004HW0",
   "name": "LA BLANCHE HERMINE",
   "rating": {
     "gph": 530.6,
@@ -197,6 +198,5 @@
       8.98,
       10.6
     ]
-  },
-  "reference": "03510004HW0"
+  }
 }

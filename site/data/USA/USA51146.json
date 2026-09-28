@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51146",
   "country": "USA",
+  "reference": "04560004SAJ",
   "name": "LA TEMPETE",
   "rating": {
     "gph": 580.5,
@@ -197,6 +198,5 @@
       8.3,
       9.12
     ]
-  },
-  "reference": "04560004SAJ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm3929",
   "country": "AUS",
+  "reference": "03020004V27",
   "name": "RHIANNON",
   "rating": {
     "gph": 695.1,
@@ -197,6 +198,5 @@
       7.11,
       7.72
     ]
-  },
-  "reference": "03020004V27"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17877",
   "country": "ITA",
+  "reference": "03190004S2C",
   "name": "NEAPOLIS",
   "rating": {
     "gph": 655.5,
@@ -197,6 +198,5 @@
       7.45,
       8.01
     ]
-  },
-  "reference": "03190004S2C"
+  }
 }

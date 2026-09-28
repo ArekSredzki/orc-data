@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP15999",
   "country": "ESP",
+  "reference": "03510004TWB",
   "name": "VICTORIA",
   "rating": {
     "gph": 611.9,
@@ -197,6 +198,5 @@
       7.92,
       10.1
     ]
-  },
-  "reference": "03510004TWB"
+  }
 }

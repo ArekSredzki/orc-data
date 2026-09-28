@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12545",
   "country": "NOR",
+  "reference": "03440004LLB",
   "name": "Zorro",
   "rating": {
     "gph": 532.1,
@@ -197,6 +198,5 @@
       9.2,
       10.39
     ]
-  },
-  "reference": "03440004LLB"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN18997",
   "country": "CAN",
+  "reference": "03430004I4M",
   "name": "ALL OF IT",
   "rating": {
     "gph": 446.5,
@@ -197,6 +198,5 @@
       12.47,
       14.98
     ]
-  },
-  "reference": "03430004I4M"
+  }
 }

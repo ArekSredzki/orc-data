@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/POR25559",
   "country": "ESP",
+  "reference": "03510004MJH",
   "name": "IF KNOT",
   "rating": {
     "gph": 679.8,
@@ -197,6 +198,5 @@
       7.45,
       8.13
     ]
-  },
-  "reference": "03510004MJH"
+  }
 }

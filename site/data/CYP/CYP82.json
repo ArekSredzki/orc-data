@@ -1,6 +1,7 @@
 {
   "sailnumber": "CYP/CYP82",
   "country": "CYP",
+  "reference": "03470004RJR",
   "name": "AGIOS FOKAS",
   "rating": {
     "gph": 690.4,
@@ -197,6 +198,5 @@
       7.11,
       7.64
     ]
-  },
-  "reference": "03470004RJR"
+  }
 }

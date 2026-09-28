@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7272",
   "country": "NED",
+  "reference": "04310004K9E",
   "name": "Elixer",
   "rating": {
     "gph": 565.1,
@@ -197,6 +198,5 @@
       8.81,
       9.65
     ]
-  },
-  "reference": "04310004K9E"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "DEN/DEN181",
   "country": "DEN",
+  "reference": "03370004WNI",
   "name": "Al Capone 2.0",
   "rating": {
     "gph": 492.4,
@@ -197,6 +198,5 @@
       12.38,
       15.55
     ]
-  },
-  "reference": "03370004WNI"
+  }
 }

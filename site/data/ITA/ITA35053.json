@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA35053",
   "country": "ITA",
+  "reference": "03190004HSA",
   "name": "JOLIE BRISE",
   "rating": {
     "gph": 620.6,
@@ -197,6 +198,5 @@
       8.08,
       8.88
     ]
-  },
-  "reference": "03190004HSA"
+  }
 }

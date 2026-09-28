@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA8096",
   "country": "USA",
+  "reference": "04560004PWA",
   "name": "JANIS",
   "rating": {
     "gph": 716.8,
@@ -197,6 +198,5 @@
       7.06,
       9.23
     ]
-  },
-  "reference": "04560004PWA"
+  }
 }

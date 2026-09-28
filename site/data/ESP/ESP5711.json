@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5711",
   "country": "ESP",
+  "reference": "03510004Q8K",
   "name": "SIRADELLA",
   "rating": {
     "gph": 593.3,
@@ -197,6 +198,5 @@
       8.37,
       9.24
     ]
-  },
-  "reference": "03510004Q8K"
+  }
 }

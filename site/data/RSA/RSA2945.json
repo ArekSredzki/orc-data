@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA2945",
   "country": "RSA",
+  "reference": "046200048AN",
   "name": "Firefly",
   "rating": {
     "gph": 799.6,
@@ -197,6 +198,5 @@
       6.41,
       7.0
     ]
-  },
-  "reference": "046200048AN"
+  }
 }

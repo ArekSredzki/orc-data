@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2094",
   "country": "BRA",
+  "reference": "04420004J7W",
   "name": "NATIVO 3",
   "rating": {
     "gph": 661.7,
@@ -197,6 +198,5 @@
       7.59,
       8.34
     ]
-  },
-  "reference": "04420004J7W"
+  }
 }

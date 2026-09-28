@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6706",
   "country": "GER",
+  "reference": "03520004KOD",
   "name": "CACHAVACHA",
   "rating": {
     "gph": 580.3,
@@ -197,6 +198,5 @@
       8.44,
       9.41
     ]
-  },
-  "reference": "03520004KOD"
+  }
 }

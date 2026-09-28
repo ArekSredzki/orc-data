@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49589",
   "country": "GRE",
+  "reference": "03420004I6W",
   "name": "NATASSA",
   "rating": {
     "gph": 717.7,
@@ -197,6 +198,5 @@
       6.67,
       7.14
     ]
-  },
-  "reference": "03420004I6W"
+  }
 }

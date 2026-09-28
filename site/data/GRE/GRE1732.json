@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1732",
   "country": "GRE",
+  "reference": "03420004S15",
   "name": "NINOU",
   "rating": {
     "gph": 697.6,
@@ -197,6 +198,5 @@
       7.21,
       7.77
     ]
-  },
-  "reference": "03420004S15"
+  }
 }

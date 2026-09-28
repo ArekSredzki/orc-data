@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1983",
   "country": "GRE",
+  "reference": "03420004R3M",
   "name": "MARIALENA",
   "rating": {
     "gph": 747.3,
@@ -197,6 +198,5 @@
       6.94,
       7.55
     ]
-  },
-  "reference": "03420004R3M"
+  }
 }

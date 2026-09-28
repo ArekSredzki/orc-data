@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2707",
   "country": "TUR",
+  "reference": "04590004V83",
   "name": "FLYER",
   "rating": {
     "gph": 558.1,
@@ -197,6 +198,5 @@
       8.45,
       9.58
     ]
-  },
-  "reference": "04590004V83"
+  }
 }

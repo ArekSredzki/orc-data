@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA69499",
   "country": "USA",
+  "reference": "04560004SO3",
   "name": "Andiamo",
   "rating": {
     "gph": 521.6,
@@ -197,6 +198,5 @@
       9.13,
       10.24
     ]
-  },
-  "reference": "04560004SO3"
+  }
 }

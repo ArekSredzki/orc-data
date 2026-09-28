@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA229",
   "country": "USA",
+  "reference": "04560004TPR",
   "name": "SCHADENFREUDE",
   "rating": {
     "gph": 590.2,
@@ -197,6 +198,5 @@
       8.34,
       9.16
     ]
-  },
-  "reference": "04560004TPR"
+  }
 }

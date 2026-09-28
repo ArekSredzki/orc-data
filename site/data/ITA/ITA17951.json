@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17951",
   "country": "ITA",
+  "reference": "03190004IER",
   "name": "TRE C",
   "rating": {
     "gph": 543.7,
@@ -197,6 +198,5 @@
       8.98,
       9.77
     ]
-  },
-  "reference": "03190004IER"
+  }
 }

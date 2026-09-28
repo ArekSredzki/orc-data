@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN2112",
   "country": "FIN",
+  "reference": "04140004T05",
   "name": "Suomenlahden Ykk\u00f6nen",
   "rating": {
     "gph": 676.7,
@@ -197,6 +198,5 @@
       7.43,
       8.22
     ]
-  },
-  "reference": "04140004T05"
+  }
 }

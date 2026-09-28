@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2280",
   "country": "GRE",
+  "reference": "03420004UF5",
   "name": "LALKA",
   "rating": {
     "gph": 568.6,
@@ -197,6 +198,5 @@
       9.26,
       12.91
     ]
-  },
-  "reference": "03420004UF5"
+  }
 }

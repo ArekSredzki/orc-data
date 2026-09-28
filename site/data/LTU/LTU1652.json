@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU1652",
   "country": "LTU",
+  "reference": "03590004WLE",
   "name": "MIRAGE",
   "rating": {
     "gph": 677.4,
@@ -197,6 +198,5 @@
       7.37,
       8.08
     ]
-  },
-  "reference": "03590004WLE"
+  }
 }

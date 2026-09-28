@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA15560",
   "country": "USA",
+  "reference": "04560004V7Q",
   "name": "CONTENDER",
   "rating": {
     "gph": 659.8,
@@ -197,6 +198,5 @@
       7.48,
       8.12
     ]
-  },
-  "reference": "04560004V7Q"
+  }
 }

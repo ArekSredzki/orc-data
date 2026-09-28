@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2792_C",
   "country": "ESP",
+  "reference": "03510004HTC",
   "name": "PEIKEA",
   "rating": {
     "gph": 666.3,
@@ -197,6 +198,5 @@
       7.38,
       8.07
     ]
-  },
-  "reference": "03510004HTC"
+  }
 }

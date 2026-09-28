@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR8715",
   "country": "NOR",
+  "reference": "03440004WNM",
   "name": "Mixer EC",
   "rating": {
     "gph": 661.8,
@@ -197,6 +198,5 @@
       7.6,
       8.3
     ]
-  },
-  "reference": "03440004WNM"
+  }
 }

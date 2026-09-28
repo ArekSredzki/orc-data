@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11348",
   "country": "NOR",
+  "reference": "03440004S2R",
   "name": "ChriMar",
   "rating": {
     "gph": 672.7,
@@ -197,6 +198,5 @@
       7.48,
       8.19
     ]
-  },
-  "reference": "03440004S2R"
+  }
 }

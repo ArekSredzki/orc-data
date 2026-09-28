@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18085",
   "country": "ITA",
+  "reference": "03190004UIC",
   "name": "BLACK INDIAN",
   "rating": {
     "gph": 622.1,
@@ -197,6 +198,5 @@
       8.04,
       10.14
     ]
-  },
-  "reference": "03190004UIC"
+  }
 }

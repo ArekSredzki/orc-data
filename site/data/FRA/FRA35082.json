@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA35082",
   "country": "FRA",
+  "reference": "04330004TJF",
   "name": "BLUE 007",
   "rating": {
     "gph": 633.1,
@@ -197,6 +198,5 @@
       8.04,
       9.03
     ]
-  },
-  "reference": "04330004TJF"
+  }
 }

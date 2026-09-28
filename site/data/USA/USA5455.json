@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA5455",
   "country": "USA",
+  "reference": "04560004RRR",
   "name": "FUNTECH RACING",
   "rating": {
     "gph": 571.8,
@@ -197,6 +198,5 @@
       8.25,
       9.88
     ]
-  },
-  "reference": "04560004RRR"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9065",
   "country": "NED",
+  "reference": "04310004K2E",
   "name": "Ella",
   "rating": {
     "gph": 610.4,
@@ -197,6 +198,5 @@
       8.11,
       9.03
     ]
-  },
-  "reference": "04310004K2E"
+  }
 }

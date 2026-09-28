@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17308",
   "country": "ITA",
+  "reference": "03190004AWK",
   "name": "MIRAN",
   "rating": {
     "gph": 653.4,
@@ -197,6 +198,5 @@
       7.6,
       8.19
     ]
-  },
-  "reference": "03190004AWK"
+  }
 }

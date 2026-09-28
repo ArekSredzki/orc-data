@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR161616",
   "country": "TUR",
+  "reference": "04590004VW9",
   "name": "LOBSTER X",
   "rating": {
     "gph": 549.7,
@@ -197,6 +198,5 @@
       9.29,
       11.65
     ]
-  },
-  "reference": "04590004VW9"
+  }
 }

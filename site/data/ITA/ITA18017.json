@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18017",
   "country": "ITA",
+  "reference": "03190004FLJ",
   "name": "AMICI MIEI",
   "rating": {
     "gph": 585.8,
@@ -197,6 +198,5 @@
       8.97,
       11.59
     ]
-  },
-  "reference": "03190004FLJ"
+  }
 }

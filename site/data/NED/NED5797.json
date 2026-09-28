@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED5797",
   "country": "NED",
+  "reference": "04310004JVD",
   "name": "M.E.S.H.",
   "rating": {
     "gph": 724.3,
@@ -197,6 +198,5 @@
       6.9,
       7.78
     ]
-  },
-  "reference": "04310004JVD"
+  }
 }

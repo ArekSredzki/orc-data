@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10747",
   "country": "ITA",
+  "reference": "03190004N0H",
   "name": "EMOZIONI",
   "rating": {
     "gph": 732.4,
@@ -197,6 +198,5 @@
       7.02,
       9.19
     ]
-  },
-  "reference": "03190004N0H"
+  }
 }

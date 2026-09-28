@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3117_C",
   "country": "ESP",
+  "reference": "035100048KE",
   "name": "PECONI",
   "rating": {
     "gph": 698.3,
@@ -197,6 +198,5 @@
       7.11,
       7.77
     ]
-  },
-  "reference": "035100048KE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA312",
   "country": "USA",
+  "reference": "04560004UN4",
   "name": "BLOODLINE",
   "rating": {
     "gph": 604.0,
@@ -197,6 +198,5 @@
       7.84,
       9.7
     ]
-  },
-  "reference": "04560004UN4"
+  }
 }

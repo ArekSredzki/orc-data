@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8773",
   "country": "GER",
+  "reference": "03520004VH3",
   "name": "LOBSTER",
   "rating": {
     "gph": 598.7,
@@ -197,6 +198,5 @@
       8.41,
       9.18
     ]
-  },
-  "reference": "03520004VH3"
+  }
 }

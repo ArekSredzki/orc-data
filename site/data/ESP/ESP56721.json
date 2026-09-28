@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP56721",
   "country": "ESP",
+  "reference": "03510004HPK",
   "name": "LACAZAN",
   "rating": {
     "gph": 615.2,
@@ -197,6 +198,5 @@
       7.74,
       8.31
     ]
-  },
-  "reference": "03510004HPK"
+  }
 }

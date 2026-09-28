@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11551",
   "country": "FIN",
+  "reference": "04140004RNF",
   "name": "Sara",
   "rating": {
     "gph": 620.0,
@@ -197,6 +198,5 @@
       8.05,
       8.84
     ]
-  },
-  "reference": "04140004RNF"
+  }
 }

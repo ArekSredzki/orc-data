@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14177",
   "country": "ITA",
+  "reference": "03190004I07",
   "name": "NO FIX",
   "rating": {
     "gph": 624.3,
@@ -197,6 +198,5 @@
       7.54,
       8.82
     ]
-  },
-  "reference": "03190004I07"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9546",
   "country": "ESP",
+  "reference": "03510004B0D",
   "name": "MINIMON",
   "rating": {
     "gph": 636.2,
@@ -197,6 +198,5 @@
       7.83,
       8.56
     ]
-  },
-  "reference": "03510004B0D"
+  }
 }

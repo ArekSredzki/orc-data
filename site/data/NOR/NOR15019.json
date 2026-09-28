@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15019",
   "country": "NOR",
+  "reference": "03440004NA9",
   "name": "Putte",
   "rating": {
     "gph": 585.0,
@@ -197,6 +198,5 @@
       8.22,
       8.98
     ]
-  },
-  "reference": "03440004NA9"
+  }
 }

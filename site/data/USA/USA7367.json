@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA7367",
   "country": "USA",
+  "reference": "04560004PQI",
   "name": "KRAKEN",
   "rating": {
     "gph": 615.3,
@@ -197,6 +198,5 @@
       7.88,
       8.61
     ]
-  },
-  "reference": "04560004PQI"
+  }
 }

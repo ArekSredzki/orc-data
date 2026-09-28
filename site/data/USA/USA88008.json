@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA88008",
   "country": "USA",
+  "reference": "04560004EWD",
   "name": "GLORY",
   "rating": {
     "gph": 443.9,
@@ -197,6 +198,5 @@
       13.26,
       16.51
     ]
-  },
-  "reference": "04560004EWD"
+  }
 }

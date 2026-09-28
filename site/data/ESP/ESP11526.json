@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11526",
   "country": "ESP",
+  "reference": "03510004ULE",
   "name": "ETNA",
   "rating": {
     "gph": 558.1,
@@ -197,6 +198,5 @@
       8.63,
       10.57
     ]
-  },
-  "reference": "03510004ULE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN50939",
   "country": "CAN",
+  "reference": "03430004W6J",
   "name": "Sea Ya",
   "rating": {
     "gph": 550.2,
@@ -197,6 +198,5 @@
       9.22,
       11.69
     ]
-  },
-  "reference": "03430004W6J"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/MLT4515",
   "country": "MLT",
+  "reference": "03230004UWC",
   "name": "DIMM",
   "rating": {
     "gph": 582.7,
@@ -197,6 +198,5 @@
       8.15,
       8.88
     ]
-  },
-  "reference": "03230004UWC"
+  }
 }

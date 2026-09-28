@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15141",
   "country": "ITA",
+  "reference": "03190004FP4",
   "name": "GALATEA DUE",
   "rating": {
     "gph": 580.6,
@@ -197,6 +198,5 @@
       8.53,
       9.36
     ]
-  },
-  "reference": "03190004FP4"
+  }
 }

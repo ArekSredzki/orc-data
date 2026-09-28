@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6916_C",
   "country": "ESP",
+  "reference": "03510004F03",
   "name": "WHARF RAT",
   "rating": {
     "gph": 610.4,
@@ -197,6 +198,5 @@
       8.09,
       10.4
     ]
-  },
-  "reference": "03510004F03"
+  }
 }

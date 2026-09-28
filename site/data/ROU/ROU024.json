@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU024",
   "country": "ROU",
+  "reference": "05040004W6I",
   "name": "Porthos",
   "rating": {
     "gph": 599.9,
@@ -197,6 +198,5 @@
       7.83,
       8.44
     ]
-  },
-  "reference": "05040004W6I"
+  }
 }

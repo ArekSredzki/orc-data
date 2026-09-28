@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7761",
   "country": "NED",
+  "reference": "04310004K04",
   "name": "Twa Famkes",
   "rating": {
     "gph": 600.9,
@@ -197,6 +198,5 @@
       8.28,
       9.06
     ]
-  },
-  "reference": "04310004K04"
+  }
 }

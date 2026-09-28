@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/1988",
   "country": "AUS",
+  "reference": "03020004WMV",
   "name": "Talofa",
   "rating": {
     "gph": 630.6,
@@ -197,6 +198,5 @@
       7.98,
       8.73
     ]
-  },
-  "reference": "03020004WMV"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA5166",
   "country": "USA",
+  "reference": "04560004RT0",
   "name": "SHILLELAGH",
   "rating": {
     "gph": 659.3,
@@ -197,6 +198,5 @@
       7.49,
       8.14
     ]
-  },
-  "reference": "04560004RT0"
+  }
 }

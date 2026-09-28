@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12241",
   "country": "FIN",
+  "reference": "04140004SDQ",
   "name": "Moxie",
   "rating": {
     "gph": 652.1,
@@ -197,6 +198,5 @@
       7.77,
       8.56
     ]
-  },
-  "reference": "04140004SDQ"
+  }
 }

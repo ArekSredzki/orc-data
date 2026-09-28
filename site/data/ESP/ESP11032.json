@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11032",
   "country": "ESP",
+  "reference": "03510004BHQ",
   "name": "FUTURE",
   "rating": {
     "gph": 790.1,
@@ -197,6 +198,5 @@
       6.38,
       6.92
     ]
-  },
-  "reference": "03510004BHQ"
+  }
 }

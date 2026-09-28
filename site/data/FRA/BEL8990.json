@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/BEL8990",
   "country": "FRA",
+  "reference": "04330004LQA",
   "name": "X-BIE",
   "rating": {
     "gph": 623.3,
@@ -197,6 +198,5 @@
       8.04,
       8.96
     ]
-  },
-  "reference": "04330004LQA"
+  }
 }

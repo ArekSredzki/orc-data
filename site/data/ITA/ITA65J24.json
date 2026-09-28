@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA65J24",
   "country": "ITA",
+  "reference": "03190004F8R",
   "name": "JKILLER",
   "rating": {
     "gph": 728.9,
@@ -197,6 +198,5 @@
       6.85,
       7.78
     ]
-  },
-  "reference": "03190004F8R"
+  }
 }

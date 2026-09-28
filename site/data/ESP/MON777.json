@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/MON777",
   "country": "ESP",
+  "reference": "03510004B4T",
   "name": "PAUL CHIMENE",
   "rating": {
     "gph": 636.1,
@@ -197,6 +198,5 @@
       8.01,
       9.05
     ]
-  },
-  "reference": "03510004B4T"
+  }
 }

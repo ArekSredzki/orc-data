@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7267_C",
   "country": "ESP",
+  "reference": "035100048MJ",
   "name": "MARARA DOS",
   "rating": {
     "gph": 635.1,
@@ -197,6 +198,5 @@
       8.14,
       8.86
     ]
-  },
-  "reference": "035100048MJ"
+  }
 }

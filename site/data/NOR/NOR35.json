@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR35",
   "country": "NOR",
+  "reference": "03440004PM8",
   "name": "Sval",
   "rating": {
     "gph": 550.5,
@@ -197,6 +198,5 @@
       8.79,
       10.53
     ]
-  },
-  "reference": "03440004PM8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN257",
   "country": "HUN",
+  "reference": "04890004NQ1",
   "name": "GAZELL",
   "rating": {
     "gph": 680.5,
@@ -197,6 +198,5 @@
       7.89,
       9.46
     ]
-  },
-  "reference": "04890004NQ1"
+  }
 }

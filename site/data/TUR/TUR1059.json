@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1059",
   "country": "TUR",
+  "reference": "04590004PQQ",
   "name": "ZACAPA",
   "rating": {
     "gph": 603.3,
@@ -197,6 +198,5 @@
       7.86,
       9.56
     ]
-  },
-  "reference": "04590004PQQ"
+  }
 }

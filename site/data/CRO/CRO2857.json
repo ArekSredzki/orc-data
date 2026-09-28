@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2857",
   "country": "CRO",
+  "reference": "03620004BN1",
   "name": "Loki",
   "rating": {
     "gph": 553.1,
@@ -197,6 +198,5 @@
       8.75,
       9.63
     ]
-  },
-  "reference": "03620004BN1"
+  }
 }

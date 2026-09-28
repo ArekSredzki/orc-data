@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST407",
   "country": "EST",
+  "reference": "04340004OKP",
   "name": "SILVA",
   "rating": {
     "gph": 626.2,
@@ -197,6 +198,5 @@
       7.89,
       8.61
     ]
-  },
-  "reference": "04340004OKP"
+  }
 }

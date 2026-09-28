@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU411",
   "country": "ROU",
+  "reference": "05040004Q2H",
   "name": "Elixirium",
   "rating": {
     "gph": 639.2,
@@ -197,6 +198,5 @@
       7.74,
       8.42
     ]
-  },
-  "reference": "05040004Q2H"
+  }
 }

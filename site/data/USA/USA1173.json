@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA1173",
   "country": "USA",
+  "reference": "04560004SNS",
   "name": "BLONDIE",
   "rating": {
     "gph": 588.3,
@@ -197,6 +198,5 @@
       8.12,
       9.97
     ]
-  },
-  "reference": "04560004SNS"
+  }
 }

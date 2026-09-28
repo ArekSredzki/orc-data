@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10224_C",
   "country": "ESP",
+  "reference": "03510004FML",
   "name": "NIRVANA",
   "rating": {
     "gph": 704.0,
@@ -197,6 +198,5 @@
       7.17,
       7.76
     ]
-  },
-  "reference": "03510004FML"
+  }
 }

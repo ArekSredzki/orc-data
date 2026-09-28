@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA33819",
   "country": "USA",
+  "reference": "04560004FK9",
   "name": "JUNO",
   "rating": {
     "gph": 603.2,
@@ -197,6 +198,5 @@
       8.01,
       8.92
     ]
-  },
-  "reference": "04560004FK9"
+  }
 }

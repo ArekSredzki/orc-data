@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7887",
   "country": "NED",
+  "reference": "04310004LO4",
   "name": "Juultje",
   "rating": {
     "gph": 632.4,
@@ -197,6 +198,5 @@
       7.89,
       10.24
     ]
-  },
-  "reference": "04310004LO4"
+  }
 }

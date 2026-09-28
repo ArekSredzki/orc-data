@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED1090",
   "country": "NED",
+  "reference": "04310004JSJ",
   "name": "Jump",
   "rating": {
     "gph": 612.0,
@@ -197,6 +198,5 @@
       7.69,
       8.84
     ]
-  },
-  "reference": "04310004JSJ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA17271",
   "country": "FRA",
+  "reference": "04330004FEK",
   "name": "NUAGE II",
   "rating": {
     "gph": 634.2,
@@ -197,6 +198,5 @@
       7.45,
       8.97
     ]
-  },
-  "reference": "04330004FEK"
+  }
 }

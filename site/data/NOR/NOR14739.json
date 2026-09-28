@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14739",
   "country": "NOR",
+  "reference": "03440004KA5",
   "name": "Deidr\u00e8s Samba IV",
   "rating": {
     "gph": 609.6,
@@ -197,6 +198,5 @@
       7.85,
       8.45
     ]
-  },
-  "reference": "03440004KA5"
+  }
 }

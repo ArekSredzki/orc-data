@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA76511",
   "country": "ITA",
+  "reference": "03190004C28",
   "name": "FALCON II",
   "rating": {
     "gph": 587.0,
@@ -197,6 +198,5 @@
       7.85,
       8.46
     ]
-  },
-  "reference": "03190004C28"
+  }
 }

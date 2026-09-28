@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16374",
   "country": "NOR",
+  "reference": "03440004R2L",
   "name": "Ophelia",
   "rating": {
     "gph": 642.4,
@@ -197,6 +198,5 @@
       7.6,
       8.18
     ]
-  },
-  "reference": "03440004R2L"
+  }
 }

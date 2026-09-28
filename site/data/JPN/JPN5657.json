@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN5657",
   "country": "JPN",
+  "reference": "03390004JHT",
   "name": "DANCE 7",
   "rating": {
     "gph": 633.2,
@@ -197,6 +198,5 @@
       7.73,
       8.59
     ]
-  },
-  "reference": "03390004JHT"
+  }
 }

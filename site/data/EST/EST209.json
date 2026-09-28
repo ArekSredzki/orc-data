@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST209",
   "country": "EST",
+  "reference": "04340004Q9E",
   "name": "TUULELIND",
   "rating": {
     "gph": 589.3,
@@ -197,6 +198,5 @@
       8.12,
       8.75
     ]
-  },
-  "reference": "04340004Q9E"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8580",
   "country": "GER",
+  "reference": "04150004MH5",
   "name": "LAYLA",
   "rating": {
     "gph": 676.7,
@@ -197,6 +198,5 @@
       7.4,
       8.02
     ]
-  },
-  "reference": "04150004MH5"
+  }
 }

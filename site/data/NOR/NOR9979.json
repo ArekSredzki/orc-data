@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9979",
   "country": "NOR",
+  "reference": "03440004WI6",
   "name": "Ripstick",
   "rating": {
     "gph": 645.2,
@@ -197,6 +198,5 @@
       7.7,
       10.15
     ]
-  },
-  "reference": "03440004WI6"
+  }
 }

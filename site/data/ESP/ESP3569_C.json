@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3569_C",
   "country": "ESP",
+  "reference": "03510004WPT",
   "name": "ARRAYAN",
   "rating": {
     "gph": 565.7,
@@ -197,6 +198,5 @@
       8.77,
       10.93
     ]
-  },
-  "reference": "03510004WPT"
+  }
 }

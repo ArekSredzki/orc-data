@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5514",
   "country": "ARG",
+  "reference": "03880004Q2D",
   "name": "TATA",
   "rating": {
     "gph": 626.9,
@@ -197,6 +198,5 @@
       8.06,
       8.92
     ]
-  },
-  "reference": "03880004Q2D"
+  }
 }

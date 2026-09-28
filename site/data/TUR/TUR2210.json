@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2210",
   "country": "TUR",
+  "reference": "04590004PW2",
   "name": "DIMPLES",
   "rating": {
     "gph": 668.9,
@@ -197,6 +198,5 @@
       7.37,
       7.99
     ]
-  },
-  "reference": "04590004PW2"
+  }
 }

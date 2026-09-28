@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12575",
   "country": "NOR",
+  "reference": "03440004OQN",
   "name": "Extase",
   "rating": {
     "gph": 636.7,
@@ -197,6 +198,5 @@
       7.85,
       8.57
     ]
-  },
-  "reference": "03440004OQN"
+  }
 }

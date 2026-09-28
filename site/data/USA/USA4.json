@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA4",
   "country": "USA",
+  "reference": "04560004V1V",
   "name": "TINK",
   "rating": {
     "gph": 548.9,
@@ -197,6 +198,5 @@
       9.22,
       11.83
     ]
-  },
-  "reference": "04560004V1V"
+  }
 }

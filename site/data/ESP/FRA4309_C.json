@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/FRA4309_C",
   "country": "ESP",
+  "reference": "03510004SCU",
   "name": "TEAM 42+1",
   "rating": {
     "gph": 498.7,
@@ -197,6 +198,5 @@
       10.9,
       13.66
     ]
-  },
-  "reference": "03510004SCU"
+  }
 }

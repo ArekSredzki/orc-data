@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU25",
   "country": "ROU",
+  "reference": "05040004R5I",
   "name": "Life",
   "rating": {
     "gph": 637.1,
@@ -197,6 +198,5 @@
       7.39,
       8.13
     ]
-  },
-  "reference": "05040004R5I"
+  }
 }

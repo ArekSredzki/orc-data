@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17400",
   "country": "ITA",
+  "reference": "03190004UIB",
   "name": "MOHBARAK 5",
   "rating": {
     "gph": 561.4,
@@ -197,6 +198,5 @@
       8.63,
       9.22
     ]
-  },
-  "reference": "03190004UIB"
+  }
 }

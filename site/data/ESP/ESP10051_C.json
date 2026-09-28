@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10051_C",
   "country": "ESP",
+  "reference": "03510004B8E",
   "name": "DON VIRIATO",
   "rating": {
     "gph": 654.4,
@@ -197,6 +198,5 @@
       7.54,
       8.14
     ]
-  },
-  "reference": "03510004B8E"
+  }
 }

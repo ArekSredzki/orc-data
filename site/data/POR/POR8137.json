@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR8137",
   "country": "POR",
+  "reference": "03530004M8U",
   "name": "MADMAX",
   "rating": {
     "gph": 544.3,
@@ -197,6 +198,5 @@
       8.9,
       10.05
     ]
-  },
-  "reference": "03530004M8U"
+  }
 }

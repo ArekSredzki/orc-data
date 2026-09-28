@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP396",
   "country": "ESP",
+  "reference": "03510004BHS",
   "name": "LOLA",
   "rating": {
     "gph": 701.7,
@@ -197,6 +198,5 @@
       7.22,
       8.36
     ]
-  },
-  "reference": "03510004BHS"
+  }
 }

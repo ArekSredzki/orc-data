@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/ITA12888",
   "country": "GBR",
+  "reference": "03860004NMU",
   "name": "BLUETTE",
   "rating": {
     "gph": 603.0,
@@ -197,6 +198,5 @@
       8.24,
       8.8
     ]
-  },
-  "reference": "03860004NMU"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3383_C",
   "country": "ESP",
+  "reference": "03510004HVT",
   "name": "ALEGRIA",
   "rating": {
     "gph": 703.5,
@@ -197,6 +198,5 @@
       7.08,
       8.23
     ]
-  },
-  "reference": "03510004HVT"
+  }
 }

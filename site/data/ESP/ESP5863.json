@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5863",
   "country": "ESP",
+  "reference": "03510004P38",
   "name": "MONTERREI",
   "rating": {
     "gph": 701.4,
@@ -197,6 +198,5 @@
       7.46,
       8.19
     ]
-  },
-  "reference": "03510004P38"
+  }
 }

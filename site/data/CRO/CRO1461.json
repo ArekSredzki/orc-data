@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO1461",
   "country": "CRO",
+  "reference": "03620004RRK",
   "name": "Cape Code",
   "rating": {
     "gph": 583.6,
@@ -197,6 +198,5 @@
       8.13,
       9.0
     ]
-  },
-  "reference": "03620004RRK"
+  }
 }

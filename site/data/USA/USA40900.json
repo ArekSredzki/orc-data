@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA40900",
   "country": "USA",
+  "reference": "04560004UN0",
   "name": "BRUTUS",
   "rating": {
     "gph": 665.0,
@@ -197,6 +198,5 @@
       7.57,
       8.44
     ]
-  },
-  "reference": "04560004UN0"
+  }
 }

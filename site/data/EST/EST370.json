@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST370",
   "country": "EST",
+  "reference": "04340004RFD",
   "name": "URD",
   "rating": {
     "gph": 744.1,
@@ -197,6 +198,5 @@
       6.81,
       7.37
     ]
-  },
-  "reference": "04340004RFD"
+  }
 }

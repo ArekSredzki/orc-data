@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13954",
   "country": "ITA",
+  "reference": "03190004QCA",
   "name": "ERA ORA 2",
   "rating": {
     "gph": 628.4,
@@ -197,6 +198,5 @@
       8.02,
       8.75
     ]
-  },
-  "reference": "03190004QCA"
+  }
 }

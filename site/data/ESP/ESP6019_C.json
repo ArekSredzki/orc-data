@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6019_C",
   "country": "ESP",
+  "reference": "03510004H99",
   "name": "EXIMIUS",
   "rating": {
     "gph": 727.2,
@@ -197,6 +198,5 @@
       7.15,
       7.9
     ]
-  },
-  "reference": "03510004H99"
+  }
 }

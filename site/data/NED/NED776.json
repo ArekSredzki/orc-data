@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED776",
   "country": "NED",
+  "reference": "04310004L28",
   "name": "Just Plane Sailing",
   "rating": {
     "gph": 635.1,
@@ -197,6 +198,5 @@
       7.86,
       8.66
     ]
-  },
-  "reference": "04310004L28"
+  }
 }

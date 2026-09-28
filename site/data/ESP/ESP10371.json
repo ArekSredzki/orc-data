@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10371",
   "country": "ESP",
+  "reference": "03510004QVE",
   "name": "TUCAN",
   "rating": {
     "gph": 611.0,
@@ -197,6 +198,5 @@
       8.23,
       9.0
     ]
-  },
-  "reference": "03510004QVE"
+  }
 }

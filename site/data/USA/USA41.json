@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA41",
   "country": "USA",
+  "reference": "04560004P4F",
   "name": "LODOS",
   "rating": {
     "gph": 566.4,
@@ -197,6 +198,5 @@
       9.42,
       11.94
     ]
-  },
-  "reference": "04560004P4F"
+  }
 }

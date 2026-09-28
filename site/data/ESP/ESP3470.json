@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3470",
   "country": "ESP",
+  "reference": "03510004PCQ",
   "name": "BITXET",
   "rating": {
     "gph": 645.1,
@@ -197,6 +198,5 @@
       7.75,
       8.49
     ]
-  },
-  "reference": "03510004PCQ"
+  }
 }

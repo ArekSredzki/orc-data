@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4669",
   "country": "RSA",
+  "reference": "04620004IPA",
   "name": "Skye",
   "rating": {
     "gph": 592.0,
@@ -197,6 +198,5 @@
       8.82,
       9.8
     ]
-  },
-  "reference": "04620004IPA"
+  }
 }

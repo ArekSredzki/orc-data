@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12088",
   "country": "FIN",
+  "reference": "04140004Q8R",
   "name": "Amphitrite",
   "rating": {
     "gph": 614.5,
@@ -197,6 +198,5 @@
       7.9,
       8.47
     ]
-  },
-  "reference": "04140004Q8R"
+  }
 }

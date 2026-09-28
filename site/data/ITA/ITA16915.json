@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16915",
   "country": "ITA",
+  "reference": "03190004UNF",
   "name": "NIENTEPAURA",
   "rating": {
     "gph": 631.7,
@@ -197,6 +198,5 @@
       7.74,
       8.34
     ]
-  },
-  "reference": "03190004UNF"
+  }
 }

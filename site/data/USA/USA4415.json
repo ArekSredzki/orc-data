@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA4415",
   "country": "USA",
+  "reference": "04560004MJ1",
   "name": "INTERLODGE 44",
   "rating": {
     "gph": 458.3,
@@ -197,6 +198,5 @@
       13.14,
       16.62
     ]
-  },
-  "reference": "04560004MJ1"
+  }
 }

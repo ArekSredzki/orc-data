@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8633",
   "country": "GER",
+  "reference": "03520004UC7",
   "name": "UPSCALE",
   "rating": {
     "gph": 525.8,
@@ -197,6 +198,5 @@
       10.29,
       13.15
     ]
-  },
-  "reference": "03520004UC7"
+  }
 }

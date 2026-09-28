@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR5952",
   "country": "NOR",
+  "reference": "03440004O2N",
   "name": "Exciter",
   "rating": {
     "gph": 701.9,
@@ -197,6 +198,5 @@
       7.24,
       7.87
     ]
-  },
-  "reference": "03440004O2N"
+  }
 }

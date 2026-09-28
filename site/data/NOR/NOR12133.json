@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12133",
   "country": "NOR",
+  "reference": "03440004PS6",
   "name": "Irie",
   "rating": {
     "gph": 618.7,
@@ -197,6 +198,5 @@
       7.94,
       8.64
     ]
-  },
-  "reference": "03440004PS6"
+  }
 }

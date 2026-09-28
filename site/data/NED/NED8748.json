@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8748",
   "country": "NED",
+  "reference": "04310004K1N",
   "name": "Jojo",
   "rating": {
     "gph": 690.9,
@@ -197,6 +198,5 @@
       7.38,
       9.24
     ]
-  },
-  "reference": "04310004K1N"
+  }
 }

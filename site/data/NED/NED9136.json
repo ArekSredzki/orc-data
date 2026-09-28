@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9136",
   "country": "NED",
+  "reference": "04310004SDW",
   "name": "MAVI",
   "rating": {
     "gph": 619.8,
@@ -197,6 +198,5 @@
       8.12,
       8.86
     ]
-  },
-  "reference": "04310004SDW"
+  }
 }

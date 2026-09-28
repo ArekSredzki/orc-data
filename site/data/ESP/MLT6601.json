@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/MLT6601",
   "country": "ESP",
+  "reference": "03510004JHA",
   "name": "TAPIOCA",
   "rating": {
     "gph": 467.9,
@@ -197,6 +198,5 @@
       10.46,
       11.94
     ]
-  },
-  "reference": "03510004JHA"
+  }
 }

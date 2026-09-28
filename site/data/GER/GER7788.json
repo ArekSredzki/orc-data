@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7788",
   "country": "GER",
+  "reference": "03520004KQV",
   "name": "FRECHDAX",
   "rating": {
     "gph": 650.7,
@@ -197,6 +198,5 @@
       7.67,
       8.38
     ]
-  },
-  "reference": "03520004KQV"
+  }
 }

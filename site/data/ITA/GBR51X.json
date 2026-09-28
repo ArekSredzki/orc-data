@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GBR51X",
   "country": "ITA",
+  "reference": "03190004P9V",
   "name": "DJANGO WR",
   "rating": {
     "gph": 429.7,
@@ -197,6 +198,5 @@
       13.71,
       16.89
     ]
-  },
-  "reference": "03190004P9V"
+  }
 }

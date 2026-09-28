@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/POR210",
   "country": "ESP",
+  "reference": "03510004JAJ",
   "name": "HAIZEA",
   "rating": {
     "gph": 642.2,
@@ -197,6 +198,5 @@
       9.95,
       13.06
     ]
-  },
-  "reference": "03510004JAJ"
+  }
 }

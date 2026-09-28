@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR403",
   "country": "TUR",
+  "reference": "04590004K76",
   "name": "BLUE X",
   "rating": {
     "gph": 694.2,
@@ -197,6 +198,5 @@
       7.21,
       7.83
     ]
-  },
-  "reference": "04590004K76"
+  }
 }

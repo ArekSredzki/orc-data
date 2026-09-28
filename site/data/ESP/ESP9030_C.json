@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9030_C",
   "country": "ESP",
+  "reference": "03510004QSA",
   "name": "EROI",
   "rating": {
     "gph": 700.3,
@@ -197,6 +198,5 @@
       7.07,
       7.69
     ]
-  },
-  "reference": "03510004QSA"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN41",
   "country": "HUN",
+  "reference": "04890004H85",
   "name": "CUNI",
   "rating": {
     "gph": 567.6,
@@ -197,6 +198,5 @@
       8.74,
       10.02
     ]
-  },
-  "reference": "04890004H85"
+  }
 }

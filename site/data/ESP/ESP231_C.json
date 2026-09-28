@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP231_C",
   "country": "ESP",
+  "reference": "03510004IBE",
   "name": "PINAMAR",
   "rating": {
     "gph": 656.1,
@@ -197,6 +198,5 @@
       8.9,
       12.05
     ]
-  },
-  "reference": "03510004IBE"
+  }
 }

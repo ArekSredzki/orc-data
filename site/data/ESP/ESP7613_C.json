@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7613_C",
   "country": "ESP",
+  "reference": "03510004FT5",
   "name": "POTOL 2",
   "rating": {
     "gph": 620.4,
@@ -197,6 +198,5 @@
       8.0,
       8.68
     ]
-  },
-  "reference": "03510004FT5"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA4001",
   "country": "USA",
+  "reference": "04560004QOT",
   "name": "PENDRAGON",
   "rating": {
     "gph": 553.0,
@@ -197,6 +198,5 @@
       8.51,
       10.18
     ]
-  },
-  "reference": "04560004QOT"
+  }
 }

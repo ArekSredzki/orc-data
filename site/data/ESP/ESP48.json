@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP48",
   "country": "ESP",
+  "reference": "03510004C0T",
   "name": "SHAKA",
   "rating": {
     "gph": 598.3,
@@ -197,6 +198,5 @@
       9.0,
       11.03
     ]
-  },
-  "reference": "03510004C0T"
+  }
 }

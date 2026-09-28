@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/BEL1325",
   "country": "GRE",
+  "reference": "03420004I6F",
   "name": "SILHOA",
   "rating": {
     "gph": 579.3,
@@ -197,6 +198,5 @@
       8.72,
       9.54
     ]
-  },
-  "reference": "03420004I6F"
+  }
 }

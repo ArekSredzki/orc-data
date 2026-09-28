@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA97481",
   "country": "USA",
+  "reference": "04560004V7M",
   "name": "SNIPE",
   "rating": {
     "gph": 607.2,
@@ -197,6 +198,5 @@
       7.91,
       8.76
     ]
-  },
-  "reference": "04560004V7M"
+  }
 }

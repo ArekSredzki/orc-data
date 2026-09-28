@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA67F2",
   "country": "FRA",
+  "reference": "04330004F6D",
   "name": "PROTEST",
   "rating": {
     "gph": 603.7,
@@ -197,6 +198,5 @@
       8.75,
       10.49
     ]
-  },
-  "reference": "04330004F6D"
+  }
 }

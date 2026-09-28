@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8825",
   "country": "NED",
+  "reference": "04310004K1T",
   "name": "One Design",
   "rating": {
     "gph": 791.0,
@@ -197,6 +198,5 @@
       6.91,
       9.3
     ]
-  },
-  "reference": "04310004K1T"
+  }
 }

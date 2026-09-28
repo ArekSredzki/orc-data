@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8805",
   "country": "GER",
+  "reference": "03520004QB5",
   "name": "MUNIN",
   "rating": {
     "gph": 617.9,
@@ -197,6 +198,5 @@
       7.83,
       8.5
     ]
-  },
-  "reference": "03520004QB5"
+  }
 }

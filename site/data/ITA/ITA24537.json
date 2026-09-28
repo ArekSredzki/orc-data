@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA24537",
   "country": "ITA",
+  "reference": "03190004RJ3",
   "name": "VAJRA 3",
   "rating": {
     "gph": 653.7,
@@ -197,6 +198,5 @@
       9.22,
       12.31
     ]
-  },
-  "reference": "03190004RJ3"
+  }
 }

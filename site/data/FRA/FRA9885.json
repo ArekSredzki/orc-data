@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9885",
   "country": "FRA",
+  "reference": "04330004HDN",
   "name": "FL\u00caCHE BLEUE",
   "rating": {
     "gph": 771.0,
@@ -197,6 +198,5 @@
       6.61,
       7.14
     ]
-  },
-  "reference": "04330004HDN"
+  }
 }

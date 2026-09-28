@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG1341",
   "country": "HKG",
+  "reference": "038800048B7",
   "name": "Jibulai",
   "rating": {
     "gph": 596.6,
@@ -197,6 +198,5 @@
       8.21,
       8.93
     ]
-  },
-  "reference": "038800048B7"
+  }
 }

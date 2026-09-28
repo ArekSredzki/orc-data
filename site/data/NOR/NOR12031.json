@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12031",
   "country": "NOR",
+  "reference": "03440004TO2",
   "name": "Xita",
   "rating": {
     "gph": 582.2,
@@ -197,6 +198,5 @@
       8.51,
       9.3
     ]
-  },
-  "reference": "03440004TO2"
+  }
 }

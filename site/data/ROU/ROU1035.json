@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU1035",
   "country": "ROU",
+  "reference": "05040004R7N",
   "name": "Danezu",
   "rating": {
     "gph": 604.5,
@@ -197,6 +198,5 @@
       8.21,
       9.25
     ]
-  },
-  "reference": "05040004R7N"
+  }
 }

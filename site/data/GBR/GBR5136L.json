@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GBR5136L",
   "country": "GBR",
+  "reference": "03860004P68",
   "name": "VOLARE",
   "rating": {
     "gph": 547.4,
@@ -197,6 +198,5 @@
       8.76,
       10.19
     ]
-  },
-  "reference": "03860004P68"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN1733",
   "country": "HUN",
+  "reference": "04890004VMA",
   "name": "Red-Chili",
   "rating": {
     "gph": 622.2,
@@ -197,6 +198,5 @@
       10.78,
       13.83
     ]
-  },
-  "reference": "04890004VMA"
+  }
 }

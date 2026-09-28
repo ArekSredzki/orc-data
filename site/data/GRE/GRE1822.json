@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1822",
   "country": "GRE",
+  "reference": "03420004IOI",
   "name": "HARA TON ANGELON IV",
   "rating": {
     "gph": 605.9,
@@ -197,6 +198,5 @@
       8.35,
       9.05
     ]
-  },
-  "reference": "03420004IOI"
+  }
 }

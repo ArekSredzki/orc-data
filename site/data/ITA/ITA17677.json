@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17677",
   "country": "ITA",
+  "reference": "031900048PR",
   "name": "LAMU'",
   "rating": {
     "gph": 739.8,
@@ -197,6 +198,5 @@
       7.05,
       9.53
     ]
-  },
-  "reference": "031900048PR"
+  }
 }

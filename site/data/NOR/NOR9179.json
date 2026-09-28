@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9179",
   "country": "NOR",
+  "reference": "03440004Q09",
   "name": "Nimrod",
   "rating": {
     "gph": 669.9,
@@ -197,6 +198,5 @@
       7.44,
       7.97
     ]
-  },
-  "reference": "03440004Q09"
+  }
 }

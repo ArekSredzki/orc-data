@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR241",
   "country": "KOR",
+  "reference": "04550004BWB",
   "name": "Griffin V",
   "rating": {
     "gph": 643.4,
@@ -197,6 +198,5 @@
       7.88,
       9.12
     ]
-  },
-  "reference": "04550004BWB"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8338",
   "country": "ESP",
+  "reference": "03510004ESQ",
   "name": "COMETA",
   "rating": {
     "gph": 597.6,
@@ -197,6 +198,5 @@
       8.03,
       10.05
     ]
-  },
-  "reference": "03510004ESQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP902",
   "country": "ESP",
+  "reference": "03510004KHW",
   "name": "TUPPINAMBA",
   "rating": {
     "gph": 662.5,
@@ -197,6 +198,5 @@
       8.73,
       11.83
     ]
-  },
-  "reference": "03510004KHW"
+  }
 }

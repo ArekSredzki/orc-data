@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14852",
   "country": "NOR",
+  "reference": "03440004QFB",
   "name": "Passatempo II",
   "rating": {
     "gph": 613.2,
@@ -197,6 +198,5 @@
       8.22,
       9.14
     ]
-  },
-  "reference": "03440004QFB"
+  }
 }

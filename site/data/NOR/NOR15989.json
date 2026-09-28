@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15989",
   "country": "NOR",
+  "reference": "03440004RLH",
   "name": "Stella Polaris",
   "rating": {
     "gph": 604.2,
@@ -197,6 +198,5 @@
       7.86,
       8.47
     ]
-  },
-  "reference": "03440004RLH"
+  }
 }

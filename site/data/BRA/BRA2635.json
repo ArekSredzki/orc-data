@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2635",
   "country": "BRA",
+  "reference": "04420004FBV",
   "name": "Cavalo Loko",
   "rating": {
     "gph": 580.2,
@@ -197,6 +198,5 @@
       8.24,
       9.55
     ]
-  },
-  "reference": "04420004FBV"
+  }
 }

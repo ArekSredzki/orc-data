@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/SWE49",
   "country": "BUL",
+  "reference": "03850004QO4",
   "name": "Kiara X",
   "rating": {
     "gph": 571.0,
@@ -197,6 +198,5 @@
       8.7,
       9.77
     ]
-  },
-  "reference": "03850004QO4"
+  }
 }

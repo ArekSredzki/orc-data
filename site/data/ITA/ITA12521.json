@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12521",
   "country": "ITA",
+  "reference": "03190004MNC",
   "name": "SILPHEA",
   "rating": {
     "gph": 562.5,
@@ -197,6 +198,5 @@
       9.27,
       12.2
     ]
-  },
-  "reference": "03190004MNC"
+  }
 }

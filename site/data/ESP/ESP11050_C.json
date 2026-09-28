@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11050_C",
   "country": "ESP",
+  "reference": "03510004JA4",
   "name": "PURPLE RAIN",
   "rating": {
     "gph": 704.2,
@@ -197,6 +198,5 @@
       6.86,
       7.35
     ]
-  },
-  "reference": "03510004JA4"
+  }
 }

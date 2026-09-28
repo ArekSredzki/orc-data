@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/332",
   "country": "AUS",
+  "reference": "03020004UT7",
   "name": "Mulgannon",
   "rating": {
     "gph": 630.5,
@@ -197,6 +198,5 @@
       7.96,
       8.71
     ]
-  },
-  "reference": "03020004UT7"
+  }
 }

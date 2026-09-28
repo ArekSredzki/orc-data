@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7313",
   "country": "GER",
+  "reference": "04150004MN4",
   "name": "CALINA",
   "rating": {
     "gph": 668.3,
@@ -197,6 +198,5 @@
       7.53,
       8.22
     ]
-  },
-  "reference": "04150004MN4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9550",
   "country": "NED",
+  "reference": "04310004K9K",
   "name": "Caveman IV",
   "rating": {
     "gph": 496.4,
@@ -197,6 +198,5 @@
       10.01,
       12.11
     ]
-  },
-  "reference": "04310004K9K"
+  }
 }

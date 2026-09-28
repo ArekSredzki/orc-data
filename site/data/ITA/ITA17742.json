@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17742",
   "country": "ITA",
+  "reference": "03190004QCH",
   "name": "MADONNA DELLE CONCHIGLIE",
   "rating": {
     "gph": 654.2,
@@ -197,6 +198,5 @@
       7.55,
       8.11
     ]
-  },
-  "reference": "03190004QCH"
+  }
 }

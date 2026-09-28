@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9063",
   "country": "NED",
+  "reference": "04310004K9W",
   "name": "Swing",
   "rating": {
     "gph": 671.8,
@@ -197,6 +198,5 @@
       7.59,
       8.3
     ]
-  },
-  "reference": "04310004K9W"
+  }
 }

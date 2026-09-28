@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11439",
   "country": "NOR",
+  "reference": "03440004LL9",
   "name": "Enigma",
   "rating": {
     "gph": 619.4,
@@ -197,6 +198,5 @@
       7.91,
       8.63
     ]
-  },
-  "reference": "03440004LL9"
+  }
 }

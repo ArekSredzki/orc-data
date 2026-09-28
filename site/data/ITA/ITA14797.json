@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14797",
   "country": "ITA",
+  "reference": "03190004EW1",
   "name": "GRANDE VENTO",
   "rating": {
     "gph": 655.7,
@@ -197,6 +198,5 @@
       8.28,
       11.27
     ]
-  },
-  "reference": "03190004EW1"
+  }
 }

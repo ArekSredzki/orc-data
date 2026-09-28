@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA5294",
   "country": "USA",
+  "reference": "04560004TU5",
   "name": "MOCKINGBIRD",
   "rating": {
     "gph": 428.6,
@@ -197,6 +198,5 @@
       13.52,
       16.83
     ]
-  },
-  "reference": "04560004TU5"
+  }
 }

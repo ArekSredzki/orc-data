@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA25253",
   "country": "ITA",
+  "reference": "03190004FOI",
   "name": "MASCALZONA",
   "rating": {
     "gph": 663.2,
@@ -197,6 +198,5 @@
       7.75,
       10.61
     ]
-  },
-  "reference": "03190004FOI"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/NSN",
   "country": "GBR",
+  "reference": "03860004JDB",
   "name": "PETER",
   "rating": {
     "gph": 662.4,
@@ -197,6 +198,5 @@
       7.95,
       8.51
     ]
-  },
-  "reference": "03860004JDB"
+  }
 }

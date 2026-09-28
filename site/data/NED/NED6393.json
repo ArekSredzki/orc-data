@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6393",
   "country": "NED",
+  "reference": "04310004JVQ",
   "name": "Da Capo",
   "rating": {
     "gph": 618.2,
@@ -197,6 +198,5 @@
       8.17,
       8.88
     ]
-  },
-  "reference": "04310004JVQ"
+  }
 }

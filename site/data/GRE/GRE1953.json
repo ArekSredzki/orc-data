@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1953",
   "country": "GRE",
+  "reference": "03420004PUA",
   "name": "AELIA",
   "rating": {
     "gph": 725.0,
@@ -197,6 +198,5 @@
       7.06,
       7.64
     ]
-  },
-  "reference": "03420004PUA"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2003",
   "country": "GRE",
+  "reference": "03420004QIK",
   "name": "AEGEAS",
   "rating": {
     "gph": 684.6,
@@ -197,6 +198,5 @@
       7.73,
       8.36
     ]
-  },
-  "reference": "03420004QIK"
+  }
 }

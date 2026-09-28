@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8344",
   "country": "GER",
+  "reference": "03520004FNM",
   "name": "PING\u00dcINO ROSA",
   "rating": {
     "gph": 583.7,
@@ -197,6 +198,5 @@
       8.23,
       9.81
     ]
-  },
-  "reference": "03520004FNM"
+  }
 }

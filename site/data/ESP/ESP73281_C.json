@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP73281_C",
   "country": "ESP",
+  "reference": "03510004IBD",
   "name": "VIMARA",
   "rating": {
     "gph": 599.1,
@@ -197,6 +198,5 @@
       8.51,
       9.3
     ]
-  },
-  "reference": "03510004IBD"
+  }
 }

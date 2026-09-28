@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8317",
   "country": "NED",
+  "reference": "04310004K13",
   "name": "Gast Vrij",
   "rating": {
     "gph": 666.5,
@@ -197,6 +198,5 @@
       7.56,
       8.19
     ]
-  },
-  "reference": "04310004K13"
+  }
 }

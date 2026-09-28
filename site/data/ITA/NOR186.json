@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/NOR186",
   "country": "ITA",
+  "reference": "03190004OMP",
   "name": "FREMITO D'ARJA",
   "rating": {
     "gph": 543.9,
@@ -197,6 +198,5 @@
       12.15,
       15.32
     ]
-  },
-  "reference": "03190004OMP"
+  }
 }

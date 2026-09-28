@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR2552",
   "country": "POR",
+  "reference": "03530004LD5",
   "name": "NAVAL EXPERIENCE",
   "rating": {
     "gph": 663.9,
@@ -197,6 +198,5 @@
       7.86,
       10.83
     ]
-  },
-  "reference": "03530004LD5"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU373",
   "country": "LTU",
+  "reference": "03590004V2B",
   "name": "STORM",
   "rating": {
     "gph": 641.2,
@@ -197,6 +198,5 @@
       9.1,
       12.23
     ]
-  },
-  "reference": "03590004V2B"
+  }
 }

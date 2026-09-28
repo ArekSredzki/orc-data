@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA171",
   "country": "USA",
+  "reference": "04560004F98",
   "name": "SPYHOP",
   "rating": {
     "gph": 596.8,
@@ -197,6 +198,5 @@
       7.85,
       9.72
     ]
-  },
-  "reference": "04560004F98"
+  }
 }

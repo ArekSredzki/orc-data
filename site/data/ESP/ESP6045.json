@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6045",
   "country": "ESP",
+  "reference": "035100048QJ",
   "name": "TRAVIESO DIEZ",
   "rating": {
     "gph": 673.5,
@@ -197,6 +198,5 @@
       7.55,
       8.29
     ]
-  },
-  "reference": "035100048QJ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT834",
   "country": "AUT",
+  "reference": "03210004WU9",
   "name": "Aperol",
   "rating": {
     "gph": 604.6,
@@ -197,6 +198,5 @@
       12.07,
       15.02
     ]
-  },
-  "reference": "03210004WU9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA31025",
   "country": "RSA",
+  "reference": "04620004UHO",
   "name": "TNT",
   "rating": {
     "gph": 546.7,
@@ -197,6 +198,5 @@
       11.8,
       14.96
     ]
-  },
-  "reference": "04620004UHO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED1440",
   "country": "NED",
+  "reference": "04310004RSI",
   "name": "ONE & ONLY",
   "rating": {
     "gph": 600.9,
@@ -197,6 +198,5 @@
       8.31,
       9.83
     ]
-  },
-  "reference": "04310004RSI"
+  }
 }

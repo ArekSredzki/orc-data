@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA2533",
   "country": "ITA",
+  "reference": "03190004B6A",
   "name": "QQ7",
   "rating": {
     "gph": 564.2,
@@ -197,6 +198,5 @@
       8.88,
       10.4
     ]
-  },
-  "reference": "03190004B6A"
+  }
 }

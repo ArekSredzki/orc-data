@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1197",
   "country": "GRE",
+  "reference": "03420004I6U",
   "name": "ARTEMIS",
   "rating": {
     "gph": 756.1,
@@ -197,6 +198,5 @@
       6.59,
       7.2
     ]
-  },
-  "reference": "03420004I6U"
+  }
 }

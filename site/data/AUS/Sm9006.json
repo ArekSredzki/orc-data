@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm9006",
   "country": "AUS",
+  "reference": "03020004TS6",
   "name": "BULLET",
   "rating": {
     "gph": 592.6,
@@ -197,6 +198,5 @@
       8.76,
       11.69
     ]
-  },
-  "reference": "03020004TS6"
+  }
 }

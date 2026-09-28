@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT6",
   "country": "LAT",
+  "reference": "04960004S0C",
   "name": "Ilze",
   "rating": {
     "gph": 599.4,
@@ -197,6 +198,5 @@
       8.2,
       8.91
     ]
-  },
-  "reference": "04960004S0C"
+  }
 }

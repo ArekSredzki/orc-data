@@ -1,6 +1,7 @@
 {
   "sailnumber": "CYP/CYP269",
   "country": "CYP",
+  "reference": "03470004LET",
   "name": "UNICA",
   "rating": {
     "gph": 614.8,
@@ -197,6 +198,5 @@
       7.86,
       8.34
     ]
-  },
-  "reference": "03470004LET"
+  }
 }

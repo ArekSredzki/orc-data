@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1151",
   "country": "GRE",
+  "reference": "03420004K4M",
   "name": "KALLISTO",
   "rating": {
     "gph": 650.5,
@@ -197,6 +198,5 @@
       7.73,
       8.3
     ]
-  },
-  "reference": "03420004K4M"
+  }
 }

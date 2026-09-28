@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8049",
   "country": "GER",
+  "reference": "03520004I2M",
   "name": "ELECTA",
   "rating": {
     "gph": 637.2,
@@ -197,6 +198,5 @@
       7.92,
       8.45
     ]
-  },
-  "reference": "03520004I2M"
+  }
 }

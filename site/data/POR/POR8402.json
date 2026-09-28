@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR8402",
   "country": "POR",
+  "reference": "03530004UH5",
   "name": "ILHA DA VENTURA",
   "rating": {
     "gph": 629.9,
@@ -197,6 +198,5 @@
       7.75,
       8.39
     ]
-  },
-  "reference": "03530004UH5"
+  }
 }

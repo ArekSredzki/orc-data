@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6392_C",
   "country": "ESP",
+  "reference": "03510004H6Q",
   "name": "POSEIDON",
   "rating": {
     "gph": 626.0,
@@ -197,6 +198,5 @@
       8.12,
       8.81
     ]
-  },
-  "reference": "03510004H6Q"
+  }
 }

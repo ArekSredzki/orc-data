@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA39139",
   "country": "ITA",
+  "reference": "03190004NVU",
   "name": "LAVE'",
   "rating": {
     "gph": 601.6,
@@ -197,6 +198,5 @@
       8.01,
       8.71
     ]
-  },
-  "reference": "03190004NVU"
+  }
 }

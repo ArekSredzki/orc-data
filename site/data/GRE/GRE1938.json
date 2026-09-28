@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1938",
   "country": "GRE",
+  "reference": "03420004I4A",
   "name": "ESTERA",
   "rating": {
     "gph": 660.5,
@@ -197,6 +198,5 @@
       7.77,
       8.39
     ]
-  },
-  "reference": "03420004I4A"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1278",
   "country": "RSA",
+  "reference": "0462000487M",
   "name": "Wallbanger",
   "rating": {
     "gph": 613.0,
@@ -197,6 +198,5 @@
       8.12,
       10.06
     ]
-  },
-  "reference": "0462000487M"
+  }
 }

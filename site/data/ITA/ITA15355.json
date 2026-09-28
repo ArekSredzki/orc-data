@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15355",
   "country": "ITA",
+  "reference": "03190004IPR",
   "name": "DELFINACHER",
   "rating": {
     "gph": 648.5,
@@ -197,6 +198,5 @@
       7.38,
       7.96
     ]
-  },
-  "reference": "03190004IPR"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10142",
   "country": "ITA",
+  "reference": "03190004K5M",
   "name": "MA.GI",
   "rating": {
     "gph": 684.4,
@@ -197,6 +198,5 @@
       7.0,
       7.48
     ]
-  },
-  "reference": "03190004K5M"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/15482",
   "country": "USA",
+  "reference": "04560004V6Q",
   "name": "SHENAN AGAIN",
   "rating": {
     "gph": 698.6,
@@ -197,6 +198,5 @@
       7.01,
       7.57
     ]
-  },
-  "reference": "04560004V6Q"
+  }
 }

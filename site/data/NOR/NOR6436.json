@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR6436",
   "country": "NOR",
+  "reference": "03440004NKB",
   "name": "Breeze",
   "rating": {
     "gph": 676.8,
@@ -197,6 +198,5 @@
       7.33,
       7.94
     ]
-  },
-  "reference": "03440004NKB"
+  }
 }

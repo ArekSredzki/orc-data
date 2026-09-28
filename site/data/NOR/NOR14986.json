@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14986",
   "country": "NOR",
+  "reference": "03440004NSA",
   "name": "Pax",
   "rating": {
     "gph": 616.3,
@@ -197,6 +198,5 @@
       7.87,
       8.61
     ]
-  },
-  "reference": "03440004NSA"
+  }
 }

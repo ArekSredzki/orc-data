@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5295_C",
   "country": "ESP",
+  "reference": "03510004QJ2",
   "name": "TULA",
   "rating": {
     "gph": 680.5,
@@ -197,6 +198,5 @@
       7.4,
       8.13
     ]
-  },
-  "reference": "03510004QJ2"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/35048",
   "country": "AUS",
+  "reference": "03020004TVD",
   "name": "ORGANISED CHAOS",
   "rating": {
     "gph": 559.5,
@@ -197,6 +198,5 @@
       9.62,
       12.4
     ]
-  },
-  "reference": "03020004TVD"
+  }
 }

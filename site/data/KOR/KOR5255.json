@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR5255",
   "country": "KOR",
+  "reference": "04550004Q57",
   "name": "Merry Wave",
   "rating": {
     "gph": 654.9,
@@ -197,6 +198,5 @@
       7.72,
       8.44
     ]
-  },
-  "reference": "04550004Q57"
+  }
 }

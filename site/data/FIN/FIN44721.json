@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN44721",
   "country": "FIN",
+  "reference": "04140004FLU",
   "name": "Imppu B",
   "rating": {
     "gph": 595.8,
@@ -197,6 +198,5 @@
       8.33,
       9.18
     ]
-  },
-  "reference": "04140004FLU"
+  }
 }

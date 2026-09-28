@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4740",
   "country": "ESP",
+  "reference": "03510004VQV",
   "name": "TANIT 6 - MEDILEVEL",
   "rating": {
     "gph": 546.1,
@@ -197,6 +198,5 @@
       9.21,
       10.56
     ]
-  },
-  "reference": "03510004VQV"
+  }
 }

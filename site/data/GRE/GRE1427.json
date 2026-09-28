@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1427",
   "country": "GRE",
+  "reference": "03420004PUM",
   "name": "YDNA",
   "rating": {
     "gph": 856.9,
@@ -197,6 +198,5 @@
       6.46,
       6.99
     ]
-  },
-  "reference": "03420004PUM"
+  }
 }

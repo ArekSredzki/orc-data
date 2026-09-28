@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18196",
   "country": "ITA",
+  "reference": "03190004NVR",
   "name": "KNOT A CLUE",
   "rating": {
     "gph": 673.4,
@@ -197,6 +198,5 @@
       7.28,
       8.05
     ]
-  },
-  "reference": "03190004NVR"
+  }
 }

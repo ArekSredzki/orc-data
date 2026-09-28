@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/NA25",
   "country": "USA",
+  "reference": "04560004SAC",
   "name": "TENACIOUS",
   "rating": {
     "gph": 599.5,
@@ -197,6 +198,5 @@
       8.2,
       8.82
     ]
-  },
-  "reference": "04560004SAC"
+  }
 }

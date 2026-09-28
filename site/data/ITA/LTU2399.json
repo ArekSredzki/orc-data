@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/LTU2399",
   "country": "ITA",
+  "reference": "03190004N8L",
   "name": "CATTIVA COMPAGNIA",
   "rating": {
     "gph": 585.0,
@@ -197,6 +198,5 @@
       8.24,
       9.89
     ]
-  },
-  "reference": "03190004N8L"
+  }
 }

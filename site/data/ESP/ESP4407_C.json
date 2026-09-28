@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4407_C",
   "country": "ESP",
+  "reference": "03510004F0W",
   "name": "FETCH",
   "rating": {
     "gph": 695.9,
@@ -197,6 +198,5 @@
       7.11,
       7.74
     ]
-  },
-  "reference": "03510004F0W"
+  }
 }

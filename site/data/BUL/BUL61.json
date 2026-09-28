@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL61",
   "country": "BUL",
+  "reference": "03850004TBE",
   "name": "KIZ",
   "rating": {
     "gph": 615.4,
@@ -197,6 +198,5 @@
       8.13,
       8.81
     ]
-  },
-  "reference": "03850004TBE"
+  }
 }

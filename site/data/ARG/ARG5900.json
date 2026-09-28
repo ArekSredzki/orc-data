@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5900",
   "country": "ARG",
+  "reference": "03880004VMW",
   "name": "KATARA",
   "rating": {
     "gph": 564.1,
@@ -197,6 +198,5 @@
       8.92,
       10.64
     ]
-  },
-  "reference": "03880004VMW"
+  }
 }

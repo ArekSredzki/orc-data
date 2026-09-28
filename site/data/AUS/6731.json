@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/6731",
   "country": "AUS",
+  "reference": "03020004T4O",
   "name": "TRUE COLOURS",
   "rating": {
     "gph": 618.0,
@@ -197,6 +198,5 @@
       7.9,
       8.63
     ]
-  },
-  "reference": "03020004T4O"
+  }
 }

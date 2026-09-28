@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/SUI43951",
   "country": "GRE",
+  "reference": "03420004UI7",
   "name": "AIOLIA",
   "rating": {
     "gph": 593.1,
@@ -197,6 +198,5 @@
       8.43,
       10.47
     ]
-  },
-  "reference": "03420004UI7"
+  }
 }

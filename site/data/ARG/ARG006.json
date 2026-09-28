@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG006",
   "country": "ARG",
+  "reference": "03880004IF2",
   "name": "ALLEGRO",
   "rating": {
     "gph": 542.4,
@@ -197,6 +198,5 @@
       11.69,
       14.92
     ]
-  },
-  "reference": "03880004IF2"
+  }
 }

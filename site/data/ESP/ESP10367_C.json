@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10367_C",
   "country": "ESP",
+  "reference": "03510004HVW",
   "name": "PIPE",
   "rating": {
     "gph": 594.3,
@@ -197,6 +198,5 @@
       8.24,
       8.96
     ]
-  },
-  "reference": "03510004HVW"
+  }
 }

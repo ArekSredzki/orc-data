@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16354",
   "country": "ITA",
+  "reference": "03190004HJF",
   "name": "HAY LIN",
   "rating": {
     "gph": 635.3,
@@ -197,6 +198,5 @@
       7.5,
       8.12
     ]
-  },
-  "reference": "03190004HJF"
+  }
 }

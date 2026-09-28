@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/22",
   "country": "USA",
+  "reference": "04560004QBE",
   "name": "Velocity2",
   "rating": {
     "gph": 604.2,
@@ -197,6 +198,5 @@
       8.3,
       11.08
     ]
-  },
-  "reference": "04560004QBE"
+  }
 }

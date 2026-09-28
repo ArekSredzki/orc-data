@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1692",
   "country": "GRE",
+  "reference": "03420004IOP",
   "name": "TZELA DELTA",
   "rating": {
     "gph": 734.3,
@@ -197,6 +198,5 @@
       7.07,
       7.73
     ]
-  },
-  "reference": "03420004IOP"
+  }
 }

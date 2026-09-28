@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1275",
   "country": "GRE",
+  "reference": "03420004I3N",
   "name": "PARALOS",
   "rating": {
     "gph": 644.1,
@@ -197,6 +198,5 @@
       7.41,
       8.02
     ]
-  },
-  "reference": "03420004I3N"
+  }
 }

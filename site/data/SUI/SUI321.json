@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI321",
   "country": "SUI",
+  "reference": "03080004LK2",
   "name": "FETTES BOOT",
   "rating": {
     "gph": 555.7,
@@ -197,6 +198,5 @@
       9.65,
       12.3
     ]
-  },
-  "reference": "03080004LK2"
+  }
 }

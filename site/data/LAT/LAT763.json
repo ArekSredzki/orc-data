@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT763",
   "country": "LAT",
+  "reference": "04960004RNU",
   "name": "Slam",
   "rating": {
     "gph": 628.3,
@@ -197,6 +198,5 @@
       8.04,
       8.82
     ]
-  },
-  "reference": "04960004RNU"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17790",
   "country": "ITA",
+  "reference": "03190004UNI",
   "name": "SCIVOLAVIA",
   "rating": {
     "gph": 565.2,
@@ -197,6 +198,5 @@
       8.46,
       9.29
     ]
-  },
-  "reference": "03190004UNI"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18001",
   "country": "ITA",
+  "reference": "03190004T7K",
   "name": "MY LADY",
   "rating": {
     "gph": 564.9,
@@ -197,6 +198,5 @@
       8.31,
       9.01
     ]
-  },
-  "reference": "03190004T7K"
+  }
 }

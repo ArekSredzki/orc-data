@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA1438",
   "country": "FRA",
+  "reference": "04330004PO6",
   "name": "BRITTANY J",
   "rating": {
     "gph": 611.2,
@@ -197,6 +198,5 @@
       8.17,
       10.47
     ]
-  },
-  "reference": "04330004PO6"
+  }
 }

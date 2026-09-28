@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17373",
   "country": "ITA",
+  "reference": "03190004HS9",
   "name": "BLUDIMARE",
   "rating": {
     "gph": 611.2,
@@ -197,6 +198,5 @@
       7.69,
       8.3
     ]
-  },
-  "reference": "03190004HS9"
+  }
 }

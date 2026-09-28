@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2885_C",
   "country": "ESP",
+  "reference": "03510004TWS",
   "name": "TXIO",
   "rating": {
     "gph": 621.3,
@@ -197,6 +198,5 @@
       8.12,
       9.3
     ]
-  },
-  "reference": "03510004TWS"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60500",
   "country": "USA",
+  "reference": "04560004RM4",
   "name": "VENI VIDI VEATCHI",
   "rating": {
     "gph": 618.5,
@@ -197,6 +198,5 @@
       7.88,
       8.6
     ]
-  },
-  "reference": "04560004RM4"
+  }
 }

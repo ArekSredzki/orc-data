@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA42092",
   "country": "FRA",
+  "reference": "04330004OM4",
   "name": "ROCH GUARINE 2",
   "rating": {
     "gph": 669.4,
@@ -197,6 +198,5 @@
       8.54,
       11.75
     ]
-  },
-  "reference": "04330004OM4"
+  }
 }

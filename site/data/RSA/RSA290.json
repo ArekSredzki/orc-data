@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA290",
   "country": "RSA",
+  "reference": "04620004A6B",
   "name": "Hamba",
   "rating": {
     "gph": 771.7,
@@ -197,6 +198,5 @@
       6.41,
       6.94
     ]
-  },
-  "reference": "04620004A6B"
+  }
 }

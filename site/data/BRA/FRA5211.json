@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/FRA5211",
   "country": "BRA",
+  "reference": "04420004VF1",
   "name": "CRIOULA 52",
   "rating": {
     "gph": 428.9,
@@ -197,6 +198,5 @@
       13.76,
       17.07
     ]
-  },
-  "reference": "04420004VF1"
+  }
 }

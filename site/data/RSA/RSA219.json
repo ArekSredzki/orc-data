@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA219",
   "country": "RSA",
+  "reference": "0462000486V",
   "name": "SNOWGOOSE",
   "rating": {
     "gph": 762.3,
@@ -197,6 +198,5 @@
       6.86,
       7.41
     ]
-  },
-  "reference": "0462000486V"
+  }
 }

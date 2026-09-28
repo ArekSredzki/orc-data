@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/M32225",
   "country": "GER",
+  "reference": "03520004VIF",
   "name": "PAINKILLER",
   "rating": {
     "gph": 543.1,
@@ -197,6 +198,5 @@
       12.25,
       15.42
     ]
-  },
-  "reference": "03520004VIF"
+  }
 }

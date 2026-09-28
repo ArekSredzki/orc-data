@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE695",
   "country": "SWE",
+  "reference": "03200004SUE",
   "name": "Greven",
   "rating": {
     "gph": 606.3,
@@ -197,6 +198,5 @@
       8.24,
       9.0
     ]
-  },
-  "reference": "03200004SUE"
+  }
 }

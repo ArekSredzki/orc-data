@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI007",
   "country": "SUI",
+  "reference": "030800048QR",
   "name": "JULI",
   "rating": {
     "gph": 605.7,
@@ -197,6 +198,5 @@
       11.61,
       14.55
     ]
-  },
-  "reference": "030800048QR"
+  }
 }

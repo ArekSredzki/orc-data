@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GBR6259L",
   "country": "ITA",
+  "reference": "03190004P12",
   "name": "VALENA",
   "rating": {
     "gph": 522.1,
@@ -197,6 +198,5 @@
       9.09,
       10.37
     ]
-  },
-  "reference": "03190004P12"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP45140",
   "country": "ESP",
+  "reference": "03510004V9O",
   "name": "SOLO",
   "rating": {
     "gph": 568.6,
@@ -197,6 +198,5 @@
       8.81,
       9.65
     ]
-  },
-  "reference": "03510004V9O"
+  }
 }

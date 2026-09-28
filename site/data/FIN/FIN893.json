@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN893",
   "country": "FIN",
+  "reference": "04140004RET",
   "name": "Vimma",
   "rating": {
     "gph": 734.7,
@@ -197,6 +198,5 @@
       6.91,
       7.69
     ]
-  },
-  "reference": "04140004RET"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4662",
   "country": "ESP",
+  "reference": "03510004C61",
   "name": "O`MaryLou",
   "rating": {
     "gph": 647.4,
@@ -197,6 +198,5 @@
       7.82,
       8.62
     ]
-  },
-  "reference": "03510004C61"
+  }
 }

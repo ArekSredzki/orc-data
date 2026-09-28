@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14200",
   "country": "ITA",
+  "reference": "03190004ST7",
   "name": "STREGA II^",
   "rating": {
     "gph": 613.7,
@@ -197,6 +198,5 @@
       7.56,
       8.2
     ]
-  },
-  "reference": "03190004ST7"
+  }
 }

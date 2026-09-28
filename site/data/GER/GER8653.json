@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8653",
   "country": "GER",
+  "reference": "04150004FNH",
   "name": "TIHA",
   "rating": {
     "gph": 692.8,
@@ -197,6 +198,5 @@
       7.17,
       7.7
     ]
-  },
-  "reference": "04150004FNH"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11030_C",
   "country": "ESP",
+  "reference": "03510004UI0",
   "name": "RADAZUL",
   "rating": {
     "gph": 674.5,
@@ -197,6 +198,5 @@
       7.32,
       7.95
     ]
-  },
-  "reference": "03510004UI0"
+  }
 }

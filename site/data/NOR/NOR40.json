@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR40",
   "country": "NOR",
+  "reference": "03440004RQ7",
   "name": "X-tra",
   "rating": {
     "gph": 623.9,
@@ -197,6 +198,5 @@
       8.04,
       9.61
     ]
-  },
-  "reference": "03440004RQ7"
+  }
 }

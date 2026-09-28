@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE112",
   "country": "GRE",
+  "reference": "03420004PU6",
   "name": "ARMENISTIS",
   "rating": {
     "gph": 788.1,
@@ -197,6 +198,5 @@
       6.46,
       7.01
     ]
-  },
-  "reference": "03420004PU6"
+  }
 }

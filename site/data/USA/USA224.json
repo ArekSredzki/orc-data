@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA224",
   "country": "USA",
+  "reference": "04560004UJI",
   "name": "COURAGEOUS",
   "rating": {
     "gph": 604.3,
@@ -197,6 +198,5 @@
       7.88,
       9.72
     ]
-  },
-  "reference": "04560004UJI"
+  }
 }

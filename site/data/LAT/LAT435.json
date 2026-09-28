@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT435",
   "country": "LAT",
+  "reference": "04960004TEW",
   "name": "RA Evolution",
   "rating": {
     "gph": 671.1,
@@ -197,6 +198,5 @@
       7.65,
       10.12
     ]
-  },
-  "reference": "04960004TEW"
+  }
 }

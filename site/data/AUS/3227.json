@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/3227",
   "country": "AUS",
+  "reference": "03020004VA2",
   "name": "ROLLERCOASTER",
   "rating": {
     "gph": 634.5,
@@ -197,6 +198,5 @@
       7.96,
       9.08
     ]
-  },
-  "reference": "03020004VA2"
+  }
 }

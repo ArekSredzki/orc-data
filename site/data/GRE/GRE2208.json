@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2208",
   "country": "GRE",
+  "reference": "03420004TAJ",
   "name": "AFROESSA",
   "rating": {
     "gph": 734.5,
@@ -197,6 +198,5 @@
       7.32,
       7.97
     ]
-  },
-  "reference": "03420004TAJ"
+  }
 }

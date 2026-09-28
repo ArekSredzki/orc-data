@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14628",
   "country": "ITA",
+  "reference": "03190004JBQ",
   "name": "LIBERA",
   "rating": {
     "gph": 555.8,
@@ -197,6 +198,5 @@
       8.59,
       9.3
     ]
-  },
-  "reference": "03190004JBQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE302",
   "country": "GRE",
+  "reference": "03420004U62",
   "name": "KRAKEN",
   "rating": {
     "gph": 626.8,
@@ -197,6 +198,5 @@
       8.25,
       10.59
     ]
-  },
-  "reference": "03420004U62"
+  }
 }

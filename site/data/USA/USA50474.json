@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA50474",
   "country": "USA",
+  "reference": "04560004RU1",
   "name": "DON QUIXOTE",
   "rating": {
     "gph": 570.8,
@@ -197,6 +198,5 @@
       8.3,
       10.09
     ]
-  },
-  "reference": "04560004RU1"
+  }
 }

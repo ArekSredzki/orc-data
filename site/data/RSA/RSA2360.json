@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA2360",
   "country": "RSA",
+  "reference": "046200049PU",
   "name": "Saoirse",
   "rating": {
     "gph": 695.5,
@@ -197,6 +198,5 @@
       7.54,
       8.15
     ]
-  },
-  "reference": "046200049PU"
+  }
 }

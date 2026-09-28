@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA92",
   "country": "USA",
+  "reference": "04560004V5D",
   "name": "CAPERS",
   "rating": {
     "gph": 561.1,
@@ -197,6 +198,5 @@
       9.22,
       11.88
     ]
-  },
-  "reference": "04560004V5D"
+  }
 }

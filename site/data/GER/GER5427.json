@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5427",
   "country": "GER",
+  "reference": "03520004KS2",
   "name": "LONGO MAI",
   "rating": {
     "gph": 654.4,
@@ -197,6 +198,5 @@
       7.6,
       8.24
     ]
-  },
-  "reference": "03520004KS2"
+  }
 }

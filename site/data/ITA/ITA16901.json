@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16901",
   "country": "ITA",
+  "reference": "03190004HNK",
   "name": "OBI-WAN",
   "rating": {
     "gph": 605.3,
@@ -197,6 +198,5 @@
       8.28,
       9.18
     ]
-  },
-  "reference": "03190004HNK"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15125",
   "country": "ITA",
+  "reference": "03190004FOB",
   "name": "LIBERAMENTE",
   "rating": {
     "gph": 626.9,
@@ -197,6 +198,5 @@
       7.41,
       7.95
     ]
-  },
-  "reference": "03190004FOB"
+  }
 }

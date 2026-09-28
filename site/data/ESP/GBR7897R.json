@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GBR7897R",
   "country": "ESP",
+  "reference": "03510004KIH",
   "name": "JUST THE JOB",
   "rating": {
     "gph": 645.8,
@@ -197,6 +198,5 @@
       7.36,
       8.7
     ]
-  },
-  "reference": "03510004KIH"
+  }
 }

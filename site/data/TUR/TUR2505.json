@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2505",
   "country": "TUR",
+  "reference": "04590004LVH",
   "name": "DOPPIO",
   "rating": {
     "gph": 673.8,
@@ -197,6 +198,5 @@
       7.68,
       10.54
     ]
-  },
-  "reference": "04590004LVH"
+  }
 }

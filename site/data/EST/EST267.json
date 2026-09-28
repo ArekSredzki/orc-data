@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST267",
   "country": "EST",
+  "reference": "04340004RV1",
   "name": "CHANTAL",
   "rating": {
     "gph": 644.0,
@@ -197,6 +198,5 @@
       7.82,
       8.82
     ]
-  },
-  "reference": "04340004RV1"
+  }
 }

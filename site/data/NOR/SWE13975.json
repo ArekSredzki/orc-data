@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/SWE13975",
   "country": "NOR",
+  "reference": "03440004QAA",
   "name": "PING",
   "rating": {
     "gph": 621.8,
@@ -197,6 +198,5 @@
       8.01,
       9.42
     ]
-  },
-  "reference": "03440004QAA"
+  }
 }

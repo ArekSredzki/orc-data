@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2905",
   "country": "CRO",
+  "reference": "03620004LWD",
   "name": "Delizia",
   "rating": {
     "gph": 605.8,
@@ -197,6 +198,5 @@
       8.39,
       9.09
     ]
-  },
-  "reference": "03620004LWD"
+  }
 }

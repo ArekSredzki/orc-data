@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA111",
   "country": "FRA",
+  "reference": "04330004IMD",
   "name": "LES AMIS",
   "rating": {
     "gph": 622.3,
@@ -197,6 +198,5 @@
       11.58,
       14.54
     ]
-  },
-  "reference": "04330004IMD"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU8436",
   "country": "ROU",
+  "reference": "05040004ONU",
   "name": "Nitro",
   "rating": {
     "gph": 597.8,
@@ -197,6 +198,5 @@
       8.0,
       9.84
     ]
-  },
-  "reference": "05040004ONU"
+  }
 }

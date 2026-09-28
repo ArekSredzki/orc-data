@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE741",
   "country": "GRE",
+  "reference": "03420004I4F",
   "name": "ALMYRA",
   "rating": {
     "gph": 693.3,
@@ -197,6 +198,5 @@
       7.54,
       8.17
     ]
-  },
-  "reference": "03420004I4F"
+  }
 }

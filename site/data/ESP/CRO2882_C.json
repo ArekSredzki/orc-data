@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/CRO2882_C",
   "country": "ESP",
+  "reference": "03510004T9E",
   "name": "KISERO",
   "rating": {
     "gph": 610.8,
@@ -197,6 +198,5 @@
       9.49,
       12.79
     ]
-  },
-  "reference": "03510004T9E"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/RUS2707",
   "country": "TUR",
+  "reference": "04590004O2I",
   "name": "PARMA",
   "rating": {
     "gph": 560.2,
@@ -197,6 +198,5 @@
       8.46,
       9.44
     ]
-  },
-  "reference": "04590004O2I"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8075",
   "country": "NED",
+  "reference": "04310004K0I",
   "name": "Zeehond",
   "rating": {
     "gph": 578.6,
@@ -197,6 +198,5 @@
       8.2,
       8.81
     ]
-  },
-  "reference": "04310004K0I"
+  }
 }

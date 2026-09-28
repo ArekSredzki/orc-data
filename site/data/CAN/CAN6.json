@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN6",
   "country": "CAN",
+  "reference": "03430004OP3",
   "name": "Interloper",
   "rating": {
     "gph": 577.3,
@@ -197,6 +198,5 @@
       10.82,
       14.01
     ]
-  },
-  "reference": "03430004OP3"
+  }
 }

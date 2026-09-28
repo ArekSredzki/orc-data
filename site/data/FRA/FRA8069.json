@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA8069",
   "country": "FRA",
+  "reference": "04330004PES",
   "name": "CESMA 3",
   "rating": {
     "gph": 676.8,
@@ -197,6 +198,5 @@
       7.47,
       8.2
     ]
-  },
-  "reference": "04330004PES"
+  }
 }

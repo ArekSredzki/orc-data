@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/18889",
   "country": "AUS",
+  "reference": "03020004WDE",
   "name": "NINE DRAGONS",
   "rating": {
     "gph": 515.0,
@@ -197,6 +198,5 @@
       9.58,
       11.34
     ]
-  },
-  "reference": "03020004WDE"
+  }
 }

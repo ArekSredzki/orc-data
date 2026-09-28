@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4373",
   "country": "ESP",
+  "reference": "03510004J32",
   "name": "KYO VI",
   "rating": {
     "gph": 617.5,
@@ -197,6 +198,5 @@
       8.09,
       9.5
     ]
-  },
-  "reference": "03510004J32"
+  }
 }

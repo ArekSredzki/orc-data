@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12514",
   "country": "NOR",
+  "reference": "03440004RFK",
   "name": "Storm",
   "rating": {
     "gph": 630.3,
@@ -197,6 +198,5 @@
       7.91,
       8.59
     ]
-  },
-  "reference": "03440004RFK"
+  }
 }

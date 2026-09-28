@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAJFS21",
   "country": "ITA",
+  "reference": "03190004KKH",
   "name": "PRUDENCE",
   "rating": {
     "gph": 596.2,
@@ -197,6 +198,5 @@
       11.21,
       14.13
     ]
-  },
-  "reference": "03190004KKH"
+  }
 }

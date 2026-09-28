@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3698",
   "country": "NED",
+  "reference": "04310004JU1",
   "name": "WAAR-SCHIP",
   "rating": {
     "gph": 618.9,
@@ -197,6 +198,5 @@
       7.8,
       9.29
     ]
-  },
-  "reference": "04310004JU1"
+  }
 }

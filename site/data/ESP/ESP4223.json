@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4223",
   "country": "ESP",
+  "reference": "03510004WKT",
   "name": "K-NAYA",
   "rating": {
     "gph": 620.6,
@@ -197,6 +198,5 @@
       8.3,
       9.62
     ]
-  },
-  "reference": "03510004WKT"
+  }
 }

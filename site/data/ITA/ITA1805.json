@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1805",
   "country": "ITA",
+  "reference": "03190004BNC",
   "name": "INTERCEPTOR",
   "rating": {
     "gph": 536.3,
@@ -197,6 +198,5 @@
       10.08,
       12.83
     ]
-  },
-  "reference": "03190004BNC"
+  }
 }

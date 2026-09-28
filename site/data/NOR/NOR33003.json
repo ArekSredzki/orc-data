@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR33003",
   "country": "NOR",
+  "reference": "03440004NIR",
   "name": "Sparrow",
   "rating": {
     "gph": 603.1,
@@ -197,6 +198,5 @@
       8.26,
       10.98
     ]
-  },
-  "reference": "03440004NIR"
+  }
 }

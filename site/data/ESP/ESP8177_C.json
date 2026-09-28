@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8177_C",
   "country": "ESP",
+  "reference": "03510004BFB",
   "name": "ANA HELENA",
   "rating": {
     "gph": 684.7,
@@ -197,6 +198,5 @@
       7.41,
       8.02
     ]
-  },
-  "reference": "03510004BFB"
+  }
 }

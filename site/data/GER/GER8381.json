@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8381",
   "country": "GER",
+  "reference": "04150004RHE",
   "name": "VAIANA",
   "rating": {
     "gph": 650.9,
@@ -197,6 +198,5 @@
       7.76,
       8.39
     ]
-  },
-  "reference": "04150004RHE"
+  }
 }

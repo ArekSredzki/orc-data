@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11446_C",
   "country": "ESP",
+  "reference": "03510004FK3",
   "name": "SABATIC 1\u00ba",
   "rating": {
     "gph": 729.8,
@@ -197,6 +198,5 @@
       7.1,
       7.73
     ]
-  },
-  "reference": "03510004FK3"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA29526",
   "country": "FRA",
+  "reference": "04330004IQ3",
   "name": "CRAZY GIRLS",
   "rating": {
     "gph": 669.2,
@@ -197,6 +198,5 @@
       8.53,
       11.32
     ]
-  },
-  "reference": "04330004IQ3"
+  }
 }

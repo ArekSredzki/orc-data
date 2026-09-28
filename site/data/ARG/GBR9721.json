@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/GBR9721",
   "country": "ARG",
+  "reference": "03880004F2F",
   "name": "JACKANA",
   "rating": {
     "gph": 630.2,
@@ -197,6 +198,5 @@
       7.79,
       8.55
     ]
-  },
-  "reference": "03880004F2F"
+  }
 }

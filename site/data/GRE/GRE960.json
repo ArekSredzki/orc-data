@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE960",
   "country": "GRE",
+  "reference": "03420004LRI",
   "name": "NEMESIS",
   "rating": {
     "gph": 620.6,
@@ -197,6 +198,5 @@
       8.17,
       8.85
     ]
-  },
-  "reference": "03420004LRI"
+  }
 }

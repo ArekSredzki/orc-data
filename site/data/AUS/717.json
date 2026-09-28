@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/717",
   "country": "AUS",
+  "reference": "03020004WDH",
   "name": "L'ATTITUDE",
   "rating": {
     "gph": 609.7,
@@ -197,6 +198,5 @@
       8.27,
       8.99
     ]
-  },
-  "reference": "03020004WDH"
+  }
 }

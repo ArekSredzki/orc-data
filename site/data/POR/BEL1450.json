@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/BEL1450",
   "country": "POR",
+  "reference": "03530004TPD",
   "name": "XEKMATT",
   "rating": {
     "gph": 553.9,
@@ -197,6 +198,5 @@
       8.92,
       9.94
     ]
-  },
-  "reference": "03530004TPD"
+  }
 }

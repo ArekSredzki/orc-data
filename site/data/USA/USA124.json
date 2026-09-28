@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA124",
   "country": "USA",
+  "reference": "04560004PHD",
   "name": "APOLLO",
   "rating": {
     "gph": 595.0,
@@ -197,6 +198,5 @@
       7.82,
       9.59
     ]
-  },
-  "reference": "04560004PHD"
+  }
 }

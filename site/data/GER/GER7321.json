@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7321",
   "country": "GER",
+  "reference": "03520004I2B",
   "name": "UPDATE FF",
   "rating": {
     "gph": 624.1,
@@ -197,6 +198,5 @@
       9.29,
       12.39
     ]
-  },
-  "reference": "03520004I2B"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA36736",
   "country": "FRA",
+  "reference": "04330004FM9",
   "name": "WAHOO",
   "rating": {
     "gph": 643.4,
@@ -197,6 +198,5 @@
       7.89,
       8.85
     ]
-  },
-  "reference": "04330004FM9"
+  }
 }

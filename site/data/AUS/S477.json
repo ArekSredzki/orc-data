@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/S477",
   "country": "AUS",
+  "reference": "03020004VCF",
   "name": "Vagabond",
   "rating": {
     "gph": 553.5,
@@ -197,6 +198,5 @@
       8.85,
       9.64
     ]
-  },
-  "reference": "03020004VCF"
+  }
 }

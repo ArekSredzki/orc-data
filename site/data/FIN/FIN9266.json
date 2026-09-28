@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN9266",
   "country": "FIN",
+  "reference": "03290004P90",
   "name": "Jacutsi",
   "rating": {
     "gph": 635.8,
@@ -197,6 +198,5 @@
       7.73,
       10.16
     ]
-  },
-  "reference": "03290004P90"
+  }
 }

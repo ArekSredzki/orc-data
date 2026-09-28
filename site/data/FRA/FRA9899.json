@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9899",
   "country": "FRA",
+  "reference": "04330004PQ2",
   "name": "JUST PLY",
   "rating": {
     "gph": 616.8,
@@ -197,6 +198,5 @@
       8.1,
       9.32
     ]
-  },
-  "reference": "04330004PQ2"
+  }
 }

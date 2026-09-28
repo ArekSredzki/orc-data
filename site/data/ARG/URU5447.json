@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/URU5447",
   "country": "ARG",
+  "reference": "03880004N17",
   "name": "LUCA",
   "rating": {
     "gph": 728.9,
@@ -197,6 +198,5 @@
       6.85,
       7.78
     ]
-  },
-  "reference": "03880004N17"
+  }
 }

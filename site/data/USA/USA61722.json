@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61722",
   "country": "USA",
+  "reference": "04560004RNP",
   "name": "VANISHING POINT",
   "rating": {
     "gph": 551.1,
@@ -197,6 +198,5 @@
       8.81,
       9.42
     ]
-  },
-  "reference": "04560004RNP"
+  }
 }

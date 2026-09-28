@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR950",
   "country": "NOR",
+  "reference": "03440004M4M",
   "name": "Expenser",
   "rating": {
     "gph": 725.2,
@@ -197,6 +198,5 @@
       6.97,
       7.81
     ]
-  },
-  "reference": "03440004M4M"
+  }
 }

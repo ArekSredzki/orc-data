@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/CRO1938",
   "country": "TUR",
+  "reference": "04590004MKS",
   "name": "SANTA ANASTASIA",
   "rating": {
     "gph": 558.9,
@@ -197,6 +198,5 @@
       8.54,
       9.7
     ]
-  },
-  "reference": "04590004MKS"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10768",
   "country": "FIN",
+  "reference": "04140004P6E",
   "name": "Siriuss",
   "rating": {
     "gph": 601.6,
@@ -197,6 +198,5 @@
       8.29,
       9.01
     ]
-  },
-  "reference": "04140004P6E"
+  }
 }

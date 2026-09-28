@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT88",
   "country": "AUT",
+  "reference": "03210004L7R",
   "name": "LaWally_O",
   "rating": {
     "gph": 566.1,
@@ -197,6 +198,5 @@
       9.31,
       12.15
     ]
-  },
-  "reference": "03210004L7R"
+  }
 }

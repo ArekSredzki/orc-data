@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GBR4871L",
   "country": "GBR",
+  "reference": "03860004B9P",
   "name": "Cariad Bach",
   "rating": {
     "gph": 569.9,
@@ -197,6 +198,5 @@
       8.76,
       10.58
     ]
-  },
-  "reference": "03860004B9P"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1700",
   "country": "GRE",
+  "reference": "03420004KCI",
   "name": "GITANA",
   "rating": {
     "gph": 666.7,
@@ -197,6 +198,5 @@
       7.33,
       7.86
     ]
-  },
-  "reference": "03420004KCI"
+  }
 }

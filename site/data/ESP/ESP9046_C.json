@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9046_C",
   "country": "ESP",
+  "reference": "03510004IDJ",
   "name": "AL KEVIR",
   "rating": {
     "gph": 585.5,
@@ -197,6 +198,5 @@
       8.5,
       9.37
     ]
-  },
-  "reference": "03510004IDJ"
+  }
 }

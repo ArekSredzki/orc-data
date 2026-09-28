@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2508",
   "country": "CRO",
+  "reference": "03620004ISC",
   "name": "Almar",
   "rating": {
     "gph": 619.5,
@@ -197,6 +198,5 @@
       8.19,
       8.87
     ]
-  },
-  "reference": "03620004ISC"
+  }
 }

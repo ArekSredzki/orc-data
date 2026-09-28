@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL22140",
   "country": "POL",
+  "reference": "04410004PHU",
   "name": "DOUBLE SCOTCH",
   "rating": {
     "gph": 758.9,
@@ -197,6 +198,5 @@
       6.44,
       6.88
     ]
-  },
-  "reference": "04410004PHU"
+  }
 }

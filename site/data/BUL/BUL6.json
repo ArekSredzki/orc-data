@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL6",
   "country": "BUL",
+  "reference": "03850004PQE",
   "name": "Hygeia",
   "rating": {
     "gph": 602.5,
@@ -197,6 +198,5 @@
       8.19,
       8.82
     ]
-  },
-  "reference": "03850004PQE"
+  }
 }

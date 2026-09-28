@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4102_C",
   "country": "ESP",
+  "reference": "03510004FRI",
   "name": "ALBIREO",
   "rating": {
     "gph": 709.3,
@@ -197,6 +198,5 @@
       6.96,
       7.48
     ]
-  },
-  "reference": "03510004FRI"
+  }
 }

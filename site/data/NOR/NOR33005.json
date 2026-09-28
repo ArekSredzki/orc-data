@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR33005",
   "country": "NOR",
+  "reference": "03440004M53",
   "name": "Argo VIII",
   "rating": {
     "gph": 603.5,
@@ -197,6 +198,5 @@
       8.26,
       11.03
     ]
-  },
-  "reference": "03440004M53"
+  }
 }

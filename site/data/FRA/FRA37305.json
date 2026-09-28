@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA37305",
   "country": "FRA",
+  "reference": "04330004HM1",
   "name": "CROQUE PIGNE",
   "rating": {
     "gph": 640.0,
@@ -197,6 +198,5 @@
       9.98,
       13.02
     ]
-  },
-  "reference": "04330004HM1"
+  }
 }

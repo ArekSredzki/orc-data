@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA267",
   "country": "USA",
+  "reference": "04560004UCN",
   "name": "VENTEUX",
   "rating": {
     "gph": 616.1,
@@ -197,6 +198,5 @@
       7.87,
       8.59
     ]
-  },
-  "reference": "04560004UCN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA43729",
   "country": "USA",
+  "reference": "04560004V0H",
   "name": "TFWB RELENTLESS",
   "rating": {
     "gph": 662.7,
@@ -197,6 +198,5 @@
       7.33,
       8.08
     ]
-  },
-  "reference": "04560004V0H"
+  }
 }

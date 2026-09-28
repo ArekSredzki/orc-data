@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11452",
   "country": "FIN",
+  "reference": "04140004QL4",
   "name": "Tempo",
   "rating": {
     "gph": 611.6,
@@ -197,6 +198,5 @@
       8.11,
       8.96
     ]
-  },
-  "reference": "04140004QL4"
+  }
 }

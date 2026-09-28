@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7012_C",
   "country": "ESP",
+  "reference": "03510004BTJ",
   "name": "FENICIO IV",
   "rating": {
     "gph": 632.4,
@@ -197,6 +198,5 @@
       7.67,
       8.34
     ]
-  },
-  "reference": "03510004BTJ"
+  }
 }

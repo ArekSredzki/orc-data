@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/SVK5878",
   "country": "ITA",
+  "reference": "03190004EVR",
   "name": "EL SOLETE",
   "rating": {
     "gph": 579.0,
@@ -197,6 +198,5 @@
       8.13,
       9.45
     ]
-  },
-  "reference": "03190004EVR"
+  }
 }

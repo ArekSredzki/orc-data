@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA3301",
   "country": "USA",
+  "reference": "04560004SI4",
   "name": "INIGO MONTOYA",
   "rating": {
     "gph": 534.0,
@@ -197,6 +198,5 @@
       11.95,
       15.19
     ]
-  },
-  "reference": "04560004SI4"
+  }
 }

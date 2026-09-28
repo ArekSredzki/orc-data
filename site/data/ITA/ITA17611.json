@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17611",
   "country": "ITA",
+  "reference": "03190004KHC",
   "name": "VIA COSI' 5",
   "rating": {
     "gph": 611.1,
@@ -197,6 +198,5 @@
       8.15,
       8.87
     ]
-  },
-  "reference": "03190004KHC"
+  }
 }

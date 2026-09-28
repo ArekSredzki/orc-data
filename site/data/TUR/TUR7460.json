@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR7460",
   "country": "TUR",
+  "reference": "04590004INK",
   "name": "ATLAS",
   "rating": {
     "gph": 560.8,
@@ -197,6 +198,5 @@
       8.48,
       10.23
     ]
-  },
-  "reference": "04590004INK"
+  }
 }

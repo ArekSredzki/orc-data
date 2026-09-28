@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49418",
   "country": "GRE",
+  "reference": "03420004I48",
   "name": "SALTY",
   "rating": {
     "gph": 675.8,
@@ -197,6 +198,5 @@
       7.42,
       8.0
     ]
-  },
-  "reference": "03420004I48"
+  }
 }

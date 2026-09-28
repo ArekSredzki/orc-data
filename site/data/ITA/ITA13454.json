@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13454",
   "country": "ITA",
+  "reference": "03190004MV3",
   "name": "GNANCA NA PIEGA",
   "rating": {
     "gph": 586.8,
@@ -197,6 +198,5 @@
       8.12,
       9.69
     ]
-  },
-  "reference": "03190004MV3"
+  }
 }

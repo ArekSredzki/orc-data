@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6600_C",
   "country": "ESP",
+  "reference": "03510004UFB",
   "name": "FATIMA",
   "rating": {
     "gph": 672.1,
@@ -197,6 +198,5 @@
       7.34,
       8.02
     ]
-  },
-  "reference": "03510004UFB"
+  }
 }

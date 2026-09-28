@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8144",
   "country": "GER",
+  "reference": "04150004N70",
   "name": "BONA TEMPORA",
   "rating": {
     "gph": 634.5,
@@ -197,6 +198,5 @@
       7.81,
       8.58
     ]
-  },
-  "reference": "04150004N70"
+  }
 }

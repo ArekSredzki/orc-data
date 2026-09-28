@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR801",
   "country": "TUR",
+  "reference": "04590004VI4",
   "name": "JUNO",
   "rating": {
     "gph": 667.1,
@@ -197,6 +198,5 @@
       8.3,
       11.46
     ]
-  },
-  "reference": "04590004VI4"
+  }
 }

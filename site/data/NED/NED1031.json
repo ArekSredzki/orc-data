@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED1031",
   "country": "NED",
+  "reference": "04310004PL4",
   "name": "Batfish",
   "rating": {
     "gph": 610.6,
@@ -197,6 +198,5 @@
       8.42,
       10.18
     ]
-  },
-  "reference": "04310004PL4"
+  }
 }

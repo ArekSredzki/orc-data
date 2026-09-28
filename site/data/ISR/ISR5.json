@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR5",
   "country": "ISR",
+  "reference": "043900048A3",
   "name": "Principessa",
   "rating": {
     "gph": 595.1,
@@ -197,6 +198,5 @@
       8.28,
       9.05
     ]
-  },
-  "reference": "043900048A3"
+  }
 }

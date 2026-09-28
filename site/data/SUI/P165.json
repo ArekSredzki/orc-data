@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/P165",
   "country": "SUI",
+  "reference": "03080004NUI",
   "name": "MONA LISA",
   "rating": {
     "gph": 661.8,
@@ -197,6 +198,5 @@
       7.86,
       8.91
     ]
-  },
-  "reference": "03080004NUI"
+  }
 }

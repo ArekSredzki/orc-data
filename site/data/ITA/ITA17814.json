@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17814",
   "country": "ITA",
+  "reference": "03190004PE0",
   "name": "ATHOS",
   "rating": {
     "gph": 686.3,
@@ -197,6 +198,5 @@
       7.4,
       8.05
     ]
-  },
-  "reference": "03190004PE0"
+  }
 }

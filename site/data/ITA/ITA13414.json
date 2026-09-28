@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13414",
   "country": "ITA",
+  "reference": "03190004FFK",
   "name": "TESEO 2000",
   "rating": {
     "gph": 643.6,
@@ -197,6 +198,5 @@
       7.64,
       8.25
     ]
-  },
-  "reference": "03190004FFK"
+  }
 }

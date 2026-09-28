@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17431",
   "country": "ITA",
+  "reference": "03190004R7W",
   "name": "SAYANN",
   "rating": {
     "gph": 575.1,
@@ -197,6 +198,5 @@
       8.61,
       9.55
     ]
-  },
-  "reference": "03190004R7W"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT76",
   "country": "LAT",
+  "reference": "04960004QK0",
   "name": "Gracia",
   "rating": {
     "gph": 756.0,
@@ -197,6 +198,5 @@
       6.82,
       7.38
     ]
-  },
-  "reference": "04960004QK0"
+  }
 }

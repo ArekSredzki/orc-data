@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17705",
   "country": "ITA",
+  "reference": "03190004TB9",
   "name": "DO LEONI",
   "rating": {
     "gph": 618.9,
@@ -197,6 +198,5 @@
       7.53,
       8.09
     ]
-  },
-  "reference": "03190004TB9"
+  }
 }

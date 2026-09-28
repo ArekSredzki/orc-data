@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/ITA16633",
   "country": "GRE",
+  "reference": "03420004NJB",
   "name": "IDHRA",
   "rating": {
     "gph": 665.8,
@@ -197,6 +198,5 @@
       7.42,
       8.11
     ]
-  },
-  "reference": "03420004NJB"
+  }
 }

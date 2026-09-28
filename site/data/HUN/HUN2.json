@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN2",
   "country": "HUN",
+  "reference": "04890004Q11",
   "name": "Talizm\u00e1n",
   "rating": {
     "gph": 677.0,
@@ -197,6 +198,5 @@
       7.41,
       8.1
     ]
-  },
-  "reference": "04890004Q11"
+  }
 }

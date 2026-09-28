@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3995",
   "country": "NED",
+  "reference": "04310004JUA",
   "name": "Pebbles",
   "rating": {
     "gph": 652.3,
@@ -197,6 +198,5 @@
       8.35,
       10.94
     ]
-  },
-  "reference": "04310004JUA"
+  }
 }

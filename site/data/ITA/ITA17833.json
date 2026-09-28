@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17833",
   "country": "ITA",
+  "reference": "03190004N1D",
   "name": "CALYPSO",
   "rating": {
     "gph": 665.3,
@@ -197,6 +198,5 @@
       9.52,
       12.56
     ]
-  },
-  "reference": "03190004N1D"
+  }
 }

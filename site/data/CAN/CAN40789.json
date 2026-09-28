@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN40789",
   "country": "CAN",
+  "reference": "03430004FAT",
   "name": "The Kodiak Express",
   "rating": {
     "gph": 602.3,
@@ -197,6 +198,5 @@
       7.78,
       9.37
     ]
-  },
-  "reference": "03430004FAT"
+  }
 }

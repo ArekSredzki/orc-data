@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/USA20456",
   "country": "ITA",
+  "reference": "03190004N8V",
   "name": "RESOLUTE SALMON",
   "rating": {
     "gph": 638.8,
@@ -197,6 +198,5 @@
       7.67,
       8.32
     ]
-  },
-  "reference": "03190004N8V"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP313_C",
   "country": "ESP",
+  "reference": "03510004C7T",
   "name": "TOSTAKI",
   "rating": {
     "gph": 701.7,
@@ -197,6 +198,5 @@
       7.36,
       9.31
     ]
-  },
-  "reference": "03510004C7T"
+  }
 }

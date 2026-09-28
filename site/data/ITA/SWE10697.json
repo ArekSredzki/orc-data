@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/SWE10697",
   "country": "ITA",
+  "reference": "03190004QOD",
   "name": "GREAT EXPECTATIONS",
   "rating": {
     "gph": 607.5,
@@ -197,6 +198,5 @@
       7.69,
       8.26
     ]
-  },
-  "reference": "03190004QOD"
+  }
 }

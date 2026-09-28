@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11210",
   "country": "NOR",
+  "reference": "03440004WDS",
   "name": "Slik vind",
   "rating": {
     "gph": 621.0,
@@ -197,6 +198,5 @@
       7.95,
       8.65
     ]
-  },
-  "reference": "03440004WDS"
+  }
 }

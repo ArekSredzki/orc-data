@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3328_C",
   "country": "ESP",
+  "reference": "0351000488R",
   "name": "ABALON",
   "rating": {
     "gph": 685.2,
@@ -197,6 +198,5 @@
       7.23,
       7.87
     ]
-  },
-  "reference": "0351000488R"
+  }
 }

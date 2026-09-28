@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA31",
   "country": "USA",
+  "reference": "04560004KD7",
   "name": "HOBBES",
   "rating": {
     "gph": 557.3,
@@ -197,6 +198,5 @@
       11.51,
       14.64
     ]
-  },
-  "reference": "04560004KD7"
+  }
 }

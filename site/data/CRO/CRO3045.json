@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO3045",
   "country": "CRO",
+  "reference": "03620004V2H",
   "name": "Sail la Vie",
   "rating": {
     "gph": 543.6,
@@ -197,6 +198,5 @@
       9.65,
       12.79
     ]
-  },
-  "reference": "03620004V2H"
+  }
 }

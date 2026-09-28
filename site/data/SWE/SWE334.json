@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE334",
   "country": "SWE",
+  "reference": "03200004SA4",
   "name": "Dynamant",
   "rating": {
     "gph": 644.2,
@@ -197,6 +198,5 @@
       7.77,
       8.54
     ]
-  },
-  "reference": "03200004SA4"
+  }
 }

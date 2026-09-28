@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/IRL725",
   "country": "FRA",
+  "reference": "04330004POO",
   "name": "BLACK MAGIC",
   "rating": {
     "gph": 612.5,
@@ -197,6 +198,5 @@
       7.97,
       8.86
     ]
-  },
-  "reference": "04330004POO"
+  }
 }

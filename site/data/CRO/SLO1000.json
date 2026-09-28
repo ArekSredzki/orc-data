@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/SLO1000",
   "country": "CRO",
+  "reference": "03620004UEH",
   "name": "Big Sky VO 65",
   "rating": {
     "gph": 383.6,
@@ -197,6 +198,5 @@
       15.08,
       18.27
     ]
-  },
-  "reference": "03620004UEH"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/ITA25383",
   "country": "BUL",
+  "reference": "03850004W45",
   "name": "Barbayani",
   "rating": {
     "gph": 675.4,
@@ -197,6 +198,5 @@
       7.82,
       10.42
     ]
-  },
-  "reference": "03850004W45"
+  }
 }

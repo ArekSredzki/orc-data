@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4777_C",
   "country": "ESP",
+  "reference": "03510004EVH",
   "name": "THRILLER",
   "rating": {
     "gph": 615.4,
@@ -197,6 +198,5 @@
       8.16,
       8.96
     ]
-  },
-  "reference": "03510004EVH"
+  }
 }

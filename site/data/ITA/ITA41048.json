@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA41048",
   "country": "ITA",
+  "reference": "03190004NNL",
   "name": "SIDERACORDIS",
   "rating": {
     "gph": 565.1,
@@ -197,6 +198,5 @@
       8.75,
       9.85
     ]
-  },
-  "reference": "03190004NNL"
+  }
 }

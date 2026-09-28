@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49439",
   "country": "GRE",
+  "reference": "03420004H91",
   "name": "PANEFI II",
   "rating": {
     "gph": 666.8,
@@ -197,6 +198,5 @@
       7.42,
       7.92
     ]
-  },
-  "reference": "03420004H91"
+  }
 }

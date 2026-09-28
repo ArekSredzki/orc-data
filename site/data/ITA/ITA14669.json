@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14669",
   "country": "ITA",
+  "reference": "03190004HK7",
   "name": "SFERIKA",
   "rating": {
     "gph": 679.9,
@@ -197,6 +198,5 @@
       7.5,
       8.22
     ]
-  },
-  "reference": "03190004HK7"
+  }
 }

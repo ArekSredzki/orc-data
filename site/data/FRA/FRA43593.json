@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA43593",
   "country": "FRA",
+  "reference": "04330004UKC",
   "name": "MARMAVA 3",
   "rating": {
     "gph": 653.4,
@@ -197,6 +198,5 @@
       7.99,
       9.92
     ]
-  },
-  "reference": "04330004UKC"
+  }
 }

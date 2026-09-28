@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11906",
   "country": "FIN",
+  "reference": "04140004R5B",
   "name": "Wadelma",
   "rating": {
     "gph": 619.4,
@@ -197,6 +198,5 @@
       8.18,
       8.95
     ]
-  },
-  "reference": "04140004R5B"
+  }
 }

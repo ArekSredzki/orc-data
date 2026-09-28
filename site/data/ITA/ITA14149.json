@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14149",
   "country": "ITA",
+  "reference": "03190004B5A",
   "name": "X-PRESS",
   "rating": {
     "gph": 571.9,
@@ -197,6 +198,5 @@
       8.14,
       9.57
     ]
-  },
-  "reference": "03190004B5A"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1642",
   "country": "RSA",
+  "reference": "04620004B77",
   "name": "SPINDRIFT",
   "rating": {
     "gph": 682.7,
@@ -197,6 +198,5 @@
       7.27,
       7.92
     ]
-  },
-  "reference": "04620004B77"
+  }
 }

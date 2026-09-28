@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/FRA37531",
   "country": "GRE",
+  "reference": "03420004TAI",
   "name": "ALCON II",
   "rating": {
     "gph": 568.4,
@@ -197,6 +198,5 @@
       8.86,
       9.74
     ]
-  },
-  "reference": "03420004TAI"
+  }
 }

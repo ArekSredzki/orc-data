@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA229",
   "country": "ITA",
+  "reference": "03190004MP6",
   "name": "CELESTINA",
   "rating": {
     "gph": 537.7,
@@ -197,6 +198,5 @@
       9.0,
       10.81
     ]
-  },
-  "reference": "03190004MP6"
+  }
 }

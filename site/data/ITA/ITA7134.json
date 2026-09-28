@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA7134",
   "country": "ITA",
+  "reference": "03190004FFN",
   "name": "CLAN",
   "rating": {
     "gph": 655.3,
@@ -197,6 +198,5 @@
       7.51,
       8.15
     ]
-  },
-  "reference": "03190004FFN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA505",
   "country": "RSA",
+  "reference": "04620004B76",
   "name": "UMOYA",
   "rating": {
     "gph": 613.0,
@@ -197,6 +198,5 @@
       8.27,
       9.38
     ]
-  },
-  "reference": "04620004B76"
+  }
 }

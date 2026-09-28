@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA39601",
   "country": "FRA",
+  "reference": "04330004FEQ",
   "name": "ARCHITEUTHIS\u00b2",
   "rating": {
     "gph": 618.2,
@@ -197,6 +198,5 @@
       8.18,
       8.97
     ]
-  },
-  "reference": "04330004FEQ"
+  }
 }

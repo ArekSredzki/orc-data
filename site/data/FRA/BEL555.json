@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/BEL555",
   "country": "FRA",
+  "reference": "04330004W02",
   "name": "ANDANTE IV",
   "rating": {
     "gph": 530.9,
@@ -197,6 +198,5 @@
       9.22,
       11.5
     ]
-  },
-  "reference": "04330004W02"
+  }
 }

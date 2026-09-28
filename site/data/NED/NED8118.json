@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8118",
   "country": "NED",
+  "reference": "04310004PHC",
   "name": "CSi Rakker",
   "rating": {
     "gph": 632.0,
@@ -197,6 +198,5 @@
       7.93,
       9.2
     ]
-  },
-  "reference": "04310004PHC"
+  }
 }

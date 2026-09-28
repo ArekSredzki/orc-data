@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9760",
   "country": "FRA",
+  "reference": "04330004UKD",
   "name": "ORION",
   "rating": {
     "gph": 623.0,
@@ -197,6 +198,5 @@
       8.01,
       8.72
     ]
-  },
-  "reference": "04330004UKD"
+  }
 }

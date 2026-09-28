@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA43907",
   "country": "FRA",
+  "reference": "04330004THO",
   "name": "CALLISTO",
   "rating": {
     "gph": 601.4,
@@ -197,6 +198,5 @@
       8.44,
       9.66
     ]
-  },
-  "reference": "04330004THO"
+  }
 }

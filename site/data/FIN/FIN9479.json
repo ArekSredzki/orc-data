@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN9479",
   "country": "FIN",
+  "reference": "04140004UUP",
   "name": "KARLO",
   "rating": {
     "gph": 631.7,
@@ -197,6 +198,5 @@
       8.12,
       9.3
     ]
-  },
-  "reference": "04140004UUP"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/X99375",
   "country": "GER",
+  "reference": "03520004I3F",
   "name": "XKAL",
   "rating": {
     "gph": 623.9,
@@ -197,6 +198,5 @@
       8.04,
       9.61
     ]
-  },
-  "reference": "03520004I3F"
+  }
 }

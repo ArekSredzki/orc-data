@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG2588",
   "country": "HKG",
+  "reference": "038800048BE",
   "name": "ZOE\u2019S GUARD",
   "rating": {
     "gph": 559.4,
@@ -197,6 +198,5 @@
       8.34,
       10.02
     ]
-  },
-  "reference": "038800048BE"
+  }
 }

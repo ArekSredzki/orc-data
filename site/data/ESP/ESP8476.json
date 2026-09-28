@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8476",
   "country": "ESP",
+  "reference": "0351000500U",
   "name": "ORION",
   "rating": {
     "gph": 654.0,

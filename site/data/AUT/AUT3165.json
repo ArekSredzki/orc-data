@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT3165",
   "country": "AUT",
+  "reference": "03210004F4P",
   "name": "Stella Maris",
   "rating": {
     "gph": 548.1,
@@ -197,6 +198,5 @@
       11.88,
       15.0
     ]
-  },
-  "reference": "03210004F4P"
+  }
 }

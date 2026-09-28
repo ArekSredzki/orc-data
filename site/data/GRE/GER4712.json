@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GER4712",
   "country": "GRE",
+  "reference": "03420004VD6",
   "name": "TRINITY",
   "rating": {
     "gph": 631.0,
@@ -197,6 +198,5 @@
       8.1,
       8.67
     ]
-  },
-  "reference": "03420004VD6"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL4",
   "country": "BUL",
+  "reference": "03850004TI8",
   "name": "Dea",
   "rating": {
     "gph": 660.9,
@@ -197,6 +198,5 @@
       7.26,
       7.77
     ]
-  },
-  "reference": "03850004TI8"
+  }
 }

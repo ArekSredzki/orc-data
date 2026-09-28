@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE35",
   "country": "SWE",
+  "reference": "03200004LSJ",
   "name": "FEMELLES",
   "rating": {
     "gph": 602.9,
@@ -197,6 +198,5 @@
       8.17,
       8.9
     ]
-  },
-  "reference": "03200004LSJ"
+  }
 }

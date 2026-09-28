@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/ST36",
   "country": "AUS",
+  "reference": "03020004WTW",
   "name": "Midnight Rambler",
   "rating": {
     "gph": 602.4,
@@ -197,6 +198,5 @@
       8.26,
       9.23
     ]
-  },
-  "reference": "03020004WTW"
+  }
 }

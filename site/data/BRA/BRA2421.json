@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2421",
   "country": "BRA",
+  "reference": "04420004EUC",
   "name": "ASBAR IV",
   "rating": {
     "gph": 614.1,
@@ -197,6 +198,5 @@
       8.13,
       8.99
     ]
-  },
-  "reference": "04420004EUC"
+  }
 }

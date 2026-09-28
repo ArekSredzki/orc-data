@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/FRA44880",
   "country": "ITA",
+  "reference": "03190004UTM",
   "name": "SU CANTU E SU ENTU",
   "rating": {
     "gph": 616.6,
@@ -197,6 +198,5 @@
       8.08,
       10.4
     ]
-  },
-  "reference": "03190004UTM"
+  }
 }

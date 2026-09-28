@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/G347",
   "country": "AUS",
+  "reference": "03020004V9W",
   "name": "Dynamic",
   "rating": {
     "gph": 622.7,
@@ -197,6 +198,5 @@
       7.47,
       8.41
     ]
-  },
-  "reference": "03020004V9W"
+  }
 }

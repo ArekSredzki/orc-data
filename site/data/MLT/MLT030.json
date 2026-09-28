@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/MLT030",
   "country": "MLT",
+  "reference": "03230004UOV",
   "name": "Calypso 3.0",
   "rating": {
     "gph": 572.7,
@@ -197,6 +198,5 @@
       10.11,
       13.17
     ]
-  },
-  "reference": "03230004UOV"
+  }
 }

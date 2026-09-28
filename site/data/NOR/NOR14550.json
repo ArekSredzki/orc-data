@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14550",
   "country": "NOR",
+  "reference": "03440004O8U",
   "name": "Yabadoo IV",
   "rating": {
     "gph": 594.5,
@@ -197,6 +198,5 @@
       8.1,
       8.74
     ]
-  },
-  "reference": "03440004O8U"
+  }
 }

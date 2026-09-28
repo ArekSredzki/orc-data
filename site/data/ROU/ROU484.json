@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU484",
   "country": "ROU",
+  "reference": "05040004Q7K",
   "name": "Cosa Nostra",
   "rating": {
     "gph": 613.7,
@@ -197,6 +198,5 @@
       8.48,
       10.98
     ]
-  },
-  "reference": "05040004Q7K"
+  }
 }

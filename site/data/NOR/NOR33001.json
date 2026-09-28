@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR33001",
   "country": "NOR",
+  "reference": "03440004TQ3",
   "name": "Miina",
   "rating": {
     "gph": 592.3,
@@ -197,6 +198,5 @@
       8.44,
       11.48
     ]
-  },
-  "reference": "03440004TQ3"
+  }
 }

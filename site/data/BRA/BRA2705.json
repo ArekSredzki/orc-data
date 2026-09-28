@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2705",
   "country": "BRA",
+  "reference": "04420004VFS",
   "name": "FELCI 9",
   "rating": {
     "gph": 617.0,
@@ -197,6 +198,5 @@
       8.11,
       10.81
     ]
-  },
-  "reference": "04420004VFS"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST818",
   "country": "EST",
+  "reference": "04340004QTO",
   "name": "Dream",
   "rating": {
     "gph": 767.0,
@@ -197,6 +198,5 @@
       6.7,
       7.26
     ]
-  },
-  "reference": "04340004QTO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE2827",
   "country": "SWE",
+  "reference": "03200004T2H",
   "name": "Walenna II",
   "rating": {
     "gph": 627.7,
@@ -197,6 +198,5 @@
       7.78,
       8.48
     ]
-  },
-  "reference": "03200004T2H"
+  }
 }

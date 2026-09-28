@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16339",
   "country": "NOR",
+  "reference": "03440004PBH",
   "name": "Babaluba",
   "rating": {
     "gph": 670.5,
@@ -197,6 +198,5 @@
       7.66,
       8.28
     ]
-  },
-  "reference": "03440004PBH"
+  }
 }

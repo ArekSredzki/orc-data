@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17383",
   "country": "ITA",
+  "reference": "03190004B9N",
   "name": "ARIEL VELA",
   "rating": {
     "gph": 607.4,
@@ -197,6 +198,5 @@
       7.68,
       8.3
     ]
-  },
-  "reference": "03190004B9N"
+  }
 }

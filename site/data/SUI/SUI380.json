@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI380",
   "country": "SUI",
+  "reference": "030800048NJ",
   "name": "Beugen II",
   "rating": {
     "gph": 661.7,
@@ -197,6 +198,5 @@
       10.58,
       13.51
     ]
-  },
-  "reference": "030800048NJ"
+  }
 }

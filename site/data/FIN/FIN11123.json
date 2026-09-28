@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11123",
   "country": "FIN",
+  "reference": "04140004WKA",
   "name": "Cygnus",
   "rating": {
     "gph": 674.5,
@@ -197,6 +198,5 @@
       7.52,
       8.11
     ]
-  },
-  "reference": "04140004WKA"
+  }
 }

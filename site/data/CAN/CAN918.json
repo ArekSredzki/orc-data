@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN918",
   "country": "CAN",
+  "reference": "03430004W4A",
   "name": "Lake Herring",
   "rating": {
     "gph": 558.2,
@@ -197,6 +198,5 @@
       8.88,
       11.3
     ]
-  },
-  "reference": "03430004W4A"
+  }
 }

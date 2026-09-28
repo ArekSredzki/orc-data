@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8952",
   "country": "NED",
+  "reference": "04310004N3N",
   "name": "Sedikih",
   "rating": {
     "gph": 706.2,
@@ -197,6 +198,5 @@
       7.41,
       9.6
     ]
-  },
-  "reference": "04310004N3N"
+  }
 }

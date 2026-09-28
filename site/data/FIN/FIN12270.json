@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12270",
   "country": "FIN",
+  "reference": "04140004VNJ",
   "name": "Ipanema",
   "rating": {
     "gph": 570.3,
@@ -197,6 +198,5 @@
       8.36,
       9.09
     ]
-  },
-  "reference": "04140004VNJ"
+  }
 }

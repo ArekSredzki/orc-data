@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7470",
   "country": "NED",
+  "reference": "04310004JWR",
   "name": "Customer Contact Company",
   "rating": {
     "gph": 610.5,
@@ -197,6 +198,5 @@
       7.74,
       9.14
     ]
-  },
-  "reference": "04310004JWR"
+  }
 }

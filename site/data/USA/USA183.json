@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA183",
   "country": "USA",
+  "reference": "04560004R87",
   "name": "COEUR D' ALENE",
   "rating": {
     "gph": 718.0,
@@ -197,6 +198,5 @@
       7.17,
       7.72
     ]
-  },
-  "reference": "04560004R87"
+  }
 }

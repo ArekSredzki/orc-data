@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/S149",
   "country": "AUS",
+  "reference": "03020004U9T",
   "name": "Xit Strategy",
   "rating": {
     "gph": 649.0,
@@ -197,6 +198,5 @@
       7.94,
       10.06
     ]
-  },
-  "reference": "03020004U9T"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR181",
   "country": "TUR",
+  "reference": "04590004U81",
   "name": "KUPA KIZI",
   "rating": {
     "gph": 722.6,
@@ -197,6 +198,5 @@
       7.16,
       7.92
     ]
-  },
-  "reference": "04590004U81"
+  }
 }

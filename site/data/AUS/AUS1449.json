@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS1449",
   "country": "AUS",
+  "reference": "03020004U9U",
   "name": "2107 RACING",
   "rating": {
     "gph": 695.4,
@@ -197,6 +198,5 @@
       7.75,
       9.76
     ]
-  },
-  "reference": "03020004U9U"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP15631_C",
   "country": "ESP",
+  "reference": "03510004IP0",
   "name": "FOUR GLORY",
   "rating": {
     "gph": 572.0,
@@ -197,6 +198,5 @@
       8.3,
       9.51
     ]
-  },
-  "reference": "03510004IP0"
+  }
 }

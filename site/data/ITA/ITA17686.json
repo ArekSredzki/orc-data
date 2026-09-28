@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17686",
   "country": "ITA",
+  "reference": "03190004KT2",
   "name": "NIMBUS 2000",
   "rating": {
     "gph": 584.6,
@@ -197,6 +198,5 @@
       8.22,
       9.27
     ]
-  },
-  "reference": "03190004KT2"
+  }
 }

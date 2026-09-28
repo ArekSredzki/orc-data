@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8770",
   "country": "GER",
+  "reference": "03520004QOS",
   "name": "INTOXICATED",
   "rating": {
     "gph": 535.2,
@@ -197,6 +198,5 @@
       8.84,
       10.16
     ]
-  },
-  "reference": "03520004QOS"
+  }
 }

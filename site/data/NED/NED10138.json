@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED10138",
   "country": "NED",
+  "reference": "04310004V1F",
   "name": "Nothing Box",
   "rating": {
     "gph": 596.8,
@@ -197,6 +198,5 @@
       8.37,
       9.18
     ]
-  },
-  "reference": "04310004V1F"
+  }
 }

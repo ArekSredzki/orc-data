@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16280",
   "country": "NOR",
+  "reference": "03440004N0B",
   "name": "Fryd 4",
   "rating": {
     "gph": 553.3,
@@ -197,6 +198,5 @@
       10.02,
       13.11
     ]
-  },
-  "reference": "03440004N0B"
+  }
 }

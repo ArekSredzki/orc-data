@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1943",
   "country": "GRE",
+  "reference": "03420004R3V",
   "name": "MARE GREKO",
   "rating": {
     "gph": 740.1,
@@ -197,6 +198,5 @@
       7.14,
       7.69
     ]
-  },
-  "reference": "03420004R3V"
+  }
 }

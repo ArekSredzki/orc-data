@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12576",
   "country": "ITA",
+  "reference": "03190004F3E",
   "name": "ARIMINUM",
   "rating": {
     "gph": 640.3,
@@ -197,6 +198,5 @@
       7.99,
       9.99
     ]
-  },
-  "reference": "03190004F3E"
+  }
 }

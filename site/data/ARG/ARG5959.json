@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5959",
   "country": "ARG",
+  "reference": "03880004LSU",
   "name": "USHUAIA",
   "rating": {
     "gph": 628.2,
@@ -197,6 +198,5 @@
       8.04,
       8.87
     ]
-  },
-  "reference": "03880004LSU"
+  }
 }

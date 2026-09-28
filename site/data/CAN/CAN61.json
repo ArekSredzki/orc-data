@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN61",
   "country": "CAN",
+  "reference": "03430004W48",
   "name": "Long Time Running",
   "rating": {
     "gph": 586.7,
@@ -197,6 +198,5 @@
       9.51,
       12.37
     ]
-  },
-  "reference": "03430004W48"
+  }
 }

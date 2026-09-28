@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED483",
   "country": "NED",
+  "reference": "04310004JUT",
   "name": "RACEBEVER",
   "rating": {
     "gph": 688.0,
@@ -197,6 +198,5 @@
       7.28,
       7.91
     ]
-  },
-  "reference": "04310004JUT"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA87654",
   "country": "USA",
+  "reference": "04560004VIR",
   "name": "CATAPULT",
   "rating": {
     "gph": 449.3,
@@ -197,6 +198,5 @@
       11.94,
       14.39
     ]
-  },
-  "reference": "04560004VIR"
+  }
 }

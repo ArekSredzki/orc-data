@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17518",
   "country": "ITA",
+  "reference": "03190004OPN",
   "name": "BLUES",
   "rating": {
     "gph": 606.5,
@@ -197,6 +198,5 @@
       8.25,
       9.02
     ]
-  },
-  "reference": "03190004OPN"
+  }
 }

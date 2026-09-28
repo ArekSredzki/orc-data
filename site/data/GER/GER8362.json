@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8362",
   "country": "GER",
+  "reference": "03520004KQS",
   "name": "PEGGY-X",
   "rating": {
     "gph": 631.0,
@@ -197,6 +198,5 @@
       7.89,
       8.62
     ]
-  },
-  "reference": "03520004KQS"
+  }
 }

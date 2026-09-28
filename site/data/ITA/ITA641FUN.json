@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA641FUN",
   "country": "ITA",
+  "reference": "03190004UO1",
   "name": "VIVA II",
   "rating": {
     "gph": 732.0,
@@ -197,6 +198,5 @@
       6.91,
       8.75
     ]
-  },
-  "reference": "03190004UO1"
+  }
 }

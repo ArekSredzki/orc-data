@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA241",
   "country": "RSA",
+  "reference": "0462000487P",
   "name": "Bateleur",
   "rating": {
     "gph": 620.0,
@@ -197,6 +198,5 @@
       8.22,
       9.37
     ]
-  },
-  "reference": "0462000487P"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/4304",
   "country": "USA",
+  "reference": "04560004VRP",
   "name": "ABRACADABRA",
   "rating": {
     "gph": 502.0,
@@ -197,6 +198,5 @@
       10.94,
       13.78
     ]
-  },
-  "reference": "04560004VRP"
+  }
 }

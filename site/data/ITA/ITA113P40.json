@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA113P40",
   "country": "ITA",
+  "reference": "03190004KSO",
   "name": "FLOW",
   "rating": {
     "gph": 502.9,
@@ -197,6 +198,5 @@
       12.2,
       15.28
     ]
-  },
-  "reference": "03190004KSO"
+  }
 }

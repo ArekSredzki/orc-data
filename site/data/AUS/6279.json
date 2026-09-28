@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/6279",
   "country": "AUS",
+  "reference": "03020004UDI",
   "name": "Summersalt",
   "rating": {
     "gph": 610.4,
@@ -197,6 +198,5 @@
       8.43,
       10.92
     ]
-  },
-  "reference": "03020004UDI"
+  }
 }

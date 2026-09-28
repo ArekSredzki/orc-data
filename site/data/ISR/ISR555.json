@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR555",
   "country": "ISR",
+  "reference": "0439000483C",
   "name": "WIND",
   "rating": {
     "gph": 585.3,
@@ -197,6 +198,5 @@
       8.97,
       11.46
     ]
-  },
-  "reference": "0439000483C"
+  }
 }

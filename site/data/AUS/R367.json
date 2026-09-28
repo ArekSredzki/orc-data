@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/R367",
   "country": "AUS",
+  "reference": "03020004VCC",
   "name": "CELESTE",
   "rating": {
     "gph": 620.1,
@@ -197,6 +198,5 @@
       7.88,
       8.6
     ]
-  },
-  "reference": "03020004VCC"
+  }
 }

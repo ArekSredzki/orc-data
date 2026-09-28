@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/FRA19420",
   "country": "ITA",
+  "reference": "03190004HAH",
   "name": "ANDA YA",
   "rating": {
     "gph": 597.9,
@@ -197,6 +198,5 @@
       8.32,
       10.46
     ]
-  },
-  "reference": "03190004HAH"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3446_C",
   "country": "ESP",
+  "reference": "03510004FRA",
   "name": "BANDIT",
   "rating": {
     "gph": 669.0,
@@ -197,6 +198,5 @@
       7.64,
       8.52
     ]
-  },
-  "reference": "03510004FRA"
+  }
 }

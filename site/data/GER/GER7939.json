@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7939",
   "country": "GER",
+  "reference": "04150004QKB",
   "name": "LOFN",
   "rating": {
     "gph": 596.8,
@@ -197,6 +198,5 @@
       8.51,
       9.41
     ]
-  },
-  "reference": "04150004QKB"
+  }
 }

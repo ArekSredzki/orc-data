@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8323",
   "country": "ESP",
+  "reference": "03510004IDU",
   "name": "SAETTA III",
   "rating": {
     "gph": 588.1,
@@ -197,6 +198,5 @@
       8.33,
       9.03
     ]
-  },
-  "reference": "03510004IDU"
+  }
 }

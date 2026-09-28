@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1645",
   "country": "GRE",
+  "reference": "03420004HBQ",
   "name": "ALHIMISTIS ONEIROU",
   "rating": {
     "gph": 703.5,
@@ -197,6 +198,5 @@
       7.27,
       7.88
     ]
-  },
-  "reference": "03420004HBQ"
+  }
 }

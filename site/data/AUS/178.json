@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/178",
   "country": "AUS",
+  "reference": "03020004VC5",
   "name": "ACCOMPLICE",
   "rating": {
     "gph": 719.6,
@@ -197,6 +198,5 @@
       6.97,
       7.52
     ]
-  },
-  "reference": "03020004VC5"
+  }
 }

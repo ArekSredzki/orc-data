@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10003_C",
   "country": "ESP",
+  "reference": "03510004C7Q",
   "name": "GATTACA",
   "rating": {
     "gph": 758.3,
@@ -197,6 +198,5 @@
       6.57,
       7.29
     ]
-  },
-  "reference": "03510004C7Q"
+  }
 }

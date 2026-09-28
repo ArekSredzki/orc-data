@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/294",
   "country": "AUS",
+  "reference": "03020004WR3",
   "name": "LOVE & WAR",
   "rating": {
     "gph": 612.7,
@@ -197,6 +198,5 @@
       8.07,
       8.65
     ]
-  },
-  "reference": "03020004WR3"
+  }
 }

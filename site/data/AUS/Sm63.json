@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm63",
   "country": "AUS",
+  "reference": "03020004U6N",
   "name": "SURPRISE",
   "rating": {
     "gph": 627.9,
@@ -197,6 +198,5 @@
       8.66,
       10.85
     ]
-  },
-  "reference": "03020004U6N"
+  }
 }

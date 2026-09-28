@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED17001",
   "country": "NED",
+  "reference": "04310004KMN",
   "name": "Van Uden",
   "rating": {
     "gph": 458.5,
@@ -197,6 +198,5 @@
       12.48,
       15.83
     ]
-  },
-  "reference": "04310004KMN"
+  }
 }

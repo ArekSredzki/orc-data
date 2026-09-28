@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/LAT94",
   "country": "TUR",
+  "reference": "04590004MV7",
   "name": "LETTLAND",
   "rating": {
     "gph": 614.9,
@@ -197,6 +198,5 @@
       7.96,
       8.71
     ]
-  },
-  "reference": "04590004MV7"
+  }
 }

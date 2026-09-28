@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9396_C",
   "country": "ESP",
+  "reference": "03510004VD0",
   "name": "APOC APOC MORENITO",
   "rating": {
     "gph": 603.9,
@@ -197,6 +198,5 @@
       7.81,
       8.61
     ]
-  },
-  "reference": "03510004VD0"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR4438",
   "country": "NOR",
+  "reference": "03440004QMP",
   "name": "Helmax",
   "rating": {
     "gph": 680.9,
@@ -197,6 +198,5 @@
       7.29,
       8.04
     ]
-  },
-  "reference": "03440004QMP"
+  }
 }

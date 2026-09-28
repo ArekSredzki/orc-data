@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17955",
   "country": "ITA",
+  "reference": "03190004C0A",
   "name": "BLACK SWAN",
   "rating": {
     "gph": 639.7,
@@ -197,6 +198,5 @@
       7.56,
       8.86
     ]
-  },
-  "reference": "03190004C0A"
+  }
 }

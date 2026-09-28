@@ -1,6 +1,7 @@
 {
   "sailnumber": "DEN/DEN15",
   "country": "DEN",
+  "reference": "03370004WO0",
   "name": "Formula X",
   "rating": {
     "gph": 549.4,
@@ -197,6 +198,5 @@
       9.34,
       11.7
     ]
-  },
-  "reference": "03370004WO0"
+  }
 }

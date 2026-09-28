@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2311",
   "country": "NED",
+  "reference": "04310004JT3",
   "name": "XQuise",
   "rating": {
     "gph": 643.5,
@@ -197,6 +198,5 @@
       7.69,
       8.41
     ]
-  },
-  "reference": "04310004JT3"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/ITA17598",
   "country": "USA",
+  "reference": "04560004US5",
   "name": "HAVANNAH",
   "rating": {
     "gph": 591.4,
@@ -197,6 +198,5 @@
       8.15,
       9.54
     ]
-  },
-  "reference": "04560004US5"
+  }
 }

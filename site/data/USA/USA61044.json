@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61044",
   "country": "USA",
+  "reference": "04560004V1M",
   "name": "SUNSHINE DAYDREAM",
   "rating": {
     "gph": 737.7,
@@ -197,6 +198,5 @@
       7.54,
       8.07
     ]
-  },
-  "reference": "04560004V1M"
+  }
 }

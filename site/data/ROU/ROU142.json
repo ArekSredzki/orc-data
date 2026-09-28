@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU142",
   "country": "ROU",
+  "reference": "05040004W40",
   "name": "My Way",
   "rating": {
     "gph": 571.6,
@@ -197,6 +198,5 @@
       8.74,
       9.86
     ]
-  },
-  "reference": "05040004W40"
+  }
 }

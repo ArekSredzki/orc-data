@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA83173",
   "country": "USA",
+  "reference": "04560004MJ9",
   "name": "PROBLEM CHILD",
   "rating": {
     "gph": 688.7,
@@ -197,6 +198,5 @@
       7.04,
       7.81
     ]
-  },
-  "reference": "04560004MJ9"
+  }
 }

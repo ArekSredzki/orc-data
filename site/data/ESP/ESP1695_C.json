@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1695_C",
   "country": "ESP",
+  "reference": "03510004P0U",
   "name": "ASAE DOS",
   "rating": {
     "gph": 674.2,
@@ -197,6 +198,5 @@
       7.55,
       8.32
     ]
-  },
-  "reference": "03510004P0U"
+  }
 }

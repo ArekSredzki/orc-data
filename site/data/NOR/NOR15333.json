@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15333",
   "country": "NOR",
+  "reference": "03440004Q5E",
   "name": "toXifia",
   "rating": {
     "gph": 614.0,
@@ -197,6 +198,5 @@
       7.92,
       10.04
     ]
-  },
-  "reference": "03440004Q5E"
+  }
 }

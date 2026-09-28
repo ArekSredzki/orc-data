@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/KAZ36",
   "country": "FRA",
+  "reference": "04330004Q1T",
   "name": "JEDI",
   "rating": {
     "gph": 586.7,
@@ -197,6 +198,5 @@
       8.14,
       10.08
     ]
-  },
-  "reference": "04330004Q1T"
+  }
 }

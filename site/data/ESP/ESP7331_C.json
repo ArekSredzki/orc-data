@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7331_C",
   "country": "ESP",
+  "reference": "03510004EU1",
   "name": "PAPAGENO",
   "rating": {
     "gph": 715.6,
@@ -197,6 +198,5 @@
       7.26,
       7.81
     ]
-  },
-  "reference": "03510004EU1"
+  }
 }

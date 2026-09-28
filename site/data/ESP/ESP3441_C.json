@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3441_C",
   "country": "ESP",
+  "reference": "03510004C78",
   "name": "TUSCO",
   "rating": {
     "gph": 673.2,
@@ -197,6 +198,5 @@
       7.65,
       8.3
     ]
-  },
-  "reference": "03510004C78"
+  }
 }

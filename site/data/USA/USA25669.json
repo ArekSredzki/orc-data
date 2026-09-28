@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25669",
   "country": "USA",
+  "reference": "04560004V7K",
   "name": "NOTSO EZ MONEY",
   "rating": {
     "gph": 555.2,
@@ -197,6 +198,5 @@
       8.6,
       9.64
     ]
-  },
-  "reference": "04560004V7K"
+  }
 }

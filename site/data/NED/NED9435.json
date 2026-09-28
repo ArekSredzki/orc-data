@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9435",
   "country": "NED",
+  "reference": "04310004K31",
   "name": "Natural High",
   "rating": {
     "gph": 556.0,
@@ -197,6 +198,5 @@
       9.07,
       10.16
     ]
-  },
-  "reference": "04310004K31"
+  }
 }

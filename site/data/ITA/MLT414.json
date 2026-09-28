@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/MLT414",
   "country": "ITA",
+  "reference": "03190004I9U",
   "name": "GABA",
   "rating": {
     "gph": 671.8,
@@ -197,6 +198,5 @@
       9.34,
       12.43
     ]
-  },
-  "reference": "03190004I9U"
+  }
 }

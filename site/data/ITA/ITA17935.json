@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17935",
   "country": "ITA",
+  "reference": "03190004JDV",
   "name": "SHARK",
   "rating": {
     "gph": 622.0,
@@ -197,6 +198,5 @@
       8.11,
       8.86
     ]
-  },
-  "reference": "03190004JDV"
+  }
 }

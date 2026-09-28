@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA44023",
   "country": "USA",
+  "reference": "04560004RTB",
   "name": "SOCIABLE",
   "rating": {
     "gph": 584.1,
@@ -197,6 +198,5 @@
       8.39,
       9.1
     ]
-  },
-  "reference": "04560004RTB"
+  }
 }

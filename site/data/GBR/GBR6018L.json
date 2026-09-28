@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GBR6018L",
   "country": "GBR",
+  "reference": "03860004W50",
   "name": "Sapphire",
   "rating": {
     "gph": 638.5,
@@ -197,6 +198,5 @@
       7.62,
       8.17
     ]
-  },
-  "reference": "03860004W50"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17212",
   "country": "ITA",
+  "reference": "03190004TSF",
   "name": "SANGRIA",
   "rating": {
     "gph": 681.5,
@@ -197,6 +198,5 @@
       7.27,
       7.87
     ]
-  },
-  "reference": "03190004TSF"
+  }
 }

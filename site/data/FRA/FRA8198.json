@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA8198",
   "country": "FRA",
+  "reference": "04330004UKA",
   "name": "EXIGENCE",
   "rating": {
     "gph": 682.9,
@@ -197,6 +198,5 @@
       7.36,
       8.13
     ]
-  },
-  "reference": "04330004UKA"
+  }
 }

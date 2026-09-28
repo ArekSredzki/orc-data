@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE5325",
   "country": "GRE",
+  "reference": "03420004R56",
   "name": "TITANIUM STAR",
   "rating": {
     "gph": 539.9,
@@ -197,6 +198,5 @@
       9.13,
       10.01
     ]
-  },
-  "reference": "03420004R56"
+  }
 }

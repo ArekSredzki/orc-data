@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA3023",
   "country": "ITA",
+  "reference": "03190004ON4",
   "name": "HIROSHI",
   "rating": {
     "gph": 586.8,
@@ -197,6 +198,5 @@
       9.75,
       12.81
     ]
-  },
-  "reference": "03190004ON4"
+  }
 }

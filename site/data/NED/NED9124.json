@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9124",
   "country": "NED",
+  "reference": "04310004K2M",
   "name": "Scarabee",
   "rating": {
     "gph": 694.3,
@@ -197,6 +198,5 @@
       7.16,
       7.79
     ]
-  },
-  "reference": "04310004K2M"
+  }
 }

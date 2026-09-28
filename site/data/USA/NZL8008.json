@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/NZL8008",
   "country": "USA",
+  "reference": "04560004WBQ",
   "name": "RIKKI",
   "rating": {
     "gph": 494.4,
@@ -197,6 +198,5 @@
       11.35,
       14.53
     ]
-  },
-  "reference": "04560004WBQ"
+  }
 }

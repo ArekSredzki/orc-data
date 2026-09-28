@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53355",
   "country": "FRA",
+  "reference": "04330004PIE",
   "name": "LEONARD",
   "rating": {
     "gph": 620.1,
@@ -197,6 +198,5 @@
       8.1,
       9.51
     ]
-  },
-  "reference": "04330004PIE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1235",
   "country": "RSA",
+  "reference": "04620004BS9",
   "name": "Sizwe",
   "rating": {
     "gph": 751.4,
@@ -197,6 +198,5 @@
       6.89,
       7.45
     ]
-  },
-  "reference": "04620004BS9"
+  }
 }

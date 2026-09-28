@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER3105",
   "country": "GER",
+  "reference": "03520004N05",
   "name": "AMUSE-BOUCHE",
   "rating": {
     "gph": 586.5,
@@ -197,6 +198,5 @@
       8.4,
       9.44
     ]
-  },
-  "reference": "03520004N05"
+  }
 }

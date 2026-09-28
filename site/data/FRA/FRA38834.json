@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA38834",
   "country": "FRA",
+  "reference": "04330004FEI",
   "name": "MILOU",
   "rating": {
     "gph": 639.8,
@@ -197,6 +198,5 @@
       8.07,
       9.24
     ]
-  },
-  "reference": "04330004FEI"
+  }
 }

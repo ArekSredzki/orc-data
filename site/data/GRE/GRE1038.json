@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1038",
   "country": "GRE",
+  "reference": "03420004QUE",
   "name": "ATHINA",
   "rating": {
     "gph": 679.7,
@@ -197,6 +198,5 @@
       7.4,
       7.91
     ]
-  },
-  "reference": "03420004QUE"
+  }
 }

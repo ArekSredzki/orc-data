@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10656",
   "country": "ESP",
+  "reference": "03510004C0H",
   "name": "SIWA",
   "rating": {
     "gph": 684.8,
@@ -197,6 +198,5 @@
       7.35,
       8.01
     ]
-  },
-  "reference": "03510004C0H"
+  }
 }

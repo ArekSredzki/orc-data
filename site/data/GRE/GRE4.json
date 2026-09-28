@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE4",
   "country": "GRE",
+  "reference": "03420004K45",
   "name": "TILE 3",
   "rating": {
     "gph": 605.0,
@@ -197,6 +198,5 @@
       8.11,
       8.98
     ]
-  },
-  "reference": "03420004K45"
+  }
 }

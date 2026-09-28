@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BL0321",
   "country": "BRA",
+  "reference": "04420004B2U",
   "name": "ARIES III",
   "rating": {
     "gph": 709.3,
@@ -197,6 +198,5 @@
       7.21,
       7.7
     ]
-  },
-  "reference": "04420004B2U"
+  }
 }

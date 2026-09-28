@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12383",
   "country": "NOR",
+  "reference": "03440004OA4",
   "name": "JYSLA L\u00d8YE",
   "rating": {
     "gph": 530.3,
@@ -197,6 +198,5 @@
       10.02,
       12.59
     ]
-  },
-  "reference": "03440004OA4"
+  }
 }

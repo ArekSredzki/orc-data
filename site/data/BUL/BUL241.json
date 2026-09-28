@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL241",
   "country": "BUL",
+  "reference": "03850004QO3",
   "name": "RAFFICA",
   "rating": {
     "gph": 567.1,
@@ -197,6 +198,5 @@
       8.75,
       9.88
     ]
-  },
-  "reference": "03850004QO3"
+  }
 }

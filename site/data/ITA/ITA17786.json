@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17786",
   "country": "ITA",
+  "reference": "03190004FLC",
   "name": "THE SONG IS YOU",
   "rating": {
     "gph": 623.4,
@@ -197,6 +198,5 @@
       7.81,
       8.5
     ]
-  },
-  "reference": "03190004FLC"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2095",
   "country": "GRE",
+  "reference": "03420004KCQ",
   "name": "IRENE",
   "rating": {
     "gph": 703.0,
@@ -197,6 +198,5 @@
       6.97,
       7.51
     ]
-  },
-  "reference": "03420004KCQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU238",
   "country": "ROU",
+  "reference": "05040004S5L",
   "name": "Cassiopeia",
   "rating": {
     "gph": 683.0,
@@ -197,6 +198,5 @@
       8.02,
       8.78
     ]
-  },
-  "reference": "05040004S5L"
+  }
 }

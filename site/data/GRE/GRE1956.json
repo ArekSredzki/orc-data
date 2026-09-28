@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1956",
   "country": "GRE",
+  "reference": "03420004HT4",
   "name": "AERIKO",
   "rating": {
     "gph": 609.9,
@@ -197,6 +198,5 @@
       7.92,
       8.55
     ]
-  },
-  "reference": "03420004HT4"
+  }
 }

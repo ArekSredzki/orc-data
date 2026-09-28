@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST991",
   "country": "EST",
+  "reference": "04340004UPW",
   "name": "LIBLE",
   "rating": {
     "gph": 759.6,
@@ -197,6 +198,5 @@
       6.73,
       7.34
     ]
-  },
-  "reference": "04340004UPW"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2402",
   "country": "BRA",
+  "reference": "04420004BDT",
   "name": "STERNA",
   "rating": {
     "gph": 633.3,
@@ -197,6 +198,5 @@
       7.98,
       9.23
     ]
-  },
-  "reference": "04420004BDT"
+  }
 }

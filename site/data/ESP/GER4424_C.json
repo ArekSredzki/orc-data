@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GER4424_C",
   "country": "ESP",
+  "reference": "03510004SCI",
   "name": "TINTENFASS",
   "rating": {
     "gph": 584.3,
@@ -197,6 +198,5 @@
       8.74,
       10.88
     ]
-  },
-  "reference": "03510004SCI"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13560",
   "country": "ITA",
+  "reference": "03190004MU8",
   "name": "ULISSE",
   "rating": {
     "gph": 838.5,
@@ -197,6 +198,5 @@
       6.09,
       6.58
     ]
-  },
-  "reference": "03190004MU8"
+  }
 }

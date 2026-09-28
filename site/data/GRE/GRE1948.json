@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1948",
   "country": "GRE",
+  "reference": "03420004VAW",
   "name": "HARA",
   "rating": {
     "gph": 665.2,
@@ -197,6 +198,5 @@
       7.49,
       8.08
     ]
-  },
-  "reference": "03420004VAW"
+  }
 }

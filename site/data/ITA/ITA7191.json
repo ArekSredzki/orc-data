@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA7191",
   "country": "ITA",
+  "reference": "03190004HJR",
   "name": "ROMANA",
   "rating": {
     "gph": 690.9,
@@ -197,6 +198,5 @@
       7.02,
       7.56
     ]
-  },
-  "reference": "03190004HJR"
+  }
 }

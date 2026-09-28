@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/MH2",
   "country": "AUS",
+  "reference": "03020004TNB",
   "name": "Contentious",
   "rating": {
     "gph": 617.4,
@@ -197,6 +198,5 @@
       8.46,
       10.83
     ]
-  },
-  "reference": "03020004TNB"
+  }
 }

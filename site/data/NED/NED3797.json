@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3797",
   "country": "NED",
+  "reference": "04310004JU3",
   "name": "ALDEBARAN V",
   "rating": {
     "gph": 627.3,
@@ -197,6 +198,5 @@
       7.9,
       8.73
     ]
-  },
-  "reference": "04310004JU3"
+  }
 }

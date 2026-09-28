@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18211",
   "country": "ITA",
+  "reference": "03190004R7V",
   "name": "KISMAH",
   "rating": {
     "gph": 551.3,
@@ -197,6 +198,5 @@
       8.55,
       9.62
     ]
-  },
-  "reference": "03190004R7V"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR17157",
   "country": "TUR",
+  "reference": "0459000484Q",
   "name": "FOX L",
   "rating": {
     "gph": 565.4,
@@ -197,6 +198,5 @@
       8.38,
       10.05
     ]
-  },
-  "reference": "0459000484Q"
+  }
 }

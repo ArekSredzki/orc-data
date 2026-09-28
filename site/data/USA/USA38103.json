@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA38103",
   "country": "USA",
+  "reference": "04560004S1R",
   "name": "SMOKE SHOW",
   "rating": {
     "gph": 587.7,
@@ -197,6 +198,5 @@
       8.56,
       10.48
     ]
-  },
-  "reference": "04560004S1R"
+  }
 }

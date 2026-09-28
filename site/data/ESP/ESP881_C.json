@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP881_C",
   "country": "ESP",
+  "reference": "03510004F1O",
   "name": "ROXANNE",
   "rating": {
     "gph": 628.0,
@@ -197,6 +198,5 @@
       7.92,
       10.02
     ]
-  },
-  "reference": "03510004F1O"
+  }
 }

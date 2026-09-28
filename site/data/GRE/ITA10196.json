@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/ITA10196",
   "country": "GRE",
+  "reference": "03420004J20",
   "name": "MWENZI",
   "rating": {
     "gph": 619.7,
@@ -197,6 +198,5 @@
       7.81,
       8.52
     ]
-  },
-  "reference": "03420004J20"
+  }
 }

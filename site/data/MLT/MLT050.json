@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/MLT050",
   "country": "MLT",
+  "reference": "03230004MVQ",
   "name": "Viva Malta",
   "rating": {
     "gph": 453.3,
@@ -197,6 +198,5 @@
       12.8,
       16.45
     ]
-  },
-  "reference": "03230004MVQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49393",
   "country": "GRE",
+  "reference": "03420004I3I",
   "name": "SEMPREVIVA",
   "rating": {
     "gph": 782.4,
@@ -197,6 +198,5 @@
       6.22,
       6.64
     ]
-  },
-  "reference": "03420004I3I"
+  }
 }

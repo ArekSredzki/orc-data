@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2018",
   "country": "TUR",
+  "reference": "04590004N2F",
   "name": "ANYUTA",
   "rating": {
     "gph": 591.9,
@@ -197,6 +198,5 @@
       8.45,
       9.25
     ]
-  },
-  "reference": "04590004N2F"
+  }
 }

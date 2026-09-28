@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10864_C",
   "country": "ESP",
+  "reference": "035100048O9",
   "name": "KORABEL",
   "rating": {
     "gph": 620.9,
@@ -197,6 +198,5 @@
       8.06,
       8.78
     ]
-  },
-  "reference": "035100048O9"
+  }
 }

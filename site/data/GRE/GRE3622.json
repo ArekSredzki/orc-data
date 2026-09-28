@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE3622",
   "country": "GRE",
+  "reference": "03420004UF6",
   "name": "AETHOS",
   "rating": {
     "gph": 581.8,
@@ -197,6 +198,5 @@
       9.03,
       11.66
     ]
-  },
-  "reference": "03420004UF6"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN15476",
   "country": "FIN",
+  "reference": "03290004ROO",
   "name": "Kind of Magic",
   "rating": {
     "gph": 602.2,
@@ -197,6 +198,5 @@
       8.19,
       9.13
     ]
-  },
-  "reference": "03290004ROO"
+  }
 }

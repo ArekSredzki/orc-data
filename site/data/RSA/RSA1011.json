@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1011",
   "country": "RSA",
+  "reference": "046200049OU",
   "name": "Carousel",
   "rating": {
     "gph": 711.6,
@@ -197,6 +198,5 @@
       7.15,
       7.69
     ]
-  },
-  "reference": "046200049OU"
+  }
 }

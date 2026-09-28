@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN499",
   "country": "FIN",
+  "reference": "04140004R1P",
   "name": "Garbo",
   "rating": {
     "gph": 618.0,
@@ -197,6 +198,5 @@
       7.91,
       9.76
     ]
-  },
-  "reference": "04140004R1P"
+  }
 }

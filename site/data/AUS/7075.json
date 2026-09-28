@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/7075",
   "country": "AUS",
+  "reference": "03020004WMR",
   "name": "MARTELA",
   "rating": {
     "gph": 599.3,
@@ -197,6 +198,5 @@
       8.16,
       9.12
     ]
-  },
-  "reference": "03020004WMR"
+  }
 }

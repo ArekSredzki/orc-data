@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN7003",
   "country": "JPN",
+  "reference": "03390004JI1",
   "name": "Qualia RIVIERA",
   "rating": {
     "gph": 502.4,
@@ -197,6 +198,5 @@
       9.6,
       10.46
     ]
-  },
-  "reference": "03390004JI1"
+  }
 }

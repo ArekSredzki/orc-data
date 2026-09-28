@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO13464",
   "country": "CRO",
+  "reference": "03620004QRS",
   "name": "Mareus",
   "rating": {
     "gph": 598.8,
@@ -197,6 +198,5 @@
       8.37,
       9.26
     ]
-  },
-  "reference": "03620004QRS"
+  }
 }

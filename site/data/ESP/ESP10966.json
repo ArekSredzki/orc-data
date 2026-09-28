@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10966",
   "country": "ESP",
+  "reference": "03510004W9U",
   "name": "SARAPIN II",
   "rating": {
     "gph": 717.0,
@@ -197,6 +198,5 @@
       7.01,
       7.67
     ]
-  },
-  "reference": "03510004W9U"
+  }
 }

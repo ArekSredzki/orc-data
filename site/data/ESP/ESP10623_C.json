@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10623_C",
   "country": "ESP",
+  "reference": "03510004C5R",
   "name": "APACHE",
   "rating": {
     "gph": 589.5,
@@ -197,6 +198,5 @@
       8.15,
       8.81
     ]
-  },
-  "reference": "03510004C5R"
+  }
 }

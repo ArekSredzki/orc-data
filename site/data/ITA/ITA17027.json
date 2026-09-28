@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17027",
   "country": "ITA",
+  "reference": "03190004HMT",
   "name": "ALTAIR",
   "rating": {
     "gph": 665.4,
@@ -197,6 +198,5 @@
       7.37,
       7.97
     ]
-  },
-  "reference": "03190004HMT"
+  }
 }

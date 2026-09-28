@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6544",
   "country": "GER",
+  "reference": "04150004IV3",
   "name": "XENIA",
   "rating": {
     "gph": 552.7,
@@ -197,6 +198,5 @@
       8.94,
       9.89
     ]
-  },
-  "reference": "04150004IV3"
+  }
 }

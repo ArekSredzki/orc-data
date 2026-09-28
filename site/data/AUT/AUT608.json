@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT608",
   "country": "AUT",
+  "reference": "03210004PW3",
   "name": "Elena Uno",
   "rating": {
     "gph": 625.8,
@@ -197,6 +198,5 @@
       11.22,
       14.13
     ]
-  },
-  "reference": "03210004PW3"
+  }
 }

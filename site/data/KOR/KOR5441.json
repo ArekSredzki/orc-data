@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR5441",
   "country": "KOR",
+  "reference": "04550004VTK",
   "name": "SAGA",
   "rating": {
     "gph": 577.2,
@@ -197,6 +198,5 @@
       8.35,
       9.04
     ]
-  },
-  "reference": "04550004VTK"
+  }
 }

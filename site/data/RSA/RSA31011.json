@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA31011",
   "country": "RSA",
+  "reference": "04620004AT8",
   "name": "NITRO 31",
   "rating": {
     "gph": 546.8,
@@ -197,6 +198,5 @@
       11.8,
       14.94
     ]
-  },
-  "reference": "04620004AT8"
+  }
 }

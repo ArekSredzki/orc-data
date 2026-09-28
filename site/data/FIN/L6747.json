@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/L6747",
   "country": "FIN",
+  "reference": "04140004PR7",
   "name": "UNIQUE",
   "rating": {
     "gph": 653.3,
@@ -197,6 +198,5 @@
       7.55,
       8.25
     ]
-  },
-  "reference": "04140004PR7"
+  }
 }

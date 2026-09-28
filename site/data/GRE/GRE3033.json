@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE3033",
   "country": "GRE",
+  "reference": "03420004IMO",
   "name": "NEPHELE",
   "rating": {
     "gph": 717.6,
@@ -197,6 +198,5 @@
       6.94,
       7.53
     ]
-  },
-  "reference": "03420004IMO"
+  }
 }

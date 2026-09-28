@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15324",
   "country": "ITA",
+  "reference": "03190004I73",
   "name": "MAI TAI ROA",
   "rating": {
     "gph": 647.9,
@@ -197,6 +198,5 @@
       7.3,
       7.88
     ]
-  },
-  "reference": "03190004I73"
+  }
 }

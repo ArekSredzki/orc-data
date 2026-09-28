@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6052",
   "country": "GER",
+  "reference": "03520004I20",
   "name": "PHOENIX",
   "rating": {
     "gph": 559.1,
@@ -197,6 +198,5 @@
       8.88,
       9.8
     ]
-  },
-  "reference": "03520004I20"
+  }
 }

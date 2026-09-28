@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7120",
   "country": "ESP",
+  "reference": "03510004WCF",
   "name": "BALEA DOUS",
   "rating": {
     "gph": 686.2,
@@ -197,6 +198,5 @@
       7.33,
       7.92
     ]
-  },
-  "reference": "03510004WCF"
+  }
 }

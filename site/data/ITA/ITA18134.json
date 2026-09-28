@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18134",
   "country": "ITA",
+  "reference": "03190004I6Q",
   "name": "C-32",
   "rating": {
     "gph": 585.9,
@@ -197,6 +198,5 @@
       9.84,
       12.54
     ]
-  },
-  "reference": "03190004I6Q"
+  }
 }

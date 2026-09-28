@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10203",
   "country": "NOR",
+  "reference": "03440004L31",
   "name": "Jakobine",
   "rating": {
     "gph": 644.9,
@@ -197,6 +198,5 @@
       8.0,
       10.72
     ]
-  },
-  "reference": "03440004L31"
+  }
 }

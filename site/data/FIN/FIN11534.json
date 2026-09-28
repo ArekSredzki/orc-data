@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11534",
   "country": "FIN",
+  "reference": "04140004O3E",
   "name": "Xilia II",
   "rating": {
     "gph": 638.7,
@@ -197,6 +198,5 @@
       7.87,
       8.6
     ]
-  },
-  "reference": "04140004O3E"
+  }
 }

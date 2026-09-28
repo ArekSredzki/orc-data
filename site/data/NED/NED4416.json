@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4416",
   "country": "NED",
+  "reference": "04310004JUH",
   "name": "Xantho",
   "rating": {
     "gph": 554.2,
@@ -197,6 +198,5 @@
       9.0,
       10.06
     ]
-  },
-  "reference": "04310004JUH"
+  }
 }

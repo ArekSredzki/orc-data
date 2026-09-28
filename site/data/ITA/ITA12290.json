@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12290",
   "country": "ITA",
+  "reference": "03190004R40",
   "name": "GALATEA",
   "rating": {
     "gph": 599.2,
@@ -197,6 +198,5 @@
       7.78,
       8.35
     ]
-  },
-  "reference": "03190004R40"
+  }
 }

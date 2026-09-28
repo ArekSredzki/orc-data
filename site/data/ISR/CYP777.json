@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/CYP777",
   "country": "ISR",
+  "reference": "0439000484E",
   "name": "Queen Emily",
   "rating": {
     "gph": 714.8,
@@ -197,6 +198,5 @@
       7.38,
       8.18
     ]
-  },
-  "reference": "0439000484E"
+  }
 }

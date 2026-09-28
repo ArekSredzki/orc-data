@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/4037",
   "country": "AUS",
+  "reference": "03020004T4K",
   "name": "Touche42",
   "rating": {
     "gph": 496.9,
@@ -197,6 +198,5 @@
       11.53,
       14.91
     ]
-  },
-  "reference": "03020004T4K"
+  }
 }

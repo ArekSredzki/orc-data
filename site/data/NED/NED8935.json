@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8935",
   "country": "NED",
+  "reference": "04310004PLA",
   "name": "Moana",
   "rating": {
     "gph": 577.9,
@@ -197,6 +198,5 @@
       8.18,
       9.52
     ]
-  },
-  "reference": "04310004PLA"
+  }
 }

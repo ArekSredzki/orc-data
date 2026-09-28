@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA84",
   "country": "USA",
+  "reference": "04560004R8N",
   "name": "LUCKY DUBIE",
   "rating": {
     "gph": 568.6,
@@ -197,6 +198,5 @@
       8.31,
       9.95
     ]
-  },
-  "reference": "04560004R8N"
+  }
 }

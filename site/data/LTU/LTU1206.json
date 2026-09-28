@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU1206",
   "country": "LTU",
+  "reference": "03590004UW2",
   "name": "BARTA",
   "rating": {
     "gph": 641.1,
@@ -197,6 +198,5 @@
       9.02,
       12.19
     ]
-  },
-  "reference": "03590004UW2"
+  }
 }

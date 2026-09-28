@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITASTRG325",
   "country": "ITA",
+  "reference": "03190004PLI",
   "name": "STREGA3",
   "rating": {
     "gph": 702.7,
@@ -197,6 +198,5 @@
       7.27,
       7.82
     ]
-  },
-  "reference": "03190004PLI"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8216",
   "country": "GER",
+  "reference": "03520004I2P",
   "name": "NYNJAGO",
   "rating": {
     "gph": 676.1,
@@ -197,6 +198,5 @@
       7.47,
       8.1
     ]
-  },
-  "reference": "03520004I2P"
+  }
 }

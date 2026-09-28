@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18049",
   "country": "ITA",
+  "reference": "03190004LP1",
   "name": "PADMA",
   "rating": {
     "gph": 581.9,
@@ -197,6 +198,5 @@
       8.37,
       10.0
     ]
-  },
-  "reference": "03190004LP1"
+  }
 }

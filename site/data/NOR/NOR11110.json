@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11110",
   "country": "NOR",
+  "reference": "03440004PBK",
   "name": "Lupona",
   "rating": {
     "gph": 686.0,
@@ -197,6 +198,5 @@
       7.4,
       8.1
     ]
-  },
-  "reference": "03440004PBK"
+  }
 }

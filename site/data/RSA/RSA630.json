@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA630",
   "country": "RSA",
+  "reference": "04620004AU1",
   "name": "JACKAL",
   "rating": {
     "gph": 614.3,
@@ -197,6 +198,5 @@
       8.12,
       8.96
     ]
-  },
-  "reference": "04620004AU1"
+  }
 }

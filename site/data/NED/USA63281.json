@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/USA63281",
   "country": "NED",
+  "reference": "04310004UMC",
   "name": "Double J",
   "rating": {
     "gph": 656.9,
@@ -197,6 +198,5 @@
       7.38,
       8.14
     ]
-  },
-  "reference": "04310004UMC"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6182",
   "country": "NED",
+  "reference": "04310004KC6",
   "name": "Havoc",
   "rating": {
     "gph": 656.4,
@@ -197,6 +198,5 @@
       7.85,
       10.26
     ]
-  },
-  "reference": "04310004KC6"
+  }
 }

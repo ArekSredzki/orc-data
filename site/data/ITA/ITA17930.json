@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17930",
   "country": "ITA",
+  "reference": "03190004N6N",
   "name": "ISERA",
   "rating": {
     "gph": 572.8,
@@ -197,6 +198,5 @@
       8.96,
       11.72
     ]
-  },
-  "reference": "03190004N6N"
+  }
 }

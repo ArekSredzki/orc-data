@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1521",
   "country": "GRE",
+  "reference": "03420004W10",
   "name": "ATLAS",
   "rating": {
     "gph": 606.8,
@@ -197,6 +198,5 @@
       7.94,
       8.62
     ]
-  },
-  "reference": "03420004W10"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA36600",
   "country": "USA",
+  "reference": "04560004RE6",
   "name": "ARIA",
   "rating": {
     "gph": 573.6,
@@ -197,6 +198,5 @@
       9.44,
       13.04
     ]
-  },
-  "reference": "04560004RE6"
+  }
 }

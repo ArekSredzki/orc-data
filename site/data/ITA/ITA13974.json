@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13974",
   "country": "ITA",
+  "reference": "03190004LOP",
   "name": "BIX",
   "rating": {
     "gph": 644.1,
@@ -197,6 +198,5 @@
       7.75,
       8.53
     ]
-  },
-  "reference": "03190004LOP"
+  }
 }

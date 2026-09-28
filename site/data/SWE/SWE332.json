@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE332",
   "country": "SWE",
+  "reference": "03200004SOC",
   "name": "Mrs Freckles",
   "rating": {
     "gph": 601.3,
@@ -197,6 +198,5 @@
       7.83,
       10.01
     ]
-  },
-  "reference": "03200004SOC"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "SLO/SLO9194",
   "country": "SLO",
+  "reference": "03090004WCU",
   "name": "Elaya",
   "rating": {
     "gph": 585.0,
@@ -197,6 +198,5 @@
       8.19,
       9.02
     ]
-  },
-  "reference": "03090004WCU"
+  }
 }

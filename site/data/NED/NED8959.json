@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8959",
   "country": "NED",
+  "reference": "04310004K25",
   "name": "Gamble",
   "rating": {
     "gph": 650.6,
@@ -197,6 +198,5 @@
       7.86,
       8.53
     ]
-  },
-  "reference": "04310004K25"
+  }
 }

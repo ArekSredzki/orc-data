@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI4007_O",
   "country": "SUI",
+  "reference": "03080004CAI",
   "name": "BELANA_O",
   "rating": {
     "gph": 602.4,
@@ -197,6 +198,5 @@
       7.85,
       8.5
     ]
-  },
-  "reference": "03080004CAI"
+  }
 }

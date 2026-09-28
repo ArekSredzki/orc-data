@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA295FUN",
   "country": "ITA",
+  "reference": "03190004B5P",
   "name": "FUNMIAO",
   "rating": {
     "gph": 723.5,
@@ -197,6 +198,5 @@
       7.11,
       9.6
     ]
-  },
-  "reference": "03190004B5P"
+  }
 }

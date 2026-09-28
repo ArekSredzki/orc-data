@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT770",
   "country": "LAT",
+  "reference": "04960004UPS",
   "name": "Nemo R",
   "rating": {
     "gph": 602.0,
@@ -197,6 +198,5 @@
       10.52,
       13.68
     ]
-  },
-  "reference": "04960004UPS"
+  }
 }

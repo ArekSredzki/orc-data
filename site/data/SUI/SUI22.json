@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI22",
   "country": "SUI",
+  "reference": "030800048NI",
   "name": "SVENTO",
   "rating": {
     "gph": 620.7,
@@ -197,6 +198,5 @@
       10.32,
       13.38
     ]
-  },
-  "reference": "030800048NI"
+  }
 }

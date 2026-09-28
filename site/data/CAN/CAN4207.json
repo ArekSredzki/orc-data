@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN4207",
   "country": "CAN",
+  "reference": "03430004I8W",
   "name": "Firewater",
   "rating": {
     "gph": 658.5,
@@ -197,6 +198,5 @@
       7.48,
       8.12
     ]
-  },
-  "reference": "03430004I8W"
+  }
 }

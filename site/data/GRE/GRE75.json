@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE75",
   "country": "GRE",
+  "reference": "03420004IOB",
   "name": "EST EMAR",
   "rating": {
     "gph": 604.8,
@@ -197,6 +198,5 @@
       8.29,
       9.55
     ]
-  },
-  "reference": "03420004IOB"
+  }
 }

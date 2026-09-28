@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA48005",
   "country": "USA",
+  "reference": "04560004WL0",
   "name": "Bodacious+",
   "rating": {
     "gph": 512.5,
@@ -197,6 +198,5 @@
       9.82,
       11.83
     ]
-  },
-  "reference": "04560004WL0"
+  }
 }

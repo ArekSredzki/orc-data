@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN63",
   "country": "HUN",
+  "reference": "04890004VLO",
   "name": "Alboran SS II",
   "rating": {
     "gph": 667.9,
@@ -197,6 +198,5 @@
       8.02,
       8.72
     ]
-  },
-  "reference": "04890004VLO"
+  }
 }

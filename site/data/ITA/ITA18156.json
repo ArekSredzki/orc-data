@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18156",
   "country": "ITA",
+  "reference": "03190004TSJ",
   "name": "WE TRY",
   "rating": {
     "gph": 584.8,
@@ -197,6 +198,5 @@
       8.18,
       9.64
     ]
-  },
-  "reference": "03190004TSJ"
+  }
 }

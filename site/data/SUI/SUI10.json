@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI10",
   "country": "SUI",
+  "reference": "03080004H88",
   "name": "SCACCIAPENSIERI",
   "rating": {
     "gph": 775.5,
@@ -197,6 +198,5 @@
       6.57,
       7.23
     ]
-  },
-  "reference": "03080004H88"
+  }
 }

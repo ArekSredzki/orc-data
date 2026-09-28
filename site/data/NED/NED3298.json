@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3298",
   "country": "NED",
+  "reference": "04310004JTR",
   "name": "Beyond Therapy",
   "rating": {
     "gph": 649.9,
@@ -197,6 +198,5 @@
       7.67,
       8.53
     ]
-  },
-  "reference": "04310004JTR"
+  }
 }

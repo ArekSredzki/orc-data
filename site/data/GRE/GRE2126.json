@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2126",
   "country": "GRE",
+  "reference": "03420004K3B",
   "name": "LEWA",
   "rating": {
     "gph": 760.0,
@@ -197,6 +198,5 @@
       6.84,
       7.39
     ]
-  },
-  "reference": "03420004K3B"
+  }
 }

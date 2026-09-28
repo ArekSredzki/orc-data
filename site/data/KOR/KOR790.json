@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR790",
   "country": "KOR",
+  "reference": "04550004AVU",
   "name": "APROMAN",
   "rating": {
     "gph": 600.9,
@@ -197,6 +198,5 @@
       8.13,
       9.31
     ]
-  },
-  "reference": "04550004AVU"
+  }
 }

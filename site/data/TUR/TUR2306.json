@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2306",
   "country": "TUR",
+  "reference": "04590004BTE",
   "name": "C FOR SEA",
   "rating": {
     "gph": 594.2,
@@ -197,6 +198,5 @@
       8.07,
       10.3
     ]
-  },
-  "reference": "04590004BTE"
+  }
 }

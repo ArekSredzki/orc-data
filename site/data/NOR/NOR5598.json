@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR5598",
   "country": "NOR",
+  "reference": "03440004MPH",
   "name": "ocean girl",
   "rating": {
     "gph": 729.2,
@@ -197,6 +198,5 @@
       6.89,
       7.45
     ]
-  },
-  "reference": "03440004MPH"
+  }
 }

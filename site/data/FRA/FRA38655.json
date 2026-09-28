@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA38655",
   "country": "FRA",
+  "reference": "04330004ENT",
   "name": "YOLO",
   "rating": {
     "gph": 656.6,
@@ -197,6 +198,5 @@
       7.8,
       8.44
     ]
-  },
-  "reference": "04330004ENT"
+  }
 }

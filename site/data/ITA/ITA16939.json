@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16939",
   "country": "ITA",
+  "reference": "03190004PEA",
   "name": "SAGOLA",
   "rating": {
     "gph": 592.5,
@@ -197,6 +198,5 @@
       8.5,
       9.41
     ]
-  },
-  "reference": "03190004PEA"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1944",
   "country": "TUR",
+  "reference": "045900048L7",
   "name": "FARRAWAY",
   "rating": {
     "gph": 523.1,
@@ -197,6 +198,5 @@
       10.53,
       13.54
     ]
-  },
-  "reference": "045900048L7"
+  }
 }

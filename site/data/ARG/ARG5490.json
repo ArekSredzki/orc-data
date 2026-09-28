@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5490",
   "country": "ARG",
+  "reference": "03880004IFE",
   "name": "KAIZEN",
   "rating": {
     "gph": 646.2,
@@ -197,6 +198,5 @@
       7.78,
       8.7
     ]
-  },
-  "reference": "03880004IFE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3502_S",
   "country": "ESP",
+  "reference": "03510004BD4",
   "name": "BLUSAIL24 SPI  RCNP",
   "rating": {
     "gph": 689.1,
@@ -197,6 +198,5 @@
       7.47,
       9.26
     ]
-  },
-  "reference": "03510004BD4"
+  }
 }

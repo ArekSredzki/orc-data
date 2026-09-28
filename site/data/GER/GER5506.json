@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5506",
   "country": "GER",
+  "reference": "04150004MON",
   "name": "CARO",
   "rating": {
     "gph": 504.5,
@@ -197,6 +198,5 @@
       9.78,
       11.95
     ]
-  },
-  "reference": "04150004MON"
+  }
 }

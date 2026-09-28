@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN3587",
   "country": "FIN",
+  "reference": "04140004QL9",
   "name": "Lova",
   "rating": {
     "gph": 686.9,
@@ -197,6 +198,5 @@
       7.31,
       7.95
     ]
-  },
-  "reference": "04140004QL9"
+  }
 }

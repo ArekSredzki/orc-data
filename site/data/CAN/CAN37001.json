@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN37001",
   "country": "CAN",
+  "reference": "03430004HPQ",
   "name": "Anemos",
   "rating": {
     "gph": 563.9,
@@ -197,6 +198,5 @@
       9.5,
       12.02
     ]
-  },
-  "reference": "03430004HPQ"
+  }
 }

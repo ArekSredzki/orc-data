@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52599",
   "country": "USA",
+  "reference": "04560004S6F",
   "name": "Wahoo",
   "rating": {
     "gph": 480.1,
@@ -197,6 +198,5 @@
       10.62,
       13.19
     ]
-  },
-  "reference": "04560004S6F"
+  }
 }

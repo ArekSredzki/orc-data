@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3436_C",
   "country": "ESP",
+  "reference": "03510004M43",
   "name": "KALATHOS",
   "rating": {
     "gph": 729.4,
@@ -197,6 +198,5 @@
       6.88,
       7.43
     ]
-  },
-  "reference": "03510004M43"
+  }
 }

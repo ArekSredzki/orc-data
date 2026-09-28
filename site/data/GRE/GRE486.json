@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE486",
   "country": "GRE",
+  "reference": "03420004LF3",
   "name": "ADRASTEIA",
   "rating": {
     "gph": 679.4,
@@ -197,6 +198,5 @@
       7.34,
       8.03
     ]
-  },
-  "reference": "03420004LF3"
+  }
 }

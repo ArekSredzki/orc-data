@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAKAUNI",
   "country": "ITA",
+  "reference": "03190004C1W",
   "name": "KAUNIS",
   "rating": {
     "gph": 720.6,
@@ -197,6 +198,5 @@
       6.59,
       7.3
     ]
-  },
-  "reference": "03190004C1W"
+  }
 }

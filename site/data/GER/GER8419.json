@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8419",
   "country": "GER",
+  "reference": "03520004T8Q",
   "name": "X-DAY",
   "rating": {
     "gph": 484.1,
@@ -197,6 +198,5 @@
       12.77,
       16.06
     ]
-  },
-  "reference": "03520004T8Q"
+  }
 }

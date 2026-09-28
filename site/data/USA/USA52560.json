@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52560",
   "country": "USA",
+  "reference": "04560004U2D",
   "name": "DAMN YANKEE",
   "rating": {
     "gph": 450.3,
@@ -197,6 +198,5 @@
       11.52,
       14.16
     ]
-  },
-  "reference": "04560004U2D"
+  }
 }

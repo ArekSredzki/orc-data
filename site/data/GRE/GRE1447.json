@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1447",
   "country": "GRE",
+  "reference": "03420004LEV",
   "name": "LOVA",
   "rating": {
     "gph": 723.8,
@@ -197,6 +198,5 @@
       7.01,
       7.53
     ]
-  },
-  "reference": "03420004LEV"
+  }
 }

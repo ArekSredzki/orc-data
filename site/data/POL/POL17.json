@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL17",
   "country": "POL",
+  "reference": "04410004TRR",
   "name": "ASPIRE",
   "rating": {
     "gph": 548.3,
@@ -197,6 +198,5 @@
       11.83,
       14.96
     ]
-  },
-  "reference": "04410004TRR"
+  }
 }

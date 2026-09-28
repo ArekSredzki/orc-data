@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8119_C",
   "country": "ESP",
+  "reference": "03510004RL3",
   "name": "CRISTINA VII",
   "rating": {
     "gph": 560.6,
@@ -197,6 +198,5 @@
       8.79,
       9.58
     ]
-  },
-  "reference": "03510004RL3"
+  }
 }

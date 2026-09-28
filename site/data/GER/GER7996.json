@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7996",
   "country": "GER",
+  "reference": "03520004I2K",
   "name": "HUNKY DORY",
   "rating": {
     "gph": 583.1,
@@ -197,6 +198,5 @@
       8.38,
       10.09
     ]
-  },
-  "reference": "03520004I2K"
+  }
 }

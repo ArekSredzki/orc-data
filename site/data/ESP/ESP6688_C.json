@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6688_C",
   "country": "ESP",
+  "reference": "03510004F6U",
   "name": "MAQUIAVELO",
   "rating": {
     "gph": 636.2,
@@ -197,6 +198,5 @@
       7.66,
       8.28
     ]
-  },
-  "reference": "03510004F6U"
+  }
 }

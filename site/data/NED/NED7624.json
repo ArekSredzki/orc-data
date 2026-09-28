@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7624",
   "country": "NED",
+  "reference": "04310004JWU",
   "name": "Jaffa",
   "rating": {
     "gph": 651.7,
@@ -197,6 +198,5 @@
       7.71,
       8.83
     ]
-  },
-  "reference": "04310004JWU"
+  }
 }

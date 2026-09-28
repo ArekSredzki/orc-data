@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/CZE0925",
   "country": "GRE",
+  "reference": "03420004U68",
   "name": "BE CALM",
   "rating": {
     "gph": 572.3,
@@ -197,6 +198,5 @@
       8.97,
       11.51
     ]
-  },
-  "reference": "03420004U68"
+  }
 }

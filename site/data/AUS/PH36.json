@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/PH36",
   "country": "AUS",
+  "reference": "03020004VLA",
   "name": "JAZZ BAR",
   "rating": {
     "gph": 615.3,
@@ -197,6 +198,5 @@
       8.64,
       10.97
     ]
-  },
-  "reference": "03020004VLA"
+  }
 }

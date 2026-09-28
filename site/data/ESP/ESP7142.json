@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7142",
   "country": "ESP",
+  "reference": "03510004KU9",
   "name": "LIR",
   "rating": {
     "gph": 689.8,
@@ -197,6 +198,5 @@
       7.52,
       8.45
     ]
-  },
-  "reference": "03510004KU9"
+  }
 }

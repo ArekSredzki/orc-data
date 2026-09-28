@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14570",
   "country": "NOR",
+  "reference": "03440004NK7",
   "name": "Marialene",
   "rating": {
     "gph": 602.2,
@@ -197,6 +198,5 @@
       8.02,
       9.75
     ]
-  },
-  "reference": "03440004NK7"
+  }
 }

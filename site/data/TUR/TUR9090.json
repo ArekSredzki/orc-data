@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR9090",
   "country": "TUR",
+  "reference": "04590004MVS",
   "name": "OMANI",
   "rating": {
     "gph": 598.4,
@@ -197,6 +198,5 @@
       8.16,
       8.87
     ]
-  },
-  "reference": "04590004MVS"
+  }
 }

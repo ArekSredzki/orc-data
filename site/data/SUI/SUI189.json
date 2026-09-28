@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI189",
   "country": "SUI",
+  "reference": "03080004K3L",
   "name": "SPEEDY GONZALEZ",
   "rating": {
     "gph": 686.8,
@@ -197,6 +198,5 @@
       9.96,
       13.04
     ]
-  },
-  "reference": "03080004K3L"
+  }
 }

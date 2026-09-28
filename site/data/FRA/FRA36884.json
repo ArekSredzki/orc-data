@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA36884",
   "country": "FRA",
+  "reference": "04330004J5F",
   "name": "EXPRESSO",
   "rating": {
     "gph": 626.2,
@@ -197,6 +198,5 @@
       8.14,
       9.28
     ]
-  },
-  "reference": "04330004J5F"
+  }
 }

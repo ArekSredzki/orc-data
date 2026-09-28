@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/DEN9",
   "country": "LTU",
+  "reference": "03590004V0O",
   "name": "XENIA",
   "rating": {
     "gph": 693.4,
@@ -197,6 +198,5 @@
       7.25,
       8.61
     ]
-  },
-  "reference": "03590004V0O"
+  }
 }

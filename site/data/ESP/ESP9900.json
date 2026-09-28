@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9900",
   "country": "ESP",
+  "reference": "03510004VKK",
   "name": "XUFIN",
   "rating": {
     "gph": 643.5,
@@ -197,6 +198,5 @@
       7.84,
       8.95
     ]
-  },
-  "reference": "03510004VKK"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1245",
   "country": "RSA",
+  "reference": "04620004ATA",
   "name": "Pallucci",
   "rating": {
     "gph": 622.2,
@@ -197,6 +198,5 @@
       8.2,
       9.17
     ]
-  },
-  "reference": "04620004ATA"
+  }
 }

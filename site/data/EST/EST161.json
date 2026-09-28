@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST161",
   "country": "EST",
+  "reference": "04340004UU1",
   "name": "NORA",
   "rating": {
     "gph": 700.4,
@@ -197,6 +198,5 @@
       6.98,
       7.61
     ]
-  },
-  "reference": "04340004UU1"
+  }
 }

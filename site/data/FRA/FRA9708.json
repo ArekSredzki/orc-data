@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9708",
   "country": "FRA",
+  "reference": "04330004PEP",
   "name": "CANHABAQUE",
   "rating": {
     "gph": 534.3,
@@ -197,6 +198,5 @@
       10.43,
       13.14
     ]
-  },
-  "reference": "04330004PEP"
+  }
 }

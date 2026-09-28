@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1886",
   "country": "GRE",
+  "reference": "03420004HT1",
   "name": "MIMOSA",
   "rating": {
     "gph": 627.3,
@@ -197,6 +198,5 @@
       7.61,
       8.27
     ]
-  },
-  "reference": "03420004HT1"
+  }
 }

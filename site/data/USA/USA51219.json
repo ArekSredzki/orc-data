@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51219",
   "country": "USA",
+  "reference": "04560004SBD",
   "name": "RHUMB RUNNER",
   "rating": {
     "gph": 584.9,
@@ -197,6 +198,5 @@
       8.27,
       9.05
     ]
-  },
-  "reference": "04560004SBD"
+  }
 }

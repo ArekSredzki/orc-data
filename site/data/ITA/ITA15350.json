@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15350",
   "country": "ITA",
+  "reference": "03190004VD4",
   "name": "WILD DOG",
   "rating": {
     "gph": 605.2,
@@ -197,6 +198,5 @@
       8.18,
       9.16
     ]
-  },
-  "reference": "03190004VD4"
+  }
 }

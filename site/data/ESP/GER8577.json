@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GER8577",
   "country": "ESP",
+  "reference": "03510004ULA",
   "name": "GRATIA",
   "rating": {
     "gph": 511.2,
@@ -197,6 +198,5 @@
       9.86,
       11.68
     ]
-  },
-  "reference": "03510004ULA"
+  }
 }

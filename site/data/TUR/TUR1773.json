@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1773",
   "country": "TUR",
+  "reference": "04590004IMB",
   "name": "DHO ARMA",
   "rating": {
     "gph": 598.7,
@@ -197,6 +198,5 @@
       8.23,
       8.98
     ]
-  },
-  "reference": "04590004IMB"
+  }
 }

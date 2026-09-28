@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS115",
   "country": "AUS",
+  "reference": "03020004WHF",
   "name": "AZZURRO",
   "rating": {
     "gph": 613.6,
@@ -197,6 +198,5 @@
       8.21,
       9.79
     ]
-  },
-  "reference": "03020004WHF"
+  }
 }

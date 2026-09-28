@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA50659",
   "country": "USA",
+  "reference": "04560004TPT",
   "name": "MAZAL TOV",
   "rating": {
     "gph": 573.4,
@@ -197,6 +198,5 @@
       8.33,
       10.02
     ]
-  },
-  "reference": "04560004TPT"
+  }
 }

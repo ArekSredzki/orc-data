@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18193",
   "country": "ITA",
+  "reference": "03190004MAA",
   "name": "MELIGUNIS",
   "rating": {
     "gph": 462.5,
@@ -197,6 +198,5 @@
       10.45,
       12.0
     ]
-  },
-  "reference": "03190004MAA"
+  }
 }

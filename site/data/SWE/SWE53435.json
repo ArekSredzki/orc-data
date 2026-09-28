@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE53435",
   "country": "SWE",
+  "reference": "03200004S9K",
   "name": "Blur",
   "rating": {
     "gph": 608.7,
@@ -197,6 +198,5 @@
       8.13,
       9.41
     ]
-  },
-  "reference": "03200004S9K"
+  }
 }

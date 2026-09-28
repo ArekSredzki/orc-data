@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1937",
   "country": "GRE",
+  "reference": "03420004IOM",
   "name": "MARIE GALANTE",
   "rating": {
     "gph": 670.3,
@@ -197,6 +198,5 @@
       7.54,
       8.2
     ]
-  },
-  "reference": "03420004IOM"
+  }
 }

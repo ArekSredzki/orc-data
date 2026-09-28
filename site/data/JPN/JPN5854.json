@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN5854",
   "country": "JPN",
+  "reference": "03390004JHR",
   "name": "HAYATE",
   "rating": {
     "gph": 619.9,
@@ -197,6 +198,5 @@
       7.87,
       8.92
     ]
-  },
-  "reference": "03390004JHR"
+  }
 }

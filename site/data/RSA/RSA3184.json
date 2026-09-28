@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3184",
   "country": "RSA",
+  "reference": "04620004ATR",
   "name": "Triton",
   "rating": {
     "gph": 649.9,
@@ -197,6 +198,5 @@
       9.3,
       12.4
     ]
-  },
-  "reference": "04620004ATR"
+  }
 }

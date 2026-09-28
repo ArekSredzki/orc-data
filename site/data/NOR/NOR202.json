@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR202",
   "country": "NOR",
+  "reference": "03440004RQK",
   "name": "Vortex",
   "rating": {
     "gph": 603.3,
@@ -197,6 +198,5 @@
       8.22,
       9.29
     ]
-  },
-  "reference": "03440004RQK"
+  }
 }

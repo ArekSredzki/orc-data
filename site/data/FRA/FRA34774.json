@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA34774",
   "country": "FRA",
+  "reference": "04330004CCT",
   "name": "TEO4",
   "rating": {
     "gph": 673.7,
@@ -197,6 +198,5 @@
       7.6,
       10.2
     ]
-  },
-  "reference": "04330004CCT"
+  }
 }

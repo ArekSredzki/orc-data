@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5588",
   "country": "GER",
+  "reference": "03520004VEQ",
   "name": "DESNA",
   "rating": {
     "gph": 499.4,
@@ -197,6 +198,5 @@
       10.71,
       13.32
     ]
-  },
-  "reference": "03520004VEQ"
+  }
 }

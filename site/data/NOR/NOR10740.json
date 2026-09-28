@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10740",
   "country": "NOR",
+  "reference": "03440004L3V",
   "name": "Kuling",
   "rating": {
     "gph": 608.3,
@@ -197,6 +198,5 @@
       8.02,
       8.68
     ]
-  },
-  "reference": "03440004L3V"
+  }
 }

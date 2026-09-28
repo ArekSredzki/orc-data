@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9926",
   "country": "FRA",
+  "reference": "04330004WOI",
   "name": "MANURAU",
   "rating": {
     "gph": 628.8,
@@ -197,6 +198,5 @@
       7.89,
       8.51
     ]
-  },
-  "reference": "04330004WOI"
+  }
 }

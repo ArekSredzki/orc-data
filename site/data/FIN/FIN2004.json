@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN2004",
   "country": "FIN",
+  "reference": "04140004JFP",
   "name": "Milou",
   "rating": {
     "gph": 754.8,
@@ -197,6 +198,5 @@
       7.03,
       7.91
     ]
-  },
-  "reference": "04140004JFP"
+  }
 }

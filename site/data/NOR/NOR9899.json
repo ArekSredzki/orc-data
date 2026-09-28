@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9899",
   "country": "NOR",
+  "reference": "03440004PM4",
   "name": "Dr\u00f8m",
   "rating": {
     "gph": 644.8,
@@ -197,6 +198,5 @@
       7.72,
       8.45
     ]
-  },
-  "reference": "03440004PM4"
+  }
 }

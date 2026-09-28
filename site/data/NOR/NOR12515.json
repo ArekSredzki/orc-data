@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12515",
   "country": "NOR",
+  "reference": "03440004PS9",
   "name": "Avalon",
   "rating": {
     "gph": 574.2,
@@ -197,6 +198,5 @@
       8.67,
       9.58
     ]
-  },
-  "reference": "03440004PS9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16504",
   "country": "ITA",
+  "reference": "03190004K5S",
   "name": "TATTOO",
   "rating": {
     "gph": 641.6,
@@ -197,6 +198,5 @@
       7.62,
       8.21
     ]
-  },
-  "reference": "03190004K5S"
+  }
 }

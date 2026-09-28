@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/GBR7735R",
   "country": "NED",
+  "reference": "04310004PL7",
   "name": "Downbeat",
   "rating": {
     "gph": 608.5,
@@ -197,6 +198,5 @@
       8.2,
       9.2
     ]
-  },
-  "reference": "04310004PL7"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN6053",
   "country": "FIN",
+  "reference": "04140004MK9",
   "name": "Marinetta",
   "rating": {
     "gph": 691.0,
@@ -197,6 +198,5 @@
       7.26,
       7.95
     ]
-  },
-  "reference": "04140004MK9"
+  }
 }

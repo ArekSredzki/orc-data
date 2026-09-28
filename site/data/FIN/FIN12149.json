@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12149",
   "country": "FIN",
+  "reference": "03290004Q4T",
   "name": "Black Pearl",
   "rating": {
     "gph": 634.2,
@@ -197,6 +198,5 @@
       7.86,
       8.96
     ]
-  },
-  "reference": "03290004Q4T"
+  }
 }

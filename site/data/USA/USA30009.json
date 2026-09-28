@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA30009",
   "country": "USA",
+  "reference": "04560004V8W",
   "name": "NARWHAL",
   "rating": {
     "gph": 569.7,
@@ -197,6 +198,5 @@
       10.91,
       14.12
     ]
-  },
-  "reference": "04560004V8W"
+  }
 }

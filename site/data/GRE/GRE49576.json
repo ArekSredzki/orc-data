@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49576",
   "country": "GRE",
+  "reference": "03420004K4Q",
   "name": "ONAR",
   "rating": {
     "gph": 685.8,
@@ -197,6 +198,5 @@
       7.33,
       7.96
     ]
-  },
-  "reference": "03420004K4Q"
+  }
 }

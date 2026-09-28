@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17595",
   "country": "ITA",
+  "reference": "03190004PP1",
   "name": "STILL POINT",
   "rating": {
     "gph": 620.1,
@@ -197,6 +198,5 @@
       10.04,
       13.24
     ]
-  },
-  "reference": "03190004PP1"
+  }
 }

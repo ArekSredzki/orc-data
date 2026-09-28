@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5443_C",
   "country": "ESP",
+  "reference": "03510004W4I",
   "name": "ISLA SIRENA II",
   "rating": {
     "gph": 634.8,
@@ -197,6 +198,5 @@
       7.5,
       8.0
     ]
-  },
-  "reference": "03510004W4I"
+  }
 }

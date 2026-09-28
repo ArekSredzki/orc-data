@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15283",
   "country": "NOR",
+  "reference": "03440004L35",
   "name": "Foxy Lady",
   "rating": {
     "gph": 552.3,
@@ -197,6 +198,5 @@
       8.58,
       9.77
     ]
-  },
-  "reference": "03440004L35"
+  }
 }

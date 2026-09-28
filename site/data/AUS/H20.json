@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/H20",
   "country": "AUS",
+  "reference": "03020004VL6",
   "name": "Minna",
   "rating": {
     "gph": 662.7,
@@ -197,6 +198,5 @@
       7.79,
       8.34
     ]
-  },
-  "reference": "03020004VL6"
+  }
 }

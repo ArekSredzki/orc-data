@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA40054",
   "country": "USA",
+  "reference": "04560004TCS",
   "name": "BAD DOG",
   "rating": {
     "gph": 603.5,
@@ -197,6 +198,5 @@
       7.93,
       8.79
     ]
-  },
-  "reference": "04560004TCS"
+  }
 }

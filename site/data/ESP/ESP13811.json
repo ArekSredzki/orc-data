@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP13811",
   "country": "ESP",
+  "reference": "03510004HC4",
   "name": "GOMEZ MOSTLY HARMLESS",
   "rating": {
     "gph": 594.7,
@@ -197,6 +198,5 @@
       8.31,
       9.12
     ]
-  },
-  "reference": "03510004HC4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2282",
   "country": "BRA",
+  "reference": "04420004H8S",
   "name": "AVENTUREIRO 2",
   "rating": {
     "gph": 663.8,
@@ -197,6 +198,5 @@
       7.48,
       8.17
     ]
-  },
-  "reference": "04420004H8S"
+  }
 }

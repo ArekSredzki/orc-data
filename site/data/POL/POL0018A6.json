@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL0018A6",
   "country": "POL",
+  "reference": "04410004TUM",
   "name": "ROXI",
   "rating": {
     "gph": 688.1,
@@ -197,6 +198,5 @@
       7.32,
       8.05
     ]
-  },
-  "reference": "04410004TUM"
+  }
 }

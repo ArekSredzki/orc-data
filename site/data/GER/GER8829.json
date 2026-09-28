@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8829",
   "country": "GER",
+  "reference": "03520004QJS",
   "name": "PITTER MANELL",
   "rating": {
     "gph": 633.9,
@@ -197,6 +198,5 @@
       10.67,
       13.52
     ]
-  },
-  "reference": "03520004QJS"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18035",
   "country": "ITA",
+  "reference": "03190004VU7",
   "name": "OUR DREAM",
   "rating": {
     "gph": 584.5,
@@ -197,6 +198,5 @@
       8.58,
       9.32
     ]
-  },
-  "reference": "03190004VU7"
+  }
 }

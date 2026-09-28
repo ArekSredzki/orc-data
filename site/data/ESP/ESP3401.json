@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3401",
   "country": "ESP",
+  "reference": "03510004VTI",
   "name": "ALITAN 4",
   "rating": {
     "gph": 561.2,
@@ -197,6 +198,5 @@
       8.81,
       10.45
     ]
-  },
-  "reference": "03510004VTI"
+  }
 }

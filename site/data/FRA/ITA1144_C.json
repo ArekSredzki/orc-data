@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/ITA1144_C",
   "country": "FRA",
+  "reference": "04330004RUK",
   "name": "VALENTINA",
   "rating": {
     "gph": 656.9,
@@ -197,6 +198,5 @@
       8.67,
       11.89
     ]
-  },
-  "reference": "04330004RUK"
+  }
 }

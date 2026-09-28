@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA93442",
   "country": "USA",
+  "reference": "04560004OJN",
   "name": "ReJoyce",
   "rating": {
     "gph": 604.7,
@@ -197,6 +198,5 @@
       7.88,
       8.78
     ]
-  },
-  "reference": "04560004OJN"
+  }
 }

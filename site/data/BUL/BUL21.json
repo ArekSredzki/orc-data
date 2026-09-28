@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL21",
   "country": "BUL",
+  "reference": "03850004VNF",
   "name": "Nord Burgas",
   "rating": {
     "gph": 750.7,
@@ -197,6 +198,5 @@
       6.55,
       7.15
     ]
-  },
-  "reference": "03850004VNF"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13069",
   "country": "ITA",
+  "reference": "03190004AWH",
   "name": "GLOBULO ROSSO",
   "rating": {
     "gph": 633.7,
@@ -197,6 +198,5 @@
       7.48,
       9.25
     ]
-  },
-  "reference": "03190004AWH"
+  }
 }

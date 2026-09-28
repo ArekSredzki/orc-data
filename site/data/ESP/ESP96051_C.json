@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP96051_C",
   "country": "ESP",
+  "reference": "03510004IED",
   "name": "GYMIR",
   "rating": {
     "gph": 469.1,
@@ -197,6 +198,5 @@
       10.52,
       12.27
     ]
-  },
-  "reference": "03510004IED"
+  }
 }

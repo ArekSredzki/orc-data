@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR6316",
   "country": "FRA",
+  "reference": "04330004O2Q",
   "name": "LOCH LOMOND",
   "rating": {
     "gph": 642.2,
@@ -197,6 +198,5 @@
       7.77,
       8.42
     ]
-  },
-  "reference": "04330004O2Q"
+  }
 }

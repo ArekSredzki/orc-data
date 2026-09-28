@@ -1,6 +1,7 @@
 {
   "sailnumber": "SLO/SLO116",
   "country": "SLO",
+  "reference": "03090004P5K",
   "name": "Nika",
   "rating": {
     "gph": 729.4,
@@ -197,6 +198,5 @@
       6.9,
       7.66
     ]
-  },
-  "reference": "03090004P5K"
+  }
 }

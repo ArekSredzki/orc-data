@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN970",
   "country": "HUN",
+  "reference": "04890004OTA",
   "name": "Pilsner Ur",
   "rating": {
     "gph": 717.7,
@@ -197,6 +198,5 @@
       7.03,
       7.63
     ]
-  },
-  "reference": "04890004OTA"
+  }
 }

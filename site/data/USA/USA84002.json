@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA84002",
   "country": "USA",
+  "reference": "04560004QUI",
   "name": "ZVI 2",
   "rating": {
     "gph": 479.0,
@@ -197,6 +198,5 @@
       12.45,
       15.94
     ]
-  },
-  "reference": "04560004QUI"
+  }
 }

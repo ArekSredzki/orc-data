@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7396",
   "country": "NED",
+  "reference": "04310004JWO",
   "name": "Whisper",
   "rating": {
     "gph": 666.9,
@@ -197,6 +198,5 @@
       7.7,
       8.39
     ]
-  },
-  "reference": "04310004JWO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN5955",
   "country": "JPN",
+  "reference": "03390004JHL",
   "name": "GEFION",
   "rating": {
     "gph": 657.1,
@@ -197,6 +198,5 @@
       7.47,
       8.12
     ]
-  },
-  "reference": "03390004JHL"
+  }
 }

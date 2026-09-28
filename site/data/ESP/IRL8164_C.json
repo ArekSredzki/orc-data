@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/IRL8164_C",
   "country": "ESP",
+  "reference": "035100048QL",
   "name": "ENIGMA",
   "rating": {
     "gph": 704.1,
@@ -197,6 +198,5 @@
       7.03,
       7.85
     ]
-  },
-  "reference": "035100048QL"
+  }
 }

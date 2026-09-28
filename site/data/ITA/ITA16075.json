@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16075",
   "country": "ITA",
+  "reference": "03190004J5Q",
   "name": "DAISY",
   "rating": {
     "gph": 669.2,
@@ -197,6 +198,5 @@
       7.5,
       8.25
     ]
-  },
-  "reference": "03190004J5Q"
+  }
 }

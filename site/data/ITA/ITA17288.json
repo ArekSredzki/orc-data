@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17288",
   "country": "ITA",
+  "reference": "03190004LPU",
   "name": "MR.HYDE",
   "rating": {
     "gph": 589.4,
@@ -197,6 +198,5 @@
       11.67,
       14.56
     ]
-  },
-  "reference": "03190004LPU"
+  }
 }

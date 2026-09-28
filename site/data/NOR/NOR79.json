@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR79",
   "country": "NOR",
+  "reference": "03440004UBF",
   "name": "Zigomar",
   "rating": {
     "gph": 663.2,
@@ -197,6 +198,5 @@
       7.75,
       10.61
     ]
-  },
-  "reference": "03440004UBF"
+  }
 }

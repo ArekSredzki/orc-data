@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN82",
   "country": "HUN",
+  "reference": "04890004WJQ",
   "name": "Kishamis",
   "rating": {
     "gph": 620.4,
@@ -197,6 +198,5 @@
       8.17,
       8.96
     ]
-  },
-  "reference": "04890004WJQ"
+  }
 }

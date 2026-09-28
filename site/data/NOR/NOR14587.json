@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14587",
   "country": "NOR",
+  "reference": "03440004N9U",
   "name": "DayDream",
   "rating": {
     "gph": 667.4,
@@ -197,6 +198,5 @@
       9.09,
       12.08
     ]
-  },
-  "reference": "03440004N9U"
+  }
 }

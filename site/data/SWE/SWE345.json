@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE345",
   "country": "SWE",
+  "reference": "03200004S8R",
   "name": "YRSA",
   "rating": {
     "gph": 615.9,
@@ -197,6 +198,5 @@
       8.11,
       8.96
     ]
-  },
-  "reference": "03200004S8R"
+  }
 }

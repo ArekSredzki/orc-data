@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1125",
   "country": "TUR",
+  "reference": "04590004VRI",
   "name": "ORIENT XS",
   "rating": {
     "gph": 615.7,
@@ -197,6 +198,5 @@
       10.81,
       13.82
     ]
-  },
-  "reference": "04590004VRI"
+  }
 }

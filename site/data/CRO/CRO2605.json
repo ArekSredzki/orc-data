@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2605",
   "country": "CRO",
+  "reference": "03620004L05",
   "name": "Nave Loco",
   "rating": {
     "gph": 548.7,
@@ -197,6 +198,5 @@
       8.71,
       10.77
     ]
-  },
-  "reference": "03620004L05"
+  }
 }

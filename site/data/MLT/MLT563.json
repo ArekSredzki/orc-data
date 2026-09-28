@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/MLT563",
   "country": "MLT",
+  "reference": "03230004TU3",
   "name": "MAREAMORE",
   "rating": {
     "gph": 588.6,
@@ -197,6 +198,5 @@
       8.25,
       9.31
     ]
-  },
-  "reference": "03230004TU3"
+  }
 }

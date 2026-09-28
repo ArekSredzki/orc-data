@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA116",
   "country": "USA",
+  "reference": "04560004LI7",
   "name": "SHORT BUS",
   "rating": {
     "gph": 570.8,
@@ -197,6 +198,5 @@
       10.56,
       13.77
     ]
-  },
-  "reference": "04560004LI7"
+  }
 }

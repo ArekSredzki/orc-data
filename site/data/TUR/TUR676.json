@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR676",
   "country": "TUR",
+  "reference": "04590004824",
   "name": "EKINOKS",
   "rating": {
     "gph": 651.3,
@@ -197,6 +198,5 @@
       7.63,
       8.17
     ]
-  },
-  "reference": "04590004824"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR508",
   "country": "ISR",
+  "reference": "0439000483M",
   "name": "Tern",
   "rating": {
     "gph": 650.8,
@@ -197,6 +198,5 @@
       7.62,
       8.3
     ]
-  },
-  "reference": "0439000483M"
+  }
 }

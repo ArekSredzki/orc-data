@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA77770",
   "country": "ITA",
+  "reference": "03190004MOF",
   "name": "MARVEL",
   "rating": {
     "gph": 560.6,
@@ -197,6 +198,5 @@
       8.38,
       9.28
     ]
-  },
-  "reference": "03190004MOF"
+  }
 }

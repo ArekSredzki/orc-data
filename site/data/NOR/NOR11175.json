@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11175",
   "country": "NOR",
+  "reference": "03440004L47",
   "name": "Gratia",
   "rating": {
     "gph": 667.5,
@@ -197,6 +198,5 @@
       7.48,
       8.19
     ]
-  },
-  "reference": "03440004L47"
+  }
 }

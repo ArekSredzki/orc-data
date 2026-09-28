@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/SWE8770",
   "country": "FIN",
+  "reference": "04140004R1R",
   "name": "Escape",
   "rating": {
     "gph": 664.5,
@@ -197,6 +198,5 @@
       7.8,
       8.84
     ]
-  },
-  "reference": "04140004R1R"
+  }
 }

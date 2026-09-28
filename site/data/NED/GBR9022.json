@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/GBR9022",
   "country": "NED",
+  "reference": "04310004JS6",
   "name": "Candy",
   "rating": {
     "gph": 693.5,
@@ -197,6 +198,5 @@
       9.41,
       12.41
     ]
-  },
-  "reference": "04310004JS6"
+  }
 }

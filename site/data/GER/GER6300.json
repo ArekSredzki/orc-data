@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6300",
   "country": "GER",
+  "reference": "03520004NMM",
   "name": "HASPA HAMBURG",
   "rating": {
     "gph": 478.9,
@@ -197,6 +198,5 @@
       10.75,
       13.21
     ]
-  },
-  "reference": "03520004NMM"
+  }
 }

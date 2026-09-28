@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49435",
   "country": "GRE",
+  "reference": "03420004J77",
   "name": "MANIA",
   "rating": {
     "gph": 659.2,
@@ -197,6 +198,5 @@
       7.61,
       8.16
     ]
-  },
-  "reference": "03420004J77"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5140",
   "country": "ESP",
+  "reference": "03510004LM5",
   "name": "OTRA VEZ",
   "rating": {
     "gph": 680.4,
@@ -197,6 +198,5 @@
       7.52,
       9.68
     ]
-  },
-  "reference": "03510004LM5"
+  }
 }

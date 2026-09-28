@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9438",
   "country": "ESP",
+  "reference": "03510004BCB",
   "name": "MODARK",
   "rating": {
     "gph": 606.9,
@@ -197,6 +198,5 @@
       8.14,
       8.89
     ]
-  },
-  "reference": "03510004BCB"
+  }
 }

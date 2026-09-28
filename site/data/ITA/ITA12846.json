@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12846",
   "country": "ITA",
+  "reference": "03190004LPP",
   "name": "BLUE SPITFIRE",
   "rating": {
     "gph": 641.9,
@@ -197,6 +198,5 @@
       8.46,
       11.45
     ]
-  },
-  "reference": "03190004LPP"
+  }
 }

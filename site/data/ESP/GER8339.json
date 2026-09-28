@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GER8339",
   "country": "ESP",
+  "reference": "03510004FSO",
   "name": "JONATHAN 3",
   "rating": {
     "gph": 618.4,
@@ -197,6 +198,5 @@
       7.76,
       8.3
     ]
-  },
-  "reference": "03510004FSO"
+  }
 }

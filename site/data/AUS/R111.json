@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/R111",
   "country": "AUS",
+  "reference": "03020004T19",
   "name": "GODZILLA",
   "rating": {
     "gph": 600.3,
@@ -197,6 +198,5 @@
       8.99,
       11.82
     ]
-  },
-  "reference": "03020004T19"
+  }
 }

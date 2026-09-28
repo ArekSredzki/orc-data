@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11948",
   "country": "FIN",
+  "reference": "04140004TEA",
   "name": "Aleksantra",
   "rating": {
     "gph": 600.6,
@@ -197,6 +198,5 @@
       8.37,
       9.25
     ]
-  },
-  "reference": "04140004TEA"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA2992",
   "country": "RSA",
+  "reference": "04620004FNN",
   "name": "Li'L",
   "rating": {
     "gph": 850.3,
@@ -197,6 +198,5 @@
       6.36,
       7.21
     ]
-  },
-  "reference": "04620004FNN"
+  }
 }

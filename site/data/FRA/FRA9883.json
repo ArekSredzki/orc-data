@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9883",
   "country": "FRA",
+  "reference": "04330004F6B",
   "name": "LITTLE WING",
   "rating": {
     "gph": 584.1,
@@ -197,6 +198,5 @@
       8.06,
       9.86
     ]
-  },
-  "reference": "04330004F6B"
+  }
 }

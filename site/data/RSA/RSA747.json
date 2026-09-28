@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA747",
   "country": "RSA",
+  "reference": "046200048AM",
   "name": "Matador",
   "rating": {
     "gph": 750.2,
@@ -197,6 +198,5 @@
       6.82,
       7.35
     ]
-  },
-  "reference": "046200048AM"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11054",
   "country": "ESP",
+  "reference": "03510004FK2",
   "name": "CHOTACABRAS",
   "rating": {
     "gph": 602.1,
@@ -197,6 +198,5 @@
       7.7,
       8.22
     ]
-  },
-  "reference": "03510004FK2"
+  }
 }

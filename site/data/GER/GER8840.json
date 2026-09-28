@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8840",
   "country": "GER",
+  "reference": "03520004WLW",
   "name": "HARMMONIA IV",
   "rating": {
     "gph": 640.1,
@@ -197,6 +198,5 @@
       7.75,
       8.42
     ]
-  },
-  "reference": "03520004WLW"
+  }
 }

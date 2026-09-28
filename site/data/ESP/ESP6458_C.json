@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6458_C",
   "country": "ESP",
+  "reference": "03510004F51",
   "name": "YVONNE",
   "rating": {
     "gph": 788.3,
@@ -197,6 +198,5 @@
       6.49,
       7.26
     ]
-  },
-  "reference": "03510004F51"
+  }
 }

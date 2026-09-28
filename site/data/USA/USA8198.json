@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA8198",
   "country": "USA",
+  "reference": "04560004RE8",
   "name": "DRUMLECK",
   "rating": {
     "gph": 583.1,
@@ -197,6 +198,5 @@
       8.19,
       9.75
     ]
-  },
-  "reference": "04560004RE8"
+  }
 }

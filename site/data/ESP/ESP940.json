@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP940",
   "country": "ESP",
+  "reference": "03510004T24",
   "name": "TORIII",
   "rating": {
     "gph": 594.6,
@@ -197,6 +198,5 @@
       8.07,
       8.75
     ]
-  },
-  "reference": "03510004T24"
+  }
 }

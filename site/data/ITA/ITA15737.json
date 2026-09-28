@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15737",
   "country": "ITA",
+  "reference": "03190004JDS",
   "name": "ALEXANDRA",
   "rating": {
     "gph": 616.9,
@@ -197,6 +198,5 @@
       7.69,
       8.37
     ]
-  },
-  "reference": "03190004JDS"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9087",
   "country": "NED",
+  "reference": "04310004K9F",
   "name": "Rep & Roer",
   "rating": {
     "gph": 600.3,
@@ -197,6 +198,5 @@
       7.86,
       9.42
     ]
-  },
-  "reference": "04310004K9F"
+  }
 }

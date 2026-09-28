@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1890",
   "country": "GRE",
+  "reference": "03420004HBL",
   "name": "NEVERLAND",
   "rating": {
     "gph": 537.4,
@@ -197,6 +198,5 @@
       8.91,
       9.65
     ]
-  },
-  "reference": "03420004HBL"
+  }
 }

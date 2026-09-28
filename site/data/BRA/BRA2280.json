@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2280",
   "country": "BRA",
+  "reference": "0442000489I",
   "name": "CONQUISTA",
   "rating": {
     "gph": 682.9,
@@ -197,6 +198,5 @@
       7.36,
       8.52
     ]
-  },
-  "reference": "0442000489I"
+  }
 }

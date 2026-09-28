@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GBR4999L",
   "country": "GBR",
+  "reference": "03860004KPQ",
   "name": "Tuscan Spirit",
   "rating": {
     "gph": 484.9,
@@ -197,6 +198,5 @@
       9.77,
       10.82
     ]
-  },
-  "reference": "03860004KPQ"
+  }
 }

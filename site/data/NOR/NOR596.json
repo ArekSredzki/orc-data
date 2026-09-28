@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR596",
   "country": "NOR",
+  "reference": "03440004NAV",
   "name": "Sgt. Pepper",
   "rating": {
     "gph": 636.7,
@@ -197,6 +198,5 @@
       7.98,
       9.41
     ]
-  },
-  "reference": "03440004NAV"
+  }
 }

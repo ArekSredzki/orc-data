@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP724_C",
   "country": "ESP",
+  "reference": "03510004JAC",
   "name": "POGUITO A POGO",
   "rating": {
     "gph": 557.8,
@@ -197,6 +198,5 @@
       9.61,
       12.46
     ]
-  },
-  "reference": "03510004JAC"
+  }
 }

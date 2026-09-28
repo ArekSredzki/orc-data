@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA2995",
   "country": "ITA",
+  "reference": "03190004FOK",
   "name": "MABELLE",
   "rating": {
     "gph": 554.2,
@@ -197,6 +198,5 @@
       8.79,
       9.76
     ]
-  },
-  "reference": "03190004FOK"
+  }
 }

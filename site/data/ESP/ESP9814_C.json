@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9814_C",
   "country": "ESP",
+  "reference": "03510004BEK",
   "name": "AIGAM",
   "rating": {
     "gph": 629.8,
@@ -197,6 +198,5 @@
       7.82,
       8.45
     ]
-  },
-  "reference": "03510004BEK"
+  }
 }

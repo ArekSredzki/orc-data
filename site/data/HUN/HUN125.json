@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN125",
   "country": "HUN",
+  "reference": "04890004S47",
   "name": "Defender",
   "rating": {
     "gph": 623.9,
@@ -197,6 +198,5 @@
       8.04,
       9.61
     ]
-  },
-  "reference": "04890004S47"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/A99151",
   "country": "GER",
+  "reference": "03520004I18",
   "name": "K\u00d6NIG LUDWIG",
   "rating": {
     "gph": 554.8,
@@ -197,6 +198,5 @@
       10.36,
       13.53
     ]
-  },
-  "reference": "03520004I18"
+  }
 }

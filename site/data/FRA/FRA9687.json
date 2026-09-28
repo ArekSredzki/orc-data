@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9687",
   "country": "FRA",
+  "reference": "04330004Q7M",
   "name": "NOISY OYSTER",
   "rating": {
     "gph": 573.4,
@@ -197,6 +198,5 @@
       8.23,
       9.56
     ]
-  },
-  "reference": "04330004Q7M"
+  }
 }

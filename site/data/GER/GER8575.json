@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8575",
   "country": "GER",
+  "reference": "03520004ONM",
   "name": "GORRE",
   "rating": {
     "gph": 527.7,
@@ -197,6 +198,5 @@
       9.05,
       10.44
     ]
-  },
-  "reference": "03520004ONM"
+  }
 }

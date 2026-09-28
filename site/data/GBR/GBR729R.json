@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GBR729R",
   "country": "GBR",
+  "reference": "03860004PBB",
   "name": "SHERDEN",
   "rating": {
     "gph": 568.8,
@@ -197,6 +198,5 @@
       8.44,
       9.14
     ]
-  },
-  "reference": "03860004PBB"
+  }
 }

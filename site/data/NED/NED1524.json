@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED1524",
   "country": "NED",
+  "reference": "04310004PCD",
   "name": "STELLA17",
   "rating": {
     "gph": 542.6,
@@ -197,6 +198,5 @@
       9.14,
       10.32
     ]
-  },
-  "reference": "04310004PCD"
+  }
 }

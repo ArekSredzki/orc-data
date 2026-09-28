@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1948",
   "country": "TUR",
+  "reference": "0459000485F",
   "name": "RED LIONS",
   "rating": {
     "gph": 728.0,
@@ -197,6 +198,5 @@
       6.73,
       7.33
     ]
-  },
-  "reference": "0459000485F"
+  }
 }

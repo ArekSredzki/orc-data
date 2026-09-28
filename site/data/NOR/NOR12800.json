@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12800",
   "country": "NOR",
+  "reference": "03440004RVR",
   "name": "La Linea",
   "rating": {
     "gph": 620.0,
@@ -197,6 +198,5 @@
       7.88,
       8.6
     ]
-  },
-  "reference": "03440004RVR"
+  }
 }

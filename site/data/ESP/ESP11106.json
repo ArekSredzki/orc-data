@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11106",
   "country": "ESP",
+  "reference": "03510004ON8",
   "name": "REGULUS VI",
   "rating": {
     "gph": 618.5,
@@ -197,6 +198,5 @@
       7.67,
       9.55
     ]
-  },
-  "reference": "03510004ON8"
+  }
 }

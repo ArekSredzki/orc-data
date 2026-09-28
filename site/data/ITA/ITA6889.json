@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA6889",
   "country": "ITA",
+  "reference": "03190004B5Q",
   "name": "MIZAR COCCODRILLO",
   "rating": {
     "gph": 681.0,
@@ -197,6 +198,5 @@
       7.3,
       7.86
     ]
-  },
-  "reference": "03190004B5Q"
+  }
 }

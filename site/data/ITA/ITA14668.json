@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14668",
   "country": "ITA",
+  "reference": "03190004BUK",
   "name": "SOTTO VUOTO",
   "rating": {
     "gph": 658.3,
@@ -197,6 +198,5 @@
       7.6,
       8.24
     ]
-  },
-  "reference": "03190004BUK"
+  }
 }

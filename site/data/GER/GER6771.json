@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6771",
   "country": "GER",
+  "reference": "03520004I25",
   "name": "SVELA",
   "rating": {
     "gph": 701.6,
@@ -197,6 +198,5 @@
       7.17,
       7.82
     ]
-  },
-  "reference": "03520004I25"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/GBR8340N",
   "country": "NED",
+  "reference": "04310004JS4",
   "name": "Frankie",
   "rating": {
     "gph": 839.5,
@@ -197,6 +198,5 @@
       6.12,
       6.66
     ]
-  },
-  "reference": "04310004JS4"
+  }
 }

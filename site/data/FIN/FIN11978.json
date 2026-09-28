@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11978",
   "country": "FIN",
+  "reference": "04140004WL9",
   "name": "Ulrika",
   "rating": {
     "gph": 671.9,
@@ -197,6 +198,5 @@
       7.58,
       8.33
     ]
-  },
-  "reference": "04140004WL9"
+  }
 }

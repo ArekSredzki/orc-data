@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13533",
   "country": "ITA",
+  "reference": "03190004TF8",
   "name": "GAP IV",
   "rating": {
     "gph": 557.7,
@@ -197,6 +198,5 @@
       8.45,
       9.17
     ]
-  },
-  "reference": "03190004TF8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11257",
   "country": "ESP",
+  "reference": "03510004KS3",
   "name": "KEEP CALM",
   "rating": {
     "gph": 645.8,
@@ -197,6 +198,5 @@
       7.65,
       8.26
     ]
-  },
-  "reference": "03510004KS3"
+  }
 }

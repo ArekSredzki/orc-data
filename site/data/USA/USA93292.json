@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA93292",
   "country": "USA",
+  "reference": "04560004RSS",
   "name": "SEAGOING III",
   "rating": {
     "gph": 649.6,
@@ -197,6 +198,5 @@
       7.56,
       8.11
     ]
-  },
-  "reference": "04560004RSS"
+  }
 }

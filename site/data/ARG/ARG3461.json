@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG3461",
   "country": "ARG",
+  "reference": "03880004IF4",
   "name": "TENAZ",
   "rating": {
     "gph": 680.7,
@@ -197,6 +198,5 @@
       7.36,
       8.02
     ]
-  },
-  "reference": "03880004IF4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO6446",
   "country": "CRO",
+  "reference": "03620004I5S",
   "name": "Contessa",
   "rating": {
     "gph": 546.7,
@@ -197,6 +198,5 @@
       8.76,
       9.68
     ]
-  },
-  "reference": "03620004I5S"
+  }
 }

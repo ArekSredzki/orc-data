@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8745_C",
   "country": "ESP",
+  "reference": "03510004N0N",
   "name": "KANDINSKE",
   "rating": {
     "gph": 617.9,
@@ -197,6 +198,5 @@
       8.28,
       9.06
     ]
-  },
-  "reference": "03510004N0N"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6924",
   "country": "GER",
+  "reference": "03520004WHU",
   "name": "SHELTER",
   "rating": {
     "gph": 591.5,
@@ -197,6 +198,5 @@
       8.19,
       8.93
     ]
-  },
-  "reference": "03520004WHU"
+  }
 }

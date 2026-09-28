@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE4954",
   "country": "GRE",
+  "reference": "03420004LC7",
   "name": "AELLA",
   "rating": {
     "gph": 619.0,
@@ -197,6 +198,5 @@
       8.22,
       9.06
     ]
-  },
-  "reference": "03420004LC7"
+  }
 }

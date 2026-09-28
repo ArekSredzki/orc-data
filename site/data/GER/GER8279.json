@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8279",
   "country": "GER",
+  "reference": "04150004M0J",
   "name": "FILOU",
   "rating": {
     "gph": 614.8,
@@ -197,6 +198,5 @@
       7.68,
       8.73
     ]
-  },
-  "reference": "04150004M0J"
+  }
 }

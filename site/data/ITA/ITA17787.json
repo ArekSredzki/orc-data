@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17787",
   "country": "ITA",
+  "reference": "03190004FW2",
   "name": "ANEMOS",
   "rating": {
     "gph": 567.4,
@@ -197,6 +198,5 @@
       9.24,
       11.81
     ]
-  },
-  "reference": "03190004FW2"
+  }
 }

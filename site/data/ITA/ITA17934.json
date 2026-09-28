@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17934",
   "country": "ITA",
+  "reference": "03190004OVR",
   "name": "SIXTY",
   "rating": {
     "gph": 578.3,
@@ -197,6 +198,5 @@
       8.0,
       8.76
     ]
-  },
-  "reference": "03190004OVR"
+  }
 }

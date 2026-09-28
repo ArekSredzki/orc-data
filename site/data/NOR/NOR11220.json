@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11220",
   "country": "NOR",
+  "reference": "03440004H73",
   "name": "Saevitia",
   "rating": {
     "gph": 623.4,
@@ -197,6 +198,5 @@
       8.01,
       8.75
     ]
-  },
-  "reference": "03440004H73"
+  }
 }

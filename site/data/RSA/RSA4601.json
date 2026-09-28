@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4601",
   "country": "RSA",
+  "reference": "04620004873",
   "name": "Double Helix",
   "rating": {
     "gph": 580.0,
@@ -197,6 +198,5 @@
       8.94,
       12.06
     ]
-  },
-  "reference": "04620004873"
+  }
 }

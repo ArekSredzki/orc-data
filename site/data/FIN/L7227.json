@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/L7227",
   "country": "FIN",
+  "reference": "04140004TQS",
   "name": "LOTUS",
   "rating": {
     "gph": 690.9,
@@ -197,6 +198,5 @@
       7.24,
       7.89
     ]
-  },
-  "reference": "04140004TQS"
+  }
 }

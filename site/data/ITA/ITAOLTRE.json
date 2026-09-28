@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAOLTRE",
   "country": "ITA",
+  "reference": "03190004FFQ",
   "name": "OLTREMARE",
   "rating": {
     "gph": 645.3,
@@ -197,6 +198,5 @@
       7.95,
       8.65
     ]
-  },
-  "reference": "03190004FFQ"
+  }
 }

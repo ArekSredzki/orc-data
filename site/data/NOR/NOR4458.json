@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR4458",
   "country": "NOR",
+  "reference": "03440004L3K",
   "name": "MytriX",
   "rating": {
     "gph": 686.8,
@@ -197,6 +198,5 @@
       7.28,
       8.02
     ]
-  },
-  "reference": "03440004L3K"
+  }
 }

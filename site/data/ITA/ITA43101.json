@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA43101",
   "country": "ITA",
+  "reference": "03190004KME",
   "name": "TRIBOULET",
   "rating": {
     "gph": 609.9,
@@ -197,6 +198,5 @@
       7.57,
       8.06
     ]
-  },
-  "reference": "03190004KME"
+  }
 }

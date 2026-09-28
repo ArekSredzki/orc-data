@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/X35143",
   "country": "GER",
+  "reference": "03520004I3D",
   "name": "XTRAFUN",
   "rating": {
     "gph": 601.1,
@@ -197,6 +198,5 @@
       8.27,
       9.49
     ]
-  },
-  "reference": "03520004I3D"
+  }
 }

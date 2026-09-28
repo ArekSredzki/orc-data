@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2040",
   "country": "GRE",
+  "reference": "03420004HH2",
   "name": "ALDEBARAN",
   "rating": {
     "gph": 802.1,
@@ -197,6 +198,5 @@
       6.53,
       7.07
     ]
-  },
-  "reference": "03420004HH2"
+  }
 }

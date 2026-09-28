@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60652",
   "country": "USA",
+  "reference": "04560004Q38",
   "name": "WILSON",
   "rating": {
     "gph": 622.6,
@@ -197,6 +198,5 @@
       10.73,
       13.84
     ]
-  },
-  "reference": "04560004Q38"
+  }
 }

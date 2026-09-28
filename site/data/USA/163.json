@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/163",
   "country": "USA",
+  "reference": "04560004SKM",
   "name": "PURA VIDA",
   "rating": {
     "gph": 617.2,
@@ -197,6 +198,5 @@
       7.82,
       9.69
     ]
-  },
-  "reference": "04560004SKM"
+  }
 }

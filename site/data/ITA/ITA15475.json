@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15475",
   "country": "ITA",
+  "reference": "03190004Q1D",
   "name": "VITTORIA",
   "rating": {
     "gph": 653.2,
@@ -197,6 +198,5 @@
       7.64,
       8.28
     ]
-  },
-  "reference": "03190004Q1D"
+  }
 }

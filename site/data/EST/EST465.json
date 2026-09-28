@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST465",
   "country": "EST",
+  "reference": "04340004NOQ",
   "name": "DOMINA",
   "rating": {
     "gph": 643.5,
@@ -197,6 +198,5 @@
       7.75,
       8.5
     ]
-  },
-  "reference": "04340004NOQ"
+  }
 }

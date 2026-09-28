@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10006",
   "country": "FIN",
+  "reference": "04140004HDJ",
   "name": "ANTAMA",
   "rating": {
     "gph": 610.0,
@@ -197,6 +198,5 @@
       7.93,
       8.63
     ]
-  },
-  "reference": "04140004HDJ"
+  }
 }

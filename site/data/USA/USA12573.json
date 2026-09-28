@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA12573",
   "country": "USA",
+  "reference": "04560004QB8",
   "name": "PEEKABOO",
   "rating": {
     "gph": 543.8,
@@ -197,6 +198,5 @@
       9.69,
       11.92
     ]
-  },
-  "reference": "04560004QB8"
+  }
 }

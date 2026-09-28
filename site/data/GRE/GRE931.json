@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE931",
   "country": "GRE",
+  "reference": "03420004IWB",
   "name": "ROSA F",
   "rating": {
     "gph": 752.3,
@@ -197,6 +198,5 @@
       6.92,
       7.46
     ]
-  },
-  "reference": "03420004IWB"
+  }
 }

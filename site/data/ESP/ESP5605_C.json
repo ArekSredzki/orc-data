@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5605_C",
   "country": "ESP",
+  "reference": "03510004W9M",
   "name": "ONIRIUM",
   "rating": {
     "gph": 655.6,
@@ -197,6 +198,5 @@
       7.23,
       7.79
     ]
-  },
-  "reference": "03510004W9M"
+  }
 }

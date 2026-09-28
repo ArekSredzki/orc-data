@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/X3546",
   "country": "GER",
+  "reference": "04150004LNM",
   "name": "FREYA",
   "rating": {
     "gph": 602.8,
@@ -197,6 +198,5 @@
       8.18,
       9.17
     ]
-  },
-  "reference": "04150004LNM"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13697",
   "country": "NOR",
+  "reference": "03440004N9L",
   "name": "Flash V",
   "rating": {
     "gph": 558.9,
@@ -197,6 +198,5 @@
       8.75,
       9.94
     ]
-  },
-  "reference": "03440004N9L"
+  }
 }

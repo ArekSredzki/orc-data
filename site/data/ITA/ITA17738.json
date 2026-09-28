@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17738",
   "country": "ITA",
+  "reference": "03190004MAL",
   "name": "SUPER KALIMERA",
   "rating": {
     "gph": 545.6,
@@ -197,6 +198,5 @@
       9.48,
       11.37
     ]
-  },
-  "reference": "03190004MAL"
+  }
 }

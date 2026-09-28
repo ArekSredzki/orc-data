@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9908",
   "country": "FRA",
+  "reference": "04330004QC3",
   "name": "NARU",
   "rating": {
     "gph": 629.4,
@@ -197,6 +198,5 @@
       7.66,
       8.9
     ]
-  },
-  "reference": "04330004QC3"
+  }
 }

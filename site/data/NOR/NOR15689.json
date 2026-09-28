@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15689",
   "country": "NOR",
+  "reference": "03440004RHR",
   "name": "Brutus",
   "rating": {
     "gph": 623.0,
@@ -197,6 +198,5 @@
       10.42,
       13.46
     ]
-  },
-  "reference": "03440004RHR"
+  }
 }

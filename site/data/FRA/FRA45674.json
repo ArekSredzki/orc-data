@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA45674",
   "country": "FRA",
+  "reference": "04330004CBN",
   "name": "TRITON",
   "rating": {
     "gph": 634.0,
@@ -197,6 +198,5 @@
       8.11,
       9.32
     ]
-  },
-  "reference": "04330004CBN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8120",
   "country": "ESP",
+  "reference": "03510004RK5",
   "name": "ENGRESCAT",
   "rating": {
     "gph": 599.8,
@@ -197,6 +198,5 @@
       8.11,
       9.34
     ]
-  },
-  "reference": "03510004RK5"
+  }
 }

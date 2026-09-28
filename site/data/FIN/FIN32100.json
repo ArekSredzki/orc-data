@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN32100",
   "country": "FIN",
+  "reference": "04140004Q8E",
   "name": "S\u00e1bado",
   "rating": {
     "gph": 686.7,
@@ -197,6 +198,5 @@
       7.42,
       8.07
     ]
-  },
-  "reference": "04140004Q8E"
+  }
 }

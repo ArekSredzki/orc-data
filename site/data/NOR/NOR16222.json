@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16222",
   "country": "NOR",
+  "reference": "03440004SFM",
   "name": "Kraken",
   "rating": {
     "gph": 540.7,
@@ -197,6 +198,5 @@
       8.76,
       9.47
     ]
-  },
-  "reference": "03440004SFM"
+  }
 }

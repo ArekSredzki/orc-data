@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15443",
   "country": "NOR",
+  "reference": "03440004L37",
   "name": "Tia",
   "rating": {
     "gph": 581.4,
@@ -197,6 +198,5 @@
       8.16,
       9.02
     ]
-  },
-  "reference": "03440004L37"
+  }
 }

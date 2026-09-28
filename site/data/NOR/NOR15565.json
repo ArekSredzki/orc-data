@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15565",
   "country": "NOR",
+  "reference": "03440004OWT",
   "name": "Que Vadix V",
   "rating": {
     "gph": 566.0,
@@ -197,6 +198,5 @@
       8.29,
       9.2
     ]
-  },
-  "reference": "03440004OWT"
+  }
 }

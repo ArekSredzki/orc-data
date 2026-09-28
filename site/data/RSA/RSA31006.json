@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA31006",
   "country": "RSA",
+  "reference": "0462000487U",
   "name": "Nemesis",
   "rating": {
     "gph": 549.9,
@@ -197,6 +198,5 @@
       11.7,
       14.85
     ]
-  },
-  "reference": "0462000487U"
+  }
 }

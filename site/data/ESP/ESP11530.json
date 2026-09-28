@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11530",
   "country": "ESP",
+  "reference": "03510004WSO",
   "name": "SAGITTARIUS",
   "rating": {
     "gph": 691.8,
@@ -197,6 +198,5 @@
       7.45,
       8.02
     ]
-  },
-  "reference": "03510004WSO"
+  }
 }

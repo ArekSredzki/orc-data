@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49249",
   "country": "GRE",
+  "reference": "03420004LKB",
   "name": "OKYALOS V",
   "rating": {
     "gph": 645.3,
@@ -197,6 +198,5 @@
       7.74,
       8.56
     ]
-  },
-  "reference": "03420004LKB"
+  }
 }

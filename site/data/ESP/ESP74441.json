@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP74441",
   "country": "ESP",
+  "reference": "03510004W05",
   "name": "WANDERLUST",
   "rating": {
     "gph": 622.4,
@@ -197,6 +198,5 @@
       8.07,
       8.96
     ]
-  },
-  "reference": "03510004W05"
+  }
 }

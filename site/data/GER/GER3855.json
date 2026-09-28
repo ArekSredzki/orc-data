@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER3855",
   "country": "GER",
+  "reference": "03520004WHV",
   "name": "JENIFFER",
   "rating": {
     "gph": 603.4,
@@ -197,6 +198,5 @@
       8.19,
       8.8
     ]
-  },
-  "reference": "03520004WHV"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8382",
   "country": "GER",
+  "reference": "04150004IVA",
   "name": "SAPHIRA",
   "rating": {
     "gph": 611.0,
@@ -197,6 +198,5 @@
       8.19,
       9.1
     ]
-  },
-  "reference": "04150004IVA"
+  }
 }

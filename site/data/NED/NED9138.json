@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9138",
   "country": "NED",
+  "reference": "04310004K2O",
   "name": "Xtra Summer",
   "rating": {
     "gph": 589.7,
@@ -197,6 +198,5 @@
       8.06,
       8.96
     ]
-  },
-  "reference": "04310004K2O"
+  }
 }

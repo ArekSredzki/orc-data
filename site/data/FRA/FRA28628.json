@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA28628",
   "country": "FRA",
+  "reference": "04330004IJ9",
   "name": "HAPPY FEW TOO",
   "rating": {
     "gph": 622.7,
@@ -197,6 +198,5 @@
       8.07,
       8.97
     ]
-  },
-  "reference": "04330004IJ9"
+  }
 }

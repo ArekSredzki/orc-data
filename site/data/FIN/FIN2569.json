@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN2569",
   "country": "FIN",
+  "reference": "04140004QLV",
   "name": "Lazy",
   "rating": {
     "gph": 764.0,
@@ -197,6 +198,5 @@
       6.77,
       7.37
     ]
-  },
-  "reference": "04140004QLV"
+  }
 }

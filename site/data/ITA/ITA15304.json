@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15304",
   "country": "ITA",
+  "reference": "03190004N81",
   "name": "BIRA",
   "rating": {
     "gph": 516.2,
@@ -197,6 +198,5 @@
       11.07,
       13.89
     ]
-  },
-  "reference": "03190004N81"
+  }
 }

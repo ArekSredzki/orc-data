@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11442_C",
   "country": "ESP",
+  "reference": "03510004FK0",
   "name": "JIMENA",
   "rating": {
     "gph": 726.1,
@@ -197,6 +198,5 @@
       7.62,
       8.25
     ]
-  },
-  "reference": "03510004FK0"
+  }
 }

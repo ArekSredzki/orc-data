@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU117",
   "country": "ROU",
+  "reference": "05040004SM1",
   "name": "Galiola",
   "rating": {
     "gph": 695.5,
@@ -197,6 +198,5 @@
       7.56,
       8.16
     ]
-  },
-  "reference": "05040004SM1"
+  }
 }

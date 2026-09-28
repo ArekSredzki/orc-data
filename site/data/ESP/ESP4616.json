@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4616",
   "country": "ESP",
+  "reference": "03510004WJ2",
   "name": "ESTERO BLANCO",
   "rating": {
     "gph": 692.9,
@@ -197,6 +198,5 @@
       7.76,
       10.02
     ]
-  },
-  "reference": "03510004WJ2"
+  }
 }

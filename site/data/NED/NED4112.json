@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4112",
   "country": "NED",
+  "reference": "04310004THN",
   "name": "ORACABESSA",
   "rating": {
     "gph": 633.4,
@@ -197,6 +198,5 @@
       7.81,
       8.4
     ]
-  },
-  "reference": "04310004THN"
+  }
 }

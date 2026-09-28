@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10125",
   "country": "NOR",
+  "reference": "03440004S4K",
   "name": "IL TORO",
   "rating": {
     "gph": 613.9,
@@ -197,6 +198,5 @@
       8.24,
       8.97
     ]
-  },
-  "reference": "03440004S4K"
+  }
 }

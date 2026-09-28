@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17994",
   "country": "ITA",
+  "reference": "03190004P1A",
   "name": "MAELA",
   "rating": {
     "gph": 659.6,
@@ -197,6 +198,5 @@
       7.27,
       7.82
     ]
-  },
-  "reference": "03190004P1A"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10343_C",
   "country": "ESP",
+  "reference": "03510004RV9",
   "name": "BENBEN",
   "rating": {
     "gph": 559.1,
@@ -197,6 +198,5 @@
       8.44,
       9.08
     ]
-  },
-  "reference": "03510004RV9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3432_C",
   "country": "ESP",
+  "reference": "03510004ETU",
   "name": "APOC APOC",
   "rating": {
     "gph": 638.0,
@@ -197,6 +198,5 @@
       7.81,
       8.44
     ]
-  },
-  "reference": "03510004ETU"
+  }
 }

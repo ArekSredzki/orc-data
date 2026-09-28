@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR7383R",
   "country": "FRA",
+  "reference": "04330004HM6",
   "name": "PUMA",
   "rating": {
     "gph": 586.9,
@@ -197,6 +198,5 @@
       8.06,
       9.5
     ]
-  },
-  "reference": "04330004HM6"
+  }
 }

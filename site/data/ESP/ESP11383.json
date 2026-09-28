@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11383",
   "country": "ESP",
+  "reference": "03510004JC5",
   "name": "GRAVINA",
   "rating": {
     "gph": 628.0,
@@ -197,6 +198,5 @@
       7.99,
       8.75
     ]
-  },
-  "reference": "03510004JC5"
+  }
 }

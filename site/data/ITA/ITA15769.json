@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15769",
   "country": "ITA",
+  "reference": "03190004HRV",
   "name": "ACCIUGA",
   "rating": {
     "gph": 575.9,
@@ -197,6 +198,5 @@
       8.21,
       9.41
     ]
-  },
-  "reference": "03190004HRV"
+  }
 }

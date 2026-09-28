@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA25683",
   "country": "FRA",
+  "reference": "04330004U9M",
   "name": "SUEIRO",
   "rating": {
     "gph": 680.4,
@@ -197,6 +198,5 @@
       7.28,
       7.9
     ]
-  },
-  "reference": "04330004U9M"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA9090",
   "country": "ITA",
+  "reference": "03190004UID",
   "name": "BLU SHOW",
   "rating": {
     "gph": 599.5,
@@ -197,6 +198,5 @@
       8.12,
       8.86
     ]
-  },
-  "reference": "03190004UID"
+  }
 }

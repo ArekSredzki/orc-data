@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4201_C",
   "country": "ESP",
+  "reference": "03510004F52",
   "name": "XINO XANO U",
   "rating": {
     "gph": 700.9,
@@ -197,6 +198,5 @@
       7.23,
       7.96
     ]
-  },
-  "reference": "03510004F52"
+  }
 }

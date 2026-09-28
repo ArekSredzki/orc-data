@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6023",
   "country": "ESP",
+  "reference": "035100048A8",
   "name": "BLUE MARLIN III",
   "rating": {
     "gph": 635.4,
@@ -197,6 +198,5 @@
       7.87,
       8.6
     ]
-  },
-  "reference": "035100048A8"
+  }
 }

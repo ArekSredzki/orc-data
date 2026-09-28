@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/61752",
   "country": "USA",
+  "reference": "04560004REH",
   "name": "SEA WOLF",
   "rating": {
     "gph": 580.9,
@@ -197,6 +198,5 @@
       8.04,
       8.63
     ]
-  },
-  "reference": "04560004REH"
+  }
 }

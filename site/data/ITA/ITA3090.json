@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA3090",
   "country": "ITA",
+  "reference": "03190004T7R",
   "name": "DRAGO VOLANTE",
   "rating": {
     "gph": 589.1,
@@ -197,6 +198,5 @@
       9.44,
       12.33
     ]
-  },
-  "reference": "03190004T7R"
+  }
 }

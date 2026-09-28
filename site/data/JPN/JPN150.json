@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN150",
   "country": "JPN",
+  "reference": "03390004W79",
   "name": "SHARK X",
   "rating": {
     "gph": 616.9,
@@ -197,6 +198,5 @@
       7.52,
       9.26
     ]
-  },
-  "reference": "03390004W79"
+  }
 }

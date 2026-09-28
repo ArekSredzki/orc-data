@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER4187",
   "country": "GER",
+  "reference": "03520004Q9F",
   "name": "CHOSI VI",
   "rating": {
     "gph": 611.2,
@@ -197,6 +198,5 @@
       7.92,
       8.78
     ]
-  },
-  "reference": "03520004Q9F"
+  }
 }

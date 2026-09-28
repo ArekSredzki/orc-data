@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN5030",
   "country": "JPN",
+  "reference": "03390004JHQ",
   "name": "CASSANDRE",
   "rating": {
     "gph": 598.1,
@@ -197,6 +198,5 @@
       8.16,
       9.08
     ]
-  },
-  "reference": "03390004JHQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17017",
   "country": "ITA",
+  "reference": "03190004KHJ",
   "name": "FRA' DIAVOLO",
   "rating": {
     "gph": 463.9,
@@ -197,6 +198,5 @@
       10.62,
       12.93
     ]
-  },
-  "reference": "03190004KHJ"
+  }
 }

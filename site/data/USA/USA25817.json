@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25817",
   "country": "USA",
+  "reference": "04560004T8O",
   "name": "ROXY",
   "rating": {
     "gph": 599.2,
@@ -197,6 +198,5 @@
       7.96,
       8.62
     ]
-  },
-  "reference": "04560004T8O"
+  }
 }

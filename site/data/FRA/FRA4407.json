@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA4407",
   "country": "FRA",
+  "reference": "04330004LQL",
   "name": "BAGHEERA",
   "rating": {
     "gph": 655.9,
@@ -197,6 +198,5 @@
       7.92,
       9.28
     ]
-  },
-  "reference": "04330004LQL"
+  }
 }

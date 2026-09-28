@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17170",
   "country": "ITA",
+  "reference": "03190004HJI",
   "name": "CALEMA",
   "rating": {
     "gph": 571.4,
@@ -197,6 +198,5 @@
       8.47,
       9.55
     ]
-  },
-  "reference": "03190004HJI"
+  }
 }

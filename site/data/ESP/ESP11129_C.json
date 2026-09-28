@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11129_C",
   "country": "ESP",
+  "reference": "03510004BHO",
   "name": "CARACOLES",
   "rating": {
     "gph": 726.7,
@@ -197,6 +198,5 @@
       6.95,
       7.61
     ]
-  },
-  "reference": "03510004BHO"
+  }
 }

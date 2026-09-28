@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP141",
   "country": "ESP",
+  "reference": "03510004VW8",
   "name": "FORMULA X",
   "rating": {
     "gph": 549.9,
@@ -197,6 +198,5 @@
       9.35,
       11.67
     ]
-  },
-  "reference": "03510004VW8"
+  }
 }

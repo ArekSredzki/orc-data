@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR10101",
   "country": "TUR",
+  "reference": "04590004WT4",
   "name": "EXTREM",
   "rating": {
     "gph": 605.2,
@@ -197,6 +198,5 @@
       7.76,
       9.67
     ]
-  },
-  "reference": "04590004WT4"
+  }
 }

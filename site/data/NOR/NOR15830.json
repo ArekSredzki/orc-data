@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15830",
   "country": "NOR",
+  "reference": "03440004NAB",
   "name": "Cana",
   "rating": {
     "gph": 678.0,
@@ -197,6 +198,5 @@
       7.41,
       7.96
     ]
-  },
-  "reference": "03440004NAB"
+  }
 }

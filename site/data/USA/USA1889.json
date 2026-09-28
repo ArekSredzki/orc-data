@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA1889",
   "country": "USA",
+  "reference": "04560004P0H",
   "name": "MINT",
   "rating": {
     "gph": 611.4,
@@ -197,6 +198,5 @@
       8.22,
       9.66
     ]
-  },
-  "reference": "04560004P0H"
+  }
 }

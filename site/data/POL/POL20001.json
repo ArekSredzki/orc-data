@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL20001",
   "country": "POL",
+  "reference": "04410004R6V",
   "name": "QUANTUM X",
   "rating": {
     "gph": 630.4,
@@ -197,6 +198,5 @@
       7.8,
       8.8
     ]
-  },
-  "reference": "04410004R6V"
+  }
 }

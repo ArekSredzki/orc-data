@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14762",
   "country": "ITA",
+  "reference": "03190004AWE",
   "name": "VALENTINA 4",
   "rating": {
     "gph": 575.5,
@@ -197,6 +198,5 @@
       8.1,
       8.88
     ]
-  },
-  "reference": "03190004AWE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11533_C",
   "country": "ESP",
+  "reference": "03510004UUK",
   "name": "EOLO",
   "rating": {
     "gph": 636.5,
@@ -197,6 +198,5 @@
       7.72,
       8.46
     ]
-  },
-  "reference": "03510004UUK"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7861_C",
   "country": "ESP",
+  "reference": "03510004HT7",
   "name": "MANGUICU SEGUNDO",
   "rating": {
     "gph": 625.1,
@@ -197,6 +198,5 @@
       7.9,
       8.59
     ]
-  },
-  "reference": "03510004HT7"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4199_C",
   "country": "ESP",
+  "reference": "03510004BFR",
   "name": "BO",
   "rating": {
     "gph": 669.0,
@@ -197,6 +198,5 @@
       7.44,
       8.1
     ]
-  },
-  "reference": "03510004BFR"
+  }
 }

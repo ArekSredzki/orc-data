@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED5858",
   "country": "NED",
+  "reference": "04310004JVK",
   "name": "Dutchdiva",
   "rating": {
     "gph": 661.9,
@@ -197,6 +198,5 @@
       7.6,
       8.28
     ]
-  },
-  "reference": "04310004JVK"
+  }
 }

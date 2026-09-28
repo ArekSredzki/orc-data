@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7109",
   "country": "GER",
+  "reference": "03520004I27",
   "name": "DONNA KLARA",
   "rating": {
     "gph": 617.6,
@@ -197,6 +198,5 @@
       8.21,
       8.98
     ]
-  },
-  "reference": "03520004I27"
+  }
 }

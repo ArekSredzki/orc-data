@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1731",
   "country": "TUR",
+  "reference": "04590004VJ7",
   "name": "MAYK",
   "rating": {
     "gph": 673.2,
@@ -197,6 +198,5 @@
       9.24,
       12.36
     ]
-  },
-  "reference": "04590004VJ7"
+  }
 }

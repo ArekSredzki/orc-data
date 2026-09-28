@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL46",
   "country": "BUL",
+  "reference": "03850004N6F",
   "name": "Nimana",
   "rating": {
     "gph": 602.9,
@@ -197,6 +198,5 @@
       8.17,
       8.78
     ]
-  },
-  "reference": "03850004N6F"
+  }
 }

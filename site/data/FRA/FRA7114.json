@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA7114",
   "country": "FRA",
+  "reference": "04330004LQC",
   "name": "BERTHEAUME",
   "rating": {
     "gph": 682.8,
@@ -197,6 +198,5 @@
       7.72,
       8.7
     ]
-  },
-  "reference": "04330004LQC"
+  }
 }

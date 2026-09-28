@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/NZL57",
   "country": "USA",
+  "reference": "04560004LI3",
   "name": "BLACK SHEEP",
   "rating": {
     "gph": 656.5,
@@ -197,6 +198,5 @@
       8.66,
       11.89
     ]
-  },
-  "reference": "04560004LI3"
+  }
 }

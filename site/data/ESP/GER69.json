@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GER69",
   "country": "ESP",
+  "reference": "03510004H8P",
   "name": "ARGO",
   "rating": {
     "gph": 614.0,
@@ -197,6 +198,5 @@
       8.11,
       9.03
     ]
-  },
-  "reference": "03510004H8P"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN3445",
   "country": "FIN",
+  "reference": "04140004LTT",
   "name": "Lumikki",
   "rating": {
     "gph": 639.1,
@@ -197,6 +198,5 @@
       8.04,
       9.02
     ]
-  },
-  "reference": "04140004LTT"
+  }
 }

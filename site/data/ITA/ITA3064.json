@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA3064",
   "country": "ITA",
+  "reference": "03190004KKF",
   "name": "BIANCA",
   "rating": {
     "gph": 585.9,
@@ -197,6 +198,5 @@
       9.83,
       12.68
     ]
-  },
-  "reference": "03190004KKF"
+  }
 }

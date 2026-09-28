@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA4224",
   "country": "USA",
+  "reference": "04560004SNM",
   "name": "ZAMMERMOOS",
   "rating": {
     "gph": 529.2,
@@ -197,6 +198,5 @@
       9.38,
       11.79
     ]
-  },
-  "reference": "04560004SNM"
+  }
 }

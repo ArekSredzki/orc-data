@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1106_C",
   "country": "ESP",
+  "reference": "03510004J7K",
   "name": "BAMBALINA 7",
   "rating": {
     "gph": 637.5,
@@ -197,6 +198,5 @@
       7.58,
       8.95
     ]
-  },
-  "reference": "03510004J7K"
+  }
 }

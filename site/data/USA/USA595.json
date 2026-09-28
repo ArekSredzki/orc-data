@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA595",
   "country": "USA",
+  "reference": "04560004UN5",
   "name": "MERAK",
   "rating": {
     "gph": 630.1,
@@ -197,6 +198,5 @@
       7.52,
       8.11
     ]
-  },
-  "reference": "04560004UN5"
+  }
 }

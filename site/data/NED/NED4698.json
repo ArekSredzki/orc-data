@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4698",
   "country": "NED",
+  "reference": "04310004MCO",
   "name": "Fast Food",
   "rating": {
     "gph": 667.9,
@@ -197,6 +198,5 @@
       7.74,
       8.82
     ]
-  },
-  "reference": "04310004MCO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10369_C",
   "country": "ESP",
+  "reference": "035100048IE",
   "name": "BURLESQUE",
   "rating": {
     "gph": 582.6,
@@ -197,6 +198,5 @@
       8.22,
       8.83
     ]
-  },
-  "reference": "035100048IE"
+  }
 }

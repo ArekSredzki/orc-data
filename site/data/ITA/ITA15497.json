@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15497",
   "country": "ITA",
+  "reference": "03190004P15",
   "name": "SI-VI",
   "rating": {
     "gph": 595.5,
@@ -197,6 +198,5 @@
       8.18,
       8.93
     ]
-  },
-  "reference": "03190004P15"
+  }
 }

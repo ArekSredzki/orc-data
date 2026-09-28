@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14872",
   "country": "ITA",
+  "reference": "03190004VU6",
   "name": "LUNA PER TE",
   "rating": {
     "gph": 500.6,
@@ -197,6 +198,5 @@
       10.89,
       13.96
     ]
-  },
-  "reference": "03190004VU6"
+  }
 }

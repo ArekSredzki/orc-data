@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT729",
   "country": "LAT",
+  "reference": "04960004TIF",
   "name": "Shadowfax",
   "rating": {
     "gph": 611.7,
@@ -197,6 +198,5 @@
       8.23,
       9.01
     ]
-  },
-  "reference": "04960004TIF"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14070",
   "country": "ITA",
+  "reference": "03190004IPP",
   "name": "PROTEINA",
   "rating": {
     "gph": 668.1,
@@ -197,6 +198,5 @@
       8.54,
       11.11
     ]
-  },
-  "reference": "03190004IPP"
+  }
 }

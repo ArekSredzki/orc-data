@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17781",
   "country": "ITA",
+  "reference": "03190004BA9",
   "name": "BLU RAY",
   "rating": {
     "gph": 645.3,
@@ -197,6 +198,5 @@
       7.67,
       8.32
     ]
-  },
-  "reference": "03190004BA9"
+  }
 }

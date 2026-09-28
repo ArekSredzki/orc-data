@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/NA24",
   "country": "USA",
+  "reference": "04560004SAA",
   "name": "GALLANT",
   "rating": {
     "gph": 600.8,
@@ -197,6 +198,5 @@
       8.19,
       8.81
     ]
-  },
-  "reference": "04560004SAA"
+  }
 }

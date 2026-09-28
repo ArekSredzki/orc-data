@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2748_C",
   "country": "ESP",
+  "reference": "03510004HLW",
   "name": "CAMOUCO",
   "rating": {
     "gph": 741.1,
@@ -197,6 +198,5 @@
       6.6,
       7.12
     ]
-  },
-  "reference": "03510004HLW"
+  }
 }

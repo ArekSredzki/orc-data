@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2287",
   "country": "GRE",
+  "reference": "03420004VS3",
   "name": "KONSTANTINOS",
   "rating": {
     "gph": 686.4,
@@ -197,6 +198,5 @@
       7.74,
       8.39
     ]
-  },
-  "reference": "03420004VS3"
+  }
 }

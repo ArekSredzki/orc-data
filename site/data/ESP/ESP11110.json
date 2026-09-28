@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11110",
   "country": "ESP",
+  "reference": "03510004RLS",
   "name": "REGULUS VIII",
   "rating": {
     "gph": 615.0,
@@ -197,6 +198,5 @@
       7.88,
       10.01
     ]
-  },
-  "reference": "03510004RLS"
+  }
 }

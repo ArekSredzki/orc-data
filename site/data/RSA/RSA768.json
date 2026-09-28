@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA768",
   "country": "RSA",
+  "reference": "04620004C70",
   "name": "SHUMANIA",
   "rating": {
     "gph": 777.6,
@@ -197,6 +198,5 @@
       6.79,
       7.32
     ]
-  },
-  "reference": "04620004C70"
+  }
 }

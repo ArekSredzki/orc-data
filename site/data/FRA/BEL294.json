@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/BEL294",
   "country": "FRA",
+  "reference": "04330004HTO",
   "name": "MANUTEA",
   "rating": {
     "gph": 600.3,
@@ -197,6 +198,5 @@
       8.16,
       8.81
     ]
-  },
-  "reference": "04330004HTO"
+  }
 }

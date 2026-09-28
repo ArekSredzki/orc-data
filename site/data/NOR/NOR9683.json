@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9683",
   "country": "NOR",
+  "reference": "03440004O9L",
   "name": "Lancing",
   "rating": {
     "gph": 611.1,
@@ -197,6 +198,5 @@
       8.1,
       8.77
     ]
-  },
-  "reference": "03440004O9L"
+  }
 }

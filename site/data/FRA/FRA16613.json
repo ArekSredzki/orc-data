@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA16613",
   "country": "FRA",
+  "reference": "04330004NV6",
   "name": "SANKA",
   "rating": {
     "gph": 613.7,
@@ -197,6 +198,5 @@
       8.17,
       9.05
     ]
-  },
-  "reference": "04330004NV6"
+  }
 }

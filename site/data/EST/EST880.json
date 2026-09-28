@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST880",
   "country": "EST",
+  "reference": "04340004QEV",
   "name": "LAIK",
   "rating": {
     "gph": 698.7,
@@ -197,6 +198,5 @@
       7.07,
       7.62
     ]
-  },
-  "reference": "04340004QEV"
+  }
 }

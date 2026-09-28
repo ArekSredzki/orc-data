@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN4501",
   "country": "CAN",
+  "reference": "03430004WSF",
   "name": "Alegria X",
   "rating": {
     "gph": 569.6,
@@ -197,6 +198,5 @@
       8.77,
       9.59
     ]
-  },
-  "reference": "03430004WSF"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11761",
   "country": "FIN",
+  "reference": "04140004VOO",
   "name": "Am\u00e9lie",
   "rating": {
     "gph": 622.2,
@@ -197,6 +198,5 @@
       8.0,
       8.72
     ]
-  },
-  "reference": "04140004VOO"
+  }
 }

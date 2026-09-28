@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISRJ112",
   "country": "ISR",
+  "reference": "0439000483S",
   "name": "JULIETTA",
   "rating": {
     "gph": 588.1,
@@ -197,6 +198,5 @@
       8.19,
       10.12
     ]
-  },
-  "reference": "0439000483S"
+  }
 }

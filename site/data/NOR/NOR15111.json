@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15111",
   "country": "NOR",
+  "reference": "03440004FIK",
   "name": "Vilja",
   "rating": {
     "gph": 609.7,
@@ -197,6 +198,5 @@
       7.8,
       9.03
     ]
-  },
-  "reference": "03440004FIK"
+  }
 }

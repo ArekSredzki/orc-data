@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE3117",
   "country": "GRE",
+  "reference": "03420004NMQ",
   "name": "FILINTA",
   "rating": {
     "gph": 692.9,
@@ -197,6 +198,5 @@
       7.45,
       8.18
     ]
-  },
-  "reference": "03420004NMQ"
+  }
 }

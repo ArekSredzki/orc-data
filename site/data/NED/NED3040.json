@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3040",
   "country": "NED",
+  "reference": "04310004PCM",
   "name": "Spitfire",
   "rating": {
     "gph": 548.9,
@@ -197,6 +198,5 @@
       9.1,
       11.19
     ]
-  },
-  "reference": "04310004PCM"
+  }
 }

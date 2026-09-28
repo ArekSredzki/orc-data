@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/46929",
   "country": "USA",
+  "reference": "04560004KW4",
   "name": "ESCAPE ARTIST",
   "rating": {
     "gph": 618.5,
@@ -197,6 +198,5 @@
       7.82,
       9.6
     ]
-  },
-  "reference": "04560004KW4"
+  }
 }

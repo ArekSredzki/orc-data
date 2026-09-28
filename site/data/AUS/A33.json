@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/A33",
   "country": "AUS",
+  "reference": "03020004T4U",
   "name": "INVINCIBLE",
   "rating": {
     "gph": 649.3,
@@ -197,6 +198,5 @@
       7.78,
       8.53
     ]
-  },
-  "reference": "03020004T4U"
+  }
 }

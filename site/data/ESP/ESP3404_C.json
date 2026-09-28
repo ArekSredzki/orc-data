@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3404_C",
   "country": "ESP",
+  "reference": "03510004H93",
   "name": "HURRYCAN",
   "rating": {
     "gph": 696.2,
@@ -197,6 +198,5 @@
       7.51,
       10.89
     ]
-  },
-  "reference": "03510004H93"
+  }
 }

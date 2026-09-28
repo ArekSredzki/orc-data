@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1211",
   "country": "RSA",
+  "reference": "0462000487V",
   "name": "Mwera",
   "rating": {
     "gph": 707.0,
@@ -197,6 +198,5 @@
       7.43,
       8.07
     ]
-  },
-  "reference": "0462000487V"
+  }
 }

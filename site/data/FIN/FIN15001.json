@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN15001",
   "country": "FIN",
+  "reference": "04140004S6P",
   "name": "ARIEL",
   "rating": {
     "gph": 579.6,
@@ -197,6 +198,5 @@
       8.5,
       9.38
     ]
-  },
-  "reference": "04140004S6P"
+  }
 }

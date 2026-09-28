@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11640",
   "country": "NOR",
+  "reference": "03440004WKJ",
   "name": "Jenna",
   "rating": {
     "gph": 593.2,
@@ -197,6 +198,5 @@
       8.27,
       9.07
     ]
-  },
-  "reference": "03440004WKJ"
+  }
 }

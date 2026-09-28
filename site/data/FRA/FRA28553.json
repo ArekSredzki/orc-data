@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA28553",
   "country": "FRA",
+  "reference": "04330004N8W",
   "name": "MISS J",
   "rating": {
     "gph": 618.3,
@@ -197,6 +198,5 @@
       7.94,
       9.9
     ]
-  },
-  "reference": "04330004N8W"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11827",
   "country": "FIN",
+  "reference": "04140004RN7",
   "name": "Miss Behave",
   "rating": {
     "gph": 619.1,
@@ -197,6 +198,5 @@
       7.97,
       8.72
     ]
-  },
-  "reference": "04140004RN7"
+  }
 }

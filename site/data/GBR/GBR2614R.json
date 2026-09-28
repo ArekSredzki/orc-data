@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GBR2614R",
   "country": "GBR",
+  "reference": "03860004TEQ",
   "name": "TIGGER",
   "rating": {
     "gph": 661.8,
@@ -197,6 +198,5 @@
       9.35,
       12.35
     ]
-  },
-  "reference": "03860004TEQ"
+  }
 }

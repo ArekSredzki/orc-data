@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16619",
   "country": "ITA",
+  "reference": "03190004N22",
   "name": "BLUE NOTE",
   "rating": {
     "gph": 566.3,
@@ -197,6 +198,5 @@
       8.18,
       8.87
     ]
-  },
-  "reference": "03190004N22"
+  }
 }

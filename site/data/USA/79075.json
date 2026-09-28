@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/79075",
   "country": "USA",
+  "reference": "04560004P4J",
   "name": "PENELOPE",
   "rating": {
     "gph": 642.0,
@@ -197,6 +198,5 @@
       7.71,
       8.43
     ]
-  },
-  "reference": "04560004P4J"
+  }
 }

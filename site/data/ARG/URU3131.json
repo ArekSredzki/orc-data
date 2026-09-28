@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/URU3131",
   "country": "ARG",
+  "reference": "03880004V89",
   "name": "CLANDESTINA",
   "rating": {
     "gph": 491.9,
@@ -197,6 +198,5 @@
       10.7,
       13.26
     ]
-  },
-  "reference": "03880004V89"
+  }
 }

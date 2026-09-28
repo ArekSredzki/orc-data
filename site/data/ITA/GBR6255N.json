@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GBR6255N",
   "country": "ITA",
+  "reference": "03190004ON2",
   "name": "LISA R",
   "rating": {
     "gph": 471.7,
@@ -197,6 +198,5 @@
       12.26,
       15.55
     ]
-  },
-  "reference": "03190004ON2"
+  }
 }

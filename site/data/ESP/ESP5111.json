@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5111",
   "country": "ESP",
+  "reference": "03510004FVA",
   "name": "MARINETTE TOO",
   "rating": {
     "gph": 593.3,
@@ -197,6 +198,5 @@
       8.31,
       9.13
     ]
-  },
-  "reference": "03510004FVA"
+  }
 }

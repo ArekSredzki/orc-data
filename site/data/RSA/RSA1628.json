@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1628",
   "country": "RSA",
+  "reference": "0462000487K",
   "name": "ARGYLL",
   "rating": {
     "gph": 720.7,
@@ -197,6 +198,5 @@
       7.22,
       7.77
     ]
-  },
-  "reference": "0462000487K"
+  }
 }

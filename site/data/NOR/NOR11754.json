@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11754",
   "country": "NOR",
+  "reference": "03440004MQ4",
   "name": "Virvar V",
   "rating": {
     "gph": 593.5,
@@ -197,6 +198,5 @@
       8.4,
       9.3
     ]
-  },
-  "reference": "03440004MQ4"
+  }
 }

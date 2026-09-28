@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5864_C",
   "country": "ESP",
+  "reference": "03510004AVD",
   "name": "RIS RAS",
   "rating": {
     "gph": 668.8,
@@ -197,6 +198,5 @@
       8.12,
       11.06
     ]
-  },
-  "reference": "03510004AVD"
+  }
 }

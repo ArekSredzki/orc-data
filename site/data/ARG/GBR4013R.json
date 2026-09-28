@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/GBR4013R",
   "country": "ARG",
+  "reference": "03880004F1R",
   "name": "TACO",
   "rating": {
     "gph": 570.8,
@@ -197,6 +198,5 @@
       8.64,
       9.63
     ]
-  },
-  "reference": "03880004F1R"
+  }
 }

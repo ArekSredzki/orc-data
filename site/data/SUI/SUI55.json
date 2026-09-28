@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI55",
   "country": "SUI",
+  "reference": "03080004KWL",
   "name": "FUJIN",
   "rating": {
     "gph": 522.2,
@@ -197,6 +198,5 @@
       9.12,
       9.82
     ]
-  },
-  "reference": "03080004KWL"
+  }
 }

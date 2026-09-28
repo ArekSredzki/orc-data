@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6109",
   "country": "ESP",
+  "reference": "03510004FV9",
   "name": "LAMPO ROSSO",
   "rating": {
     "gph": 681.9,
@@ -197,6 +198,5 @@
       7.3,
       7.96
     ]
-  },
-  "reference": "03510004FV9"
+  }
 }

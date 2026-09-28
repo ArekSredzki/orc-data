@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15284",
   "country": "ITA",
+  "reference": "03190004LPR",
   "name": "RUSSES",
   "rating": {
     "gph": 560.3,
@@ -197,6 +198,5 @@
       8.82,
       9.74
     ]
-  },
-  "reference": "03190004LPR"
+  }
 }

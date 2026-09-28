@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GBR3550L",
   "country": "GBR",
+  "reference": "03860004TD1",
   "name": "Firefly",
   "rating": {
     "gph": 606.3,
@@ -197,6 +198,5 @@
       8.14,
       9.11
     ]
-  },
-  "reference": "03860004TD1"
+  }
 }

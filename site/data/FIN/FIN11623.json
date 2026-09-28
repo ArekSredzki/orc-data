@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11623",
   "country": "FIN",
+  "reference": "04140004WFB",
   "name": "Tuulia 3",
   "rating": {
     "gph": 606.4,
@@ -197,6 +198,5 @@
       7.95,
       10.1
     ]
-  },
-  "reference": "04140004WFB"
+  }
 }

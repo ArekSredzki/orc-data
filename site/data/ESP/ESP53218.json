@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP53218",
   "country": "ESP",
+  "reference": "03510004C1P",
   "name": "BREJ",
   "rating": {
     "gph": 610.8,
@@ -197,6 +198,5 @@
       8.01,
       10.27
     ]
-  },
-  "reference": "03510004C1P"
+  }
 }

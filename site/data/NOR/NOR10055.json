@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10055",
   "country": "NOR",
+  "reference": "03440004R2P",
   "name": "MY first",
   "rating": {
     "gph": 622.4,
@@ -197,6 +198,5 @@
       7.84,
       8.54
     ]
-  },
-  "reference": "03440004R2P"
+  }
 }

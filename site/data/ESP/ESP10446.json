@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10446",
   "country": "ESP",
+  "reference": "03510004NID",
   "name": "INDIGO",
   "rating": {
     "gph": 685.4,
@@ -197,6 +198,5 @@
       7.34,
       8.05
     ]
-  },
-  "reference": "03510004NID"
+  }
 }

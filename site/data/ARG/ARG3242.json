@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG3242",
   "country": "ARG",
+  "reference": "03880004N13",
   "name": "ERRANTE",
   "rating": {
     "gph": 612.4,
@@ -197,6 +198,5 @@
       7.98,
       8.67
     ]
-  },
-  "reference": "03880004N13"
+  }
 }

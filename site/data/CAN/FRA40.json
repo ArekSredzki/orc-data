@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/FRA40",
   "country": "CAN",
+  "reference": "03430004WEV",
   "name": "FRA 40",
   "rating": {
     "gph": 577.2,
@@ -197,6 +198,5 @@
       8.6,
       9.47
     ]
-  },
-  "reference": "03430004WEV"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13005",
   "country": "ITA",
+  "reference": "03190004KHI",
   "name": "PESTIFERA",
   "rating": {
     "gph": 591.0,
@@ -197,6 +198,5 @@
       8.14,
       8.88
     ]
-  },
-  "reference": "03190004KHI"
+  }
 }

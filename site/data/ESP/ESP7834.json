@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7834",
   "country": "ESP",
+  "reference": "03510004VWR",
   "name": "MON DE L'ONA II",
   "rating": {
     "gph": 611.1,
@@ -197,6 +198,5 @@
       8.15,
       9.04
     ]
-  },
-  "reference": "03510004VWR"
+  }
 }

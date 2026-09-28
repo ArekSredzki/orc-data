@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8095",
   "country": "ESP",
+  "reference": "03510005022",
   "name": "GOLFI\u00d1O",
   "rating": {
     "gph": 625.0,

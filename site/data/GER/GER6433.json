@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6433",
   "country": "GER",
+  "reference": "03520004ONK",
   "name": "ZEPHYR",
   "rating": {
     "gph": 568.8,
@@ -197,6 +198,5 @@
       10.09,
       13.11
     ]
-  },
-  "reference": "03520004ONK"
+  }
 }

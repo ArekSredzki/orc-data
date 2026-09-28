@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17395",
   "country": "ITA",
+  "reference": "03190004I9N",
   "name": "SILLA",
   "rating": {
     "gph": 602.6,
@@ -197,6 +198,5 @@
       7.81,
       8.41
     ]
-  },
-  "reference": "03190004I9N"
+  }
 }

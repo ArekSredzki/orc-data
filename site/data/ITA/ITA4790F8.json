@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA4790F8",
   "country": "ITA",
+  "reference": "03190004K61",
   "name": "HISTRIA DIVA",
   "rating": {
     "gph": 708.0,
@@ -197,6 +198,5 @@
       7.27,
       8.82
     ]
-  },
-  "reference": "03190004K61"
+  }
 }

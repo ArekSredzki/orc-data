@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12058",
   "country": "NOR",
+  "reference": "03440004OQL",
   "name": "Eos",
   "rating": {
     "gph": 611.2,
@@ -197,6 +198,5 @@
       7.95,
       8.64
     ]
-  },
-  "reference": "03440004OQL"
+  }
 }

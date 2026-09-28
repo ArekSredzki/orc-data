@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP36940",
   "country": "ESP",
+  "reference": "03510004VUV",
   "name": "FANDANGO 300",
   "rating": {
     "gph": 569.6,
@@ -197,6 +198,5 @@
       8.64,
       9.8
     ]
-  },
-  "reference": "03510004VUV"
+  }
 }

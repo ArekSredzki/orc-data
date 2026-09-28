@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR9014R",
   "country": "FRA",
+  "reference": "04330004HTP",
   "name": "JOKE",
   "rating": {
     "gph": 615.8,
@@ -197,6 +198,5 @@
       7.67,
       8.86
     ]
-  },
-  "reference": "04330004HTP"
+  }
 }

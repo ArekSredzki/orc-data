@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR8630",
   "country": "POR",
+  "reference": "03530004O1E",
   "name": "TOO MUCH",
   "rating": {
     "gph": 635.3,
@@ -197,6 +198,5 @@
       9.82,
       13.02
     ]
-  },
-  "reference": "03530004O1E"
+  }
 }

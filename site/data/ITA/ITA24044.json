@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA24044",
   "country": "ITA",
+  "reference": "03190004T7L",
   "name": "ZODIACO",
   "rating": {
     "gph": 664.4,
@@ -197,6 +198,5 @@
       8.09,
       10.83
     ]
-  },
-  "reference": "03190004T7L"
+  }
 }

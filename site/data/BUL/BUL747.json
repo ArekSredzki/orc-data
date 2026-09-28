@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL747",
   "country": "BUL",
+  "reference": "03850004TBD",
   "name": "GIO",
   "rating": {
     "gph": 683.8,
@@ -197,6 +198,5 @@
       7.8,
       8.44
     ]
-  },
-  "reference": "03850004TBD"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15394",
   "country": "NOR",
+  "reference": "03440004M4T",
   "name": "Sigvaldson",
   "rating": {
     "gph": 641.3,
@@ -197,6 +198,5 @@
       7.72,
       8.31
     ]
-  },
-  "reference": "03440004M4T"
+  }
 }

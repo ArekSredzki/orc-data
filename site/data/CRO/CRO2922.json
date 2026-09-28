@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2922",
   "country": "CRO",
+  "reference": "03620004M8P",
   "name": "Miram",
   "rating": {
     "gph": 589.5,
@@ -197,6 +198,5 @@
       8.32,
       9.0
     ]
-  },
-  "reference": "03620004M8P"
+  }
 }

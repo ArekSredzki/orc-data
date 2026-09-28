@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA46115",
   "country": "FRA",
+  "reference": "04330004F6M",
   "name": "SEDNA",
   "rating": {
     "gph": 669.9,
@@ -197,6 +198,5 @@
       7.52,
       8.25
     ]
-  },
-  "reference": "04330004F6M"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ECU/ECU14519",
   "country": "ECU",
+  "reference": "03880004H3P",
   "name": "BLUE MAGIC",
   "rating": {
     "gph": 526.0,
@@ -197,6 +198,5 @@
       9.23,
       10.46
     ]
-  },
-  "reference": "03880004H3P"
+  }
 }

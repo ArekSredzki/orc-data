@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GBR6054L",
   "country": "ITA",
+  "reference": "03190004SA2",
   "name": "GOOD GAME",
   "rating": {
     "gph": 477.0,
@@ -197,6 +198,5 @@
       9.8,
       10.66
     ]
-  },
-  "reference": "03190004SA2"
+  }
 }

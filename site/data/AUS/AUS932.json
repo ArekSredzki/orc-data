@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS932",
   "country": "AUS",
+  "reference": "03020004SQ4",
   "name": "Karabos",
   "rating": {
     "gph": 695.8,
@@ -197,6 +198,5 @@
       7.74,
       9.75
     ]
-  },
-  "reference": "03020004SQ4"
+  }
 }

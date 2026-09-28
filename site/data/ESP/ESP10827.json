@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10827",
   "country": "ESP",
+  "reference": "03510004HSK",
   "name": "ISSABELA",
   "rating": {
     "gph": 579.4,
@@ -197,6 +198,5 @@
       8.17,
       8.83
     ]
-  },
-  "reference": "03510004HSK"
+  }
 }

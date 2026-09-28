@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/211",
   "country": "AUS",
+  "reference": "03020004TVE",
   "name": "INDIGO II",
   "rating": {
     "gph": 492.3,
@@ -197,6 +198,5 @@
       10.27,
       12.63
     ]
-  },
-  "reference": "03020004TVE"
+  }
 }

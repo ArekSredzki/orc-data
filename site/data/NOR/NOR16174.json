@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16174",
   "country": "NOR",
+  "reference": "03440004MPR",
   "name": "Finally",
   "rating": {
     "gph": 598.1,
@@ -197,6 +198,5 @@
       8.1,
       8.75
     ]
-  },
-  "reference": "03440004MPR"
+  }
 }

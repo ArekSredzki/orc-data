@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN5245",
   "country": "FIN",
+  "reference": "04140004SWS",
   "name": "Emilia",
   "rating": {
     "gph": 713.0,
@@ -197,6 +198,5 @@
       7.06,
       7.95
     ]
-  },
-  "reference": "04140004SWS"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED83",
   "country": "NED",
+  "reference": "04310004K12",
   "name": "Badass",
   "rating": {
     "gph": 636.8,
@@ -197,6 +198,5 @@
       8.09,
       9.46
     ]
-  },
-  "reference": "04310004K12"
+  }
 }

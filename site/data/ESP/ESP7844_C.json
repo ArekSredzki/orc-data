@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7844_C",
   "country": "ESP",
+  "reference": "03510004PU4",
   "name": "WALTER GROPIUS",
   "rating": {
     "gph": 586.7,
@@ -197,6 +198,5 @@
       8.1,
       8.74
     ]
-  },
-  "reference": "03510004PU4"
+  }
 }

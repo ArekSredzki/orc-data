@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA24088",
   "country": "ITA",
+  "reference": "03190004NVS",
   "name": "JOKER",
   "rating": {
     "gph": 664.2,
@@ -197,6 +198,5 @@
       8.58,
       11.72
     ]
-  },
-  "reference": "03190004NVS"
+  }
 }

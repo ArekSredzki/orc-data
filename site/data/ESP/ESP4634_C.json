@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4634_C",
   "country": "ESP",
+  "reference": "03510004F7P",
   "name": "VEGA DOS",
   "rating": {
     "gph": 677.0,
@@ -197,6 +198,5 @@
       7.38,
       8.1
     ]
-  },
-  "reference": "03510004F7P"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS6671",
   "country": "AUS",
+  "reference": "03020004UVP",
   "name": "PROBLEM CHILD",
   "rating": {
     "gph": 596.7,
@@ -197,6 +198,5 @@
       9.1,
       11.79
     ]
-  },
-  "reference": "03020004UVP"
+  }
 }

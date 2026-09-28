@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1495",
   "country": "GRE",
+  "reference": "03420004I6N",
   "name": "NEUSIS",
   "rating": {
     "gph": 700.2,
@@ -197,6 +198,5 @@
       6.96,
       7.45
     ]
-  },
-  "reference": "03420004I6N"
+  }
 }

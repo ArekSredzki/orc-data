@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAREBELOT",
   "country": "ITA",
+  "reference": "03190004IQ2",
   "name": "REBELOT",
   "rating": {
     "gph": 654.4,
@@ -197,6 +198,5 @@
       7.94,
       10.12
     ]
-  },
-  "reference": "03190004IQ2"
+  }
 }

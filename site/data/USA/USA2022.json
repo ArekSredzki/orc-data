@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA2022",
   "country": "USA",
+  "reference": "04560004T4D",
   "name": "JAX",
   "rating": {
     "gph": 491.0,
@@ -197,6 +198,5 @@
       11.16,
       14.21
     ]
-  },
-  "reference": "04560004T4D"
+  }
 }

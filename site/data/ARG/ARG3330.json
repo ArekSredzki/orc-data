@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG3330",
   "country": "ARG",
+  "reference": "03880004BD7",
   "name": "BRAVURA",
   "rating": {
     "gph": 610.5,
@@ -197,6 +198,5 @@
       8.12,
       8.94
     ]
-  },
-  "reference": "03880004BD7"
+  }
 }

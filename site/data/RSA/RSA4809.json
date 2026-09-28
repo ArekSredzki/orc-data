@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4809",
   "country": "RSA",
+  "reference": "04620004RV4",
   "name": "Flica",
   "rating": {
     "gph": 618.5,
@@ -197,6 +198,5 @@
       7.72,
       9.69
     ]
-  },
-  "reference": "04620004RV4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2485",
   "country": "BRA",
+  "reference": "04420004J4I",
   "name": "O.ZETTA",
   "rating": {
     "gph": 642.8,
@@ -197,6 +198,5 @@
       7.73,
       8.4
     ]
-  },
-  "reference": "04420004J4I"
+  }
 }

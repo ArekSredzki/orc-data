@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10874_C",
   "country": "ESP",
+  "reference": "03510004IAB",
   "name": "GAUDIR",
   "rating": {
     "gph": 666.3,
@@ -197,6 +198,5 @@
       7.45,
       8.0
     ]
-  },
-  "reference": "03510004IAB"
+  }
 }

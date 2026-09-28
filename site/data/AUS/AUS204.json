@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS204",
   "country": "AUS",
+  "reference": "03020004UA8",
   "name": "Force 8",
   "rating": {
     "gph": 606.3,
@@ -197,6 +198,5 @@
       10.19,
       12.98
     ]
-  },
-  "reference": "03020004UA8"
+  }
 }

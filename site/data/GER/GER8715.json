@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8715",
   "country": "GER",
+  "reference": "03520004OTR",
   "name": "FAJU",
   "rating": {
     "gph": 521.6,
@@ -197,6 +198,5 @@
       9.3,
       10.59
     ]
-  },
-  "reference": "03520004OTR"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1010",
   "country": "TUR",
+  "reference": "04590004PVW",
   "name": "HIT TENTEN",
   "rating": {
     "gph": 604.7,
@@ -197,6 +198,5 @@
       7.75,
       9.68
     ]
-  },
-  "reference": "04590004PVW"
+  }
 }

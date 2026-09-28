@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2254",
   "country": "GRE",
+  "reference": "03420004TA2",
   "name": "HARPY",
   "rating": {
     "gph": 562.6,
@@ -197,6 +198,5 @@
       8.79,
       10.3
     ]
-  },
-  "reference": "03420004TA2"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1528",
   "country": "GRE",
+  "reference": "03420004HIR",
   "name": "STAVENTO",
   "rating": {
     "gph": 727.2,
@@ -197,6 +198,5 @@
       7.03,
       7.64
     ]
-  },
-  "reference": "03420004HIR"
+  }
 }

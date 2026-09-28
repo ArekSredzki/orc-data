@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8901",
   "country": "GER",
+  "reference": "03520004WRK",
   "name": "SAKURA",
   "rating": {
     "gph": 550.2,
@@ -197,6 +198,5 @@
       9.38,
       12.1
     ]
-  },
-  "reference": "03520004WRK"
+  }
 }

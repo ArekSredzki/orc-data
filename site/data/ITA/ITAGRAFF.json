@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAGRAFF",
   "country": "ITA",
+  "reference": "03190004NVJ",
   "name": "GRAFFIO VITA SOL",
   "rating": {
     "gph": 603.8,
@@ -197,6 +198,5 @@
       9.96,
       13.11
     ]
-  },
-  "reference": "03190004NVJ"
+  }
 }

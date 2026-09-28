@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9690_C",
   "country": "ESP",
+  "reference": "03510004B09",
   "name": "CABALLO LOCO",
   "rating": {
     "gph": 702.4,
@@ -197,6 +198,5 @@
       7.15,
       8.48
     ]
-  },
-  "reference": "03510004B09"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2961",
   "country": "CRO",
+  "reference": "03620004LO6",
   "name": "July",
   "rating": {
     "gph": 582.1,
@@ -197,6 +198,5 @@
       8.83,
       11.55
     ]
-  },
-  "reference": "03620004LO6"
+  }
 }

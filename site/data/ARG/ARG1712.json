@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG1712",
   "country": "ARG",
+  "reference": "03880004N2B",
   "name": "RENA",
   "rating": {
     "gph": 693.7,
@@ -197,6 +198,5 @@
       7.13,
       7.77
     ]
-  },
-  "reference": "03880004N2B"
+  }
 }

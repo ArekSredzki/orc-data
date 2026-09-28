@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16621",
   "country": "ITA",
+  "reference": "03190004HK8",
   "name": "LANCILLOTTO",
   "rating": {
     "gph": 581.0,
@@ -197,6 +198,5 @@
       8.57,
       9.48
     ]
-  },
-  "reference": "03190004HK8"
+  }
 }

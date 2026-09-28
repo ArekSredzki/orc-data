@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14959",
   "country": "ITA",
+  "reference": "03190004BT3",
   "name": "ALL TOGETHER II",
   "rating": {
     "gph": 563.4,
@@ -197,6 +198,5 @@
       8.48,
       9.14
     ]
-  },
-  "reference": "03190004BT3"
+  }
 }

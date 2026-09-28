@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITALNBC25",
   "country": "ITA",
+  "reference": "03190004UTP",
   "name": "LUNA BIANCA",
   "rating": {
     "gph": 613.4,
@@ -197,6 +198,5 @@
       8.17,
       8.8
     ]
-  },
-  "reference": "03190004UTP"
+  }
 }

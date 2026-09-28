@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL42",
   "country": "BUL",
+  "reference": "03850004VRV",
   "name": "Metch",
   "rating": {
     "gph": 724.2,
@@ -197,6 +198,5 @@
       6.8,
       7.51
     ]
-  },
-  "reference": "03850004VRV"
+  }
 }

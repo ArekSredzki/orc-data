@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10558",
   "country": "ESP",
+  "reference": "03510004SFB",
   "name": "ATLAS",
   "rating": {
     "gph": 733.6,
@@ -197,6 +198,5 @@
       6.91,
       7.46
     ]
-  },
-  "reference": "03510004SFB"
+  }
 }

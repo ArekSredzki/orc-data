@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16128",
   "country": "ITA",
+  "reference": "03190004T2J",
   "name": "MARKOTANI",
   "rating": {
     "gph": 621.3,
@@ -197,6 +198,5 @@
       7.75,
       8.45
     ]
-  },
-  "reference": "03190004T2J"
+  }
 }

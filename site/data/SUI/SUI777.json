@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI777",
   "country": "SUI",
+  "reference": "030800048NE",
   "name": "LUCKY MACKY",
   "rating": {
     "gph": 676.5,
@@ -197,6 +198,5 @@
       7.82,
       10.85
     ]
-  },
-  "reference": "030800048NE"
+  }
 }

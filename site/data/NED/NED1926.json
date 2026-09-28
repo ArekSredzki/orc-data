@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED1926",
   "country": "NED",
+  "reference": "04310004TT6",
   "name": "Piranha",
   "rating": {
     "gph": 768.2,
@@ -197,6 +198,5 @@
       6.43,
       6.98
     ]
-  },
-  "reference": "04310004TT6"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE396",
   "country": "GRE",
+  "reference": "03420004IOJ",
   "name": "ISIDOROS",
   "rating": {
     "gph": 743.5,
@@ -197,6 +198,5 @@
       6.78,
       7.34
     ]
-  },
-  "reference": "03420004IOJ"
+  }
 }

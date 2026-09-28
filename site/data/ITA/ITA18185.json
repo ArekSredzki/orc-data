@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18185",
   "country": "ITA",
+  "reference": "03190004F7H",
   "name": "OSSO DI SEPPIA",
   "rating": {
     "gph": 700.7,
@@ -197,6 +198,5 @@
       8.35,
       11.84
     ]
-  },
-  "reference": "03190004F7H"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2322",
   "country": "CRO",
+  "reference": "03620004S0A",
   "name": "Psyche",
   "rating": {
     "gph": 629.6,
@@ -197,6 +198,5 @@
       7.94,
       8.66
     ]
-  },
-  "reference": "03620004S0A"
+  }
 }

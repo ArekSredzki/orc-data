@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST262",
   "country": "EST",
+  "reference": "04340004QTH",
   "name": "HEDWIG",
   "rating": {
     "gph": 775.0,
@@ -197,6 +198,5 @@
       6.41,
       6.97
     ]
-  },
-  "reference": "04340004QTH"
+  }
 }

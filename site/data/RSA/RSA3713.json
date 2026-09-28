@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3713",
   "country": "RSA",
+  "reference": "04620004ET4",
   "name": "Libra",
   "rating": {
     "gph": 634.8,
@@ -197,6 +198,5 @@
       7.74,
       8.46
     ]
-  },
-  "reference": "04620004ET4"
+  }
 }

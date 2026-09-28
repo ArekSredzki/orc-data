@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7110",
   "country": "ESP",
+  "reference": "03510004U6V",
   "name": "LA ESTRELLA AZUL",
   "rating": {
     "gph": 588.9,
@@ -197,6 +198,5 @@
       8.21,
       8.96
     ]
-  },
-  "reference": "03510004U6V"
+  }
 }

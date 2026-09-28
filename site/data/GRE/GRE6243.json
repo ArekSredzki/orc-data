@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE6243",
   "country": "GRE",
+  "reference": "03420004NMP",
   "name": "IOANNIS",
   "rating": {
     "gph": 739.6,
@@ -197,6 +198,5 @@
       6.79,
       7.36
     ]
-  },
-  "reference": "03420004NMP"
+  }
 }

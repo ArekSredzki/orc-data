@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN2833",
   "country": "HUN",
+  "reference": "04890004UC3",
   "name": "CRUSADER",
   "rating": {
     "gph": 580.0,
@@ -197,6 +198,5 @@
       7.84,
       8.62
     ]
-  },
-  "reference": "04890004UC3"
+  }
 }

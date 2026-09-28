@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITASERAP",
   "country": "ITA",
+  "reference": "03190004S01",
   "name": "SERAPHIN",
   "rating": {
     "gph": 612.6,
@@ -197,6 +198,5 @@
       8.52,
       9.67
     ]
-  },
-  "reference": "03190004S01"
+  }
 }

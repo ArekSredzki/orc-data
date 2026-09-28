@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8093",
   "country": "ESP",
+  "reference": "03510004Q71",
   "name": "TAGOMAGO III",
   "rating": {
     "gph": 576.9,
@@ -197,6 +198,5 @@
       8.29,
       9.12
     ]
-  },
-  "reference": "03510004Q71"
+  }
 }

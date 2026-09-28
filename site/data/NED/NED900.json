@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED900",
   "country": "NED",
+  "reference": "04310004K28",
   "name": "Frats",
   "rating": {
     "gph": 657.5,
@@ -197,6 +198,5 @@
       7.56,
       8.35
     ]
-  },
-  "reference": "04310004K28"
+  }
 }

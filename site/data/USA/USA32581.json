@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA32581",
   "country": "USA",
+  "reference": "04560004H18",
   "name": "SCOUTING  EDGE",
   "rating": {
     "gph": 603.3,
@@ -197,6 +198,5 @@
       7.62,
       9.19
     ]
-  },
-  "reference": "04560004H18"
+  }
 }

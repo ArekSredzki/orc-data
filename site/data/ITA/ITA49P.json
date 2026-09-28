@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA49P",
   "country": "ITA",
+  "reference": "03190004HME",
   "name": "CITTA' DEI MILLE",
   "rating": {
     "gph": 645.8,
@@ -197,6 +198,5 @@
       8.99,
       11.94
     ]
-  },
-  "reference": "03190004HME"
+  }
 }

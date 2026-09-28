@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8440",
   "country": "ESP",
+  "reference": "03510005041",
   "name": "DE 6",
   "rating": {
     "gph": 614.3,

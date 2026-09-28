@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP71",
   "country": "ESP",
+  "reference": "03510004JFJ",
   "name": "ATLANT DEL VENT",
   "rating": {
     "gph": 547.3,
@@ -197,6 +198,5 @@
       9.15,
       10.49
     ]
-  },
-  "reference": "03510004JFJ"
+  }
 }

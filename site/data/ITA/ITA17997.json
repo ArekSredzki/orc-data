@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17997",
   "country": "ITA",
+  "reference": "03190004PVL",
   "name": "SHARDANA",
   "rating": {
     "gph": 623.7,
@@ -197,6 +198,5 @@
       8.05,
       9.03
     ]
-  },
-  "reference": "03190004PVL"
+  }
 }

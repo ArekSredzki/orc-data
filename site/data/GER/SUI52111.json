@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/SUI52111",
   "country": "GER",
+  "reference": "03520004P0L",
   "name": "MUSICA",
   "rating": {
     "gph": 428.3,
@@ -197,6 +198,5 @@
       13.6,
       16.98
     ]
-  },
-  "reference": "03520004P0L"
+  }
 }

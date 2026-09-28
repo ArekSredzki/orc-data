@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA42121",
   "country": "USA",
+  "reference": "04560004UCS",
   "name": "DEAN'S LIST",
   "rating": {
     "gph": 608.7,
@@ -197,6 +198,5 @@
       7.93,
       8.79
     ]
-  },
-  "reference": "04560004UCS"
+  }
 }

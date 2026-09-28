@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR019",
   "country": "ISR",
+  "reference": "0439000483F",
   "name": "Gefen",
   "rating": {
     "gph": 601.3,
@@ -197,6 +198,5 @@
       8.32,
       9.73
     ]
-  },
-  "reference": "0439000483F"
+  }
 }

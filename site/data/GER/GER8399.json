@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8399",
   "country": "GER",
+  "reference": "02920004W08",
   "name": "RED BANDIT",
   "rating": {
     "gph": 441.4,
@@ -197,6 +198,5 @@
       13.27,
       16.52
     ]
-  },
-  "reference": "02920004W08"
+  }
 }

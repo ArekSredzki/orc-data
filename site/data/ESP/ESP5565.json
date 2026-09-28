@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5565",
   "country": "ESP",
+  "reference": "03510004UT4",
   "name": "MALVADOS",
   "rating": {
     "gph": 584.6,
@@ -197,6 +198,5 @@
       8.1,
       9.49
     ]
-  },
-  "reference": "03510004UT4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/GBR9570",
   "country": "NED",
+  "reference": "04310004K93",
   "name": "Jaguar of Burnham",
   "rating": {
     "gph": 609.4,
@@ -197,6 +198,5 @@
       7.67,
       8.73
     ]
-  },
-  "reference": "04310004K93"
+  }
 }

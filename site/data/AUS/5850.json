@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/5850",
   "country": "AUS",
+  "reference": "03020004TV8",
   "name": "Haupia",
   "rating": {
     "gph": 612.9,
@@ -197,6 +198,5 @@
       7.86,
       8.62
     ]
-  },
-  "reference": "03020004TV8"
+  }
 }

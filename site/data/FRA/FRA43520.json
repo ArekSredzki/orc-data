@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA43520",
   "country": "FRA",
+  "reference": "04330004VKH",
   "name": "AZZAHR",
   "rating": {
     "gph": 555.6,
@@ -197,6 +198,5 @@
       8.54,
       9.29
     ]
-  },
-  "reference": "04330004VKH"
+  }
 }

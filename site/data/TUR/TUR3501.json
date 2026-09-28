@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR3501",
   "country": "TUR",
+  "reference": "04590004JC0",
   "name": "HIT X",
   "rating": {
     "gph": 575.4,
@@ -197,6 +198,5 @@
       8.26,
       10.07
     ]
-  },
-  "reference": "04590004JC0"
+  }
 }

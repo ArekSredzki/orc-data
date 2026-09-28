@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE4303",
   "country": "GRE",
+  "reference": "03420004OVE",
   "name": "GEROLIMENAS",
   "rating": {
     "gph": 702.9,
@@ -197,6 +198,5 @@
       7.1,
       7.71
     ]
-  },
-  "reference": "03420004OVE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8765",
   "country": "ESP",
+  "reference": "03510004S2E",
   "name": "SALSEIRO C",
   "rating": {
     "gph": 560.0,
@@ -197,6 +198,5 @@
       8.54,
       9.43
     ]
-  },
-  "reference": "03510004S2E"
+  }
 }

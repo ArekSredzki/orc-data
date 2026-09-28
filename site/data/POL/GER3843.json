@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/GER3843",
   "country": "POL",
+  "reference": "04410004W1D",
   "name": "VITA NOVA",
   "rating": {
     "gph": 630.1,
@@ -197,6 +198,5 @@
       7.87,
       8.69
     ]
-  },
-  "reference": "04410004W1D"
+  }
 }

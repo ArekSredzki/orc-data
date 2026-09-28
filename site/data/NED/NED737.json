@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED737",
   "country": "NED",
+  "reference": "04310004JWM",
   "name": "IJsvogel",
   "rating": {
     "gph": 843.8,
@@ -197,6 +198,5 @@
       6.19,
       6.73
     ]
-  },
-  "reference": "04310004JWM"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP37001",
   "country": "ESP",
+  "reference": "035100050D4",
   "name": "TRIS TRAS",
   "rating": {
     "gph": 587.6,

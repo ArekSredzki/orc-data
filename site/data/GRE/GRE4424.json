@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE4424",
   "country": "GRE",
+  "reference": "03420004KCP",
   "name": "ELISSO",
   "rating": {
     "gph": 858.4,
@@ -197,6 +198,5 @@
       6.35,
       6.8
     ]
-  },
-  "reference": "03420004KCP"
+  }
 }

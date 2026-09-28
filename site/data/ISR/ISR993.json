@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR993",
   "country": "ISR",
+  "reference": "0439000483W",
   "name": "Fearless",
   "rating": {
     "gph": 638.4,
@@ -197,6 +198,5 @@
       7.84,
       8.53
     ]
-  },
-  "reference": "0439000483W"
+  }
 }

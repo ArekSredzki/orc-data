@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA2954",
   "country": "RSA",
+  "reference": "046200048AU",
   "name": "Sheshisa",
   "rating": {
     "gph": 616.5,
@@ -197,6 +198,5 @@
       8.17,
       8.91
     ]
-  },
-  "reference": "046200048AU"
+  }
 }

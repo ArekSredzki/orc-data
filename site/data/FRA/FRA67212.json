@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA67212",
   "country": "FRA",
+  "reference": "04330004KV4",
   "name": "ALGOL V",
   "rating": {
     "gph": 560.5,
@@ -197,6 +198,5 @@
       8.9,
       9.56
     ]
-  },
-  "reference": "04330004KV4"
+  }
 }

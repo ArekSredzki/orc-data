@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA46553",
   "country": "FRA",
+  "reference": "04330004NV4",
   "name": "ACHNACARRY",
   "rating": {
     "gph": 634.1,
@@ -197,6 +198,5 @@
       7.55,
       8.17
     ]
-  },
-  "reference": "04330004NV4"
+  }
 }

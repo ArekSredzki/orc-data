@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST646",
   "country": "EST",
+  "reference": "04340004W77",
   "name": "SHADOW",
   "rating": {
     "gph": 608.1,
@@ -197,6 +198,5 @@
       7.86,
       9.73
     ]
-  },
-  "reference": "04340004W77"
+  }
 }

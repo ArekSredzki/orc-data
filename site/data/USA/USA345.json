@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA345",
   "country": "USA",
+  "reference": "04560004W2P",
   "name": "OUT OF THE BLUE",
   "rating": {
     "gph": 665.0,
@@ -197,6 +198,5 @@
       7.57,
       8.44
     ]
-  },
-  "reference": "04560004W2P"
+  }
 }

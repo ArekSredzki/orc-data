@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17762",
   "country": "ITA",
+  "reference": "03190004VLW",
   "name": "ISOLA DELLE ROSE",
   "rating": {
     "gph": 609.2,
@@ -197,6 +198,5 @@
       10.43,
       13.58
     ]
-  },
-  "reference": "03190004VLW"
+  }
 }

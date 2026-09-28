@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST420",
   "country": "EST",
+  "reference": "04340004R9B",
   "name": "Isabell X2",
   "rating": {
     "gph": 580.1,
@@ -197,6 +198,5 @@
       8.29,
       9.06
     ]
-  },
-  "reference": "04340004R9B"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5117_C",
   "country": "ESP",
+  "reference": "03510004S29",
   "name": "DISPARATE III",
   "rating": {
     "gph": 594.2,
@@ -197,6 +198,5 @@
       8.23,
       8.94
     ]
-  },
-  "reference": "03510004S29"
+  }
 }

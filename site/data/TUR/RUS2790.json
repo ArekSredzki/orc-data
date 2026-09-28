@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/RUS2790",
   "country": "TUR",
+  "reference": "04590004O2K",
   "name": "COURRIER DU COEUR",
   "rating": {
     "gph": 551.1,
@@ -197,6 +198,5 @@
       8.52,
       9.96
     ]
-  },
-  "reference": "04590004O2K"
+  }
 }

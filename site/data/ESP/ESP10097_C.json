@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10097_C",
   "country": "ESP",
+  "reference": "0351000488B",
   "name": "INVICTUS",
   "rating": {
     "gph": 609.4,
@@ -197,6 +198,5 @@
       8.33,
       11.17
     ]
-  },
-  "reference": "0351000488B"
+  }
 }

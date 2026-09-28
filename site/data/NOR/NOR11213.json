@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11213",
   "country": "NOR",
+  "reference": "03440004LL6",
   "name": "Xanthippe III",
   "rating": {
     "gph": 633.0,
@@ -197,6 +198,5 @@
       7.87,
       8.51
     ]
-  },
-  "reference": "03440004LL6"
+  }
 }

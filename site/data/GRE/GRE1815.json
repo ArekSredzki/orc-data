@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1815",
   "country": "GRE",
+  "reference": "03420004NEJ",
   "name": "MELIPLOE",
   "rating": {
     "gph": 621.5,
@@ -197,6 +198,5 @@
       8.2,
       8.91
     ]
-  },
-  "reference": "03420004NEJ"
+  }
 }

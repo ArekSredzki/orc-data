@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8782",
   "country": "GER",
+  "reference": "03520004RLQ",
   "name": "DIZZY MISS LIZZY",
   "rating": {
     "gph": 566.4,
@@ -197,6 +198,5 @@
       9.19,
       11.76
     ]
-  },
-  "reference": "03520004RLQ"
+  }
 }

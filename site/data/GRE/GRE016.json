@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE016",
   "country": "GRE",
+  "reference": "03420004HSS",
   "name": "AETHER",
   "rating": {
     "gph": 601.2,
@@ -197,6 +198,5 @@
       8.53,
       11.96
     ]
-  },
-  "reference": "03420004HSS"
+  }
 }

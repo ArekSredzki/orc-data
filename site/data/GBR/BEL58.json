@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/BEL58",
   "country": "GBR",
+  "reference": "03860004W6L",
   "name": "NARAYANA",
   "rating": {
     "gph": 501.5,
@@ -197,6 +198,5 @@
       9.66,
       10.72
     ]
-  },
-  "reference": "03860004W6L"
+  }
 }

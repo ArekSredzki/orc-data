@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1340",
   "country": "GRE",
+  "reference": "03420004NK3",
   "name": "FILIRA",
   "rating": {
     "gph": 638.4,
@@ -197,6 +198,5 @@
       7.74,
       8.42
     ]
-  },
-  "reference": "03420004NK3"
+  }
 }

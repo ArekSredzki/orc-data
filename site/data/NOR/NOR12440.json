@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12440",
   "country": "NOR",
+  "reference": "03440004WDW",
   "name": "Lille My",
   "rating": {
     "gph": 576.3,
@@ -197,6 +198,5 @@
       8.25,
       9.33
     ]
-  },
-  "reference": "03440004WDW"
+  }
 }

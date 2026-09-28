@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG3939",
   "country": "ARG",
+  "reference": "03880004B36",
   "name": "FUGA",
   "rating": {
     "gph": 539.0,
@@ -197,6 +198,5 @@
       9.19,
       10.67
     ]
-  },
-  "reference": "03880004B36"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN2408",
   "country": "CAN",
+  "reference": "03430004WVC",
   "name": "Zulu 5",
   "rating": {
     "gph": 487.5,
@@ -197,6 +198,5 @@
       12.53,
       15.91
     ]
-  },
-  "reference": "03430004WVC"
+  }
 }

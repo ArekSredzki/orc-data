@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/CRO2600",
   "country": "AUT",
+  "reference": "03210004LQR",
   "name": "Ikarus",
   "rating": {
     "gph": 589.3,
@@ -197,6 +198,5 @@
       8.15,
       8.86
     ]
-  },
-  "reference": "03210004LQR"
+  }
 }

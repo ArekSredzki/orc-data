@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE332",
   "country": "GRE",
+  "reference": "03420004OV7",
   "name": "ESCAPE",
   "rating": {
     "gph": 658.3,
@@ -197,6 +198,5 @@
       7.69,
       8.42
     ]
-  },
-  "reference": "03420004OV7"
+  }
 }

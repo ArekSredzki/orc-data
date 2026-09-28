@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL20192",
   "country": "POL",
+  "reference": "04410004R5O",
   "name": "MIRABELLE",
   "rating": {
     "gph": 745.6,
@@ -197,6 +198,5 @@
       6.78,
       7.34
     ]
-  },
-  "reference": "04410004R5O"
+  }
 }

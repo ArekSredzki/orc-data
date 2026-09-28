@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA35559",
   "country": "FRA",
+  "reference": "04330004NV1",
   "name": "ELEGANTLY",
   "rating": {
     "gph": 571.6,
@@ -197,6 +198,5 @@
       8.17,
       9.59
     ]
-  },
-  "reference": "04330004NV1"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/GBR1234X",
   "country": "POR",
+  "reference": "03530004BE6",
   "name": "PEDE MAR",
   "rating": {
     "gph": 584.1,
@@ -197,6 +198,5 @@
       8.32,
       9.1
     ]
-  },
-  "reference": "03530004BE6"
+  }
 }

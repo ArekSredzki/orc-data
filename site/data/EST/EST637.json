@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST637",
   "country": "EST",
+  "reference": "04340004TEO",
   "name": "GEMMA",
   "rating": {
     "gph": 734.6,
@@ -197,6 +198,5 @@
       6.68,
       7.31
     ]
-  },
-  "reference": "04340004TEO"
+  }
 }

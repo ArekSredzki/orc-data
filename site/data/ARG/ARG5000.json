@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5000",
   "country": "ARG",
+  "reference": "03880004B37",
   "name": "FORTUNA III",
   "rating": {
     "gph": 472.9,
@@ -197,6 +198,5 @@
       10.3,
       11.96
     ]
-  },
-  "reference": "03880004B37"
+  }
 }

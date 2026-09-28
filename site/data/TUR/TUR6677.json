@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR6677",
   "country": "TUR",
+  "reference": "0459000485C",
   "name": "NORA",
   "rating": {
     "gph": 589.3,
@@ -197,6 +198,5 @@
       8.44,
       9.27
     ]
-  },
-  "reference": "0459000485C"
+  }
 }

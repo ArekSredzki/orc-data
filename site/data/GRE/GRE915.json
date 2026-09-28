@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE915",
   "country": "GRE",
+  "reference": "03420004STW",
   "name": "O PANORMITIS",
   "rating": {
     "gph": 800.1,
@@ -197,6 +198,5 @@
       6.28,
       6.87
     ]
-  },
-  "reference": "03420004STW"
+  }
 }

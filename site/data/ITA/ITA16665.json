@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16665",
   "country": "ITA",
+  "reference": "03190004EOR",
   "name": "URLO",
   "rating": {
     "gph": 613.2,
@@ -197,6 +198,5 @@
       7.96,
       9.32
     ]
-  },
-  "reference": "03190004EOR"
+  }
 }

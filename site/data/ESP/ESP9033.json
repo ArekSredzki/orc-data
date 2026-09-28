@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9033",
   "country": "ESP",
+  "reference": "03510004LB2",
   "name": "MILU",
   "rating": {
     "gph": 641.9,
@@ -197,6 +198,5 @@
       7.37,
       7.96
     ]
-  },
-  "reference": "03510004LB2"
+  }
 }

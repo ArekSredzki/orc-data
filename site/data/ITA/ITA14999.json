@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14999",
   "country": "ITA",
+  "reference": "03190004HNB",
   "name": "M.ART",
   "rating": {
     "gph": 615.4,
@@ -197,6 +198,5 @@
       8.26,
       9.27
     ]
-  },
-  "reference": "03190004HNB"
+  }
 }

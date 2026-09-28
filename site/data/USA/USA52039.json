@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52039",
   "country": "USA",
+  "reference": "04560004SIT",
   "name": "JAHAZI",
   "rating": {
     "gph": 567.6,
@@ -197,6 +198,5 @@
       8.48,
       10.4
     ]
-  },
-  "reference": "04560004SIT"
+  }
 }

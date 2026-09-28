@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR301",
   "country": "TUR",
+  "reference": "04590004N3B",
   "name": "PERFORMANS YELKEN",
   "rating": {
     "gph": 688.9,
@@ -197,6 +198,5 @@
       9.05,
       12.11
     ]
-  },
-  "reference": "04590004N3B"
+  }
 }

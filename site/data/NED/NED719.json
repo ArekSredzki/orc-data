@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED719",
   "country": "NED",
+  "reference": "04310004JWD",
   "name": "MERYN",
   "rating": {
     "gph": 752.0,
@@ -197,6 +198,5 @@
       6.85,
       7.38
     ]
-  },
-  "reference": "04310004JWD"
+  }
 }

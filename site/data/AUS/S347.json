@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/S347",
   "country": "AUS",
+  "reference": "03020004UKF",
   "name": "SPARTAN",
   "rating": {
     "gph": 629.1,
@@ -197,6 +198,5 @@
       7.81,
       8.58
     ]
-  },
-  "reference": "03020004UKF"
+  }
 }

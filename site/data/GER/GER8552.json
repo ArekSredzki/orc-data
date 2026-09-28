@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8552",
   "country": "GER",
+  "reference": "04150004KLH",
   "name": "DAISY",
   "rating": {
     "gph": 594.6,
@@ -197,6 +198,5 @@
       8.19,
       8.76
     ]
-  },
-  "reference": "04150004KLH"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN1122",
   "country": "JPN",
+  "reference": "03390004QMD",
   "name": "1122 TREKKEE",
   "rating": {
     "gph": 505.3,
@@ -197,6 +198,5 @@
       10.79,
       14.07
     ]
-  },
-  "reference": "03390004QMD"
+  }
 }

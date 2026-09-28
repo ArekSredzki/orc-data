@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53341",
   "country": "FRA",
+  "reference": "04330004KUT",
   "name": "ALMOGAVER",
   "rating": {
     "gph": 623.8,
@@ -197,6 +198,5 @@
       8.08,
       9.38
     ]
-  },
-  "reference": "04330004KUT"
+  }
 }

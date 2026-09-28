@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15951",
   "country": "NOR",
+  "reference": "03440004ISO",
   "name": "Sheep Dip",
   "rating": {
     "gph": 562.1,
@@ -197,6 +198,5 @@
       8.45,
       9.69
     ]
-  },
-  "reference": "03440004ISO"
+  }
 }

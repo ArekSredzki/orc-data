@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/MLT5",
   "country": "ESP",
+  "reference": "03510004B83",
   "name": "BALTHASAR",
   "rating": {
     "gph": 365.1,
@@ -197,6 +198,5 @@
       15.51,
       18.64
     ]
-  },
-  "reference": "03510004B83"
+  }
 }

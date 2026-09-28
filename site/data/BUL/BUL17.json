@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL17",
   "country": "BUL",
+  "reference": "03850004W66",
   "name": "PAREA",
   "rating": {
     "gph": 597.8,
@@ -197,6 +198,5 @@
       8.32,
       9.11
     ]
-  },
-  "reference": "03850004W66"
+  }
 }

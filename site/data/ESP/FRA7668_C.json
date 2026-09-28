@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/FRA7668_C",
   "country": "ESP",
+  "reference": "03510004N2W",
   "name": "SUKA",
   "rating": {
     "gph": 532.8,
@@ -197,6 +198,5 @@
       10.54,
       13.78
     ]
-  },
-  "reference": "03510004N2W"
+  }
 }

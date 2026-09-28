@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR512",
   "country": "ISR",
+  "reference": "0439000483N",
   "name": "Lihi",
   "rating": {
     "gph": 640.1,
@@ -197,6 +198,5 @@
       7.64,
       9.17
     ]
-  },
-  "reference": "0439000483N"
+  }
 }

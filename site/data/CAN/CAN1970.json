@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN1970",
   "country": "CAN",
+  "reference": "03430004OP1",
   "name": "Good Humour",
   "rating": {
     "gph": 556.5,
@@ -197,6 +198,5 @@
       8.47,
       9.12
     ]
-  },
-  "reference": "03430004OP1"
+  }
 }

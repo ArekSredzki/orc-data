@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/42513",
   "country": "USA",
+  "reference": "04560004QBU",
   "name": "Loki",
   "rating": {
     "gph": 645.4,
@@ -197,6 +198,5 @@
       7.21,
       7.79
     ]
-  },
-  "reference": "04560004QBU"
+  }
 }

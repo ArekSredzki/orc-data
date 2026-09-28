@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN8670",
   "country": "FIN",
+  "reference": "04140004PB1",
   "name": "Quest",
   "rating": {
     "gph": 655.3,
@@ -197,6 +198,5 @@
       7.65,
       8.36
     ]
-  },
-  "reference": "04140004PB1"
+  }
 }

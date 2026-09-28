@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17733",
   "country": "ITA",
+  "reference": "03190004EOD",
   "name": "ARIA",
   "rating": {
     "gph": 619.7,
@@ -197,6 +198,5 @@
       7.61,
       8.63
     ]
-  },
-  "reference": "03190004EOD"
+  }
 }

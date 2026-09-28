@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/SWE10019_C",
   "country": "ESP",
+  "reference": "03510004B89",
   "name": "CHICA",
   "rating": {
     "gph": 573.0,
@@ -197,6 +198,5 @@
       8.36,
       9.1
     ]
-  },
-  "reference": "03510004B89"
+  }
 }

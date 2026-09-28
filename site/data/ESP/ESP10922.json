@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10922",
   "country": "ESP",
+  "reference": "03510004QJ9",
   "name": "GUAGUANCO IV",
   "rating": {
     "gph": 609.0,
@@ -197,6 +198,5 @@
       8.51,
       11.32
     ]
-  },
-  "reference": "03510004QJ9"
+  }
 }

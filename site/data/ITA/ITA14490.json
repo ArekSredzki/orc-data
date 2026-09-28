@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14490",
   "country": "ITA",
+  "reference": "03190004OLE",
   "name": "VITAMINA",
   "rating": {
     "gph": 603.8,
@@ -197,6 +198,5 @@
       8.28,
       9.07
     ]
-  },
-  "reference": "03190004OLE"
+  }
 }

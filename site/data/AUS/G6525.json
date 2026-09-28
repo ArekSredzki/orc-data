@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/G6525",
   "country": "AUS",
+  "reference": "03020004UVL",
   "name": "THE USUAL SUSPECTS",
   "rating": {
     "gph": 637.5,
@@ -197,6 +198,5 @@
       7.89,
       8.86
     ]
-  },
-  "reference": "03020004UVL"
+  }
 }

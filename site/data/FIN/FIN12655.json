@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12655",
   "country": "FIN",
+  "reference": "04140004QLC",
   "name": "Adela",
   "rating": {
     "gph": 575.2,
@@ -197,6 +198,5 @@
       8.59,
       9.56
     ]
-  },
-  "reference": "04140004QLC"
+  }
 }

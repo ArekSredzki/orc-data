@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17418",
   "country": "ITA",
+  "reference": "03190004H0M",
   "name": "PRENDIFIATO 2",
   "rating": {
     "gph": 586.6,
@@ -197,6 +198,5 @@
       8.4,
       10.84
     ]
-  },
-  "reference": "03190004H0M"
+  }
 }

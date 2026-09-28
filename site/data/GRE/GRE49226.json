@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49226",
   "country": "GRE",
+  "reference": "03420004LE5",
   "name": "GIORGINO",
   "rating": {
     "gph": 812.1,
@@ -197,6 +198,5 @@
       6.49,
       7.01
     ]
-  },
-  "reference": "03420004LE5"
+  }
 }

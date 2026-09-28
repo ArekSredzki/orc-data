@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2585_C",
   "country": "ESP",
+  "reference": "03510004B21",
   "name": "EL VICTORIA V",
   "rating": {
     "gph": 659.1,
@@ -197,6 +198,5 @@
       7.65,
       8.26
     ]
-  },
-  "reference": "03510004B21"
+  }
 }

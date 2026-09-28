@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17715",
   "country": "ITA",
+  "reference": "03190004C1V",
   "name": "MEDEA",
   "rating": {
     "gph": 612.6,
@@ -197,6 +198,5 @@
       7.79,
       8.42
     ]
-  },
-  "reference": "03190004C1V"
+  }
 }

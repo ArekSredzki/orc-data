@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA83121",
   "country": "USA",
+  "reference": "04560004UJA",
   "name": "SPLIT DECISION",
   "rating": {
     "gph": 599.9,
@@ -197,6 +198,5 @@
       7.84,
       8.35
     ]
-  },
-  "reference": "04560004UJA"
+  }
 }

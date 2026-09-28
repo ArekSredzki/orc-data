@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2504",
   "country": "CRO",
+  "reference": "03620004B14",
   "name": "Kana",
   "rating": {
     "gph": 566.1,
@@ -197,6 +198,5 @@
       9.31,
       12.57
     ]
-  },
-  "reference": "03620004B14"
+  }
 }

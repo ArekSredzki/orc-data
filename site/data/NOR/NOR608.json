@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR608",
   "country": "NOR",
+  "reference": "03440004RQC",
   "name": "Helene",
   "rating": {
     "gph": 665.5,
@@ -197,6 +198,5 @@
       8.37,
       11.58
     ]
-  },
-  "reference": "03440004RQC"
+  }
 }

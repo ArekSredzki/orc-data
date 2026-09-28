@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR66",
   "country": "NOR",
+  "reference": "03440004S2P",
   "name": "Xanadu",
   "rating": {
     "gph": 569.0,
@@ -197,6 +198,5 @@
       8.73,
       9.8
     ]
-  },
-  "reference": "03440004S2P"
+  }
 }

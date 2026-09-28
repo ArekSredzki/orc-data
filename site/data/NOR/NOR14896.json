@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14896",
   "country": "NOR",
+  "reference": "03440004P3C",
   "name": "POD",
   "rating": {
     "gph": 662.2,
@@ -197,6 +198,5 @@
       8.68,
       11.81
     ]
-  },
-  "reference": "03440004P3C"
+  }
 }

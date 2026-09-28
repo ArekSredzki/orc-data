@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52439",
   "country": "USA",
+  "reference": "04560004KO7",
   "name": "KALEVALA II",
   "rating": {
     "gph": 600.0,
@@ -197,6 +198,5 @@
       8.13,
       8.85
     ]
-  },
-  "reference": "04560004KO7"
+  }
 }

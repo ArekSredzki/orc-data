@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8471",
   "country": "ESP",
+  "reference": "03510004MNJ",
   "name": "NEMOX",
   "rating": {
     "gph": 609.9,
@@ -197,6 +198,5 @@
       8.14,
       9.1
     ]
-  },
-  "reference": "03510004MNJ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2676",
   "country": "CRO",
+  "reference": "03620004LWA",
   "name": "Beauty",
   "rating": {
     "gph": 647.0,
@@ -197,6 +198,5 @@
       7.97,
       8.76
     ]
-  },
-  "reference": "03620004LWA"
+  }
 }

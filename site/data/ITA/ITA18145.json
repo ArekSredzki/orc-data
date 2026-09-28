@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18145",
   "country": "ITA",
+  "reference": "03190004NOC",
   "name": "SWANDERFUL",
   "rating": {
     "gph": 519.4,
@@ -197,6 +198,5 @@
       8.98,
       10.75
     ]
-  },
-  "reference": "03190004NOC"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA2025",
   "country": "USA",
+  "reference": "04560004SPO",
   "name": "INTERLODGE VIII",
   "rating": {
     "gph": 412.0,
@@ -197,6 +198,5 @@
       13.36,
       16.29
     ]
-  },
-  "reference": "04560004SPO"
+  }
 }

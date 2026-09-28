@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA31013",
   "country": "RSA",
+  "reference": "0462000487F",
   "name": "Vulcan",
   "rating": {
     "gph": 551.8,
@@ -197,6 +198,5 @@
       11.64,
       14.78
     ]
-  },
-  "reference": "0462000487F"
+  }
 }

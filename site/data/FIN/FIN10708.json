@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10708",
   "country": "FIN",
+  "reference": "04140004PR4",
   "name": "Didix",
   "rating": {
     "gph": 651.6,
@@ -197,6 +198,5 @@
       7.41,
       8.0
     ]
-  },
-  "reference": "04140004PR4"
+  }
 }

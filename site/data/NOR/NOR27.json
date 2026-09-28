@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR27",
   "country": "NOR",
+  "reference": "03440004M4U",
   "name": "Totto",
   "rating": {
     "gph": 740.2,
@@ -197,6 +198,5 @@
       7.03,
       8.62
     ]
-  },
-  "reference": "03440004M4U"
+  }
 }

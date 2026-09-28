@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN8372",
   "country": "FIN",
+  "reference": "04140004VOP",
   "name": "\u00c4ksy",
   "rating": {
     "gph": 697.2,
@@ -197,6 +198,5 @@
       7.11,
       7.76
     ]
-  },
-  "reference": "04140004VOP"
+  }
 }

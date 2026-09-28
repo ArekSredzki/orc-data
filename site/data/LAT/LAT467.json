@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT467",
   "country": "LAT",
+  "reference": "04960004PHB",
   "name": "Alina",
   "rating": {
     "gph": 677.2,
@@ -197,6 +198,5 @@
       7.18,
       7.74
     ]
-  },
-  "reference": "04960004PHB"
+  }
 }

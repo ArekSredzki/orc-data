@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16142",
   "country": "ITA",
+  "reference": "03190004B65",
   "name": "SOFT",
   "rating": {
     "gph": 605.9,
@@ -197,6 +198,5 @@
       7.85,
       8.48
     ]
-  },
-  "reference": "03190004B65"
+  }
 }

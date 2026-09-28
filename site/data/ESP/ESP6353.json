@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6353",
   "country": "ESP",
+  "reference": "03510004MC3",
   "name": "SLICK",
   "rating": {
     "gph": 606.8,
@@ -197,6 +198,5 @@
       7.94,
       8.65
     ]
-  },
-  "reference": "03510004MC3"
+  }
 }

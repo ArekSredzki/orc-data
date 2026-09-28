@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15220",
   "country": "NOR",
+  "reference": "03440004SK8",
   "name": "Cymbal",
   "rating": {
     "gph": 668.5,
@@ -197,6 +198,5 @@
       7.61,
       8.2
     ]
-  },
-  "reference": "03440004SK8"
+  }
 }

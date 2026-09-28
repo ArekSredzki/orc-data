@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2778",
   "country": "CRO",
+  "reference": "03620004LWV",
   "name": "Evodia 1",
   "rating": {
     "gph": 638.4,
@@ -197,6 +198,5 @@
       7.99,
       8.6
     ]
-  },
-  "reference": "03620004LWV"
+  }
 }

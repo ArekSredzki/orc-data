@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18283",
   "country": "ITA",
+  "reference": "03190004JE0",
   "name": "LE FORMIDABLE BULL TERRIER",
   "rating": {
     "gph": 796.6,
@@ -197,6 +198,5 @@
       6.13,
       6.51
     ]
-  },
-  "reference": "03190004JE0"
+  }
 }

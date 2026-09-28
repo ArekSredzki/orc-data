@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10666_C",
   "country": "ESP",
+  "reference": "03510004U72",
   "name": "SALUT",
   "rating": {
     "gph": 713.5,
@@ -197,6 +198,5 @@
       7.06,
       7.71
     ]
-  },
-  "reference": "03510004U72"
+  }
 }

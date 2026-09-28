@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2410",
   "country": "LTU",
+  "reference": "03590004W76",
   "name": "RHINO",
   "rating": {
     "gph": 585.7,
@@ -197,6 +198,5 @@
       8.21,
       9.85
     ]
-  },
-  "reference": "03590004W76"
+  }
 }

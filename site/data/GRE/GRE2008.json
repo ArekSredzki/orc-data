@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2008",
   "country": "GRE",
+  "reference": "03420004OW3",
   "name": "ORANGE",
   "rating": {
     "gph": 621.1,
@@ -197,6 +198,5 @@
       8.06,
       8.85
     ]
-  },
-  "reference": "03420004OW3"
+  }
 }

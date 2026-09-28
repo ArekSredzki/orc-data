@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15885",
   "country": "ITA",
+  "reference": "03190004BNT",
   "name": "ACCHIAPPASOGNI",
   "rating": {
     "gph": 601.9,
@@ -197,6 +198,5 @@
       8.2,
       8.94
     ]
-  },
-  "reference": "03190004BNT"
+  }
 }

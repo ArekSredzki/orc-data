@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7422",
   "country": "NED",
+  "reference": "04310004JWQ",
   "name": "Affine",
   "rating": {
     "gph": 623.7,
@@ -197,6 +198,5 @@
       8.23,
       9.28
     ]
-  },
-  "reference": "04310004JWQ"
+  }
 }

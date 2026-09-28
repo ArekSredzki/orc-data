@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2040",
   "country": "TUR",
+  "reference": "04590004WSU",
   "name": "HEDEF YELKEN 37",
   "rating": {
     "gph": 528.9,
@@ -197,6 +198,5 @@
       11.04,
       14.3
     ]
-  },
-  "reference": "04590004WSU"
+  }
 }

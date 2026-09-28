@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11341",
   "country": "NOR",
+  "reference": "03440004KAL",
   "name": "Levens",
   "rating": {
     "gph": 614.7,
@@ -197,6 +198,5 @@
       7.95,
       8.64
     ]
-  },
-  "reference": "03440004KAL"
+  }
 }

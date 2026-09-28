@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15648",
   "country": "NOR",
+  "reference": "03440004M8L",
   "name": "Frida",
   "rating": {
     "gph": 653.0,
@@ -197,6 +198,5 @@
       7.28,
       7.78
     ]
-  },
-  "reference": "03440004M8L"
+  }
 }

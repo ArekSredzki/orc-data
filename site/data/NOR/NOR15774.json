@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15774",
   "country": "NOR",
+  "reference": "03440004RC4",
   "name": "J-Force",
   "rating": {
     "gph": 621.3,
@@ -197,6 +198,5 @@
       8.68,
       11.62
     ]
-  },
-  "reference": "03440004RC4"
+  }
 }

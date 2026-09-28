@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10180",
   "country": "NOR",
+  "reference": "03440004O9M",
   "name": "Lucky Lady II",
   "rating": {
     "gph": 619.0,
@@ -197,6 +198,5 @@
       7.91,
       8.65
     ]
-  },
-  "reference": "03440004O9M"
+  }
 }

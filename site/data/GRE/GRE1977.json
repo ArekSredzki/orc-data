@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1977",
   "country": "GRE",
+  "reference": "03420004PUF",
   "name": "EOS",
   "rating": {
     "gph": 584.5,
@@ -197,6 +198,5 @@
       8.04,
       8.61
     ]
-  },
-  "reference": "03420004PUF"
+  }
 }

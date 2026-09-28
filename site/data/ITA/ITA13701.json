@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13701",
   "country": "ITA",
+  "reference": "03190004JED",
   "name": "BLACK ANGEL",
   "rating": {
     "gph": 612.1,
@@ -197,6 +198,5 @@
       7.79,
       9.13
     ]
-  },
-  "reference": "03190004JED"
+  }
 }

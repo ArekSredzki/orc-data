@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15776",
   "country": "NOR",
+  "reference": "03440004RLB",
   "name": "HAVSULA 2",
   "rating": {
     "gph": 621.5,
@@ -197,6 +198,5 @@
       7.81,
       8.51
     ]
-  },
-  "reference": "03440004RLB"
+  }
 }

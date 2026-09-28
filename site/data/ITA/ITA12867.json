@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12867",
   "country": "ITA",
+  "reference": "03190004IA4",
   "name": "SICA",
   "rating": {
     "gph": 690.7,
@@ -197,6 +198,5 @@
       7.14,
       7.78
     ]
-  },
-  "reference": "03190004IA4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT738",
   "country": "LAT",
+  "reference": "04960004JCB",
   "name": "LOKO",
   "rating": {
     "gph": 518.0,
@@ -197,6 +198,5 @@
       9.11,
       10.47
     ]
-  },
-  "reference": "04960004JCB"
+  }
 }

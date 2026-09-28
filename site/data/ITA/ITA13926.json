@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13926",
   "country": "ITA",
+  "reference": "03190004PLF",
   "name": "FOREVER YOUNG",
   "rating": {
     "gph": 628.7,
@@ -197,6 +198,5 @@
       7.82,
       9.86
     ]
-  },
-  "reference": "03190004PLF"
+  }
 }

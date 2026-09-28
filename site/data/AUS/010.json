@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/010",
   "country": "AUS",
+  "reference": "03020004VE3",
   "name": "Organised Chaos",
   "rating": {
     "gph": 637.8,
@@ -197,6 +198,5 @@
       7.91,
       9.06
     ]
-  },
-  "reference": "03020004VE3"
+  }
 }

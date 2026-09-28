@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/ESP7936",
   "country": "NED",
+  "reference": "04310004JRT",
   "name": "HAURAKI",
   "rating": {
     "gph": 615.3,
@@ -197,6 +198,5 @@
       8.07,
       8.8
     ]
-  },
-  "reference": "04310004JRT"
+  }
 }

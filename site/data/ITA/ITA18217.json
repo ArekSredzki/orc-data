@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18217",
   "country": "ITA",
+  "reference": "03190004NEA",
   "name": "MAEL",
   "rating": {
     "gph": 602.7,
@@ -197,6 +198,5 @@
       7.94,
       8.71
     ]
-  },
-  "reference": "03190004NEA"
+  }
 }

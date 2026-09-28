@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT14118",
   "country": "AUT",
+  "reference": "03210004LTQ",
   "name": "Shaka",
   "rating": {
     "gph": 567.9,
@@ -197,6 +198,5 @@
       8.26,
       9.88
     ]
-  },
-  "reference": "03210004LTQ"
+  }
 }

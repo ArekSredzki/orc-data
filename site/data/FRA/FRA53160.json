@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53160",
   "country": "FRA",
+  "reference": "04330004UKB",
   "name": "PEN KOENT",
   "rating": {
     "gph": 591.6,
@@ -197,6 +198,5 @@
       8.4,
       9.3
     ]
-  },
-  "reference": "04330004UKB"
+  }
 }

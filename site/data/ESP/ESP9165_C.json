@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9165_C",
   "country": "ESP",
+  "reference": "03510004W9T",
   "name": "LIRIAN TRES",
   "rating": {
     "gph": 635.4,
@@ -197,6 +198,5 @@
       7.35,
       7.93
     ]
-  },
-  "reference": "03510004W9T"
+  }
 }

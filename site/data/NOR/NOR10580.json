@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10580",
   "country": "NOR",
+  "reference": "03440004O9O",
   "name": "STAKKATO",
   "rating": {
     "gph": 686.2,
@@ -197,6 +198,5 @@
       7.16,
       8.28
     ]
-  },
-  "reference": "03440004O9O"
+  }
 }

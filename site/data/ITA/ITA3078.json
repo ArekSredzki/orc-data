@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA3078",
   "country": "ITA",
+  "reference": "03190004P52",
   "name": "TEAM ANDELSTANKEN",
   "rating": {
     "gph": 597.2,
@@ -197,6 +198,5 @@
       9.05,
       11.58
     ]
-  },
-  "reference": "03190004P52"
+  }
 }

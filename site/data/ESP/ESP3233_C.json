@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3233_C",
   "country": "ESP",
+  "reference": "03510004HBA",
   "name": "HESPERIA TRES",
   "rating": {
     "gph": 709.0,
@@ -197,6 +198,5 @@
       6.95,
       7.42
     ]
-  },
-  "reference": "03510004HBA"
+  }
 }

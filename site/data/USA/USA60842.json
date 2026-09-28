@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60842",
   "country": "USA",
+  "reference": "04560004QBS",
   "name": "SOFTSTAR",
   "rating": {
     "gph": 670.9,
@@ -197,6 +198,5 @@
       7.4,
       8.01
     ]
-  },
-  "reference": "04560004QBS"
+  }
 }

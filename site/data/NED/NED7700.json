@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7700",
   "country": "NED",
+  "reference": "04310004K00",
   "name": "Oorsprong",
   "rating": {
     "gph": 638.6,
@@ -197,6 +198,5 @@
       7.45,
       8.02
     ]
-  },
-  "reference": "04310004K00"
+  }
 }

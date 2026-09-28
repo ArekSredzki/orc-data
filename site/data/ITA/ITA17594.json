@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17594",
   "country": "ITA",
+  "reference": "03190004HJJ",
   "name": "MAEVA",
   "rating": {
     "gph": 604.8,
@@ -197,6 +198,5 @@
       8.19,
       8.86
     ]
-  },
-  "reference": "03190004HJJ"
+  }
 }

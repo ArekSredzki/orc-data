@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/0122",
   "country": "AUS",
+  "reference": "03020004U6M",
   "name": "TENACITY",
   "rating": {
     "gph": 581.2,
@@ -197,6 +198,5 @@
       8.66,
       9.72
     ]
-  },
-  "reference": "03020004U6M"
+  }
 }

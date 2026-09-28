@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CZE656",
   "country": "CRO",
+  "reference": "03620004P1T",
   "name": "Daring Sisters",
   "rating": {
     "gph": 532.3,
@@ -197,6 +198,5 @@
       9.16,
       11.36
     ]
-  },
-  "reference": "03620004P1T"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8914",
   "country": "NED",
+  "reference": "04310004K22",
   "name": "Volada",
   "rating": {
     "gph": 610.2,
@@ -197,6 +198,5 @@
       7.74,
       8.33
     ]
-  },
-  "reference": "04310004K22"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE4101",
   "country": "GRE",
+  "reference": "03420004PU2",
   "name": "XCALIBUR",
   "rating": {
     "gph": 556.0,
@@ -197,6 +198,5 @@
       9.1,
       11.08
     ]
-  },
-  "reference": "03420004PU2"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST571",
   "country": "EST",
+  "reference": "04340004P8R",
   "name": "FREYA",
   "rating": {
     "gph": 626.8,
@@ -197,6 +198,5 @@
       7.87,
       8.58
     ]
-  },
-  "reference": "04340004P8R"
+  }
 }

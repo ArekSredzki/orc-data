@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9639",
   "country": "FRA",
+  "reference": "04330004FEF",
   "name": "PER ABEL 3",
   "rating": {
     "gph": 622.8,
@@ -197,6 +198,5 @@
       8.29,
       9.04
     ]
-  },
-  "reference": "04330004FEF"
+  }
 }

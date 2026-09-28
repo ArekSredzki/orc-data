@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3883",
   "country": "RSA",
+  "reference": "04620004C85",
   "name": "Bullet",
   "rating": {
     "gph": 617.6,
@@ -197,6 +198,5 @@
       9.82,
       13.01
     ]
-  },
-  "reference": "04620004C85"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4887_C",
   "country": "ESP",
+  "reference": "03510004H3L",
   "name": "NOTICIA DOS",
   "rating": {
     "gph": 602.4,
@@ -197,6 +198,5 @@
       8.22,
       9.02
     ]
-  },
-  "reference": "03510004H3L"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11711",
   "country": "ESP",
+  "reference": "035100048MC",
   "name": "NOMAD",
   "rating": {
     "gph": 500.1,
@@ -197,6 +198,5 @@
       9.66,
       10.82
     ]
-  },
-  "reference": "035100048MC"
+  }
 }

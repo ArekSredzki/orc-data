@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE317",
   "country": "GRE",
+  "reference": "03420004VWH",
   "name": "AVANTES",
   "rating": {
     "gph": 660.6,
@@ -197,6 +198,5 @@
       7.23,
       8.1
     ]
-  },
-  "reference": "03420004VWH"
+  }
 }

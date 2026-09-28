@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN4446",
   "country": "FIN",
+  "reference": "04140004LTU",
   "name": "Alli",
   "rating": {
     "gph": 729.4,
@@ -197,6 +198,5 @@
       7.07,
       7.67
     ]
-  },
-  "reference": "04140004LTU"
+  }
 }

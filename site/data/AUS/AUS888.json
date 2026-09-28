@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS888",
   "country": "AUS",
+  "reference": "03020004UKH",
   "name": "SPARROW",
   "rating": {
     "gph": 589.1,
@@ -197,6 +198,5 @@
       11.12,
       14.25
     ]
-  },
-  "reference": "03020004UKH"
+  }
 }

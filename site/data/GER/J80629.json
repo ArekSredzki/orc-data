@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/J80629",
   "country": "GER",
+  "reference": "03520004QA5",
   "name": "AZURRA",
   "rating": {
     "gph": 669.7,
@@ -197,6 +198,5 @@
       9.1,
       12.02
     ]
-  },
-  "reference": "03520004QA5"
+  }
 }

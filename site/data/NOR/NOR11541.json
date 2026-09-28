@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11541",
   "country": "NOR",
+  "reference": "03440004QJE",
   "name": "JJFLASH",
   "rating": {
     "gph": 603.4,
@@ -197,6 +198,5 @@
       7.76,
       9.22
     ]
-  },
-  "reference": "03440004QJE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA70458",
   "country": "USA",
+  "reference": "04560004U8D",
   "name": "EPIPHANY",
   "rating": {
     "gph": 593.4,
@@ -197,6 +198,5 @@
       8.23,
       8.85
     ]
-  },
-  "reference": "04560004U8D"
+  }
 }

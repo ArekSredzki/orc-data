@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12030",
   "country": "NOR",
+  "reference": "03440004TO1",
   "name": "Baba Yaga",
   "rating": {
     "gph": 612.3,
@@ -197,6 +198,5 @@
       7.97,
       8.68
     ]
-  },
-  "reference": "03440004TO1"
+  }
 }

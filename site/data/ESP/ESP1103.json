@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1103",
   "country": "ESP",
+  "reference": "03510004BJR",
   "name": "JUST4FUN",
   "rating": {
     "gph": 664.3,
@@ -197,6 +198,5 @@
       8.41,
       11.53
     ]
-  },
-  "reference": "03510004BJR"
+  }
 }

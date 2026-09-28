@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED5845",
   "country": "NED",
+  "reference": "04310004JVJ",
   "name": "Black Pearl",
   "rating": {
     "gph": 652.3,
@@ -197,6 +198,5 @@
       7.74,
       8.56
     ]
-  },
-  "reference": "04310004JVJ"
+  }
 }

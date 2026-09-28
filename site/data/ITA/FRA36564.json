@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/FRA36564",
   "country": "ITA",
+  "reference": "03190004T7I",
   "name": "R'N'R",
   "rating": {
     "gph": 649.3,
@@ -197,6 +198,5 @@
       7.52,
       9.85
     ]
-  },
-  "reference": "03190004T7I"
+  }
 }

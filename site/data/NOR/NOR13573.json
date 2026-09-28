@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13573",
   "country": "NOR",
+  "reference": "03440004WRS",
   "name": "Amarone",
   "rating": {
     "gph": 635.9,
@@ -197,6 +198,5 @@
       7.82,
       8.56
     ]
-  },
-  "reference": "03440004WRS"
+  }
 }

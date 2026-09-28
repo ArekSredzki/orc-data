@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13130",
   "country": "ITA",
+  "reference": "03190004QOH",
   "name": "PROFILO",
   "rating": {
     "gph": 605.2,
@@ -197,6 +198,5 @@
       8.1,
       8.99
     ]
-  },
-  "reference": "03190004QOH"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9863",
   "country": "NOR",
+  "reference": "03440004NAK",
   "name": "Adrenelan",
   "rating": {
     "gph": 652.7,
@@ -197,6 +198,5 @@
       7.61,
       8.28
     ]
-  },
-  "reference": "03440004NAK"
+  }
 }

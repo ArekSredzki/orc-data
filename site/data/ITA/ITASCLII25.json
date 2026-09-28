@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITASCLII25",
   "country": "ITA",
+  "reference": "03190004K7J",
   "name": "SCIALAI II",
   "rating": {
     "gph": 645.3,
@@ -197,6 +198,5 @@
       7.75,
       8.84
     ]
-  },
-  "reference": "03190004K7J"
+  }
 }

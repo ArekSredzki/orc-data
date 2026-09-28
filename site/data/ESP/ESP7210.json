@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7210",
   "country": "ESP",
+  "reference": "03510004IP1",
   "name": "C.N.MORAIRA LEA",
   "rating": {
     "gph": 676.9,
@@ -197,6 +198,5 @@
       7.74,
       10.22
     ]
-  },
-  "reference": "03510004IP1"
+  }
 }

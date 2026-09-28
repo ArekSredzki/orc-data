@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9803_C",
   "country": "ESP",
+  "reference": "03510004HBH",
   "name": "TARTARUGA",
   "rating": {
     "gph": 667.2,
@@ -197,6 +198,5 @@
       7.65,
       8.28
     ]
-  },
-  "reference": "03510004HBH"
+  }
 }

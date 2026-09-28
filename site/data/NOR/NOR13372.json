@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13372",
   "country": "NOR",
+  "reference": "03440004NST",
   "name": "Sana",
   "rating": {
     "gph": 672.9,
@@ -197,6 +198,5 @@
       7.48,
       8.2
     ]
-  },
-  "reference": "03440004NST"
+  }
 }

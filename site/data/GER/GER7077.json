@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7077",
   "country": "GER",
+  "reference": "04150004KL8",
   "name": "SUNBIRD",
   "rating": {
     "gph": 545.9,
@@ -197,6 +198,5 @@
       9.19,
       10.1
     ]
-  },
-  "reference": "04150004KL8"
+  }
 }

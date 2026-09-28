@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1200",
   "country": "TUR",
+  "reference": "04590004IMC",
   "name": "DAMYO 2",
   "rating": {
     "gph": 667.0,
@@ -197,6 +198,5 @@
       8.45,
       11.6
     ]
-  },
-  "reference": "04590004IMC"
+  }
 }

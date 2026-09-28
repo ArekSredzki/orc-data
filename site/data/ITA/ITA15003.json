@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15003",
   "country": "ITA",
+  "reference": "03190004IIA",
   "name": "VAG",
   "rating": {
     "gph": 620.2,
@@ -197,6 +198,5 @@
       7.72,
       8.4
     ]
-  },
-  "reference": "03190004IIA"
+  }
 }

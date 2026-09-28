@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14546",
   "country": "NOR",
+  "reference": "03440004KA4",
   "name": "Julie",
   "rating": {
     "gph": 653.8,
@@ -197,6 +198,5 @@
       7.41,
       7.96
     ]
-  },
-  "reference": "03440004KA4"
+  }
 }

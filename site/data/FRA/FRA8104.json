@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA8104",
   "country": "FRA",
+  "reference": "04330004FEL",
   "name": "ARLIKONE",
   "rating": {
     "gph": 650.7,
@@ -197,6 +198,5 @@
       7.73,
       8.59
     ]
-  },
-  "reference": "04330004FEL"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR7055",
   "country": "NOR",
+  "reference": "03440004M50",
   "name": "Vildensky",
   "rating": {
     "gph": 693.4,
@@ -197,6 +198,5 @@
       7.25,
       7.87
     ]
-  },
-  "reference": "03440004M50"
+  }
 }

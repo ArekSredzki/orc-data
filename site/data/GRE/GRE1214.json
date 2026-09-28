@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1214",
   "country": "GRE",
+  "reference": "03420004IUT",
   "name": "PARASKEVI",
   "rating": {
     "gph": 741.9,
@@ -197,6 +198,5 @@
       6.62,
       7.12
     ]
-  },
-  "reference": "03420004IUT"
+  }
 }

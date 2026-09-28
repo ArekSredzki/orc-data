@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/77855",
   "country": "USA",
+  "reference": "04560004IID",
   "name": "TC",
   "rating": {
     "gph": 601.2,
@@ -197,6 +198,5 @@
       9.7,
       12.31
     ]
-  },
-  "reference": "04560004IID"
+  }
 }

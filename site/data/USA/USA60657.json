@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60657",
   "country": "USA",
+  "reference": "04560004RDK",
   "name": "SCARLET BEGONIAS",
   "rating": {
     "gph": 597.9,
@@ -197,6 +198,5 @@
       7.98,
       9.28
     ]
-  },
-  "reference": "04560004RDK"
+  }
 }

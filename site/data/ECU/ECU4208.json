@@ -1,6 +1,7 @@
 {
   "sailnumber": "ECU/ECU4208",
   "country": "ECU",
+  "reference": "03880004RLA",
   "name": "BANDIT",
   "rating": {
     "gph": 533.7,
@@ -197,6 +198,5 @@
       9.04,
       11.11
     ]
-  },
-  "reference": "03880004RLA"
+  }
 }

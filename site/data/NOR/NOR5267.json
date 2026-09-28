@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR5267",
   "country": "NOR",
+  "reference": "03440004W7F",
   "name": "Norwegian wood",
   "rating": {
     "gph": 746.4,
@@ -197,6 +198,5 @@
       6.88,
       8.73
     ]
-  },
-  "reference": "03440004W7F"
+  }
 }

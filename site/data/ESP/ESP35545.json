@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP35545",
   "country": "ESP",
+  "reference": "03510004J5M",
   "name": "ENERO",
   "rating": {
     "gph": 648.2,
@@ -197,6 +198,5 @@
       7.82,
       8.58
     ]
-  },
-  "reference": "03510004J5M"
+  }
 }

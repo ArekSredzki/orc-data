@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP91091",
   "country": "ESP",
+  "reference": "0351000500M",
   "name": "BON III",
   "rating": {
     "gph": 621.5,

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/IRL2506",
   "country": "FRA",
+  "reference": "04330004FF1",
   "name": "M'ENFIN?!",
   "rating": {
     "gph": 718.3,
@@ -197,6 +198,5 @@
       6.9,
       7.56
     ]
-  },
-  "reference": "04330004FF1"
+  }
 }

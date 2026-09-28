@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1925",
   "country": "TUR",
+  "reference": "04590004C4F",
   "name": "BIN DOKUZ YUZ YIRMI BES",
   "rating": {
     "gph": 519.8,
@@ -197,6 +198,5 @@
       10.94,
       14.21
     ]
-  },
-  "reference": "04590004C4F"
+  }
 }

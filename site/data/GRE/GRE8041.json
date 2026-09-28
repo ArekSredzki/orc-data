@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE8041",
   "country": "GRE",
+  "reference": "03420004IO9",
   "name": "CYCLADES FORCE",
   "rating": {
     "gph": 695.6,
@@ -197,6 +198,5 @@
       7.26,
       8.01
     ]
-  },
-  "reference": "03420004IO9"
+  }
 }

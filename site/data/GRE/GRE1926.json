@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1926",
   "country": "GRE",
+  "reference": "03420004HB8",
   "name": "OTIUM",
   "rating": {
     "gph": 809.5,
@@ -197,6 +198,5 @@
       6.46,
       6.97
     ]
-  },
-  "reference": "03420004HB8"
+  }
 }

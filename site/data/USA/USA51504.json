@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51504",
   "country": "USA",
+  "reference": "04560004O0W",
   "name": "SILHOUETTE",
   "rating": {
     "gph": 585.1,
@@ -197,6 +198,5 @@
       8.3,
       9.11
     ]
-  },
-  "reference": "04560004O0W"
+  }
 }

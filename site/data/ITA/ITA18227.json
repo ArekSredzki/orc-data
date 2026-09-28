@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18227",
   "country": "ITA",
+  "reference": "03190004LS5",
   "name": "ANITA",
   "rating": {
     "gph": 609.5,
@@ -197,6 +198,5 @@
       8.16,
       8.91
     ]
-  },
-  "reference": "03190004LS5"
+  }
 }

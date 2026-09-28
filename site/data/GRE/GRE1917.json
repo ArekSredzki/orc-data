@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1917",
   "country": "GRE",
+  "reference": "03420004R3O",
   "name": "LAPAXION",
   "rating": {
     "gph": 569.7,
@@ -197,6 +198,5 @@
       8.39,
       9.07
     ]
-  },
-  "reference": "03420004R3O"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5858",
   "country": "ESP",
+  "reference": "035100048IQ",
   "name": "ZIRALLA PRIMERO",
   "rating": {
     "gph": 637.3,
@@ -197,6 +198,5 @@
       8.05,
       9.16
     ]
-  },
-  "reference": "035100048IQ"
+  }
 }

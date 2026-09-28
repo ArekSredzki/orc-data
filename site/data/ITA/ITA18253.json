@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18253",
   "country": "ITA",
+  "reference": "03190004B5N",
   "name": "RAFFICA",
   "rating": {
     "gph": 682.1,
@@ -197,6 +198,5 @@
       6.97,
       7.45
     ]
-  },
-  "reference": "03190004B5N"
+  }
 }

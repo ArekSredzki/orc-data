@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10288",
   "country": "ESP",
+  "reference": "035100048K9",
   "name": "SALEROSO 2.0",
   "rating": {
     "gph": 648.2,
@@ -197,6 +198,5 @@
       7.68,
       8.34
     ]
-  },
-  "reference": "035100048K9"
+  }
 }

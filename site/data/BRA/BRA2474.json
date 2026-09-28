@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2474",
   "country": "BRA",
+  "reference": "04420004VEV",
   "name": "INAE Soto",
   "rating": {
     "gph": 514.8,
@@ -197,6 +198,5 @@
       11.66,
       14.74
     ]
-  },
-  "reference": "04420004VEV"
+  }
 }

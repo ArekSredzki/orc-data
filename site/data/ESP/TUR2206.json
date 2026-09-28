@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/TUR2206",
   "country": "ESP",
+  "reference": "03510004VVV",
   "name": "KIM",
   "rating": {
     "gph": 598.1,
@@ -197,6 +198,5 @@
       8.3,
       9.1
     ]
-  },
-  "reference": "03510004VVV"
+  }
 }

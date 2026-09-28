@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2112",
   "country": "GRE",
+  "reference": "03420004LA0",
   "name": "KUROSHIO",
   "rating": {
     "gph": 706.6,
@@ -197,6 +198,5 @@
       7.02,
       7.5
     ]
-  },
-  "reference": "03420004LA0"
+  }
 }

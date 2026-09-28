@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR920",
   "country": "TUR",
+  "reference": "04590004S5W",
   "name": "K-LINE",
   "rating": {
     "gph": 631.4,
@@ -197,6 +198,5 @@
       7.96,
       10.5
     ]
-  },
-  "reference": "04590004S5W"
+  }
 }

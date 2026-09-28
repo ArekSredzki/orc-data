@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/6835",
   "country": "AUS",
+  "reference": "03020004WTU",
   "name": "YACHT ROCK",
   "rating": {
     "gph": 615.9,
@@ -197,6 +198,5 @@
       8.13,
       8.98
     ]
-  },
-  "reference": "03020004WTU"
+  }
 }

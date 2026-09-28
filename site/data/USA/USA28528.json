@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA28528",
   "country": "USA",
+  "reference": "04560004WPI",
   "name": "JARLEN",
   "rating": {
     "gph": 610.5,
@@ -197,6 +198,5 @@
       7.88,
       8.69
     ]
-  },
-  "reference": "04560004WPI"
+  }
 }
