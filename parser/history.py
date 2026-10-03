@@ -29,6 +29,23 @@ def fingerprint(boat):
     return hashlib.sha256(json.dumps(numeric(core), sort_keys=True, separators=(',', ':')).encode()).hexdigest()
 
 
+def numeric_conflict(existing, incoming):
+    """Compare shared measurements; newly introduced/missing fields can enrich a snapshot."""
+    for key in existing.keys() & incoming.keys():
+        left, right = existing[key], incoming[key]
+        if isinstance(left, dict) and isinstance(right, dict):
+            if numeric_conflict(left, right):
+                return True
+        elif isinstance(left, list) and isinstance(right, list) and left != right:
+            return True
+        elif isinstance(left, (int, float)) and isinstance(right, (int, float)):
+            if key == 'stability_index' and (left <= 0 or right <= 0):
+                continue  # legacy unknown-value sentinel
+            if left != right:
+                return True
+    return False
+
+
 def enrich(existing, incoming):
     """Fill missing metadata without rewriting any archived measurements."""
     result = copy.deepcopy(existing)
@@ -67,7 +84,7 @@ class Archive:
         identifier = reference or 'snapshot-' + signature[:24]
         doc = self._load(sailnumber)
         old = doc['versions'].get(identifier)
-        if old and fingerprint(old['boat']) != signature:
+        if old and (fingerprint(old['boat']) != signature or numeric_conflict(old['boat'], boat)):
             raise ValueError(f'Conflicting immutable certificate {sailnumber} {identifier}')
         entry = dict(id=identifier, reference=reference, issue_date=boat['boat'].get('issue_date'),
                      vpp_year=vpp_year, family=family, observed_at=observed_at, source=source,
