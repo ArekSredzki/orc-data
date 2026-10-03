@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR754R",
   "country": "FRA",
+  "reference": "04330004TCF",
   "name": "XTRACT",
   "rating": {
     "gph": 689.3,
@@ -197,6 +198,5 @@
       7.22,
       7.85
     ]
-  },
-  "reference": "04330004TCF"
+  }
 }

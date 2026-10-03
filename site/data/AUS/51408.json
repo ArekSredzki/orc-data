@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/51408",
   "country": "AUS",
+  "reference": "03020004UDR",
   "name": "HARLEQUIN",
   "rating": {
     "gph": 530.9,
@@ -197,6 +198,5 @@
       10.0,
       12.55
     ]
-  },
-  "reference": "03020004UDR"
+  }
 }

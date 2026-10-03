@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1579",
   "country": "GRE",
+  "reference": "03420004LRE",
   "name": "ANEMOS",
   "rating": {
     "gph": 613.5,
@@ -197,6 +198,5 @@
       8.35,
       9.05
     ]
-  },
-  "reference": "03420004LRE"
+  }
 }

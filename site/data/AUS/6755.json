@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/6755",
   "country": "AUS",
+  "reference": "03020004UDM",
   "name": "CALIBAN II /GWM Pennant Hills",
   "rating": {
     "gph": 579.0,
@@ -197,6 +198,5 @@
       8.76,
       9.5
     ]
-  },
-  "reference": "03020004UDM"
+  }
 }

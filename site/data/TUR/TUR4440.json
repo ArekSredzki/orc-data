@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR4440",
   "country": "TUR",
+  "reference": "04590004MA3",
   "name": "ADIOS",
   "rating": {
     "gph": 618.1,
@@ -197,6 +198,5 @@
       10.64,
       13.67
     ]
-  },
-  "reference": "04590004MA3"
+  }
 }

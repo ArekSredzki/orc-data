@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU246",
   "country": "ROU",
+  "reference": "05040004S0Q",
   "name": "Thea",
   "rating": {
     "gph": 666.7,
@@ -197,6 +198,5 @@
       7.53,
       8.16
     ]
-  },
-  "reference": "05040004S0Q"
+  }
 }

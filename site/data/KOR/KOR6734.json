@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR6734",
   "country": "KOR",
+  "reference": "04550004KQJ",
   "name": "Ididit",
   "rating": {
     "gph": 579.4,
@@ -197,6 +198,5 @@
       8.52,
       10.7
     ]
-  },
-  "reference": "04550004KQJ"
+  }
 }

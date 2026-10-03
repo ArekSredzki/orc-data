@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GER8318",
   "country": "ITA",
+  "reference": "03190004WDL",
   "name": "INNOV81",
   "rating": {
     "gph": 578.3,
@@ -197,6 +198,5 @@
       11.78,
       14.9
     ]
-  },
-  "reference": "03190004WDL"
+  }
 }

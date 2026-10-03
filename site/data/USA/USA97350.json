@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA97350",
   "country": "USA",
+  "reference": "04560004URI",
   "name": "Free Agent",
   "rating": {
     "gph": 607.4,
@@ -197,6 +198,5 @@
       7.93,
       8.95
     ]
-  },
-  "reference": "04560004URI"
+  }
 }

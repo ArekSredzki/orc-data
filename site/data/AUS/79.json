@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/79",
   "country": "AUS",
+  "reference": "03020004WME",
   "name": "Celestial",
   "rating": {
     "gph": 548.5,
@@ -197,6 +198,5 @@
       11.79,
       14.91
     ]
-  },
-  "reference": "03020004WME"
+  }
 }

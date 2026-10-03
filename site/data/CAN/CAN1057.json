@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN1057",
   "country": "CAN",
+  "reference": "03430004FI2",
   "name": "Reverie",
   "rating": {
     "gph": 667.2,
@@ -197,6 +198,5 @@
       7.4,
       8.03
     ]
-  },
-  "reference": "03430004FI2"
+  }
 }

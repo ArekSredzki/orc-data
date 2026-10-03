@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49499",
   "country": "GRE",
+  "reference": "03420004NIW",
   "name": "TAK",
   "rating": {
     "gph": 767.1,
@@ -197,6 +198,5 @@
       6.66,
       7.23
     ]
-  },
-  "reference": "03420004NIW"
+  }
 }

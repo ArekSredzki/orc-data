@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17224",
   "country": "ITA",
+  "reference": "03190004IPT",
   "name": "PRINCESSE",
   "rating": {
     "gph": 626.6,
@@ -197,6 +198,5 @@
       7.8,
       8.4
     ]
-  },
-  "reference": "03190004IPT"
+  }
 }

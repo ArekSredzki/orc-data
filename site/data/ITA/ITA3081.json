@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA3081",
   "country": "ITA",
+  "reference": "03190004KOF",
   "name": "FARR 'E NIGHT",
   "rating": {
     "gph": 594.5,
@@ -197,6 +198,5 @@
       9.15,
       11.85
     ]
-  },
-  "reference": "03190004KOF"
+  }
 }

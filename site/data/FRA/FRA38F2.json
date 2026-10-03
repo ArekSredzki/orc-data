@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA38F2",
   "country": "FRA",
+  "reference": "04330004PRN",
   "name": "ARETUSA F.",
   "rating": {
     "gph": 607.3,
@@ -197,6 +198,5 @@
       8.67,
       10.29
     ]
-  },
-  "reference": "04330004PRN"
+  }
 }

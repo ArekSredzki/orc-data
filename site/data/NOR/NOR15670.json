@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15670",
   "country": "NOR",
+  "reference": "03440004PBD",
   "name": "Mika",
   "rating": {
     "gph": 592.0,
@@ -197,6 +198,5 @@
       8.53,
       9.91
     ]
-  },
-  "reference": "03440004PBD"
+  }
 }

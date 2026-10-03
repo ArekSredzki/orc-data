@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10972",
   "country": "ESP",
+  "reference": "03510004WKM",
   "name": "NEURORED",
   "rating": {
     "gph": 610.5,
@@ -197,6 +198,5 @@
       7.85,
       9.96
     ]
-  },
-  "reference": "03510004WKM"
+  }
 }

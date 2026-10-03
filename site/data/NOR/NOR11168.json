@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11168",
   "country": "NOR",
+  "reference": "03440004W9E",
   "name": "Silius",
   "rating": {
     "gph": 625.3,
@@ -197,6 +198,5 @@
       8.03,
       8.79
     ]
-  },
-  "reference": "03440004W9E"
+  }
 }

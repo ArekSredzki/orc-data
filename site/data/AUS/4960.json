@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/4960",
   "country": "AUS",
+  "reference": "03020004VFW",
   "name": "MRX",
   "rating": {
     "gph": 646.8,
@@ -197,6 +198,5 @@
       7.79,
       8.62
     ]
-  },
-  "reference": "03020004VFW"
+  }
 }

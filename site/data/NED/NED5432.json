@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED5432",
   "country": "NED",
+  "reference": "04310004JV9",
   "name": "SAYONARA",
   "rating": {
     "gph": 592.8,
@@ -197,6 +198,5 @@
       8.53,
       9.08
     ]
-  },
-  "reference": "04310004JV9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP80121",
   "country": "ESP",
+  "reference": "03510004KUB",
   "name": "ANETTE",
   "rating": {
     "gph": 552.3,
@@ -197,6 +198,5 @@
       8.89,
       10.35
     ]
-  },
-  "reference": "03510004KUB"
+  }
 }

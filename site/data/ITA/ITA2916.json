@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA2916",
   "country": "ITA",
+  "reference": "03190004WQ6",
   "name": "ZELIG",
   "rating": {
     "gph": 604.8,
@@ -197,6 +198,5 @@
       9.9,
       13.04
     ]
-  },
-  "reference": "03190004WQ6"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED1750",
   "country": "NED",
+  "reference": "04310004N4Q",
   "name": "Maxima",
   "rating": {
     "gph": 524.1,
@@ -197,6 +198,5 @@
       9.45,
       10.47
     ]
-  },
-  "reference": "04310004N4Q"
+  }
 }

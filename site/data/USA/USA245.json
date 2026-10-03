@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA245",
   "country": "USA",
+  "reference": "04560004UCJ",
   "name": "LIQUID LOUNGE II",
   "rating": {
     "gph": 605.8,
@@ -197,6 +198,5 @@
       7.87,
       9.76
     ]
-  },
-  "reference": "04560004UCJ"
+  }
 }

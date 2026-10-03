@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA11069",
   "country": "ITA",
+  "reference": "03190004FO8",
   "name": "STARRING",
   "rating": {
     "gph": 588.5,
@@ -197,6 +198,5 @@
       7.89,
       8.54
     ]
-  },
-  "reference": "03190004FO8"
+  }
 }

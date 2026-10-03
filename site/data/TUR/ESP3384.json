@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/ESP3384",
   "country": "TUR",
+  "reference": "04590004N61",
   "name": "YOU TOO",
   "rating": {
     "gph": 579.4,
@@ -197,6 +198,5 @@
       8.31,
       9.53
     ]
-  },
-  "reference": "04590004N61"
+  }
 }

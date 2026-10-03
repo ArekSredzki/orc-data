@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/LAT744_C",
   "country": "ESP",
+  "reference": "03510004IDH",
   "name": "BARRACUDA",
   "rating": {
     "gph": 545.0,
@@ -197,6 +198,5 @@
       8.63,
       9.99
     ]
-  },
-  "reference": "03510004IDH"
+  }
 }

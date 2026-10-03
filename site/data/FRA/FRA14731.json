@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA14731",
   "country": "FRA",
+  "reference": "04330004KE2",
   "name": "GRIOTTINE",
   "rating": {
     "gph": 637.8,
@@ -197,6 +198,5 @@
       7.98,
       10.0
     ]
-  },
-  "reference": "04330004KE2"
+  }
 }

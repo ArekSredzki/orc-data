@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI41",
   "country": "SUI",
+  "reference": "030800048R7",
   "name": "VIENTO",
   "rating": {
     "gph": 646.7,
@@ -197,6 +198,5 @@
       8.63,
       11.56
     ]
-  },
-  "reference": "030800048R7"
+  }
 }

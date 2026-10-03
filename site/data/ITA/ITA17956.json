@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17956",
   "country": "ITA",
+  "reference": "03190004QCJ",
   "name": "MINDFULNESS",
   "rating": {
     "gph": 430.3,
@@ -197,6 +198,5 @@
       11.52,
       13.25
     ]
-  },
-  "reference": "03190004QCJ"
+  }
 }

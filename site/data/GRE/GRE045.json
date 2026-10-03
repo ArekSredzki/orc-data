@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE045",
   "country": "GRE",
+  "reference": "03420004HJ1",
   "name": "LAVORO III",
   "rating": {
     "gph": 588.4,
@@ -197,6 +198,5 @@
       8.81,
       12.28
     ]
-  },
-  "reference": "03420004HJ1"
+  }
 }

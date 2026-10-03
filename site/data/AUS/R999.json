@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/R999",
   "country": "AUS",
+  "reference": "03020004VC4",
   "name": "G'Net",
   "rating": {
     "gph": 539.3,
@@ -197,6 +198,5 @@
       9.46,
       11.99
     ]
-  },
-  "reference": "03020004VC4"
+  }
 }

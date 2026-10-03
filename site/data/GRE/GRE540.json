@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE540",
   "country": "GRE",
+  "reference": "03420004K3E",
   "name": "MODUS VIVENDI",
   "rating": {
     "gph": 536.2,
@@ -197,6 +198,5 @@
       8.87,
       9.55
     ]
-  },
-  "reference": "03420004K3E"
+  }
 }

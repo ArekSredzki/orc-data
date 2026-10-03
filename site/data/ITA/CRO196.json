@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/CRO196",
   "country": "ITA",
+  "reference": "03190004MP3",
   "name": "DUO",
   "rating": {
     "gph": 615.3,
@@ -197,6 +198,5 @@
       8.18,
       8.97
     ]
-  },
-  "reference": "03190004MP3"
+  }
 }

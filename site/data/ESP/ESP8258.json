@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8258",
   "country": "ESP",
+  "reference": "03510004HBD",
   "name": "SALAO T\u00da",
   "rating": {
     "gph": 633.1,
@@ -197,6 +198,5 @@
       7.95,
       8.82
     ]
-  },
-  "reference": "03510004HBD"
+  }
 }

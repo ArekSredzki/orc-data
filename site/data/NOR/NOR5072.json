@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR5072",
   "country": "NOR",
+  "reference": "03440004L34",
   "name": "Bajazzo V",
   "rating": {
     "gph": 683.5,
@@ -197,6 +198,5 @@
       7.26,
       7.94
     ]
-  },
-  "reference": "03440004L34"
+  }
 }

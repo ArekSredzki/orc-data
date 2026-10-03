@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP715",
   "country": "ESP",
+  "reference": "0351000489D",
   "name": "VERA CRUZ",
   "rating": {
     "gph": 696.0,
@@ -197,6 +198,5 @@
       7.16,
       9.63
     ]
-  },
-  "reference": "0351000489D"
+  }
 }

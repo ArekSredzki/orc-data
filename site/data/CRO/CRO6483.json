@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO6483",
   "country": "CRO",
+  "reference": "03620004IWI",
   "name": "Maxi Nautika",
   "rating": {
     "gph": 526.9,
@@ -197,6 +198,5 @@
       10.26,
       13.11
     ]
-  },
-  "reference": "03620004IWI"
+  }
 }

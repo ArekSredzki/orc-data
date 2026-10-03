@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA11508",
   "country": "USA",
+  "reference": "04560004UV5",
   "name": "MASKWA",
   "rating": {
     "gph": 586.9,
@@ -197,6 +198,5 @@
       8.46,
       9.53
     ]
-  },
-  "reference": "04560004UV5"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9400",
   "country": "NOR",
+  "reference": "03440004RVK",
   "name": "Danseuse",
   "rating": {
     "gph": 589.5,
@@ -197,6 +198,5 @@
       8.25,
       8.97
     ]
-  },
-  "reference": "03440004RVK"
+  }
 }

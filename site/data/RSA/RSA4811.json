@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4811",
   "country": "RSA",
+  "reference": "04620004886",
   "name": "Ripple",
   "rating": {
     "gph": 673.1,
@@ -197,6 +198,5 @@
       7.62,
       8.25
     ]
-  },
-  "reference": "04620004886"
+  }
 }

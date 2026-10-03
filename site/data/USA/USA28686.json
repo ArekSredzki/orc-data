@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA28686",
   "country": "USA",
+  "reference": "04560004WC3",
   "name": "OC 86",
   "rating": {
     "gph": 363.9,
@@ -197,6 +198,5 @@
       15.79,
       18.69
     ]
-  },
-  "reference": "04560004WC3"
+  }
 }

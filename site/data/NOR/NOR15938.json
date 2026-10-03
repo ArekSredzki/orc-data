@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15938",
   "country": "NOR",
+  "reference": "03440004NSL",
   "name": "Solitude",
   "rating": {
     "gph": 602.5,
@@ -197,6 +198,5 @@
       8.28,
       11.01
     ]
-  },
-  "reference": "03440004NSL"
+  }
 }

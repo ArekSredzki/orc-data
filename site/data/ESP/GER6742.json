@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GER6742",
   "country": "ESP",
+  "reference": "03510004WMH",
   "name": "HAPPY FOREVER",
   "rating": {
     "gph": 578.3,
@@ -197,6 +198,5 @@
       8.68,
       9.66
     ]
-  },
-  "reference": "03510004WMH"
+  }
 }

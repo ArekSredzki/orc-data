@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11513_C",
   "country": "ESP",
+  "reference": "03510004PCO",
   "name": "THALASSA",
   "rating": {
     "gph": 570.3,
@@ -197,6 +198,5 @@
       8.28,
       8.99
     ]
-  },
-  "reference": "03510004PCO"
+  }
 }

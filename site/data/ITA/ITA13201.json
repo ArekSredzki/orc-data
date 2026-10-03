@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13201",
   "country": "ITA",
+  "reference": "03190004UNE",
   "name": "FIBRA",
   "rating": {
     "gph": 481.1,
@@ -197,6 +198,5 @@
       13.29,
       16.55
     ]
-  },
-  "reference": "03190004UNE"
+  }
 }

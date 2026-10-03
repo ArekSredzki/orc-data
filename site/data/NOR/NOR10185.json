@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10185",
   "country": "NOR",
+  "reference": "03440004RLK",
   "name": "Fri av fj\u00e6rholmen",
   "rating": {
     "gph": 617.8,
@@ -197,6 +198,5 @@
       7.97,
       8.68
     ]
-  },
-  "reference": "03440004RLK"
+  }
 }

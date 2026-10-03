@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4155_C",
   "country": "ESP",
+  "reference": "03510004VOI",
   "name": "SNOOPY III",
   "rating": {
     "gph": 771.1,
@@ -197,6 +198,5 @@
       6.48,
       6.99
     ]
-  },
-  "reference": "03510004VOI"
+  }
 }

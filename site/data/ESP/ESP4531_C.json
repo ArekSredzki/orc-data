@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4531_C",
   "country": "ESP",
+  "reference": "03510004KS5",
   "name": "SELLA",
   "rating": {
     "gph": 627.5,
@@ -197,6 +198,5 @@
       9.76,
       12.87
     ]
-  },
-  "reference": "03510004KS5"
+  }
 }

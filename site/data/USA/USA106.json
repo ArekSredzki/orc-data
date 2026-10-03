@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA106",
   "country": "USA",
+  "reference": "04560004RT1",
   "name": "STRIKING BACK",
   "rating": {
     "gph": 566.3,
@@ -197,6 +198,5 @@
       9.24,
       11.77
     ]
-  },
-  "reference": "04560004RT1"
+  }
 }

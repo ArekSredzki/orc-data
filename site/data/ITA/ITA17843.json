@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17843",
   "country": "ITA",
+  "reference": "03190004HWW",
   "name": "SYLPHEA IV",
   "rating": {
     "gph": 596.0,
@@ -197,6 +198,5 @@
       8.2,
       8.85
     ]
-  },
-  "reference": "03190004HWW"
+  }
 }

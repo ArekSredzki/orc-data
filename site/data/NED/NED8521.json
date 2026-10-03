@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8521",
   "country": "NED",
+  "reference": "04310004QJ4",
   "name": "Goodtimes",
   "rating": {
     "gph": 667.6,
@@ -197,6 +198,5 @@
       7.53,
       8.16
     ]
-  },
-  "reference": "04310004QJ4"
+  }
 }

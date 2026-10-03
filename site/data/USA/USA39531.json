@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA39531",
   "country": "USA",
+  "reference": "04560004T8M",
   "name": "IN THE BLOOD",
   "rating": {
     "gph": 560.0,
@@ -197,6 +198,5 @@
       9.13,
       11.52
     ]
-  },
-  "reference": "04560004T8M"
+  }
 }

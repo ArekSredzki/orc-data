@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/GBR4860R",
   "country": "NED",
+  "reference": "04310004TA8",
   "name": "Just Ondeugd",
   "rating": {
     "gph": 565.9,
@@ -197,6 +198,5 @@
       8.32,
       9.99
     ]
-  },
-  "reference": "04310004TA8"
+  }
 }

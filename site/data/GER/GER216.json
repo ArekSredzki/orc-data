@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER216",
   "country": "GER",
+  "reference": "04150004KL2",
   "name": "KUEHNEZUG-GOLDKATZE",
   "rating": {
     "gph": 620.5,
@@ -197,6 +198,5 @@
       7.98,
       8.67
     ]
-  },
-  "reference": "04150004KL2"
+  }
 }

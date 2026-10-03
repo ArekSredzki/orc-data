@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP425",
   "country": "ESP",
+  "reference": "03510004WKN",
   "name": "DRALION",
   "rating": {
     "gph": 533.5,
@@ -197,6 +198,5 @@
       9.11,
       11.23
     ]
-  },
-  "reference": "03510004WKN"
+  }
 }

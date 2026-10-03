@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA50048",
   "country": "USA",
+  "reference": "04560004TDM",
   "name": "MAIN STREET",
   "rating": {
     "gph": 503.9,
@@ -197,6 +198,5 @@
       10.07,
       12.43
     ]
-  },
-  "reference": "04560004TDM"
+  }
 }

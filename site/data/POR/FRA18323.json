@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/FRA18323",
   "country": "POR",
+  "reference": "03530004HPC",
   "name": "OJO PIOJO",
   "rating": {
     "gph": 605.8,
@@ -197,6 +198,5 @@
       9.07,
       11.58
     ]
-  },
-  "reference": "03530004HPC"
+  }
 }

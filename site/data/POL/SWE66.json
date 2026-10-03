@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/SWE66",
   "country": "POL",
+  "reference": "04410004UI1",
   "name": "CHACA",
   "rating": {
     "gph": 721.9,
@@ -197,6 +198,5 @@
       7.04,
       7.69
     ]
-  },
-  "reference": "04410004UI1"
+  }
 }

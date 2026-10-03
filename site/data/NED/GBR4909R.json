@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/GBR4909R",
   "country": "NED",
+  "reference": "04310004JS0",
   "name": "Majic",
   "rating": {
     "gph": 615.6,
@@ -197,6 +198,5 @@
       7.69,
       8.85
     ]
-  },
-  "reference": "04310004JS0"
+  }
 }

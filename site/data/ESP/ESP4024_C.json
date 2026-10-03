@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4024_C",
   "country": "ESP",
+  "reference": "03510004T8E",
   "name": "SAMPAIO UNO",
   "rating": {
     "gph": 671.0,
@@ -197,6 +198,5 @@
       7.52,
       8.31
     ]
-  },
-  "reference": "03510004T8E"
+  }
 }

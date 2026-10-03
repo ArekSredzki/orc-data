@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18144",
   "country": "ITA",
+  "reference": "03190004B5M",
   "name": "PUNTO E VIRGOLA",
   "rating": {
     "gph": 648.1,
@@ -197,6 +198,5 @@
       7.6,
       8.19
     ]
-  },
-  "reference": "03190004B5M"
+  }
 }

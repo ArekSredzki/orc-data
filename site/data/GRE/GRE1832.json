@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1832",
   "country": "GRE",
+  "reference": "03420004HCU",
   "name": "PANIC",
   "rating": {
     "gph": 687.4,
@@ -197,6 +198,5 @@
       7.38,
       7.99
     ]
-  },
-  "reference": "03420004HCU"
+  }
 }

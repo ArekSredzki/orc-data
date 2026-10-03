@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN6913",
   "country": "FIN",
+  "reference": "04140004Q8V",
   "name": "Bayonita",
   "rating": {
     "gph": 583.5,
@@ -197,6 +198,5 @@
       8.4,
       9.2
     ]
-  },
-  "reference": "04140004Q8V"
+  }
 }

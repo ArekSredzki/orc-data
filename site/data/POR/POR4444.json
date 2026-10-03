@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR4444",
   "country": "POR",
+  "reference": "03530004C1C",
   "name": "BI\u00c3O II",
   "rating": {
     "gph": 595.9,
@@ -197,6 +198,5 @@
       8.26,
       9.05
     ]
-  },
-  "reference": "03530004C1C"
+  }
 }

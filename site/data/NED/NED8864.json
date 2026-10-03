@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8864",
   "country": "NED",
+  "reference": "04310004K20",
   "name": "Chiquitina",
   "rating": {
     "gph": 774.6,
@@ -197,6 +198,5 @@
       6.35,
       6.86
     ]
-  },
-  "reference": "04310004K20"
+  }
 }

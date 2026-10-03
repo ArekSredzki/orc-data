@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25578",
   "country": "USA",
+  "reference": "04560004SID",
   "name": "PARADIGM SHIFT",
   "rating": {
     "gph": 585.8,
@@ -197,6 +198,5 @@
       8.02,
       9.32
     ]
-  },
-  "reference": "04560004SID"
+  }
 }

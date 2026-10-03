@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18053",
   "country": "ITA",
+  "reference": "03190004BDN",
   "name": "TRISCELE",
   "rating": {
     "gph": 676.1,
@@ -197,6 +198,5 @@
       7.43,
       8.06
     ]
-  },
-  "reference": "03190004BDN"
+  }
 }

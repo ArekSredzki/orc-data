@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6580",
   "country": "GER",
+  "reference": "03520004IJC",
   "name": "PIRANHA",
   "rating": {
     "gph": 571.0,
@@ -197,6 +198,5 @@
       8.98,
       11.39
     ]
-  },
-  "reference": "03520004IJC"
+  }
 }

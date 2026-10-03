@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8441",
   "country": "NED",
+  "reference": "04310004K1A",
   "name": "Feniks",
   "rating": {
     "gph": 732.0,
@@ -197,6 +198,5 @@
       7.24,
       7.85
     ]
-  },
-  "reference": "04310004K1A"
+  }
 }

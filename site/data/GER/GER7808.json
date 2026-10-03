@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7808",
   "country": "GER",
+  "reference": "04150004QK6",
   "name": "BLACK JACK",
   "rating": {
     "gph": 643.5,
@@ -197,6 +198,5 @@
       7.42,
       8.66
     ]
-  },
-  "reference": "04150004QK6"
+  }
 }

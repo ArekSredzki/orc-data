@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA98189",
   "country": "ITA",
+  "reference": "03190004TOP",
   "name": "LADY DAY 998",
   "rating": {
     "gph": 612.6,
@@ -197,6 +198,5 @@
       7.89,
       9.79
     ]
-  },
-  "reference": "03190004TOP"
+  }
 }

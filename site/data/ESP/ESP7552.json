@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7552",
   "country": "ESP",
+  "reference": "03510004VW7",
   "name": "SAIOLA XIV",
   "rating": {
     "gph": 442.9,
@@ -197,6 +198,5 @@
       13.26,
       16.4
     ]
-  },
-  "reference": "03510004VW7"
+  }
 }

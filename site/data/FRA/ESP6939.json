@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/ESP6939",
   "country": "FRA",
+  "reference": "04330004W0J",
   "name": "PERSEUS",
   "rating": {
     "gph": 595.1,
@@ -197,6 +198,5 @@
       8.45,
       9.29
     ]
-  },
-  "reference": "04330004W0J"
+  }
 }

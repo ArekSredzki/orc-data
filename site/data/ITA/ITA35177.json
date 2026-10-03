@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA35177",
   "country": "ITA",
+  "reference": "03190004AWP",
   "name": "IMXTINENTE",
   "rating": {
     "gph": 606.5,
@@ -197,6 +198,5 @@
       8.18,
       9.17
     ]
-  },
-  "reference": "03190004AWP"
+  }
 }

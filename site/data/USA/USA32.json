@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA32",
   "country": "USA",
+  "reference": "04560004N6Q",
   "name": "FAIR AMERICAN",
   "rating": {
     "gph": 527.2,
@@ -197,6 +198,5 @@
       11.21,
       14.46
     ]
-  },
-  "reference": "04560004N6Q"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2947",
   "country": "CRO",
+  "reference": "03620004B1C",
   "name": "May",
   "rating": {
     "gph": 582.1,
@@ -197,6 +198,5 @@
       8.83,
       11.55
     ]
-  },
-  "reference": "03620004B1C"
+  }
 }

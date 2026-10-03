@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9794_C",
   "country": "ESP",
+  "reference": "03510004LH0",
   "name": "JONATHAN TRES",
   "rating": {
     "gph": 776.8,
@@ -197,6 +198,5 @@
       6.29,
       6.76
     ]
-  },
-  "reference": "03510004LH0"
+  }
 }

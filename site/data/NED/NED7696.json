@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7696",
   "country": "NED",
+  "reference": "04310004K8V",
   "name": "Easy Living",
   "rating": {
     "gph": 627.8,
@@ -197,6 +198,5 @@
       7.85,
       8.64
     ]
-  },
-  "reference": "04310004K8V"
+  }
 }

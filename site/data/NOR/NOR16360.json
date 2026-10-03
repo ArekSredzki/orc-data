@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16360",
   "country": "NOR",
+  "reference": "03440004OI0",
   "name": "First Try",
   "rating": {
     "gph": 580.5,
@@ -197,6 +198,5 @@
       8.69,
       11.13
     ]
-  },
-  "reference": "03440004OI0"
+  }
 }

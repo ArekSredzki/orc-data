@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1670",
   "country": "GRE",
+  "reference": "03420004K4S",
   "name": "ERROMENI",
   "rating": {
     "gph": 784.9,
@@ -197,6 +198,5 @@
       6.58,
       7.07
     ]
-  },
-  "reference": "03420004K4S"
+  }
 }

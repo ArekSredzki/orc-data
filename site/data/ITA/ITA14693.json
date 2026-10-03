@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14693",
   "country": "ITA",
+  "reference": "03190004N6L",
   "name": "MY BEST LOVE",
   "rating": {
     "gph": 590.5,
@@ -197,6 +198,5 @@
       8.05,
       8.77
     ]
-  },
-  "reference": "03190004N6L"
+  }
 }

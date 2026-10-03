@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA39",
   "country": "USA",
+  "reference": "04560004PQU",
   "name": "MELANTHO",
   "rating": {
     "gph": 633.2,
@@ -197,6 +198,5 @@
       7.64,
       9.68
     ]
-  },
-  "reference": "04560004PQU"
+  }
 }

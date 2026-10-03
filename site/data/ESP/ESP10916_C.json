@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10916_C",
   "country": "ESP",
+  "reference": "03510004B8I",
   "name": "FELITU",
   "rating": {
     "gph": 701.9,
@@ -197,6 +198,5 @@
       7.05,
       7.6
     ]
-  },
-  "reference": "03510004B8I"
+  }
 }

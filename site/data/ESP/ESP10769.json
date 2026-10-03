@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10769",
   "country": "ESP",
+  "reference": "03510004NQQ",
   "name": "JIPI",
   "rating": {
     "gph": 617.4,
@@ -197,6 +198,5 @@
       7.79,
       9.74
     ]
-  },
-  "reference": "03510004NQQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8692",
   "country": "GER",
+  "reference": "03520004I32",
   "name": "ALEMARO",
   "rating": {
     "gph": 509.9,
@@ -197,6 +198,5 @@
       10.73,
       13.63
     ]
-  },
-  "reference": "03520004I32"
+  }
 }

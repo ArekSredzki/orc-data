@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17676",
   "country": "ITA",
+  "reference": "031900048PQ",
   "name": "MARGOT",
   "rating": {
     "gph": 739.8,
@@ -197,6 +198,5 @@
       7.05,
       9.53
     ]
-  },
-  "reference": "031900048PQ"
+  }
 }

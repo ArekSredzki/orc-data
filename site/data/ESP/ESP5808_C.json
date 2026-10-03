@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5808_C",
   "country": "ESP",
+  "reference": "03510004U7I",
   "name": "LILLI",
   "rating": {
     "gph": 565.1,
@@ -197,6 +198,5 @@
       8.75,
       9.43
     ]
-  },
-  "reference": "03510004U7I"
+  }
 }

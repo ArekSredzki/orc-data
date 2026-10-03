@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA015",
   "country": "RSA",
+  "reference": "04620004ATW",
   "name": "Skwert",
   "rating": {
     "gph": 614.5,
@@ -197,6 +198,5 @@
       9.83,
       13.03
     ]
-  },
-  "reference": "04620004ATW"
+  }
 }

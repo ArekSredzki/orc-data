@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5555_C",
   "country": "ESP",
+  "reference": "03510004SNA",
   "name": "SIRIUS",
   "rating": {
     "gph": 510.2,
@@ -197,6 +198,5 @@
       10.7,
       13.52
     ]
-  },
-  "reference": "03510004SNA"
+  }
 }

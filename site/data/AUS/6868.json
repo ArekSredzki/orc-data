@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/6868",
   "country": "AUS",
+  "reference": "03020004V9V",
   "name": "Georgia Lee",
   "rating": {
     "gph": 584.1,
@@ -197,6 +198,5 @@
       9.45,
       12.56
     ]
-  },
-  "reference": "03020004V9V"
+  }
 }

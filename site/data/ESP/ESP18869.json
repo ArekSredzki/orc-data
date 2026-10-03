@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP18869",
   "country": "ESP",
+  "reference": "03510004LMC",
   "name": "CHISPETREN",
   "rating": {
     "gph": 605.1,
@@ -197,6 +198,5 @@
       8.28,
       9.05
     ]
-  },
-  "reference": "03510004LMC"
+  }
 }

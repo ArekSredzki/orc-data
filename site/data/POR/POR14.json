@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR14",
   "country": "POR",
+  "reference": "03530004HJ0",
   "name": "SUPER A\u00c7OR XIS",
   "rating": {
     "gph": 569.1,
@@ -197,6 +198,5 @@
       8.7,
       9.77
     ]
-  },
-  "reference": "03530004HJ0"
+  }
 }

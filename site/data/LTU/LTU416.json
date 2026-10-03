@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU416",
   "country": "LTU",
+  "reference": "03590004UW1",
   "name": "NERIJA",
   "rating": {
     "gph": 656.8,
@@ -197,6 +198,5 @@
       7.68,
       8.3
     ]
-  },
-  "reference": "03590004UW1"
+  }
 }

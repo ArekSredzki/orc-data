@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3155_C",
   "country": "ESP",
+  "reference": "03510004T8J",
   "name": "DESAFIO PERBIANO",
   "rating": {
     "gph": 675.5,
@@ -197,6 +198,5 @@
       7.42,
       8.16
     ]
-  },
-  "reference": "03510004T8J"
+  }
 }

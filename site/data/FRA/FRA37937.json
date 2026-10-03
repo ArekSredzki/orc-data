@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA37937",
   "country": "FRA",
+  "reference": "04330004H2U",
   "name": "SPIRIT OF REIVILO",
   "rating": {
     "gph": 598.9,
@@ -197,6 +198,5 @@
       7.97,
       9.43
     ]
-  },
-  "reference": "04330004H2U"
+  }
 }

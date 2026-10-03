@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13885",
   "country": "ITA",
+  "reference": "03190004H9V",
   "name": "FRA' PAOLELE",
   "rating": {
     "gph": 602.9,
@@ -197,6 +198,5 @@
       8.22,
       8.96
     ]
-  },
-  "reference": "03190004H9V"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15041",
   "country": "ITA",
+  "reference": "03190004I8C",
   "name": "KALAVA'",
   "rating": {
     "gph": 593.5,
@@ -197,6 +198,5 @@
       7.99,
       9.2
     ]
-  },
-  "reference": "03190004I8C"
+  }
 }

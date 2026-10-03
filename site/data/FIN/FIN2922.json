@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN2922",
   "country": "FIN",
+  "reference": "04140004R1O",
   "name": "Venla",
   "rating": {
     "gph": 716.4,
@@ -197,6 +198,5 @@
       7.05,
       7.58
     ]
-  },
-  "reference": "04140004R1O"
+  }
 }

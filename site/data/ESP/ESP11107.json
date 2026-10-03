@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11107",
   "country": "ESP",
+  "reference": "03510004ONC",
   "name": "REGULUS VII",
   "rating": {
     "gph": 607.1,
@@ -197,6 +198,5 @@
       7.98,
       10.22
     ]
-  },
-  "reference": "03510004ONC"
+  }
 }

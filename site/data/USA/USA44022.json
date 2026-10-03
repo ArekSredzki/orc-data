@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA44022",
   "country": "USA",
+  "reference": "04560004QDV",
   "name": "Blue Skies",
   "rating": {
     "gph": 597.2,
@@ -197,6 +198,5 @@
       8.28,
       8.86
     ]
-  },
-  "reference": "04560004QDV"
+  }
 }

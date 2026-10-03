@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3923_C",
   "country": "ESP",
+  "reference": "03510004OLC",
   "name": "XIQUI",
   "rating": {
     "gph": 721.8,
@@ -197,6 +198,5 @@
       7.13,
       7.81
     ]
-  },
-  "reference": "03510004OLC"
+  }
 }

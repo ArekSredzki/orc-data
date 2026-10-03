@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6313",
   "country": "GER",
+  "reference": "04150004QFR",
   "name": "TUT-NIX",
   "rating": {
     "gph": 606.7,
@@ -197,6 +198,5 @@
       8.42,
       9.3
     ]
-  },
-  "reference": "04150004QFR"
+  }
 }

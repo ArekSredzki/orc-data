@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/SMR0449",
   "country": "GRE",
+  "reference": "03420004QHN",
   "name": "PEGASUS",
   "rating": {
     "gph": 547.7,
@@ -197,6 +198,5 @@
       8.79,
       9.43
     ]
-  },
-  "reference": "03420004QHN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5799_C",
   "country": "ESP",
+  "reference": "03510004KE8",
   "name": "SMILE",
   "rating": {
     "gph": 694.7,
@@ -197,6 +198,5 @@
       7.41,
       9.94
     ]
-  },
-  "reference": "03510004KE8"
+  }
 }

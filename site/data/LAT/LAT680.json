@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT680",
   "country": "LAT",
+  "reference": "04960004VJ5",
   "name": "Noresca",
   "rating": {
     "gph": 620.6,
@@ -197,6 +198,5 @@
       7.77,
       8.33
     ]
-  },
-  "reference": "04960004VJ5"
+  }
 }

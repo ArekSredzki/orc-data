@@ -1,6 +1,7 @@
 {
   "sailnumber": "PER/PER4698",
   "country": "PER",
+  "reference": "03460004LH6",
   "name": "HAWK",
   "rating": {
     "gph": 514.0,
@@ -197,6 +198,5 @@
       9.72,
       12.06
     ]
-  },
-  "reference": "03460004LH6"
+  }
 }

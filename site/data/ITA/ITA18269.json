@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18269",
   "country": "ITA",
+  "reference": "03190004VSW",
   "name": "LUCE",
   "rating": {
     "gph": 499.0,
@@ -197,6 +198,5 @@
       9.79,
       10.88
     ]
-  },
-  "reference": "03190004VSW"
+  }
 }

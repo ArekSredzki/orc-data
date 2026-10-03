@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST700",
   "country": "EST",
+  "reference": "04340004UPT",
   "name": "Xilli",
   "rating": {
     "gph": 685.8,
@@ -197,6 +198,5 @@
       7.32,
       8.0
     ]
-  },
-  "reference": "04340004UPT"
+  }
 }

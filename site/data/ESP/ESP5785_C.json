@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5785_C",
   "country": "ESP",
+  "reference": "03510004IFT",
   "name": "CORSARA",
   "rating": {
     "gph": 638.9,
@@ -197,6 +198,5 @@
       7.78,
       8.41
     ]
-  },
-  "reference": "03510004IFT"
+  }
 }

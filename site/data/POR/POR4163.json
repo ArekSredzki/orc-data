@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR4163",
   "country": "POR",
+  "reference": "03530004V1P",
   "name": "SEITA TOO",
   "rating": {
     "gph": 733.1,
@@ -197,6 +198,5 @@
       6.62,
       7.43
     ]
-  },
-  "reference": "03530004V1P"
+  }
 }

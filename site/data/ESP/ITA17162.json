@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ITA17162",
   "country": "ESP",
+  "reference": "03510004BJ0",
   "name": "FLY AGAIN",
   "rating": {
     "gph": 613.6,
@@ -197,6 +198,5 @@
       7.68,
       8.25
     ]
-  },
-  "reference": "03510004BJ0"
+  }
 }

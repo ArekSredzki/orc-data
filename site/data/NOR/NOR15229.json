@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15229",
   "country": "NOR",
+  "reference": "03440004OQ8",
   "name": "Cruella II",
   "rating": {
     "gph": 620.6,
@@ -197,6 +198,5 @@
       8.25,
       9.02
     ]
-  },
-  "reference": "03440004OQ8"
+  }
 }

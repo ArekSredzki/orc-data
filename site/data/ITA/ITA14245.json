@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14245",
   "country": "ITA",
+  "reference": "03190004PE9",
   "name": "STUPEFACENTE",
   "rating": {
     "gph": 631.6,
@@ -197,6 +198,5 @@
       7.89,
       8.59
     ]
-  },
-  "reference": "03190004PE9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN5347",
   "country": "FIN",
+  "reference": "04140004Q2I",
   "name": "TRUE BLUE",
   "rating": {
     "gph": 677.0,
@@ -197,6 +198,5 @@
       7.4,
       8.29
     ]
-  },
-  "reference": "04140004Q2I"
+  }
 }

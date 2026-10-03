@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST185",
   "country": "EST",
+  "reference": "04340004Q1R",
   "name": "KADRI",
   "rating": {
     "gph": 747.5,
@@ -197,6 +198,5 @@
       6.65,
       7.29
     ]
-  },
-  "reference": "04340004Q1R"
+  }
 }

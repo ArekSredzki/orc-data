@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4626",
   "country": "ESP",
+  "reference": "03510004FA5",
   "name": "SILKE",
   "rating": {
     "gph": 646.3,
@@ -197,6 +198,5 @@
       7.33,
       8.01
     ]
-  },
-  "reference": "03510004FA5"
+  }
 }

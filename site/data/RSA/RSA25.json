@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA25",
   "country": "RSA",
+  "reference": "0462000487W",
   "name": "SCOTTISCHE",
   "rating": {
     "gph": 790.0,
@@ -197,6 +198,5 @@
       6.43,
       7.02
     ]
-  },
-  "reference": "0462000487W"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2980",
   "country": "NED",
+  "reference": "04310004JTH",
   "name": "Schrijverke",
   "rating": {
     "gph": 708.8,
@@ -197,6 +198,5 @@
       7.19,
       7.73
     ]
-  },
-  "reference": "04310004JTH"
+  }
 }

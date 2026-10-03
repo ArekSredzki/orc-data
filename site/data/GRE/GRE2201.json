@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2201",
   "country": "GRE",
+  "reference": "03420004R3P",
   "name": "ITHAKI",
   "rating": {
     "gph": 653.8,
@@ -197,6 +198,5 @@
       7.62,
       8.29
     ]
-  },
-  "reference": "03420004R3P"
+  }
 }

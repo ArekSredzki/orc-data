@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9783",
   "country": "FRA",
+  "reference": "04330004N8O",
   "name": "SPRINGBOK",
   "rating": {
     "gph": 559.4,
@@ -197,6 +198,5 @@
       9.02,
       10.1
     ]
-  },
-  "reference": "04330004N8O"
+  }
 }

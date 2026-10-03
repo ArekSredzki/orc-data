@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7206",
   "country": "GER",
+  "reference": "03520004KQQ",
   "name": "FRIDA",
   "rating": {
     "gph": 593.9,
@@ -197,6 +198,5 @@
       8.54,
       10.03
     ]
-  },
-  "reference": "03520004KQQ"
+  }
 }

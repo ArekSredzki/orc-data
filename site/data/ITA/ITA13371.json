@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13371",
   "country": "ITA",
+  "reference": "03190004QC8",
   "name": "CHARLIE",
   "rating": {
     "gph": 568.3,
@@ -197,6 +198,5 @@
       9.28,
       12.03
     ]
-  },
-  "reference": "03190004QC8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS64221",
   "country": "AUS",
+  "reference": "03020004VC1",
   "name": "ZEN",
   "rating": {
     "gph": 529.3,
@@ -197,6 +198,5 @@
       10.09,
       12.72
     ]
-  },
-  "reference": "03020004VC1"
+  }
 }

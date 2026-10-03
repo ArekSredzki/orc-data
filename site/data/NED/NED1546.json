@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED1546",
   "country": "NED",
+  "reference": "04310004W0I",
   "name": "Wavebuster",
   "rating": {
     "gph": 633.4,
@@ -197,6 +198,5 @@
       8.02,
       9.03
     ]
-  },
-  "reference": "04310004W0I"
+  }
 }

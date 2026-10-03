@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16215",
   "country": "ITA",
+  "reference": "03190004QD3",
   "name": "BLUETTE",
   "rating": {
     "gph": 587.3,
@@ -197,6 +198,5 @@
       8.46,
       9.29
     ]
-  },
-  "reference": "03190004QD3"
+  }
 }

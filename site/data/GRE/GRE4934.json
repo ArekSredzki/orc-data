@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE4934",
   "country": "GRE",
+  "reference": "03420004LAB",
   "name": "ORCA",
   "rating": {
     "gph": 709.7,
@@ -197,6 +198,5 @@
       7.2,
       7.83
     ]
-  },
-  "reference": "03420004LAB"
+  }
 }

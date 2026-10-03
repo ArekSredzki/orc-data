@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10324",
   "country": "NOR",
+  "reference": "03440004PLW",
   "name": "ZIGGY",
   "rating": {
     "gph": 666.3,
@@ -197,6 +198,5 @@
       7.46,
       8.15
     ]
-  },
-  "reference": "03440004PLW"
+  }
 }

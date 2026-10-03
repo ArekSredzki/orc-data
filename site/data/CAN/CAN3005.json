@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN3005",
   "country": "CAN",
+  "reference": "03430004PI4",
   "name": "Notorious",
   "rating": {
     "gph": 591.5,
@@ -197,6 +198,5 @@
       9.3,
       12.06
     ]
-  },
-  "reference": "03430004PI4"
+  }
 }

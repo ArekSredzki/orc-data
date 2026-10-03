@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15369",
   "country": "ITA",
+  "reference": "03190004B9K",
   "name": "DRAKE",
   "rating": {
     "gph": 540.1,
@@ -197,6 +198,5 @@
       8.74,
       9.35
     ]
-  },
-  "reference": "03190004B9K"
+  }
 }

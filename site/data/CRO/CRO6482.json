@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO6482",
   "country": "CRO",
+  "reference": "03620004N1J",
   "name": "Erco D'",
   "rating": {
     "gph": 562.2,
@@ -197,6 +198,5 @@
       8.86,
       10.86
     ]
-  },
-  "reference": "03620004N1J"
+  }
 }

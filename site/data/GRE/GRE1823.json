@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1823",
   "country": "GRE",
+  "reference": "03420004LCR",
   "name": "AITIS",
   "rating": {
     "gph": 627.6,
@@ -197,6 +198,5 @@
       7.65,
       10.14
     ]
-  },
-  "reference": "03420004LCR"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP29941_C",
   "country": "ESP",
+  "reference": "03510004SL4",
   "name": "IDEFIX PRIMERO",
   "rating": {
     "gph": 709.2,
@@ -197,6 +198,5 @@
       7.03,
       7.7
     ]
-  },
-  "reference": "03510004SL4"
+  }
 }

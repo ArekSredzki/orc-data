@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR1312",
   "country": "POR",
+  "reference": "03530004I62",
   "name": "PAPA LEGUAS II",
   "rating": {
     "gph": 636.7,
@@ -197,6 +198,5 @@
       7.77,
       8.42
     ]
-  },
-  "reference": "03530004I62"
+  }
 }

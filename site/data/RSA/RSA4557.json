@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4557",
   "country": "RSA",
+  "reference": "046200049N0",
   "name": "Malalijo",
   "rating": {
     "gph": 712.9,
@@ -197,6 +198,5 @@
       7.23,
       7.83
     ]
-  },
-  "reference": "046200049N0"
+  }
 }

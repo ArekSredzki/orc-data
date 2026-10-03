@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18162",
   "country": "ITA",
+  "reference": "03190004JDW",
   "name": "SHANTI",
   "rating": {
     "gph": 429.8,
@@ -197,6 +198,5 @@
       11.21,
       13.16
     ]
-  },
-  "reference": "03190004JDW"
+  }
 }

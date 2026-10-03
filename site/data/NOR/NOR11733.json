@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11733",
   "country": "NOR",
+  "reference": "03440004OA2",
   "name": "Jonna",
   "rating": {
     "gph": 615.9,
@@ -197,6 +198,5 @@
       8.12,
       8.81
     ]
-  },
-  "reference": "03440004OA2"
+  }
 }

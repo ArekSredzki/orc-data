@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA24531",
   "country": "ITA",
+  "reference": "03190004KM6",
   "name": "UNICORN",
   "rating": {
     "gph": 677.2,
@@ -197,6 +198,5 @@
       7.7,
       10.13
     ]
-  },
-  "reference": "03190004KM6"
+  }
 }

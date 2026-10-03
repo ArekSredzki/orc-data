@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA35",
   "country": "USA",
+  "reference": "04560004KU2",
   "name": "MUMMBLES",
   "rating": {
     "gph": 586.8,
@@ -197,6 +198,5 @@
       9.62,
       12.47
     ]
-  },
-  "reference": "04560004KU2"
+  }
 }

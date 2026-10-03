@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN25434",
   "country": "CAN",
+  "reference": "03430004P27",
   "name": "Tufty",
   "rating": {
     "gph": 618.6,
@@ -197,6 +198,5 @@
       7.66,
       8.21
     ]
-  },
-  "reference": "03430004P27"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ESP5968",
   "country": "ITA",
+  "reference": "03190004OHI",
   "name": "BEATRICE",
   "rating": {
     "gph": 639.3,
@@ -197,6 +198,5 @@
       7.65,
       8.43
     ]
-  },
-  "reference": "03190004OHI"
+  }
 }

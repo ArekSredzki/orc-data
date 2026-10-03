@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16502",
   "country": "ITA",
+  "reference": "03190004HRW",
   "name": "VERTIGO",
   "rating": {
     "gph": 673.0,
@@ -197,6 +198,5 @@
       7.27,
       7.81
     ]
-  },
-  "reference": "03190004HRW"
+  }
 }

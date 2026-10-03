@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/FRA07",
   "country": "ITA",
+  "reference": "03190004IQM",
   "name": "JASON",
   "rating": {
     "gph": 584.1,
@@ -197,6 +198,5 @@
       8.66,
       11.8
     ]
-  },
-  "reference": "03190004IQM"
+  }
 }

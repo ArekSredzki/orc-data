@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7412",
   "country": "ESP",
+  "reference": "03510004SNO",
   "name": "DESPACITO",
   "rating": {
     "gph": 600.3,
@@ -197,6 +198,5 @@
       7.93,
       8.63
     ]
-  },
-  "reference": "03510004SNO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL681",
   "country": "BUL",
+  "reference": "03850004W43",
   "name": "Terra DULOR",
   "rating": {
     "gph": 731.8,
@@ -197,6 +198,5 @@
       7.09,
       7.6
     ]
-  },
-  "reference": "03850004W43"
+  }
 }

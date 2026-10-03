@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA14728",
   "country": "FRA",
+  "reference": "04330004K74",
   "name": "VULCAN",
   "rating": {
     "gph": 751.1,
@@ -197,6 +198,5 @@
       6.66,
       7.22
     ]
-  },
-  "reference": "04330004K74"
+  }
 }

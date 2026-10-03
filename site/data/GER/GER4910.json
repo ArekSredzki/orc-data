@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER4910",
   "country": "GER",
+  "reference": "04150004Q6R",
   "name": "LICHTBLICK",
   "rating": {
     "gph": 667.8,
@@ -197,6 +198,5 @@
       7.56,
       8.38
     ]
-  },
-  "reference": "04150004Q6R"
+  }
 }

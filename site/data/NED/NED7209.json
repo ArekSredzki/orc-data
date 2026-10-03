@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7209",
   "country": "NED",
+  "reference": "04310004JWE",
   "name": "Knots!",
   "rating": {
     "gph": 661.7,
@@ -197,6 +198,5 @@
       7.72,
       8.42
     ]
-  },
-  "reference": "04310004JWE"
+  }
 }

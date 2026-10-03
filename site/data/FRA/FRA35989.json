@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA35989",
   "country": "FRA",
+  "reference": "04330004TJB",
   "name": "BERZINGUE",
   "rating": {
     "gph": 551.8,
@@ -197,6 +198,5 @@
       9.18,
       11.53
     ]
-  },
-  "reference": "04330004TJB"
+  }
 }

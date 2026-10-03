@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GBR4485L",
   "country": "ITA",
+  "reference": "03190004L8D",
   "name": "FREE EMOTIONS",
   "rating": {
     "gph": 643.1,
@@ -197,6 +198,5 @@
       7.58,
       8.88
     ]
-  },
-  "reference": "03190004L8D"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/BEL207",
   "country": "NED",
+  "reference": "04310004Q70",
   "name": "Cilla",
   "rating": {
     "gph": 624.6,
@@ -197,6 +198,5 @@
       8.07,
       8.73
     ]
-  },
-  "reference": "04310004Q70"
+  }
 }

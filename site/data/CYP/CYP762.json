@@ -1,6 +1,7 @@
 {
   "sailnumber": "CYP/CYP762",
   "country": "CYP",
+  "reference": "03470004VSD",
   "name": "VELOCE 2",
   "rating": {
     "gph": 688.7,
@@ -197,6 +198,5 @@
       7.16,
       7.72
     ]
-  },
-  "reference": "03470004VSD"
+  }
 }

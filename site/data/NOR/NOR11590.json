@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11590",
   "country": "NOR",
+  "reference": "03440004MQ6",
   "name": "Pluto",
   "rating": {
     "gph": 594.5,
@@ -197,6 +198,5 @@
       8.24,
       8.98
     ]
-  },
-  "reference": "03440004MQ6"
+  }
 }

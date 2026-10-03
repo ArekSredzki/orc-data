@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI760",
   "country": "SUI",
+  "reference": "03080004ILE",
   "name": "CARA SARA",
   "rating": {
     "gph": 690.8,
@@ -197,6 +198,5 @@
       7.29,
       9.15
     ]
-  },
-  "reference": "03080004ILE"
+  }
 }

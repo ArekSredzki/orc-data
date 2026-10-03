@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE800",
   "country": "GRE",
+  "reference": "03420004K44",
   "name": "BEAT",
   "rating": {
     "gph": 665.1,
@@ -197,6 +198,5 @@
       7.17,
       7.7
     ]
-  },
-  "reference": "03420004K44"
+  }
 }

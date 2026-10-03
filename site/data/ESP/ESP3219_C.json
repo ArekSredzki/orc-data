@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3219_C",
   "country": "ESP",
+  "reference": "03510004BH1",
   "name": "TIO TONI",
   "rating": {
     "gph": 854.8,
@@ -197,6 +198,5 @@
       6.18,
       6.63
     ]
-  },
-  "reference": "03510004BH1"
+  }
 }

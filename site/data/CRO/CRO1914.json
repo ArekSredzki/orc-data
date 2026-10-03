@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO1914",
   "country": "CRO",
+  "reference": "03620004H9R",
   "name": "Calanthe",
   "rating": {
     "gph": 570.7,
@@ -197,6 +198,5 @@
       8.8,
       9.7
     ]
-  },
-  "reference": "03620004H9R"
+  }
 }

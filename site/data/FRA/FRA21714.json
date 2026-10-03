@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA21714",
   "country": "FRA",
+  "reference": "04330004HRL",
   "name": "MACAYA",
   "rating": {
     "gph": 628.9,
@@ -197,6 +198,5 @@
       8.2,
       10.24
     ]
-  },
-  "reference": "04330004HRL"
+  }
 }

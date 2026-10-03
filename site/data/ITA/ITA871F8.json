@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA871F8",
   "country": "ITA",
+  "reference": "03190004IQ1",
   "name": "NAUSICAA",
   "rating": {
     "gph": 678.4,
@@ -197,6 +198,5 @@
       7.35,
       9.29
     ]
-  },
-  "reference": "03190004IQ1"
+  }
 }

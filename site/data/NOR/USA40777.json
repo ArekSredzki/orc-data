@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/USA40777",
   "country": "NOR",
+  "reference": "03440004T9R",
   "name": "First Tracks",
   "rating": {
     "gph": 596.4,
@@ -197,6 +198,5 @@
       8.26,
       9.06
     ]
-  },
-  "reference": "03440004T9R"
+  }
 }

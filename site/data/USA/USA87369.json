@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA87369",
   "country": "USA",
+  "reference": "04560004O2R",
   "name": "ROLLING IN THE DEEP",
   "rating": {
     "gph": 598.2,
@@ -197,6 +198,5 @@
       9.22,
       11.74
     ]
-  },
-  "reference": "04560004O2R"
+  }
 }

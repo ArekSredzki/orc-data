@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60422",
   "country": "USA",
+  "reference": "04560004HM9",
   "name": "Rising Sun",
   "rating": {
     "gph": 642.5,
@@ -197,6 +198,5 @@
       7.66,
       8.35
     ]
-  },
-  "reference": "04560004HM9"
+  }
 }

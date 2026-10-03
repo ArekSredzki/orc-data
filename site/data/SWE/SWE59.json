@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE59",
   "country": "SWE",
+  "reference": "03200004SF4",
   "name": "Serenity",
   "rating": {
     "gph": 682.9,
@@ -197,6 +198,5 @@
       7.42,
       8.1
     ]
-  },
-  "reference": "03200004SF4"
+  }
 }

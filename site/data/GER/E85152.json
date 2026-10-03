@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/E85152",
   "country": "GER",
+  "reference": "03520004I1F",
   "name": "SENZA FRENI DUE",
   "rating": {
     "gph": 598.7,
@@ -197,6 +198,5 @@
       11.23,
       14.13
     ]
-  },
-  "reference": "03520004I1F"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9143",
   "country": "NED",
+  "reference": "04310004K2R",
   "name": "Racy",
   "rating": {
     "gph": 613.6,
@@ -197,6 +198,5 @@
       7.88,
       8.46
     ]
-  },
-  "reference": "04310004K2R"
+  }
 }

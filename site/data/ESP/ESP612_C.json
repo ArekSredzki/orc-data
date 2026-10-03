@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP612_C",
   "country": "ESP",
+  "reference": "03510004M45",
   "name": "NIX",
   "rating": {
     "gph": 499.2,
@@ -197,6 +198,5 @@
       9.4,
       10.32
     ]
-  },
-  "reference": "03510004M45"
+  }
 }

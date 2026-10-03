@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17008",
   "country": "ITA",
+  "reference": "03190004QCE",
   "name": "HADAR",
   "rating": {
     "gph": 613.2,
@@ -197,6 +198,5 @@
       7.59,
       8.28
     ]
-  },
-  "reference": "03190004QCE"
+  }
 }

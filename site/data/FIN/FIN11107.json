@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11107",
   "country": "FIN",
+  "reference": "04140004HCW",
   "name": "Evita II",
   "rating": {
     "gph": 699.6,
@@ -197,6 +198,5 @@
       6.99,
       7.61
     ]
-  },
-  "reference": "04140004HCW"
+  }
 }

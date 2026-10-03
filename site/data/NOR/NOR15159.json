@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15159",
   "country": "NOR",
+  "reference": "03440004NK9",
   "name": "Karma Police",
   "rating": {
     "gph": 515.6,
@@ -197,6 +198,5 @@
       13.12,
       16.09
     ]
-  },
-  "reference": "03440004NK9"
+  }
 }

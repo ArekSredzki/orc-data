@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4764_C",
   "country": "ESP",
+  "reference": "03510004RSH",
   "name": "PASAY",
   "rating": {
     "gph": 595.0,
@@ -197,6 +198,5 @@
       8.36,
       9.06
     ]
-  },
-  "reference": "03510004RSH"
+  }
 }

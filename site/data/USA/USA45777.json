@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA45777",
   "country": "USA",
+  "reference": "04560004T36",
   "name": "MC2",
   "rating": {
     "gph": 482.2,
@@ -197,6 +198,5 @@
       10.59,
       13.21
     ]
-  },
-  "reference": "04560004T36"
+  }
 }

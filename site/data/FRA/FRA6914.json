@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA6914",
   "country": "FRA",
+  "reference": "04330004I92",
   "name": "MAURESQUE",
   "rating": {
     "gph": 666.9,
@@ -197,6 +198,5 @@
       7.44,
       8.02
     ]
-  },
-  "reference": "04330004I92"
+  }
 }

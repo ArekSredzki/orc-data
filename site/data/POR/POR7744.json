@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR7744",
   "country": "POR",
+  "reference": "03530004UVK",
   "name": "TIRO",
   "rating": {
     "gph": 550.3,
@@ -197,6 +198,5 @@
       8.83,
       10.35
     ]
-  },
-  "reference": "03530004UVK"
+  }
 }

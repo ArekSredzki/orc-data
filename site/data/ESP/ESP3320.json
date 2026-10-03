@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3320",
   "country": "ESP",
+  "reference": "03510004FSH",
   "name": "INKA",
   "rating": {
     "gph": 698.0,
@@ -197,6 +198,5 @@
       7.43,
       8.2
     ]
-  },
-  "reference": "03510004FSH"
+  }
 }

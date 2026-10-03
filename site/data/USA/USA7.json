@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA7",
   "country": "USA",
+  "reference": "04560004T01",
   "name": "Thin Ice",
   "rating": {
     "gph": 565.2,
@@ -197,6 +198,5 @@
       9.02,
       11.61
     ]
-  },
-  "reference": "04560004T01"
+  }
 }

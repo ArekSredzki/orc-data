@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8897",
   "country": "NED",
+  "reference": "04310004WBL",
   "name": "Rowdy-Dow",
   "rating": {
     "gph": 626.4,
@@ -197,6 +198,5 @@
       7.91,
       8.74
     ]
-  },
-  "reference": "04310004WBL"
+  }
 }

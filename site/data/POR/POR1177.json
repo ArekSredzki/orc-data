@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR1177",
   "country": "POR",
+  "reference": "03530004WJR",
   "name": "FREDERICA DEVONIA",
   "rating": {
     "gph": 633.0,
@@ -197,6 +198,5 @@
       7.91,
       8.61
     ]
-  },
-  "reference": "03530004WJR"
+  }
 }

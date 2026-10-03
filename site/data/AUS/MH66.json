@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/MH66",
   "country": "AUS",
+  "reference": "03020004U39",
   "name": "Jambo",
   "rating": {
     "gph": 555.4,
@@ -197,6 +198,5 @@
       8.56,
       10.6
     ]
-  },
-  "reference": "03020004U39"
+  }
 }

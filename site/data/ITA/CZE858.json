@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/CZE858",
   "country": "ITA",
+  "reference": "03190004N21",
   "name": "HEBE V",
   "rating": {
     "gph": 603.2,
@@ -197,6 +198,5 @@
       8.01,
       9.43
     ]
-  },
-  "reference": "03190004N21"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA41051",
   "country": "ITA",
+  "reference": "03190004B6P",
   "name": "EXTRA 1",
   "rating": {
     "gph": 570.2,
@@ -197,6 +198,5 @@
       8.73,
       9.82
     ]
-  },
-  "reference": "03190004B6P"
+  }
 }

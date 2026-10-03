@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/HKG1943",
   "country": "AUS",
+  "reference": "03020004W1K",
   "name": "Zephyr",
   "rating": {
     "gph": 592.2,
@@ -197,6 +198,5 @@
       8.25,
       9.02
     ]
-  },
-  "reference": "03020004W1K"
+  }
 }

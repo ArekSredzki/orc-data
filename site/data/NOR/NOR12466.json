@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12466",
   "country": "NOR",
+  "reference": "03440004T59",
   "name": "Mia Mara",
   "rating": {
     "gph": 613.7,
@@ -197,6 +198,5 @@
       7.98,
       8.68
     ]
-  },
-  "reference": "03440004T59"
+  }
 }

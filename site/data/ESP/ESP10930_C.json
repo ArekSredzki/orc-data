@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10930_C",
   "country": "ESP",
+  "reference": "03510004F54",
   "name": "THINK FAST",
   "rating": {
     "gph": 614.6,
@@ -197,6 +198,5 @@
       7.59,
       8.23
     ]
-  },
-  "reference": "03510004F54"
+  }
 }

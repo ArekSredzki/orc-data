@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/FRA39714",
   "country": "GRE",
+  "reference": "03420004R4U",
   "name": "ROSMARINE",
   "rating": {
     "gph": 607.2,
@@ -197,6 +198,5 @@
       8.02,
       8.69
     ]
-  },
-  "reference": "03420004R4U"
+  }
 }

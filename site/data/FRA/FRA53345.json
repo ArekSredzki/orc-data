@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53345",
   "country": "FRA",
+  "reference": "04330004F9M",
   "name": "379B",
   "rating": {
     "gph": 594.7,
@@ -197,6 +198,5 @@
       7.95,
       8.64
     ]
-  },
-  "reference": "04330004F9M"
+  }
 }

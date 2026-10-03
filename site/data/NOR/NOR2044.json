@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR2044",
   "country": "NOR",
+  "reference": "03440004H6U",
   "name": "Mathilda",
   "rating": {
     "gph": 676.2,
@@ -197,6 +198,5 @@
       7.39,
       8.17
     ]
-  },
-  "reference": "03440004H6U"
+  }
 }

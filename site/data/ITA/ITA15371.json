@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15371",
   "country": "ITA",
+  "reference": "03190004FW1",
   "name": "ALLEGRO APPASSIONATO",
   "rating": {
     "gph": 601.8,
@@ -197,6 +198,5 @@
       8.24,
       9.07
     ]
-  },
-  "reference": "03190004FW1"
+  }
 }

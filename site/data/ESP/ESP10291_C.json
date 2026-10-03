@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10291_C",
   "country": "ESP",
+  "reference": "03510004891",
   "name": "MARAL IV",
   "rating": {
     "gph": 624.3,
@@ -197,6 +198,5 @@
       7.84,
       8.48
     ]
-  },
-  "reference": "03510004891"
+  }
 }

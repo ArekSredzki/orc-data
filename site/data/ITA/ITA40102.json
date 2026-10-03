@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA40102",
   "country": "ITA",
+  "reference": "03190004UWP",
   "name": "MP30+10",
   "rating": {
     "gph": 529.6,
@@ -197,6 +198,5 @@
       10.27,
       13.13
     ]
-  },
-  "reference": "03190004UWP"
+  }
 }

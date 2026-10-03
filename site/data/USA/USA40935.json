@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA40935",
   "country": "USA",
+  "reference": "04560004V7U",
   "name": "FIREFLY",
   "rating": {
     "gph": 606.5,
@@ -197,6 +198,5 @@
       7.94,
       8.81
     ]
-  },
-  "reference": "04560004V7U"
+  }
 }

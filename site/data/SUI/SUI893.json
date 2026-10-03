@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI893",
   "country": "SUI",
+  "reference": "03080004IJR",
   "name": "TIFFANY",
   "rating": {
     "gph": 772.7,
@@ -197,6 +198,5 @@
       6.54,
       7.06
     ]
-  },
-  "reference": "03080004IJR"
+  }
 }

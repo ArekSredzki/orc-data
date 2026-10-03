@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/FRA29858",
   "country": "ITA",
+  "reference": "03190004NVI",
   "name": "MALAFEMMENA 3",
   "rating": {
     "gph": 688.8,
@@ -197,6 +198,5 @@
       7.23,
       7.95
     ]
-  },
-  "reference": "03190004NVI"
+  }
 }

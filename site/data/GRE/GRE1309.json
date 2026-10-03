@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1309",
   "country": "GRE",
+  "reference": "03420004OU2",
   "name": "SEL DE MER",
   "rating": {
     "gph": 689.5,
@@ -197,6 +198,5 @@
       7.22,
       8.61
     ]
-  },
-  "reference": "03420004OU2"
+  }
 }

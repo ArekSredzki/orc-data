@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2273",
   "country": "GRE",
+  "reference": "03420004R76",
   "name": "SIMBA",
   "rating": {
     "gph": 621.2,
@@ -197,6 +198,5 @@
       7.91,
       8.66
     ]
-  },
-  "reference": "03420004R76"
+  }
 }

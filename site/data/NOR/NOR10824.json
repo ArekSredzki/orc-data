@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10824",
   "country": "NOR",
+  "reference": "03440004MQ2",
   "name": "Tella",
   "rating": {
     "gph": 642.7,
@@ -197,6 +198,5 @@
       7.65,
       8.26
     ]
-  },
-  "reference": "03440004MQ2"
+  }
 }

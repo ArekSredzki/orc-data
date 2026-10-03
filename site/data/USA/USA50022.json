@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA50022",
   "country": "USA",
+  "reference": "04560004SIE",
   "name": "Firefly",
   "rating": {
     "gph": 548.5,
@@ -197,6 +198,5 @@
       8.95,
       9.99
     ]
-  },
-  "reference": "04560004SIE"
+  }
 }

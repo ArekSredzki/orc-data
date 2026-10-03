@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8531",
   "country": "NED",
+  "reference": "04310004K1F",
   "name": "Bojangles",
   "rating": {
     "gph": 713.1,
@@ -197,6 +198,5 @@
       7.0,
       7.64
     ]
-  },
-  "reference": "04310004K1F"
+  }
 }

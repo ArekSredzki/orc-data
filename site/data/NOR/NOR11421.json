@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11421",
   "country": "NOR",
+  "reference": "03440004RI2",
   "name": "MadameX",
   "rating": {
     "gph": 642.9,
@@ -197,6 +198,5 @@
       7.7,
       8.42
     ]
-  },
-  "reference": "03440004RI2"
+  }
 }

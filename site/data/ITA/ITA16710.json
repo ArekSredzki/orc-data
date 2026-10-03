@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16710",
   "country": "ITA",
+  "reference": "03190004FFL",
   "name": "PILI-PILI",
   "rating": {
     "gph": 656.6,
@@ -197,6 +198,5 @@
       7.16,
       8.45
     ]
-  },
-  "reference": "03190004FFL"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GBR333X",
   "country": "ITA",
+  "reference": "03190004P11",
   "name": "KIWI",
   "rating": {
     "gph": 434.6,
@@ -197,6 +198,5 @@
       11.05,
       12.73
     ]
-  },
-  "reference": "03190004P11"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR19482",
   "country": "NOR",
+  "reference": "03440004WU3",
   "name": "Kinn",
   "rating": {
     "gph": 564.8,
@@ -197,6 +198,5 @@
       8.29,
       8.92
     ]
-  },
-  "reference": "03440004WU3"
+  }
 }

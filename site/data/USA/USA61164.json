@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61164",
   "country": "USA",
+  "reference": "04560004UN1",
   "name": "SIC PARVIS MAGNA",
   "rating": {
     "gph": 508.1,
@@ -197,6 +198,5 @@
       9.9,
       12.15
     ]
-  },
-  "reference": "04560004UN1"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17481",
   "country": "ITA",
+  "reference": "03190004BNU",
   "name": "JEUNESSE",
   "rating": {
     "gph": 642.1,
@@ -197,6 +198,5 @@
       7.66,
       8.25
     ]
-  },
-  "reference": "03190004BNU"
+  }
 }

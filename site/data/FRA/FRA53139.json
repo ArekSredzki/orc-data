@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53139",
   "country": "FRA",
+  "reference": "04330004VKA",
   "name": "VAELMORA",
   "rating": {
     "gph": 627.8,
@@ -197,6 +198,5 @@
       8.02,
       9.02
     ]
-  },
-  "reference": "04330004VKA"
+  }
 }

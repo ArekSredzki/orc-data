@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7558",
   "country": "ESP",
+  "reference": "03510004U8M",
   "name": "MAE\u00d1A 9",
   "rating": {
     "gph": 646.3,
@@ -197,6 +198,5 @@
       7.72,
       8.39
     ]
-  },
-  "reference": "03510004U8M"
+  }
 }

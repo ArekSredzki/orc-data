@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14861",
   "country": "ITA",
+  "reference": "03190004KK5",
   "name": "AIA DE MA",
   "rating": {
     "gph": 563.4,
@@ -197,6 +198,5 @@
       9.35,
       11.8
     ]
-  },
-  "reference": "03190004KK5"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA49",
   "country": "FRA",
+  "reference": "04330004S5K",
   "name": "GLEN ELLEN",
   "rating": {
     "gph": 532.6,
@@ -197,6 +198,5 @@
       9.2,
       11.38
     ]
-  },
-  "reference": "04330004S5K"
+  }
 }

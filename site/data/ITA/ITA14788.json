@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14788",
   "country": "ITA",
+  "reference": "03190004QKI",
   "name": "DIVERSA",
   "rating": {
     "gph": 666.8,
@@ -197,6 +198,5 @@
       7.17,
       7.99
     ]
-  },
-  "reference": "03190004QKI"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16383",
   "country": "ITA",
+  "reference": "03190004C08",
   "name": "L'ESCARGOT",
   "rating": {
     "gph": 632.9,
@@ -197,6 +198,5 @@
       7.41,
       8.09
     ]
-  },
-  "reference": "03190004C08"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/6",
   "country": "USA",
+  "reference": "04560004QKN",
   "name": "GO TRAIN",
   "rating": {
     "gph": 719.4,
@@ -197,6 +198,5 @@
       6.92,
       7.84
     ]
-  },
-  "reference": "04560004QKN"
+  }
 }

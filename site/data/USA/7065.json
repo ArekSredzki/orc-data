@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/7065",
   "country": "USA",
+  "reference": "04560004PQ8",
   "name": "GOOD NEWS",
   "rating": {
     "gph": 517.1,
@@ -197,6 +198,5 @@
       11.08,
       14.17
     ]
-  },
-  "reference": "04560004PQ8"
+  }
 }

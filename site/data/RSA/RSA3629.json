@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3629",
   "country": "RSA",
+  "reference": "04620004B4R",
   "name": "Panashe",
   "rating": {
     "gph": 791.8,
@@ -197,6 +198,5 @@
       6.41,
       7.0
     ]
-  },
-  "reference": "04620004B4R"
+  }
 }

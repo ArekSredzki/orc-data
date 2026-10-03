@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18046",
   "country": "ITA",
+  "reference": "03190004Q29",
   "name": "BARUFFA",
   "rating": {
     "gph": 730.3,
@@ -197,6 +198,5 @@
       6.52,
       7.06
     ]
-  },
-  "reference": "03190004Q29"
+  }
 }

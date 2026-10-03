@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA9057",
   "country": "ITA",
+  "reference": "03190004Q15",
   "name": "BRUDA",
   "rating": {
     "gph": 620.9,
@@ -197,6 +198,5 @@
       7.46,
       7.98
     ]
-  },
-  "reference": "03190004Q15"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED700",
   "country": "NED",
+  "reference": "04310004JW7",
   "name": "l' Esprit du Morbihan",
   "rating": {
     "gph": 651.4,
@@ -197,6 +198,5 @@
       7.82,
       8.48
     ]
-  },
-  "reference": "04310004JW7"
+  }
 }

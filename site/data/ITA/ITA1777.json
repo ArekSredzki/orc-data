@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1777",
   "country": "ITA",
+  "reference": "03190004U0V",
   "name": "CRAB",
   "rating": {
     "gph": 561.0,
@@ -197,6 +198,5 @@
       9.13,
       11.19
     ]
-  },
-  "reference": "03190004U0V"
+  }
 }

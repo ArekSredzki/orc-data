@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/R36",
   "country": "AUS",
+  "reference": "03020004UA0",
   "name": "Agent J",
   "rating": {
     "gph": 587.4,
@@ -197,6 +198,5 @@
       8.11,
       9.96
     ]
-  },
-  "reference": "03020004UA0"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE1220",
   "country": "SWE",
+  "reference": "03200004T88",
   "name": "Karukera",
   "rating": {
     "gph": 532.3,
@@ -197,6 +198,5 @@
       9.69,
       12.37
     ]
-  },
-  "reference": "03200004T88"
+  }
 }

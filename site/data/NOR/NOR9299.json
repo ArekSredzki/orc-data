@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9299",
   "country": "NOR",
+  "reference": "03440004LL3",
   "name": "Olisabeth",
   "rating": {
     "gph": 584.2,
@@ -197,6 +198,5 @@
       7.97,
       9.35
     ]
-  },
-  "reference": "03440004LL3"
+  }
 }

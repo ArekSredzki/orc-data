@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA950",
   "country": "ITA",
+  "reference": "03190004EOS",
   "name": "FOXY LADY",
   "rating": {
     "gph": 606.8,
@@ -197,6 +198,5 @@
       8.18,
       9.16
     ]
-  },
-  "reference": "03190004EOS"
+  }
 }

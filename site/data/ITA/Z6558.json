@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/Z6558",
   "country": "ITA",
+  "reference": "03190004MHD",
   "name": "PILSI",
   "rating": {
     "gph": 660.3,
@@ -197,6 +198,5 @@
       7.5,
       8.15
     ]
-  },
-  "reference": "03190004MHD"
+  }
 }

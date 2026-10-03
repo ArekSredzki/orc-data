@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA31062",
   "country": "USA",
+  "reference": "04560004SCE",
   "name": "PACIFIC YANKEE",
   "rating": {
     "gph": 551.9,
@@ -197,6 +198,5 @@
       11.59,
       14.74
     ]
-  },
-  "reference": "04560004SCE"
+  }
 }

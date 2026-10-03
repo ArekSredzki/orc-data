@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4206",
   "country": "ESP",
+  "reference": "03510004BR4",
   "name": "INARI",
   "rating": {
     "gph": 636.4,
@@ -197,6 +198,5 @@
       7.85,
       8.68
     ]
-  },
-  "reference": "03510004BR4"
+  }
 }

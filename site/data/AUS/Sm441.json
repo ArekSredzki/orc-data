@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm441",
   "country": "AUS",
+  "reference": "03020004TV6",
   "name": "EPIGEN YOUNGBEARS",
   "rating": {
     "gph": 658.5,
@@ -197,6 +198,5 @@
       7.5,
       8.31
     ]
-  },
-  "reference": "03020004TV6"
+  }
 }

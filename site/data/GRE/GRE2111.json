@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2111",
   "country": "GRE",
+  "reference": "03420004PTW",
   "name": "ARIADNE",
   "rating": {
     "gph": 647.5,
@@ -197,6 +198,5 @@
       7.72,
       8.27
     ]
-  },
-  "reference": "03420004PTW"
+  }
 }

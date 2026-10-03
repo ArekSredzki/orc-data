@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10517",
   "country": "ESP",
+  "reference": "03510004Q9I",
   "name": "ELEKO-MAMBO",
   "rating": {
     "gph": 599.6,
@@ -197,6 +198,5 @@
       8.0,
       8.65
     ]
-  },
-  "reference": "03510004Q9I"
+  }
 }

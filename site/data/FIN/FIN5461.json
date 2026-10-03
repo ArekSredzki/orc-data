@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN5461",
   "country": "FIN",
+  "reference": "04140004OSO",
   "name": "Martina 2",
   "rating": {
     "gph": 705.5,
@@ -197,6 +198,5 @@
       7.18,
       8.32
     ]
-  },
-  "reference": "04140004OSO"
+  }
 }

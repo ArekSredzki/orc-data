@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17164",
   "country": "ITA",
+  "reference": "03190004QOA",
   "name": "BALTHAZAR",
   "rating": {
     "gph": 690.4,
@@ -197,6 +198,5 @@
       7.25,
       7.86
     ]
-  },
-  "reference": "03190004QOA"
+  }
 }

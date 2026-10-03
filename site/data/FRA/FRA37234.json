@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA37234",
   "country": "FRA",
+  "reference": "04330004IJN",
   "name": "FURTIF",
   "rating": {
     "gph": 630.5,
@@ -197,6 +198,5 @@
       7.99,
       9.42
     ]
-  },
-  "reference": "04330004IJN"
+  }
 }

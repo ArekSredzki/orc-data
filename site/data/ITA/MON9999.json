@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/MON9999",
   "country": "ITA",
+  "reference": "03190004B2B",
   "name": "FASTLIGHT",
   "rating": {
     "gph": 484.7,
@@ -197,6 +198,5 @@
       11.2,
       13.7
     ]
-  },
-  "reference": "03190004B2B"
+  }
 }

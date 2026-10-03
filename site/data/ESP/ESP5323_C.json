@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5323_C",
   "country": "ESP",
+  "reference": "03510004OL7",
   "name": "COKETO",
   "rating": {
     "gph": 684.4,
@@ -197,6 +198,5 @@
       7.4,
       9.64
     ]
-  },
-  "reference": "03510004OL7"
+  }
 }

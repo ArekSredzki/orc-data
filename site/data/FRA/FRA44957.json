@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA44957",
   "country": "FRA",
+  "reference": "04330004IRQ",
   "name": "SORTILEGE",
   "rating": {
     "gph": 659.2,
@@ -197,6 +198,5 @@
       7.59,
       8.2
     ]
-  },
-  "reference": "04330004IRQ"
+  }
 }

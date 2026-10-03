@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5762",
   "country": "GER",
+  "reference": "04150004KL3",
   "name": "DANTES",
   "rating": {
     "gph": 604.8,
@@ -197,6 +198,5 @@
       8.24,
       8.81
     ]
-  },
-  "reference": "04150004KL3"
+  }
 }

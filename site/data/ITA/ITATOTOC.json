@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITATOTOC",
   "country": "ITA",
+  "reference": "03190004QCR",
   "name": "TOTO'",
   "rating": {
     "gph": 698.9,
@@ -197,6 +198,5 @@
       7.34,
       10.1
     ]
-  },
-  "reference": "03190004QCR"
+  }
 }

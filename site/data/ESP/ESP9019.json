@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9019",
   "country": "ESP",
+  "reference": "03510004HFM",
   "name": "LA GITANA",
   "rating": {
     "gph": 647.4,
@@ -197,6 +198,5 @@
       7.92,
       8.83
     ]
-  },
-  "reference": "03510004HFM"
+  }
 }

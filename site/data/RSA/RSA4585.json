@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4585",
   "country": "RSA",
+  "reference": "04620004AFF",
   "name": "Regardless 2",
   "rating": {
     "gph": 528.8,
@@ -197,6 +198,5 @@
       9.81,
       12.6
     ]
-  },
-  "reference": "04620004AFF"
+  }
 }

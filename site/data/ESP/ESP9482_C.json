@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9482_C",
   "country": "ESP",
+  "reference": "03510004BIA",
   "name": "CHICCOO",
   "rating": {
     "gph": 622.0,
@@ -197,6 +198,5 @@
       7.68,
       8.29
     ]
-  },
-  "reference": "03510004BIA"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE24",
   "country": "GRE",
+  "reference": "03420004IVI",
   "name": "AVGI",
   "rating": {
     "gph": 809.7,
@@ -197,6 +198,5 @@
       6.29,
       6.9
     ]
-  },
-  "reference": "03420004IVI"
+  }
 }

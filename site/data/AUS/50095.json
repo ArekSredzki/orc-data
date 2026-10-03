@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/50095",
   "country": "AUS",
+  "reference": "03020004S7P",
   "name": "Troubador",
   "rating": {
     "gph": 620.0,
@@ -197,6 +198,5 @@
       8.2,
       8.77
     ]
-  },
-  "reference": "03020004S7P"
+  }
 }

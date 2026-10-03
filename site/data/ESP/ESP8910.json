@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8910",
   "country": "ESP",
+  "reference": "03510004C4L",
   "name": "BLUE FLAG",
   "rating": {
     "gph": 640.5,
@@ -197,6 +198,5 @@
       7.84,
       8.61
     ]
-  },
-  "reference": "03510004C4L"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR105",
   "country": "TUR",
+  "reference": "04590004WSP",
   "name": "CHEESE III",
   "rating": {
     "gph": 608.5,
@@ -197,6 +198,5 @@
       8.17,
       9.47
     ]
-  },
-  "reference": "04590004WSP"
+  }
 }

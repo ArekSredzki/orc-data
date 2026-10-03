@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN8456",
   "country": "FIN",
+  "reference": "04140004NQE",
   "name": "Trixie",
   "rating": {
     "gph": 629.4,
@@ -197,6 +198,5 @@
       7.84,
       8.9
     ]
-  },
-  "reference": "04140004NQE"
+  }
 }

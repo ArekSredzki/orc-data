@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA28381",
   "country": "FRA",
+  "reference": "04330004HMM",
   "name": "JUST A RABBIT",
   "rating": {
     "gph": 644.7,
@@ -197,6 +198,5 @@
       7.82,
       8.53
     ]
-  },
-  "reference": "04330004HMM"
+  }
 }

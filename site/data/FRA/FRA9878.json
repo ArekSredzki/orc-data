@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9878",
   "country": "FRA",
+  "reference": "04330004MKT",
   "name": "TETRIS",
   "rating": {
     "gph": 609.8,
@@ -197,6 +198,5 @@
       8.34,
       8.96
     ]
-  },
-  "reference": "04330004MKT"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2092",
   "country": "NED",
+  "reference": "04310004WBK",
   "name": "Jackal",
   "rating": {
     "gph": 640.8,
@@ -197,6 +198,5 @@
       7.73,
       10.24
     ]
-  },
-  "reference": "04310004WBK"
+  }
 }

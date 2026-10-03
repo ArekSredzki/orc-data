@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR311",
   "country": "NOR",
+  "reference": "03440004PS0",
   "name": "Sharpedo",
   "rating": {
     "gph": 664.6,
@@ -197,6 +198,5 @@
       8.47,
       11.6
     ]
-  },
-  "reference": "03440004PS0"
+  }
 }

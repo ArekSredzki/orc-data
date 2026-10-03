@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA9940",
   "country": "ITA",
+  "reference": "03190004OI5",
   "name": "DARIO 4",
   "rating": {
     "gph": 636.7,
@@ -197,6 +198,5 @@
       7.75,
       8.51
     ]
-  },
-  "reference": "03190004OI5"
+  }
 }

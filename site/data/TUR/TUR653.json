@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR653",
   "country": "TUR",
+  "reference": "04590004MJN",
   "name": "SHINE",
   "rating": {
     "gph": 664.8,
@@ -197,6 +198,5 @@
       7.54,
       8.29
     ]
-  },
-  "reference": "04590004MJN"
+  }
 }

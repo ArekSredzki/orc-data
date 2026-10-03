@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm178",
   "country": "AUS",
+  "reference": "03020004T91",
   "name": "ALIBI",
   "rating": {
     "gph": 598.8,
@@ -197,6 +198,5 @@
       7.81,
       9.01
     ]
-  },
-  "reference": "03020004T91"
+  }
 }

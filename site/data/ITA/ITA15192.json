@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15192",
   "country": "ITA",
+  "reference": "03190004BA6",
   "name": "FREYA",
   "rating": {
     "gph": 634.3,
@@ -197,6 +198,5 @@
       8.32,
       9.06
     ]
-  },
-  "reference": "03190004BA6"
+  }
 }

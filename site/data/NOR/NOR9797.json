@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9797",
   "country": "NOR",
+  "reference": "03440004W7Q",
   "name": "Allegro",
   "rating": {
     "gph": 670.6,
@@ -197,6 +198,5 @@
       7.46,
       8.18
     ]
-  },
-  "reference": "03440004W7Q"
+  }
 }

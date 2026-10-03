@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4840",
   "country": "ESP",
+  "reference": "03510004HLU",
   "name": "GOLAFRE II",
   "rating": {
     "gph": 660.9,
@@ -197,6 +198,5 @@
       7.56,
       8.24
     ]
-  },
-  "reference": "03510004HLU"
+  }
 }

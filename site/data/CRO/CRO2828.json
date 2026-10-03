@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2828",
   "country": "CRO",
+  "reference": "03620004BKQ",
   "name": "Dupin",
   "rating": {
     "gph": 614.7,
@@ -197,6 +198,5 @@
       9.33,
       12.59
     ]
-  },
-  "reference": "03620004BKQ"
+  }
 }

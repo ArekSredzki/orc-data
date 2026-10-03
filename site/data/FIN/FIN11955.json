@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11955",
   "country": "FIN",
+  "reference": "04140004SM4",
   "name": "Accablant",
   "rating": {
     "gph": 596.3,
@@ -197,6 +198,5 @@
       7.88,
       8.55
     ]
-  },
-  "reference": "04140004SM4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10832_C",
   "country": "ESP",
+  "reference": "035100048JJ",
   "name": "ESPITA",
   "rating": {
     "gph": 670.5,
@@ -197,6 +198,5 @@
       7.47,
       8.21
     ]
-  },
-  "reference": "035100048JJ"
+  }
 }

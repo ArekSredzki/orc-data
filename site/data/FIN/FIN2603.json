@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN2603",
   "country": "FIN",
+  "reference": "04140004L24",
   "name": "Mormor",
   "rating": {
     "gph": 690.5,
@@ -197,6 +198,5 @@
       7.18,
       7.93
     ]
-  },
-  "reference": "04140004L24"
+  }
 }

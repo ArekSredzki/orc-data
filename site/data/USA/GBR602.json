@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/GBR602",
   "country": "USA",
+  "reference": "04560004W32",
   "name": "Revonoc",
   "rating": {
     "gph": 640.0,
@@ -197,6 +198,5 @@
       7.76,
       8.32
     ]
-  },
-  "reference": "04560004W32"
+  }
 }

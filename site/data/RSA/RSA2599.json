@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA2599",
   "country": "RSA",
+  "reference": "0462000485T",
   "name": "LAYLA",
   "rating": {
     "gph": 724.3,
@@ -197,6 +198,5 @@
       7.3,
       7.9
     ]
-  },
-  "reference": "0462000485T"
+  }
 }

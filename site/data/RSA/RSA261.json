@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA261",
   "country": "RSA",
+  "reference": "04620004B97",
   "name": "ARAGON",
   "rating": {
     "gph": 766.9,
@@ -197,6 +198,5 @@
       6.81,
       7.35
     ]
-  },
-  "reference": "04620004B97"
+  }
 }

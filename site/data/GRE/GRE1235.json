@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1235",
   "country": "GRE",
+  "reference": "03420004LJA",
   "name": "CRUELLA",
   "rating": {
     "gph": 618.2,
@@ -197,6 +198,5 @@
       10.63,
       13.66
     ]
-  },
-  "reference": "03420004LJA"
+  }
 }

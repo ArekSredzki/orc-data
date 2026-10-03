@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7017_C",
   "country": "ESP",
+  "reference": "03510004RSM",
   "name": "CHESS",
   "rating": {
     "gph": 680.5,
@@ -197,6 +198,5 @@
       7.35,
       8.06
     ]
-  },
-  "reference": "03510004RSM"
+  }
 }

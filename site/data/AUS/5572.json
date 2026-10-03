@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/5572",
   "country": "AUS",
+  "reference": "03020004UT3",
   "name": "King Tide",
   "rating": {
     "gph": 600.5,
@@ -197,6 +198,5 @@
       8.24,
       9.24
     ]
-  },
-  "reference": "03020004UT3"
+  }
 }

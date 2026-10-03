@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13642",
   "country": "ITA",
+  "reference": "03190004F8M",
   "name": "FIERAMOSCA",
   "rating": {
     "gph": 578.8,
@@ -197,6 +198,5 @@
       8.19,
       9.79
     ]
-  },
-  "reference": "03190004F8M"
+  }
 }

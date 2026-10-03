@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR38",
   "country": "NOR",
+  "reference": "03440004RVQ",
   "name": "BarX",
   "rating": {
     "gph": 566.7,
@@ -197,6 +198,5 @@
       8.75,
       9.9
     ]
-  },
-  "reference": "03440004RVQ"
+  }
 }

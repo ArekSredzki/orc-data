@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL1870",
   "country": "BUL",
+  "reference": "03850004Q4E",
   "name": "ARROUTADO",
   "rating": {
     "gph": 559.2,
@@ -197,6 +198,5 @@
       8.82,
       9.99
     ]
-  },
-  "reference": "03850004Q4E"
+  }
 }

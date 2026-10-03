@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST535",
   "country": "EST",
+  "reference": "04340004RA8",
   "name": "MY-CAR",
   "rating": {
     "gph": 602.2,
@@ -197,6 +198,5 @@
       7.9,
       9.9
     ]
-  },
-  "reference": "04340004RA8"
+  }
 }

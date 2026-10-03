@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2035",
   "country": "TUR",
+  "reference": "04590004J4K",
   "name": "BE BLUE",
   "rating": {
     "gph": 621.7,
@@ -197,6 +198,5 @@
       8.14,
       9.02
     ]
-  },
-  "reference": "04590004J4K"
+  }
 }

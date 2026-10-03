@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA13781",
   "country": "FRA",
+  "reference": "04330004HQS",
   "name": "EQUINOX",
   "rating": {
     "gph": 644.0,
@@ -197,6 +198,5 @@
       7.96,
       8.96
     ]
-  },
-  "reference": "04330004HQS"
+  }
 }

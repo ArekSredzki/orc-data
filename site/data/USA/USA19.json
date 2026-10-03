@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA19",
   "country": "USA",
+  "reference": "04560004LTE",
   "name": "BAD DOG",
   "rating": {
     "gph": 661.6,
@@ -197,6 +198,5 @@
       7.45,
       8.24
     ]
-  },
-  "reference": "04560004LTE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2477_C",
   "country": "ESP",
+  "reference": "03510004IDF",
   "name": "MERAK",
   "rating": {
     "gph": 641.6,
@@ -197,6 +198,5 @@
       7.6,
       8.21
     ]
-  },
-  "reference": "03510004IDF"
+  }
 }

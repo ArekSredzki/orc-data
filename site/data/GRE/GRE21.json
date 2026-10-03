@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE21",
   "country": "GRE",
+  "reference": "03420004K42",
   "name": "IRIDANOS",
   "rating": {
     "gph": 718.9,
@@ -197,6 +198,5 @@
       7.3,
       7.9
     ]
-  },
-  "reference": "03420004K42"
+  }
 }

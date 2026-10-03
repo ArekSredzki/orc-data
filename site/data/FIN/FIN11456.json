@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11456",
   "country": "FIN",
+  "reference": "04140004VTB",
   "name": "Bura",
   "rating": {
     "gph": 625.3,
@@ -197,6 +198,5 @@
       8.09,
       8.87
     ]
-  },
-  "reference": "04140004VTB"
+  }
 }

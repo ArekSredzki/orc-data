@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ESP29745",
   "country": "ITA",
+  "reference": "03190004WRF",
   "name": "SWANPITA-SMERIT",
   "rating": {
     "gph": 528.5,
@@ -197,6 +198,5 @@
       8.76,
       10.27
     ]
-  },
-  "reference": "03190004WRF"
+  }
 }

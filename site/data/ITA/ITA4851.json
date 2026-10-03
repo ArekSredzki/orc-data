@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA4851",
   "country": "ITA",
+  "reference": "03190004FOM",
   "name": "BC TARANTELLA",
   "rating": {
     "gph": 562.7,
@@ -197,6 +198,5 @@
       8.86,
       9.64
     ]
-  },
-  "reference": "03190004FOM"
+  }
 }

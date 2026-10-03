@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA2945",
   "country": "ITA",
+  "reference": "03190004MHK",
   "name": "THETIS",
   "rating": {
     "gph": 525.7,
@@ -197,6 +198,5 @@
       9.25,
       10.54
     ]
-  },
-  "reference": "03190004MHK"
+  }
 }

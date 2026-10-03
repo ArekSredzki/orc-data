@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14635",
   "country": "ITA",
+  "reference": "03190004LOQ",
   "name": "OUT OF THE BLUE",
   "rating": {
     "gph": 611.5,
@@ -197,6 +198,5 @@
       8.03,
       8.74
     ]
-  },
-  "reference": "03190004LOQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2232",
   "country": "BRA",
+  "reference": "04420004HKJ",
   "name": "JUST IV",
   "rating": {
     "gph": 697.6,
@@ -197,6 +198,5 @@
       7.34,
       8.41
     ]
-  },
-  "reference": "04420004HKJ"
+  }
 }

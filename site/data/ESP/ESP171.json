@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP171",
   "country": "ESP",
+  "reference": "03510004AVE",
   "name": "MAJARETA",
   "rating": {
     "gph": 648.3,
@@ -197,6 +198,5 @@
       9.67,
       12.77
     ]
-  },
-  "reference": "03510004AVE"
+  }
 }

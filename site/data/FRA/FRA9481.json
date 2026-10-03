@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9481",
   "country": "FRA",
+  "reference": "04330004CC5",
   "name": "BICHE",
   "rating": {
     "gph": 575.3,
@@ -197,6 +198,5 @@
       8.41,
       10.12
     ]
-  },
-  "reference": "04330004CC5"
+  }
 }

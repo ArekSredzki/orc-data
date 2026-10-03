@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16382",
   "country": "ITA",
+  "reference": "03190004IAS",
   "name": "JASMINE",
   "rating": {
     "gph": 664.4,
@@ -197,6 +198,5 @@
       7.54,
       8.12
     ]
-  },
-  "reference": "03190004IAS"
+  }
 }

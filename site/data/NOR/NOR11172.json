@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11172",
   "country": "NOR",
+  "reference": "03440004M5C",
   "name": "Tango II",
   "rating": {
     "gph": 563.1,
@@ -197,6 +198,5 @@
       8.49,
       10.07
     ]
-  },
-  "reference": "03440004M5C"
+  }
 }

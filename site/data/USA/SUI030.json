@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/SUI030",
   "country": "USA",
+  "reference": "04560004FKO",
   "name": "RAN",
   "rating": {
     "gph": 627.9,
@@ -197,6 +198,5 @@
       10.51,
       13.45
     ]
-  },
-  "reference": "04560004FKO"
+  }
 }

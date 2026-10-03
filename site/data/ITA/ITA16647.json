@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16647",
   "country": "ITA",
+  "reference": "03190004C3L",
   "name": "IRIDE",
   "rating": {
     "gph": 632.4,
@@ -197,6 +198,5 @@
       8.11,
       8.94
     ]
-  },
-  "reference": "03190004C3L"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1953",
   "country": "ITA",
+  "reference": "03190004I09",
   "name": "WANAX",
   "rating": {
     "gph": 610.7,
@@ -197,6 +198,5 @@
       8.12,
       8.89
     ]
-  },
-  "reference": "03190004I09"
+  }
 }

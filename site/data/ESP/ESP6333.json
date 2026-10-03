@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6333",
   "country": "ESP",
+  "reference": "03510004U0N",
   "name": "NARSAQ",
   "rating": {
     "gph": 598.5,
@@ -197,6 +198,5 @@
       7.9,
       8.61
     ]
-  },
-  "reference": "03510004U0N"
+  }
 }

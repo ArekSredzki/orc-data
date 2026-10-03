@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITACINCIN",
   "country": "ITA",
+  "reference": "03190004B23",
   "name": "CINCIN",
   "rating": {
     "gph": 636.9,
@@ -197,6 +198,5 @@
       7.69,
       8.29
     ]
-  },
-  "reference": "03190004B23"
+  }
 }

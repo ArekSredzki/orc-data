@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/G6432",
   "country": "AUS",
+  "reference": "03020004VA5",
   "name": "Perception",
   "rating": {
     "gph": 632.2,
@@ -197,6 +198,5 @@
       7.98,
       9.07
     ]
-  },
-  "reference": "03020004VA5"
+  }
 }

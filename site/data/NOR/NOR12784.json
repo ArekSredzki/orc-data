@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12784",
   "country": "NOR",
+  "reference": "03440004NSS",
   "name": "Bris",
   "rating": {
     "gph": 604.1,
@@ -197,6 +198,5 @@
       8.12,
       8.92
     ]
-  },
-  "reference": "03440004NSS"
+  }
 }

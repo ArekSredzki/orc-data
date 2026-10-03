@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53331",
   "country": "FRA",
+  "reference": "04330004K3I",
   "name": "WHIMJY 99",
   "rating": {
     "gph": 618.9,
@@ -197,6 +198,5 @@
       7.58,
       8.96
     ]
-  },
-  "reference": "04330004K3I"
+  }
 }

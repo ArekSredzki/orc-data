@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17453",
   "country": "ITA",
+  "reference": "03190004WRB",
   "name": "JOY",
   "rating": {
     "gph": 485.1,
@@ -197,6 +198,5 @@
       10.31,
       12.06
     ]
-  },
-  "reference": "03190004WRB"
+  }
 }

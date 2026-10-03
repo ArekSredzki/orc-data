@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1491",
   "country": "ITA",
+  "reference": "03190004NW9",
   "name": "MELANIA",
   "rating": {
     "gph": 656.2,
@@ -197,6 +198,5 @@
       7.55,
       8.2
     ]
-  },
-  "reference": "03190004NW9"
+  }
 }

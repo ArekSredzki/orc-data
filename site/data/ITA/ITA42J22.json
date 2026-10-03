@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA42J22",
   "country": "ITA",
+  "reference": "031900048PV",
   "name": "ALCIONE",
   "rating": {
     "gph": 739.8,
@@ -197,6 +198,5 @@
       7.05,
       9.53
     ]
-  },
-  "reference": "031900048PV"
+  }
 }

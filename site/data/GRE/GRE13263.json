@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE13263",
   "country": "GRE",
+  "reference": "03420004U7T",
   "name": "U CAPTAIN",
   "rating": {
     "gph": 599.3,
@@ -197,6 +198,5 @@
       7.95,
       8.83
     ]
-  },
-  "reference": "03420004U7T"
+  }
 }

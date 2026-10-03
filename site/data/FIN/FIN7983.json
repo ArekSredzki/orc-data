@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN7983",
   "country": "FIN",
+  "reference": "04140004QLA",
   "name": "Sade",
   "rating": {
     "gph": 683.1,
@@ -197,6 +198,5 @@
       7.29,
       7.99
     ]
-  },
-  "reference": "04140004QLA"
+  }
 }

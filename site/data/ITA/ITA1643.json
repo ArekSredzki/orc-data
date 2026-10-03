@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1643",
   "country": "ITA",
+  "reference": "03190004S9F",
   "name": "CORSARO II",
   "rating": {
     "gph": 534.5,
@@ -197,6 +198,5 @@
       9.15,
       9.8
     ]
-  },
-  "reference": "03190004S9F"
+  }
 }

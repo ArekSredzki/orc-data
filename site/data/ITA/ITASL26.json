@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITASL26",
   "country": "ITA",
+  "reference": "03190004MH8",
   "name": "SOLEA",
   "rating": {
     "gph": 666.6,
@@ -197,6 +198,5 @@
       7.42,
       8.1
     ]
-  },
-  "reference": "03190004MH8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA28770",
   "country": "USA",
+  "reference": "04560004FKQ",
   "name": "Troublespot",
   "rating": {
     "gph": 580.0,
@@ -197,6 +198,5 @@
       10.17,
       13.27
     ]
-  },
-  "reference": "04560004FKQ"
+  }
 }

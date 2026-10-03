@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12130",
   "country": "NOR",
+  "reference": "03440004T56",
   "name": "Chablis",
   "rating": {
     "gph": 571.6,
@@ -197,6 +198,5 @@
       8.7,
       9.53
     ]
-  },
-  "reference": "03440004T56"
+  }
 }

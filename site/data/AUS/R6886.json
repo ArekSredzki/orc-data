@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/R6886",
   "country": "AUS",
+  "reference": "03020005161",
   "name": "YOUNG LION",
   "rating": {
     "gph": 664.3,
@@ -41,7 +42,7 @@
     "stability_index": null,
     "cdl": 7.944,
     "division": "C",
-    "issue_date": "2026-06-05T02:26:01.356Z"
+    "issue_date": "2026-09-30T20:30:31.326Z"
   },
   "vpp": {
     "angles": [
@@ -197,6 +198,5 @@
       7.46,
       8.32
     ]
-  },
-  "reference": "03020004S7Q"
+  }
 }

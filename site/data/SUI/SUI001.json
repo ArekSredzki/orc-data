@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI001",
   "country": "SUI",
+  "reference": "03080004W6K",
   "name": "QFX",
   "rating": {
     "gph": 369.4,
@@ -197,6 +198,5 @@
       23.41,
       25.07
     ]
-  },
-  "reference": "03080004W6K"
+  }
 }

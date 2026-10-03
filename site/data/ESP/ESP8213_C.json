@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8213_C",
   "country": "ESP",
+  "reference": "03510004SL3",
   "name": "SOLARIS",
   "rating": {
     "gph": 570.1,
@@ -197,6 +198,5 @@
       8.65,
       9.44
     ]
-  },
-  "reference": "03510004SL3"
+  }
 }

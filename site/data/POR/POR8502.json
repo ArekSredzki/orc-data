@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR8502",
   "country": "POR",
+  "reference": "03530004WTQ",
   "name": "AQUAHOLIC",
   "rating": {
     "gph": 603.7,
@@ -197,6 +198,5 @@
       7.94,
       8.58
     ]
-  },
-  "reference": "03530004WTQ"
+  }
 }

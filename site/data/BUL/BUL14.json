@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL14",
   "country": "BUL",
+  "reference": "03850004PQ6",
   "name": "Albireo",
   "rating": {
     "gph": 737.8,
@@ -197,6 +198,5 @@
       6.68,
       7.34
     ]
-  },
-  "reference": "03850004PQ6"
+  }
 }

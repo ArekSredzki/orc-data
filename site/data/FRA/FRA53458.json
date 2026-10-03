@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53458",
   "country": "FRA",
+  "reference": "04330004J1M",
   "name": "GWAIHIR VENTURI",
   "rating": {
     "gph": 623.2,
@@ -197,6 +198,5 @@
       8.05,
       9.13
     ]
-  },
-  "reference": "04330004J1M"
+  }
 }

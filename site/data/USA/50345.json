@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/50345",
   "country": "USA",
+  "reference": "04560004VDC",
   "name": "CALIFORNIA GIRL",
   "rating": {
     "gph": 562.4,
@@ -197,6 +198,5 @@
       8.63,
       10.7
     ]
-  },
-  "reference": "04560004VDC"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52939",
   "country": "USA",
+  "reference": "04560004SDJ",
   "name": "TEAMWORK",
   "rating": {
     "gph": 570.1,
@@ -197,6 +198,5 @@
       8.27,
       9.81
     ]
-  },
-  "reference": "04560004SDJ"
+  }
 }

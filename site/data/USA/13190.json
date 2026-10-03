@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/13190",
   "country": "USA",
+  "reference": "04560004PQR",
   "name": "Skymark",
   "rating": {
     "gph": 700.9,
@@ -197,6 +198,5 @@
       7.09,
       7.67
     ]
-  },
-  "reference": "04560004PQR"
+  }
 }

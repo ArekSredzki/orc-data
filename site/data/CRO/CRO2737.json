@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2737",
   "country": "CRO",
+  "reference": "03620004J5V",
   "name": "Regina",
   "rating": {
     "gph": 606.1,
@@ -197,6 +198,5 @@
       7.89,
       9.95
     ]
-  },
-  "reference": "03620004J5V"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16848",
   "country": "ITA",
+  "reference": "03190004H10",
   "name": "NUR",
   "rating": {
     "gph": 608.1,
@@ -197,6 +198,5 @@
       7.83,
       8.49
     ]
-  },
-  "reference": "03190004H10"
+  }
 }

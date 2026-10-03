@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/SUI53",
   "country": "MLT",
+  "reference": "03230004P2H",
   "name": "CHOCOLATE 3",
   "rating": {
     "gph": 469.2,
@@ -197,6 +198,5 @@
       11.38,
       14.18
     ]
-  },
-  "reference": "03230004P2H"
+  }
 }

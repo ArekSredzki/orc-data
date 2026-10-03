@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN3",
   "country": "HUN",
+  "reference": "04890004O0D",
   "name": "Lillaf\u00fcred",
   "rating": {
     "gph": 524.8,
@@ -197,6 +198,5 @@
       10.81,
       13.16
     ]
-  },
-  "reference": "04890004O0D"
+  }
 }

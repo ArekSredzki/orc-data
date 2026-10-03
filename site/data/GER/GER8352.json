@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8352",
   "country": "GER",
+  "reference": "03520004B1P",
   "name": "TORMUND",
   "rating": {
     "gph": 548.6,
@@ -197,6 +198,5 @@
       11.26,
       14.53
     ]
-  },
-  "reference": "03520004B1P"
+  }
 }

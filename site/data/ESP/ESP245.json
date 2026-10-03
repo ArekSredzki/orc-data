@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP245",
   "country": "ESP",
+  "reference": "03510004V2T",
   "name": "PEZOAS",
   "rating": {
     "gph": 668.9,
@@ -197,6 +198,5 @@
       8.42,
       11.51
     ]
-  },
-  "reference": "03510004V2T"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/SWE1850_C",
   "country": "ESP",
+  "reference": "03510004KR5",
   "name": "Tintagel",
   "rating": {
     "gph": 573.0,
@@ -197,6 +198,5 @@
       8.81,
       9.39
     ]
-  },
-  "reference": "03510004KR5"
+  }
 }

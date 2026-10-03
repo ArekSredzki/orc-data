@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/SUI1313",
   "country": "FRA",
+  "reference": "04330004O2U",
   "name": "BERRET D'EMILE",
   "rating": {
     "gph": 653.1,
@@ -197,6 +198,5 @@
       7.68,
       8.42
     ]
-  },
-  "reference": "04330004O2U"
+  }
 }

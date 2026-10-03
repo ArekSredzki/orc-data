@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8795",
   "country": "GER",
+  "reference": "03520004VM4",
   "name": "GOODIO",
   "rating": {
     "gph": 609.5,
@@ -197,6 +198,5 @@
       7.74,
       9.58
     ]
-  },
-  "reference": "03520004VM4"
+  }
 }

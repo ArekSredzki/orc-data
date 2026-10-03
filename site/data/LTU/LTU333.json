@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU333",
   "country": "LTU",
+  "reference": "03590004V1I",
   "name": "ORCA CREW",
   "rating": {
     "gph": 641.2,
@@ -197,6 +198,5 @@
       8.96,
       12.15
     ]
-  },
-  "reference": "03590004V1I"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7433_C",
   "country": "ESP",
+  "reference": "03510004HM0",
   "name": "CORCHO II",
   "rating": {
     "gph": 647.6,
@@ -197,6 +198,5 @@
       7.53,
       8.08
     ]
-  },
-  "reference": "03510004HM0"
+  }
 }

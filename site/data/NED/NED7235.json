@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7235",
   "country": "NED",
+  "reference": "04310004JWF",
   "name": "J  ans",
   "rating": {
     "gph": 622.6,
@@ -197,6 +198,5 @@
       7.86,
       9.64
     ]
-  },
-  "reference": "04310004JWF"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR7",
   "country": "TUR",
+  "reference": "04590004JC3",
   "name": "GREYDER",
   "rating": {
     "gph": 738.1,
@@ -197,6 +198,5 @@
       7.14,
       10.03
     ]
-  },
-  "reference": "04590004JC3"
+  }
 }

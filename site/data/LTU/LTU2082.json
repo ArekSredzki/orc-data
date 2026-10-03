@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2082",
   "country": "LTU",
+  "reference": "03590004VNI",
   "name": "KAYRA",
   "rating": {
     "gph": 663.4,
@@ -197,6 +198,5 @@
       7.77,
       10.58
     ]
-  },
-  "reference": "03590004VNI"
+  }
 }

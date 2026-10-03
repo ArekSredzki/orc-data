@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA15370",
   "country": "USA",
+  "reference": "04560004SLA",
   "name": "ELIMINATOR",
   "rating": {
     "gph": 637.2,
@@ -197,6 +198,5 @@
       7.27,
       7.86
     ]
-  },
-  "reference": "04560004SLA"
+  }
 }

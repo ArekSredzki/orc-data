@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9772_C",
   "country": "ESP",
+  "reference": "03510004IB9",
   "name": "MACHAQUITO 2",
   "rating": {
     "gph": 616.5,
@@ -197,6 +198,5 @@
       7.81,
       8.49
     ]
-  },
-  "reference": "03510004IB9"
+  }
 }

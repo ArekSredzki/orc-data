@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA73551",
   "country": "USA",
+  "reference": "04560004V80",
   "name": "AMERICAN FLYER",
   "rating": {
     "gph": 653.1,
@@ -197,6 +198,5 @@
       7.2,
       7.78
     ]
-  },
-  "reference": "04560004V80"
+  }
 }

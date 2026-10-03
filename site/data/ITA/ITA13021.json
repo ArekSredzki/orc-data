@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13021",
   "country": "ITA",
+  "reference": "03190004LOO",
   "name": "YAK II",
   "rating": {
     "gph": 593.2,
@@ -197,6 +198,5 @@
       8.84,
       11.3
     ]
-  },
-  "reference": "03190004LOO"
+  }
 }

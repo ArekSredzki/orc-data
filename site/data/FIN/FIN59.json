@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN59",
   "country": "FIN",
+  "reference": "04140004S6L",
   "name": "HELENA",
   "rating": {
     "gph": 700.2,
@@ -197,6 +198,5 @@
       7.34,
       8.03
     ]
-  },
-  "reference": "04140004S6L"
+  }
 }

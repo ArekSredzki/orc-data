@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6142",
   "country": "NED",
+  "reference": "04310004LSP",
   "name": "DE FRANSCHMAN",
   "rating": {
     "gph": 701.8,
@@ -197,6 +198,5 @@
       7.08,
       7.73
     ]
-  },
-  "reference": "04310004LSP"
+  }
 }

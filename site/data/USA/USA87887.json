@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA87887",
   "country": "USA",
+  "reference": "04560004FLN",
   "name": "RESTLESS",
   "rating": {
     "gph": 599.9,
@@ -197,6 +198,5 @@
       8.01,
       9.19
     ]
-  },
-  "reference": "04560004FLN"
+  }
 }

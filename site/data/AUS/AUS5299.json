@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS5299",
   "country": "AUS",
+  "reference": "03020004WR5",
   "name": "PORCO ROSSO",
   "rating": {
     "gph": 443.6,
@@ -197,6 +198,5 @@
       13.17,
       16.89
     ]
-  },
-  "reference": "03020004WR5"
+  }
 }

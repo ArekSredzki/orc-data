@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5086_C",
   "country": "ESP",
+  "reference": "035100048O4",
   "name": "KAWAN",
   "rating": {
     "gph": 587.2,
@@ -197,6 +198,5 @@
       8.29,
       9.1
     ]
-  },
-  "reference": "035100048O4"
+  }
 }

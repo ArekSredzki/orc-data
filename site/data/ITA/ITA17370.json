@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17370",
   "country": "ITA",
+  "reference": "03190004KNW",
   "name": "AKELA",
   "rating": {
     "gph": 657.5,
@@ -197,6 +198,5 @@
       7.16,
       7.95
     ]
-  },
-  "reference": "03190004KNW"
+  }
 }

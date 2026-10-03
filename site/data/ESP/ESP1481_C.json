@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1481_C",
   "country": "ESP",
+  "reference": "03510004RO2",
   "name": "WILD",
   "rating": {
     "gph": 604.8,
@@ -197,6 +198,5 @@
       8.35,
       10.14
     ]
-  },
-  "reference": "03510004RO2"
+  }
 }

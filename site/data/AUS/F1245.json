@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/F1245",
   "country": "AUS",
+  "reference": "03020004THV",
   "name": "Obsession",
   "rating": {
     "gph": 551.3,
@@ -197,6 +198,5 @@
       8.57,
       10.53
     ]
-  },
-  "reference": "03020004THV"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST540",
   "country": "EST",
+  "reference": "04340004T1L",
   "name": "SIREN",
   "rating": {
     "gph": 618.3,
@@ -197,6 +198,5 @@
       7.89,
       8.55
     ]
-  },
-  "reference": "04340004T1L"
+  }
 }

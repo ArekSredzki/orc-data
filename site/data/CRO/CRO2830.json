@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2830",
   "country": "CRO",
+  "reference": "036200048OP",
   "name": "Spirit of pleasure",
   "rating": {
     "gph": 509.0,
@@ -197,6 +198,5 @@
       10.12,
       12.78
     ]
-  },
-  "reference": "036200048OP"
+  }
 }

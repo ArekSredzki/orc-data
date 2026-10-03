@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/POL8478",
   "country": "ITA",
+  "reference": "03190004T7T",
   "name": "BIGGER  JOHNKA",
   "rating": {
     "gph": 570.7,
@@ -197,6 +198,5 @@
       10.72,
       13.88
     ]
-  },
-  "reference": "03190004T7T"
+  }
 }

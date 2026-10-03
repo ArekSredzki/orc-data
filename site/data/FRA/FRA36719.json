@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA36719",
   "country": "FRA",
+  "reference": "04330004HLJ",
   "name": "FIRSTY 3",
   "rating": {
     "gph": 633.6,
@@ -197,6 +198,5 @@
       8.02,
       9.54
     ]
-  },
-  "reference": "04330004HLJ"
+  }
 }

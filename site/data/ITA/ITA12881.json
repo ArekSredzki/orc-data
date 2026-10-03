@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12881",
   "country": "ITA",
+  "reference": "03190004BUJ",
   "name": "BLU LUNETTA",
   "rating": {
     "gph": 617.7,
@@ -197,6 +198,5 @@
       8.2,
       9.5
     ]
-  },
-  "reference": "03190004BUJ"
+  }
 }

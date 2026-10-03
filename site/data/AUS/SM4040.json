@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/SM4040",
   "country": "AUS",
+  "reference": "03020004T4M",
   "name": "Bandit",
   "rating": {
     "gph": 580.2,
@@ -197,6 +198,5 @@
       8.59,
       9.5
     ]
-  },
-  "reference": "03020004T4M"
+  }
 }

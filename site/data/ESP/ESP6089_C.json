@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6089_C",
   "country": "ESP",
+  "reference": "03510004PLQ",
   "name": "TORNADO III",
   "rating": {
     "gph": 643.6,
@@ -197,6 +198,5 @@
       7.38,
       7.94
     ]
-  },
-  "reference": "03510004PLQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN1086",
   "country": "CAN",
+  "reference": "03430004I4T",
   "name": "Songbird",
   "rating": {
     "gph": 609.2,
@@ -197,6 +198,5 @@
       8.25,
       8.98
     ]
-  },
-  "reference": "03430004I4T"
+  }
 }

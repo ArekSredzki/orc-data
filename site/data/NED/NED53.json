@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED53",
   "country": "NED",
+  "reference": "04310004JV7",
   "name": "Silveren Swaen",
   "rating": {
     "gph": 546.5,
@@ -197,6 +198,5 @@
       8.76,
       9.37
     ]
-  },
-  "reference": "04310004JV7"
+  }
 }

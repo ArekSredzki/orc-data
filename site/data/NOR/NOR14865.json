@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14865",
   "country": "NOR",
+  "reference": "03440004RAL",
   "name": "Bertha 2.0",
   "rating": {
     "gph": 612.2,
@@ -197,6 +198,5 @@
       8.14,
       8.95
     ]
-  },
-  "reference": "03440004RAL"
+  }
 }

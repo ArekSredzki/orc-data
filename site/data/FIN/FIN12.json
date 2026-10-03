@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12",
   "country": "FIN",
+  "reference": "04140004WD1",
   "name": "Iroquois",
   "rating": {
     "gph": 599.5,
@@ -197,6 +198,5 @@
       8.32,
       9.11
     ]
-  },
-  "reference": "04140004WD1"
+  }
 }

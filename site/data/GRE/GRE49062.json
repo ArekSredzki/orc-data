@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49062",
   "country": "GRE",
+  "reference": "03420004PTL",
   "name": "FAINOMENO",
   "rating": {
     "gph": 694.8,
@@ -197,6 +198,5 @@
       7.13,
       7.95
     ]
-  },
-  "reference": "03420004PTL"
+  }
 }

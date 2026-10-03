@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3096_C",
   "country": "ESP",
+  "reference": "03510004C5O",
   "name": "COLI",
   "rating": {
     "gph": 759.9,
@@ -197,6 +198,5 @@
       6.94,
       7.6
     ]
-  },
-  "reference": "03510004C5O"
+  }
 }

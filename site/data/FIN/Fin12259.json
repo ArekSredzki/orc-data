@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/Fin12259",
   "country": "FIN",
+  "reference": "03290004Q4P",
   "name": "Prima Luce",
   "rating": {
     "gph": 616.9,
@@ -197,6 +198,5 @@
       8.14,
       9.02
     ]
-  },
-  "reference": "03290004Q4P"
+  }
 }

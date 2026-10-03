@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN29487",
   "country": "FIN",
+  "reference": "03290004O44",
   "name": "First Lady",
   "rating": {
     "gph": 629.5,
@@ -197,6 +198,5 @@
       7.87,
       8.58
     ]
-  },
-  "reference": "03290004O44"
+  }
 }

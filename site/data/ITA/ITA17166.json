@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17166",
   "country": "ITA",
+  "reference": "03190004FOF",
   "name": "LIVIA V",
   "rating": {
     "gph": 573.2,
@@ -197,6 +198,5 @@
       8.3,
       8.87
     ]
-  },
-  "reference": "03190004FOF"
+  }
 }

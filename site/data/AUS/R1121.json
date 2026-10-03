@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/R1121",
   "country": "AUS",
+  "reference": "03020004WR2",
   "name": "Executive Decision",
   "rating": {
     "gph": 617.9,
@@ -197,6 +198,5 @@
       8.51,
       10.95
     ]
-  },
-  "reference": "03020004WR2"
+  }
 }

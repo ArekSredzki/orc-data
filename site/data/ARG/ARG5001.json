@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5001",
   "country": "ARG",
+  "reference": "03880004B6W",
   "name": "LYKKE",
   "rating": {
     "gph": 575.0,
@@ -197,6 +198,5 @@
       8.7,
       9.56
     ]
-  },
-  "reference": "03880004B6W"
+  }
 }

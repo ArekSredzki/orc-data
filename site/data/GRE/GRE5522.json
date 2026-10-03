@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE5522",
   "country": "GRE",
+  "reference": "03420004MDS",
   "name": "MARINA BLUE",
   "rating": {
     "gph": 570.9,
@@ -197,6 +198,5 @@
       8.57,
       9.2
     ]
-  },
-  "reference": "03420004MDS"
+  }
 }

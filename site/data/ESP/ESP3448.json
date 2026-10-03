@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3448",
   "country": "ESP",
+  "reference": "03510004F25",
   "name": "ISLA CANELA 6",
   "rating": {
     "gph": 665.0,
@@ -197,6 +198,5 @@
       8.47,
       11.58
     ]
-  },
-  "reference": "03510004F25"
+  }
 }

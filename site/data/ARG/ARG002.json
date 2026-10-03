@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG002",
   "country": "ARG",
+  "reference": "03880004IJW",
   "name": "GAUCHO",
   "rating": {
     "gph": 544.0,
@@ -197,6 +198,5 @@
       11.59,
       14.84
     ]
-  },
-  "reference": "03880004IJW"
+  }
 }

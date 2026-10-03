@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/L30027",
   "country": "GER",
+  "reference": "04150004IVC",
   "name": "SIEBENUNDZWANZIG",
   "rating": {
     "gph": 597.2,
@@ -197,6 +198,5 @@
       9.37,
       12.21
     ]
-  },
-  "reference": "04150004IVC"
+  }
 }

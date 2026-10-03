@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/BOD105",
   "country": "GER",
+  "reference": "04150004LN9",
   "name": "ZICKE",
   "rating": {
     "gph": 540.7,
@@ -197,6 +198,5 @@
       10.94,
       14.09
     ]
-  },
-  "reference": "04150004LN9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11415_C",
   "country": "ESP",
+  "reference": "03510004C9V",
   "name": "PEPE1",
   "rating": {
     "gph": 776.0,
@@ -197,6 +198,5 @@
       6.44,
       6.93
     ]
-  },
-  "reference": "03510004C9V"
+  }
 }

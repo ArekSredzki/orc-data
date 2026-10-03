@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR11411",
   "country": "TUR",
+  "reference": "04590004868",
   "name": "X-MEN",
   "rating": {
     "gph": 537.1,
@@ -197,6 +198,5 @@
       8.85,
       10.58
     ]
-  },
-  "reference": "04590004868"
+  }
 }

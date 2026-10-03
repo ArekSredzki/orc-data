@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN1103",
   "country": "CAN",
+  "reference": "03430004HFR",
   "name": "Kincora",
   "rating": {
     "gph": 624.0,
@@ -197,6 +198,5 @@
       7.95,
       9.65
     ]
-  },
-  "reference": "03430004HFR"
+  }
 }

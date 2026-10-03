@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP34883",
   "country": "ESP",
+  "reference": "03510004ESB",
   "name": "RED SHARK",
   "rating": {
     "gph": 606.9,
@@ -197,6 +198,5 @@
       8.22,
       9.28
     ]
-  },
-  "reference": "03510004ESB"
+  }
 }

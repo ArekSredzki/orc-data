@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED5811",
   "country": "NED",
+  "reference": "04310004Q7A",
   "name": "Salty Dog",
   "rating": {
     "gph": 645.5,
@@ -197,6 +198,5 @@
       7.79,
       8.54
     ]
-  },
-  "reference": "04310004Q7A"
+  }
 }

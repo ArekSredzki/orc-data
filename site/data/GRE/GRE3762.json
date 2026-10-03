@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE3762",
   "country": "GRE",
+  "reference": "03420004LRU",
   "name": "PANORMITIS",
   "rating": {
     "gph": 618.0,
@@ -197,6 +198,5 @@
       8.16,
       8.93
     ]
-  },
-  "reference": "03420004LRU"
+  }
 }

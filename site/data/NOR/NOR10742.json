@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10742",
   "country": "NOR",
+  "reference": "03440004M5A",
   "name": "FantaSea",
   "rating": {
     "gph": 640.6,
@@ -197,6 +198,5 @@
       7.98,
       8.67
     ]
-  },
-  "reference": "03440004M5A"
+  }
 }

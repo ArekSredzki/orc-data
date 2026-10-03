@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/FRA004",
   "country": "ARG",
+  "reference": "03880004IFL",
   "name": "XE",
   "rating": {
     "gph": 542.6,
@@ -197,6 +198,5 @@
       11.66,
       14.89
     ]
-  },
-  "reference": "03880004IFL"
+  }
 }

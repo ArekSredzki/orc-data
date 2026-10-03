@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA39691",
   "country": "FRA",
+  "reference": "04330004HE5",
   "name": "55\u00b0 SOUTH",
   "rating": {
     "gph": 818.5,
@@ -197,6 +198,5 @@
       6.46,
       7.83
     ]
-  },
-  "reference": "04330004HE5"
+  }
 }

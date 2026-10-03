@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP55381_C",
   "country": "ESP",
+  "reference": "03510004C9J",
   "name": "YEY OMO EJA",
   "rating": {
     "gph": 590.5,
@@ -197,6 +198,5 @@
       8.06,
       8.67
     ]
-  },
-  "reference": "03510004C9J"
+  }
 }

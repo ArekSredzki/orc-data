@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2275",
   "country": "BRA",
+  "reference": "04420004WM2",
   "name": "SARAVAH",
   "rating": {
     "gph": 526.7,
@@ -197,6 +198,5 @@
       9.4,
       10.97
     ]
-  },
-  "reference": "04420004WM2"
+  }
 }

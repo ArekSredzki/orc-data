@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2235",
   "country": "LTU",
+  "reference": "03590004VVN",
   "name": "TE KYLA",
   "rating": {
     "gph": 609.1,
@@ -197,6 +198,5 @@
       8.14,
       9.12
     ]
-  },
-  "reference": "03590004VVN"
+  }
 }

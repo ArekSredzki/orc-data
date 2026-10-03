@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5723_C",
   "country": "ESP",
+  "reference": "03510004B46",
   "name": "ASANTE SANA",
   "rating": {
     "gph": 679.9,
@@ -197,6 +198,5 @@
       7.01,
       7.58
     ]
-  },
-  "reference": "03510004B46"
+  }
 }

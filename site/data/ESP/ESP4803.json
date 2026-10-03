@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4803",
   "country": "ESP",
+  "reference": "035100048MQ",
   "name": "OLIVITA",
   "rating": {
     "gph": 633.9,
@@ -197,6 +198,5 @@
       7.99,
       9.17
     ]
-  },
-  "reference": "035100048MQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7642",
   "country": "GER",
+  "reference": "03520004OE4",
   "name": "KURSCHATTEN",
   "rating": {
     "gph": 621.5,
@@ -197,6 +198,5 @@
       8.0,
       8.73
     ]
-  },
-  "reference": "03520004OE4"
+  }
 }

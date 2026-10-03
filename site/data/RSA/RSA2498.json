@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA2498",
   "country": "RSA",
+  "reference": "0462000487S",
   "name": "Dawn",
   "rating": {
     "gph": 766.3,
@@ -197,6 +198,5 @@
       7.07,
       7.68
     ]
-  },
-  "reference": "0462000487S"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL77",
   "country": "BUL",
+  "reference": "03850004P4S",
   "name": "Alexa A",
   "rating": {
     "gph": 558.2,
@@ -197,6 +198,5 @@
       8.8,
       11.06
     ]
-  },
-  "reference": "03850004P4S"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA210",
   "country": "ITA",
+  "reference": "03190004QTB",
   "name": "SHAULA VI",
   "rating": {
     "gph": 569.8,
@@ -197,6 +198,5 @@
       8.26,
       9.04
     ]
-  },
-  "reference": "03190004QTB"
+  }
 }

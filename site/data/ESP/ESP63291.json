@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP63291",
   "country": "ESP",
+  "reference": "03510004FA1",
   "name": "CRISPI DI MARE",
   "rating": {
     "gph": 652.2,
@@ -197,6 +198,5 @@
       7.85,
       8.53
     ]
-  },
-  "reference": "03510004FA1"
+  }
 }

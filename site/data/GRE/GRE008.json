@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE008",
   "country": "GRE",
+  "reference": "03420004VAT",
   "name": "ARETI",
   "rating": {
     "gph": 604.0,
@@ -197,6 +198,5 @@
       8.4,
       11.23
     ]
-  },
-  "reference": "03420004VAT"
+  }
 }

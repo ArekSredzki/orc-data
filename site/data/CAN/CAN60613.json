@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN60613",
   "country": "CAN",
+  "reference": "03430004Q97",
   "name": "J'Arrive",
   "rating": {
     "gph": 567.1,
@@ -197,6 +198,5 @@
       9.11,
       11.6
     ]
-  },
-  "reference": "03430004Q97"
+  }
 }

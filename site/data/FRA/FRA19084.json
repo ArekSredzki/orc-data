@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA19084",
   "country": "FRA",
+  "reference": "04330004J1H",
   "name": "TIR NA NOG 2",
   "rating": {
     "gph": 685.6,
@@ -197,6 +198,5 @@
       7.34,
       8.05
     ]
-  },
-  "reference": "04330004J1H"
+  }
 }

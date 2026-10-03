@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16629",
   "country": "ITA",
+  "reference": "03190004F8N",
   "name": "CASTALIA",
   "rating": {
     "gph": 639.7,
@@ -197,6 +198,5 @@
       7.59,
       8.19
     ]
-  },
-  "reference": "03190004F8N"
+  }
 }

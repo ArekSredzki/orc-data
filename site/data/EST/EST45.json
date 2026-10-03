@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST45",
   "country": "EST",
+  "reference": "04340004SI1",
   "name": "MERCURIUS",
   "rating": {
     "gph": 744.8,
@@ -197,6 +198,5 @@
       6.81,
       7.37
     ]
-  },
-  "reference": "04340004SI1"
+  }
 }

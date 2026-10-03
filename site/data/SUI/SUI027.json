@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI027",
   "country": "SUI",
+  "reference": "03080004L7W",
   "name": "PINTGA",
   "rating": {
     "gph": 606.7,
@@ -197,6 +198,5 @@
       10.82,
       13.72
     ]
-  },
-  "reference": "03080004L7W"
+  }
 }

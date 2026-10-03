@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5282",
   "country": "ARG",
+  "reference": "03880004IFC",
   "name": "MUKA MALUGA 3",
   "rating": {
     "gph": 618.3,
@@ -197,6 +198,5 @@
       7.99,
       8.61
     ]
-  },
-  "reference": "03880004IFC"
+  }
 }

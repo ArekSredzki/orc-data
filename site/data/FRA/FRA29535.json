@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA29535",
   "country": "FRA",
+  "reference": "04330004JKS",
   "name": "SUPER JOSEPHINE",
   "rating": {
     "gph": 665.7,
@@ -197,6 +198,5 @@
       8.47,
       11.85
     ]
-  },
-  "reference": "04330004JKS"
+  }
 }

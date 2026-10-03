@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14381",
   "country": "ITA",
+  "reference": "031900048OR",
   "name": "FINTO TONTO",
   "rating": {
     "gph": 610.6,
@@ -197,6 +198,5 @@
       8.11,
       8.79
     ]
-  },
-  "reference": "031900048OR"
+  }
 }

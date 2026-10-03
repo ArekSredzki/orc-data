@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA6374",
   "country": "FRA",
+  "reference": "04330004JBT",
   "name": "ELMA RLEQUIN",
   "rating": {
     "gph": 722.8,
@@ -197,6 +198,5 @@
       6.85,
       7.47
     ]
-  },
-  "reference": "04330004JBT"
+  }
 }

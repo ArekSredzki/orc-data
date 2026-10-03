@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2018",
   "country": "GRE",
+  "reference": "03420004MDM",
   "name": "ARETHOUSA",
   "rating": {
     "gph": 693.0,
@@ -197,6 +198,5 @@
       7.48,
       8.11
     ]
-  },
-  "reference": "03420004MDM"
+  }
 }

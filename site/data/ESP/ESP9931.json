@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9931",
   "country": "ESP",
+  "reference": "03510004F56",
   "name": "SWAHILI",
   "rating": {
     "gph": 636.8,
@@ -197,6 +198,5 @@
       7.9,
       9.06
     ]
-  },
-  "reference": "03510004F56"
+  }
 }

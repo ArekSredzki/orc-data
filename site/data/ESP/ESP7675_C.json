@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7675_C",
   "country": "ESP",
+  "reference": "03510004NIE",
   "name": "SISU",
   "rating": {
     "gph": 631.2,
@@ -197,6 +198,5 @@
       7.87,
       8.6
     ]
-  },
-  "reference": "03510004NIE"
+  }
 }

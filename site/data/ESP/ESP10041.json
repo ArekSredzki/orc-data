@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10041",
   "country": "ESP",
+  "reference": "035100048J3",
   "name": "ARGALLEIRO",
   "rating": {
     "gph": 687.7,
@@ -197,6 +198,5 @@
       7.33,
       7.98
     ]
-  },
-  "reference": "035100048J3"
+  }
 }

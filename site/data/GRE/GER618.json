@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GER618",
   "country": "GRE",
+  "reference": "03420004K4N",
   "name": "NEVA",
   "rating": {
     "gph": 678.9,
@@ -197,6 +198,5 @@
       7.77,
       10.59
     ]
-  },
-  "reference": "03420004K4N"
+  }
 }

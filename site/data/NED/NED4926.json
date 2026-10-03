@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4926",
   "country": "NED",
+  "reference": "04310004JV1",
   "name": "Firefly",
   "rating": {
     "gph": 759.4,
@@ -197,6 +198,5 @@
       6.83,
       8.57
     ]
-  },
-  "reference": "04310004JV1"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GBR7X",
   "country": "GBR",
+  "reference": "03860004W11",
   "name": "Cloudy 7",
   "rating": {
     "gph": 478.0,
@@ -197,6 +198,5 @@
       10.36,
       11.69
     ]
-  },
-  "reference": "03860004W11"
+  }
 }

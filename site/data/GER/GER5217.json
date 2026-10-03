@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5217",
   "country": "GER",
+  "reference": "03520004I3O",
   "name": "EX & HOPP",
   "rating": {
     "gph": 639.5,
@@ -197,6 +198,5 @@
       7.87,
       8.62
     ]
-  },
-  "reference": "03520004I3O"
+  }
 }

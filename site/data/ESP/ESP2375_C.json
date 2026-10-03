@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2375_C",
   "country": "ESP",
+  "reference": "03510004F55",
   "name": "TIRITI",
   "rating": {
     "gph": 693.1,
@@ -197,6 +198,5 @@
       7.32,
       8.14
     ]
-  },
-  "reference": "03510004F55"
+  }
 }

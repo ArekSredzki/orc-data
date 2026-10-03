@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA35035",
   "country": "USA",
+  "reference": "04560004THL",
   "name": "Dire Wolf",
   "rating": {
     "gph": 562.4,
@@ -197,6 +198,5 @@
       9.75,
       12.64
     ]
-  },
-  "reference": "04560004THL"
+  }
 }

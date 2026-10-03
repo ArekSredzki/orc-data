@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR17000",
   "country": "NOR",
+  "reference": "03440004L3M",
   "name": "Fifty Fifty",
   "rating": {
     "gph": 547.7,
@@ -197,6 +198,5 @@
       9.38,
       11.82
     ]
-  },
-  "reference": "03440004L3M"
+  }
 }

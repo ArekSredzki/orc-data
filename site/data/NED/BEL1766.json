@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/BEL1766",
   "country": "NED",
+  "reference": "04310004JRR",
   "name": "MARIG",
   "rating": {
     "gph": 677.5,
@@ -197,6 +198,5 @@
       7.58,
       8.62
     ]
-  },
-  "reference": "04310004JRR"
+  }
 }

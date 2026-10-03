@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU410",
   "country": "ROU",
+  "reference": "05040004RO1",
   "name": "Simina",
   "rating": {
     "gph": 585.3,
@@ -197,6 +198,5 @@
       8.46,
       9.24
     ]
-  },
-  "reference": "05040004RO1"
+  }
 }

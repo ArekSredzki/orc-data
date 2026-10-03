@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1372",
   "country": "GRE",
+  "reference": "03420004IOF",
   "name": "HARIS",
   "rating": {
     "gph": 761.4,
@@ -197,6 +198,5 @@
       6.59,
       7.08
     ]
-  },
-  "reference": "03420004IOF"
+  }
 }

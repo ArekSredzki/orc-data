@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR477",
   "country": "NOR",
+  "reference": "03440004L3A",
   "name": "Jilbo",
   "rating": {
     "gph": 667.5,
@@ -197,6 +198,5 @@
       8.57,
       11.65
     ]
-  },
-  "reference": "03440004L3A"
+  }
 }

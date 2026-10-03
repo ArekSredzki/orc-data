@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6483_C",
   "country": "ESP",
+  "reference": "03510004FPE",
   "name": "YEIAYEL",
   "rating": {
     "gph": 691.3,
@@ -197,6 +198,5 @@
       7.13,
       7.8
     ]
-  },
-  "reference": "03510004FPE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11369",
   "country": "FIN",
+  "reference": "04140004IKQ",
   "name": "VindUngen",
   "rating": {
     "gph": 599.7,
@@ -197,6 +198,5 @@
       8.26,
       9.2
     ]
-  },
-  "reference": "04140004IKQ"
+  }
 }

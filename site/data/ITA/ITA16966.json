@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16966",
   "country": "ITA",
+  "reference": "03190004SJS",
   "name": "MACASSAR",
   "rating": {
     "gph": 596.5,
@@ -197,6 +198,5 @@
       8.49,
       11.29
     ]
-  },
-  "reference": "03190004SJS"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP19981",
   "country": "ESP",
+  "reference": "03510004VO3",
   "name": "HYDRA",
   "rating": {
     "gph": 519.6,
@@ -197,6 +198,5 @@
       9.37,
       10.82
     ]
-  },
-  "reference": "03510004VO3"
+  }
 }

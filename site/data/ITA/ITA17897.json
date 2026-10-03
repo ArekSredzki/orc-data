@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17897",
   "country": "ITA",
+  "reference": "03190004VSS",
   "name": "ADRENALINA",
   "rating": {
     "gph": 541.0,
@@ -197,6 +198,5 @@
       8.69,
       10.18
     ]
-  },
-  "reference": "03190004VSS"
+  }
 }

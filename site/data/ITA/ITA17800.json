@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17800",
   "country": "ITA",
+  "reference": "03190004HAP",
   "name": "ATHENA",
   "rating": {
     "gph": 598.3,
@@ -197,6 +198,5 @@
       7.98,
       9.59
     ]
-  },
-  "reference": "03190004HAP"
+  }
 }

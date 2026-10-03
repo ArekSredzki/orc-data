@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4704_C",
   "country": "ESP",
+  "reference": "03510004I91",
   "name": "LA CAPRICHOSA",
   "rating": {
     "gph": 696.9,
@@ -197,6 +198,5 @@
       7.45,
       8.05
     ]
-  },
-  "reference": "03510004I91"
+  }
 }

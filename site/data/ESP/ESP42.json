@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP42",
   "country": "ESP",
+  "reference": "03510004RK7",
   "name": "KILOTON",
   "rating": {
     "gph": 505.6,
@@ -197,6 +198,5 @@
       11.49,
       14.75
     ]
-  },
-  "reference": "03510004RK7"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2219",
   "country": "GRE",
+  "reference": "03420004LKA",
   "name": "THERAPY",
   "rating": {
     "gph": 820.8,
@@ -197,6 +198,5 @@
       6.42,
       6.89
     ]
-  },
-  "reference": "03420004LKA"
+  }
 }

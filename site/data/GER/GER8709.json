@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8709",
   "country": "GER",
+  "reference": "03520004UEC",
   "name": "ALBATROS",
   "rating": {
     "gph": 692.8,
@@ -197,6 +198,5 @@
       7.35,
       7.98
     ]
-  },
-  "reference": "03520004UEC"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR619",
   "country": "TUR",
+  "reference": "04590004AUQ",
   "name": "KALYPSO",
   "rating": {
     "gph": 624.6,
@@ -197,6 +198,5 @@
       8.0,
       8.66
     ]
-  },
-  "reference": "04590004AUQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR5059",
   "country": "TUR",
+  "reference": "04590004KU5",
   "name": "LADIES FIRST",
   "rating": {
     "gph": 583.9,
@@ -197,6 +198,5 @@
       8.02,
       9.15
     ]
-  },
-  "reference": "04590004KU5"
+  }
 }

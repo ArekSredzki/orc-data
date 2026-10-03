@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA32529",
   "country": "USA",
+  "reference": "04560004W3R",
   "name": "KOLOA",
   "rating": {
     "gph": 659.1,
@@ -197,6 +198,5 @@
       7.46,
       8.33
     ]
-  },
-  "reference": "04560004W3R"
+  }
 }

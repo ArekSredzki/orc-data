@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP73077_C",
   "country": "ESP",
+  "reference": "03510004W4M",
   "name": "BIDASOA",
   "rating": {
     "gph": 555.0,
@@ -197,6 +198,5 @@
       9.62,
       12.8
     ]
-  },
-  "reference": "03510004W4M"
+  }
 }

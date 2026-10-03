@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60611",
   "country": "USA",
+  "reference": "04560004UK0",
   "name": "NO SURPRISE",
   "rating": {
     "gph": 561.4,
@@ -197,6 +198,5 @@
       9.25,
       11.9
     ]
-  },
-  "reference": "04560004UK0"
+  }
 }

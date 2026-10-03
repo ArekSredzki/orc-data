@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA97999",
   "country": "USA",
+  "reference": "04560004UK4",
   "name": "ILLUMINATI",
   "rating": {
     "gph": 452.4,
@@ -197,6 +198,5 @@
       11.89,
       14.25
     ]
-  },
-  "reference": "04560004UK4"
+  }
 }

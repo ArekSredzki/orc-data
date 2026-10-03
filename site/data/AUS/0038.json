@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/0038",
   "country": "AUS",
+  "reference": "03020004TND",
   "name": "SEREMISA",
   "rating": {
     "gph": 603.4,
@@ -197,6 +198,5 @@
       8.34,
       9.13
     ]
-  },
-  "reference": "03020004TND"
+  }
 }

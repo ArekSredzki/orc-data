@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE88",
   "country": "SWE",
+  "reference": "03200004QM7",
   "name": "Kwanza",
   "rating": {
     "gph": 589.9,
@@ -197,6 +198,5 @@
       11.23,
       14.31
     ]
-  },
-  "reference": "03200004QM7"
+  }
 }

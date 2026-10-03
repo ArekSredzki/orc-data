@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12488",
   "country": "NOR",
+  "reference": "03440004M5K",
   "name": "Lethe",
   "rating": {
     "gph": 629.7,
@@ -197,6 +198,5 @@
       7.54,
       8.78
     ]
-  },
-  "reference": "03440004M5K"
+  }
 }

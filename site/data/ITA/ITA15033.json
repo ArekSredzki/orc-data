@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15033",
   "country": "ITA",
+  "reference": "03190004WQ3",
   "name": "TESS",
   "rating": {
     "gph": 479.5,
@@ -197,6 +198,5 @@
       9.73,
       10.44
     ]
-  },
-  "reference": "03190004WQ3"
+  }
 }

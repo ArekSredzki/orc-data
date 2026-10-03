@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8666",
   "country": "GER",
+  "reference": "03520004V1O",
   "name": "SCHL\u00dcSSEL VON BREMEN",
   "rating": {
     "gph": 573.0,
@@ -197,6 +198,5 @@
       8.74,
       9.59
     ]
-  },
-  "reference": "03520004V1O"
+  }
 }

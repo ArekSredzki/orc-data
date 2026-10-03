@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR5887",
   "country": "NOR",
+  "reference": "03440004W7M",
   "name": "Uro",
   "rating": {
     "gph": 695.1,
@@ -197,6 +198,5 @@
       6.84,
       7.36
     ]
-  },
-  "reference": "03440004W7M"
+  }
 }

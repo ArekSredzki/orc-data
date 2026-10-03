@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/12MR2",
   "country": "GER",
+  "reference": "03520004I16",
   "name": "ANITA",
   "rating": {
     "gph": 554.8,
@@ -197,6 +198,5 @@
       9.13,
       9.81
     ]
-  },
-  "reference": "03520004I16"
+  }
 }

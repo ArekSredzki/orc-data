@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA588M24",
   "country": "ITA",
+  "reference": "031900048PL",
   "name": "FOLLE VOLO PEGASUS",
   "rating": {
     "gph": 622.6,
@@ -197,6 +198,5 @@
       10.73,
       13.84
     ]
-  },
-  "reference": "031900048PL"
+  }
 }

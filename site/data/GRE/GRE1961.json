@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1961",
   "country": "GRE",
+  "reference": "03420004KCC",
   "name": "BLUE SHARK",
   "rating": {
     "gph": 610.8,
@@ -197,6 +198,5 @@
       8.59,
       11.2
     ]
-  },
-  "reference": "03420004KCC"
+  }
 }

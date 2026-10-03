@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST929",
   "country": "EST",
+  "reference": "04340004UPV",
   "name": "Lea Berenice",
   "rating": {
     "gph": 677.2,
@@ -197,6 +198,5 @@
       7.56,
       8.19
     ]
-  },
-  "reference": "04340004UPV"
+  }
 }

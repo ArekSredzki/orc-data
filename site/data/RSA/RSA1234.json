@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1234",
   "country": "RSA",
+  "reference": "04620004SA8",
   "name": "Yes Girl",
   "rating": {
     "gph": 557.3,
@@ -197,6 +198,5 @@
       9.22,
       11.23
     ]
-  },
-  "reference": "04620004SA8"
+  }
 }

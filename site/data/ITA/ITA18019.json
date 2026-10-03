@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18019",
   "country": "ITA",
+  "reference": "03190004BAH",
   "name": "SOFFIO",
   "rating": {
     "gph": 636.4,
@@ -197,6 +198,5 @@
       7.64,
       8.21
     ]
-  },
-  "reference": "03190004BAH"
+  }
 }

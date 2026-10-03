@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN54340",
   "country": "CAN",
+  "reference": "03430004V3O",
   "name": "Afterburn",
   "rating": {
     "gph": 511.7,
@@ -197,6 +198,5 @@
       11.68,
       14.72
     ]
-  },
-  "reference": "03430004V3O"
+  }
 }

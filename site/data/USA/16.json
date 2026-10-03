@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/16",
   "country": "USA",
+  "reference": "04560004SDO",
   "name": "DORADE",
   "rating": {
     "gph": 593.0,
@@ -197,6 +198,5 @@
       8.16,
       8.69
     ]
-  },
-  "reference": "04560004SDO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15800",
   "country": "ITA",
+  "reference": "03190004FP5",
   "name": "P.V.SEMPER FOX",
   "rating": {
     "gph": 635.0,
@@ -197,6 +198,5 @@
       7.44,
       8.12
     ]
-  },
-  "reference": "03190004FP5"
+  }
 }

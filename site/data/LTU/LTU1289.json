@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU1289",
   "country": "LTU",
+  "reference": "03590004V2A",
   "name": "PRESTO",
   "rating": {
     "gph": 641.1,
@@ -197,6 +198,5 @@
       9.05,
       12.21
     ]
-  },
-  "reference": "03590004V2A"
+  }
 }

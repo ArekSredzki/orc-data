@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/DEN4100",
   "country": "GER",
+  "reference": "03520004WQC",
   "name": "DIXI 5",
   "rating": {
     "gph": 548.1,
@@ -197,6 +198,5 @@
       9.42,
       11.89
     ]
-  },
-  "reference": "03520004WQC"
+  }
 }

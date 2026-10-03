@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10742",
   "country": "ESP",
+  "reference": "03510004BH0",
   "name": "RUPIT",
   "rating": {
     "gph": 723.5,
@@ -197,6 +198,5 @@
       7.16,
       7.94
     ]
-  },
-  "reference": "03510004BH0"
+  }
 }

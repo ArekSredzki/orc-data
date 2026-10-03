@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT36",
   "country": "AUT",
+  "reference": "03210004WK5",
   "name": "Perseus",
   "rating": {
     "gph": 610.6,
@@ -197,6 +198,5 @@
       10.98,
       13.86
     ]
-  },
-  "reference": "03210004WK5"
+  }
 }

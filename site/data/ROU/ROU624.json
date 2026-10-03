@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU624",
   "country": "ROU",
+  "reference": "05040004QON",
   "name": "EROS",
   "rating": {
     "gph": 599.0,
@@ -197,6 +198,5 @@
       7.85,
       8.5
     ]
-  },
-  "reference": "05040004QON"
+  }
 }

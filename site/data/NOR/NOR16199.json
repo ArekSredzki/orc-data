@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16199",
   "country": "NOR",
+  "reference": "03440004QMV",
   "name": "Avanti II",
   "rating": {
     "gph": 610.7,
@@ -197,6 +198,5 @@
       8.31,
       9.94
     ]
-  },
-  "reference": "03440004QMV"
+  }
 }

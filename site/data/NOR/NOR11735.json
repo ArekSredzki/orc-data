@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11735",
   "country": "NOR",
+  "reference": "03440004NKP",
   "name": "Trimar 2",
   "rating": {
     "gph": 580.1,
@@ -197,6 +198,5 @@
       8.55,
       9.43
     ]
-  },
-  "reference": "03440004NKP"
+  }
 }

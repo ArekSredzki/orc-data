@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12393",
   "country": "ITA",
+  "reference": "03190004WBA",
   "name": "GALADRIEL",
   "rating": {
     "gph": 567.3,
@@ -197,6 +198,5 @@
       8.25,
       8.85
     ]
-  },
-  "reference": "03190004WBA"
+  }
 }

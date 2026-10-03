@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE3640",
   "country": "GRE",
+  "reference": "03420004IUN",
   "name": "TIAMAT",
   "rating": {
     "gph": 582.7,
@@ -197,6 +198,5 @@
       8.76,
       11.18
     ]
-  },
-  "reference": "03420004IUN"
+  }
 }

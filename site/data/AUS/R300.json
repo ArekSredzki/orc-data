@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/R300",
   "country": "AUS",
+  "reference": "03020004W92",
   "name": "The Dog House",
   "rating": {
     "gph": 601.1,
@@ -197,6 +198,5 @@
       8.98,
       11.73
     ]
-  },
-  "reference": "03020004W92"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8822",
   "country": "GER",
+  "reference": "03520004WPA",
   "name": "VERL DONE",
   "rating": {
     "gph": 735.4,
@@ -197,6 +198,5 @@
       6.82,
       7.37
     ]
-  },
-  "reference": "03520004WPA"
+  }
 }

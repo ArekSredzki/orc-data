@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7527_C",
   "country": "ESP",
+  "reference": "035100048K3",
   "name": "LA VICTORIA",
   "rating": {
     "gph": 616.1,
@@ -197,6 +198,5 @@
       8.25,
       8.91
     ]
-  },
-  "reference": "035100048K3"
+  }
 }

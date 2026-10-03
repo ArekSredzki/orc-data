@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16080",
   "country": "NOR",
+  "reference": "03440004WRM",
   "name": "Ibb",
   "rating": {
     "gph": 589.0,
@@ -197,6 +198,5 @@
       8.51,
       9.44
     ]
-  },
-  "reference": "03440004WRM"
+  }
 }

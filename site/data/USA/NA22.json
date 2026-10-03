@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/NA22",
   "country": "USA",
+  "reference": "04560004SAB",
   "name": "INTEGRITY",
   "rating": {
     "gph": 599.3,
@@ -197,6 +198,5 @@
       8.2,
       8.82
     ]
-  },
-  "reference": "04560004SAB"
+  }
 }

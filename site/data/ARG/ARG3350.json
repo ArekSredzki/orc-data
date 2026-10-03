@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG3350",
   "country": "ARG",
+  "reference": "03880004IFM",
   "name": "MARIA MARIA",
   "rating": {
     "gph": 619.0,
@@ -197,6 +198,5 @@
       7.91,
       8.58
     ]
-  },
-  "reference": "03880004IFM"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15935",
   "country": "NOR",
+  "reference": "03440004QMS",
   "name": "Vela Calma",
   "rating": {
     "gph": 625.0,
@@ -197,6 +198,5 @@
       7.78,
       8.37
     ]
-  },
-  "reference": "03440004QMS"
+  }
 }

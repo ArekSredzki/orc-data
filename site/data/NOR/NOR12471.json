@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12471",
   "country": "NOR",
+  "reference": "03440004S2S",
   "name": "Flora",
   "rating": {
     "gph": 611.6,
@@ -197,6 +198,5 @@
       8.16,
       9.02
     ]
-  },
-  "reference": "03440004S2S"
+  }
 }

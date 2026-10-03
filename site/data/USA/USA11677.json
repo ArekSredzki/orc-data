@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA11677",
   "country": "USA",
+  "reference": "04560004T00",
   "name": "ODYSSEY",
   "rating": {
     "gph": 681.8,
@@ -197,6 +198,5 @@
       7.1,
       7.67
     ]
-  },
-  "reference": "04560004T00"
+  }
 }

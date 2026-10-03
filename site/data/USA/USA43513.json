@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA43513",
   "country": "USA",
+  "reference": "04560004FHS",
   "name": "B'QUEST",
   "rating": {
     "gph": 576.7,
@@ -197,6 +198,5 @@
       8.02,
       9.67
     ]
-  },
-  "reference": "04560004FHS"
+  }
 }

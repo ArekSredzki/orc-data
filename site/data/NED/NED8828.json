@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8828",
   "country": "NED",
+  "reference": "04310004K1U",
   "name": "Ingnis",
   "rating": {
     "gph": 615.8,
@@ -197,6 +198,5 @@
       7.78,
       8.41
     ]
-  },
-  "reference": "04310004K1U"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8703",
   "country": "NED",
+  "reference": "04310004K1M",
   "name": "Silver",
   "rating": {
     "gph": 619.3,
@@ -197,6 +198,5 @@
       7.7,
       8.34
     ]
-  },
-  "reference": "04310004K1M"
+  }
 }

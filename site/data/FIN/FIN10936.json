@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10936",
   "country": "FIN",
+  "reference": "03290004U9H",
   "name": "Speculator",
   "rating": {
     "gph": 584.3,
@@ -197,6 +198,5 @@
       8.49,
       9.34
     ]
-  },
-  "reference": "03290004U9H"
+  }
 }

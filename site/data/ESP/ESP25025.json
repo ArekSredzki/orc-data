@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP25025",
   "country": "ESP",
+  "reference": "03510004LFP",
   "name": "MEDITERRANEO",
   "rating": {
     "gph": 679.6,
@@ -197,6 +198,5 @@
       7.59,
       9.88
     ]
-  },
-  "reference": "03510004LFP"
+  }
 }

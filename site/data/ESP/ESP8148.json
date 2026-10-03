@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8148",
   "country": "ESP",
+  "reference": "03510004HFS",
   "name": "GRANSLAM",
   "rating": {
     "gph": 618.1,
@@ -197,6 +198,5 @@
       7.5,
       8.06
     ]
-  },
-  "reference": "03510004HFS"
+  }
 }

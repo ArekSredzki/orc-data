@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15659",
   "country": "ITA",
+  "reference": "03190004PP0",
   "name": "L'AMICA GENIALE",
   "rating": {
     "gph": 679.4,
@@ -197,6 +198,5 @@
       7.24,
       7.85
     ]
-  },
-  "reference": "03190004PP0"
+  }
 }

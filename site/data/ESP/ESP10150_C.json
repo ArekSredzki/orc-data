@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10150_C",
   "country": "ESP",
+  "reference": "03510004V2Q",
   "name": "SAILANDSEA",
   "rating": {
     "gph": 625.8,
@@ -197,6 +198,5 @@
       8.06,
       8.76
     ]
-  },
-  "reference": "03510004V2Q"
+  }
 }

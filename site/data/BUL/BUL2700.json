@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL2700",
   "country": "BUL",
+  "reference": "03850004VU3",
   "name": "PANTA RHEI",
   "rating": {
     "gph": 619.6,
@@ -197,6 +198,5 @@
       8.02,
       8.65
     ]
-  },
-  "reference": "03850004VU3"
+  }
 }

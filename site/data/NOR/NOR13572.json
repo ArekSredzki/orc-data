@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13572",
   "country": "NOR",
+  "reference": "03440004FIE",
   "name": "Vinna",
   "rating": {
     "gph": 616.6,
@@ -197,6 +198,5 @@
       8.04,
       8.8
     ]
-  },
-  "reference": "03440004FIE"
+  }
 }

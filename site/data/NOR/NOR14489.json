@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14489",
   "country": "NOR",
+  "reference": "03440004VWT",
   "name": "Diva",
   "rating": {
     "gph": 582.6,
@@ -197,6 +198,5 @@
       8.26,
       8.93
     ]
-  },
-  "reference": "03440004VWT"
+  }
 }

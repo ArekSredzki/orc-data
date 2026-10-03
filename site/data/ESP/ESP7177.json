@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7177",
   "country": "ESP",
+  "reference": "03510004FH4",
   "name": "TENTOL",
   "rating": {
     "gph": 690.5,
@@ -197,6 +198,5 @@
       7.54,
       8.65
     ]
-  },
-  "reference": "03510004FH4"
+  }
 }

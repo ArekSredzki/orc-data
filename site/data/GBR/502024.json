@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/502024",
   "country": "GBR",
+  "reference": "03860004S1J",
   "name": "Mischief",
   "rating": {
     "gph": 528.0,
@@ -197,6 +198,5 @@
       9.1,
       10.03
     ]
-  },
-  "reference": "03860004S1J"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA648",
   "country": "USA",
+  "reference": "04560004Q2T",
   "name": "ADRIA",
   "rating": {
     "gph": 613.3,
@@ -197,6 +198,5 @@
       8.03,
       10.15
     ]
-  },
-  "reference": "04560004Q2T"
+  }
 }

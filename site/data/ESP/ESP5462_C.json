@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5462_C",
   "country": "ESP",
+  "reference": "03510004BCF",
   "name": "AMARENA II",
   "rating": {
     "gph": 670.6,
@@ -197,6 +198,5 @@
       7.52,
       8.27
     ]
-  },
-  "reference": "03510004BCF"
+  }
 }

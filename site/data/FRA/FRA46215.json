@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA46215",
   "country": "FRA",
+  "reference": "04330004U9N",
   "name": "VARLOPE",
   "rating": {
     "gph": 653.9,
@@ -197,6 +198,5 @@
       7.38,
       8.58
     ]
-  },
-  "reference": "04330004U9N"
+  }
 }

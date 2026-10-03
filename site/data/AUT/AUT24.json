@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT24",
   "country": "AUT",
+  "reference": "03210004LR6",
   "name": "Istros",
   "rating": {
     "gph": 574.0,
@@ -197,6 +198,5 @@
       8.46,
       9.44
     ]
-  },
-  "reference": "03210004LR6"
+  }
 }

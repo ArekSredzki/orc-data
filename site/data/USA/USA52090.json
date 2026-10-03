@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52090",
   "country": "USA",
+  "reference": "04560004URS",
   "name": "Relentless",
   "rating": {
     "gph": 594.6,
@@ -197,6 +198,5 @@
       7.95,
       8.61
     ]
-  },
-  "reference": "04560004URS"
+  }
 }

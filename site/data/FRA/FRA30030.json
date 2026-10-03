@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA30030",
   "country": "FRA",
+  "reference": "04330004HDP",
   "name": "MOJO",
   "rating": {
     "gph": 582.6,
@@ -197,6 +198,5 @@
       10.22,
       13.32
     ]
-  },
-  "reference": "04330004HDP"
+  }
 }

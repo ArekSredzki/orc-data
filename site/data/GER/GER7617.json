@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7617",
   "country": "GER",
+  "reference": "03520004STH",
   "name": "UP TO ORBIT",
   "rating": {
     "gph": 628.2,
@@ -197,6 +198,5 @@
       7.4,
       7.98
     ]
-  },
-  "reference": "03520004STH"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10385",
   "country": "NOR",
+  "reference": "03440004PS5",
   "name": "Skarv II",
   "rating": {
     "gph": 657.6,
@@ -197,6 +198,5 @@
       7.62,
       8.31
     ]
-  },
-  "reference": "03440004PS5"
+  }
 }

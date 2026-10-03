@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/5659",
   "country": "USA",
+  "reference": "04560004V0E",
   "name": "FAITH",
   "rating": {
     "gph": 595.9,
@@ -197,6 +198,5 @@
       8.41,
       9.0
     ]
-  },
-  "reference": "04560004V0E"
+  }
 }

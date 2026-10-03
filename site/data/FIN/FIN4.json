@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN4",
   "country": "FIN",
+  "reference": "04140004P6J",
   "name": "Trial",
   "rating": {
     "gph": 702.9,
@@ -197,6 +198,5 @@
       7.67,
       9.61
     ]
-  },
-  "reference": "04140004P6J"
+  }
 }

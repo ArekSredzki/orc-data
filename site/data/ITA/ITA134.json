@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA134",
   "country": "ITA",
+  "reference": "03190004WDM",
   "name": "ESTEREL18",
   "rating": {
     "gph": 600.9,
@@ -197,6 +198,5 @@
       8.99,
       12.41
     ]
-  },
-  "reference": "03190004WDM"
+  }
 }

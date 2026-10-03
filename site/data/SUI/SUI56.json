@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI56",
   "country": "SUI",
+  "reference": "03080004MC0",
   "name": "SUI 56",
   "rating": {
     "gph": 624.4,
@@ -197,6 +198,5 @@
       10.2,
       13.24
     ]
-  },
-  "reference": "03080004MC0"
+  }
 }

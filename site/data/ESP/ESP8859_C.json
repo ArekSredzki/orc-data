@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8859_C",
   "country": "ESP",
+  "reference": "03510004KSK",
   "name": "MANITU",
   "rating": {
     "gph": 695.7,
@@ -197,6 +198,5 @@
       7.06,
       7.57
     ]
-  },
-  "reference": "03510004KSK"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "PER/PER2000",
   "country": "PER",
+  "reference": "03460004VWK",
   "name": "LAKEMANDA",
   "rating": {
     "gph": 605.2,
@@ -197,6 +198,5 @@
       8.32,
       9.0
     ]
-  },
-  "reference": "03460004VWK"
+  }
 }

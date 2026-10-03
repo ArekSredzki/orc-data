@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15401",
   "country": "NOR",
+  "reference": "03440004ISN",
   "name": "Puffin",
   "rating": {
     "gph": 667.4,
@@ -197,6 +198,5 @@
       7.22,
       7.72
     ]
-  },
-  "reference": "03440004ISN"
+  }
 }

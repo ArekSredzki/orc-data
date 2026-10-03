@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR6379",
   "country": "NOR",
+  "reference": "03440004QFD",
   "name": "Linda",
   "rating": {
     "gph": 717.6,
@@ -197,6 +198,5 @@
       7.02,
       7.62
     ]
-  },
-  "reference": "03440004QFD"
+  }
 }

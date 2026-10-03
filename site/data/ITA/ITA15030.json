@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15030",
   "country": "ITA",
+  "reference": "03190004HNP",
   "name": "EURIOLA",
   "rating": {
     "gph": 600.5,
@@ -197,6 +198,5 @@
       7.81,
       8.46
     ]
-  },
-  "reference": "03190004HNP"
+  }
 }

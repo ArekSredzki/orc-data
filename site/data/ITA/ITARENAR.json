@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITARENAR",
   "country": "ITA",
+  "reference": "03190004TDB",
   "name": "RENARDO",
   "rating": {
     "gph": 690.4,
@@ -197,6 +198,5 @@
       9.7,
       12.78
     ]
-  },
-  "reference": "03190004TDB"
+  }
 }

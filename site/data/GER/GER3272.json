@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER3272",
   "country": "GER",
+  "reference": "04150004SRF",
   "name": "ROBIN",
   "rating": {
     "gph": 710.7,
@@ -197,6 +198,5 @@
       7.3,
       8.01
     ]
-  },
-  "reference": "04150004SRF"
+  }
 }

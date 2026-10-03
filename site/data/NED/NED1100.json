@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED1100",
   "country": "NED",
+  "reference": "04310004JSK",
   "name": "Jaffix",
   "rating": {
     "gph": 626.5,
@@ -197,6 +198,5 @@
       8.15,
       9.12
     ]
-  },
-  "reference": "04310004JSK"
+  }
 }

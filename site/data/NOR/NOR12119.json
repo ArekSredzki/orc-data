@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12119",
   "country": "NOR",
+  "reference": "03440004MWS",
   "name": "LUPI",
   "rating": {
     "gph": 637.3,
@@ -197,6 +198,5 @@
       7.85,
       8.41
     ]
-  },
-  "reference": "03440004MWS"
+  }
 }

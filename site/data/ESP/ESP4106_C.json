@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4106_C",
   "country": "ESP",
+  "reference": "03510004C2A",
   "name": "GALOPIN",
   "rating": {
     "gph": 621.4,
@@ -197,6 +198,5 @@
       8.06,
       9.04
     ]
-  },
-  "reference": "03510004C2A"
+  }
 }

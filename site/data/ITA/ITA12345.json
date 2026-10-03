@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12345",
   "country": "ITA",
+  "reference": "03190004BNL",
   "name": "MARECHIARO",
   "rating": {
     "gph": 654.1,
@@ -197,6 +198,5 @@
       7.67,
       8.21
     ]
-  },
-  "reference": "03190004BNL"
+  }
 }

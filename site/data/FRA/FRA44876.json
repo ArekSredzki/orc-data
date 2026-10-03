@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA44876",
   "country": "FRA",
+  "reference": "04330004PRO",
   "name": "ELIXIR",
   "rating": {
     "gph": 615.6,
@@ -197,6 +198,5 @@
       8.15,
       8.95
     ]
-  },
-  "reference": "04330004PRO"
+  }
 }

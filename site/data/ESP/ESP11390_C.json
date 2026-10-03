@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11390_C",
   "country": "ESP",
+  "reference": "03510004KVS",
   "name": "TRO",
   "rating": {
     "gph": 591.7,
@@ -197,6 +198,5 @@
       8.6,
       11.18
     ]
-  },
-  "reference": "03510004KVS"
+  }
 }

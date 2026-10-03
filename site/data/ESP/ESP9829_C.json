@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9829_C",
   "country": "ESP",
+  "reference": "03510004BI4",
   "name": "CARTUJANO",
   "rating": {
     "gph": 740.0,
@@ -197,6 +198,5 @@
       6.62,
       7.18
     ]
-  },
-  "reference": "03510004BI4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR456",
   "country": "TUR",
+  "reference": "04590004MAN",
   "name": "ROKO",
   "rating": {
     "gph": 709.4,
@@ -197,6 +198,5 @@
       7.36,
       10.53
     ]
-  },
-  "reference": "04590004MAN"
+  }
 }

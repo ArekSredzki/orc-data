@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11103",
   "country": "ESP",
+  "reference": "03510004KSA",
   "name": "CHICOLETTA",
   "rating": {
     "gph": 594.4,
@@ -197,6 +198,5 @@
       8.08,
       9.87
     ]
-  },
-  "reference": "03510004KSA"
+  }
 }

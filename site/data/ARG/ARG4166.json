@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG4166",
   "country": "ARG",
+  "reference": "03880004IF5",
   "name": "TOO MATCH",
   "rating": {
     "gph": 542.9,
@@ -197,6 +198,5 @@
       9.35,
       11.61
     ]
-  },
-  "reference": "03880004IF5"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA706",
   "country": "USA",
+  "reference": "04560004VQB",
   "name": "TONIC",
   "rating": {
     "gph": 581.2,
@@ -197,6 +198,5 @@
       9.97,
       13.02
     ]
-  },
-  "reference": "04560004VQB"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9917",
   "country": "FRA",
+  "reference": "04330004K3K",
   "name": "AXIS",
   "rating": {
     "gph": 592.4,
@@ -197,6 +198,5 @@
       7.99,
       8.59
     ]
-  },
-  "reference": "04330004K3K"
+  }
 }

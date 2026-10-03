@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/NED8511_C",
   "country": "ESP",
+  "reference": "03510004BJ7",
   "name": "AZUR",
   "rating": {
     "gph": 677.2,
@@ -197,6 +198,5 @@
       7.6,
       8.55
     ]
-  },
-  "reference": "03510004BJ7"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10748_C",
   "country": "ESP",
+  "reference": "03510004UNB",
   "name": "VIRGEN DE VEGA",
   "rating": {
     "gph": 840.4,
@@ -197,6 +198,5 @@
       6.49,
       7.02
     ]
-  },
-  "reference": "03510004UNB"
+  }
 }

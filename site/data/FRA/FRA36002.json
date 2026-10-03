@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA36002",
   "country": "FRA",
+  "reference": "04330004HML",
   "name": "FALABRAC",
   "rating": {
     "gph": 559.4,
@@ -197,6 +198,5 @@
       9.76,
       12.69
     ]
-  },
-  "reference": "04330004HML"
+  }
 }

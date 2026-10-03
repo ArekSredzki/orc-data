@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA34226",
   "country": "FRA",
+  "reference": "04330004J4S",
   "name": "TCHAIKA",
   "rating": {
     "gph": 628.8,
@@ -197,6 +198,5 @@
       8.28,
       9.82
     ]
-  },
-  "reference": "04330004J4S"
+  }
 }

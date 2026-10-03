@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA24983",
   "country": "ITA",
+  "reference": "03190004HMV",
   "name": "FEU VERT III",
   "rating": {
     "gph": 584.1,
@@ -197,6 +198,5 @@
       9.97,
       13.19
     ]
-  },
-  "reference": "03190004HMV"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA11075A",
   "country": "FRA",
+  "reference": "04330004PSQ",
   "name": "JGO",
   "rating": {
     "gph": 620.6,
@@ -197,6 +198,5 @@
       7.64,
       9.35
     ]
-  },
-  "reference": "04330004PSQ"
+  }
 }

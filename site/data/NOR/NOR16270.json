@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16270",
   "country": "NOR",
+  "reference": "03440004T5F",
   "name": "Tiger",
   "rating": {
     "gph": 594.9,
@@ -197,6 +198,5 @@
       8.02,
       9.08
     ]
-  },
-  "reference": "03440004T5F"
+  }
 }

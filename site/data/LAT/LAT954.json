@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT954",
   "country": "LAT",
+  "reference": "04960004TLT",
   "name": "Iskra",
   "rating": {
     "gph": 602.8,
@@ -197,6 +198,5 @@
       8.2,
       8.88
     ]
-  },
-  "reference": "04960004TLT"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN94",
   "country": "CAN",
+  "reference": "03430004R28",
   "name": "Freestyle",
   "rating": {
     "gph": 580.8,
@@ -197,6 +198,5 @@
       8.13,
       9.32
     ]
-  },
-  "reference": "03430004R28"
+  }
 }

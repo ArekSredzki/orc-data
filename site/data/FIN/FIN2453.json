@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN2453",
   "country": "FIN",
+  "reference": "04140004TQO",
   "name": "Honey",
   "rating": {
     "gph": 682.3,
@@ -197,6 +198,5 @@
       7.47,
       8.06
     ]
-  },
-  "reference": "04140004TQO"
+  }
 }

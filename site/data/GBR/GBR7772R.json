@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GBR7772R",
   "country": "GBR",
+  "reference": "03860004L2K",
   "name": "LIBERTY SQUARED",
   "rating": {
     "gph": 387.4,
@@ -197,6 +198,5 @@
       12.79,
       14.66
     ]
-  },
-  "reference": "03860004L2K"
+  }
 }

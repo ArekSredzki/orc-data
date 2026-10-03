@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA39609",
   "country": "FRA",
+  "reference": "04330004LQ9",
   "name": "OXIBIEN",
   "rating": {
     "gph": 675.9,
@@ -197,6 +198,5 @@
       7.34,
       8.04
     ]
-  },
-  "reference": "04330004LQ9"
+  }
 }

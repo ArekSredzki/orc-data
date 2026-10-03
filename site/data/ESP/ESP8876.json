@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8876",
   "country": "ESP",
+  "reference": "03510005080",
   "name": "AGAPANTUX",
   "rating": {
     "gph": 571.4,

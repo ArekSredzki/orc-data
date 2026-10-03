@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO3535",
   "country": "CRO",
+  "reference": "03620004PK8",
   "name": "Coco Loco",
   "rating": {
     "gph": 635.6,
@@ -197,6 +198,5 @@
       7.98,
       8.72
     ]
-  },
-  "reference": "03620004PK8"
+  }
 }

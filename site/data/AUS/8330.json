@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/8330",
   "country": "AUS",
+  "reference": "03020004VCD",
   "name": "Shibumi",
   "rating": {
     "gph": 588.2,
@@ -197,6 +198,5 @@
       8.58,
       10.32
     ]
-  },
-  "reference": "03020004VCD"
+  }
 }

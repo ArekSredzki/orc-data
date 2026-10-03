@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15743",
   "country": "NOR",
+  "reference": "03440004NA8",
   "name": "Third Sentence",
   "rating": {
     "gph": 613.7,
@@ -197,6 +198,5 @@
       8.33,
       9.02
     ]
-  },
-  "reference": "03440004NA8"
+  }
 }

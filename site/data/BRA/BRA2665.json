@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2665",
   "country": "BRA",
+  "reference": "04420004RDD",
   "name": "Greenflash",
   "rating": {
     "gph": 635.5,
@@ -197,6 +198,5 @@
       9.66,
       12.85
     ]
-  },
-  "reference": "04420004RDD"
+  }
 }

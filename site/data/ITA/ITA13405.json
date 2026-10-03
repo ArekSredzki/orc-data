@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13405",
   "country": "ITA",
+  "reference": "03190004PE8",
   "name": "TRICHECO",
   "rating": {
     "gph": 619.8,
@@ -197,6 +198,5 @@
       8.33,
       9.72
     ]
-  },
-  "reference": "03190004PE8"
+  }
 }

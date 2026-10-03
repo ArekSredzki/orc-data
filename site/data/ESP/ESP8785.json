@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8785",
   "country": "ESP",
+  "reference": "03510004OWE",
   "name": "BM CONCISA",
   "rating": {
     "gph": 560.1,
@@ -197,6 +198,5 @@
       8.43,
       9.17
     ]
-  },
-  "reference": "03510004OWE"
+  }
 }

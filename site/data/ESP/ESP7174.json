@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7174",
   "country": "ESP",
+  "reference": "03510004BFC",
   "name": "ANDREA",
   "rating": {
     "gph": 781.7,
@@ -197,6 +198,5 @@
       6.71,
       7.49
     ]
-  },
-  "reference": "03510004BFC"
+  }
 }

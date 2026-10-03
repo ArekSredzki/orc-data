@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8141",
   "country": "GER",
+  "reference": "04150004RD6",
   "name": "KIJOUMA",
   "rating": {
     "gph": 624.3,
@@ -197,6 +198,5 @@
       7.74,
       8.35
     ]
-  },
-  "reference": "04150004RD6"
+  }
 }

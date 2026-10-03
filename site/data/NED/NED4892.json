@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4892",
   "country": "NED",
+  "reference": "04310004JUV",
   "name": "Flecha",
   "rating": {
     "gph": 666.7,
@@ -197,6 +198,5 @@
       7.72,
       8.78
     ]
-  },
-  "reference": "04310004JUV"
+  }
 }

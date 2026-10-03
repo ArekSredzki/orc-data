@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITATIMB22",
   "country": "ITA",
+  "reference": "03190004P1D",
   "name": "TIMBERLAND",
   "rating": {
     "gph": 616.2,
@@ -197,6 +198,5 @@
       10.21,
       12.94
     ]
-  },
-  "reference": "03190004P1D"
+  }
 }

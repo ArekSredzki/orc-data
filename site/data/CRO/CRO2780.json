@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2780",
   "country": "CRO",
+  "reference": "03620004LUK",
   "name": "Rubin",
   "rating": {
     "gph": 638.4,
@@ -197,6 +198,5 @@
       7.99,
       8.6
     ]
-  },
-  "reference": "03620004LUK"
+  }
 }

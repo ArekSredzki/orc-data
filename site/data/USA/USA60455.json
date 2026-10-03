@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60455",
   "country": "USA",
+  "reference": "04560004TUS",
   "name": "JASMIN",
   "rating": {
     "gph": 638.1,
@@ -197,6 +198,5 @@
       7.68,
       8.25
     ]
-  },
-  "reference": "04560004TUS"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA2021",
   "country": "USA",
+  "reference": "04560004OIT",
   "name": "NICOLE",
   "rating": {
     "gph": 652.2,
@@ -197,6 +198,5 @@
       7.72,
       8.39
     ]
-  },
-  "reference": "04560004OIT"
+  }
 }

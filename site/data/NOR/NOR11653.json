@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11653",
   "country": "NOR",
+  "reference": "03440004WDV",
   "name": "Olgato",
   "rating": {
     "gph": 684.3,
@@ -197,6 +198,5 @@
       7.22,
       7.9
     ]
-  },
-  "reference": "03440004WDV"
+  }
 }

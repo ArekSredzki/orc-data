@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE895",
   "country": "GRE",
+  "reference": "03420004OUS",
   "name": "ERINNI",
   "rating": {
     "gph": 522.3,
@@ -197,6 +198,5 @@
       9.06,
       9.8
     ]
-  },
-  "reference": "03420004OUS"
+  }
 }

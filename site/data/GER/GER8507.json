@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8507",
   "country": "GER",
+  "reference": "03520004U5U",
   "name": "RIPTIDE",
   "rating": {
     "gph": 570.7,
@@ -197,6 +198,5 @@
       8.8,
       9.63
     ]
-  },
-  "reference": "03520004U5U"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1198",
   "country": "GRE",
+  "reference": "03420004J45",
   "name": "ILIADA",
   "rating": {
     "gph": 752.2,
@@ -197,6 +198,5 @@
       6.61,
       7.09
     ]
-  },
-  "reference": "03420004J45"
+  }
 }

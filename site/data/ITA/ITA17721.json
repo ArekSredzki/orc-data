@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17721",
   "country": "ITA",
+  "reference": "03190004NVN",
   "name": "TWELVE",
   "rating": {
     "gph": 613.2,
@@ -197,6 +198,5 @@
       7.86,
       8.42
     ]
-  },
-  "reference": "03190004NVN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/X35210",
   "country": "GER",
+  "reference": "03520004N8C",
   "name": "ALSYDBANK",
   "rating": {
     "gph": 608.0,
@@ -197,6 +198,5 @@
       8.13,
       9.06
     ]
-  },
-  "reference": "03520004N8C"
+  }
 }

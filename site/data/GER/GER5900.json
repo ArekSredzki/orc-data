@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5900",
   "country": "GER",
+  "reference": "04150004OWH",
   "name": "ROEDE ORM",
   "rating": {
     "gph": 614.7,
@@ -197,6 +198,5 @@
       8.05,
       8.71
     ]
-  },
-  "reference": "04150004OWH"
+  }
 }

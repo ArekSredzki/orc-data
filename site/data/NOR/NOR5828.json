@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR5828",
   "country": "NOR",
+  "reference": "03440004MPJ",
   "name": "First Time",
   "rating": {
     "gph": 682.7,
@@ -197,6 +198,5 @@
       7.27,
       8.87
     ]
-  },
-  "reference": "03440004MPJ"
+  }
 }

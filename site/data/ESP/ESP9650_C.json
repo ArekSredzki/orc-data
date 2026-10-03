@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9650_C",
   "country": "ESP",
+  "reference": "03510004FV1",
   "name": "SURUBI",
   "rating": {
     "gph": 682.1,
@@ -197,6 +198,5 @@
       7.11,
       8.46
     ]
-  },
-  "reference": "03510004FV1"
+  }
 }

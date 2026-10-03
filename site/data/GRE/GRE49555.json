@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49555",
   "country": "GRE",
+  "reference": "03420004LK7",
   "name": "THETIS I",
   "rating": {
     "gph": 659.5,
@@ -197,6 +198,5 @@
       7.9,
       8.57
     ]
-  },
-  "reference": "03420004LK7"
+  }
 }

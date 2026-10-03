@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA54J22",
   "country": "ITA",
+  "reference": "03190004LP5",
   "name": "ARTIGLIO",
   "rating": {
     "gph": 739.8,
@@ -197,6 +198,5 @@
       7.05,
       9.53
     ]
-  },
-  "reference": "03190004LP5"
+  }
 }

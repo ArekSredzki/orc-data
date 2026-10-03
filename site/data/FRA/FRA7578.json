@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA7578",
   "country": "FRA",
+  "reference": "04330004HLC",
   "name": "CARDIAC BLUES",
   "rating": {
     "gph": 672.9,
@@ -197,6 +198,5 @@
       7.44,
       8.26
     ]
-  },
-  "reference": "04330004HLC"
+  }
 }

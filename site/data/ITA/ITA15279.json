@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15279",
   "country": "ITA",
+  "reference": "03190004FVU",
   "name": "LUPA MANNARA",
   "rating": {
     "gph": 688.1,
@@ -197,6 +198,5 @@
       7.23,
       7.84
     ]
-  },
-  "reference": "03190004FVU"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6514_C",
   "country": "ESP",
+  "reference": "03510004OLD",
   "name": "MEU",
   "rating": {
     "gph": 626.5,
@@ -197,6 +198,5 @@
       8.1,
       8.86
     ]
-  },
-  "reference": "03510004OLD"
+  }
 }

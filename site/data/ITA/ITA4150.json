@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA4150",
   "country": "ITA",
+  "reference": "03190004J6C",
   "name": "GIVE ME FIVE",
   "rating": {
     "gph": 535.5,
@@ -197,6 +198,5 @@
       9.46,
       11.9
     ]
-  },
-  "reference": "03190004J6C"
+  }
 }

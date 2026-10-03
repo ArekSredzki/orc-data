@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR1344L",
   "country": "FRA",
+  "reference": "04330004TW1",
   "name": "MORRINA IV",
   "rating": {
     "gph": 617.3,
@@ -197,6 +198,5 @@
       8.09,
       8.9
     ]
-  },
-  "reference": "04330004TW1"
+  }
 }

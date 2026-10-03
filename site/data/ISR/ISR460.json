@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR460",
   "country": "ISR",
+  "reference": "04390004EDO",
   "name": "Vision",
   "rating": {
     "gph": 655.5,
@@ -197,6 +198,5 @@
       8.01,
       8.62
     ]
-  },
-  "reference": "04390004EDO"
+  }
 }

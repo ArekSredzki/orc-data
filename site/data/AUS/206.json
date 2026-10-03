@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/206",
   "country": "AUS",
+  "reference": "03020004TBO",
   "name": "Kindred Spirit",
   "rating": {
     "gph": 699.9,
@@ -197,6 +198,5 @@
       7.2,
       9.13
     ]
-  },
-  "reference": "03020004TBO"
+  }
 }

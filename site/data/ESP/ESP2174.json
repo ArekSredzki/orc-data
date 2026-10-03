@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2174",
   "country": "ESP",
+  "reference": "03510004FV6",
   "name": "EXODO",
   "rating": {
     "gph": 672.6,
@@ -197,6 +198,5 @@
       7.47,
       8.19
     ]
-  },
-  "reference": "03510004FV6"
+  }
 }

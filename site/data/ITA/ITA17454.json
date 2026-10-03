@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17454",
   "country": "ITA",
+  "reference": "03190004S4A",
   "name": "TALITHA",
   "rating": {
     "gph": 598.4,
@@ -197,6 +198,5 @@
       8.21,
       9.07
     ]
-  },
-  "reference": "03190004S4A"
+  }
 }

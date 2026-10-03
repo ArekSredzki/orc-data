@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4750",
   "country": "RSA",
+  "reference": "04620004EM7",
   "name": "FOMO",
   "rating": {
     "gph": 615.1,
@@ -197,6 +198,5 @@
       8.2,
       10.54
     ]
-  },
-  "reference": "04620004EM7"
+  }
 }

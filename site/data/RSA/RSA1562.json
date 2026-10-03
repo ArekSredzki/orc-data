@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1562",
   "country": "RSA",
+  "reference": "04620004883",
   "name": "DEBON",
   "rating": {
     "gph": 715.1,
@@ -197,6 +198,5 @@
       7.13,
       7.72
     ]
-  },
-  "reference": "04620004883"
+  }
 }

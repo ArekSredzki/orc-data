@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8787",
   "country": "GER",
+  "reference": "03520004NPV",
   "name": "RUSH",
   "rating": {
     "gph": 502.4,
@@ -197,6 +198,5 @@
       9.96,
       12.35
     ]
-  },
-  "reference": "03520004NPV"
+  }
 }

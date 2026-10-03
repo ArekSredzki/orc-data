@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE883",
   "country": "GRE",
+  "reference": "03420004QQ6",
   "name": "POSEIDON",
   "rating": {
     "gph": 641.2,
@@ -197,6 +198,5 @@
       7.43,
       8.02
     ]
-  },
-  "reference": "03420004QQ6"
+  }
 }

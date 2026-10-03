@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GBR3627L",
   "country": "GBR",
+  "reference": "03860004JDO",
   "name": "ANIMAL",
   "rating": {
     "gph": 624.1,
@@ -197,6 +198,5 @@
       8.01,
       8.79
     ]
-  },
-  "reference": "03860004JDO"
+  }
 }

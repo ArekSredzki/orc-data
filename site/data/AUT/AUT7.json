@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT7",
   "country": "AUT",
+  "reference": "03210004I0J",
   "name": "LA WALLY 4",
   "rating": {
     "gph": 633.8,
@@ -197,6 +198,5 @@
       9.31,
       12.32
     ]
-  },
-  "reference": "03210004I0J"
+  }
 }

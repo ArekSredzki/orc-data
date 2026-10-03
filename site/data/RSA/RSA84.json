@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA84",
   "country": "RSA",
+  "reference": "04620004BVL",
   "name": "Ray of Light",
   "rating": {
     "gph": 549.1,
@@ -197,6 +198,5 @@
       8.9,
       9.94
     ]
-  },
-  "reference": "04620004BVL"
+  }
 }

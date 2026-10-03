@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3453_C",
   "country": "ESP",
+  "reference": "035100048A2",
   "name": "ACUSTIC",
   "rating": {
     "gph": 716.4,
@@ -197,6 +198,5 @@
       7.02,
       7.58
     ]
-  },
-  "reference": "035100048A2"
+  }
 }

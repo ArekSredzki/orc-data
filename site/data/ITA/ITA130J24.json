@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA130J24",
   "country": "ITA",
+  "reference": "03190004V8F",
   "name": "AVAS 3",
   "rating": {
     "gph": 728.9,
@@ -197,6 +198,5 @@
       6.85,
       7.78
     ]
-  },
-  "reference": "03190004V8F"
+  }
 }

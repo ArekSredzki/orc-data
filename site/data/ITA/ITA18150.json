@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18150",
   "country": "ITA",
+  "reference": "03190004HMK",
   "name": "PALINURO",
   "rating": {
     "gph": 557.7,
@@ -197,6 +198,5 @@
       8.6,
       10.18
     ]
-  },
-  "reference": "03190004HMK"
+  }
 }

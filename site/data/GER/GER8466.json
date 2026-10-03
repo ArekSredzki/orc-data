@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8466",
   "country": "GER",
+  "reference": "04150004LNK",
   "name": "NEXT SUMMER",
   "rating": {
     "gph": 563.4,
@@ -197,6 +198,5 @@
       8.58,
       9.82
     ]
-  },
-  "reference": "04150004LNK"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN3826",
   "country": "FIN",
+  "reference": "04140004MK4",
   "name": "Ljusb\u00e4raren",
   "rating": {
     "gph": 621.4,
@@ -197,6 +198,5 @@
       7.73,
       8.87
     ]
-  },
-  "reference": "04140004MK4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18284",
   "country": "ITA",
+  "reference": "03190004Q14",
   "name": "LARTHIA",
   "rating": {
     "gph": 576.2,
@@ -197,6 +198,5 @@
       8.35,
       10.01
     ]
-  },
-  "reference": "03190004Q14"
+  }
 }

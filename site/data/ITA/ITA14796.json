@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14796",
   "country": "ITA",
+  "reference": "03190004KLT",
   "name": "BLUE SPIRIT",
   "rating": {
     "gph": 678.6,
@@ -197,6 +198,5 @@
       7.5,
       8.25
     ]
-  },
-  "reference": "03190004KLT"
+  }
 }

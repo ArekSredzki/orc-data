@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8116_C",
   "country": "ESP",
+  "reference": "03510004F5F",
   "name": "FYTTY",
   "rating": {
     "gph": 768.4,
@@ -197,6 +198,5 @@
       6.6,
       7.17
     ]
-  },
-  "reference": "03510004F5F"
+  }
 }

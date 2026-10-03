@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA31147",
   "country": "FRA",
+  "reference": "04330004H8B",
   "name": "GARGALI",
   "rating": {
     "gph": 664.6,
@@ -197,6 +198,5 @@
       8.26,
       11.32
     ]
-  },
-  "reference": "04330004H8B"
+  }
 }

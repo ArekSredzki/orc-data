@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10398",
   "country": "FIN",
+  "reference": "04140004VFK",
   "name": "D",
   "rating": {
     "gph": 571.5,
@@ -197,6 +198,5 @@
       10.2,
       13.41
     ]
-  },
-  "reference": "04140004VFK"
+  }
 }

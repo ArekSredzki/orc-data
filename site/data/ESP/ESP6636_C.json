@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6636_C",
   "country": "ESP",
+  "reference": "035100050IF",
   "name": "EIROA",
   "rating": {
     "gph": 598.5,

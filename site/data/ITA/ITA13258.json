@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13258",
   "country": "ITA",
+  "reference": "03190004O85",
   "name": "EVA KANT",
   "rating": {
     "gph": 663.1,
@@ -197,6 +198,5 @@
       7.25,
       8.49
     ]
-  },
-  "reference": "03190004O85"
+  }
 }

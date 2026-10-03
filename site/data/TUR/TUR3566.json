@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR3566",
   "country": "TUR",
+  "reference": "04590004J6V",
   "name": "CAKI",
   "rating": {
     "gph": 649.8,
@@ -197,6 +198,5 @@
       7.55,
       8.06
     ]
-  },
-  "reference": "04590004J6V"
+  }
 }

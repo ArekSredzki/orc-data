@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR311",
   "country": "KOR",
+  "reference": "04550004RRU",
   "name": "Aloha Banana",
   "rating": {
     "gph": 675.4,
@@ -197,6 +198,5 @@
       7.54,
       8.16
     ]
-  },
-  "reference": "04550004RRU"
+  }
 }

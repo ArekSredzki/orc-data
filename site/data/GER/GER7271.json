@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7271",
   "country": "GER",
+  "reference": "04150004LNH",
   "name": "DOCKENHUDEN",
   "rating": {
     "gph": 569.7,
@@ -197,6 +198,5 @@
       8.66,
       9.69
     ]
-  },
-  "reference": "04150004LNH"
+  }
 }

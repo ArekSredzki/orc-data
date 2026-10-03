@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4812",
   "country": "RSA",
+  "reference": "04620004WKP",
   "name": "Grasshopper",
   "rating": {
     "gph": 787.2,
@@ -197,6 +198,5 @@
       6.41,
       7.02
     ]
-  },
-  "reference": "04620004WKP"
+  }
 }

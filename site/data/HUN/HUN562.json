@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN562",
   "country": "HUN",
+  "reference": "04890004T23",
   "name": "NordX",
   "rating": {
     "gph": 623.9,
@@ -197,6 +198,5 @@
       8.04,
       9.61
     ]
-  },
-  "reference": "04890004T23"
+  }
 }

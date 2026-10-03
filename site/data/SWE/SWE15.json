@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE15",
   "country": "SWE",
+  "reference": "03200004TE3",
   "name": "MATADOR",
   "rating": {
     "gph": 498.0,
@@ -197,6 +198,5 @@
       10.84,
       13.73
     ]
-  },
-  "reference": "03200004TE3"
+  }
 }

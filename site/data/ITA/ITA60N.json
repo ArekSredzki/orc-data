@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA60N",
   "country": "ITA",
+  "reference": "03190004BL4",
   "name": "MOANA 60",
   "rating": {
     "gph": 465.7,
@@ -197,6 +198,5 @@
       10.55,
       12.73
     ]
-  },
-  "reference": "03190004BL4"
+  }
 }

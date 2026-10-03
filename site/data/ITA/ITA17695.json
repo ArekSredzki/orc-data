@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17695",
   "country": "ITA",
+  "reference": "03190004HA1",
   "name": "MANICCHIA",
   "rating": {
     "gph": 665.9,
@@ -197,6 +198,5 @@
       7.23,
       7.78
     ]
-  },
-  "reference": "03190004HA1"
+  }
 }

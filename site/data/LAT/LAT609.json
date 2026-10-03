@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT609",
   "country": "LAT",
+  "reference": "04960004TAF",
   "name": "Pina Colada",
   "rating": {
     "gph": 676.7,
@@ -197,6 +198,5 @@
       7.06,
       7.59
     ]
-  },
-  "reference": "04960004TAF"
+  }
 }

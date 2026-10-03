@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/Fin19893",
   "country": "FIN",
+  "reference": "04140004H48",
   "name": "Lucky Too",
   "rating": {
     "gph": 720.4,
@@ -197,6 +198,5 @@
       6.99,
       7.58
     ]
-  },
-  "reference": "04140004H48"
+  }
 }

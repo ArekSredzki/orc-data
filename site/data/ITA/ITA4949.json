@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA4949",
   "country": "ITA",
+  "reference": "03190004LPW",
   "name": "FANTASIA III",
   "rating": {
     "gph": 557.3,
@@ -197,6 +198,5 @@
       8.49,
       9.24
     ]
-  },
-  "reference": "03190004LPW"
+  }
 }

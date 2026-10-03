@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7094_C",
   "country": "ESP",
+  "reference": "03510004SO1",
   "name": "AUFRANY",
   "rating": {
     "gph": 596.1,
@@ -197,6 +198,5 @@
       8.3,
       9.12
     ]
-  },
-  "reference": "03510004SO1"
+  }
 }

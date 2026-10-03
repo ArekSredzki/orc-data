@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA56145",
   "country": "USA",
+  "reference": "04560004PWC",
   "name": "MR. BILL",
   "rating": {
     "gph": 620.6,
@@ -197,6 +198,5 @@
       7.86,
       8.58
     ]
-  },
-  "reference": "04560004PWC"
+  }
 }

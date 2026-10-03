@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17704",
   "country": "ITA",
+  "reference": "03190004JDU",
   "name": "BOLOLOMBO",
   "rating": {
     "gph": 608.1,
@@ -197,6 +198,5 @@
       7.71,
       8.29
     ]
-  },
-  "reference": "03190004JDU"
+  }
 }

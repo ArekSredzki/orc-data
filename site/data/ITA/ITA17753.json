@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17753",
   "country": "ITA",
+  "reference": "03190004OVQ",
   "name": "STARDUST",
   "rating": {
     "gph": 503.4,
@@ -197,6 +198,5 @@
       10.4,
       12.5
     ]
-  },
-  "reference": "03190004OVQ"
+  }
 }

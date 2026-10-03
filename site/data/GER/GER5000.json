@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5000",
   "country": "GER",
+  "reference": "04150004QBT",
   "name": "UCA",
   "rating": {
     "gph": 396.9,
@@ -197,6 +198,5 @@
       13.2,
       15.95
     ]
-  },
-  "reference": "04150004QBT"
+  }
 }

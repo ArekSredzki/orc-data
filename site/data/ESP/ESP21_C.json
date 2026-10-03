@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP21_C",
   "country": "ESP",
+  "reference": "03510004F2A",
   "name": "DOSPERU II",
   "rating": {
     "gph": 690.3,
@@ -197,6 +198,5 @@
       7.31,
       7.95
     ]
-  },
-  "reference": "03510004F2A"
+  }
 }

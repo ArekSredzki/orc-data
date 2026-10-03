@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7310_C",
   "country": "ESP",
+  "reference": "03510004WIV",
   "name": "VOGAMARI NOU",
   "rating": {
     "gph": 625.7,
@@ -197,6 +198,5 @@
       7.91,
       8.6
     ]
-  },
-  "reference": "03510004WIV"
+  }
 }

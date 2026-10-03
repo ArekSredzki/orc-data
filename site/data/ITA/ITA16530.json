@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16530",
   "country": "ITA",
+  "reference": "03190004AWJ",
   "name": "PAZZA IDEA 4",
   "rating": {
     "gph": 626.9,
@@ -197,6 +198,5 @@
       8.02,
       8.78
     ]
-  },
-  "reference": "03190004AWJ"
+  }
 }

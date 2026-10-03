@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GBR2188_C",
   "country": "ESP",
+  "reference": "03510004KPN",
   "name": "MOWGLI",
   "rating": {
     "gph": 708.4,
@@ -197,6 +198,5 @@
       7.0,
       7.62
     ]
-  },
-  "reference": "03510004KPN"
+  }
 }

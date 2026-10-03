@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/MH20",
   "country": "AUS",
+  "reference": "03020004UH8",
   "name": "Advanced Philosophy",
   "rating": {
     "gph": 564.3,
@@ -197,6 +198,5 @@
       8.88,
       10.48
     ]
-  },
-  "reference": "03020004UH8"
+  }
 }

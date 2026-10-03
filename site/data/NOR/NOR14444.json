@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14444",
   "country": "NOR",
+  "reference": "03440004O8V",
   "name": "WILL",
   "rating": {
     "gph": 584.2,
@@ -197,6 +198,5 @@
       8.66,
       9.33
     ]
-  },
-  "reference": "03440004O8V"
+  }
 }

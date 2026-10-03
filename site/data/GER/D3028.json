@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/D3028",
   "country": "GER",
+  "reference": "04150004KL0",
   "name": "FRITZI",
   "rating": {
     "gph": 589.4,
@@ -197,6 +198,5 @@
       8.96,
       12.41
     ]
-  },
-  "reference": "04150004KL0"
+  }
 }

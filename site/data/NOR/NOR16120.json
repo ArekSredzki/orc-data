@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16120",
   "country": "NOR",
+  "reference": "03440004KA9",
   "name": "karikveite",
   "rating": {
     "gph": 619.8,
@@ -197,6 +198,5 @@
       7.64,
       9.35
     ]
-  },
-  "reference": "03440004KA9"
+  }
 }

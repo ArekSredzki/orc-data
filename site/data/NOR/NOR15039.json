@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15039",
   "country": "NOR",
+  "reference": "03440004RQ9",
   "name": "FORZA",
   "rating": {
     "gph": 590.2,
@@ -197,6 +198,5 @@
       8.06,
       8.83
     ]
-  },
-  "reference": "03440004RQ9"
+  }
 }

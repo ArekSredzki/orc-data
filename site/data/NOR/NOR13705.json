@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13705",
   "country": "NOR",
+  "reference": "03440004QFA",
   "name": "SY Spray",
   "rating": {
     "gph": 600.5,
@@ -197,6 +198,5 @@
       8.26,
       9.05
     ]
-  },
-  "reference": "03440004QFA"
+  }
 }

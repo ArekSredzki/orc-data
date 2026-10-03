@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA29749",
   "country": "FRA",
+  "reference": "04330004MW9",
   "name": "TOO MUCH",
   "rating": {
     "gph": 662.8,
@@ -197,6 +198,5 @@
       7.62,
       8.44
     ]
-  },
-  "reference": "04330004MW9"
+  }
 }

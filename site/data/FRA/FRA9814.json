@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9814",
   "country": "FRA",
+  "reference": "04330004H9C",
   "name": "KURNIK",
   "rating": {
     "gph": 593.9,
@@ -197,6 +198,5 @@
       8.24,
       10.08
     ]
-  },
-  "reference": "04330004H9C"
+  }
 }

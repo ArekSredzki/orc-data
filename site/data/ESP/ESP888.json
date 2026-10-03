@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP888",
   "country": "ESP",
+  "reference": "03510004RJI",
   "name": "ENIGMA",
   "rating": {
     "gph": 469.3,
@@ -197,6 +198,5 @@
       11.43,
       14.32
     ]
-  },
-  "reference": "03510004RJI"
+  }
 }

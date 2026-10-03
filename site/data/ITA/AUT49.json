@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/AUT49",
   "country": "ITA",
+  "reference": "03190004LS0",
   "name": "VAQUITA",
   "rating": {
     "gph": 494.6,
@@ -197,6 +198,5 @@
       11.91,
       15.3
     ]
-  },
-  "reference": "03190004LS0"
+  }
 }

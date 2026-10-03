@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8642",
   "country": "GER",
+  "reference": "03520004WR8",
   "name": "ANAKIN",
   "rating": {
     "gph": 614.6,
@@ -197,6 +198,5 @@
       7.79,
       9.7
     ]
-  },
-  "reference": "03520004WR8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10002",
   "country": "NOR",
+  "reference": "03440004NAM",
   "name": "Pipe Dream",
   "rating": {
     "gph": 597.2,
@@ -197,6 +198,5 @@
       8.31,
       9.1
     ]
-  },
-  "reference": "03440004NAM"
+  }
 }

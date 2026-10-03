@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA555_C",
   "country": "FRA",
+  "reference": "04330004UK8",
   "name": "SPRITZ",
   "rating": {
     "gph": 598.2,
@@ -197,6 +198,5 @@
       8.4,
       9.56
     ]
-  },
-  "reference": "04330004UK8"
+  }
 }

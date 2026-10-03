@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE3015",
   "country": "GRE",
+  "reference": "03420004I7R",
   "name": "LEONESSA",
   "rating": {
     "gph": 612.4,
@@ -197,6 +198,5 @@
       8.05,
       8.71
     ]
-  },
-  "reference": "03420004I7R"
+  }
 }

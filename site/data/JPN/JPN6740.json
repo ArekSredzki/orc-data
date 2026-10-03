@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN6740",
   "country": "JPN",
+  "reference": "03390004JHJ",
   "name": "FORTALEZA 2",
   "rating": {
     "gph": 664.1,
@@ -197,6 +198,5 @@
       7.45,
       8.52
     ]
-  },
-  "reference": "03390004JHJ"
+  }
 }

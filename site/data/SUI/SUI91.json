@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI91",
   "country": "SUI",
+  "reference": "03080004MLL",
   "name": "SUNBEAM",
   "rating": {
     "gph": 710.7,
@@ -197,6 +198,5 @@
       7.1,
       7.9
     ]
-  },
-  "reference": "03080004MLL"
+  }
 }

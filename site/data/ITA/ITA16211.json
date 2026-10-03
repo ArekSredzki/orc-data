@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16211",
   "country": "ITA",
+  "reference": "03190004Q19",
   "name": "MASCALZONE SICULO",
   "rating": {
     "gph": 586.7,
@@ -197,6 +198,5 @@
       8.25,
       8.92
     ]
-  },
-  "reference": "03190004Q19"
+  }
 }

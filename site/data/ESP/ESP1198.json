@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1198",
   "country": "ESP",
+  "reference": "03510004ESO",
   "name": "COMPUTER",
   "rating": {
     "gph": 589.9,
@@ -197,6 +198,5 @@
       8.14,
       9.45
     ]
-  },
-  "reference": "03510004ESO"
+  }
 }

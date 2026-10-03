@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11200",
   "country": "NOR",
+  "reference": "03440004NB0",
   "name": "Arius IV",
   "rating": {
     "gph": 657.1,
@@ -197,6 +198,5 @@
       7.79,
       8.5
     ]
-  },
-  "reference": "03440004NB0"
+  }
 }

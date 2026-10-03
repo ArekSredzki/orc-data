@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO1292",
   "country": "CRO",
+  "reference": "03620004ISH",
   "name": "Skalice",
   "rating": {
     "gph": 610.9,
@@ -197,6 +198,5 @@
       8.13,
       8.8
     ]
-  },
-  "reference": "03620004ISH"
+  }
 }

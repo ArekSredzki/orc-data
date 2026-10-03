@@ -1,6 +1,7 @@
 {
   "sailnumber": "DEN/DEN35551",
   "country": "DEN",
+  "reference": "03370004VD3",
   "name": "Hansen 3.5",
   "rating": {
     "gph": 495.6,
@@ -197,6 +198,5 @@
       12.6,
       16.02
     ]
-  },
-  "reference": "03370004VD3"
+  }
 }

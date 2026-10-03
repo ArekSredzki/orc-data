@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST17",
   "country": "EST",
+  "reference": "04340004VLU",
   "name": "Aeris II",
   "rating": {
     "gph": 629.5,
@@ -197,6 +198,5 @@
       7.76,
       8.41
     ]
-  },
-  "reference": "04340004VLU"
+  }
 }

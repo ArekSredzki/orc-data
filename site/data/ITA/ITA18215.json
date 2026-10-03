@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18215",
   "country": "ITA",
+  "reference": "03190004SA1",
   "name": "ANYWAVE",
   "rating": {
     "gph": 429.8,
@@ -197,6 +198,5 @@
       12.86,
       15.62
     ]
-  },
-  "reference": "03190004SA1"
+  }
 }

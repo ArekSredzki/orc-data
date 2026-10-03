@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11712",
   "country": "NOR",
+  "reference": "03440004W7R",
   "name": "Agnora II",
   "rating": {
     "gph": 587.8,
@@ -197,6 +198,5 @@
       8.43,
       9.24
     ]
-  },
-  "reference": "03440004W7R"
+  }
 }

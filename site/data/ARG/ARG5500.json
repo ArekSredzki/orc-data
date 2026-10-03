@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5500",
   "country": "ARG",
+  "reference": "03880004B3C",
   "name": "NAUTICO II",
   "rating": {
     "gph": 525.0,
@@ -197,6 +198,5 @@
       9.22,
       10.0
     ]
-  },
-  "reference": "03880004B3C"
+  }
 }

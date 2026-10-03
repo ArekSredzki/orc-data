@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16232",
   "country": "NOR",
+  "reference": "03440004MPS",
   "name": "Balder",
   "rating": {
     "gph": 616.3,
@@ -197,6 +198,5 @@
       8.42,
       9.07
     ]
-  },
-  "reference": "03440004MPS"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17060",
   "country": "ITA",
+  "reference": "03190004WEP",
   "name": "WHY NOT",
   "rating": {
     "gph": 466.8,
@@ -197,6 +198,5 @@
       10.53,
       12.84
     ]
-  },
-  "reference": "03190004WEP"
+  }
 }

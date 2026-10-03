@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60122",
   "country": "USA",
+  "reference": "04560004FHM",
   "name": "PRONTO 122",
   "rating": {
     "gph": 564.4,
@@ -197,6 +198,5 @@
       8.6,
       10.65
     ]
-  },
-  "reference": "04560004FHM"
+  }
 }

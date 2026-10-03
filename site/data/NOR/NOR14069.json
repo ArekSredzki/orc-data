@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14069",
   "country": "NOR",
+  "reference": "03440004O8S",
   "name": "Vesla",
   "rating": {
     "gph": 732.6,
@@ -197,6 +198,5 @@
       6.67,
       7.13
     ]
-  },
-  "reference": "03440004O8S"
+  }
 }

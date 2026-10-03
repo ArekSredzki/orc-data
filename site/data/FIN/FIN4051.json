@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN4051",
   "country": "FIN",
+  "reference": "04140004L26",
   "name": "Nonna",
   "rating": {
     "gph": 696.5,
@@ -197,6 +198,5 @@
       7.04,
       7.63
     ]
-  },
-  "reference": "04140004L26"
+  }
 }

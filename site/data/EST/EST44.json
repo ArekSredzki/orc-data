@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST44",
   "country": "EST",
+  "reference": "04340004W72",
   "name": "Clean Energy",
   "rating": {
     "gph": 520.5,
@@ -197,6 +198,5 @@
       9.95,
       12.84
     ]
-  },
-  "reference": "04340004W72"
+  }
 }

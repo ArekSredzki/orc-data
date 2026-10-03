@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12111",
   "country": "NOR",
+  "reference": "03440004O9W",
   "name": "Cebina",
   "rating": {
     "gph": 607.4,
@@ -197,6 +198,5 @@
       8.16,
       8.86
     ]
-  },
-  "reference": "03440004O9W"
+  }
 }

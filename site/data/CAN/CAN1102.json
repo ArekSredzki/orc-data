@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN1102",
   "country": "CAN",
+  "reference": "03430004KQF",
   "name": "Kajofi",
   "rating": {
     "gph": 588.3,
@@ -197,6 +198,5 @@
       8.12,
       9.99
     ]
-  },
-  "reference": "03430004KQF"
+  }
 }

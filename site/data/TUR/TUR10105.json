@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR10105",
   "country": "TUR",
+  "reference": "04590004ILD",
   "name": "ALIZE M",
   "rating": {
     "gph": 609.3,
@@ -197,6 +198,5 @@
       8.12,
       9.26
     ]
-  },
-  "reference": "04590004ILD"
+  }
 }

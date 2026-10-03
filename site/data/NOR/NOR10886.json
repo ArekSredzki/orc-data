@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10886",
   "country": "NOR",
+  "reference": "03440004R2R",
   "name": "IGGY",
   "rating": {
     "gph": 639.3,
@@ -197,6 +198,5 @@
       7.73,
       10.19
     ]
-  },
-  "reference": "03440004R2R"
+  }
 }

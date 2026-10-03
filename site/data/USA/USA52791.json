@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52791",
   "country": "USA",
+  "reference": "04560004TQ4",
   "name": "GAUNTLET",
   "rating": {
     "gph": 482.0,
@@ -197,6 +198,5 @@
       10.35,
       12.86
     ]
-  },
-  "reference": "04560004TQ4"
+  }
 }

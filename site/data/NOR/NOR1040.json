@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR1040",
   "country": "NOR",
+  "reference": "03440004NS6",
   "name": "Lakrisa Viola",
   "rating": {
     "gph": 664.9,
@@ -197,6 +198,5 @@
       8.61,
       11.71
     ]
-  },
-  "reference": "03440004NS6"
+  }
 }

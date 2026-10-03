@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA554",
   "country": "RSA",
+  "reference": "04620004UHI",
   "name": "Guru",
   "rating": {
     "gph": 788.5,
@@ -197,6 +198,5 @@
       6.78,
       7.29
     ]
-  },
-  "reference": "04620004UHI"
+  }
 }

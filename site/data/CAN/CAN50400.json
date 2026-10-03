@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN50400",
   "country": "CAN",
+  "reference": "03430004KQH",
   "name": "Bandit",
   "rating": {
     "gph": 539.3,
@@ -197,6 +198,5 @@
       9.23,
       11.65
     ]
-  },
-  "reference": "03430004KQH"
+  }
 }

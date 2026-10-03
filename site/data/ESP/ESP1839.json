@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1839",
   "country": "ESP",
+  "reference": "03510004F7U",
   "name": "ODISEUS VI",
   "rating": {
     "gph": 645.5,
@@ -197,6 +198,5 @@
       7.73,
       8.45
     ]
-  },
-  "reference": "03510004F7U"
+  }
 }

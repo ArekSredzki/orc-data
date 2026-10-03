@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4799",
   "country": "NED",
+  "reference": "04310004JUR",
   "name": "Waai",
   "rating": {
     "gph": 701.4,
@@ -197,6 +198,5 @@
       7.06,
       7.64
     ]
-  },
-  "reference": "04310004JUR"
+  }
 }

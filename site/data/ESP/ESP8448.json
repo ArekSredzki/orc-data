@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8448",
   "country": "ESP",
+  "reference": "03510004B6S",
   "name": "CAMAGUEY",
   "rating": {
     "gph": 568.5,
@@ -197,6 +198,5 @@
       8.76,
       9.64
     ]
-  },
-  "reference": "03510004B6S"
+  }
 }

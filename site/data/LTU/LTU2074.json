@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2074",
   "country": "LTU",
+  "reference": "03590004UOK",
   "name": "WHITE WHALE",
   "rating": {
     "gph": 663.4,
@@ -197,6 +198,5 @@
       7.8,
       10.62
     ]
-  },
-  "reference": "03590004UOK"
+  }
 }

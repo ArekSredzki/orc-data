@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA44992",
   "country": "FRA",
+  "reference": "04330004J1F",
   "name": "ALDEBARAN",
   "rating": {
     "gph": 626.3,
@@ -197,6 +198,5 @@
       8.09,
       9.17
     ]
-  },
-  "reference": "04330004J1F"
+  }
 }

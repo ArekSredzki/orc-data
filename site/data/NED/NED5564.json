@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED5564",
   "country": "NED",
+  "reference": "04310004JVB",
   "name": "Anne Mazurka",
   "rating": {
     "gph": 606.1,
@@ -197,6 +198,5 @@
       8.1,
       8.97
     ]
-  },
-  "reference": "04310004JVB"
+  }
 }

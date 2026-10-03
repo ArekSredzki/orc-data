@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA24081",
   "country": "ITA",
+  "reference": "03190004HJN",
   "name": "OIKIA",
   "rating": {
     "gph": 660.9,
@@ -197,6 +198,5 @@
       8.79,
       11.89
     ]
-  },
-  "reference": "03190004HJN"
+  }
 }

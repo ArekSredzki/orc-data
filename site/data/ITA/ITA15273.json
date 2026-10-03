@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15273",
   "country": "ITA",
+  "reference": "031900048P7",
   "name": "FLAPPO",
   "rating": {
     "gph": 625.3,
@@ -197,6 +198,5 @@
       7.86,
       8.59
     ]
-  },
-  "reference": "031900048P7"
+  }
 }

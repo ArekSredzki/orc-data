@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAZITTO22",
   "country": "ITA",
+  "reference": "03190004O0A",
   "name": "ZITTO",
   "rating": {
     "gph": 639.8,
@@ -197,6 +198,5 @@
       7.62,
       8.19
     ]
-  },
-  "reference": "03190004O0A"
+  }
 }

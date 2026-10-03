@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE34649",
   "country": "SWE",
+  "reference": "03200004T8I",
   "name": "Magic Mix",
   "rating": {
     "gph": 559.1,
@@ -197,6 +198,5 @@
       8.75,
       9.9
     ]
-  },
-  "reference": "03200004T8I"
+  }
 }

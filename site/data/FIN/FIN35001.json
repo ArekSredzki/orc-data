@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN35001",
   "country": "FIN",
+  "reference": "03290004U9F",
   "name": "Vipstaak",
   "rating": {
     "gph": 582.7,
@@ -197,6 +198,5 @@
       8.5,
       10.93
     ]
-  },
-  "reference": "03290004U9F"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FiIN12264",
   "country": "FIN",
+  "reference": "04140004T04",
   "name": "Vappu",
   "rating": {
     "gph": 668.2,
@@ -197,6 +198,5 @@
       7.19,
       7.75
     ]
-  },
-  "reference": "04140004T04"
+  }
 }

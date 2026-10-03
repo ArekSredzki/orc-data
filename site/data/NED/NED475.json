@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED475",
   "country": "NED",
+  "reference": "04310004VAV",
   "name": "Flying Dolphin Too",
   "rating": {
     "gph": 558.6,
@@ -197,6 +198,5 @@
       8.63,
       10.64
     ]
-  },
-  "reference": "04310004VAV"
+  }
 }

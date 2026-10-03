@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR6746",
   "country": "POR",
+  "reference": "03530004VLH",
   "name": "PARAGON R",
   "rating": {
     "gph": 588.9,
@@ -197,6 +198,5 @@
       8.49,
       9.43
     ]
-  },
-  "reference": "03530004VLH"
+  }
 }

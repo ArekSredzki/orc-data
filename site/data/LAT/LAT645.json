@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT645",
   "country": "LAT",
+  "reference": "04960004W73",
   "name": "Nicole",
   "rating": {
     "gph": 561.6,
@@ -197,6 +198,5 @@
       8.56,
       10.47
     ]
-  },
-  "reference": "04960004W73"
+  }
 }

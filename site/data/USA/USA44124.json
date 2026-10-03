@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA44124",
   "country": "USA",
+  "reference": "04560004IWS",
   "name": "VERITAS",
   "rating": {
     "gph": 612.1,
@@ -197,6 +198,5 @@
       7.67,
       8.18
     ]
-  },
-  "reference": "04560004IWS"
+  }
 }

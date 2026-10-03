@@ -1,6 +1,7 @@
 {
   "sailnumber": "SLO/SLO5017",
   "country": "SLO",
+  "reference": "03090004RF5",
   "name": "Bellerophon",
   "rating": {
     "gph": 539.0,
@@ -197,6 +198,5 @@
       9.3,
       10.79
     ]
-  },
-  "reference": "03090004RF5"
+  }
 }

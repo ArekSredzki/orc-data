@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1202",
   "country": "TUR",
+  "reference": "04590004F2T",
   "name": "DAWN",
   "rating": {
     "gph": 638.5,
@@ -197,6 +198,5 @@
       7.79,
       8.51
     ]
-  },
-  "reference": "04590004F2T"
+  }
 }

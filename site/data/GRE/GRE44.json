@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE44",
   "country": "GRE",
+  "reference": "03420004R70",
   "name": "PHAEDRA",
   "rating": {
     "gph": 552.2,
@@ -197,6 +198,5 @@
       9.17,
       11.02
     ]
-  },
-  "reference": "03420004R70"
+  }
 }

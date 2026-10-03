@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA24209",
   "country": "ITA",
+  "reference": "03190004PPK",
   "name": "ALEBI II",
   "rating": {
     "gph": 552.2,
@@ -197,6 +198,5 @@
       8.66,
       9.84
     ]
-  },
-  "reference": "03190004PPK"
+  }
 }

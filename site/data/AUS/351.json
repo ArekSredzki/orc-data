@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/351",
   "country": "AUS",
+  "reference": "03020004UDK",
   "name": "Rock n' Roll",
   "rating": {
     "gph": 567.5,
@@ -197,6 +198,5 @@
       10.17,
       12.83
     ]
-  },
-  "reference": "03020004UDK"
+  }
 }

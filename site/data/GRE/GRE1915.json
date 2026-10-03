@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1915",
   "country": "GRE",
+  "reference": "03420004PU0",
   "name": "GAZELLE",
   "rating": {
     "gph": 545.0,
@@ -197,6 +198,5 @@
       8.77,
       10.35
     ]
-  },
-  "reference": "03420004PU0"
+  }
 }

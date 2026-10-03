@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/GBR8876T",
   "country": "NED",
+  "reference": "04310004JS5",
   "name": "Panther",
   "rating": {
     "gph": 620.8,
@@ -197,6 +198,5 @@
       7.87,
       9.66
     ]
-  },
-  "reference": "04310004JS5"
+  }
 }

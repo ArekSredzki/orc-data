@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8277",
   "country": "NED",
+  "reference": "04310004K0W",
   "name": "Inspirit",
   "rating": {
     "gph": 616.9,
@@ -197,6 +198,5 @@
       8.26,
       9.02
     ]
-  },
-  "reference": "04310004K0W"
+  }
 }

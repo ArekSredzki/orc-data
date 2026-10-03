@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/RUS3319",
   "country": "TUR",
+  "reference": "04590004V84",
   "name": "LOOPING",
   "rating": {
     "gph": 615.1,
@@ -197,6 +198,5 @@
       8.02,
       8.82
     ]
-  },
-  "reference": "04590004V84"
+  }
 }

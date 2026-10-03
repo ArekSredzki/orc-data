@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/BEL3501",
   "country": "ESP",
+  "reference": "03510004JJ6",
   "name": "DIABOLIC",
   "rating": {
     "gph": 639.1,
@@ -197,6 +198,5 @@
       7.52,
       8.32
     ]
-  },
-  "reference": "03510004JJ6"
+  }
 }

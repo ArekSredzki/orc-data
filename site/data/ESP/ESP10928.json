@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10928",
   "country": "ESP",
+  "reference": "035100048I2",
   "name": "BAMBOO",
   "rating": {
     "gph": 693.7,
@@ -197,6 +198,5 @@
       6.8,
       7.31
     ]
-  },
-  "reference": "035100048I2"
+  }
 }

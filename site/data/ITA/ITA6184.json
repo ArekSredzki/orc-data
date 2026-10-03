@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA6184",
   "country": "ITA",
+  "reference": "03190004B7A",
   "name": "KIDOGO III",
   "rating": {
     "gph": 660.5,
@@ -197,6 +198,5 @@
       7.51,
       8.1
     ]
-  },
-  "reference": "03190004B7A"
+  }
 }

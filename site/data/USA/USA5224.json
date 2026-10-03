@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA5224",
   "country": "USA",
+  "reference": "04560004QUH",
   "name": "COURAGE",
   "rating": {
     "gph": 696.2,
@@ -197,6 +198,5 @@
       7.4,
       8.02
     ]
-  },
-  "reference": "04560004QUH"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA2255",
   "country": "RSA",
+  "reference": "04620004MC7",
   "name": "Adios",
   "rating": {
     "gph": 589.9,
@@ -197,6 +198,5 @@
       8.45,
       9.33
     ]
-  },
-  "reference": "04620004MC7"
+  }
 }

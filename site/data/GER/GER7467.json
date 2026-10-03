@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7467",
   "country": "GER",
+  "reference": "04150004KLC",
   "name": "CASITA",
   "rating": {
     "gph": 724.5,
@@ -197,6 +198,5 @@
       7.16,
       7.85
     ]
-  },
-  "reference": "04150004KLC"
+  }
 }

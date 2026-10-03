@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA7856",
   "country": "FRA",
+  "reference": "04330004KV3",
   "name": "IMPULSION",
   "rating": {
     "gph": 684.9,
@@ -197,6 +198,5 @@
       7.38,
       9.84
     ]
-  },
-  "reference": "04330004KV3"
+  }
 }

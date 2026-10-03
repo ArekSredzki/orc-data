@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9506_C",
   "country": "ESP",
+  "reference": "03510004BIQ",
   "name": "GARNATXA III",
   "rating": {
     "gph": 616.3,
@@ -197,6 +198,5 @@
       8.19,
       8.94
     ]
-  },
-  "reference": "03510004BIQ"
+  }
 }

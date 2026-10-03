@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR7329",
   "country": "NOR",
+  "reference": "03440004QFE",
   "name": "CBCulix",
   "rating": {
     "gph": 659.6,
@@ -197,6 +198,5 @@
       7.45,
       8.19
     ]
-  },
-  "reference": "03440004QFE"
+  }
 }

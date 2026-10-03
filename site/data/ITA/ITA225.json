@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA225",
   "country": "ITA",
+  "reference": "03190004KSU",
   "name": "KONG BAMBINO VIZIATO",
   "rating": {
     "gph": 662.6,
@@ -197,6 +198,5 @@
       7.81,
       10.67
     ]
-  },
-  "reference": "03190004KSU"
+  }
 }

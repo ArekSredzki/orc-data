@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6964",
   "country": "GER",
+  "reference": "04150004MN3",
   "name": "JULIA",
   "rating": {
     "gph": 616.0,
@@ -197,6 +198,5 @@
       9.83,
       12.99
     ]
-  },
-  "reference": "04150004MN3"
+  }
 }

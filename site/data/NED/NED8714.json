@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8714",
   "country": "NED",
+  "reference": "04310004K98",
   "name": "Dinky Toy",
   "rating": {
     "gph": 643.8,
@@ -197,6 +198,5 @@
       7.35,
       9.38
     ]
-  },
-  "reference": "04310004K98"
+  }
 }

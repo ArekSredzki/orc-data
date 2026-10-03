@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA022",
   "country": "RSA",
+  "reference": "046200048R2",
   "name": "Zia",
   "rating": {
     "gph": 810.5,
@@ -197,6 +198,5 @@
       6.4,
       7.0
     ]
-  },
-  "reference": "046200048R2"
+  }
 }

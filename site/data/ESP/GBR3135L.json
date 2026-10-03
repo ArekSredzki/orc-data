@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GBR3135L",
   "country": "ESP",
+  "reference": "03510004UHT",
   "name": "MEVILLA-JUMBUCK",
   "rating": {
     "gph": 609.5,
@@ -197,6 +198,5 @@
       7.75,
       9.14
     ]
-  },
-  "reference": "03510004UHT"
+  }
 }

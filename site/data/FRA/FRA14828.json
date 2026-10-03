@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA14828",
   "country": "FRA",
+  "reference": "04330004TCW",
   "name": "DIAOUL\u2019X",
   "rating": {
     "gph": 652.8,
@@ -197,6 +198,5 @@
       7.63,
       8.34
     ]
-  },
-  "reference": "04330004TCW"
+  }
 }

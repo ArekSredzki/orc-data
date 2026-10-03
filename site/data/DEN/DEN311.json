@@ -1,6 +1,7 @@
 {
   "sailnumber": "DEN/DEN311",
   "country": "DEN",
+  "reference": "03370004NIM",
   "name": "Voxev\u00e6rk",
   "rating": {
     "gph": 639.0,
@@ -197,6 +198,5 @@
       8.29,
       10.12
     ]
-  },
-  "reference": "03370004NIM"
+  }
 }

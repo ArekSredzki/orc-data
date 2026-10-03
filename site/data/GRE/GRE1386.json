@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1386",
   "country": "GRE",
+  "reference": "03420004NJL",
   "name": "MOLOTOW",
   "rating": {
     "gph": 738.1,
@@ -197,6 +198,5 @@
       7.48,
       10.17
     ]
-  },
-  "reference": "03420004NJL"
+  }
 }

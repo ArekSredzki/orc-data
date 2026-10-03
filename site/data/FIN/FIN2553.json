@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN2553",
   "country": "FIN",
+  "reference": "04140004QES",
   "name": "StraX",
   "rating": {
     "gph": 726.1,
@@ -197,6 +198,5 @@
       7.02,
       7.93
     ]
-  },
-  "reference": "04140004QES"
+  }
 }

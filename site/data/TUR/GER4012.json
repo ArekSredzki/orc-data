@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/GER4012",
   "country": "TUR",
+  "reference": "04590004KIP",
   "name": "SO FARR SO GOOD",
   "rating": {
     "gph": 529.5,
@@ -197,6 +198,5 @@
       10.06,
       12.88
     ]
-  },
-  "reference": "04590004KIP"
+  }
 }

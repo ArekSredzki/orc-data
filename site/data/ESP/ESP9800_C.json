@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9800_C",
   "country": "ESP",
+  "reference": "03510004IBB",
   "name": "ELANN",
   "rating": {
     "gph": 686.2,
@@ -197,6 +198,5 @@
       7.38,
       9.36
     ]
-  },
-  "reference": "03510004IBB"
+  }
 }

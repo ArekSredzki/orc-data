@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU707",
   "country": "ROU",
+  "reference": "05040004Q7I",
   "name": "Lete",
   "rating": {
     "gph": 630.8,
@@ -197,6 +198,5 @@
       7.55,
       8.16
     ]
-  },
-  "reference": "05040004Q7I"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16284",
   "country": "NOR",
+  "reference": "03440004WA8",
   "name": "Freydis",
   "rating": {
     "gph": 664.7,
@@ -197,6 +198,5 @@
       7.82,
       8.35
     ]
-  },
-  "reference": "03440004WA8"
+  }
 }

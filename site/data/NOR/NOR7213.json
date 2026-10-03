@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR7213",
   "country": "NOR",
+  "reference": "03440004OQ6",
   "name": "Madam Larsen",
   "rating": {
     "gph": 707.2,
@@ -197,6 +198,5 @@
       7.09,
       7.78
     ]
-  },
-  "reference": "03440004OQ6"
+  }
 }

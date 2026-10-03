@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16160",
   "country": "NOR",
+  "reference": "03440004UBM",
   "name": "Nord",
   "rating": {
     "gph": 642.1,
@@ -197,6 +198,5 @@
       7.7,
       8.36
     ]
-  },
-  "reference": "03440004UBM"
+  }
 }

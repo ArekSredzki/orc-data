@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2396",
   "country": "ESP",
+  "reference": "03510004HLI",
   "name": "TANJAOUI",
   "rating": {
     "gph": 672.6,
@@ -197,6 +198,5 @@
       7.3,
       8.04
     ]
-  },
-  "reference": "03510004HLI"
+  }
 }

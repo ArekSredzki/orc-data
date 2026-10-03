@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1010",
   "country": "ITA",
+  "reference": "03190004EOA",
   "name": "TALLY HO",
   "rating": {
     "gph": 659.2,
@@ -197,6 +198,5 @@
       7.54,
       8.28
     ]
-  },
-  "reference": "03190004EOA"
+  }
 }

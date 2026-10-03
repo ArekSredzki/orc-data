@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA39551",
   "country": "FRA",
+  "reference": "04330004IJP",
   "name": "APHRODITE",
   "rating": {
     "gph": 660.9,
@@ -197,6 +198,5 @@
       7.48,
       8.28
     ]
-  },
-  "reference": "04330004IJP"
+  }
 }

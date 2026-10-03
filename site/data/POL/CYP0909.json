@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/CYP0909",
   "country": "POL",
+  "reference": "04410004U80",
   "name": "NIREAS",
   "rating": {
     "gph": 426.5,
@@ -197,6 +198,5 @@
       13.49,
       16.76
     ]
-  },
-  "reference": "04410004U80"
+  }
 }

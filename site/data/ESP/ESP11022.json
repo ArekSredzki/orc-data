@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11022",
   "country": "ESP",
+  "reference": "03510004BEF",
   "name": "SISTERS III",
   "rating": {
     "gph": 560.0,
@@ -197,6 +198,5 @@
       8.56,
       9.53
     ]
-  },
-  "reference": "03510004BEF"
+  }
 }

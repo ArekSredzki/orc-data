@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA251",
   "country": "USA",
+  "reference": "04560004QTT",
   "name": "PHOENIX",
   "rating": {
     "gph": 610.2,
@@ -197,6 +198,5 @@
       7.76,
       9.22
     ]
-  },
-  "reference": "04560004QTT"
+  }
 }

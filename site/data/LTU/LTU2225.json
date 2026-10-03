@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2225",
   "country": "LTU",
+  "reference": "03590004V1J",
   "name": "MOJITO",
   "rating": {
     "gph": 664.1,
@@ -197,6 +198,5 @@
       7.94,
       10.8
     ]
-  },
-  "reference": "03590004V1J"
+  }
 }

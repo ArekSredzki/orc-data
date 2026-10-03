@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG182",
   "country": "HKG",
+  "reference": "03880004WVO",
   "name": "F.A.B",
   "rating": {
     "gph": 648.1,
@@ -197,6 +198,5 @@
       11.72,
       14.3
     ]
-  },
-  "reference": "03880004WVO"
+  }
 }

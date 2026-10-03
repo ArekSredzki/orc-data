@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16362",
   "country": "NOR",
+  "reference": "03440004L3L",
   "name": "Tumult 2",
   "rating": {
     "gph": 643.2,
@@ -197,6 +198,5 @@
       8.15,
       9.81
     ]
-  },
-  "reference": "03440004L3L"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/GBR4770R",
   "country": "NOR",
+  "reference": "03440004OES",
   "name": "Golden Fox",
   "rating": {
     "gph": 552.5,
@@ -197,6 +198,5 @@
       8.85,
       9.65
     ]
-  },
-  "reference": "03440004OES"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA107",
   "country": "USA",
+  "reference": "04560004PHH",
   "name": "POLEDANCER",
   "rating": {
     "gph": 608.6,
@@ -197,6 +198,5 @@
       7.91,
       8.75
     ]
-  },
-  "reference": "04560004PHH"
+  }
 }

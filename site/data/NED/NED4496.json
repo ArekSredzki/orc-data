@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4496",
   "country": "NED",
+  "reference": "04310004JUJ",
   "name": "Dikke Druyff",
   "rating": {
     "gph": 671.8,
@@ -197,6 +198,5 @@
       7.41,
       7.89
     ]
-  },
-  "reference": "04310004JUJ"
+  }
 }

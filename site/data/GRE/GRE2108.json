@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2108",
   "country": "GRE",
+  "reference": "03420004MDI",
   "name": "AELLA",
   "rating": {
     "gph": 657.6,
@@ -197,6 +198,5 @@
       7.73,
       8.41
     ]
-  },
-  "reference": "03420004MDI"
+  }
 }

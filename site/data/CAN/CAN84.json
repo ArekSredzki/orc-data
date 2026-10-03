@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN84",
   "country": "CAN",
+  "reference": "03430004LJI",
   "name": "Javelin",
   "rating": {
     "gph": 621.9,
@@ -197,6 +198,5 @@
       8.86,
       11.69
     ]
-  },
-  "reference": "03430004LJI"
+  }
 }

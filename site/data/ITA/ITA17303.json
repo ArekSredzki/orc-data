@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17303",
   "country": "ITA",
+  "reference": "03190004MA9",
   "name": "MASCE'",
   "rating": {
     "gph": 648.5,
@@ -197,6 +198,5 @@
       7.3,
       7.84
     ]
-  },
-  "reference": "03190004MA9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14076",
   "country": "ITA",
+  "reference": "03190004RJ1",
   "name": "SHAMADI",
   "rating": {
     "gph": 562.8,
@@ -197,6 +198,5 @@
       8.41,
       9.11
     ]
-  },
-  "reference": "03190004RJ1"
+  }
 }

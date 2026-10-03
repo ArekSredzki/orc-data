@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18270",
   "country": "ITA",
+  "reference": "03190004JEH",
   "name": "BLUE SCORPION",
   "rating": {
     "gph": 514.8,
@@ -197,6 +198,5 @@
       9.69,
       11.29
     ]
-  },
-  "reference": "03190004JEH"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITADNSR26",
   "country": "ITA",
+  "reference": "03190004TT8",
   "name": "DANSILMAR",
   "rating": {
     "gph": 718.6,
@@ -197,6 +198,5 @@
       6.86,
       7.33
     ]
-  },
-  "reference": "03190004TT8"
+  }
 }

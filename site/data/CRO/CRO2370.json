@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2370",
   "country": "CRO",
+  "reference": "03620004LWT",
   "name": "Ciao",
   "rating": {
     "gph": 618.8,
@@ -197,6 +198,5 @@
       8.21,
       8.94
     ]
-  },
-  "reference": "03620004LWT"
+  }
 }

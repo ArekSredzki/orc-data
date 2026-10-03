@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2902",
   "country": "CRO",
+  "reference": "03620004MC2",
   "name": "Gogi II",
   "rating": {
     "gph": 607.9,
@@ -197,6 +198,5 @@
       8.52,
       9.25
     ]
-  },
-  "reference": "03620004MC2"
+  }
 }

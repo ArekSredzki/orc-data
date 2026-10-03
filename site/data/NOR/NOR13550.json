@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13550",
   "country": "NOR",
+  "reference": "03440004Q05",
   "name": "Snorkfr\u00f8ken",
   "rating": {
     "gph": 677.9,
@@ -197,6 +198,5 @@
       7.25,
       7.84
     ]
-  },
-  "reference": "03440004Q05"
+  }
 }

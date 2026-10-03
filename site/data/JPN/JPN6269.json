@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN6269",
   "country": "JPN",
+  "reference": "03390004KV7",
   "name": "VITTORIA",
   "rating": {
     "gph": 581.5,
@@ -197,6 +198,5 @@
       8.75,
       10.83
     ]
-  },
-  "reference": "03390004KV7"
+  }
 }

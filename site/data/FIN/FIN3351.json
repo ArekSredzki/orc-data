@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN3351",
   "country": "FIN",
+  "reference": "04140004FLT",
   "name": "Tiare",
   "rating": {
     "gph": 680.2,
@@ -197,6 +198,5 @@
       7.4,
       8.04
     ]
-  },
-  "reference": "04140004FLT"
+  }
 }

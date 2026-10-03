@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA39502",
   "country": "USA",
+  "reference": "04560004TDP",
   "name": "RAZZMATAZZ",
   "rating": {
     "gph": 554.5,
@@ -197,6 +198,5 @@
       8.96,
       11.45
     ]
-  },
-  "reference": "04560004TDP"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/X4129",
   "country": "GER",
+  "reference": "03520004V4U",
   "name": "STARDUST",
   "rating": {
     "gph": 567.2,
@@ -197,6 +198,5 @@
       8.73,
       9.83
     ]
-  },
-  "reference": "03520004V4U"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN16644",
   "country": "CAN",
+  "reference": "03430004MHQ",
   "name": "Arietta",
   "rating": {
     "gph": 550.3,
@@ -197,6 +198,5 @@
       8.92,
       10.54
     ]
-  },
-  "reference": "03430004MHQ"
+  }
 }

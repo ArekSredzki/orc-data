@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER4922",
   "country": "GER",
+  "reference": "03520004I1T",
   "name": "ILTSCHI",
   "rating": {
     "gph": 685.0,
@@ -197,6 +198,5 @@
       7.51,
       8.23
     ]
-  },
-  "reference": "03520004I1T"
+  }
 }

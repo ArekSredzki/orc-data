@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61668",
   "country": "USA",
+  "reference": "04560004QBW",
   "name": "EVENTYR",
   "rating": {
     "gph": 614.5,
@@ -197,6 +198,5 @@
       7.89,
       10.0
     ]
-  },
-  "reference": "04560004QBW"
+  }
 }

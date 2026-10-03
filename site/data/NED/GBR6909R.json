@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/GBR6909R",
   "country": "NED",
+  "reference": "04310004JS2",
   "name": "Jam Session",
   "rating": {
     "gph": 615.3,
@@ -197,6 +198,5 @@
       7.67,
       8.8
     ]
-  },
-  "reference": "04310004JS2"
+  }
 }

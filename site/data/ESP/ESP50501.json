@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP50501",
   "country": "ESP",
+  "reference": "03510004BMQ",
   "name": "ITACA",
   "rating": {
     "gph": 561.1,
@@ -197,6 +198,5 @@
       9.0,
       9.87
     ]
-  },
-  "reference": "03510004BMQ"
+  }
 }

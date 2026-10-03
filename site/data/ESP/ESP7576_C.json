@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7576_C",
   "country": "ESP",
+  "reference": "03510004W3J",
   "name": "PANTALAN ZERO",
   "rating": {
     "gph": 579.4,
@@ -197,6 +198,5 @@
       8.56,
       9.3
     ]
-  },
-  "reference": "03510004W3J"
+  }
 }

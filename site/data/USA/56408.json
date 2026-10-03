@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/56408",
   "country": "USA",
+  "reference": "04560004Q37",
   "name": "WIKI WIKI",
   "rating": {
     "gph": 589.9,
@@ -197,6 +198,5 @@
       8.26,
       9.06
     ]
-  },
-  "reference": "04560004Q37"
+  }
 }

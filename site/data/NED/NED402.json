@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED402",
   "country": "NED",
+  "reference": "04310004OOH",
   "name": "VITA",
   "rating": {
     "gph": 564.4,
@@ -197,6 +198,5 @@
       8.58,
       10.62
     ]
-  },
-  "reference": "04310004OOH"
+  }
 }

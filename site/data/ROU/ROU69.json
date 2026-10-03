@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU69",
   "country": "ROU",
+  "reference": "05040004RE3",
   "name": "Zoe",
   "rating": {
     "gph": 536.7,
@@ -197,6 +198,5 @@
       9.6,
       11.88
     ]
-  },
-  "reference": "05040004RE3"
+  }
 }

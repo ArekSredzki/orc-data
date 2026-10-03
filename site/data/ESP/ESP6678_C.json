@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6678_C",
   "country": "ESP",
+  "reference": "03510004C52",
   "name": "SPARTINA",
   "rating": {
     "gph": 689.0,
@@ -197,6 +198,5 @@
       7.35,
       8.06
     ]
-  },
-  "reference": "03510004C52"
+  }
 }

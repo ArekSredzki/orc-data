@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1944",
   "country": "ITA",
+  "reference": "03190004JEI",
   "name": "MINTAKA",
   "rating": {
     "gph": 600.4,
@@ -197,6 +198,5 @@
       8.42,
       10.24
     ]
-  },
-  "reference": "03190004JEI"
+  }
 }

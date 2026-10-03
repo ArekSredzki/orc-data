@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6767",
   "country": "GER",
+  "reference": "04150004VR2",
   "name": "MATCHBOX",
   "rating": {
     "gph": 617.4,
@@ -197,6 +198,5 @@
       7.99,
       8.85
     ]
-  },
-  "reference": "04150004VR2"
+  }
 }

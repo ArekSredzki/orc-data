@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25900",
   "country": "USA",
+  "reference": "04560004S1M",
   "name": "SLEEPING TIGER",
   "rating": {
     "gph": 571.8,
@@ -197,6 +198,5 @@
       8.31,
       10.08
     ]
-  },
-  "reference": "04560004S1M"
+  }
 }

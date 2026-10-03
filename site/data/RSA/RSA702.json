@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA702",
   "country": "RSA",
+  "reference": "046200048IO",
   "name": "Flyer",
   "rating": {
     "gph": 665.2,
@@ -197,6 +198,5 @@
       7.35,
       7.99
     ]
-  },
-  "reference": "046200048IO"
+  }
 }

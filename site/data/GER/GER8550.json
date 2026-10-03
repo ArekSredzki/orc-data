@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8550",
   "country": "GER",
+  "reference": "03520004UT9",
   "name": "ROXY 3.0",
   "rating": {
     "gph": 564.0,
@@ -197,6 +198,5 @@
       8.67,
       10.04
     ]
-  },
-  "reference": "03520004UT9"
+  }
 }

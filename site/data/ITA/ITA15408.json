@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15408",
   "country": "ITA",
+  "reference": "03190004QCC",
   "name": "HYDRA",
   "rating": {
     "gph": 586.5,
@@ -197,6 +198,5 @@
       8.32,
       10.09
     ]
-  },
-  "reference": "03190004QCC"
+  }
 }

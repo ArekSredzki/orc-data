@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA18513",
   "country": "USA",
+  "reference": "04560004V0M",
   "name": "BANSHEE-8",
   "rating": {
     "gph": 598.5,
@@ -197,6 +198,5 @@
       7.77,
       9.44
     ]
-  },
-  "reference": "04560004V0M"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2533",
   "country": "CRO",
+  "reference": "03620004LOB",
   "name": "Rebel Rebel",
   "rating": {
     "gph": 614.5,
@@ -197,6 +198,5 @@
       7.84,
       8.45
     ]
-  },
-  "reference": "03620004LOB"
+  }
 }

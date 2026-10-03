@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10182_C",
   "country": "ESP",
+  "reference": "03510004C7O",
   "name": "ALBANNA",
   "rating": {
     "gph": 633.0,
@@ -197,6 +198,5 @@
       7.75,
       8.37
     ]
-  },
-  "reference": "03510004C7O"
+  }
 }

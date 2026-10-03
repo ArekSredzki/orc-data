@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN5910",
   "country": "JPN",
+  "reference": "03390004JI5",
   "name": "Zero",
   "rating": {
     "gph": 584.6,
@@ -197,6 +198,5 @@
       8.29,
       10.02
     ]
-  },
-  "reference": "03390004JI5"
+  }
 }

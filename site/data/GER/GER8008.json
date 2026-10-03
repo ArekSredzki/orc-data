@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8008",
   "country": "GER",
+  "reference": "03520004TEE",
   "name": "UNIVERSITAS",
   "rating": {
     "gph": 544.7,
@@ -197,6 +198,5 @@
       8.85,
       10.78
     ]
-  },
-  "reference": "03520004TEE"
+  }
 }

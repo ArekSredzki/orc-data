@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/2900",
   "country": "AUS",
+  "reference": "03020004VFU",
   "name": "Joint Custody",
   "rating": {
     "gph": 579.9,
@@ -197,6 +198,5 @@
       8.8,
       11.0
     ]
-  },
-  "reference": "03020004VFU"
+  }
 }

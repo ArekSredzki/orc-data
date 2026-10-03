@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16219",
   "country": "ITA",
+  "reference": "03190004F3K",
   "name": "MAGO BLU",
   "rating": {
     "gph": 658.5,
@@ -197,6 +198,5 @@
       7.55,
       8.22
     ]
-  },
-  "reference": "03190004F3K"
+  }
 }

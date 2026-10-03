@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12950",
   "country": "ITA",
+  "reference": "03190004TSW",
   "name": "COSIXTY 8",
   "rating": {
     "gph": 613.9,
@@ -197,6 +198,5 @@
       8.15,
       9.08
     ]
-  },
-  "reference": "03190004TSW"
+  }
 }

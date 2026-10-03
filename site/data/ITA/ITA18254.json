@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18254",
   "country": "ITA",
+  "reference": "03190004K80",
   "name": "FALABRACH",
   "rating": {
     "gph": 635.3,
@@ -197,6 +198,5 @@
       8.39,
       8.99
     ]
-  },
-  "reference": "03190004K80"
+  }
 }

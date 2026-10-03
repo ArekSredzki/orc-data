@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8443",
   "country": "GER",
+  "reference": "03520004I2U",
   "name": "JALLA",
   "rating": {
     "gph": 613.5,
@@ -197,6 +198,5 @@
       10.52,
       13.52
     ]
-  },
-  "reference": "03520004I2U"
+  }
 }

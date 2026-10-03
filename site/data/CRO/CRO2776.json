@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2776",
   "country": "CRO",
+  "reference": "03620004MDR",
   "name": "Sportski Vuk 44",
   "rating": {
     "gph": 560.0,
@@ -197,6 +198,5 @@
       8.61,
       9.67
     ]
-  },
-  "reference": "03620004MDR"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GBR4100L_C",
   "country": "ESP",
+  "reference": "03510004NP1",
   "name": "SUPERGROOVE",
   "rating": {
     "gph": 627.5,
@@ -197,6 +198,5 @@
       10.29,
       13.25
     ]
-  },
-  "reference": "03510004NP1"
+  }
 }

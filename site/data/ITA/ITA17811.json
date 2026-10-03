@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17811",
   "country": "ITA",
+  "reference": "03190004KR8",
   "name": "VITTORIA",
   "rating": {
     "gph": 624.0,
@@ -197,6 +198,5 @@
       7.79,
       8.42
     ]
-  },
-  "reference": "03190004KR8"
+  }
 }

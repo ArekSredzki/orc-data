@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/42422",
   "country": "USA",
+  "reference": "04560004S6B",
   "name": "Patriot",
   "rating": {
     "gph": 632.7,
@@ -197,6 +198,5 @@
       7.65,
       8.28
     ]
-  },
-  "reference": "04560004S6B"
+  }
 }

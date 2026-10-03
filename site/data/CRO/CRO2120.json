@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2120",
   "country": "CRO",
+  "reference": "03620004VTU",
   "name": "Jena Q",
   "rating": {
     "gph": 568.1,
@@ -197,6 +198,5 @@
       10.55,
       13.68
     ]
-  },
-  "reference": "03620004VTU"
+  }
 }

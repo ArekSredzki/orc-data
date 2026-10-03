@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10579",
   "country": "NOR",
+  "reference": "03440004LL4",
   "name": "Exita",
   "rating": {
     "gph": 639.9,
@@ -197,6 +198,5 @@
       7.75,
       8.5
     ]
-  },
-  "reference": "03440004LL4"
+  }
 }

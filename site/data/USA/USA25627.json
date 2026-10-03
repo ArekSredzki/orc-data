@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25627",
   "country": "USA",
+  "reference": "04560004V7W",
   "name": "HIBERNIA",
   "rating": {
     "gph": 631.9,
@@ -197,6 +198,5 @@
       7.66,
       8.21
     ]
-  },
-  "reference": "04560004V7W"
+  }
 }

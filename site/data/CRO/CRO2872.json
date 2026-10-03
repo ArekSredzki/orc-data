@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2872",
   "country": "CRO",
+  "reference": "03620004INA",
   "name": "Windrausch",
   "rating": {
     "gph": 558.6,
@@ -197,6 +198,5 @@
       9.25,
       12.16
     ]
-  },
-  "reference": "03620004INA"
+  }
 }

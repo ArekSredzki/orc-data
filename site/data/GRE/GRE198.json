@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE198",
   "country": "GRE",
+  "reference": "03420004MJW",
   "name": "SUSANO'O",
   "rating": {
     "gph": 590.1,
@@ -197,6 +198,5 @@
       8.08,
       9.1
     ]
-  },
-  "reference": "03420004MJW"
+  }
 }

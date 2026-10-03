@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GBR66",
   "country": "ESP",
+  "reference": "03510004VUL",
   "name": "L'IMMENS",
   "rating": {
     "gph": 586.7,
@@ -197,6 +198,5 @@
       8.49,
       9.41
     ]
-  },
-  "reference": "03510004VUL"
+  }
 }

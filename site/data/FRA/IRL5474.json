@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/IRL5474",
   "country": "FRA",
+  "reference": "04330004SAF",
   "name": "MAJE",
   "rating": {
     "gph": 630.3,
@@ -197,6 +198,5 @@
       7.82,
       8.42
     ]
-  },
-  "reference": "04330004SAF"
+  }
 }

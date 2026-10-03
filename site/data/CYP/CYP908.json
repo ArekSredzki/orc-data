@@ -1,6 +1,7 @@
 {
   "sailnumber": "CYP/CYP908",
   "country": "CYP",
+  "reference": "03470004WRQ",
   "name": "LUNA ROSSA",
   "rating": {
     "gph": 752.8,
@@ -197,6 +198,5 @@
       6.85,
       7.42
     ]
-  },
-  "reference": "03470004WRQ"
+  }
 }

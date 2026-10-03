@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA97510",
   "country": "USA",
+  "reference": "04560004VHF",
   "name": "PIED PIPER",
   "rating": {
     "gph": 442.1,
@@ -197,6 +198,5 @@
       12.32,
       14.81
     ]
-  },
-  "reference": "04560004VHF"
+  }
 }

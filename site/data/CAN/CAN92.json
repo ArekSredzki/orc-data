@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN92",
   "country": "CAN",
+  "reference": "03430004T3H",
   "name": "Joyride",
   "rating": {
     "gph": 613.2,
@@ -197,6 +198,5 @@
       8.34,
       10.59
     ]
-  },
-  "reference": "03430004T3H"
+  }
 }

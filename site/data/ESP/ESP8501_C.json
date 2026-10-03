@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8501_C",
   "country": "ESP",
+  "reference": "03510004BH8",
   "name": "EDUMAN",
   "rating": {
     "gph": 633.2,
@@ -197,6 +198,5 @@
       7.52,
       8.08
     ]
-  },
-  "reference": "03510004BH8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/SWE11",
   "country": "GRE",
+  "reference": "03420004HSU",
   "name": "ABSOLUT MELISSA",
   "rating": {
     "gph": 639.1,
@@ -197,6 +198,5 @@
       7.74,
       8.36
     ]
-  },
-  "reference": "03420004HSU"
+  }
 }

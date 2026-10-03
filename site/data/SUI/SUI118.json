@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI118",
   "country": "SUI",
+  "reference": "03080004H69",
   "name": "NONAME",
   "rating": {
     "gph": 613.7,
@@ -197,6 +198,5 @@
       10.13,
       13.18
     ]
-  },
-  "reference": "03080004H69"
+  }
 }

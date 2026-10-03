@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1192",
   "country": "GRE",
+  "reference": "03420004MDC",
   "name": "EVITA K",
   "rating": {
     "gph": 779.8,
@@ -197,6 +198,5 @@
       6.88,
       7.44
     ]
-  },
-  "reference": "03420004MDC"
+  }
 }

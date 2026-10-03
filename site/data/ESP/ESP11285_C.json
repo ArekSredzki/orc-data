@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11285_C",
   "country": "ESP",
+  "reference": "03510004FNT",
   "name": "TUSPI II",
   "rating": {
     "gph": 720.6,
@@ -197,6 +198,5 @@
       6.98,
       7.57
     ]
-  },
-  "reference": "03510004FNT"
+  }
 }

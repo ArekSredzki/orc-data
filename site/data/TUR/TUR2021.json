@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2021",
   "country": "TUR",
+  "reference": "04590004VDE",
   "name": "DUYGU 7",
   "rating": {
     "gph": 582.1,
@@ -197,6 +198,5 @@
       8.41,
       9.21
     ]
-  },
-  "reference": "04590004VDE"
+  }
 }

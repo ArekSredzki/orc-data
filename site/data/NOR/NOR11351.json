@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11351",
   "country": "NOR",
+  "reference": "03440004Q5M",
   "name": "Ariel",
   "rating": {
     "gph": 612.2,
@@ -197,6 +198,5 @@
       8.06,
       8.77
     ]
-  },
-  "reference": "03440004Q5M"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15036",
   "country": "NOR",
+  "reference": "03440004OQA",
   "name": "Careen",
   "rating": {
     "gph": 578.5,
@@ -197,6 +198,5 @@
       8.28,
       9.55
     ]
-  },
-  "reference": "03440004OQA"
+  }
 }

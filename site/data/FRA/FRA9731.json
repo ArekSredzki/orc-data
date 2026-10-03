@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9731",
   "country": "FRA",
+  "reference": "04330004RMB",
   "name": "MAADAU 2",
   "rating": {
     "gph": 598.3,
@@ -197,6 +198,5 @@
       7.93,
       8.57
     ]
-  },
-  "reference": "04330004RMB"
+  }
 }

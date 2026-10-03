@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14784",
   "country": "NOR",
+  "reference": "03440004KEI",
   "name": "Out of office",
   "rating": {
     "gph": 649.7,
@@ -197,6 +198,5 @@
       7.42,
       8.57
     ]
-  },
-  "reference": "03440004KEI"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP123_C",
   "country": "ESP",
+  "reference": "035100048KB",
   "name": "CALISTRO",
   "rating": {
     "gph": 684.4,
@@ -197,6 +198,5 @@
       7.34,
       8.03
     ]
-  },
-  "reference": "035100048KB"
+  }
 }

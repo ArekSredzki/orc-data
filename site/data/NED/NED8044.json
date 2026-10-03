@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8044",
   "country": "NED",
+  "reference": "04310004Q82",
   "name": "Xummer",
   "rating": {
     "gph": 551.3,
@@ -197,6 +198,5 @@
       8.63,
       10.03
     ]
-  },
-  "reference": "04310004Q82"
+  }
 }

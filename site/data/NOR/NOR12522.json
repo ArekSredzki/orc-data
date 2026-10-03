@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12522",
   "country": "NOR",
+  "reference": "03440004KAJ",
   "name": "Anitra",
   "rating": {
     "gph": 625.4,
@@ -197,6 +198,5 @@
       7.67,
       8.28
     ]
-  },
-  "reference": "03440004KAJ"
+  }
 }

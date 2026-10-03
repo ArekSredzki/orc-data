@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST935",
   "country": "EST",
+  "reference": "04340004VN1",
   "name": "JAZZ",
   "rating": {
     "gph": 607.3,
@@ -197,6 +198,5 @@
       7.89,
       9.56
     ]
-  },
-  "reference": "04340004VN1"
+  }
 }

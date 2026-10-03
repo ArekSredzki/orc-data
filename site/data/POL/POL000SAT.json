@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL000SAT",
   "country": "POL",
+  "reference": "04410004UI8",
   "name": "SOLUTION X",
   "rating": {
     "gph": 628.0,
@@ -197,6 +198,5 @@
       8.09,
       9.71
     ]
-  },
-  "reference": "04410004UI8"
+  }
 }

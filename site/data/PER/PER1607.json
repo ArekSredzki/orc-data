@@ -1,6 +1,7 @@
 {
   "sailnumber": "PER/PER1607",
   "country": "PER",
+  "reference": "03460004LH2",
   "name": "AZZURRA",
   "rating": {
     "gph": 597.8,
@@ -197,6 +198,5 @@
       7.94,
       9.36
     ]
-  },
-  "reference": "03460004LH2"
+  }
 }

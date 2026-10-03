@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA39070",
   "country": "FRA",
+  "reference": "04330004O2S",
   "name": "VODKA",
   "rating": {
     "gph": 680.7,
@@ -197,6 +198,5 @@
       7.49,
       8.26
     ]
-  },
-  "reference": "04330004O2S"
+  }
 }

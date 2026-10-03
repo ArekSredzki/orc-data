@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/Fin7",
   "country": "FIN",
+  "reference": "04140004VK5",
   "name": "Kismet",
   "rating": {
     "gph": 713.2,
@@ -197,6 +198,5 @@
       7.14,
       7.71
     ]
-  },
-  "reference": "04140004VK5"
+  }
 }

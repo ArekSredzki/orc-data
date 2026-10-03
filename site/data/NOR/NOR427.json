@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR427",
   "country": "NOR",
+  "reference": "03440004NKK",
   "name": "Jesss",
   "rating": {
     "gph": 661.1,
@@ -197,6 +198,5 @@
       8.68,
       11.81
     ]
-  },
-  "reference": "03440004NKK"
+  }
 }

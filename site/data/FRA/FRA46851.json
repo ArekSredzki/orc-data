@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA46851",
   "country": "FRA",
+  "reference": "04330004PV6",
   "name": "CAPRICCIO CUBE",
   "rating": {
     "gph": 588.6,
@@ -197,6 +198,5 @@
       8.58,
       10.84
     ]
-  },
-  "reference": "04330004PV6"
+  }
 }

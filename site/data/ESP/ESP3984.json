@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3984",
   "country": "ESP",
+  "reference": "03510004NND",
   "name": "CAMOMILA",
   "rating": {
     "gph": 579.7,
@@ -197,6 +198,5 @@
       8.58,
       10.43
     ]
-  },
-  "reference": "03510004NND"
+  }
 }

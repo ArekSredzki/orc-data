@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1232",
   "country": "GRE",
+  "reference": "03420004K4P",
   "name": "SOTIRIS JUNIOR",
   "rating": {
     "gph": 719.7,
@@ -197,6 +198,5 @@
       7.01,
       7.62
     ]
-  },
-  "reference": "03420004K4P"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GER8336",
   "country": "ESP",
+  "reference": "03510004FC1",
   "name": "BIP BIP",
   "rating": {
     "gph": 581.5,
@@ -197,6 +198,5 @@
       8.95,
       11.63
     ]
-  },
-  "reference": "03510004FC1"
+  }
 }

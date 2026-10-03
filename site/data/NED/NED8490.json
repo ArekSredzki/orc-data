@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8490",
   "country": "NED",
+  "reference": "04310004K1C",
   "name": "Pocket Rocket",
   "rating": {
     "gph": 756.5,
@@ -197,6 +198,5 @@
       6.78,
       8.22
     ]
-  },
-  "reference": "04310004K1C"
+  }
 }

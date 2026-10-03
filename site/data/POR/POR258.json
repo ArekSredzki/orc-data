@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR258",
   "country": "POR",
+  "reference": "03530004KQT",
   "name": "BAZ\u00d3FIAS",
   "rating": {
     "gph": 675.1,
@@ -197,6 +198,5 @@
       7.55,
       9.78
     ]
-  },
-  "reference": "03530004KQT"
+  }
 }

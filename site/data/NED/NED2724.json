@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2724",
   "country": "NED",
+  "reference": "04310004JTB",
   "name": "Zonnewind",
   "rating": {
     "gph": 701.4,
@@ -197,6 +198,5 @@
       6.9,
       7.85
     ]
-  },
-  "reference": "04310004JTB"
+  }
 }

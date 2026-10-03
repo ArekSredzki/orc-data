@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN1716",
   "country": "HUN",
+  "reference": "04890004NEK",
   "name": "ETELBURG",
   "rating": {
     "gph": 613.1,
@@ -197,6 +198,5 @@
       8.28,
       9.97
     ]
-  },
-  "reference": "04890004NEK"
+  }
 }

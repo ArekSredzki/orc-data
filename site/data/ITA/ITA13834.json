@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13834",
   "country": "ITA",
+  "reference": "03190004I77",
   "name": "ALCOR V",
   "rating": {
     "gph": 575.8,
@@ -197,6 +198,5 @@
       8.66,
       9.4
     ]
-  },
-  "reference": "03190004I77"
+  }
 }

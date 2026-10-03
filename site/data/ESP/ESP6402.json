@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6402",
   "country": "ESP",
+  "reference": "03510004W9R",
   "name": "AVANTI LANZAROTE",
   "rating": {
     "gph": 618.5,
@@ -197,6 +198,5 @@
       8.18,
       8.92
     ]
-  },
-  "reference": "03510004W9R"
+  }
 }

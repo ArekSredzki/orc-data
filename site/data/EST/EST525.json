@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST525",
   "country": "EST",
+  "reference": "04340004V4E",
   "name": "\u00dclle",
   "rating": {
     "gph": 643.9,
@@ -197,6 +198,5 @@
       7.36,
       7.92
     ]
-  },
-  "reference": "04340004V4E"
+  }
 }

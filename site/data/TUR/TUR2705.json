@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2705",
   "country": "TUR",
+  "reference": "045900048D2",
   "name": "MY OLGA",
   "rating": {
     "gph": 573.4,
@@ -197,6 +198,5 @@
       8.55,
       9.4
     ]
-  },
-  "reference": "045900048D2"
+  }
 }

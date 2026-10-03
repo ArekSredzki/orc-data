@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA89",
   "country": "USA",
+  "reference": "04560004FFA",
   "name": "JOY RIDE",
   "rating": {
     "gph": 564.7,
@@ -197,6 +198,5 @@
       8.46,
       10.29
     ]
-  },
-  "reference": "04560004FFA"
+  }
 }

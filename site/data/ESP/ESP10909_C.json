@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10909_C",
   "country": "ESP",
+  "reference": "03510004HPN",
   "name": "SEA ROSE",
   "rating": {
     "gph": 654.7,
@@ -197,6 +198,5 @@
       7.84,
       8.59
     ]
-  },
-  "reference": "03510004HPN"
+  }
 }

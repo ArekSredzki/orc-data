@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1020",
   "country": "GRE",
+  "reference": "03420004QQ2",
   "name": "EX-ANIMO",
   "rating": {
     "gph": 742.2,
@@ -197,6 +198,5 @@
       7.05,
       7.65
     ]
-  },
-  "reference": "03420004QQ2"
+  }
 }

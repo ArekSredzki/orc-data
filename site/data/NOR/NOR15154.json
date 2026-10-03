@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15154",
   "country": "NOR",
+  "reference": "03440004KEK",
   "name": "Aquasense",
   "rating": {
     "gph": 596.2,
@@ -197,6 +198,5 @@
       8.39,
       9.26
     ]
-  },
-  "reference": "03440004KEK"
+  }
 }

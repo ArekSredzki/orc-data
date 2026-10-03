@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA32864",
   "country": "USA",
+  "reference": "04560004J7S",
   "name": "ARROW",
   "rating": {
     "gph": 614.8,
@@ -197,6 +198,5 @@
       7.82,
       8.56
     ]
-  },
-  "reference": "04560004J7S"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN3674",
   "country": "FIN",
+  "reference": "04140004U3A",
   "name": "Any%",
   "rating": {
     "gph": 669.7,
@@ -197,6 +198,5 @@
       8.9,
       12.1
     ]
-  },
-  "reference": "04140004U3A"
+  }
 }

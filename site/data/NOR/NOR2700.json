@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR2700",
   "country": "NOR",
+  "reference": "03440004PN8",
   "name": "Norwegian Steam",
   "rating": {
     "gph": 683.0,
@@ -197,6 +198,5 @@
       7.63,
       8.65
     ]
-  },
-  "reference": "03440004PN8"
+  }
 }

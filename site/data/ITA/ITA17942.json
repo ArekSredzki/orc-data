@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17942",
   "country": "ITA",
+  "reference": "03190004ME0",
   "name": "VETARA",
   "rating": {
     "gph": 561.0,
@@ -197,6 +198,5 @@
       9.21,
       12.04
     ]
-  },
-  "reference": "03190004ME0"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GBR1252L",
   "country": "ITA",
+  "reference": "03190004I71",
   "name": "ANTOJO",
   "rating": {
     "gph": 570.3,
@@ -197,6 +198,5 @@
       8.34,
       10.15
     ]
-  },
-  "reference": "03190004I71"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/BOD10",
   "country": "GER",
+  "reference": "04150004SHV",
   "name": "ICE",
   "rating": {
     "gph": 506.2,
@@ -197,6 +198,5 @@
       13.26,
       15.88
     ]
-  },
-  "reference": "04150004SHV"
+  }
 }

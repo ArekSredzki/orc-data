@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6589_C",
   "country": "ESP",
+  "reference": "03510004LEO",
   "name": "BALATON",
   "rating": {
     "gph": 639.6,
@@ -197,6 +198,5 @@
       7.61,
       8.21
     ]
-  },
-  "reference": "03510004LEO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP14089",
   "country": "ESP",
+  "reference": "03510004FO2",
   "name": "LUNA",
   "rating": {
     "gph": 597.8,
@@ -197,6 +198,5 @@
       8.4,
       9.31
     ]
-  },
-  "reference": "03510004FO2"
+  }
 }

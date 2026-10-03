@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/SUI22",
   "country": "ESP",
+  "reference": "03510004C74",
   "name": "BONADVENTURE",
   "rating": {
     "gph": 585.8,
@@ -197,6 +198,5 @@
       8.07,
       9.19
     ]
-  },
-  "reference": "03510004C74"
+  }
 }

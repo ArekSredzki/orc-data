@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA208",
   "country": "USA",
+  "reference": "04560004PUQ",
   "name": "NUCKELAVEE",
   "rating": {
     "gph": 547.9,
@@ -197,6 +198,5 @@
       12.06,
       15.24
     ]
-  },
-  "reference": "04560004PUQ"
+  }
 }

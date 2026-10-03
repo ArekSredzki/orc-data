@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17300",
   "country": "ITA",
+  "reference": "03190004UKW",
   "name": "LOLI FAST",
   "rating": {
     "gph": 597.6,
@@ -197,6 +198,5 @@
       8.0,
       9.7
     ]
-  },
-  "reference": "03190004UKW"
+  }
 }

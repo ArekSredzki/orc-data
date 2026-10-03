@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14605",
   "country": "NOR",
+  "reference": "03440004RAJ",
   "name": "KataLise",
   "rating": {
     "gph": 615.9,
@@ -197,6 +198,5 @@
       7.98,
       8.69
     ]
-  },
-  "reference": "03440004RAJ"
+  }
 }

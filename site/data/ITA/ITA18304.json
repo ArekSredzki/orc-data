@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18304",
   "country": "ITA",
+  "reference": "03190004T2S",
   "name": "TETI",
   "rating": {
     "gph": 646.4,
@@ -197,6 +198,5 @@
       7.64,
       8.61
     ]
-  },
-  "reference": "03190004T2S"
+  }
 }

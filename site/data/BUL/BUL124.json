@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL124",
   "country": "BUL",
+  "reference": "03850004LME",
   "name": "Acid Drop",
   "rating": {
     "gph": 596.2,
@@ -197,6 +198,5 @@
       8.43,
       10.98
     ]
-  },
-  "reference": "03850004LME"
+  }
 }

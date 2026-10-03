@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7387",
   "country": "NED",
+  "reference": "04310004JWN",
   "name": "E-Motion",
   "rating": {
     "gph": 628.9,
@@ -197,6 +198,5 @@
       8.05,
       8.83
     ]
-  },
-  "reference": "04310004JWN"
+  }
 }

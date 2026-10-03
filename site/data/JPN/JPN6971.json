@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN6971",
   "country": "JPN",
+  "reference": "03390004JI8",
   "name": "LADY KANON",
   "rating": {
     "gph": 611.9,
@@ -197,6 +198,5 @@
       8.07,
       9.56
     ]
-  },
-  "reference": "03390004JI8"
+  }
 }

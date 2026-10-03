@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA190X35",
   "country": "ITA",
+  "reference": "03190004L8V",
   "name": "SPIRIT OF NERINA",
   "rating": {
     "gph": 592.0,
@@ -197,6 +198,5 @@
       8.1,
       10.26
     ]
-  },
-  "reference": "03190004L8V"
+  }
 }

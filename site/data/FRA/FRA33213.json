@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA33213",
   "country": "FRA",
+  "reference": "04330004ID6",
   "name": "PYAXARAM",
   "rating": {
     "gph": 629.7,
@@ -197,6 +198,5 @@
       7.98,
       8.95
     ]
-  },
-  "reference": "04330004ID6"
+  }
 }

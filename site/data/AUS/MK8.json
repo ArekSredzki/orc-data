@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/MK8",
   "country": "AUS",
+  "reference": "03020004QR0",
   "name": "Fontana",
   "rating": {
     "gph": 619.0,
@@ -197,6 +198,5 @@
       7.94,
       8.55
     ]
-  },
-  "reference": "03020004QR0"
+  }
 }

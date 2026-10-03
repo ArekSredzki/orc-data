@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11510_C",
   "country": "ESP",
+  "reference": "03510004PVR",
   "name": "ZORBA III",
   "rating": {
     "gph": 631.0,
@@ -197,6 +198,5 @@
       7.8,
       8.54
     ]
-  },
-  "reference": "03510004PVR"
+  }
 }

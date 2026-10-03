@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP998",
   "country": "ESP",
+  "reference": "03510004HTE",
   "name": "COLIBRI",
   "rating": {
     "gph": 666.3,
@@ -197,6 +198,5 @@
       8.55,
       11.67
     ]
-  },
-  "reference": "03510004HTE"
+  }
 }

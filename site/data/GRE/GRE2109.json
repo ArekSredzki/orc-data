@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2109",
   "country": "GRE",
+  "reference": "03420004HIS",
   "name": "ASTEROSKONI",
   "rating": {
     "gph": 660.0,
@@ -197,6 +198,5 @@
       7.34,
       7.88
     ]
-  },
-  "reference": "03420004HIS"
+  }
 }

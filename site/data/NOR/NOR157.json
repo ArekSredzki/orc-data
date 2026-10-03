@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR157",
   "country": "NOR",
+  "reference": "03440004NSQ",
   "name": "Hexagon",
   "rating": {
     "gph": 608.8,
@@ -197,6 +198,5 @@
       8.21,
       9.29
     ]
-  },
-  "reference": "03440004NSQ"
+  }
 }

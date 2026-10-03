@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5620",
   "country": "ESP",
+  "reference": "03510004J6P",
   "name": "YABADABA TOO",
   "rating": {
     "gph": 624.8,
@@ -197,6 +198,5 @@
       8.06,
       8.82
     ]
-  },
-  "reference": "03510004J6P"
+  }
 }

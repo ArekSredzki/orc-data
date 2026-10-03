@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/16203",
   "country": "USA",
+  "reference": "04560004V0F",
   "name": "HARIZON",
   "rating": {
     "gph": 726.1,
@@ -197,6 +198,5 @@
       6.43,
       6.9
     ]
-  },
-  "reference": "04560004V0F"
+  }
 }

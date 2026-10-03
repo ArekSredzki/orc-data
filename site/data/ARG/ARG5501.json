@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5501",
   "country": "ARG",
+  "reference": "03880004IFF",
   "name": "BACHAJO",
   "rating": {
     "gph": 604.8,
@@ -197,6 +198,5 @@
       8.18,
       9.11
     ]
-  },
-  "reference": "03880004IFF"
+  }
 }

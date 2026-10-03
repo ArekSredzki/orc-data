@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA38921",
   "country": "FRA",
+  "reference": "04330004QAT",
   "name": "SAMPILLE",
   "rating": {
     "gph": 700.6,
@@ -197,6 +198,5 @@
       7.02,
       7.65
     ]
-  },
-  "reference": "04330004QAT"
+  }
 }

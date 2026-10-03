@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS768",
   "country": "AUS",
+  "reference": "03020004V8B",
   "name": "BULLWINKLE 400",
   "rating": {
     "gph": 509.6,
@@ -197,6 +198,5 @@
       12.03,
       15.31
     ]
-  },
-  "reference": "03020004V8B"
+  }
 }

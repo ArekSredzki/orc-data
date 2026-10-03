@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/Fin7508",
   "country": "FIN",
+  "reference": "04140004R91",
   "name": "Suvihuvi",
   "rating": {
     "gph": 629.2,
@@ -197,6 +198,5 @@
       7.88,
       8.64
     ]
-  },
-  "reference": "04140004R91"
+  }
 }

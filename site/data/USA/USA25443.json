@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25443",
   "country": "USA",
+  "reference": "04560004U6E",
   "name": "DAKOTA",
   "rating": {
     "gph": 565.3,
@@ -197,6 +198,5 @@
       8.42,
       9.11
     ]
-  },
-  "reference": "04560004U6E"
+  }
 }

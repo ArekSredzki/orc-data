@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7386",
   "country": "ESP",
+  "reference": "03510004HFK",
   "name": "ZEPPELIN",
   "rating": {
     "gph": 657.5,
@@ -197,6 +198,5 @@
       7.64,
       8.29
     ]
-  },
-  "reference": "03510004HFK"
+  }
 }

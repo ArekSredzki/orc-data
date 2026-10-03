@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA70",
   "country": "USA",
+  "reference": "04560004LID",
   "name": "SITELLA",
   "rating": {
     "gph": 556.1,
@@ -197,6 +198,5 @@
       11.39,
       14.56
     ]
-  },
-  "reference": "04560004LID"
+  }
 }

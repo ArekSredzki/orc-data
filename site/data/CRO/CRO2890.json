@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2890",
   "country": "CRO",
+  "reference": "03620004BN3",
   "name": "Iron Man",
   "rating": {
     "gph": 553.1,
@@ -197,6 +198,5 @@
       8.75,
       9.63
     ]
-  },
-  "reference": "03620004BN3"
+  }
 }

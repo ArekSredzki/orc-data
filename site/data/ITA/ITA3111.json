@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA3111",
   "country": "ITA",
+  "reference": "03190004B7D",
   "name": "MATRIX",
   "rating": {
     "gph": 592.5,
@@ -197,6 +198,5 @@
       9.8,
       12.71
     ]
-  },
-  "reference": "03190004B7D"
+  }
 }

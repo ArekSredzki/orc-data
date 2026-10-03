@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4307_C",
   "country": "ESP",
+  "reference": "03510004BLK",
   "name": "SOLAR",
   "rating": {
     "gph": 613.7,
@@ -197,6 +198,5 @@
       8.1,
       8.88
     ]
-  },
-  "reference": "03510004BLK"
+  }
 }

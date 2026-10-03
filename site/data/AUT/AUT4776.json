@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT4776",
   "country": "AUT",
+  "reference": "03210004RO8",
   "name": "Elpida 2",
   "rating": {
     "gph": 630.7,
@@ -197,6 +198,5 @@
       7.99,
       8.93
     ]
-  },
-  "reference": "03210004RO8"
+  }
 }

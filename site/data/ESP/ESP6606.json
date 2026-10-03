@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6606",
   "country": "ESP",
+  "reference": "03510004VVU",
   "name": "MIRFAK",
   "rating": {
     "gph": 584.9,
@@ -197,6 +198,5 @@
       8.71,
       9.84
     ]
-  },
-  "reference": "03510004VVU"
+  }
 }

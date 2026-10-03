@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED1210",
   "country": "NED",
+  "reference": "04310004JSN",
   "name": "Farrwell",
   "rating": {
     "gph": 688.4,
@@ -197,6 +198,5 @@
       7.29,
       8.21
     ]
-  },
-  "reference": "04310004JSN"
+  }
 }

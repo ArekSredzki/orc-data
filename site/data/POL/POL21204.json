@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL21204",
   "country": "POL",
+  "reference": "04410004TE6",
   "name": "ALKIONE",
   "rating": {
     "gph": 804.2,
@@ -197,6 +198,5 @@
       6.68,
       7.26
     ]
-  },
-  "reference": "04410004TE6"
+  }
 }

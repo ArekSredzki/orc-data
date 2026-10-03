@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/HUN7002",
   "country": "CRO",
+  "reference": "03620004PRS",
   "name": "Wild Joe",
   "rating": {
     "gph": 411.6,
@@ -197,6 +198,5 @@
       14.24,
       18.39
     ]
-  },
-  "reference": "03620004PRS"
+  }
 }

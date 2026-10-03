@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15783",
   "country": "NOR",
+  "reference": "03440004TON",
   "name": "Wild One II",
   "rating": {
     "gph": 564.3,
@@ -197,6 +198,5 @@
       8.39,
       9.01
     ]
-  },
-  "reference": "03440004TON"
+  }
 }

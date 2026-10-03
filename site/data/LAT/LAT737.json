@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT737",
   "country": "LAT",
+  "reference": "04960004TMW",
   "name": "Madeleine",
   "rating": {
     "gph": 639.0,
@@ -197,6 +198,5 @@
       7.51,
       8.03
     ]
-  },
-  "reference": "04960004TMW"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU1560",
   "country": "ROU",
+  "reference": "05040004U8P",
   "name": "Abracadabra",
   "rating": {
     "gph": 664.4,
@@ -197,6 +198,5 @@
       7.29,
       7.89
     ]
-  },
-  "reference": "05040004U8P"
+  }
 }

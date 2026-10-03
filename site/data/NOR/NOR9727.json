@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9727",
   "country": "NOR",
+  "reference": "03440004OEM",
   "name": "Fragancia",
   "rating": {
     "gph": 680.6,
@@ -197,6 +198,5 @@
       7.36,
       8.02
     ]
-  },
-  "reference": "03440004OEM"
+  }
 }

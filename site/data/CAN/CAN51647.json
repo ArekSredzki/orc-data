@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN51647",
   "country": "CAN",
+  "reference": "03430004I90",
   "name": "Volante",
   "rating": {
     "gph": 592.1,
@@ -197,6 +198,5 @@
       7.86,
       8.51
     ]
-  },
-  "reference": "03430004I90"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11105",
   "country": "ESP",
+  "reference": "03510004PEM",
   "name": "REGULUS V",
   "rating": {
     "gph": 616.3,
@@ -197,6 +198,5 @@
       7.71,
       9.61
     ]
-  },
-  "reference": "03510004PEM"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3161",
   "country": "NED",
+  "reference": "04310004JTN",
   "name": "FOOLPROOF",
   "rating": {
     "gph": 726.9,
@@ -197,6 +198,5 @@
       7.01,
       7.9
     ]
-  },
-  "reference": "04310004JTN"
+  }
 }

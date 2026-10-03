@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3372",
   "country": "ESP",
+  "reference": "03510004TEI",
   "name": "EXIT",
   "rating": {
     "gph": 550.4,
@@ -197,6 +198,5 @@
       9.13,
       9.95
     ]
-  },
-  "reference": "03510004TEI"
+  }
 }

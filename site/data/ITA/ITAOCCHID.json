@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAOCCHID",
   "country": "ITA",
+  "reference": "03190004S52",
   "name": "OCCHI DOLCI",
   "rating": {
     "gph": 635.1,
@@ -197,6 +198,5 @@
       7.75,
       8.35
     ]
-  },
-  "reference": "03190004S52"
+  }
 }

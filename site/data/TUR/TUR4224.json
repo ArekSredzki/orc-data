@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR4224",
   "country": "TUR",
+  "reference": "04590004J3K",
   "name": "SENSEI",
   "rating": {
     "gph": 588.8,
@@ -197,6 +198,5 @@
       8.31,
       9.13
     ]
-  },
-  "reference": "04590004J3K"
+  }
 }

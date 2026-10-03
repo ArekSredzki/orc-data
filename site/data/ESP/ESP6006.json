@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6006",
   "country": "ESP",
+  "reference": "03510004ESE",
   "name": "CROSSWIND",
   "rating": {
     "gph": 556.0,
@@ -197,6 +198,5 @@
       9.03,
       11.1
     ]
-  },
-  "reference": "03510004ESE"
+  }
 }

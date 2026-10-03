@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16399",
   "country": "ITA",
+  "reference": "03190004R7K",
   "name": "ARYA",
   "rating": {
     "gph": 521.6,
@@ -197,6 +198,5 @@
       9.11,
       10.54
     ]
-  },
-  "reference": "03190004R7K"
+  }
 }

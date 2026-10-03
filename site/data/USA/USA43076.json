@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA43076",
   "country": "USA",
+  "reference": "04560004V66",
   "name": "BENJAMMIN",
   "rating": {
     "gph": 645.5,
@@ -197,6 +198,5 @@
       7.54,
       8.29
     ]
-  },
-  "reference": "04560004V66"
+  }
 }

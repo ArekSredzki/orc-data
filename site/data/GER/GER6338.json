@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6338",
   "country": "GER",
+  "reference": "04150004MH2",
   "name": "CARPE DIEM",
   "rating": {
     "gph": 603.7,
@@ -197,6 +198,5 @@
       8.37,
       9.19
     ]
-  },
-  "reference": "04150004MH2"
+  }
 }

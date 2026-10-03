@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR700",
   "country": "TUR",
+  "reference": "04590004N2H",
   "name": "ATIYE",
   "rating": {
     "gph": 591.8,
@@ -197,6 +198,5 @@
       7.8,
       9.35
     ]
-  },
-  "reference": "04590004N2H"
+  }
 }

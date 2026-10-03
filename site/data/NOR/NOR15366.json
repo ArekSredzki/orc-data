@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15366",
   "country": "NOR",
+  "reference": "03440004OEN",
   "name": "Mickan III",
   "rating": {
     "gph": 672.0,
@@ -197,6 +198,5 @@
       7.56,
       8.3
     ]
-  },
-  "reference": "03440004OEN"
+  }
 }

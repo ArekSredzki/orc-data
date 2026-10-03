@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8260",
   "country": "ESP",
+  "reference": "03510004BCM",
   "name": "NIRVANA TRES",
   "rating": {
     "gph": 564.6,
@@ -197,6 +198,5 @@
       8.5,
       9.16
     ]
-  },
-  "reference": "03510004BCM"
+  }
 }

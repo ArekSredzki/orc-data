@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17546",
   "country": "ITA",
+  "reference": "03190004CBH",
   "name": "NESSUNO",
   "rating": {
     "gph": 564.5,
@@ -197,6 +198,5 @@
       8.52,
       9.26
     ]
-  },
-  "reference": "03190004CBH"
+  }
 }

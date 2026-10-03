@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS39",
   "country": "AUS",
+  "reference": "03020004UAV",
   "name": "CONDOR",
   "rating": {
     "gph": 483.6,
@@ -197,6 +198,5 @@
       12.26,
       15.67
     ]
-  },
-  "reference": "03020004UAV"
+  }
 }

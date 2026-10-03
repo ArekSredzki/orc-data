@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11718",
   "country": "NOR",
+  "reference": "03440004NKQ",
   "name": "Fast Raven",
   "rating": {
     "gph": 649.1,
@@ -197,6 +198,5 @@
       7.82,
       8.54
     ]
-  },
-  "reference": "03440004NKQ"
+  }
 }

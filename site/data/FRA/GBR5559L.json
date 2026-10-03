@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR5559L",
   "country": "FRA",
+  "reference": "04330004TC2",
   "name": "LIBERTINA",
   "rating": {
     "gph": 560.9,
@@ -197,6 +198,5 @@
       8.48,
       9.4
     ]
-  },
-  "reference": "04330004TC2"
+  }
 }

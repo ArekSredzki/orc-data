@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7666",
   "country": "GER",
+  "reference": "04150004JEQ",
   "name": "JAM",
   "rating": {
     "gph": 611.6,
@@ -197,6 +198,5 @@
       9.37,
       12.42
     ]
-  },
-  "reference": "04150004JEQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI243",
   "country": "SUI",
+  "reference": "03080004K6S",
   "name": "PAUA",
   "rating": {
     "gph": 629.0,
@@ -197,6 +198,5 @@
       7.58,
       8.2
     ]
-  },
-  "reference": "03080004K6S"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/239",
   "country": "USA",
+  "reference": "04560004NI1",
   "name": "HERON",
   "rating": {
     "gph": 613.6,
@@ -197,6 +198,5 @@
       7.93,
       8.69
     ]
-  },
-  "reference": "04560004NI1"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI11",
   "country": "SUI",
+  "reference": "030800048NA",
   "name": "PAENGDORA",
   "rating": {
     "gph": 642.6,
@@ -197,6 +198,5 @@
       9.73,
       12.8
     ]
-  },
-  "reference": "030800048NA"
+  }
 }

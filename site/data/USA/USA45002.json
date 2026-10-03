@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA45002",
   "country": "USA",
+  "reference": "04560004VKS",
   "name": "Acadia",
   "rating": {
     "gph": 533.5,
@@ -197,6 +198,5 @@
       8.92,
       10.41
     ]
-  },
-  "reference": "04560004VKS"
+  }
 }

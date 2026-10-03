@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED5082",
   "country": "NED",
+  "reference": "04310004TNU",
   "name": "Paladijn",
   "rating": {
     "gph": 614.2,
@@ -197,6 +198,5 @@
       8.28,
       9.38
     ]
-  },
-  "reference": "04310004TNU"
+  }
 }

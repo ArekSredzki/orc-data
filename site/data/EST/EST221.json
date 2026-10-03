@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST221",
   "country": "EST",
+  "reference": "04340004SB2",
   "name": "EMERALD",
   "rating": {
     "gph": 653.3,
@@ -197,6 +198,5 @@
       7.67,
       8.33
     ]
-  },
-  "reference": "04340004SB2"
+  }
 }

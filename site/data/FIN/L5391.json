@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/L5391",
   "country": "FIN",
+  "reference": "04140004Q90",
   "name": "Tiffany",
   "rating": {
     "gph": 610.9,
@@ -197,6 +198,5 @@
       8.19,
       9.2
     ]
-  },
-  "reference": "04140004Q90"
+  }
 }

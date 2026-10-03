@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17209",
   "country": "ITA",
+  "reference": "03190004TSH",
   "name": "SARCHIAPONE FUORISERIE",
   "rating": {
     "gph": 610.4,
@@ -197,6 +198,5 @@
       7.89,
       9.8
     ]
-  },
-  "reference": "03190004TSH"
+  }
 }

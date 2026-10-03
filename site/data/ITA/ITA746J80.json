@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA746J80",
   "country": "ITA",
+  "reference": "03190004B7B",
   "name": "JOKER",
   "rating": {
     "gph": 664.0,
@@ -197,6 +198,5 @@
       8.72,
       11.82
     ]
-  },
-  "reference": "03190004B7B"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53504",
   "country": "FRA",
+  "reference": "04330004OT2",
   "name": "UMUNTU",
   "rating": {
     "gph": 572.9,
@@ -197,6 +198,5 @@
       8.67,
       9.49
     ]
-  },
-  "reference": "04330004OT2"
+  }
 }

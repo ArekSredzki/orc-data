@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA10777",
   "country": "USA",
+  "reference": "04560004M3R",
   "name": "TIME MACHINE",
   "rating": {
     "gph": 548.1,
@@ -197,6 +198,5 @@
       8.97,
       11.47
     ]
-  },
-  "reference": "04560004M3R"
+  }
 }

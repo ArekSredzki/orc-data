@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1555",
   "country": "RSA",
+  "reference": "0462000487R",
   "name": "KEG",
   "rating": {
     "gph": 754.1,
@@ -197,6 +198,5 @@
       6.84,
       7.36
     ]
-  },
-  "reference": "0462000487R"
+  }
 }

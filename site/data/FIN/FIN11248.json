@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11248",
   "country": "FIN",
+  "reference": "04140004Q8C",
   "name": "Aurora",
   "rating": {
     "gph": 688.2,
@@ -197,6 +198,5 @@
       7.33,
       7.97
     ]
-  },
-  "reference": "04140004Q8C"
+  }
 }

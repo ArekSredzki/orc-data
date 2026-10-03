@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2939",
   "country": "CRO",
+  "reference": "03620004LWS",
   "name": "Kalumina",
   "rating": {
     "gph": 648.5,
@@ -197,6 +198,5 @@
       8.0,
       8.82
     ]
-  },
-  "reference": "03620004LWS"
+  }
 }

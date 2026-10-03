@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/R138",
   "country": "AUS",
+  "reference": "03020004USU",
   "name": "ADRENALIN",
   "rating": {
     "gph": 568.6,
@@ -197,6 +198,5 @@
       8.7,
       9.92
     ]
-  },
-  "reference": "03020004USU"
+  }
 }

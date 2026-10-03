@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12924",
   "country": "ITA",
+  "reference": "03190004MA6",
   "name": "VENTO DELL'ESTE",
   "rating": {
     "gph": 648.7,
@@ -197,6 +198,5 @@
       9.7,
       12.79
     ]
-  },
-  "reference": "03190004MA6"
+  }
 }

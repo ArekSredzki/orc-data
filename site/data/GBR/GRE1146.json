@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GRE1146",
   "country": "GBR",
+  "reference": "03860004C2O",
   "name": "Racer X",
   "rating": {
     "gph": 614.8,
@@ -197,6 +198,5 @@
       8.14,
       10.26
     ]
-  },
-  "reference": "03860004C2O"
+  }
 }

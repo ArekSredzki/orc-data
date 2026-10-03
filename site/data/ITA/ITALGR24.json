@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITALGR24",
   "country": "ITA",
+  "reference": "03190004RFU",
   "name": "ALEGRE",
   "rating": {
     "gph": 549.4,
@@ -197,6 +198,5 @@
       8.82,
       9.86
     ]
-  },
-  "reference": "03190004RFU"
+  }
 }

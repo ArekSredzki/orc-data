@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1533",
   "country": "GRE",
+  "reference": "03420004K3V",
   "name": "KIRKI",
   "rating": {
     "gph": 651.4,
@@ -197,6 +198,5 @@
       7.52,
       8.07
     ]
-  },
-  "reference": "03420004K3V"
+  }
 }

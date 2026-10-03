@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18066",
   "country": "ITA",
+  "reference": "03190004J5S",
   "name": "ATHIRAT",
   "rating": {
     "gph": 541.5,
@@ -197,6 +198,5 @@
       8.55,
       9.54
     ]
-  },
-  "reference": "03190004J5S"
+  }
 }

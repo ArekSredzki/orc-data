@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25329",
   "country": "USA",
+  "reference": "04560004OJL",
   "name": "PHOENIX",
   "rating": {
     "gph": 569.1,
@@ -197,6 +198,5 @@
       8.4,
       10.22
     ]
-  },
-  "reference": "04560004OJL"
+  }
 }

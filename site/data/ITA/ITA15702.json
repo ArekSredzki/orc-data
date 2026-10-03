@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15702",
   "country": "ITA",
+  "reference": "03190004QUM",
   "name": "MISS LILLI",
   "rating": {
     "gph": 637.6,
@@ -197,6 +198,5 @@
       7.79,
       8.56
     ]
-  },
-  "reference": "03190004QUM"
+  }
 }

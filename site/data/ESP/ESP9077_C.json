@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9077_C",
   "country": "ESP",
+  "reference": "035100048JQ",
   "name": "SAMOA",
   "rating": {
     "gph": 686.9,
@@ -197,6 +198,5 @@
       7.04,
       7.55
     ]
-  },
-  "reference": "035100048JQ"
+  }
 }

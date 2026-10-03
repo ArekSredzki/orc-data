@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/5547",
   "country": "GER",
+  "reference": "03520004UBV",
   "name": "CHOC",
   "rating": {
     "gph": 743.0,
@@ -197,6 +198,5 @@
       7.05,
       7.81
     ]
-  },
-  "reference": "03520004UBV"
+  }
 }

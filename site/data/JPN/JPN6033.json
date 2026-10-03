@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN6033",
   "country": "JPN",
+  "reference": "03390004W0A",
   "name": "VOYAGER 5",
   "rating": {
     "gph": 629.6,
@@ -197,6 +198,5 @@
       7.76,
       8.83
     ]
-  },
-  "reference": "03390004W0A"
+  }
 }

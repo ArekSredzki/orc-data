@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/URU265",
   "country": "ARG",
+  "reference": "03880004N11",
   "name": "AROSA XI",
   "rating": {
     "gph": 602.7,
@@ -197,6 +198,5 @@
       8.23,
       8.98
     ]
-  },
-  "reference": "03880004N11"
+  }
 }

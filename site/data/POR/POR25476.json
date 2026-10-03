@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR25476",
   "country": "POR",
+  "reference": "03530004VMH",
   "name": "IMPULSIVE",
   "rating": {
     "gph": 663.2,
@@ -197,6 +198,5 @@
       7.75,
       10.61
     ]
-  },
-  "reference": "03530004VMH"
+  }
 }

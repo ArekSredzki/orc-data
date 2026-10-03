@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9713",
   "country": "ESP",
+  "reference": "03510004BER",
   "name": "DEE DEE",
   "rating": {
     "gph": 588.1,
@@ -197,6 +198,5 @@
       8.07,
       8.73
     ]
-  },
-  "reference": "03510004BER"
+  }
 }

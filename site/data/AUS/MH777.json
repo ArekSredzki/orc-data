@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/MH777",
   "country": "AUS",
+  "reference": "03020004UKN",
   "name": "LAZY DOG",
   "rating": {
     "gph": 504.2,
@@ -197,6 +198,5 @@
       12.88,
       16.23
     ]
-  },
-  "reference": "03020004UKN"
+  }
 }

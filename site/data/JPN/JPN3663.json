@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN3663",
   "country": "JPN",
+  "reference": "03390004LVU",
   "name": "EBB TIDE",
   "rating": {
     "gph": 582.7,
@@ -197,6 +198,5 @@
       8.7,
       10.67
     ]
-  },
-  "reference": "03390004LVU"
+  }
 }

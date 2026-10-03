@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2602",
   "country": "LTU",
+  "reference": "03590004V3I",
   "name": "KETURI V\u0116JAI",
   "rating": {
     "gph": 561.3,
@@ -197,6 +198,5 @@
       8.52,
       10.43
     ]
-  },
-  "reference": "03590004V3I"
+  }
 }

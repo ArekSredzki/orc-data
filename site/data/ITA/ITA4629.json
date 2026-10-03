@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA4629",
   "country": "ITA",
+  "reference": "03190004U6C",
   "name": "RAFFICA",
   "rating": {
     "gph": 513.6,
@@ -197,6 +198,5 @@
       9.63,
       11.91
     ]
-  },
-  "reference": "03190004U6C"
+  }
 }

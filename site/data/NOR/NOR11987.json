@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11987",
   "country": "NOR",
+  "reference": "03440004L46",
   "name": "Steinbiten III",
   "rating": {
     "gph": 637.2,
@@ -197,6 +198,5 @@
       7.65,
       8.24
     ]
-  },
-  "reference": "03440004L46"
+  }
 }

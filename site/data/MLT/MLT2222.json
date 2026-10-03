@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/MLT2222",
   "country": "MLT",
+  "reference": "03230004UP1",
   "name": "Artie III",
   "rating": {
     "gph": 490.5,
@@ -197,6 +198,5 @@
       11.98,
       15.31
     ]
-  },
-  "reference": "03230004UP1"
+  }
 }

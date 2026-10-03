@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8910",
   "country": "NED",
+  "reference": "04310004K21",
   "name": "SK-01",
   "rating": {
     "gph": 612.4,
@@ -197,6 +198,5 @@
       8.71,
       10.55
     ]
-  },
-  "reference": "04310004K21"
+  }
 }

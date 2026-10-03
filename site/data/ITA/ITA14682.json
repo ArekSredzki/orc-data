@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14682",
   "country": "ITA",
+  "reference": "03190004R49",
   "name": "VALE'",
   "rating": {
     "gph": 611.2,
@@ -197,6 +198,5 @@
       7.74,
       8.32
     ]
-  },
-  "reference": "03190004R49"
+  }
 }

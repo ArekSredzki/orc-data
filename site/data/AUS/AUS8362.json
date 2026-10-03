@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS8362",
   "country": "AUS",
+  "reference": "03020004W1J",
   "name": "DIRTY DEEDS",
   "rating": {
     "gph": 498.2,
@@ -197,6 +198,5 @@
       12.03,
       15.19
     ]
-  },
-  "reference": "03020004W1J"
+  }
 }

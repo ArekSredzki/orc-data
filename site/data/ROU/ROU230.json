@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU230",
   "country": "ROU",
+  "reference": "05040004RN4",
   "name": "Hope",
   "rating": {
     "gph": 662.9,
@@ -197,6 +198,5 @@
       7.4,
       7.92
     ]
-  },
-  "reference": "05040004RN4"
+  }
 }

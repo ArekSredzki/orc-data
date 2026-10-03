@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2974",
   "country": "CRO",
+  "reference": "03620004W67",
   "name": "Pavana",
   "rating": {
     "gph": 608.4,
@@ -197,6 +198,5 @@
       8.27,
       8.91
     ]
-  },
-  "reference": "03620004W67"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm37",
   "country": "AUS",
+  "reference": "03020004UVO",
   "name": "Fargo",
   "rating": {
     "gph": 526.2,
@@ -197,6 +198,5 @@
       11.07,
       14.31
     ]
-  },
-  "reference": "03020004UVO"
+  }
 }

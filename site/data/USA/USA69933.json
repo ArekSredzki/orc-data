@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA69933",
   "country": "USA",
+  "reference": "04560004F8D",
   "name": "Ripple",
   "rating": {
     "gph": 537.5,
@@ -197,6 +198,5 @@
       11.27,
       14.5
     ]
-  },
-  "reference": "04560004F8D"
+  }
 }

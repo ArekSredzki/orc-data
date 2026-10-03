@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA14787",
   "country": "FRA",
+  "reference": "04330004CCM",
   "name": "MAJOLAN",
   "rating": {
     "gph": 666.7,
@@ -197,6 +198,5 @@
       7.58,
       8.4
     ]
-  },
-  "reference": "04330004CCM"
+  }
 }

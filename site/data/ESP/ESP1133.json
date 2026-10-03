@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1133",
   "country": "ESP",
+  "reference": "03510004TVK",
   "name": "GRUPO BAZAN",
   "rating": {
     "gph": 668.7,
@@ -197,6 +198,5 @@
       8.61,
       11.67
     ]
-  },
-  "reference": "03510004TVK"
+  }
 }

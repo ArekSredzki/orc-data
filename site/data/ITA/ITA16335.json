@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16335",
   "country": "ITA",
+  "reference": "03190004J69",
   "name": "PROSPETTICA",
   "rating": {
     "gph": 587.2,
@@ -197,6 +198,5 @@
       8.08,
       8.78
     ]
-  },
-  "reference": "03190004J69"
+  }
 }

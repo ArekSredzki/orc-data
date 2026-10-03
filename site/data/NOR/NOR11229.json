@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11229",
   "country": "NOR",
+  "reference": "03440004O9V",
   "name": "HeiltVilt",
   "rating": {
     "gph": 589.8,
@@ -197,6 +198,5 @@
       8.4,
       9.2
     ]
-  },
-  "reference": "03440004O9V"
+  }
 }

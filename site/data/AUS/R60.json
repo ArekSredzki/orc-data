@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/R60",
   "country": "AUS",
+  "reference": "03020004T4N",
   "name": "ALPHA TAURI",
   "rating": {
     "gph": 567.2,
@@ -197,6 +198,5 @@
       8.58,
       10.52
     ]
-  },
-  "reference": "03020004T4N"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA31452",
   "country": "USA",
+  "reference": "04560004S5B",
   "name": "KATANA",
   "rating": {
     "gph": 431.3,
@@ -197,6 +198,5 @@
       13.5,
       16.85
     ]
-  },
-  "reference": "04560004S5B"
+  }
 }

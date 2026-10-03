@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13410",
   "country": "ITA",
+  "reference": "03190004I8B",
   "name": "CAPITANI CORAGGIOSI",
   "rating": {
     "gph": 639.3,
@@ -197,6 +198,5 @@
       7.69,
       8.41
     ]
-  },
-  "reference": "03190004I8B"
+  }
 }

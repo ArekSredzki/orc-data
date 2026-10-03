@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU122",
   "country": "ROU",
+  "reference": "05040004RDT",
   "name": "Nanna",
   "rating": {
     "gph": 645.1,
@@ -197,6 +198,5 @@
       8.29,
       9.02
     ]
-  },
-  "reference": "05040004RDT"
+  }
 }

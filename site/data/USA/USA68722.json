@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA68722",
   "country": "USA",
+  "reference": "04560004VJA",
   "name": "MOXIE",
   "rating": {
     "gph": 568.9,
@@ -197,6 +198,5 @@
       8.34,
       10.04
     ]
-  },
-  "reference": "04560004VJA"
+  }
 }

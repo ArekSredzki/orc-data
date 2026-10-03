@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP551_C",
   "country": "ESP",
+  "reference": "03510004BH2",
   "name": "UN MAR SIN BARRERAS",
   "rating": {
     "gph": 745.9,
@@ -197,6 +198,5 @@
       6.95,
       8.81
     ]
-  },
-  "reference": "03510004BH2"
+  }
 }

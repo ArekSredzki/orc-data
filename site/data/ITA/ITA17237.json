@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17237",
   "country": "ITA",
+  "reference": "03190004BDR",
   "name": "IEMANJA",
   "rating": {
     "gph": 613.1,
@@ -197,6 +198,5 @@
       7.85,
       8.92
     ]
-  },
-  "reference": "03190004BDR"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1162",
   "country": "GRE",
+  "reference": "03420004PSW",
   "name": "COSMAR",
   "rating": {
     "gph": 684.0,
@@ -197,6 +198,5 @@
       7.63,
       8.34
     ]
-  },
-  "reference": "03420004PSW"
+  }
 }

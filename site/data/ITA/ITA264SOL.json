@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA264SOL",
   "country": "ITA",
+  "reference": "03190004VLR",
   "name": "BLACK JACK",
   "rating": {
     "gph": 719.0,
@@ -197,6 +198,5 @@
       7.65,
       9.95
     ]
-  },
-  "reference": "03190004VLR"
+  }
 }

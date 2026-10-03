@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA9958",
   "country": "ITA",
+  "reference": "03190004MNI",
   "name": "SUGAR BABE",
   "rating": {
     "gph": 675.1,
@@ -197,6 +198,5 @@
       7.36,
       8.05
     ]
-  },
-  "reference": "03190004MNI"
+  }
 }

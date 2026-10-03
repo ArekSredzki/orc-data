@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GER6484",
   "country": "FRA",
+  "reference": "04330004J1D",
   "name": "AKKA",
   "rating": {
     "gph": 602.3,
@@ -197,6 +198,5 @@
       8.32,
       9.38
     ]
-  },
-  "reference": "04330004J1D"
+  }
 }

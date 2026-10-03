@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17844",
   "country": "ITA",
+  "reference": "03190004I9P",
   "name": "LA MIA PICCOLA",
   "rating": {
     "gph": 641.8,
@@ -197,6 +198,5 @@
       7.87,
       8.51
     ]
-  },
-  "reference": "03190004I9P"
+  }
 }

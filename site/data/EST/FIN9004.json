@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/FIN9004",
   "country": "EST",
+  "reference": "04340004UPI",
   "name": "PILOILLERI III",
   "rating": {
     "gph": 656.0,
@@ -197,6 +198,5 @@
       7.42,
       8.19
     ]
-  },
-  "reference": "04340004UPI"
+  }
 }

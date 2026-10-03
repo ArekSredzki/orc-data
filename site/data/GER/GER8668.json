@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8668",
   "country": "GER",
+  "reference": "03520004I3L",
   "name": "SCHORCH",
   "rating": {
     "gph": 451.9,
@@ -197,6 +198,5 @@
       11.03,
       12.83
     ]
-  },
-  "reference": "03520004I3L"
+  }
 }

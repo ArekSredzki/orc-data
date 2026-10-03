@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/ITA17630",
   "country": "FRA",
+  "reference": "04330004HOM",
   "name": "K'MENA",
   "rating": {
     "gph": 611.7,
@@ -197,6 +198,5 @@
       7.78,
       9.79
     ]
-  },
-  "reference": "04330004HOM"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA213X35",
   "country": "ITA",
+  "reference": "03190004P1M",
   "name": "REWIND",
   "rating": {
     "gph": 597.2,
@@ -197,6 +198,5 @@
       7.92,
       9.87
     ]
-  },
-  "reference": "03190004P1M"
+  }
 }

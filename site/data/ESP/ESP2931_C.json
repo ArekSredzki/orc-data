@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2931_C",
   "country": "ESP",
+  "reference": "03510004N3H",
   "name": "MAS NUNCA",
   "rating": {
     "gph": 623.7,
@@ -197,6 +198,5 @@
       7.78,
       8.42
     ]
-  },
-  "reference": "03510004N3H"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU21412",
   "country": "ROU",
+  "reference": "05040004KIT",
   "name": "Santa Lucia",
   "rating": {
     "gph": 634.7,
@@ -197,6 +198,5 @@
       7.71,
       8.26
     ]
-  },
-  "reference": "05040004KIT"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15831",
   "country": "ITA",
+  "reference": "03190004IEH",
   "name": "MIZAR 2.0",
   "rating": {
     "gph": 628.2,
@@ -197,6 +198,5 @@
       7.97,
       9.61
     ]
-  },
-  "reference": "03190004IEH"
+  }
 }

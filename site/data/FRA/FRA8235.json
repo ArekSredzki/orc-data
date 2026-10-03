@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA8235",
   "country": "FRA",
+  "reference": "04330004RTJ",
   "name": "LOUP GAROU",
   "rating": {
     "gph": 710.3,
@@ -197,6 +198,5 @@
       7.09,
       8.31
     ]
-  },
-  "reference": "04330004RTJ"
+  }
 }

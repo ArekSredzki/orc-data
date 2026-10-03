@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/43963",
   "country": "USA",
+  "reference": "04560004RST",
   "name": "DREAMLINE",
   "rating": {
     "gph": 620.7,
@@ -197,6 +198,5 @@
       8.53,
       11.7
     ]
-  },
-  "reference": "04560004RST"
+  }
 }

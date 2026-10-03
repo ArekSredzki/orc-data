@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL000KS9",
   "country": "POL",
+  "reference": "04410004OSF",
   "name": "SELKIE JOHNKA",
   "rating": {
     "gph": 587.6,
@@ -197,6 +198,5 @@
       8.42,
       9.37
     ]
-  },
-  "reference": "04410004OSF"
+  }
 }

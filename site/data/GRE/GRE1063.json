@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1063",
   "country": "GRE",
+  "reference": "03420004I4I",
   "name": "IRIS",
   "rating": {
     "gph": 666.4,
@@ -197,6 +198,5 @@
       7.61,
       8.3
     ]
-  },
-  "reference": "03420004I4I"
+  }
 }

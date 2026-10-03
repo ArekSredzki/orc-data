@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8150",
   "country": "NED",
+  "reference": "04310004K0P",
   "name": "Sea's Out",
   "rating": {
     "gph": 617.4,
@@ -197,6 +198,5 @@
       8.13,
       8.92
     ]
-  },
-  "reference": "04310004K0P"
+  }
 }

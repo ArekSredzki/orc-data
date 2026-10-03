@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9309_C",
   "country": "ESP",
+  "reference": "03510004B8C",
   "name": "DANAR TERCERO",
   "rating": {
     "gph": 618.4,
@@ -197,6 +198,5 @@
       7.86,
       8.53
     ]
-  },
-  "reference": "03510004B8C"
+  }
 }

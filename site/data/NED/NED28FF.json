@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED28FF",
   "country": "NED",
+  "reference": "04310004JTE",
   "name": "Modoc",
   "rating": {
     "gph": 752.8,
@@ -197,6 +198,5 @@
       6.88,
       8.75
     ]
-  },
-  "reference": "04310004JTE"
+  }
 }

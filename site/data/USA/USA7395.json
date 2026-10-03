@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA7395",
   "country": "USA",
+  "reference": "04560004KJP",
   "name": "ZULU TANGO",
   "rating": {
     "gph": 558.5,
@@ -197,6 +198,5 @@
       9.13,
       11.56
     ]
-  },
-  "reference": "04560004KJP"
+  }
 }

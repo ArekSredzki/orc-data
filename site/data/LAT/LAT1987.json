@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT1987",
   "country": "LAT",
+  "reference": "04960004WM7",
   "name": "Venta",
   "rating": {
     "gph": 623.8,
@@ -197,6 +198,5 @@
       8.15,
       8.8
     ]
-  },
-  "reference": "04960004WM7"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST359",
   "country": "EST",
+  "reference": "04340004RSC",
   "name": "MARTA",
   "rating": {
     "gph": 647.2,
@@ -197,6 +198,5 @@
       9.38,
       12.41
     ]
-  },
-  "reference": "04340004RSC"
+  }
 }

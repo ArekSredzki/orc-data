@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP475_C",
   "country": "ESP",
+  "reference": "03510004FA3",
   "name": "ADELAIDE",
   "rating": {
     "gph": 636.9,
@@ -197,6 +198,5 @@
       7.82,
       8.77
     ]
-  },
-  "reference": "03510004FA3"
+  }
 }

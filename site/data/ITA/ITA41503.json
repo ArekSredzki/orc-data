@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA41503",
   "country": "ITA",
+  "reference": "03190004JEJ",
   "name": "GREY GOOSE",
   "rating": {
     "gph": 533.7,
@@ -197,6 +198,5 @@
       9.61,
       12.12
     ]
-  },
-  "reference": "03190004JEJ"
+  }
 }

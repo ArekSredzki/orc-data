@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10224",
   "country": "FIN",
+  "reference": "04140004WWH",
   "name": "Lacrima II",
   "rating": {
     "gph": 685.3,
@@ -197,6 +198,5 @@
       7.28,
       7.9
     ]
-  },
-  "reference": "04140004WWH"
+  }
 }

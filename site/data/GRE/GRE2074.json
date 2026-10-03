@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2074",
   "country": "GRE",
+  "reference": "03420004QSP",
   "name": "FORMION",
   "rating": {
     "gph": 680.7,
@@ -197,6 +198,5 @@
       7.59,
       8.24
     ]
-  },
-  "reference": "03420004QSP"
+  }
 }

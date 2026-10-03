@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI34",
   "country": "SUI",
+  "reference": "03080004HAM",
   "name": "SYMPHONY",
   "rating": {
     "gph": 625.2,
@@ -197,6 +198,5 @@
       10.19,
       13.22
     ]
-  },
-  "reference": "03080004HAM"
+  }
 }

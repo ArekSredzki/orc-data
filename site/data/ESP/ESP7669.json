@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7669",
   "country": "ESP",
+  "reference": "03510004VPL",
   "name": "FALAPOUCO",
   "rating": {
     "gph": 606.6,
@@ -197,6 +198,5 @@
       8.35,
       9.2
     ]
-  },
-  "reference": "03510004VPL"
+  }
 }

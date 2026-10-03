@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA424",
   "country": "USA",
+  "reference": "04560004UN6",
   "name": "FLYING PIG",
   "rating": {
     "gph": 615.0,
@@ -197,6 +198,5 @@
       7.84,
       9.79
     ]
-  },
-  "reference": "04560004UN6"
+  }
 }

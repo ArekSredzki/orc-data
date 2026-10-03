@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1973",
   "country": "ITA",
+  "reference": "03190004AWN",
   "name": "TOMIRA CUBED",
   "rating": {
     "gph": 559.8,
@@ -197,6 +198,5 @@
       8.48,
       9.22
     ]
-  },
-  "reference": "03190004AWN"
+  }
 }

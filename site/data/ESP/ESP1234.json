@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1234",
   "country": "ESP",
+  "reference": "03510004VSH",
   "name": "BAZAN",
   "rating": {
     "gph": 515.5,
@@ -197,6 +198,5 @@
       9.42,
       10.92
     ]
-  },
-  "reference": "03510004VSH"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5541",
   "country": "ARG",
+  "reference": "03880004VE7",
   "name": "DOUBLE BLACK",
   "rating": {
     "gph": 626.7,
@@ -197,6 +198,5 @@
       8.05,
       8.9
     ]
-  },
-  "reference": "03880004VE7"
+  }
 }

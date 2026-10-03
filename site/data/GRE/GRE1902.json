@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1902",
   "country": "GRE",
+  "reference": "03420004IW9",
   "name": "YUSURI",
   "rating": {
     "gph": 654.6,
@@ -197,6 +198,5 @@
       7.4,
       7.94
     ]
-  },
-  "reference": "03420004IW9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6691_C",
   "country": "ESP",
+  "reference": "03510004FU6",
   "name": "THOR II",
   "rating": {
     "gph": 733.8,
@@ -197,6 +198,5 @@
       6.77,
       7.35
     ]
-  },
-  "reference": "03510004FU6"
+  }
 }

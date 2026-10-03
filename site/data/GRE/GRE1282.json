@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1282",
   "country": "GRE",
+  "reference": "03420004WEC",
   "name": "ANATELOUSSA AFRODITI",
   "rating": {
     "gph": 638.2,
@@ -197,6 +198,5 @@
       7.42,
       8.17
     ]
-  },
-  "reference": "03420004WEC"
+  }
 }

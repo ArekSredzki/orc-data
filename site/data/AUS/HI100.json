@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/HI100",
   "country": "AUS",
+  "reference": "03020004UA4",
   "name": "AMMONITE",
   "rating": {
     "gph": 448.8,
@@ -197,6 +198,5 @@
       12.79,
       15.95
     ]
-  },
-  "reference": "03020004UA4"
+  }
 }

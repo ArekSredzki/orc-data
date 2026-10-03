@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA38012",
   "country": "USA",
+  "reference": "04560004M3S",
   "name": "ZUUL",
   "rating": {
     "gph": 564.4,
@@ -197,6 +198,5 @@
       9.03,
       11.75
     ]
-  },
-  "reference": "04560004M3S"
+  }
 }

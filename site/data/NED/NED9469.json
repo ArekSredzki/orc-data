@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9469",
   "country": "NED",
+  "reference": "04310004QJC",
   "name": "Fever",
   "rating": {
     "gph": 622.8,
@@ -197,6 +198,5 @@
       8.02,
       8.93
     ]
-  },
-  "reference": "04310004QJC"
+  }
 }

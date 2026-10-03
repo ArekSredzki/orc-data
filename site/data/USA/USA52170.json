@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52170",
   "country": "USA",
+  "reference": "04560004FHT",
   "name": "AN DARA CLADDAGH",
   "rating": {
     "gph": 672.8,
@@ -197,6 +198,5 @@
       7.18,
       7.8
     ]
-  },
-  "reference": "04560004FHT"
+  }
 }

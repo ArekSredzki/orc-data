@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4122",
   "country": "ESP",
+  "reference": "03510004BHI",
   "name": "AMOR FATI",
   "rating": {
     "gph": 683.6,
@@ -197,6 +198,5 @@
       7.1,
       7.69
     ]
-  },
-  "reference": "03510004BHI"
+  }
 }

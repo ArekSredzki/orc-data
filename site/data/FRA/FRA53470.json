@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53470",
   "country": "FRA",
+  "reference": "04330004N90",
   "name": "JUST",
   "rating": {
     "gph": 565.7,
@@ -197,6 +198,5 @@
       8.49,
       9.2
     ]
-  },
-  "reference": "04330004N90"
+  }
 }

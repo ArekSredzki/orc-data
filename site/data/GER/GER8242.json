@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8242",
   "country": "GER",
+  "reference": "03520004RMJ",
   "name": "CEDO NULLI",
   "rating": {
     "gph": 615.5,
@@ -197,6 +198,5 @@
       7.66,
       9.46
     ]
-  },
-  "reference": "03520004RMJ"
+  }
 }

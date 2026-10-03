@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3987_C",
   "country": "ESP",
+  "reference": "03510004V9B",
   "name": "Mallorca Sailing Academy",
   "rating": {
     "gph": 645.8,
@@ -197,6 +198,5 @@
       9.41,
       12.56
     ]
-  },
-  "reference": "03510004V9B"
+  }
 }

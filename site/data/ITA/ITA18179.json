@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18179",
   "country": "ITA",
+  "reference": "03190004J5T",
   "name": "FLORESA",
   "rating": {
     "gph": 605.2,
@@ -197,6 +198,5 @@
       7.96,
       8.68
     ]
-  },
-  "reference": "03190004J5T"
+  }
 }

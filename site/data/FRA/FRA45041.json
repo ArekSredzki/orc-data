@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA45041",
   "country": "FRA",
+  "reference": "04330004NQW",
   "name": "LOVELACE",
   "rating": {
     "gph": 691.7,
@@ -197,6 +198,5 @@
       7.26,
       7.86
     ]
-  },
-  "reference": "04330004NQW"
+  }
 }

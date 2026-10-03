@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18290",
   "country": "ITA",
+  "reference": "03190004OUC",
   "name": "NEVER QUIET",
   "rating": {
     "gph": 523.0,
@@ -197,6 +198,5 @@
       9.29,
       10.79
     ]
-  },
-  "reference": "03190004OUC"
+  }
 }

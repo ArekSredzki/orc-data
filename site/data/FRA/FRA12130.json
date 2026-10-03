@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA12130",
   "country": "FRA",
+  "reference": "04330004CBV",
   "name": "PINGUIN PLAYBOY",
   "rating": {
     "gph": 699.6,
@@ -197,6 +198,5 @@
       7.11,
       7.96
     ]
-  },
-  "reference": "04330004CBV"
+  }
 }

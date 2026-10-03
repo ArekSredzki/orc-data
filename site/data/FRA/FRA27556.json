@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA27556",
   "country": "FRA",
+  "reference": "04330004MN9",
   "name": "IMAGINE",
   "rating": {
     "gph": 683.9,
@@ -197,6 +198,5 @@
       7.43,
       9.74
     ]
-  },
-  "reference": "04330004MN9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6893",
   "country": "NED",
+  "reference": "04310004OOF",
   "name": "Peer",
   "rating": {
     "gph": 594.4,
@@ -197,6 +198,5 @@
       8.41,
       9.32
     ]
-  },
-  "reference": "04310004OOF"
+  }
 }

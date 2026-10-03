@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9084",
   "country": "ESP",
+  "reference": "03510004T96",
   "name": "MOUCHO",
   "rating": {
     "gph": 628.0,
@@ -197,6 +198,5 @@
       8.14,
       8.9
     ]
-  },
-  "reference": "03510004T96"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/ITA777",
   "country": "MLT",
+  "reference": "03230004UPA",
   "name": "KIXX ME",
   "rating": {
     "gph": 548.4,
@@ -197,6 +198,5 @@
       8.62,
       10.03
     ]
-  },
-  "reference": "03230004UPA"
+  }
 }

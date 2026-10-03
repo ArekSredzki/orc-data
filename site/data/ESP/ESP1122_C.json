@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1122_C",
   "country": "ESP",
+  "reference": "03510004IP2",
   "name": "EUREKA II",
   "rating": {
     "gph": 672.6,
@@ -197,6 +198,5 @@
       7.14,
       7.63
     ]
-  },
-  "reference": "03510004IP2"
+  }
 }

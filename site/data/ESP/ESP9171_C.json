@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9171_C",
   "country": "ESP",
+  "reference": "03510004EWV",
   "name": "EDMON",
   "rating": {
     "gph": 697.4,
@@ -197,6 +198,5 @@
       7.04,
       7.64
     ]
-  },
-  "reference": "03510004EWV"
+  }
 }

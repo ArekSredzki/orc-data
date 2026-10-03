@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA38005",
   "country": "USA",
+  "reference": "04560004UJR",
   "name": "MANITOU",
   "rating": {
     "gph": 558.3,
@@ -197,6 +198,5 @@
       8.7,
       10.93
     ]
-  },
-  "reference": "04560004UJR"
+  }
 }

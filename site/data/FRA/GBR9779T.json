@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR9779T",
   "country": "FRA",
+  "reference": "04330004TCT",
   "name": "JAGO",
   "rating": {
     "gph": 615.4,
@@ -197,6 +198,5 @@
       7.67,
       8.77
     ]
-  },
-  "reference": "04330004TCT"
+  }
 }

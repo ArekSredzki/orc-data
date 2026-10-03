@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA010",
   "country": "RSA",
+  "reference": "0462000487O",
   "name": "Lapwing",
   "rating": {
     "gph": 667.2,
@@ -197,6 +198,5 @@
       7.54,
       8.25
     ]
-  },
-  "reference": "0462000487O"
+  }
 }

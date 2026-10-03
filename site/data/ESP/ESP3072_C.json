@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3072_C",
   "country": "ESP",
+  "reference": "03510004OVB",
   "name": "GANDUL",
   "rating": {
     "gph": 690.9,
@@ -197,6 +198,5 @@
       7.21,
       7.82
     ]
-  },
-  "reference": "03510004OVB"
+  }
 }

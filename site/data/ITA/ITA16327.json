@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16327",
   "country": "ITA",
+  "reference": "03190004IPS",
   "name": "NOGAMASE",
   "rating": {
     "gph": 687.4,
@@ -197,6 +198,5 @@
       7.21,
       7.75
     ]
-  },
-  "reference": "03190004IPS"
+  }
 }

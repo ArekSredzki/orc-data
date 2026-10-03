@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI3853O",
   "country": "SUI",
+  "reference": "03080004KNL",
   "name": "RAFFALE-O",
   "rating": {
     "gph": 502.1,
@@ -197,6 +198,5 @@
       12.53,
       15.91
     ]
-  },
-  "reference": "03080004KNL"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17",
   "country": "ITA",
+  "reference": "03190004LPA",
   "name": "CATMAZ",
   "rating": {
     "gph": 713.3,
@@ -197,6 +198,5 @@
       6.97,
       7.98
     ]
-  },
-  "reference": "03190004LPA"
+  }
 }

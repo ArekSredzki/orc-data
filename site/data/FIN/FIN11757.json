@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11757",
   "country": "FIN",
+  "reference": "04140004KUI",
   "name": "Adele Andersson",
   "rating": {
     "gph": 581.2,
@@ -197,6 +198,5 @@
       8.52,
       9.34
     ]
-  },
-  "reference": "04140004KUI"
+  }
 }

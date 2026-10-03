@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA22391",
   "country": "USA",
+  "reference": "04560004PQV",
   "name": "NO REBASE",
   "rating": {
     "gph": 655.0,
@@ -197,6 +198,5 @@
       7.53,
       8.32
     ]
-  },
-  "reference": "04560004PQV"
+  }
 }

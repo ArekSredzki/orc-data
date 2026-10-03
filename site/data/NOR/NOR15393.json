@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15393",
   "country": "NOR",
+  "reference": "03440004SFJ",
   "name": "Redline",
   "rating": {
     "gph": 622.5,
@@ -197,6 +198,5 @@
       7.7,
       9.69
     ]
-  },
-  "reference": "03440004SFJ"
+  }
 }

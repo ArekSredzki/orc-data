@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GER8750",
   "country": "ESP",
+  "reference": "03510004F0P",
   "name": "Stargazer",
   "rating": {
     "gph": 527.2,
@@ -197,6 +198,5 @@
       10.47,
       13.41
     ]
-  },
-  "reference": "03510004F0P"
+  }
 }

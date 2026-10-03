@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3501",
   "country": "NED",
+  "reference": "04310004JTV",
   "name": "sJamaan",
   "rating": {
     "gph": 617.7,
@@ -197,6 +198,5 @@
       7.83,
       8.6
     ]
-  },
-  "reference": "04310004JTV"
+  }
 }

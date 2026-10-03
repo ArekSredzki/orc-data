@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA28252",
   "country": "USA",
+  "reference": "04560004UH3",
   "name": "SIN DUDA",
   "rating": {
     "gph": 503.9,
@@ -197,6 +198,5 @@
       9.82,
       11.92
     ]
-  },
-  "reference": "04560004UH3"
+  }
 }

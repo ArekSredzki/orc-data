@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR5975",
   "country": "NOR",
+  "reference": "03440004QMM",
   "name": "Brunhildur",
   "rating": {
     "gph": 686.3,
@@ -197,6 +198,5 @@
       7.3,
       9.43
     ]
-  },
-  "reference": "03440004QMM"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4880_C",
   "country": "ESP",
+  "reference": "03510004F7Q",
   "name": "LA ESCANDALOSA",
   "rating": {
     "gph": 687.4,
@@ -197,6 +198,5 @@
       7.3,
       9.0
     ]
-  },
-  "reference": "03510004F7Q"
+  }
 }

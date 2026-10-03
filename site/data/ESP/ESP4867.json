@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4867",
   "country": "ESP",
+  "reference": "03510004F1Q",
   "name": "ATICA",
   "rating": {
     "gph": 689.0,
@@ -197,6 +198,5 @@
       7.24,
       7.87
     ]
-  },
-  "reference": "03510004F1Q"
+  }
 }

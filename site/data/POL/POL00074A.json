@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL00074A",
   "country": "POL",
+  "reference": "04410004R74",
   "name": "MORFIN",
   "rating": {
     "gph": 627.9,
@@ -197,6 +198,5 @@
       8.0,
       8.75
     ]
-  },
-  "reference": "04410004R74"
+  }
 }

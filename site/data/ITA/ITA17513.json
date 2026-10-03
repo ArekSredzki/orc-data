@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17513",
   "country": "ITA",
+  "reference": "03190004BAM",
   "name": "STROLAGA II",
   "rating": {
     "gph": 628.8,
@@ -197,6 +198,5 @@
       7.6,
       8.51
     ]
-  },
-  "reference": "03190004BAM"
+  }
 }

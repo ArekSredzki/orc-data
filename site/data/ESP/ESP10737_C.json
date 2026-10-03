@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10737_C",
   "country": "ESP",
+  "reference": "03510004FT6",
   "name": "MARIA ANGELES",
   "rating": {
     "gph": 721.5,
@@ -197,6 +198,5 @@
       6.55,
       7.03
     ]
-  },
-  "reference": "03510004FT6"
+  }
 }

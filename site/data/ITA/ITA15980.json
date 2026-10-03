@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15980",
   "country": "ITA",
+  "reference": "03190004S43",
   "name": "LUNETTA J",
   "rating": {
     "gph": 637.8,
@@ -197,6 +198,5 @@
       7.54,
       9.64
     ]
-  },
-  "reference": "03190004S43"
+  }
 }

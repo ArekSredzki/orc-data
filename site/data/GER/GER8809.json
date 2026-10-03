@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8809",
   "country": "GER",
+  "reference": "03520004SJ2",
   "name": "HELIUM",
   "rating": {
     "gph": 603.3,
@@ -197,6 +198,5 @@
       8.37,
       10.91
     ]
-  },
-  "reference": "03520004SJ2"
+  }
 }

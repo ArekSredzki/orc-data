@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1113MT",
   "country": "ITA",
+  "reference": "03190004TB3",
   "name": "STILL...",
   "rating": {
     "gph": 644.0,
@@ -197,6 +198,5 @@
       11.22,
       14.39
     ]
-  },
-  "reference": "03190004TB3"
+  }
 }

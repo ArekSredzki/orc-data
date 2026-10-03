@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2803",
   "country": "BRA",
+  "reference": "044200048QB",
   "name": "+BRAVISSIMO",
   "rating": {
     "gph": 618.2,
@@ -197,6 +198,5 @@
       8.04,
       10.67
     ]
-  },
-  "reference": "044200048QB"
+  }
 }

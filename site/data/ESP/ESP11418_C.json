@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11418_C",
   "country": "ESP",
+  "reference": "03510004P44",
   "name": "ASTARTE",
   "rating": {
     "gph": 580.7,
@@ -197,6 +198,5 @@
       8.48,
       10.63
     ]
-  },
-  "reference": "03510004P44"
+  }
 }

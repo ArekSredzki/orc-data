@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA30301",
   "country": "ITA",
+  "reference": "03190004P1B",
   "name": "AQUILANTE",
   "rating": {
     "gph": 680.7,
@@ -197,6 +198,5 @@
       7.53,
       8.19
     ]
-  },
-  "reference": "03190004P1B"
+  }
 }

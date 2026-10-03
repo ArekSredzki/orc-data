@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10397",
   "country": "NOR",
+  "reference": "03440004FIT",
   "name": "Costanoc",
   "rating": {
     "gph": 690.0,
@@ -197,6 +198,5 @@
       7.3,
       7.88
     ]
-  },
-  "reference": "03440004FIT"
+  }
 }

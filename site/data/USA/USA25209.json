@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25209",
   "country": "USA",
+  "reference": "04560004S14",
   "name": "WIND SEEKER III",
   "rating": {
     "gph": 634.0,
@@ -197,6 +198,5 @@
       7.76,
       8.5
     ]
-  },
-  "reference": "04560004S14"
+  }
 }

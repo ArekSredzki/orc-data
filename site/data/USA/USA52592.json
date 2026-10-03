@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52592",
   "country": "USA",
+  "reference": "04560004T8N",
   "name": "RETURN TO SENDER",
   "rating": {
     "gph": 479.0,
@@ -197,6 +198,5 @@
       11.32,
       14.59
     ]
-  },
-  "reference": "04560004T8N"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER4664",
   "country": "GER",
+  "reference": "03520004VKB",
   "name": "ADAMAS",
   "rating": {
     "gph": 588.3,
@@ -197,6 +198,5 @@
       8.48,
       9.49
     ]
-  },
-  "reference": "03520004VKB"
+  }
 }

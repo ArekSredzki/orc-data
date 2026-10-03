@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4833_C",
   "country": "ESP",
+  "reference": "03510004BJE",
   "name": "SONSOLES",
   "rating": {
     "gph": 689.3,
@@ -197,6 +198,5 @@
       7.23,
       7.86
     ]
-  },
-  "reference": "03510004BJE"
+  }
 }

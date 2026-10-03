@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15503",
   "country": "NOR",
+  "reference": "03440004PBC",
   "name": "Aloha",
   "rating": {
     "gph": 614.3,
@@ -197,6 +198,5 @@
       7.69,
       8.38
     ]
-  },
-  "reference": "03440004PBC"
+  }
 }

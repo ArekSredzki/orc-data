@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11125_C",
   "country": "ESP",
+  "reference": "03510004LQ3",
   "name": "AGALOE",
   "rating": {
     "gph": 634.8,
@@ -197,6 +198,5 @@
       7.64,
       8.19
     ]
-  },
-  "reference": "03510004LQ3"
+  }
 }

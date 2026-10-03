@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7330_C",
   "country": "ESP",
+  "reference": "03510004KVD",
   "name": "NERVI",
   "rating": {
     "gph": 618.9,
@@ -197,6 +198,5 @@
       7.96,
       8.69
     ]
-  },
-  "reference": "03510004KVD"
+  }
 }

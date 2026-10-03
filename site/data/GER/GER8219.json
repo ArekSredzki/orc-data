@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8219",
   "country": "GER",
+  "reference": "04150004JEU",
   "name": "SCAN-DALE",
   "rating": {
     "gph": 685.2,
@@ -197,6 +198,5 @@
       7.51,
       8.33
     ]
-  },
-  "reference": "04150004JEU"
+  }
 }

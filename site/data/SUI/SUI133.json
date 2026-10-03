@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI133",
   "country": "SUI",
+  "reference": "03080004IS0",
   "name": "TALLY HO",
   "rating": {
     "gph": 785.3,
@@ -197,6 +198,5 @@
       6.62,
       7.23
     ]
-  },
-  "reference": "03080004IS0"
+  }
 }

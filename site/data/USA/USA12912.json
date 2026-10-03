@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA12912",
   "country": "USA",
+  "reference": "04560004Q4B",
   "name": "ZIG ZAG",
   "rating": {
     "gph": 562.2,
@@ -197,6 +198,5 @@
       8.45,
       10.28
     ]
-  },
-  "reference": "04560004Q4B"
+  }
 }

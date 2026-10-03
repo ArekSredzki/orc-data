@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/MLT4444",
   "country": "MLT",
+  "reference": "03230004WBJ",
   "name": "Zephyr II",
   "rating": {
     "gph": 503.9,
@@ -197,6 +198,5 @@
       11.84,
       15.44
     ]
-  },
-  "reference": "03230004WBJ"
+  }
 }

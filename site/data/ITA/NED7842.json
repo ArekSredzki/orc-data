@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/NED7842",
   "country": "ITA",
+  "reference": "03190004TBB",
   "name": "SELENE",
   "rating": {
     "gph": 529.8,
@@ -197,6 +198,5 @@
       9.29,
       11.62
     ]
-  },
-  "reference": "03190004TBB"
+  }
 }

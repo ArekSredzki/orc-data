@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12430",
   "country": "NOR",
+  "reference": "03440004QFO",
   "name": "Vanja",
   "rating": {
     "gph": 562.2,
@@ -197,6 +198,5 @@
       8.9,
       9.85
     ]
-  },
-  "reference": "03440004QFO"
+  }
 }

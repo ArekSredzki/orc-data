@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA21552",
   "country": "FRA",
+  "reference": "04330004HS2",
   "name": "FELIX",
   "rating": {
     "gph": 677.1,
@@ -197,6 +198,5 @@
       7.34,
       8.05
     ]
-  },
-  "reference": "04330004HS2"
+  }
 }

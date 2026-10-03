@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14719",
   "country": "NOR",
+  "reference": "03440004T58",
   "name": "ZikkZakk",
   "rating": {
     "gph": 596.9,
@@ -197,6 +198,5 @@
       8.35,
       9.12
     ]
-  },
-  "reference": "03440004T58"
+  }
 }

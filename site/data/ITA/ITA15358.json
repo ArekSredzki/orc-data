@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15358",
   "country": "ITA",
+  "reference": "03190004K5P",
   "name": "ELIMA",
   "rating": {
     "gph": 570.2,
@@ -197,6 +198,5 @@
       8.86,
       9.78
     ]
-  },
-  "reference": "03190004K5P"
+  }
 }

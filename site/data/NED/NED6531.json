@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6531",
   "country": "NED",
+  "reference": "04310004JVT",
   "name": "BAIJI",
   "rating": {
     "gph": 605.2,
@@ -197,6 +198,5 @@
       8.07,
       8.75
     ]
-  },
-  "reference": "04310004JVT"
+  }
 }

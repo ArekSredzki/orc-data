@@ -1,6 +1,7 @@
 {
   "sailnumber": "PER/PER3600",
   "country": "PER",
+  "reference": "03460004LH4",
   "name": "YOLO",
   "rating": {
     "gph": 603.3,
@@ -197,6 +198,5 @@
       8.27,
       9.29
     ]
-  },
-  "reference": "03460004LH4"
+  }
 }

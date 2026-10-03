@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA53",
   "country": "USA",
+  "reference": "04560004FAC",
   "name": "SLAINTE",
   "rating": {
     "gph": 580.4,
@@ -197,6 +198,5 @@
       8.56,
       9.93
     ]
-  },
-  "reference": "04560004FAC"
+  }
 }

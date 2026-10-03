@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA40113",
   "country": "USA",
+  "reference": "04560004SLU",
   "name": "IRREGARDLESS",
   "rating": {
     "gph": 527.0,
@@ -197,6 +198,5 @@
       10.26,
       12.98
     ]
-  },
-  "reference": "04560004SLU"
+  }
 }

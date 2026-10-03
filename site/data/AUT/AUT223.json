@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT223",
   "country": "AUT",
+  "reference": "03210004M99",
   "name": "Filius 3",
   "rating": {
     "gph": 595.4,
@@ -197,6 +198,5 @@
       9.66,
       12.55
     ]
-  },
-  "reference": "03210004M99"
+  }
 }

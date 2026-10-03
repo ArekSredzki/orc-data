@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1339",
   "country": "GRE",
+  "reference": "03420004U7V",
   "name": "SARAVA",
   "rating": {
     "gph": 716.4,
@@ -197,6 +198,5 @@
       6.76,
       7.25
     ]
-  },
-  "reference": "03420004U7V"
+  }
 }

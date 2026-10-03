@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/C3131",
   "country": "GER",
+  "reference": "03520004TCE",
   "name": "LIL'DESNA",
   "rating": {
     "gph": 553.5,
@@ -197,6 +198,5 @@
       11.51,
       14.67
     ]
-  },
-  "reference": "03520004TCE"
+  }
 }

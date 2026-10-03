@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI1",
   "country": "SUI",
+  "reference": "030800048OL",
   "name": "ELIN",
   "rating": {
     "gph": 503.3,
@@ -197,6 +198,5 @@
       9.92,
       11.77
     ]
-  },
-  "reference": "030800048OL"
+  }
 }

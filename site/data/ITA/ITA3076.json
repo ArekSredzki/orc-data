@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA3076",
   "country": "ITA",
+  "reference": "03190004KK6",
   "name": "BOOMERANG",
   "rating": {
     "gph": 590.6,
@@ -197,6 +198,5 @@
       9.42,
       12.2
     ]
-  },
-  "reference": "03190004KK6"
+  }
 }

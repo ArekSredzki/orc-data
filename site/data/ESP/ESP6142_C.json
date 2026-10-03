@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6142_C",
   "country": "ESP",
+  "reference": "03510004KVL",
   "name": "KALAAT",
   "rating": {
     "gph": 742.7,
@@ -197,6 +198,5 @@
       6.8,
       7.29
     ]
-  },
-  "reference": "03510004KVL"
+  }
 }

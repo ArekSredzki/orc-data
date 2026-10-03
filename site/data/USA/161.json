@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/161",
   "country": "USA",
+  "reference": "04560004S13",
   "name": "SunBreak",
   "rating": {
     "gph": 589.9,
@@ -197,6 +198,5 @@
       8.55,
       9.26
     ]
-  },
-  "reference": "04560004S13"
+  }
 }

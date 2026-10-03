@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5997",
   "country": "ESP",
+  "reference": "03510004T8D",
   "name": "CAMPING RIA DE AROSA",
   "rating": {
     "gph": 682.4,
@@ -197,6 +198,5 @@
       7.38,
       8.05
     ]
-  },
-  "reference": "03510004T8D"
+  }
 }

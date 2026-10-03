@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GRE199",
   "country": "ITA",
+  "reference": "03190004PN4",
   "name": "A MAJOR",
   "rating": {
     "gph": 616.0,
@@ -197,6 +198,5 @@
       7.81,
       9.85
     ]
-  },
-  "reference": "03190004PN4"
+  }
 }

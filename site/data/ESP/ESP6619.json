@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6619",
   "country": "ESP",
+  "reference": "03510004RPU",
   "name": "MAJOCHE",
   "rating": {
     "gph": 590.4,
@@ -197,6 +198,5 @@
       8.31,
       9.11
     ]
-  },
-  "reference": "03510004RPU"
+  }
 }

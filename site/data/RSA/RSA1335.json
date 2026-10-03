@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1335",
   "country": "RSA",
+  "reference": "04620004C8W",
   "name": "FarMed",
   "rating": {
     "gph": 764.8,
@@ -197,6 +198,5 @@
       6.81,
       7.35
     ]
-  },
-  "reference": "04620004C8W"
+  }
 }

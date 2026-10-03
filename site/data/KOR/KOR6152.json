@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR6152",
   "country": "KOR",
+  "reference": "04550004B8T",
   "name": "Hakuna Matata",
   "rating": {
     "gph": 586.1,
@@ -197,6 +198,5 @@
       8.31,
       9.12
     ]
-  },
-  "reference": "04550004B8T"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA43279",
   "country": "USA",
+  "reference": "04560004JBD",
   "name": "FLYING CIRCUS",
   "rating": {
     "gph": 665.6,
@@ -197,6 +198,5 @@
       7.44,
       8.26
     ]
-  },
-  "reference": "04560004JBD"
+  }
 }

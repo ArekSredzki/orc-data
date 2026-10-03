@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE700",
   "country": "GRE",
+  "reference": "03420004VAM",
   "name": "CLEOPATRA",
   "rating": {
     "gph": 594.6,
@@ -197,6 +198,5 @@
       8.34,
       9.18
     ]
-  },
-  "reference": "03420004VAM"
+  }
 }

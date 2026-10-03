@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9375",
   "country": "NED",
+  "reference": "04310004PDM",
   "name": "Jongeheer",
   "rating": {
     "gph": 615.2,
@@ -197,6 +198,5 @@
       8.01,
       10.23
     ]
-  },
-  "reference": "04310004PDM"
+  }
 }

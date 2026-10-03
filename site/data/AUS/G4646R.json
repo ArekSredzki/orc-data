@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/G4646R",
   "country": "AUS",
+  "reference": "03020004V70",
   "name": "Nizam",
   "rating": {
     "gph": 512.1,
@@ -197,6 +198,5 @@
       9.57,
       11.32
     ]
-  },
-  "reference": "03020004V70"
+  }
 }

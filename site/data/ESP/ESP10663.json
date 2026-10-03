@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10663",
   "country": "ESP",
+  "reference": "03510004JA6",
   "name": "INCONVENIENTE",
   "rating": {
     "gph": 641.9,
@@ -197,6 +198,5 @@
       9.87,
       12.96
     ]
-  },
-  "reference": "03510004JA6"
+  }
 }

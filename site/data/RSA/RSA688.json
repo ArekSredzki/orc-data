@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA688",
   "country": "RSA",
+  "reference": "04620004ATV",
   "name": "Chinook",
   "rating": {
     "gph": 599.4,
@@ -197,6 +198,5 @@
       8.12,
       9.4
     ]
-  },
-  "reference": "04620004ATV"
+  }
 }

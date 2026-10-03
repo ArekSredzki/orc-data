@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG3752",
   "country": "ARG",
+  "reference": "03880004LT1",
   "name": "CONI M",
   "rating": {
     "gph": 602.5,
@@ -197,6 +198,5 @@
       8.05,
       8.81
     ]
-  },
-  "reference": "03880004LT1"
+  }
 }

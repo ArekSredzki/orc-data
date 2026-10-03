@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7265_C",
   "country": "ESP",
+  "reference": "03510004ETW",
   "name": "TALULLAH",
   "rating": {
     "gph": 684.3,
@@ -197,6 +198,5 @@
       7.01,
       7.52
     ]
-  },
-  "reference": "03510004ETW"
+  }
 }

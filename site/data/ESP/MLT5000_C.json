@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/MLT5000_C",
   "country": "ESP",
+  "reference": "03510004BEA",
   "name": "VD ONE",
   "rating": {
     "gph": 540.8,
@@ -197,6 +198,5 @@
       8.7,
       9.53
     ]
-  },
-  "reference": "03510004BEA"
+  }
 }

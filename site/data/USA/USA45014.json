@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA45014",
   "country": "USA",
+  "reference": "04560004OJI",
   "name": "JAILBREAK",
   "rating": {
     "gph": 505.6,
@@ -197,6 +198,5 @@
       10.6,
       13.45
     ]
-  },
-  "reference": "04560004OJI"
+  }
 }

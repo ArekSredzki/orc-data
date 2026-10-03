@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9916",
   "country": "FRA",
+  "reference": "04330004J1C",
   "name": "ROB ROY II",
   "rating": {
     "gph": 552.0,
@@ -197,6 +198,5 @@
       8.45,
       9.05
     ]
-  },
-  "reference": "04330004J1C"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER3660",
   "country": "GER",
+  "reference": "03520004I1M",
   "name": "ZAPPALOTTE",
   "rating": {
     "gph": 684.4,
@@ -197,6 +198,5 @@
       7.3,
       7.91
     ]
-  },
-  "reference": "03520004I1M"
+  }
 }

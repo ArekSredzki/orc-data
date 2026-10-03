@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA161",
   "country": "ITA",
+  "reference": "03190004ME4",
   "name": "ANOUK RACING",
   "rating": {
     "gph": 446.4,
@@ -197,6 +198,5 @@
       13.07,
       16.71
     ]
-  },
-  "reference": "03190004ME4"
+  }
 }

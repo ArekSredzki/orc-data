@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8755",
   "country": "GER",
+  "reference": "03520004UC0",
   "name": "THEA",
   "rating": {
     "gph": 538.5,
@@ -197,6 +198,5 @@
       8.84,
       10.43
     ]
-  },
-  "reference": "03520004UC0"
+  }
 }

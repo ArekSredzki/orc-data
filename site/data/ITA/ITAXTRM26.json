@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAXTRM26",
   "country": "ITA",
+  "reference": "03190004QOE",
   "name": "XTREME",
   "rating": {
     "gph": 685.2,
@@ -197,6 +198,5 @@
       7.56,
       10.33
     ]
-  },
-  "reference": "03190004QOE"
+  }
 }

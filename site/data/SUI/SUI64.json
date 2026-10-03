@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI64",
   "country": "SUI",
+  "reference": "03080004J9Q",
   "name": "maXi-milian",
   "rating": {
     "gph": 586.8,
@@ -197,6 +198,5 @@
       8.1,
       9.14
     ]
-  },
-  "reference": "03080004J9Q"
+  }
 }

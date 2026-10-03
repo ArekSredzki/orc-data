@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18299",
   "country": "ITA",
+  "reference": "03190004R44",
   "name": "MYRTUS",
   "rating": {
     "gph": 592.0,
@@ -197,6 +198,5 @@
       7.98,
       8.54
     ]
-  },
-  "reference": "03190004R44"
+  }
 }

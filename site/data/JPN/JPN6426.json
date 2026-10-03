@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN6426",
   "country": "JPN",
+  "reference": "03390004JI3",
   "name": "U.LA.LA",
   "rating": {
     "gph": 620.7,
@@ -197,6 +198,5 @@
       8.0,
       9.66
     ]
-  },
-  "reference": "03390004JI3"
+  }
 }

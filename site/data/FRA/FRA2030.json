@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA2030",
   "country": "FRA",
+  "reference": "04330004NEH",
   "name": "SPIRIT OF LORINA II",
   "rating": {
     "gph": 426.1,
@@ -197,6 +198,5 @@
       13.51,
       16.89
     ]
-  },
-  "reference": "04330004NEH"
+  }
 }

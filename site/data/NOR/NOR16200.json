@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16200",
   "country": "NOR",
+  "reference": "03440004M52",
   "name": "Oroshi",
   "rating": {
     "gph": 596.5,
@@ -197,6 +198,5 @@
       8.12,
       9.21
     ]
-  },
-  "reference": "03440004M52"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/52650",
   "country": "AUS",
+  "reference": "03020004T92",
   "name": "Burning Palms",
   "rating": {
     "gph": 492.9,
@@ -197,6 +198,5 @@
       10.13,
       11.11
     ]
-  },
-  "reference": "03020004T92"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2756",
   "country": "CRO",
+  "reference": "03620004H9S",
   "name": "More 40 Black",
   "rating": {
     "gph": 580.8,
@@ -197,6 +198,5 @@
       8.62,
       9.54
     ]
-  },
-  "reference": "03620004H9S"
+  }
 }

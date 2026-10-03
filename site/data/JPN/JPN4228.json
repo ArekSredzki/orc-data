@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN4228",
   "country": "JPN",
+  "reference": "03390004K8P",
   "name": "TOM BOY",
   "rating": {
     "gph": 590.6,
@@ -197,6 +198,5 @@
       8.26,
       9.37
     ]
-  },
-  "reference": "03390004K8P"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT750",
   "country": "LAT",
+  "reference": "04960004WES",
   "name": "Phoenix",
   "rating": {
     "gph": 603.3,
@@ -197,6 +198,5 @@
       8.22,
       9.29
     ]
-  },
-  "reference": "04960004WES"
+  }
 }

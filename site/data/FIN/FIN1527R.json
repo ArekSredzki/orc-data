@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN1527R",
   "country": "FIN",
+  "reference": "02920004UKR",
   "name": "Tulikettu",
   "rating": {
     "gph": 425.4,
@@ -197,6 +198,5 @@
       13.82,
       18.15
     ]
-  },
-  "reference": "02920004UKR"
+  }
 }

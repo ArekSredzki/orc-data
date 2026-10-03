@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1726",
   "country": "GRE",
+  "reference": "03420004OVJ",
   "name": "KIARA",
   "rating": {
     "gph": 676.1,
@@ -197,6 +198,5 @@
       7.43,
       8.04
     ]
-  },
-  "reference": "03420004OVJ"
+  }
 }

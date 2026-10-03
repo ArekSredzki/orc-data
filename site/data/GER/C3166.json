@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/C3166",
   "country": "GER",
+  "reference": "03520004TEN",
   "name": "HALBTROCKEN 3.1",
   "rating": {
     "gph": 553.1,
@@ -197,6 +198,5 @@
       11.56,
       14.71
     ]
-  },
-  "reference": "03520004TEN"
+  }
 }

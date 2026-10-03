@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP12661",
   "country": "ESP",
+  "reference": "03510004ET7",
   "name": "LONE II",
   "rating": {
     "gph": 609.5,
@@ -197,6 +198,5 @@
       8.11,
       8.98
     ]
-  },
-  "reference": "03510004ET7"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3502",
   "country": "RSA",
+  "reference": "04620004ATF",
   "name": "DARK MATTER",
   "rating": {
     "gph": 603.8,
@@ -197,6 +198,5 @@
       8.14,
       8.92
     ]
-  },
-  "reference": "04620004ATF"
+  }
 }

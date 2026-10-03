@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE655",
   "country": "GRE",
+  "reference": "03420004LE4",
   "name": "CHRISTINA II",
   "rating": {
     "gph": 641.5,
@@ -197,6 +198,5 @@
       7.77,
       8.48
     ]
-  },
-  "reference": "03420004LE4"
+  }
 }

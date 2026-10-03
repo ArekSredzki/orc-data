@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA9943",
   "country": "ITA",
+  "reference": "03190004I9T",
   "name": "MAHATMA",
   "rating": {
     "gph": 696.9,
@@ -197,6 +198,5 @@
       7.32,
       8.07
     ]
-  },
-  "reference": "03190004I9T"
+  }
 }

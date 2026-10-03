@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16761",
   "country": "ITA",
+  "reference": "03190004C1U",
   "name": "MISTER CRAB",
   "rating": {
     "gph": 601.7,
@@ -197,6 +198,5 @@
       8.13,
       9.98
     ]
-  },
-  "reference": "03190004C1U"
+  }
 }

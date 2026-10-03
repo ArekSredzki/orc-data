@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA999",
   "country": "USA",
+  "reference": "04560004OLP",
   "name": "MAMA TRIED",
   "rating": {
     "gph": 608.5,
@@ -197,6 +198,5 @@
       8.22,
       9.75
     ]
-  },
-  "reference": "04560004OLP"
+  }
 }

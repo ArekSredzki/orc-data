@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN54500",
   "country": "CAN",
+  "reference": "03430004IKB",
   "name": "Strum",
   "rating": {
     "gph": 463.4,
@@ -197,6 +198,5 @@
       12.41,
       15.53
     ]
-  },
-  "reference": "03430004IKB"
+  }
 }

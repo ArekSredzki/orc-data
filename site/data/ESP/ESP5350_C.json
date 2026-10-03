@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5350_C",
   "country": "ESP",
+  "reference": "03510004QRJ",
   "name": "ATLANTE DOUS",
   "rating": {
     "gph": 614.9,
@@ -197,6 +198,5 @@
       7.73,
       8.32
     ]
-  },
-  "reference": "03510004QRJ"
+  }
 }

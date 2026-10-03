@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15147",
   "country": "ITA",
+  "reference": "03190004LS2",
   "name": "JOD E",
   "rating": {
     "gph": 615.6,
@@ -197,6 +198,5 @@
       8.17,
       9.28
     ]
-  },
-  "reference": "03190004LS2"
+  }
 }

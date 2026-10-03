@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11017",
   "country": "NOR",
+  "reference": "03440004PRV",
   "name": "Vita",
   "rating": {
     "gph": 616.0,
@@ -197,6 +198,5 @@
       7.81,
       8.41
     ]
-  },
-  "reference": "03440004PRV"
+  }
 }

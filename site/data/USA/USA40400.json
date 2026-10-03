@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA40400",
   "country": "USA",
+  "reference": "04560004W8O",
   "name": "J-Hawk",
   "rating": {
     "gph": 552.2,
@@ -197,6 +198,5 @@
       8.64,
       10.26
     ]
-  },
-  "reference": "04560004W8O"
+  }
 }

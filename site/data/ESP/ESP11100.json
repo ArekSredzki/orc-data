@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11100",
   "country": "ESP",
+  "reference": "03510004VW0",
   "name": "REGULUS 1",
   "rating": {
     "gph": 605.3,
@@ -197,6 +198,5 @@
       7.96,
       10.2
     ]
-  },
-  "reference": "03510004VW0"
+  }
 }

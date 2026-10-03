@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST396",
   "country": "EST",
+  "reference": "04340004Q9C",
   "name": "LILIANN",
   "rating": {
     "gph": 674.1,
@@ -197,6 +198,5 @@
       7.37,
       8.14
     ]
-  },
-  "reference": "04340004Q9C"
+  }
 }

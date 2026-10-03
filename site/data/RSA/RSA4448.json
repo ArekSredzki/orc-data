@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4448",
   "country": "RSA",
+  "reference": "04620004872",
   "name": "Sacred Ibis",
   "rating": {
     "gph": 720.1,
@@ -197,6 +198,5 @@
       7.32,
       7.9
     ]
-  },
-  "reference": "04620004872"
+  }
 }

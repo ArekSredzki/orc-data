@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI4365",
   "country": "SUI",
+  "reference": "03080004PC7",
   "name": "SAIDA",
   "rating": {
     "gph": 553.6,
@@ -197,6 +198,5 @@
       8.71,
       9.3
     ]
-  },
-  "reference": "03080004PC7"
+  }
 }

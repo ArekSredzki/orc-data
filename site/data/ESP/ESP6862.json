@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6862",
   "country": "ESP",
+  "reference": "03510004FSQ",
   "name": "CLIO",
   "rating": {
     "gph": 691.2,
@@ -197,6 +198,5 @@
       7.61,
       8.7
     ]
-  },
-  "reference": "03510004FSQ"
+  }
 }

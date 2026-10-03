@@ -1,6 +1,7 @@
 {
   "sailnumber": "SLO/CZE69",
   "country": "SLO",
+  "reference": "03090004S58",
   "name": "Mary S",
   "rating": {
     "gph": 618.2,
@@ -197,6 +198,5 @@
       8.33,
       9.85
     ]
-  },
-  "reference": "03090004S58"
+  }
 }

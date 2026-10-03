@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18252",
   "country": "ITA",
+  "reference": "03190004NEB",
   "name": "TIP MOSS II",
   "rating": {
     "gph": 595.4,
@@ -197,6 +198,5 @@
       8.17,
       8.79
     ]
-  },
-  "reference": "03190004NEB"
+  }
 }

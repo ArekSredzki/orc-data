@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10674",
   "country": "ESP",
+  "reference": "03510004SOQ",
   "name": "COCO",
   "rating": {
     "gph": 621.3,
@@ -197,6 +198,5 @@
       8.13,
       8.99
     ]
-  },
-  "reference": "03510004SOQ"
+  }
 }

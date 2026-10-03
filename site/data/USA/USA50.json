@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA50",
   "country": "USA",
+  "reference": "04560004RT8",
   "name": "HUMA",
   "rating": {
     "gph": 620.9,
@@ -197,6 +198,5 @@
       8.01,
       8.56
     ]
-  },
-  "reference": "04560004RT8"
+  }
 }

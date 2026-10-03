@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN18095",
   "country": "FIN",
+  "reference": "03290004RN3",
   "name": "Polaris",
   "rating": {
     "gph": 630.4,
@@ -197,6 +198,5 @@
       9.1,
       12.25
     ]
-  },
-  "reference": "03290004RN3"
+  }
 }

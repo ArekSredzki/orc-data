@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA88",
   "country": "USA",
+  "reference": "04560004UD1",
   "name": "EXILE",
   "rating": {
     "gph": 620.7,
@@ -197,6 +198,5 @@
       8.78,
       11.69
     ]
-  },
-  "reference": "04560004UD1"
+  }
 }

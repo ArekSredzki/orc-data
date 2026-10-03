@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9634_C",
   "country": "ESP",
+  "reference": "03510004KHS",
   "name": "IKKO",
   "rating": {
     "gph": 701.2,
@@ -197,6 +198,5 @@
       7.27,
       7.91
     ]
-  },
-  "reference": "03510004KHS"
+  }
 }

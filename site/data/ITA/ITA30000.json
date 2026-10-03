@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA30000",
   "country": "ITA",
+  "reference": "03190004PPL",
   "name": "IOCUS 3.0",
   "rating": {
     "gph": 571.0,
@@ -197,6 +198,5 @@
       10.47,
       13.32
     ]
-  },
-  "reference": "03190004PPL"
+  }
 }

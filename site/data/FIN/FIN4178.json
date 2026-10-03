@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN4178",
   "country": "FIN",
+  "reference": "04140004Q8F",
   "name": "Luna 2",
   "rating": {
     "gph": 690.9,
@@ -197,6 +198,5 @@
       7.29,
       8.06
     ]
-  },
-  "reference": "04140004Q8F"
+  }
 }

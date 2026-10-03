@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/6409",
   "country": "AUS",
+  "reference": "03020004V29",
   "name": "Tempus",
   "rating": {
     "gph": 655.5,
@@ -197,6 +198,5 @@
       7.54,
       8.22
     ]
-  },
-  "reference": "03020004V29"
+  }
 }

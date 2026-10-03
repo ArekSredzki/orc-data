@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17832",
   "country": "ITA",
+  "reference": "03190004KSR",
   "name": "COBALT",
   "rating": {
     "gph": 621.0,
@@ -197,6 +198,5 @@
       7.69,
       8.2
     ]
-  },
-  "reference": "03190004KSR"
+  }
 }

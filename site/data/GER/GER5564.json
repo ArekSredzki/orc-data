@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5564",
   "country": "GER",
+  "reference": "03520004WFR",
   "name": "PLACE TO BE",
   "rating": {
     "gph": 633.7,
@@ -197,6 +198,5 @@
       7.87,
       8.6
     ]
-  },
-  "reference": "03520004WFR"
+  }
 }

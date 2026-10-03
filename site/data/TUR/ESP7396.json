@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/ESP7396",
   "country": "TUR",
+  "reference": "04590004Q2O",
   "name": "NAPAN",
   "rating": {
     "gph": 447.9,
@@ -197,6 +198,5 @@
       13.05,
       16.4
     ]
-  },
-  "reference": "04590004Q2O"
+  }
 }

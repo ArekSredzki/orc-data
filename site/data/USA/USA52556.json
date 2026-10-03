@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52556",
   "country": "USA",
+  "reference": "04560004NUW",
   "name": "SURFACE TENSION",
   "rating": {
     "gph": 563.7,
@@ -197,6 +198,5 @@
       8.33,
       9.07
     ]
-  },
-  "reference": "04560004NUW"
+  }
 }

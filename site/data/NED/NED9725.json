@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9725",
   "country": "NED",
+  "reference": "04310004K35",
   "name": "Wicked Lady",
   "rating": {
     "gph": 587.4,
@@ -197,6 +198,5 @@
       8.51,
       9.47
     ]
-  },
-  "reference": "04310004K35"
+  }
 }

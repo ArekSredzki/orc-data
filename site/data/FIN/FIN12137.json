@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12137",
   "country": "FIN",
+  "reference": "04140004QL6",
   "name": "Maxciting",
   "rating": {
     "gph": 594.0,
@@ -197,6 +198,5 @@
       8.04,
       8.7
     ]
-  },
-  "reference": "04140004QL6"
+  }
 }

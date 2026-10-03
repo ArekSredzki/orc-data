@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN477",
   "country": "HUN",
+  "reference": "04890004HKH",
   "name": "Femme Fatale",
   "rating": {
     "gph": 577.4,
@@ -197,6 +198,5 @@
       8.67,
       9.41
     ]
-  },
-  "reference": "04890004HKH"
+  }
 }

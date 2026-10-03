@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14035",
   "country": "NOR",
+  "reference": "03440004MPD",
   "name": "Selan",
   "rating": {
     "gph": 658.8,
@@ -197,6 +198,5 @@
       7.42,
       8.52
     ]
-  },
-  "reference": "03440004MPD"
+  }
 }

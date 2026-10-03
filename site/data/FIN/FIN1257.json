@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN1257",
   "country": "FIN",
+  "reference": "04140004JFN",
   "name": "Midnight Bat",
   "rating": {
     "gph": 680.4,
@@ -197,6 +198,5 @@
       7.24,
       7.95
     ]
-  },
-  "reference": "04140004JFN"
+  }
 }

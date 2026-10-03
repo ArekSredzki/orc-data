@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9838",
   "country": "NED",
+  "reference": "04310004K36",
   "name": "IJsvogel",
   "rating": {
     "gph": 617.2,
@@ -197,6 +198,5 @@
       7.78,
       8.4
     ]
-  },
-  "reference": "04310004K36"
+  }
 }

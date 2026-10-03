@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9424_C",
   "country": "ESP",
+  "reference": "035100048K1",
   "name": "SANTA FE",
   "rating": {
     "gph": 725.4,
@@ -197,6 +198,5 @@
       6.86,
       7.44
     ]
-  },
-  "reference": "035100048K1"
+  }
 }

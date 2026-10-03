@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2250",
   "country": "LTU",
+  "reference": "03590004V3M",
   "name": "\u0160M\u0116KLA",
   "rating": {
     "gph": 663.4,
@@ -197,6 +198,5 @@
       7.77,
       10.58
     ]
-  },
-  "reference": "03590004V3M"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL000LE1",
   "country": "POL",
+  "reference": "04410004O0N",
   "name": "CLOUD NINE",
   "rating": {
     "gph": 634.3,
@@ -197,6 +198,5 @@
       7.88,
       10.43
     ]
-  },
-  "reference": "04410004O0N"
+  }
 }

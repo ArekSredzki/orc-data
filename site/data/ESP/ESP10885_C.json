@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10885_C",
   "country": "ESP",
+  "reference": "03510004FPD",
   "name": "SWETTY",
   "rating": {
     "gph": 623.4,
@@ -197,6 +198,5 @@
       8.09,
       8.93
     ]
-  },
-  "reference": "03510004FPD"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15411",
   "country": "NOR",
+  "reference": "03440004O99",
   "name": "Fast Forward",
   "rating": {
     "gph": 586.2,
@@ -197,6 +198,5 @@
       8.47,
       9.33
     ]
-  },
-  "reference": "03440004O99"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17907",
   "country": "ITA",
+  "reference": "03190004AWL",
   "name": "J LAB",
   "rating": {
     "gph": 614.3,
@@ -197,6 +198,5 @@
       7.97,
       10.19
     ]
-  },
-  "reference": "03190004AWL"
+  }
 }

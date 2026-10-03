@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT767",
   "country": "LAT",
+  "reference": "04960004TF5",
   "name": "Ladybird",
   "rating": {
     "gph": 664.5,
@@ -197,6 +198,5 @@
       7.88,
       8.72
     ]
-  },
-  "reference": "04960004TF5"
+  }
 }

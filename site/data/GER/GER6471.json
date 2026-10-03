@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6471",
   "country": "GER",
+  "reference": "04150004LWE",
   "name": "DUCKHAWK",
   "rating": {
     "gph": 637.5,
@@ -197,6 +198,5 @@
       7.46,
       8.99
     ]
-  },
-  "reference": "04150004LWE"
+  }
 }

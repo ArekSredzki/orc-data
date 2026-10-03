@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12212",
   "country": "NOR",
+  "reference": "03440004OQ1",
   "name": "Caf\u00e9Racer2",
   "rating": {
     "gph": 517.7,
@@ -197,6 +198,5 @@
       11.51,
       14.47
     ]
-  },
-  "reference": "03440004OQ1"
+  }
 }

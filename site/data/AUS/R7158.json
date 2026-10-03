@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/R7158",
   "country": "AUS",
+  "reference": "03020004VBU",
   "name": "STEALTH",
   "rating": {
     "gph": 640.2,
@@ -197,6 +198,5 @@
       7.84,
       8.68
     ]
-  },
-  "reference": "03020004VBU"
+  }
 }

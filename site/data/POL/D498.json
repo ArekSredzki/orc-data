@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/D498",
   "country": "POL",
+  "reference": "04410004Q00",
   "name": "ALMA",
   "rating": {
     "gph": 733.7,
@@ -197,6 +198,5 @@
       6.94,
       7.48
     ]
-  },
-  "reference": "04410004Q00"
+  }
 }

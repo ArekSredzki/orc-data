@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9679",
   "country": "FRA",
+  "reference": "04330004FNO",
   "name": "JACKPOTES",
   "rating": {
     "gph": 615.3,
@@ -197,6 +198,5 @@
       7.65,
       8.7
     ]
-  },
-  "reference": "04330004FNO"
+  }
 }

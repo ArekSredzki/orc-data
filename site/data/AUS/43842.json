@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/43842",
   "country": "AUS",
+  "reference": "03020004V76",
   "name": "DAGUET 2",
   "rating": {
     "gph": 495.1,
@@ -197,6 +198,5 @@
       10.08,
       12.53
     ]
-  },
-  "reference": "03020004V76"
+  }
 }

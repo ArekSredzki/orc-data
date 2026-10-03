@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN3757",
   "country": "JPN",
+  "reference": "03390004JHU",
   "name": "BIG DREAM",
   "rating": {
     "gph": 611.6,
@@ -197,6 +198,5 @@
       8.13,
       9.82
     ]
-  },
-  "reference": "03390004JHU"
+  }
 }

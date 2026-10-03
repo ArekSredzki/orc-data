@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1973",
   "country": "GRE",
+  "reference": "03420004PU9",
   "name": "OLVIDO III",
   "rating": {
     "gph": 729.5,
@@ -197,6 +198,5 @@
       6.59,
       7.07
     ]
-  },
-  "reference": "03420004PU9"
+  }
 }

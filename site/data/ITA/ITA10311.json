@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10311",
   "country": "ITA",
+  "reference": "03190004C3H",
   "name": "DIECITRENTUNO",
   "rating": {
     "gph": 585.6,
@@ -197,6 +198,5 @@
       8.62,
       9.46
     ]
-  },
-  "reference": "03190004C3H"
+  }
 }

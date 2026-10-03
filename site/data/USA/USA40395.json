@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA40395",
   "country": "USA",
+  "reference": "04560004URR",
   "name": "NOMATA",
   "rating": {
     "gph": 607.6,
@@ -197,6 +198,5 @@
       7.91,
       8.75
     ]
-  },
-  "reference": "04560004URR"
+  }
 }

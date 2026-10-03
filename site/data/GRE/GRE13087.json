@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE13087",
   "country": "GRE",
+  "reference": "03420004LF1",
   "name": "MARACES EXPRESS",
   "rating": {
     "gph": 657.3,
@@ -197,6 +198,5 @@
       8.15,
       11.24
     ]
-  },
-  "reference": "03420004LF1"
+  }
 }

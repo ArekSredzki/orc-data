@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7014",
   "country": "ESP",
+  "reference": "03510004F0S",
   "name": "ES CANARET",
   "rating": {
     "gph": 610.0,
@@ -197,6 +198,5 @@
       8.32,
       10.51
     ]
-  },
-  "reference": "03510004F0S"
+  }
 }

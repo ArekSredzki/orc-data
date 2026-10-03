@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA4511",
   "country": "FRA",
+  "reference": "04330004WIO",
   "name": "INTUITION",
   "rating": {
     "gph": 379.6,
@@ -197,6 +198,5 @@
       15.16,
       18.22
     ]
-  },
-  "reference": "04330004WIO"
+  }
 }

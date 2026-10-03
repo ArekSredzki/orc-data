@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13688",
   "country": "ITA",
+  "reference": "03190004RFT",
   "name": "PIXEL",
   "rating": {
     "gph": 583.6,
@@ -197,6 +198,5 @@
       8.54,
       9.62
     ]
-  },
-  "reference": "03190004RFT"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR4508",
   "country": "POR",
+  "reference": "03530004IJ2",
   "name": "FUNBEL",
   "rating": {
     "gph": 568.4,
@@ -197,6 +198,5 @@
       8.74,
       9.55
     ]
-  },
-  "reference": "03530004IJ2"
+  }
 }

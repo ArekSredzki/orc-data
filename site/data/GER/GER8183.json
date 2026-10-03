@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8183",
   "country": "GER",
+  "reference": "03520004TFU",
   "name": "RANDALE 4S",
   "rating": {
     "gph": 590.4,
@@ -197,6 +198,5 @@
       8.06,
       8.98
     ]
-  },
-  "reference": "03520004TFU"
+  }
 }

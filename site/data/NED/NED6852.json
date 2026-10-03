@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6852",
   "country": "NED",
+  "reference": "04310004UTI",
   "name": "Bay Max",
   "rating": {
     "gph": 540.4,
@@ -197,6 +198,5 @@
       9.09,
       10.18
     ]
-  },
-  "reference": "04310004UTI"
+  }
 }

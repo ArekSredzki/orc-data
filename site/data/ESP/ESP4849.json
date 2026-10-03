@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4849",
   "country": "ESP",
+  "reference": "03510004BR3",
   "name": "CALAMA",
   "rating": {
     "gph": 656.9,
@@ -197,6 +198,5 @@
       7.54,
       8.19
     ]
-  },
-  "reference": "03510004BR3"
+  }
 }

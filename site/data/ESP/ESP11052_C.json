@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11052_C",
   "country": "ESP",
+  "reference": "03510004F7O",
   "name": "FILIGRANA II",
   "rating": {
     "gph": 706.2,
@@ -197,6 +198,5 @@
       6.96,
       7.5
     ]
-  },
-  "reference": "03510004F7O"
+  }
 }

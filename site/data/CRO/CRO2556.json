@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2556",
   "country": "CRO",
+  "reference": "03620004LUA",
   "name": "Neostar III",
   "rating": {
     "gph": 614.2,
@@ -197,6 +198,5 @@
       7.84,
       8.45
     ]
-  },
-  "reference": "03620004LUA"
+  }
 }

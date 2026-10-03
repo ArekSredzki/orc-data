@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11430_C",
   "country": "ESP",
+  "reference": "03510004OE8",
   "name": "PISANLOF",
   "rating": {
     "gph": 536.8,
@@ -197,6 +198,5 @@
       8.66,
       9.78
     ]
-  },
-  "reference": "03510004OE8"
+  }
 }

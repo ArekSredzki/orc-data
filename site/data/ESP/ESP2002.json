@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2002",
   "country": "ESP",
+  "reference": "03510004WJ1",
   "name": "SOLERIG VI",
   "rating": {
     "gph": 556.9,
@@ -197,6 +198,5 @@
       8.99,
       10.41
     ]
-  },
-  "reference": "03510004WJ1"
+  }
 }

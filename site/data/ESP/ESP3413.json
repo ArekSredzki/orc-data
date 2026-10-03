@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3413",
   "country": "ESP",
+  "reference": "03510004SWN",
   "name": "LEVANTE III",
   "rating": {
     "gph": 701.1,
@@ -197,6 +198,5 @@
       7.13,
       8.22
     ]
-  },
-  "reference": "03510004SWN"
+  }
 }

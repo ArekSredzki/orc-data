@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA56440",
   "country": "USA",
+  "reference": "04560004FHU",
   "name": "AEOLOS",
   "rating": {
     "gph": 552.0,
@@ -197,6 +198,5 @@
       8.49,
       9.63
     ]
-  },
-  "reference": "04560004FHU"
+  }
 }

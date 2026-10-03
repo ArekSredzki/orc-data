@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA79",
   "country": "USA",
+  "reference": "04560004QQL",
   "name": "KYRIE",
   "rating": {
     "gph": 597.4,
@@ -197,6 +198,5 @@
       7.86,
       8.5
     ]
-  },
-  "reference": "04560004QQL"
+  }
 }

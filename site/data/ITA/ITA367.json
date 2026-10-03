@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA367",
   "country": "ITA",
+  "reference": "03190004MP7",
   "name": "MARGOT",
   "rating": {
     "gph": 616.4,
@@ -197,6 +198,5 @@
       7.99,
       8.77
     ]
-  },
-  "reference": "03190004MP7"
+  }
 }

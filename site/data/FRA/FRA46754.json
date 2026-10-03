@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA46754",
   "country": "FRA",
+  "reference": "04330004FEV",
   "name": "LOVELY TIME",
   "rating": {
     "gph": 680.0,
@@ -197,6 +198,5 @@
       7.48,
       8.34
     ]
-  },
-  "reference": "04330004FEV"
+  }
 }

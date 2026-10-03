@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR67",
   "country": "NOR",
+  "reference": "03440004O9I",
   "name": "Chasing Grace",
   "rating": {
     "gph": 491.0,
@@ -197,6 +198,5 @@
       11.16,
       14.62
     ]
-  },
-  "reference": "03440004O9I"
+  }
 }

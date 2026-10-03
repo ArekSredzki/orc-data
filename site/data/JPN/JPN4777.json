@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN4777",
   "country": "JPN",
+  "reference": "03390004JI4",
   "name": "PROPAGANDA",
   "rating": {
     "gph": 582.9,
@@ -197,6 +198,5 @@
       8.53,
       11.24
     ]
-  },
-  "reference": "03390004JI4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9629",
   "country": "NOR",
+  "reference": "03440004L3O",
   "name": "CB`N",
   "rating": {
     "gph": 610.7,
@@ -197,6 +198,5 @@
       8.22,
       9.13
     ]
-  },
-  "reference": "03440004L3O"
+  }
 }

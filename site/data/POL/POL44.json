@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL44",
   "country": "POL",
+  "reference": "04410004WPJ",
   "name": "LARA JANE",
   "rating": {
     "gph": 572.8,
@@ -197,6 +198,5 @@
       9.42,
       12.89
     ]
-  },
-  "reference": "04410004WPJ"
+  }
 }

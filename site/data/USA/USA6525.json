@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA6525",
   "country": "USA",
+  "reference": "04560004UN3",
   "name": "CAHOOTS",
   "rating": {
     "gph": 654.1,
@@ -197,6 +198,5 @@
       7.43,
       8.06
     ]
-  },
-  "reference": "04560004UN3"
+  }
 }

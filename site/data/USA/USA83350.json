@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA83350",
   "country": "USA",
+  "reference": "04560004QDU",
   "name": "INCOMMUNICADO",
   "rating": {
     "gph": 624.4,
@@ -197,6 +198,5 @@
       7.85,
       8.61
     ]
-  },
-  "reference": "04560004QDU"
+  }
 }

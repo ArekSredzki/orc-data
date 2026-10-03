@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/GBR2664R",
   "country": "MLT",
+  "reference": "03230004KD0",
   "name": "Darkwood",
   "rating": {
     "gph": 543.7,
@@ -197,6 +198,5 @@
       8.99,
       11.01
     ]
-  },
-  "reference": "03230004KD0"
+  }
 }

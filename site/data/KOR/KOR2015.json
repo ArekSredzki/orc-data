@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR2015",
   "country": "KOR",
+  "reference": "04550004RRW",
   "name": "Tiger shark",
   "rating": {
     "gph": 652.4,
@@ -197,6 +198,5 @@
       7.74,
       10.18
     ]
-  },
-  "reference": "04550004RRW"
+  }
 }

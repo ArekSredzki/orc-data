@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA11970",
   "country": "ITA",
+  "reference": "03190004IHP",
   "name": "ELO II",
   "rating": {
     "gph": 537.4,
@@ -197,6 +198,5 @@
       8.85,
       10.54
     ]
-  },
-  "reference": "03190004IHP"
+  }
 }

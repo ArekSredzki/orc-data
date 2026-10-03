@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51882",
   "country": "USA",
+  "reference": "04560004H89",
   "name": "Illyria",
   "rating": {
     "gph": 573.2,
@@ -197,6 +198,5 @@
       8.39,
       10.14
     ]
-  },
-  "reference": "04560004H89"
+  }
 }

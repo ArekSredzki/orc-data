@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11081_C",
   "country": "ESP",
+  "reference": "03510004IOW",
   "name": "FULL MOON",
   "rating": {
     "gph": 608.7,
@@ -197,6 +198,5 @@
       7.8,
       8.53
     ]
-  },
-  "reference": "03510004IOW"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10868_C",
   "country": "ESP",
+  "reference": "03510004B8A",
   "name": "CHRONOS",
   "rating": {
     "gph": 651.7,
@@ -197,6 +198,5 @@
       7.74,
       8.32
     ]
-  },
-  "reference": "03510004B8A"
+  }
 }

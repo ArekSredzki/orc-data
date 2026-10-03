@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA480",
   "country": "USA",
+  "reference": "04560004TH9",
   "name": "GANGBUSTERS",
   "rating": {
     "gph": 613.7,
@@ -197,6 +198,5 @@
       7.84,
       9.8
     ]
-  },
-  "reference": "04560004TH9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1024_C",
   "country": "ESP",
+  "reference": "03510004IA9",
   "name": "MELMAC",
   "rating": {
     "gph": 680.8,
@@ -197,6 +198,5 @@
       7.71,
       9.65
     ]
-  },
-  "reference": "03510004IA9"
+  }
 }

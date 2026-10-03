@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA24UFO22",
   "country": "ITA",
+  "reference": "031900048PJ",
   "name": "YELLOW BEE",
   "rating": {
     "gph": 670.7,
@@ -197,6 +198,5 @@
       10.1,
       13.07
     ]
-  },
-  "reference": "031900048PJ"
+  }
 }

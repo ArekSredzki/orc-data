@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2030",
   "country": "TUR",
+  "reference": "04590004N2S",
   "name": "QUATTRO 4",
   "rating": {
     "gph": 635.2,
@@ -197,6 +198,5 @@
       7.52,
       8.8
     ]
-  },
-  "reference": "04590004N2S"
+  }
 }

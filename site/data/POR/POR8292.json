@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR8292",
   "country": "POR",
+  "reference": "03530004BE4",
   "name": "PARAGON",
   "rating": {
     "gph": 628.0,
@@ -197,6 +198,5 @@
       8.02,
       8.79
     ]
-  },
-  "reference": "03530004BE4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15046",
   "country": "NOR",
+  "reference": "03440004R2J",
   "name": "Isbj\u00f8rn",
   "rating": {
     "gph": 613.0,
@@ -197,6 +198,5 @@
       8.1,
       8.66
     ]
-  },
-  "reference": "03440004R2J"
+  }
 }

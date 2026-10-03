@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1112",
   "country": "TUR",
+  "reference": "04590004JBV",
   "name": "M2",
   "rating": {
     "gph": 644.0,
@@ -197,6 +198,5 @@
       7.75,
       8.58
     ]
-  },
-  "reference": "04590004JBV"
+  }
 }

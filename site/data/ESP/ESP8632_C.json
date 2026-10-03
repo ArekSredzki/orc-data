@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8632_C",
   "country": "ESP",
+  "reference": "03510004B88",
   "name": "BIG SUR PRIMERO",
   "rating": {
     "gph": 670.5,
@@ -197,6 +198,5 @@
       7.29,
       7.88
     ]
-  },
-  "reference": "03510004B88"
+  }
 }

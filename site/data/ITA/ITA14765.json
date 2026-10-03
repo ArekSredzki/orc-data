@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14765",
   "country": "ITA",
+  "reference": "03190004R7H",
   "name": "ELETTRA",
   "rating": {
     "gph": 639.4,
@@ -197,6 +198,5 @@
       7.42,
       8.0
     ]
-  },
-  "reference": "03190004R7H"
+  }
 }

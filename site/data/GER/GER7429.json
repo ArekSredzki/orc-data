@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7429",
   "country": "GER",
+  "reference": "04150004KLB",
   "name": "GYMIR",
   "rating": {
     "gph": 702.7,
@@ -197,6 +198,5 @@
       7.28,
       7.85
     ]
-  },
-  "reference": "04150004KLB"
+  }
 }

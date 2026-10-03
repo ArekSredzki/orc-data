@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11425",
   "country": "FIN",
+  "reference": "04140004PR5",
   "name": "Selene",
   "rating": {
     "gph": 628.7,
@@ -197,6 +198,5 @@
       8.02,
       8.75
     ]
-  },
-  "reference": "04140004PR5"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6977_C",
   "country": "ESP",
+  "reference": "03510004RWT",
   "name": "TAREIS T",
   "rating": {
     "gph": 582.6,
@@ -197,6 +198,5 @@
       8.32,
       9.13
     ]
-  },
-  "reference": "03510004RWT"
+  }
 }

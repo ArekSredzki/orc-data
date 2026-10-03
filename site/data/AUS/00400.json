@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/00400",
   "country": "AUS",
+  "reference": "03020004UBA",
   "name": "VENTO",
   "rating": {
     "gph": 507.0,
@@ -197,6 +198,5 @@
       12.02,
       15.33
     ]
-  },
-  "reference": "03020004UBA"
+  }
 }

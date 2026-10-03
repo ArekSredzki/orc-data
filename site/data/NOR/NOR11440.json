@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11440",
   "country": "NOR",
+  "reference": "03440004IST",
   "name": "occasion\u00e8",
   "rating": {
     "gph": 623.8,
@@ -197,6 +198,5 @@
       8.01,
       8.79
     ]
-  },
-  "reference": "03440004IST"
+  }
 }

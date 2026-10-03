@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE164",
   "country": "SWE",
+  "reference": "03200004M11",
   "name": "Embla",
   "rating": {
     "gph": 594.8,
@@ -197,6 +198,5 @@
       8.24,
       9.0
     ]
-  },
-  "reference": "03200004M11"
+  }
 }

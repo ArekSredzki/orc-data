@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP45751",
   "country": "ESP",
+  "reference": "03510004UEB",
   "name": "ESPITOS \"UNO\"",
   "rating": {
     "gph": 642.1,
@@ -197,6 +198,5 @@
       7.96,
       8.93
     ]
-  },
-  "reference": "03510004UEB"
+  }
 }

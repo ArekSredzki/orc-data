@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2262",
   "country": "GRE",
+  "reference": "03420004R5M",
   "name": "THESEUS",
   "rating": {
     "gph": 701.2,
@@ -197,6 +198,5 @@
       7.23,
       7.73
     ]
-  },
-  "reference": "03420004R5M"
+  }
 }

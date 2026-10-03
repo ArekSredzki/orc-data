@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/BEL1206",
   "country": "NED",
+  "reference": "04310004JRQ",
   "name": "FarFelu",
   "rating": {
     "gph": 664.5,
@@ -197,6 +198,5 @@
       7.75,
       8.7
     ]
-  },
-  "reference": "04310004JRQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR8169",
   "country": "POR",
+  "reference": "03530004BE8",
   "name": "JAFOSTE",
   "rating": {
     "gph": 671.3,
@@ -197,6 +198,5 @@
       7.53,
       8.26
     ]
-  },
-  "reference": "03530004BE8"
+  }
 }

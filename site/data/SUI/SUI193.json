@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI193",
   "country": "SUI",
+  "reference": "03080004FAL",
   "name": "LE CACTUS",
   "rating": {
     "gph": 663.2,
@@ -197,6 +198,5 @@
       7.75,
       10.61
     ]
-  },
-  "reference": "03080004FAL"
+  }
 }

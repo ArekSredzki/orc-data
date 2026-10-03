@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN1007",
   "country": "CAN",
+  "reference": "03430004M9S",
   "name": "Chameleon",
   "rating": {
     "gph": 568.3,
@@ -197,6 +198,5 @@
       10.84,
       13.92
     ]
-  },
-  "reference": "03430004M9S"
+  }
 }

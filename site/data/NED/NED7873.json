@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7873",
   "country": "NED",
+  "reference": "04310004K07",
   "name": "Hebbes",
   "rating": {
     "gph": 640.1,
@@ -197,6 +198,5 @@
       7.85,
       9.86
     ]
-  },
-  "reference": "04310004K07"
+  }
 }

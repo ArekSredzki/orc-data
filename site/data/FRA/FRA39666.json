@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA39666",
   "country": "FRA",
+  "reference": "04330004OT4",
   "name": "AOD LOR",
   "rating": {
     "gph": 634.6,
@@ -197,6 +198,5 @@
       8.06,
       9.17
     ]
-  },
-  "reference": "04330004OT4"
+  }
 }

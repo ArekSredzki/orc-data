@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17174",
   "country": "ITA",
+  "reference": "03190004M1A",
   "name": "TAKE FIVE JR",
   "rating": {
     "gph": 616.1,
@@ -197,6 +198,5 @@
       8.22,
       9.35
     ]
-  },
-  "reference": "03190004M1A"
+  }
 }

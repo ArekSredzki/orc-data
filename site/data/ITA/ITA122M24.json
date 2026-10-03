@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA122M24",
   "country": "ITA",
+  "reference": "03190004KKC",
   "name": "NEGHENE'",
   "rating": {
     "gph": 623.1,
@@ -197,6 +198,5 @@
       10.64,
       13.74
     ]
-  },
-  "reference": "03190004KKC"
+  }
 }

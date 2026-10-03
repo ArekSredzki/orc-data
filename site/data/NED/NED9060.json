@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9060",
   "country": "NED",
+  "reference": "04310004WF9",
   "name": "Warp 5",
   "rating": {
     "gph": 616.9,
@@ -197,6 +198,5 @@
       8.07,
       9.17
     ]
-  },
-  "reference": "04310004WF9"
+  }
 }

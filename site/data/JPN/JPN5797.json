@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN5797",
   "country": "JPN",
+  "reference": "03390004N64",
   "name": "Zipang",
   "rating": {
     "gph": 593.1,
@@ -197,6 +198,5 @@
       8.34,
       10.46
     ]
-  },
-  "reference": "03390004N64"
+  }
 }

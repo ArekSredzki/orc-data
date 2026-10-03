@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA5201",
   "country": "USA",
+  "reference": "04560004V9R",
   "name": "WINDHOVER",
   "rating": {
     "gph": 633.5,
@@ -197,6 +198,5 @@
       7.58,
       8.97
     ]
-  },
-  "reference": "04560004V9R"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10579",
   "country": "FIN",
+  "reference": "04140004P6Q",
   "name": "Nea Nora",
   "rating": {
     "gph": 623.3,
@@ -197,6 +198,5 @@
       7.85,
       8.54
     ]
-  },
-  "reference": "04140004P6Q"
+  }
 }

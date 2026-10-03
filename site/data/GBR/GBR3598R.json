@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GBR3598R",
   "country": "GBR",
+  "reference": "03860004N4O",
   "name": "FLIGHT OF DURGAN",
   "rating": {
     "gph": 583.9,
@@ -197,6 +198,5 @@
       8.59,
       9.48
     ]
-  },
-  "reference": "03860004N4O"
+  }
 }

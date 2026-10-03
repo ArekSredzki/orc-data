@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25999",
   "country": "USA",
+  "reference": "04560004QUJ",
   "name": "NOBODY'S FAULT",
   "rating": {
     "gph": 566.6,
@@ -197,6 +198,5 @@
       8.42,
       10.34
     ]
-  },
-  "reference": "04560004QUJ"
+  }
 }

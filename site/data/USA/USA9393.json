@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA9393",
   "country": "USA",
+  "reference": "04560004QKT",
   "name": "SET FREE",
   "rating": {
     "gph": 568.5,
@@ -197,6 +198,5 @@
       8.15,
       9.65
     ]
-  },
-  "reference": "04560004QKT"
+  }
 }

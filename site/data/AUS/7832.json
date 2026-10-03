@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/7832",
   "country": "AUS",
+  "reference": "03020004UBD",
   "name": "Carpe Vitae",
   "rating": {
     "gph": 763.1,
@@ -197,6 +198,5 @@
       8.0,
       11.14
     ]
-  },
-  "reference": "03020004UBD"
+  }
 }

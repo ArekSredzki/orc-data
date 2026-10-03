@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7287",
   "country": "GER",
+  "reference": "04150004MH3",
   "name": "PHILOU",
   "rating": {
     "gph": 554.0,
@@ -197,6 +198,5 @@
       8.63,
       9.42
     ]
-  },
-  "reference": "04150004MH3"
+  }
 }

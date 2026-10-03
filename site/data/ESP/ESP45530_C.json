@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP45530_C",
   "country": "ESP",
+  "reference": "03510004W4K",
   "name": "RENEGADE",
   "rating": {
     "gph": 640.3,
@@ -197,6 +198,5 @@
       8.02,
       9.11
     ]
-  },
-  "reference": "03510004W4K"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52005",
   "country": "USA",
+  "reference": "04560004ENU",
   "name": "SMOKE",
   "rating": {
     "gph": 445.7,
@@ -197,6 +198,5 @@
       13.49,
       16.61
     ]
-  },
-  "reference": "04560004ENU"
+  }
 }

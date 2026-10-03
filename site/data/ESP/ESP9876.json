@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9876",
   "country": "ESP",
+  "reference": "03510004BLC",
   "name": "NIDEA 2",
   "rating": {
     "gph": 623.7,
@@ -197,6 +198,5 @@
       8.06,
       8.78
     ]
-  },
-  "reference": "03510004BLC"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8001",
   "country": "GER",
+  "reference": "03520004I2L",
   "name": "CLARA",
   "rating": {
     "gph": 686.3,
@@ -197,6 +198,5 @@
       7.48,
       9.65
     ]
-  },
-  "reference": "03520004I2L"
+  }
 }

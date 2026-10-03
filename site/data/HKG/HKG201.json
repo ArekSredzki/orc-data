@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG201",
   "country": "HKG",
+  "reference": "038800048BA",
   "name": "Minnie The Moocher",
   "rating": {
     "gph": 536.3,
@@ -197,6 +198,5 @@
       10.32,
       13.27
     ]
-  },
-  "reference": "038800048BA"
+  }
 }

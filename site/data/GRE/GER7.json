@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GER7",
   "country": "GRE",
+  "reference": "03420004I7P",
   "name": "MADAME SOUSSOU",
   "rating": {
     "gph": 725.4,
@@ -197,6 +198,5 @@
       7.23,
       7.79
     ]
-  },
-  "reference": "03420004I7P"
+  }
 }

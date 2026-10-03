@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/ARM7777",
   "country": "TUR",
+  "reference": "04590004IL8",
   "name": "X PRIME",
   "rating": {
     "gph": 543.2,
@@ -197,6 +198,5 @@
       8.76,
       10.35
     ]
-  },
-  "reference": "04590004IL8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR30048",
   "country": "NOR",
+  "reference": "03440004NAH",
   "name": "Hyrrokin",
   "rating": {
     "gph": 594.4,
@@ -197,6 +198,5 @@
       9.08,
       12.49
     ]
-  },
-  "reference": "03440004NAH"
+  }
 }

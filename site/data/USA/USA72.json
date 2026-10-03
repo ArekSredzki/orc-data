@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA72",
   "country": "USA",
+  "reference": "04560004FKB",
   "name": "TIGRIS",
   "rating": {
     "gph": 567.9,
@@ -197,6 +198,5 @@
       10.54,
       13.64
     ]
-  },
-  "reference": "04560004FKB"
+  }
 }

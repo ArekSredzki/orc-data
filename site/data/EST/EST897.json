@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST897",
   "country": "EST",
+  "reference": "04340004PNV",
   "name": "\u00d6\u00f6",
   "rating": {
     "gph": 720.3,
@@ -197,6 +198,5 @@
       7.07,
       7.63
     ]
-  },
-  "reference": "04340004PNV"
+  }
 }

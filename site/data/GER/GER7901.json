@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7901",
   "country": "GER",
+  "reference": "03520004I2I",
   "name": "KLEINES HAIJAIJAI",
   "rating": {
     "gph": 675.2,
@@ -197,6 +198,5 @@
       7.43,
       8.07
     ]
-  },
-  "reference": "03520004I2I"
+  }
 }

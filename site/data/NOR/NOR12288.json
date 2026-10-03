@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12288",
   "country": "NOR",
+  "reference": "03440004M5J",
   "name": "Gr\u00f8yven",
   "rating": {
     "gph": 608.9,
@@ -197,6 +198,5 @@
       8.32,
       9.1
     ]
-  },
-  "reference": "03440004M5J"
+  }
 }

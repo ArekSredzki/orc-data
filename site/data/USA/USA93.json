@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA93",
   "country": "USA",
+  "reference": "04560004EUU",
   "name": "Serenite",
   "rating": {
     "gph": 595.8,
@@ -197,6 +198,5 @@
       8.0,
       8.57
     ]
-  },
-  "reference": "04560004EUU"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS615",
   "country": "AUS",
+  "reference": "03020004WDC",
   "name": "MERCURY",
   "rating": {
     "gph": 539.5,
@@ -197,6 +198,5 @@
       9.61,
       11.9
     ]
-  },
-  "reference": "03020004WDC"
+  }
 }

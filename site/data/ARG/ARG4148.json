@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG4148",
   "country": "ARG",
+  "reference": "03880004N0T",
   "name": "SKAL CLERICO",
   "rating": {
     "gph": 653.4,
@@ -197,6 +198,5 @@
       7.5,
       8.17
     ]
-  },
-  "reference": "03880004N0T"
+  }
 }

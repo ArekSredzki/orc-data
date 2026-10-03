@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3773",
   "country": "NED",
+  "reference": "04310004M44",
   "name": "Flying Fish",
   "rating": {
     "gph": 634.7,
@@ -197,6 +198,5 @@
       8.13,
       9.15
     ]
-  },
-  "reference": "04310004M44"
+  }
 }

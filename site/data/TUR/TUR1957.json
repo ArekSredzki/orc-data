@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1957",
   "country": "TUR",
+  "reference": "04590004Q4H",
   "name": "CHEESE IV",
   "rating": {
     "gph": 525.1,
@@ -197,6 +198,5 @@
       10.2,
       12.93
     ]
-  },
-  "reference": "04590004Q4H"
+  }
 }

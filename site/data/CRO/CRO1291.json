@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO1291",
   "country": "CRO",
+  "reference": "03620004ISD",
   "name": "Kety",
   "rating": {
     "gph": 579.2,
@@ -197,6 +198,5 @@
       8.78,
       9.54
     ]
-  },
-  "reference": "03620004ISD"
+  }
 }

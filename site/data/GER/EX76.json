@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/EX76",
   "country": "GER",
+  "reference": "04150004MH0",
   "name": "LYNX",
   "rating": {
     "gph": 723.9,
@@ -197,6 +198,5 @@
       6.99,
       7.85
     ]
-  },
-  "reference": "04150004MH0"
+  }
 }

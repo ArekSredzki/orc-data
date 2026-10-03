@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA56",
   "country": "USA",
+  "reference": "04560004REB",
   "name": "JAM JAM",
   "rating": {
     "gph": 721.9,
@@ -197,6 +198,5 @@
       6.85,
       7.4
     ]
-  },
-  "reference": "04560004REB"
+  }
 }

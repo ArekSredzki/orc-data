@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15787",
   "country": "NOR",
+  "reference": "03440004WN0",
   "name": "Obsession",
   "rating": {
     "gph": 539.0,
@@ -197,6 +198,5 @@
       9.36,
       11.73
     ]
-  },
-  "reference": "03440004WN0"
+  }
 }

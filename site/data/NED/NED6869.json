@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6869",
   "country": "NED",
+  "reference": "04310004JW4",
   "name": "Pier 10",
   "rating": {
     "gph": 610.5,
@@ -197,6 +198,5 @@
       8.19,
       8.89
     ]
-  },
-  "reference": "04310004JW4"
+  }
 }

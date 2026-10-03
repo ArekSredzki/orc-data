@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/UAE74111",
   "country": "USA",
+  "reference": "04560004VDA",
   "name": "Turbo Gary",
   "rating": {
     "gph": 496.4,
@@ -197,6 +198,5 @@
       12.78,
       15.99
     ]
-  },
-  "reference": "04560004VDA"
+  }
 }

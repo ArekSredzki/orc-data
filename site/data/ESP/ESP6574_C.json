@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6574_C",
   "country": "ESP",
+  "reference": "03510004BI9",
   "name": "CAP PROBLEMA III",
   "rating": {
     "gph": 644.4,
@@ -197,6 +198,5 @@
       7.77,
       8.43
     ]
-  },
-  "reference": "03510004BI9"
+  }
 }

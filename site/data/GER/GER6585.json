@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6585",
   "country": "GER",
+  "reference": "04150004QAR",
   "name": "BALLERINA 2",
   "rating": {
     "gph": 672.0,
@@ -197,6 +198,5 @@
       7.55,
       8.32
     ]
-  },
-  "reference": "04150004QAR"
+  }
 }

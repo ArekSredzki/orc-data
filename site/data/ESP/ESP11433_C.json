@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11433_C",
   "country": "ESP",
+  "reference": "0351000488V",
   "name": "EL CABASSET",
   "rating": {
     "gph": 645.3,
@@ -197,6 +198,5 @@
       7.83,
       8.52
     ]
-  },
-  "reference": "0351000488V"
+  }
 }

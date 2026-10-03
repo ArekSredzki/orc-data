@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/SP3601",
   "country": "AUS",
+  "reference": "03020004TNQ",
   "name": "Tapestry",
   "rating": {
     "gph": 603.0,
@@ -197,6 +198,5 @@
       8.34,
       9.43
     ]
-  },
-  "reference": "03020004TNQ"
+  }
 }

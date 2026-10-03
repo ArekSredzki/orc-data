@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/ITA3049",
   "country": "FRA",
+  "reference": "04330004KV2",
   "name": "BIM 3",
   "rating": {
     "gph": 594.2,
@@ -197,6 +198,5 @@
       9.25,
       12.17
     ]
-  },
-  "reference": "04330004KV2"
+  }
 }

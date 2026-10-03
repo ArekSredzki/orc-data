@@ -1,6 +1,7 @@
 {
   "sailnumber": "SLO/SLO735",
   "country": "SLO",
+  "reference": "03090004QED",
   "name": "Freya",
   "rating": {
     "gph": 655.8,
@@ -197,6 +198,5 @@
       7.36,
       8.29
     ]
-  },
-  "reference": "03090004QED"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GBR234",
   "country": "ESP",
+  "reference": "03510004VA7",
   "name": "SAIOLA 10",
   "rating": {
     "gph": 604.7,
@@ -197,6 +198,5 @@
       8.23,
       9.3
     ]
-  },
-  "reference": "03510004VA7"
+  }
 }

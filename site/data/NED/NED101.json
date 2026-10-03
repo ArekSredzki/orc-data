@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED101",
   "country": "NED",
+  "reference": "04310004QVB",
   "name": "SailSelect",
   "rating": {
     "gph": 630.6,
@@ -197,6 +198,5 @@
       8.07,
       8.77
     ]
-  },
-  "reference": "04310004QVB"
+  }
 }

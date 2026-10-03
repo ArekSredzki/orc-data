@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5122_C",
   "country": "ESP",
+  "reference": "03510004RVA",
   "name": "UNDERWOOD",
   "rating": {
     "gph": 762.1,
@@ -197,6 +198,5 @@
       6.67,
       7.18
     ]
-  },
-  "reference": "03510004RVA"
+  }
 }

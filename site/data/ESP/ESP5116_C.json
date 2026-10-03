@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5116_C",
   "country": "ESP",
+  "reference": "035100048JO",
   "name": "MAURITANIA",
   "rating": {
     "gph": 690.0,
@@ -197,6 +198,5 @@
       7.42,
       8.01
     ]
-  },
-  "reference": "035100048JO"
+  }
 }

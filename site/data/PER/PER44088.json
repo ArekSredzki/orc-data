@@ -1,6 +1,7 @@
 {
   "sailnumber": "PER/PER44088",
   "country": "PER",
+  "reference": "03460004RDC",
   "name": "STRIKER",
   "rating": {
     "gph": 586.4,
@@ -197,6 +198,5 @@
       8.26,
       8.92
     ]
-  },
-  "reference": "03460004RDC"
+  }
 }

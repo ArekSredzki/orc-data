@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA5288",
   "country": "USA",
+  "reference": "04560004V5J",
   "name": "BRAVO",
   "rating": {
     "gph": 659.5,
@@ -197,6 +198,5 @@
       7.5,
       8.16
     ]
-  },
-  "reference": "04560004V5J"
+  }
 }

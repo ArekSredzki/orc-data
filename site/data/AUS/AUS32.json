@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS32",
   "country": "AUS",
+  "reference": "03020004UAK",
   "name": "SKAGERAK",
   "rating": {
     "gph": 698.0,
@@ -197,6 +198,5 @@
       7.5,
       9.11
     ]
-  },
-  "reference": "03020004UAK"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5300",
   "country": "ARG",
+  "reference": "03880004V88",
   "name": "MAD MAX by Canuto",
   "rating": {
     "gph": 585.9,
@@ -197,6 +198,5 @@
       8.57,
       10.93
     ]
-  },
-  "reference": "03880004V88"
+  }
 }

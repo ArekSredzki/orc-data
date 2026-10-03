@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2174",
   "country": "GRE",
+  "reference": "03420004WBC",
   "name": "EQUINOXE",
   "rating": {
     "gph": 581.7,
@@ -197,6 +198,5 @@
       8.05,
       8.72
     ]
-  },
-  "reference": "03420004WBC"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11227",
   "country": "NOR",
+  "reference": "03440004L44",
   "name": "SY Mango",
   "rating": {
     "gph": 596.9,
@@ -197,6 +198,5 @@
       8.42,
       9.22
     ]
-  },
-  "reference": "03440004L44"
+  }
 }

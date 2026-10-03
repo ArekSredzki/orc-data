@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO1169",
   "country": "CRO",
+  "reference": "03620004VWD",
   "name": "Filka",
   "rating": {
     "gph": 655.3,
@@ -197,6 +198,5 @@
       8.8,
       11.87
     ]
-  },
-  "reference": "03620004VWD"
+  }
 }

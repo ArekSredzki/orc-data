@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11414_C",
   "country": "ESP",
+  "reference": "03510004J79",
   "name": "DAROAN STAR",
   "rating": {
     "gph": 662.1,
@@ -197,6 +198,5 @@
       7.25,
       7.77
     ]
-  },
-  "reference": "03510004J79"
+  }
 }

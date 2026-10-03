@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA21840",
   "country": "FRA",
+  "reference": "04330004J81",
   "name": "XCEPTION 2",
   "rating": {
     "gph": 624.8,
@@ -197,6 +198,5 @@
       7.9,
       8.67
     ]
-  },
-  "reference": "04330004J81"
+  }
 }

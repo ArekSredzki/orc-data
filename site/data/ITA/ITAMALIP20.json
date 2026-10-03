@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAMALIP20",
   "country": "ITA",
+  "reference": "03190004QCP",
   "name": "MALIPAN",
   "rating": {
     "gph": 720.5,
@@ -197,6 +198,5 @@
       7.01,
       7.92
     ]
-  },
-  "reference": "03190004QCP"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN6275",
   "country": "JPN",
+  "reference": "03390004QMB",
   "name": "GRAND BLUE",
   "rating": {
     "gph": 590.4,
@@ -197,6 +198,5 @@
       8.06,
       10.27
     ]
-  },
-  "reference": "03390004QMB"
+  }
 }

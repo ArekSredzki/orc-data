@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10240",
   "country": "NOR",
+  "reference": "03440004W4P",
   "name": "Fritt Fram!",
   "rating": {
     "gph": 605.6,
@@ -197,6 +198,5 @@
       8.28,
       9.06
     ]
-  },
-  "reference": "03440004W4P"
+  }
 }

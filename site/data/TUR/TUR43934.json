@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR43934",
   "country": "TUR",
+  "reference": "04590004JKU",
   "name": "ALBATROS",
   "rating": {
     "gph": 645.8,
@@ -197,6 +198,5 @@
       8.15,
       9.48
     ]
-  },
-  "reference": "04590004JKU"
+  }
 }

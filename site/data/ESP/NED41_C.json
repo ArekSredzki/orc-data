@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/NED41_C",
   "country": "ESP",
+  "reference": "03510004EM0",
   "name": "VENDETTA",
   "rating": {
     "gph": 601.0,
@@ -197,6 +198,5 @@
       9.88,
       13.14
     ]
-  },
-  "reference": "03510004EM0"
+  }
 }

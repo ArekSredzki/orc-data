@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14448",
   "country": "ITA",
+  "reference": "03190004H0B",
   "name": "1 SAIL",
   "rating": {
     "gph": 647.0,
@@ -197,6 +198,5 @@
       7.32,
       8.25
     ]
-  },
-  "reference": "03190004H0B"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15735",
   "country": "NOR",
+  "reference": "03440004H6V",
   "name": "Merlin II",
   "rating": {
     "gph": 637.8,
@@ -197,6 +198,5 @@
       7.47,
       8.05
     ]
-  },
-  "reference": "03440004H6V"
+  }
 }

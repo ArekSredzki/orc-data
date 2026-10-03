@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11013",
   "country": "ESP",
+  "reference": "03510004UEM",
   "name": "LASSAL",
   "rating": {
     "gph": 634.1,
@@ -197,6 +198,5 @@
       8.02,
       8.8
     ]
-  },
-  "reference": "03510004UEM"
+  }
 }

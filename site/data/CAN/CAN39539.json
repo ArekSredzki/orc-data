@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN39539",
   "country": "CAN",
+  "reference": "03430004UM7",
   "name": "FastTrak",
   "rating": {
     "gph": 560.3,
@@ -197,6 +198,5 @@
       9.06,
       11.55
     ]
-  },
-  "reference": "03430004UM7"
+  }
 }

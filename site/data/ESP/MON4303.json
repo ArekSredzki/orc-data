@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/MON4303",
   "country": "ESP",
+  "reference": "03510004N7R",
   "name": "VARGEN",
   "rating": {
     "gph": 507.1,
@@ -197,6 +198,5 @@
       10.77,
       13.41
     ]
-  },
-  "reference": "03510004N7R"
+  }
 }

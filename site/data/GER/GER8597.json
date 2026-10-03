@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8597",
   "country": "GER",
+  "reference": "04150004N7A",
   "name": "RAGAZZA",
   "rating": {
     "gph": 684.6,
@@ -197,6 +198,5 @@
       7.57,
       9.85
     ]
-  },
-  "reference": "04150004N7A"
+  }
 }

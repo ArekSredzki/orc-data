@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA411",
   "country": "USA",
+  "reference": "04560004RTV",
   "name": "Photon",
   "rating": {
     "gph": 547.4,
@@ -197,6 +198,5 @@
       9.3,
       11.87
     ]
-  },
-  "reference": "04560004RTV"
+  }
 }

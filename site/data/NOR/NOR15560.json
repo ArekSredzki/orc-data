@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15560",
   "country": "NOR",
+  "reference": "03440004OA5",
   "name": "Snakkas",
   "rating": {
     "gph": 534.6,
@@ -197,6 +198,5 @@
       9.53,
       12.17
     ]
-  },
-  "reference": "03440004OA5"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5088_C",
   "country": "ESP",
+  "reference": "03510004UUE",
   "name": "CARMA",
   "rating": {
     "gph": 690.9,
@@ -197,6 +198,5 @@
       7.08,
       7.71
     ]
-  },
-  "reference": "03510004UUE"
+  }
 }

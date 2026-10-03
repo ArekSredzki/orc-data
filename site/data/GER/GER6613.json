@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6613",
   "country": "GER",
+  "reference": "04150004IV4",
   "name": "FREDFISHER",
   "rating": {
     "gph": 578.2,
@@ -197,6 +198,5 @@
       8.68,
       9.51
     ]
-  },
-  "reference": "04150004IV4"
+  }
 }

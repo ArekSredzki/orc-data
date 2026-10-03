@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1362",
   "country": "ESP",
+  "reference": "03510004BFJ",
   "name": "ARDORA III",
   "rating": {
     "gph": 687.7,
@@ -197,6 +198,5 @@
       7.21,
       7.82
     ]
-  },
-  "reference": "03510004BFJ"
+  }
 }

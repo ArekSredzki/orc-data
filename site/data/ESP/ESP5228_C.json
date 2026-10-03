@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5228_C",
   "country": "ESP",
+  "reference": "035100048L0",
   "name": "MOOREA",
   "rating": {
     "gph": 718.1,
@@ -197,6 +198,5 @@
       7.34,
       8.13
     ]
-  },
-  "reference": "035100048L0"
+  }
 }

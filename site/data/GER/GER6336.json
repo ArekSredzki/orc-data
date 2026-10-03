@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6336",
   "country": "GER",
+  "reference": "04150004VR0",
   "name": "BAJAZZO",
   "rating": {
     "gph": 539.4,
@@ -197,6 +198,5 @@
       9.15,
       10.06
     ]
-  },
-  "reference": "04150004VR0"
+  }
 }

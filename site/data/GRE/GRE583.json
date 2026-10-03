@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE583",
   "country": "GRE",
+  "reference": "03420004K3T",
   "name": "JENY-MARI",
   "rating": {
     "gph": 771.4,
@@ -197,6 +198,5 @@
       6.78,
       7.36
     ]
-  },
-  "reference": "03420004K3T"
+  }
 }

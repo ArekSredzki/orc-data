@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15581",
   "country": "ITA",
+  "reference": "03190004NWB",
   "name": "WANDERLUST",
   "rating": {
     "gph": 539.3,
@@ -197,6 +198,5 @@
       8.79,
       10.35
     ]
-  },
-  "reference": "03190004NWB"
+  }
 }

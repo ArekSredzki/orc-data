@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6547",
   "country": "GER",
+  "reference": "04150004KL6",
   "name": "POUR ELLE",
   "rating": {
     "gph": 640.6,
@@ -197,6 +198,5 @@
       9.45,
       12.43
     ]
-  },
-  "reference": "04150004KL6"
+  }
 }

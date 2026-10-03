@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA36000",
   "country": "USA",
+  "reference": "04560004EUR",
   "name": "TACHYON",
   "rating": {
     "gph": 542.2,
@@ -197,6 +198,5 @@
       9.5,
       12.15
     ]
-  },
-  "reference": "04560004EUR"
+  }
 }

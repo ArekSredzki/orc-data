@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GER8737",
   "country": "GRE",
+  "reference": "03420004VRB",
   "name": "GUARDINGA",
   "rating": {
     "gph": 633.8,
@@ -197,6 +198,5 @@
       7.59,
       8.22
     ]
-  },
-  "reference": "03420004VRB"
+  }
 }

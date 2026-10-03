@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51548",
   "country": "USA",
+  "reference": "04560004TH6",
   "name": "IT WASN'T ME",
   "rating": {
     "gph": 614.1,
@@ -197,6 +198,5 @@
       7.85,
       9.81
     ]
-  },
-  "reference": "04560004TH6"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16677",
   "country": "ITA",
+  "reference": "03190004JBP",
   "name": "MON ILE",
   "rating": {
     "gph": 566.3,
@@ -197,6 +198,5 @@
       8.25,
       9.68
     ]
-  },
-  "reference": "03190004JBP"
+  }
 }

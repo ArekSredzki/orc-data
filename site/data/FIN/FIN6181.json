@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN6181",
   "country": "FIN",
+  "reference": "04140004H45",
   "name": "Avalon",
   "rating": {
     "gph": 725.1,
@@ -197,6 +198,5 @@
       6.63,
       7.08
     ]
-  },
-  "reference": "04140004H45"
+  }
 }

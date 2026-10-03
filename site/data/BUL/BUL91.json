@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL91",
   "country": "BUL",
+  "reference": "03850004VO7",
   "name": "Lodoz",
   "rating": {
     "gph": 756.6,
@@ -197,6 +198,5 @@
       6.55,
       7.14
     ]
-  },
-  "reference": "03850004VO7"
+  }
 }

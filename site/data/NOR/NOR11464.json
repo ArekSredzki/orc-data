@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11464",
   "country": "NOR",
+  "reference": "03440004OEE",
   "name": "Saxa",
   "rating": {
     "gph": 619.9,
@@ -197,6 +198,5 @@
       8.04,
       8.73
     ]
-  },
-  "reference": "03440004OEE"
+  }
 }

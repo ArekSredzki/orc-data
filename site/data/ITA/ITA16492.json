@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16492",
   "country": "ITA",
+  "reference": "03190004N6M",
   "name": "AMETA",
   "rating": {
     "gph": 650.5,
@@ -197,6 +198,5 @@
       7.53,
       8.12
     ]
-  },
-  "reference": "03190004N6M"
+  }
 }

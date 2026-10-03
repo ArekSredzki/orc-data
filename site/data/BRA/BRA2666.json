@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2666",
   "country": "BRA",
+  "reference": "04420004QPW",
   "name": "LOYALTY 06 TEAM",
   "rating": {
     "gph": 576.0,
@@ -197,6 +198,5 @@
       10.57,
       13.88
     ]
-  },
-  "reference": "04420004QPW"
+  }
 }

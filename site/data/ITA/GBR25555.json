@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GBR25555",
   "country": "ITA",
+  "reference": "03190004TFC",
   "name": "SHOCKWAVE 3",
   "rating": {
     "gph": 339.6,
@@ -197,6 +198,5 @@
       16.45,
       19.44
     ]
-  },
-  "reference": "03190004TFC"
+  }
 }

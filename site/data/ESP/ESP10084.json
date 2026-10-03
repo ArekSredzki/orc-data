@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10084",
   "country": "ESP",
+  "reference": "03510004R2D",
   "name": "MAIJA",
   "rating": {
     "gph": 613.5,
@@ -197,6 +198,5 @@
       7.71,
       9.06
     ]
-  },
-  "reference": "03510004R2D"
+  }
 }

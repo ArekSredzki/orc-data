@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11439",
   "country": "FIN",
+  "reference": "04140004TQN",
   "name": "Huima",
   "rating": {
     "gph": 674.1,
@@ -197,6 +198,5 @@
       7.43,
       8.18
     ]
-  },
-  "reference": "04140004TQN"
+  }
 }

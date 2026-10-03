@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1796",
   "country": "RSA",
+  "reference": "04620004AT6",
   "name": "Just Fun",
   "rating": {
     "gph": 644.5,
@@ -197,6 +198,5 @@
       8.03,
       9.49
     ]
-  },
-  "reference": "04620004AT6"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13750",
   "country": "ITA",
+  "reference": "03190004H0A",
   "name": "HACKERX",
   "rating": {
     "gph": 572.3,
@@ -197,6 +198,5 @@
       8.14,
       9.57
     ]
-  },
-  "reference": "03190004H0A"
+  }
 }

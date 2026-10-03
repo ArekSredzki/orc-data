@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10971_C",
   "country": "ESP",
+  "reference": "03510004KET",
   "name": "ARCTURUS",
   "rating": {
     "gph": 557.2,
@@ -197,6 +198,5 @@
       9.27,
       10.22
     ]
-  },
-  "reference": "03510004KET"
+  }
 }

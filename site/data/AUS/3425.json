@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/3425",
   "country": "AUS",
+  "reference": "03020004W91",
   "name": "GWhizz",
   "rating": {
     "gph": 629.7,
@@ -197,6 +198,5 @@
       7.86,
       8.62
     ]
-  },
-  "reference": "03020004W91"
+  }
 }

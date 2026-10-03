@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA370",
   "country": "USA",
+  "reference": "04560004TFV",
   "name": "WARLOCK",
   "rating": {
     "gph": 595.7,
@@ -197,6 +198,5 @@
       8.74,
       11.19
     ]
-  },
-  "reference": "04560004TFV"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR7298",
   "country": "NOR",
+  "reference": "03440004NSC",
   "name": "Ina-Kristine",
   "rating": {
     "gph": 689.7,
@@ -197,6 +198,5 @@
       7.22,
       7.88
     ]
-  },
-  "reference": "03440004NSC"
+  }
 }

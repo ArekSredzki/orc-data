@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4639",
   "country": "ESP",
+  "reference": "035100048MP",
   "name": "RAFAGAS II",
   "rating": {
     "gph": 666.3,
@@ -197,6 +198,5 @@
       7.52,
       8.18
     ]
-  },
-  "reference": "035100048MP"
+  }
 }

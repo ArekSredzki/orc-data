@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/ESP8228",
   "country": "NED",
+  "reference": "04310004MC8",
   "name": "VINDIO",
   "rating": {
     "gph": 621.8,
@@ -197,6 +198,5 @@
       8.09,
       8.82
     ]
-  },
-  "reference": "04310004MC8"
+  }
 }

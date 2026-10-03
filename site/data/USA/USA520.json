@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA520",
   "country": "USA",
+  "reference": "04560004NHS",
   "name": "SUMMER STORM",
   "rating": {
     "gph": 428.6,
@@ -197,6 +198,5 @@
       13.69,
       16.95
     ]
-  },
-  "reference": "04560004NHS"
+  }
 }

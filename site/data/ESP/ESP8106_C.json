@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8106_C",
   "country": "ESP",
+  "reference": "03510004QIQ",
   "name": "EMBORA",
   "rating": {
     "gph": 571.0,
@@ -197,6 +198,5 @@
       8.44,
       9.09
     ]
-  },
-  "reference": "03510004QIQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/8383",
   "country": "AUS",
+  "reference": "03020004WHA",
   "name": "KRAKATOA",
   "rating": {
     "gph": 598.8,
@@ -197,6 +198,5 @@
       8.6,
       11.36
     ]
-  },
-  "reference": "03020004WHA"
+  }
 }

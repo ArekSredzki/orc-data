@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10890",
   "country": "NOR",
+  "reference": "03440004N9I",
   "name": "Istedenfor",
   "rating": {
     "gph": 650.7,
@@ -197,6 +198,5 @@
       7.67,
       8.33
     ]
-  },
-  "reference": "03440004N9I"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR33002",
   "country": "NOR",
+  "reference": "03440004NKH",
   "name": "Pretty Fast",
   "rating": {
     "gph": 591.6,
@@ -197,6 +198,5 @@
       8.65,
       11.91
     ]
-  },
-  "reference": "03440004NKH"
+  }
 }

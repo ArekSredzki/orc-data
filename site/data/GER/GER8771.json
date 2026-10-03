@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8771",
   "country": "GER",
+  "reference": "03520004SJC",
   "name": "MOMO",
   "rating": {
     "gph": 582.8,
@@ -197,6 +198,5 @@
       9.04,
       12.7
     ]
-  },
-  "reference": "03520004SJC"
+  }
 }

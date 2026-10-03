@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6681",
   "country": "ESP",
+  "reference": "03510004UL8",
   "name": "AGATSU",
   "rating": {
     "gph": 587.4,
@@ -197,6 +198,5 @@
       8.47,
       9.38
     ]
-  },
-  "reference": "03510004UL8"
+  }
 }

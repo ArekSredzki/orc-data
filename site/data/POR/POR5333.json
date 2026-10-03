@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR5333",
   "country": "POR",
+  "reference": "03530004I5W",
   "name": "PE.MA.MI",
   "rating": {
     "gph": 569.4,
@@ -197,6 +198,5 @@
       8.53,
       9.43
     ]
-  },
-  "reference": "03530004I5W"
+  }
 }

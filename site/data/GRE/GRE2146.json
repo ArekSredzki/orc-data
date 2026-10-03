@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2146",
   "country": "GRE",
+  "reference": "03420004VRH",
   "name": "SILVER AGE",
   "rating": {
     "gph": 683.0,
@@ -197,6 +198,5 @@
       7.38,
       8.11
     ]
-  },
-  "reference": "03420004VRH"
+  }
 }

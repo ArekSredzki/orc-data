@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA46281",
   "country": "FRA",
+  "reference": "04330004N8S",
   "name": "LEON",
   "rating": {
     "gph": 727.6,
@@ -197,6 +198,5 @@
       6.73,
       7.5
     ]
-  },
-  "reference": "04330004N8S"
+  }
 }

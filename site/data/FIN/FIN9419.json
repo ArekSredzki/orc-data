@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN9419",
   "country": "FIN",
+  "reference": "04140004REV",
   "name": "TOUCH DOWN",
   "rating": {
     "gph": 594.2,
@@ -197,6 +198,5 @@
       8.3,
       9.13
     ]
-  },
-  "reference": "04140004REV"
+  }
 }

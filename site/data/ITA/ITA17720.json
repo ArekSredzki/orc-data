@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17720",
   "country": "ITA",
+  "reference": "03190004N5I",
   "name": "ONE WAY",
   "rating": {
     "gph": 612.4,
@@ -197,6 +198,5 @@
       7.83,
       8.41
     ]
-  },
-  "reference": "03190004N5I"
+  }
 }

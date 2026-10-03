@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18081",
   "country": "ITA",
+  "reference": "03190004RHM",
   "name": "JULES ET JIM 2",
   "rating": {
     "gph": 630.0,
@@ -197,6 +198,5 @@
       7.83,
       8.64
     ]
-  },
-  "reference": "03190004RHM"
+  }
 }

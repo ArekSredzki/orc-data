@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10877_C",
   "country": "ESP",
+  "reference": "03510004PUB",
   "name": "BEDUINO",
   "rating": {
     "gph": 758.6,
@@ -197,6 +198,5 @@
       6.61,
       7.15
     ]
-  },
-  "reference": "03510004PUB"
+  }
 }

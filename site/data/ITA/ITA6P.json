@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA6P",
   "country": "ITA",
+  "reference": "03190004OMW",
   "name": "SIRTAKY",
   "rating": {
     "gph": 645.7,
@@ -197,6 +198,5 @@
       9.64,
       12.54
     ]
-  },
-  "reference": "03190004OMW"
+  }
 }

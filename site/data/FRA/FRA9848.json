@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9848",
   "country": "FRA",
+  "reference": "04330004HM8",
   "name": "MARAMEO",
   "rating": {
     "gph": 591.0,
@@ -197,6 +198,5 @@
       8.31,
       9.12
     ]
-  },
-  "reference": "04330004HM8"
+  }
 }

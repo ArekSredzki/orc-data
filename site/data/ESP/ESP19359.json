@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP19359",
   "country": "ESP",
+  "reference": "03510004BDA",
   "name": "JOLIE VOILE",
   "rating": {
     "gph": 633.3,
@@ -197,6 +198,5 @@
       7.87,
       10.67
     ]
-  },
-  "reference": "03510004BDA"
+  }
 }

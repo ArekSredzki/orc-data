@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61866",
   "country": "USA",
+  "reference": "04560004TDV",
   "name": "RINGLE",
   "rating": {
     "gph": 580.1,
@@ -197,6 +198,5 @@
       8.25,
       8.95
     ]
-  },
-  "reference": "04560004TDV"
+  }
 }

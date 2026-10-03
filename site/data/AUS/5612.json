@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/5612",
   "country": "AUS",
+  "reference": "03020004W90",
   "name": "ABRACADABRA",
   "rating": {
     "gph": 531.6,
@@ -197,6 +198,5 @@
       9.25,
       10.88
     ]
-  },
-  "reference": "03020004W90"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8917",
   "country": "NED",
+  "reference": "04310004K23",
   "name": "Haraka",
   "rating": {
     "gph": 623.6,
@@ -197,6 +198,5 @@
       7.97,
       8.7
     ]
-  },
-  "reference": "04310004K23"
+  }
 }

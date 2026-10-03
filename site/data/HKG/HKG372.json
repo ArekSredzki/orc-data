@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG372",
   "country": "HKG",
+  "reference": "03880004WSC",
   "name": "Pawley",
   "rating": {
     "gph": 648.1,
@@ -197,6 +198,5 @@
       11.72,
       14.3
     ]
-  },
-  "reference": "03880004WSC"
+  }
 }

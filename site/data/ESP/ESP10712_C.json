@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10712_C",
   "country": "ESP",
+  "reference": "03510004MDB",
   "name": "ALPHA",
   "rating": {
     "gph": 642.3,
@@ -197,6 +198,5 @@
       7.76,
       8.47
     ]
-  },
-  "reference": "03510004MDB"
+  }
 }

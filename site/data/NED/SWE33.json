@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/SWE33",
   "country": "NED",
+  "reference": "04310004PEQ",
   "name": "Barracuda",
   "rating": {
     "gph": 569.8,
@@ -197,6 +198,5 @@
       8.77,
       9.73
     ]
-  },
-  "reference": "04310004PEQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4391_C",
   "country": "ESP",
+  "reference": "03510004HFB",
   "name": "TRISKEL",
   "rating": {
     "gph": 724.1,
@@ -197,6 +198,5 @@
       7.07,
       8.54
     ]
-  },
-  "reference": "03510004HFB"
+  }
 }

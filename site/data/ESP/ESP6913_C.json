@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6913_C",
   "country": "ESP",
+  "reference": "03510004QDH",
   "name": "BORIA BLAVA",
   "rating": {
     "gph": 606.1,
@@ -197,6 +198,5 @@
       7.82,
       8.49
     ]
-  },
-  "reference": "03510004QDH"
+  }
 }

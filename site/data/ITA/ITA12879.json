@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12879",
   "country": "ITA",
+  "reference": "03190004KR6",
   "name": "ELEONARICCA",
   "rating": {
     "gph": 586.1,
@@ -197,6 +198,5 @@
       8.51,
       10.59
     ]
-  },
-  "reference": "03190004KR6"
+  }
 }

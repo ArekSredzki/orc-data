@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR567",
   "country": "NOR",
+  "reference": "03440004KEP",
   "name": "Joy",
   "rating": {
     "gph": 661.4,
@@ -197,6 +198,5 @@
       8.69,
       11.83
     ]
-  },
-  "reference": "03440004KEP"
+  }
 }

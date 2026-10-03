@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/GBR5040L",
   "country": "AUS",
+  "reference": "03020004UVS",
   "name": "Mittere",
   "rating": {
     "gph": 527.4,
@@ -197,6 +198,5 @@
       11.24,
       14.49
     ]
-  },
-  "reference": "03020004UVS"
+  }
 }

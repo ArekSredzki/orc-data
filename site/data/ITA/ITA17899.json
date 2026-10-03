@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17899",
   "country": "ITA",
+  "reference": "031900048OV",
   "name": "BIRBA3",
   "rating": {
     "gph": 616.1,
@@ -197,6 +198,5 @@
       7.8,
       9.61
     ]
-  },
-  "reference": "031900048OV"
+  }
 }

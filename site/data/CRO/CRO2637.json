@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2637",
   "country": "CRO",
+  "reference": "03620004LUC",
   "name": "Apollon",
   "rating": {
     "gph": 639.1,
@@ -197,6 +198,5 @@
       7.98,
       8.58
     ]
-  },
-  "reference": "03620004LUC"
+  }
 }

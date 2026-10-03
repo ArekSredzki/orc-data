@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA119",
   "country": "USA",
+  "reference": "04560004JFL",
   "name": "WIDE LOAD",
   "rating": {
     "gph": 565.8,
@@ -197,6 +198,5 @@
       9.11,
       11.61
     ]
-  },
-  "reference": "04560004JFL"
+  }
 }

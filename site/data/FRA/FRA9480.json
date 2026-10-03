@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9480",
   "country": "FRA",
+  "reference": "04330004FTN",
   "name": "HERA 3",
   "rating": {
     "gph": 573.8,
@@ -197,6 +198,5 @@
       8.5,
       10.32
     ]
-  },
-  "reference": "04330004FTN"
+  }
 }

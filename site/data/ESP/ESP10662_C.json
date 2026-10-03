@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10662_C",
   "country": "ESP",
+  "reference": "03510004UHQ",
   "name": "PRAIA",
   "rating": {
     "gph": 714.7,
@@ -197,6 +198,5 @@
       7.05,
       7.63
     ]
-  },
-  "reference": "03510004UHQ"
+  }
 }

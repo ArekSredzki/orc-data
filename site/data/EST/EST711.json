@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST711",
   "country": "EST",
+  "reference": "04340004VSK",
   "name": "SUGAR",
   "rating": {
     "gph": 585.9,
@@ -197,6 +198,5 @@
       9.84,
       13.03
     ]
-  },
-  "reference": "04340004VSK"
+  }
 }

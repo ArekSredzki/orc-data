@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11708",
   "country": "FIN",
+  "reference": "04140004QLB",
   "name": "Anastacia II",
   "rating": {
     "gph": 605.1,
@@ -197,6 +198,5 @@
       8.17,
       8.94
     ]
-  },
-  "reference": "04140004QLB"
+  }
 }

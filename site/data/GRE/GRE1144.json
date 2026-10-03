@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1144",
   "country": "GRE",
+  "reference": "03420004IO6",
   "name": "SOURLOULOU",
   "rating": {
     "gph": 690.4,
@@ -197,6 +198,5 @@
       7.29,
       7.93
     ]
-  },
-  "reference": "03420004IO6"
+  }
 }

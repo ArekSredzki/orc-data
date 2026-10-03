@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITABAGHE20",
   "country": "ITA",
+  "reference": "03190004HI4",
   "name": "BAGHEERA",
   "rating": {
     "gph": 665.7,
@@ -197,6 +198,5 @@
       7.51,
       8.26
     ]
-  },
-  "reference": "03190004HI4"
+  }
 }

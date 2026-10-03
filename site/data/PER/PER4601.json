@@ -1,6 +1,7 @@
 {
   "sailnumber": "PER/PER4601",
   "country": "PER",
+  "reference": "03460004RDB",
   "name": "PRINCIPITO III",
   "rating": {
     "gph": 601.3,
@@ -197,6 +198,5 @@
       8.17,
       8.83
     ]
-  },
-  "reference": "03460004RDB"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49129",
   "country": "GRE",
+  "reference": "03420004TR4",
   "name": "BLUE DOG V",
   "rating": {
     "gph": 630.6,
@@ -197,6 +198,5 @@
       7.92,
       9.15
     ]
-  },
-  "reference": "03420004TR4"
+  }
 }

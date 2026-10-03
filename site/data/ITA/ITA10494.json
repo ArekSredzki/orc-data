@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10494",
   "country": "ITA",
+  "reference": "03190004TB2",
   "name": "CAROPAGIO",
   "rating": {
     "gph": 578.8,
@@ -197,6 +198,5 @@
       7.99,
       8.54
     ]
-  },
-  "reference": "03190004TB2"
+  }
 }

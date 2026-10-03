@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA7681",
   "country": "ITA",
+  "reference": "03190004T7S",
   "name": "MORETTO",
   "rating": {
     "gph": 696.2,
@@ -197,6 +198,5 @@
       7.1,
       7.76
     ]
-  },
-  "reference": "03190004T7S"
+  }
 }

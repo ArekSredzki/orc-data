@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6480_C",
   "country": "ESP",
+  "reference": "0351000489Q",
   "name": "BLUE STAR VI",
   "rating": {
     "gph": 617.5,
@@ -197,6 +198,5 @@
       7.87,
       8.61
     ]
-  },
-  "reference": "0351000489Q"
+  }
 }

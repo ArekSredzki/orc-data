@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8271",
   "country": "ESP",
+  "reference": "03510004C47",
   "name": "UXAMA",
   "rating": {
     "gph": 610.5,
@@ -197,6 +198,5 @@
       7.73,
       8.73
     ]
-  },
-  "reference": "03510004C47"
+  }
 }

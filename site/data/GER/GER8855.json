@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8855",
   "country": "GER",
+  "reference": "03520004S0D",
   "name": "PELAGIAN",
   "rating": {
     "gph": 641.9,
@@ -197,6 +198,5 @@
       8.46,
       10.98
     ]
-  },
-  "reference": "03520004S0D"
+  }
 }

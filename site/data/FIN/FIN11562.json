@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11562",
   "country": "FIN",
+  "reference": "04140004P6F",
   "name": "Freya",
   "rating": {
     "gph": 640.7,
@@ -197,6 +198,5 @@
       7.95,
       8.53
     ]
-  },
-  "reference": "04140004P6F"
+  }
 }

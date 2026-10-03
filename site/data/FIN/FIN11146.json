@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11146",
   "country": "FIN",
+  "reference": "04140004S6K",
   "name": "Sunchaser",
   "rating": {
     "gph": 652.8,
@@ -197,6 +198,5 @@
       7.74,
       8.31
     ]
-  },
-  "reference": "04140004S6K"
+  }
 }

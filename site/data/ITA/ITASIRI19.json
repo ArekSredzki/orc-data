@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITASIRI19",
   "country": "ITA",
+  "reference": "03190004HI5",
   "name": "SI RILASSI",
   "rating": {
     "gph": 677.4,
@@ -197,6 +198,5 @@
       7.09,
       7.59
     ]
-  },
-  "reference": "03190004HI5"
+  }
 }

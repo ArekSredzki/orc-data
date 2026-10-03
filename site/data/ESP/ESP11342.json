@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11342",
   "country": "ESP",
+  "reference": "03510004Q9L",
   "name": "IBEROLIMP ALHAMBRA DOS",
   "rating": {
     "gph": 667.8,
@@ -197,6 +198,5 @@
       7.69,
       8.77
     ]
-  },
-  "reference": "03510004Q9L"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/6777",
   "country": "AUS",
+  "reference": "03020004WDI",
   "name": "ONYA",
   "rating": {
     "gph": 599.3,
@@ -197,6 +198,5 @@
       8.25,
       9.29
     ]
-  },
-  "reference": "03020004WDI"
+  }
 }

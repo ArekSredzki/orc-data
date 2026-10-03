@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA68",
   "country": "USA",
+  "reference": "04560004KH9",
   "name": "RAVEN",
   "rating": {
     "gph": 662.5,
@@ -197,6 +198,5 @@
       8.73,
       11.83
     ]
-  },
-  "reference": "04560004KH9"
+  }
 }

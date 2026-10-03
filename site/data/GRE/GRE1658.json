@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1658",
   "country": "GRE",
+  "reference": "03420004QHM",
   "name": "SUI GENERIS",
   "rating": {
     "gph": 733.4,
@@ -197,6 +198,5 @@
       7.35,
       7.9
     ]
-  },
-  "reference": "03420004QHM"
+  }
 }

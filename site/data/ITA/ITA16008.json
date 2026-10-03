@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16008",
   "country": "ITA",
+  "reference": "03190004S9V",
   "name": "VOLA VOLA ENDEAVOUR",
   "rating": {
     "gph": 528.1,
@@ -197,6 +198,5 @@
       10.08,
       13.02
     ]
-  },
-  "reference": "03190004S9V"
+  }
 }

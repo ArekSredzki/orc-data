@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9399",
   "country": "ESP",
+  "reference": "03510004BKK",
   "name": "RAUXA",
   "rating": {
     "gph": 596.5,
@@ -197,6 +198,5 @@
       7.87,
       9.68
     ]
-  },
-  "reference": "03510004BKK"
+  }
 }

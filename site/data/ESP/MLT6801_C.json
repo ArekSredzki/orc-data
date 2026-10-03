@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/MLT6801_C",
   "country": "ESP",
+  "reference": "03510004PO4",
   "name": "ONE SHOT",
   "rating": {
     "gph": 477.9,
@@ -197,6 +198,5 @@
       10.05,
       11.02
     ]
-  },
-  "reference": "03510004PO4"
+  }
 }

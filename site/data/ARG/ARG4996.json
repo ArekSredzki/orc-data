@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG4996",
   "country": "ARG",
+  "reference": "03880004B44",
   "name": "ANTONINO",
   "rating": {
     "gph": 572.0,
@@ -197,6 +198,5 @@
       8.7,
       9.9
     ]
-  },
-  "reference": "03880004B44"
+  }
 }

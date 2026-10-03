@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14438",
   "country": "NOR",
+  "reference": "03440004L2V",
   "name": "Momentum",
   "rating": {
     "gph": 605.7,
@@ -197,6 +198,5 @@
       8.05,
       9.65
     ]
-  },
-  "reference": "03440004L2V"
+  }
 }

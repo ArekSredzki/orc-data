@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG2801",
   "country": "ARG",
+  "reference": "03880004B3A",
   "name": "DON QUIJOTE II",
   "rating": {
     "gph": 697.1,
@@ -197,6 +198,5 @@
       7.61,
       8.14
     ]
-  },
-  "reference": "03880004B3A"
+  }
 }

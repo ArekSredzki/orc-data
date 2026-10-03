@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP45601",
   "country": "ESP",
+  "reference": "03510004IFP",
   "name": "BUENAVENTURA",
   "rating": {
     "gph": 631.6,
@@ -197,6 +198,5 @@
       7.91,
       9.18
     ]
-  },
-  "reference": "03510004IFP"
+  }
 }

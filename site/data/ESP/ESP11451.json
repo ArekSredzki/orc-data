@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11451",
   "country": "ESP",
+  "reference": "03510004VHP",
   "name": "AQUILON II",
   "rating": {
     "gph": 590.4,
@@ -197,6 +198,5 @@
       8.14,
       8.94
     ]
-  },
-  "reference": "03510004VHP"
+  }
 }

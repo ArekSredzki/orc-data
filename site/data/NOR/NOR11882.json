@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11882",
   "country": "NOR",
+  "reference": "03440004L45",
   "name": "Kong Neptun",
   "rating": {
     "gph": 648.8,
@@ -197,6 +198,5 @@
       7.75,
       8.44
     ]
-  },
-  "reference": "03440004L45"
+  }
 }

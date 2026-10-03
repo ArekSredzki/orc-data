@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR1158",
   "country": "POR",
+  "reference": "03530004I9C",
   "name": "BRETOA",
   "rating": {
     "gph": 654.9,
@@ -197,6 +198,5 @@
       7.52,
       8.22
     ]
-  },
-  "reference": "03530004I9C"
+  }
 }

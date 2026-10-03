@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8949_C",
   "country": "ESP",
+  "reference": "035100048FF",
   "name": "AIRON",
   "rating": {
     "gph": 666.0,
@@ -197,6 +198,5 @@
       7.28,
       7.81
     ]
-  },
-  "reference": "035100048FF"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10407",
   "country": "ESP",
+  "reference": "03510004FSM",
   "name": "CHICA TXECA",
   "rating": {
     "gph": 623.4,
@@ -197,6 +198,5 @@
       8.1,
       9.3
     ]
-  },
-  "reference": "03510004FSM"
+  }
 }

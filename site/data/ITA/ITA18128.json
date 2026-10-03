@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18128",
   "country": "ITA",
+  "reference": "03190004J2L",
   "name": "NOTTE DI STELLE",
   "rating": {
     "gph": 552.0,
@@ -197,6 +198,5 @@
       8.57,
       9.61
     ]
-  },
-  "reference": "03190004J2L"
+  }
 }

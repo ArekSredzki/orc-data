@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11085",
   "country": "ESP",
+  "reference": "035100050ES",
   "name": "AVA",
   "rating": {
     "gph": 586.4,

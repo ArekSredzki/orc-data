@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE872",
   "country": "GRE",
+  "reference": "03420004MD7",
   "name": "NAFSITHOI",
   "rating": {
     "gph": 734.4,
@@ -197,6 +198,5 @@
       7.04,
       7.57
     ]
-  },
-  "reference": "03420004MD7"
+  }
 }

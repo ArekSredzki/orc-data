@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2284",
   "country": "GRE",
+  "reference": "03420004UWE",
   "name": "DELOS",
   "rating": {
     "gph": 648.7,
@@ -197,6 +198,5 @@
       7.62,
       8.34
     ]
-  },
-  "reference": "03420004UWE"
+  }
 }

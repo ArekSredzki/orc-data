@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP15025",
   "country": "ESP",
+  "reference": "03510004R4T",
   "name": "TENAZ",
   "rating": {
     "gph": 468.4,
@@ -197,6 +198,5 @@
       11.83,
       14.83
     ]
-  },
-  "reference": "03510004R4T"
+  }
 }

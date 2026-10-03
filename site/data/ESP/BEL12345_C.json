@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/BEL12345_C",
   "country": "ESP",
+  "reference": "03510004P3R",
   "name": "AIR DU NORD 4",
   "rating": {
     "gph": 589.8,
@@ -197,6 +198,5 @@
       9.07,
       12.19
     ]
-  },
-  "reference": "03510004P3R"
+  }
 }

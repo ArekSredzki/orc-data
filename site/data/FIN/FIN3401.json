@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN3401",
   "country": "FIN",
+  "reference": "04140004TQL",
   "name": "BELLE-AMIE",
   "rating": {
     "gph": 625.2,
@@ -197,6 +198,5 @@
       8.16,
       9.22
     ]
-  },
-  "reference": "04140004TQL"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR4446",
   "country": "TUR",
+  "reference": "04590004WIM",
   "name": "MATRAK 2",
   "rating": {
     "gph": 532.2,
@@ -197,6 +198,5 @@
       10.25,
       13.31
     ]
-  },
-  "reference": "04590004WIM"
+  }
 }

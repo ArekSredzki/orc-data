@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9775",
   "country": "NOR",
+  "reference": "03440004ISR",
   "name": "Bilbo",
   "rating": {
     "gph": 671.3,
@@ -197,6 +198,5 @@
       7.51,
       8.25
     ]
-  },
-  "reference": "03440004ISR"
+  }
 }

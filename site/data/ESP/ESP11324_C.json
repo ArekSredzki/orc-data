@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11324_C",
   "country": "ESP",
+  "reference": "03510004HL3",
   "name": "FARRFARR",
   "rating": {
     "gph": 580.3,
@@ -197,6 +198,5 @@
       8.7,
       9.9
     ]
-  },
-  "reference": "03510004HL3"
+  }
 }

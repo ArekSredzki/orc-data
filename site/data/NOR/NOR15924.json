@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15924",
   "country": "NOR",
+  "reference": "03440004OS8",
   "name": "Feelgood",
   "rating": {
     "gph": 565.2,
@@ -197,6 +198,5 @@
       8.82,
       9.73
     ]
-  },
-  "reference": "03440004OS8"
+  }
 }

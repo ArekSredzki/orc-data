@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/7811",
   "country": "AUS",
+  "reference": "03020004WMT",
   "name": "HIP NAUTIC",
   "rating": {
     "gph": 611.9,
@@ -197,6 +198,5 @@
       8.33,
       10.53
     ]
-  },
-  "reference": "03020004WMT"
+  }
 }

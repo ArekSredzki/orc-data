@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS0103",
   "country": "AUS",
+  "reference": "03020004VLD",
   "name": "THE EDGE",
   "rating": {
     "gph": 462.0,
@@ -197,6 +198,5 @@
       12.75,
       16.33
     ]
-  },
-  "reference": "03020004VLD"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/P204",
   "country": "POR",
+  "reference": "03530004WTO",
   "name": "SUPERNOVA",
   "rating": {
     "gph": 638.2,
@@ -197,6 +198,5 @@
       7.95,
       8.56
     ]
-  },
-  "reference": "03530004WTO"
+  }
 }

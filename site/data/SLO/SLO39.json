@@ -1,6 +1,7 @@
 {
   "sailnumber": "SLO/SLO39",
   "country": "SLO",
+  "reference": "03090004OH7",
   "name": "Palada",
   "rating": {
     "gph": 727.7,
@@ -197,6 +198,5 @@
       6.95,
       7.73
     ]
-  },
-  "reference": "03090004OH7"
+  }
 }

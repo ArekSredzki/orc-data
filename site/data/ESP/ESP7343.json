@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7343",
   "country": "ESP",
+  "reference": "035100048N5",
   "name": "FILIGRANA",
   "rating": {
     "gph": 641.3,
@@ -197,6 +198,5 @@
       7.37,
       7.96
     ]
-  },
-  "reference": "035100048N5"
+  }
 }

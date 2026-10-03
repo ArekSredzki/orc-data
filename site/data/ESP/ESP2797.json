@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2797",
   "country": "ESP",
+  "reference": "03510004N69",
   "name": "ALPISPA 2",
   "rating": {
     "gph": 701.3,
@@ -197,6 +198,5 @@
       7.24,
       7.91
     ]
-  },
-  "reference": "03510004N69"
+  }
 }

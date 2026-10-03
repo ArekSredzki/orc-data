@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU743",
   "country": "ROU",
+  "reference": "05040004R6T",
   "name": "Hera",
   "rating": {
     "gph": 647.0,
@@ -197,6 +198,5 @@
       7.69,
       8.25
     ]
-  },
-  "reference": "05040004R6T"
+  }
 }

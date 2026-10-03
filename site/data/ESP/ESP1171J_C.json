@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1171J_C",
   "country": "ESP",
+  "reference": "03510004KRL",
   "name": "NAUTICESCALA 3",
   "rating": {
     "gph": 678.1,
@@ -197,6 +198,5 @@
       9.22,
       12.34
     ]
-  },
-  "reference": "03510004KRL"
+  }
 }

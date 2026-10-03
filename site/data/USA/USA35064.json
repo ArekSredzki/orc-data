@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA35064",
   "country": "USA",
+  "reference": "04560004V8U",
   "name": "DELPHINUS",
   "rating": {
     "gph": 615.8,
@@ -197,6 +198,5 @@
       7.69,
       8.25
     ]
-  },
-  "reference": "04560004V8U"
+  }
 }

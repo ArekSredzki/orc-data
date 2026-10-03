@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14889",
   "country": "ITA",
+  "reference": "03190004FP2",
   "name": "FAAMU-SAMI",
   "rating": {
     "gph": 641.3,
@@ -197,6 +198,5 @@
       7.83,
       8.54
     ]
-  },
-  "reference": "03190004FP2"
+  }
 }

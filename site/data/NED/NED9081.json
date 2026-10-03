@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9081",
   "country": "NED",
+  "reference": "04310004K2H",
   "name": "SeaFlower",
   "rating": {
     "gph": 580.5,
@@ -197,6 +198,5 @@
       8.26,
       9.02
     ]
-  },
-  "reference": "04310004K2H"
+  }
 }

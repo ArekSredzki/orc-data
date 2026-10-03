@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1500",
   "country": "RSA",
+  "reference": "046200048RB",
   "name": "Scarlet Sun",
   "rating": {
     "gph": 620.3,
@@ -197,6 +198,5 @@
       8.13,
       9.14
     ]
-  },
-  "reference": "046200048RB"
+  }
 }

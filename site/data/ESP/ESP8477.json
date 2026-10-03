@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8477",
   "country": "ESP",
+  "reference": "03510004JDM",
   "name": "BANDIDO",
   "rating": {
     "gph": 548.6,
@@ -197,6 +198,5 @@
       8.98,
       10.01
     ]
-  },
-  "reference": "03510004JDM"
+  }
 }

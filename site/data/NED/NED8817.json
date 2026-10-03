@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8817",
   "country": "NED",
+  "reference": "04310004K1S",
   "name": "Shellback",
   "rating": {
     "gph": 587.7,
@@ -197,6 +198,5 @@
       8.59,
       9.44
     ]
-  },
-  "reference": "04310004K1S"
+  }
 }

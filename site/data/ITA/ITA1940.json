@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1940",
   "country": "ITA",
+  "reference": "03190004IEL",
   "name": "FURIA",
   "rating": {
     "gph": 549.6,
@@ -197,6 +198,5 @@
       8.93,
       10.04
     ]
-  },
-  "reference": "03190004IEL"
+  }
 }

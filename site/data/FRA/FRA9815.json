@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9815",
   "country": "FRA",
+  "reference": "04330004RUI",
   "name": "FIRECREST",
   "rating": {
     "gph": 551.3,
@@ -197,6 +198,5 @@
       10.07,
       12.66
     ]
-  },
-  "reference": "04330004RUI"
+  }
 }

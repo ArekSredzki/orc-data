@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10240",
   "country": "ESP",
+  "reference": "035100048K0",
   "name": "COTA CERO",
   "rating": {
     "gph": 608.6,
@@ -197,6 +198,5 @@
       7.84,
       8.78
     ]
-  },
-  "reference": "035100048K0"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP93631_C",
   "country": "ESP",
+  "reference": "03510004BEH",
   "name": "SAXO",
   "rating": {
     "gph": 686.3,
@@ -197,6 +198,5 @@
       7.28,
       7.94
     ]
-  },
-  "reference": "03510004BEH"
+  }
 }

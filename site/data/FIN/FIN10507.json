@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10507",
   "country": "FIN",
+  "reference": "04140004JFO",
   "name": "Joia",
   "rating": {
     "gph": 648.7,
@@ -197,6 +198,5 @@
       7.66,
       8.37
     ]
-  },
-  "reference": "04140004JFO"
+  }
 }

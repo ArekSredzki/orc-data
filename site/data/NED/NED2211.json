@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2211",
   "country": "NED",
+  "reference": "04310004JT2",
   "name": "IFje",
   "rating": {
     "gph": 819.1,
@@ -197,6 +198,5 @@
       6.23,
       6.74
     ]
-  },
-  "reference": "04310004JT2"
+  }
 }

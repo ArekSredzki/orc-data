@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11389_C",
   "country": "ESP",
+  "reference": "03510004P64",
   "name": "NAKRA",
   "rating": {
     "gph": 577.7,
@@ -197,6 +198,5 @@
       8.28,
       9.03
     ]
-  },
-  "reference": "03510004P64"
+  }
 }

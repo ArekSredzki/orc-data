@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO1085",
   "country": "CRO",
+  "reference": "03620004MDP",
   "name": "Coral VII",
   "rating": {
     "gph": 587.3,
@@ -197,6 +198,5 @@
       8.04,
       9.22
     ]
-  },
-  "reference": "03620004MDP"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/GBR422",
   "country": "BUL",
+  "reference": "03850004RWV",
   "name": "Scorpio",
   "rating": {
     "gph": 621.7,
@@ -197,6 +198,5 @@
       10.84,
       13.91
     ]
-  },
-  "reference": "03850004RWV"
+  }
 }

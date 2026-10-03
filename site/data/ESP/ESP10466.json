@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10466",
   "country": "ESP",
+  "reference": "03510004ET0",
   "name": "SALA\u00d1O DOS",
   "rating": {
     "gph": 656.6,
@@ -197,6 +198,5 @@
       7.75,
       8.39
     ]
-  },
-  "reference": "03510004ET0"
+  }
 }

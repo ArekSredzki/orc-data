@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GBR6209L_C",
   "country": "ESP",
+  "reference": "03510004B3S",
   "name": "MOET",
   "rating": {
     "gph": 671.6,
@@ -197,6 +198,5 @@
       7.72,
       10.35
     ]
-  },
-  "reference": "03510004B3S"
+  }
 }

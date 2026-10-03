@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3485",
   "country": "ESP",
+  "reference": "03510004T9A",
   "name": "VA DE BO",
   "rating": {
     "gph": 588.4,
@@ -197,6 +198,5 @@
       8.12,
       9.43
     ]
-  },
-  "reference": "03510004T9A"
+  }
 }

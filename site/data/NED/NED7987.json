@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7987",
   "country": "NED",
+  "reference": "04310004W0B",
   "name": "Diva",
   "rating": {
     "gph": 576.6,
@@ -197,6 +198,5 @@
       8.73,
       9.52
     ]
-  },
-  "reference": "04310004W0B"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN180",
   "country": "CAN",
+  "reference": "03430004JCC",
   "name": "Spitfire",
   "rating": {
     "gph": 536.9,
@@ -197,6 +198,5 @@
       12.5,
       15.67
     ]
-  },
-  "reference": "03430004JCC"
+  }
 }

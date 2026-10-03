@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN6178",
   "country": "FIN",
+  "reference": "03290004UMF",
   "name": "PauLina",
   "rating": {
     "gph": 575.1,
@@ -197,6 +198,5 @@
       8.34,
       9.02
     ]
-  },
-  "reference": "03290004UMF"
+  }
 }

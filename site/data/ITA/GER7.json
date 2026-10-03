@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GER7",
   "country": "ITA",
+  "reference": "03190004Q12",
   "name": "TANTE ANNI",
   "rating": {
     "gph": 511.5,
@@ -197,6 +198,5 @@
       11.55,
       14.62
     ]
-  },
-  "reference": "03190004Q12"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA28707",
   "country": "ITA",
+  "reference": "03190004PET",
   "name": "TK",
   "rating": {
     "gph": 519.0,
@@ -197,6 +198,5 @@
       9.4,
       10.75
     ]
-  },
-  "reference": "03190004PET"
+  }
 }

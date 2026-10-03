@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8628_C",
   "country": "ESP",
+  "reference": "03510004F2D",
   "name": "SAN JAIME",
   "rating": {
     "gph": 560.1,
@@ -197,6 +198,5 @@
       9.04,
       9.94
     ]
-  },
-  "reference": "03510004F2D"
+  }
 }

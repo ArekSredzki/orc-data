@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm3200",
   "country": "AUS",
+  "reference": "03020004USJ",
   "name": "War Machine",
   "rating": {
     "gph": 622.4,
@@ -197,6 +198,5 @@
       8.09,
       9.98
     ]
-  },
-  "reference": "03020004USJ"
+  }
 }

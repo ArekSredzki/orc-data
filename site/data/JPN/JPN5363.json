@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN5363",
   "country": "JPN",
+  "reference": "03390004JHW",
   "name": "ANDIAMO III",
   "rating": {
     "gph": 560.2,
@@ -197,6 +198,5 @@
       9.38,
       12.58
     ]
-  },
-  "reference": "03390004JHW"
+  }
 }

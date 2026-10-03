@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5670",
   "country": "ESP",
+  "reference": "03510004IU2",
   "name": "HISTOLAB",
   "rating": {
     "gph": 595.6,
@@ -197,6 +198,5 @@
       8.27,
       9.07
     ]
-  },
-  "reference": "03510004IU2"
+  }
 }

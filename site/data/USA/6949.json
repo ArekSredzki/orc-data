@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/6949",
   "country": "USA",
+  "reference": "04560004UN2",
   "name": "Fantome",
   "rating": {
     "gph": 657.0,
@@ -197,6 +198,5 @@
       7.45,
       8.07
     ]
-  },
-  "reference": "04560004UN2"
+  }
 }

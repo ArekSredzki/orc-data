@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5472_C",
   "country": "ESP",
+  "reference": "03510004B13",
   "name": "MORFEO",
   "rating": {
     "gph": 640.3,
@@ -197,6 +198,5 @@
       8.07,
       8.83
     ]
-  },
-  "reference": "03510004B13"
+  }
 }

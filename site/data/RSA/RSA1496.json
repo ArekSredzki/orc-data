@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1496",
   "country": "RSA",
+  "reference": "046200049LP",
   "name": "Sabatier",
   "rating": {
     "gph": 764.6,
@@ -197,6 +198,5 @@
       6.84,
       7.38
     ]
-  },
-  "reference": "046200049LP"
+  }
 }

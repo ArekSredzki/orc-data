@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAMARIDA",
   "country": "ITA",
+  "reference": "03190004C20",
   "name": "SMARIDA",
   "rating": {
     "gph": 672.1,
@@ -197,6 +198,5 @@
       7.59,
       8.28
     ]
-  },
-  "reference": "03190004C20"
+  }
 }

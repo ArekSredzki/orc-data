@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17927",
   "country": "ITA",
+  "reference": "03190004BAF",
   "name": "DONNA BEATRICE III",
   "rating": {
     "gph": 613.0,
@@ -197,6 +198,5 @@
       7.98,
       10.38
     ]
-  },
-  "reference": "03190004BAF"
+  }
 }

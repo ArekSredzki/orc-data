@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/AUS52",
   "country": "ITA",
+  "reference": "03190004OOV",
   "name": "VUDU",
   "rating": {
     "gph": 431.0,
@@ -197,6 +198,5 @@
       13.6,
       16.92
     ]
-  },
-  "reference": "03190004OOV"
+  }
 }

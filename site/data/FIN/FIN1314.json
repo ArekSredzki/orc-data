@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN1314",
   "country": "FIN",
+  "reference": "04140004HD0",
   "name": "Krista",
   "rating": {
     "gph": 826.2,
@@ -197,6 +198,5 @@
       6.06,
       6.5
     ]
-  },
-  "reference": "04140004HD0"
+  }
 }

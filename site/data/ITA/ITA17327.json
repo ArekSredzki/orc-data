@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17327",
   "country": "ITA",
+  "reference": "03190004L19",
   "name": "FRANK",
   "rating": {
     "gph": 583.9,
@@ -197,6 +198,5 @@
       8.2,
       9.35
     ]
-  },
-  "reference": "03190004L19"
+  }
 }

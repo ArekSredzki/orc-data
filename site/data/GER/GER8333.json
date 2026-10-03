@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8333",
   "country": "GER",
+  "reference": "03520004UML",
   "name": "NEOMIND",
   "rating": {
     "gph": 501.7,
@@ -197,6 +198,5 @@
       10.86,
       13.89
     ]
-  },
-  "reference": "03520004UML"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA141",
   "country": "USA",
+  "reference": "04560004UFP",
   "name": "SMEE AGAIN",
   "rating": {
     "gph": 609.2,
@@ -197,6 +198,5 @@
       7.77,
       9.25
     ]
-  },
-  "reference": "04560004UFP"
+  }
 }

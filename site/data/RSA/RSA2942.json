@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA2942",
   "country": "RSA",
+  "reference": "04620004C2S",
   "name": "Free Spirit",
   "rating": {
     "gph": 662.8,
@@ -197,6 +198,5 @@
       7.66,
       8.43
     ]
-  },
-  "reference": "04620004C2S"
+  }
 }

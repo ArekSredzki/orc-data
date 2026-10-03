@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG250",
   "country": "ARG",
+  "reference": "03880004N0S",
   "name": "BONANZA",
   "rating": {
     "gph": 727.3,
@@ -197,6 +198,5 @@
       7.14,
       7.69
     ]
-  },
-  "reference": "03880004N0S"
+  }
 }

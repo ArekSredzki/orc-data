@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED1001",
   "country": "NED",
+  "reference": "04310004JSA",
   "name": "Jan",
   "rating": {
     "gph": 620.3,
@@ -197,6 +198,5 @@
       8.05,
       10.04
     ]
-  },
-  "reference": "04310004JSA"
+  }
 }

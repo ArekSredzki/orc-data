@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6859",
   "country": "NED",
+  "reference": "04310004JW3",
   "name": "SUNSHINE 4",
   "rating": {
     "gph": 627.2,
@@ -197,6 +198,5 @@
       7.96,
       8.67
     ]
-  },
-  "reference": "04310004JW3"
+  }
 }

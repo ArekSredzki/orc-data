@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11349",
   "country": "ESP",
+  "reference": "03510004FUC",
   "name": "VELALUKA",
   "rating": {
     "gph": 664.5,
@@ -197,6 +198,5 @@
       7.59,
       8.22
     ]
-  },
-  "reference": "03510004FUC"
+  }
 }

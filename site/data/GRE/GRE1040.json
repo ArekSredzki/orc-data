@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1040",
   "country": "GRE",
+  "reference": "03420004LAL",
   "name": "SOKRATIS P.",
   "rating": {
     "gph": 706.9,
@@ -197,6 +198,5 @@
       7.13,
       7.8
     ]
-  },
-  "reference": "03420004LAL"
+  }
 }

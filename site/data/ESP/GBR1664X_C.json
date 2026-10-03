@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GBR1664X_C",
   "country": "ESP",
+  "reference": "03510004AVJ",
   "name": "OBSESSION",
   "rating": {
     "gph": 610.4,
@@ -197,6 +198,5 @@
       8.33,
       10.63
     ]
-  },
-  "reference": "03510004AVJ"
+  }
 }

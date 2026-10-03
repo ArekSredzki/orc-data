@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1846",
   "country": "ITA",
+  "reference": "03190004UJ2",
   "name": "GOLD DIGGER",
   "rating": {
     "gph": 571.3,
@@ -197,6 +198,5 @@
       9.47,
       13.02
     ]
-  },
-  "reference": "03190004UJ2"
+  }
 }

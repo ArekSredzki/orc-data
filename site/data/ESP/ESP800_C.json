@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP800_C",
   "country": "ESP",
+  "reference": "03510004F1M",
   "name": "TOTIL",
   "rating": {
     "gph": 682.9,
@@ -197,6 +198,5 @@
       7.29,
       8.9
     ]
-  },
-  "reference": "03510004F1M"
+  }
 }

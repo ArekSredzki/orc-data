@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR1756",
   "country": "POR",
+  "reference": "03530004NJK",
   "name": "CORKSCREW",
   "rating": {
     "gph": 634.7,
@@ -197,6 +198,5 @@
       9.89,
       13.09
     ]
-  },
-  "reference": "03530004NJK"
+  }
 }

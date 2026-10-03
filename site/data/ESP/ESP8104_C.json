@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8104_C",
   "country": "ESP",
+  "reference": "03510004UT8",
   "name": "CHEZZY",
   "rating": {
     "gph": 628.1,
@@ -197,6 +198,5 @@
       8.03,
       8.71
     ]
-  },
-  "reference": "03510004UT8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN157",
   "country": "CAN",
+  "reference": "03430004VIA",
   "name": "Mischief",
   "rating": {
     "gph": 537.6,
@@ -197,6 +198,5 @@
       12.46,
       15.63
     ]
-  },
-  "reference": "03430004VIA"
+  }
 }

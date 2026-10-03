@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2779",
   "country": "CRO",
+  "reference": "03620004LUJ",
   "name": "Kneginja",
   "rating": {
     "gph": 638.4,
@@ -197,6 +198,5 @@
       7.99,
       8.6
     ]
-  },
-  "reference": "03620004LUJ"
+  }
 }

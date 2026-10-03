@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8118",
   "country": "ESP",
+  "reference": "03510005034",
   "name": "URBAPAZ",
   "rating": {
     "gph": 623.1,

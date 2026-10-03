@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN56002",
   "country": "FIN",
+  "reference": "04140004IKL",
   "name": "BalticMistress",
   "rating": {
     "gph": 490.6,
@@ -197,6 +198,5 @@
       10.26,
       12.14
     ]
-  },
-  "reference": "04140004IKL"
+  }
 }

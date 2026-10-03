@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7268",
   "country": "ESP",
+  "reference": "035100048MH",
   "name": "TREBOL QUEEN II",
   "rating": {
     "gph": 657.6,
@@ -197,6 +198,5 @@
       7.58,
       8.19
     ]
-  },
-  "reference": "035100048MH"
+  }
 }

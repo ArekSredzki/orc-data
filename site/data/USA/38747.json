@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/38747",
   "country": "USA",
+  "reference": "04560004FHR",
   "name": "BRIZO",
   "rating": {
     "gph": 614.2,
@@ -197,6 +198,5 @@
       7.91,
       8.65
     ]
-  },
-  "reference": "04560004FHR"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13937",
   "country": "NOR",
+  "reference": "03440004N9O",
   "name": "Mustang Sally",
   "rating": {
     "gph": 620.7,
@@ -197,6 +198,5 @@
       8.13,
       8.88
     ]
-  },
-  "reference": "03440004N9O"
+  }
 }

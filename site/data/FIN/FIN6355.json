@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN6355",
   "country": "FIN",
+  "reference": "04140004SM8",
   "name": "Lilian",
   "rating": {
     "gph": 649.4,
@@ -197,6 +198,5 @@
       7.6,
       8.27
     ]
-  },
-  "reference": "04140004SM8"
+  }
 }

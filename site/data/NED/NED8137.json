@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8137",
   "country": "NED",
+  "reference": "04310004K0O",
   "name": "Cool 'n Fast",
   "rating": {
     "gph": 684.5,
@@ -197,6 +198,5 @@
       7.35,
       7.96
     ]
-  },
-  "reference": "04310004K0O"
+  }
 }

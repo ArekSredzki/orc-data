@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2046",
   "country": "GRE",
+  "reference": "03420004HIU",
   "name": "OKYALOS",
   "rating": {
     "gph": 659.3,
@@ -197,6 +198,5 @@
       7.45,
       8.02
     ]
-  },
-  "reference": "03420004HIU"
+  }
 }

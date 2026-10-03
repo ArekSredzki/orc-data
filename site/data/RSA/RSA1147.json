@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1147",
   "country": "RSA",
+  "reference": "04620004QVO",
   "name": "Vortex",
   "rating": {
     "gph": 666.7,
@@ -197,6 +198,5 @@
       7.56,
       8.26
     ]
-  },
-  "reference": "04620004QVO"
+  }
 }

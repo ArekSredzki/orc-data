@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3472_C",
   "country": "ESP",
+  "reference": "03510004BMP",
   "name": "CEFIRO",
   "rating": {
     "gph": 655.4,
@@ -197,6 +198,5 @@
       7.6,
       8.29
     ]
-  },
-  "reference": "03510004BMP"
+  }
 }

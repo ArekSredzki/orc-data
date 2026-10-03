@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO8537",
   "country": "CRO",
+  "reference": "03620004HA3",
   "name": "Jadrana\u0161",
   "rating": {
     "gph": 602.4,
@@ -197,6 +198,5 @@
       7.73,
       9.15
     ]
-  },
-  "reference": "03620004HA3"
+  }
 }

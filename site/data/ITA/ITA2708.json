@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA2708",
   "country": "ITA",
+  "reference": "03190004FLL",
   "name": "RD3",
   "rating": {
     "gph": 629.5,
@@ -197,6 +198,5 @@
       7.46,
       8.25
     ]
-  },
-  "reference": "03190004FLL"
+  }
 }

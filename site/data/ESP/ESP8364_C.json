@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8364_C",
   "country": "ESP",
+  "reference": "03510004ISJ",
   "name": "ZAMBORELA",
   "rating": {
     "gph": 691.5,
@@ -197,6 +198,5 @@
       7.12,
       9.87
     ]
-  },
-  "reference": "03510004ISJ"
+  }
 }

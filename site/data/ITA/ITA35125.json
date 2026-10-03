@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA35125",
   "country": "ITA",
+  "reference": "03190004NWV",
   "name": "DOLCENERA",
   "rating": {
     "gph": 605.4,
@@ -197,6 +198,5 @@
       8.17,
       9.19
     ]
-  },
-  "reference": "03190004NWV"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "PER/PER4077",
   "country": "PER",
+  "reference": "03460004SMK",
   "name": "SOMOS GRAU",
   "rating": {
     "gph": 587.6,
@@ -197,6 +198,5 @@
       8.4,
       9.64
     ]
-  },
-  "reference": "03460004SMK"
+  }
 }

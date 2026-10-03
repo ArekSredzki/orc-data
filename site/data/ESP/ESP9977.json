@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9977",
   "country": "ESP",
+  "reference": "03510004J30",
   "name": "SPANIARD",
   "rating": {
     "gph": 519.4,
@@ -197,6 +198,5 @@
       9.03,
       10.16
     ]
-  },
-  "reference": "03510004J30"
+  }
 }

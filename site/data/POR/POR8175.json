@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR8175",
   "country": "POR",
+  "reference": "03530004V8C",
   "name": "METRALHA",
   "rating": {
     "gph": 647.7,
@@ -197,6 +198,5 @@
       7.63,
       8.29
     ]
-  },
-  "reference": "03530004V8C"
+  }
 }

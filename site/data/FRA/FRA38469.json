@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA38469",
   "country": "FRA",
+  "reference": "04330004F6C",
   "name": "MI CORAZON",
   "rating": {
     "gph": 654.4,
@@ -197,6 +198,5 @@
       7.68,
       8.33
     ]
-  },
-  "reference": "04330004F6C"
+  }
 }

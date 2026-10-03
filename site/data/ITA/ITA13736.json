@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13736",
   "country": "ITA",
+  "reference": "03190004MND",
   "name": "JOD \"C\"",
   "rating": {
     "gph": 612.6,
@@ -197,6 +198,5 @@
       7.95,
       9.76
     ]
-  },
-  "reference": "03190004MND"
+  }
 }

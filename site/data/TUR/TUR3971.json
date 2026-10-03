@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR3971",
   "country": "TUR",
+  "reference": "04590004H5M",
   "name": "JAZZGIR",
   "rating": {
     "gph": 623.2,
@@ -197,6 +198,5 @@
       8.03,
       8.76
     ]
-  },
-  "reference": "04590004H5M"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA3184",
   "country": "USA",
+  "reference": "04560004ODI",
   "name": "ALARIS",
   "rating": {
     "gph": 647.6,
@@ -197,6 +198,5 @@
       7.64,
       8.24
     ]
-  },
-  "reference": "04560004ODI"
+  }
 }

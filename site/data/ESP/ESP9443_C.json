@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9443_C",
   "country": "ESP",
+  "reference": "03510004F1N",
   "name": "BATZAC",
   "rating": {
     "gph": 635.5,
@@ -197,6 +198,5 @@
       7.71,
       8.45
     ]
-  },
-  "reference": "03510004F1N"
+  }
 }

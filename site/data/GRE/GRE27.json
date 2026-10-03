@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE27",
   "country": "GRE",
+  "reference": "03420004I4S",
   "name": "ALS",
   "rating": {
     "gph": 633.6,
@@ -197,6 +198,5 @@
       7.68,
       8.29
     ]
-  },
-  "reference": "03420004I4S"
+  }
 }

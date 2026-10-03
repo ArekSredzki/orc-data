@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE53205",
   "country": "SWE",
+  "reference": "03200004S50",
   "name": "Heist",
   "rating": {
     "gph": 502.2,
@@ -197,6 +198,5 @@
       11.45,
       14.78
     ]
-  },
-  "reference": "03200004S50"
+  }
 }

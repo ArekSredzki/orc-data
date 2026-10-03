@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7191",
   "country": "ESP",
+  "reference": "03510004HTB",
   "name": "OLIMPIA",
   "rating": {
     "gph": 638.4,
@@ -197,6 +198,5 @@
       7.96,
       8.63
     ]
-  },
-  "reference": "03510004HTB"
+  }
 }

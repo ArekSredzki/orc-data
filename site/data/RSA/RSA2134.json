@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA2134",
   "country": "RSA",
+  "reference": "04620004H5I",
   "name": "Humdinger",
   "rating": {
     "gph": 739.1,
@@ -197,6 +198,5 @@
       6.86,
       7.39
     ]
-  },
-  "reference": "04620004H5I"
+  }
 }

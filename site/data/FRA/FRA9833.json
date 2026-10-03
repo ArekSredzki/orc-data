@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9833",
   "country": "FRA",
+  "reference": "04330004FER",
   "name": "MONTEBELLO",
   "rating": {
     "gph": 630.1,
@@ -197,6 +198,5 @@
       7.93,
       9.06
     ]
-  },
-  "reference": "04330004FER"
+  }
 }

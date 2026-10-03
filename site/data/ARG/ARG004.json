@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG004",
   "country": "ARG",
+  "reference": "03880004IF0",
   "name": "ARIETE IV",
   "rating": {
     "gph": 635.5,
@@ -197,6 +198,5 @@
       7.98,
       10.09
     ]
-  },
-  "reference": "03880004IF0"
+  }
 }

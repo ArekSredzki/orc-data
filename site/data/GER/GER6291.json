@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6291",
   "country": "GER",
+  "reference": "03520004U84",
   "name": "CARLOTTA",
   "rating": {
     "gph": 599.6,
@@ -197,6 +198,5 @@
       8.03,
       8.72
     ]
-  },
-  "reference": "03520004U84"
+  }
 }

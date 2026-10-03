@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/US10380",
   "country": "USA",
+  "reference": "04560004V5M",
   "name": "SIOCHAIL",
   "rating": {
     "gph": 658.8,
@@ -197,6 +198,5 @@
       7.47,
       8.11
     ]
-  },
-  "reference": "04560004V5M"
+  }
 }

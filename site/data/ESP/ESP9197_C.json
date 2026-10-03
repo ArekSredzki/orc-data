@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9197_C",
   "country": "ESP",
+  "reference": "03510004LFU",
   "name": "SINUNAI",
   "rating": {
     "gph": 609.5,
@@ -197,6 +198,5 @@
       8.06,
       8.72
     ]
-  },
-  "reference": "03510004LFU"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10813_C",
   "country": "ESP",
+  "reference": "03510004WCH",
   "name": "BADOC",
   "rating": {
     "gph": 657.9,
@@ -197,6 +198,5 @@
       7.84,
       8.57
     ]
-  },
-  "reference": "03510004WCH"
+  }
 }

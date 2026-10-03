@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/GBR1605R",
   "country": "TUR",
+  "reference": "045900048QQ",
   "name": "JUMBO JET",
   "rating": {
     "gph": 609.4,
@@ -197,6 +198,5 @@
       8.23,
       10.51
     ]
-  },
-  "reference": "045900048QQ"
+  }
 }

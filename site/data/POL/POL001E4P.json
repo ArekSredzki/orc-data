@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL001E4P",
   "country": "POL",
+  "reference": "04410004VH8",
   "name": "FLOKI",
   "rating": {
     "gph": 678.3,
@@ -197,6 +198,5 @@
       7.3,
       8.18
     ]
-  },
-  "reference": "04410004VH8"
+  }
 }

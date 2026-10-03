@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2423",
   "country": "NED",
+  "reference": "04310004JT5",
   "name": "Black Shadow",
   "rating": {
     "gph": 709.1,
@@ -197,6 +198,5 @@
       7.07,
       9.8
     ]
-  },
-  "reference": "04310004JT5"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP850",
   "country": "ESP",
+  "reference": "03510004W64",
   "name": "Mer\u00c0ria",
   "rating": {
     "gph": 704.7,
@@ -197,6 +198,5 @@
       7.1,
       8.1
     ]
-  },
-  "reference": "03510004W64"
+  }
 }

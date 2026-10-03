@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4084_C",
   "country": "ESP",
+  "reference": "03510004BFL",
   "name": "ATIVE",
   "rating": {
     "gph": 681.7,
@@ -197,6 +198,5 @@
       7.29,
       7.95
     ]
-  },
-  "reference": "03510004BFL"
+  }
 }

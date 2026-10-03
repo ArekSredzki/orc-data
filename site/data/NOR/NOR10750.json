@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10750",
   "country": "NOR",
+  "reference": "03440004NKL",
   "name": "Duppen",
   "rating": {
     "gph": 682.4,
@@ -197,6 +198,5 @@
       7.22,
       7.81
     ]
-  },
-  "reference": "03440004NKL"
+  }
 }

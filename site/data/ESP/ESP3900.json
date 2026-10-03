@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3900",
   "country": "ESP",
+  "reference": "03510004P0S",
   "name": "ZERO 39",
   "rating": {
     "gph": 600.8,
@@ -197,6 +198,5 @@
       7.96,
       8.61
     ]
-  },
-  "reference": "03510004P0S"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2350",
   "country": "BRA",
+  "reference": "04420004I3Q",
   "name": "LUCKY V",
   "rating": {
     "gph": 627.7,
@@ -197,6 +198,5 @@
       7.98,
       8.7
     ]
-  },
-  "reference": "04420004I3Q"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR29",
   "country": "ISR",
+  "reference": "04390004845",
   "name": "SLYD",
   "rating": {
     "gph": 647.0,
@@ -197,6 +198,5 @@
       8.06,
       8.81
     ]
-  },
-  "reference": "04390004845"
+  }
 }

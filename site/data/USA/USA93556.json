@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA93556",
   "country": "USA",
+  "reference": "04560004L1V",
   "name": "ALLEGIANT",
   "rating": {
     "gph": 602.4,
@@ -197,6 +198,5 @@
       8.14,
       8.85
     ]
-  },
-  "reference": "04560004L1V"
+  }
 }

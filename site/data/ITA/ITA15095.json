@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15095",
   "country": "ITA",
+  "reference": "03190004MVU",
   "name": "ARKA",
   "rating": {
     "gph": 607.8,
@@ -197,6 +198,5 @@
       8.2,
       8.97
     ]
-  },
-  "reference": "03190004MVU"
+  }
 }

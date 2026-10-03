@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18266",
   "country": "ITA",
+  "reference": "03190004VM1",
   "name": "NEXT GEN",
   "rating": {
     "gph": 605.1,
@@ -197,6 +198,5 @@
       8.0,
       10.07
     ]
-  },
-  "reference": "03190004VM1"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/6316",
   "country": "AUS",
+  "reference": "03020004TS3",
   "name": "Gezzabelle",
   "rating": {
     "gph": 618.7,
@@ -197,6 +198,5 @@
       8.54,
       10.69
     ]
-  },
-  "reference": "03020004TS3"
+  }
 }

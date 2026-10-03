@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8705_C",
   "country": "ESP",
+  "reference": "03510004KVP",
   "name": "MINTAKA",
   "rating": {
     "gph": 696.8,
@@ -197,6 +198,5 @@
       7.49,
       8.29
     ]
-  },
-  "reference": "03510004KVP"
+  }
 }

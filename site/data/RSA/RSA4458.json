@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4458",
   "country": "RSA",
+  "reference": "04620004879",
   "name": "Windpower 2",
   "rating": {
     "gph": 462.8,
@@ -197,6 +198,5 @@
       11.96,
       15.25
     ]
-  },
-  "reference": "04620004879"
+  }
 }

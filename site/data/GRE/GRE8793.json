@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE8793",
   "country": "GRE",
+  "reference": "03420004KCO",
   "name": "MARIA-ELECTRA",
   "rating": {
     "gph": 640.7,
@@ -197,6 +198,5 @@
       7.76,
       8.43
     ]
-  },
-  "reference": "03420004KCO"
+  }
 }

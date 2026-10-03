@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR4111",
   "country": "TUR",
+  "reference": "04590004T8H",
   "name": "DXARMA",
   "rating": {
     "gph": 549.5,
@@ -197,6 +198,5 @@
       9.13,
       11.28
     ]
-  },
-  "reference": "04590004T8H"
+  }
 }

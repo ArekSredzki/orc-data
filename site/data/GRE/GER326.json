@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GER326",
   "country": "GRE",
+  "reference": "03420004SUF",
   "name": "GODEN WIND",
   "rating": {
     "gph": 671.6,
@@ -197,6 +198,5 @@
       7.7,
       8.38
     ]
-  },
-  "reference": "03420004SUF"
+  }
 }

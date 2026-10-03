@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/SUI60",
   "country": "ITA",
+  "reference": "03190004V8I",
   "name": "LA RANA ARROGANTE",
   "rating": {
     "gph": 728.9,
@@ -197,6 +198,5 @@
       6.85,
       7.78
     ]
-  },
-  "reference": "03190004V8I"
+  }
 }

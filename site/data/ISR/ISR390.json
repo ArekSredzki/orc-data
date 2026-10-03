@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR390",
   "country": "ISR",
+  "reference": "04390004842",
   "name": "Mermaid of Delaware",
   "rating": {
     "gph": 712.3,
@@ -197,6 +198,5 @@
       7.11,
       7.64
     ]
-  },
-  "reference": "04390004842"
+  }
 }

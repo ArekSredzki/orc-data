@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA311",
   "country": "USA",
+  "reference": "045600050AT",
   "name": "TANGAROA",
   "rating": {
     "gph": 611.1,

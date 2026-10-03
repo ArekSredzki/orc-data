@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12022",
   "country": "FIN",
+  "reference": "04140004WDA",
   "name": "Caccone",
   "rating": {
     "gph": 635.8,
@@ -197,6 +198,5 @@
       7.93,
       10.5
     ]
-  },
-  "reference": "04140004WDA"
+  }
 }

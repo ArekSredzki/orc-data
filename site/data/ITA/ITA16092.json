@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16092",
   "country": "ITA",
+  "reference": "03190004LS3",
   "name": "SELVAGGIA",
   "rating": {
     "gph": 652.3,
@@ -197,6 +198,5 @@
       7.61,
       8.3
     ]
-  },
-  "reference": "03190004LS3"
+  }
 }

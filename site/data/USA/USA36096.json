@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA36096",
   "country": "USA",
+  "reference": "04560004UNP",
   "name": "WHISTLER",
   "rating": {
     "gph": 545.7,
@@ -197,6 +198,5 @@
       9.8,
       12.84
     ]
-  },
-  "reference": "04560004UNP"
+  }
 }

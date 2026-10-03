@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7352",
   "country": "ESP",
+  "reference": "03510004WJ6",
   "name": "AIFOS",
   "rating": {
     "gph": 448.3,
@@ -197,6 +198,5 @@
       13.16,
       16.35
     ]
-  },
-  "reference": "03510004WJ6"
+  }
 }

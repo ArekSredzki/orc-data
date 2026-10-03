@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAFLIC",
   "country": "ITA",
+  "reference": "03190004HWJ",
   "name": "FLIC",
   "rating": {
     "gph": 683.7,
@@ -197,6 +198,5 @@
       7.08,
       7.59
     ]
-  },
-  "reference": "03190004HWJ"
+  }
 }

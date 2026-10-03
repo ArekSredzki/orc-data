@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2955",
   "country": "CRO",
+  "reference": "03620004LWM",
   "name": "Black Eagle",
   "rating": {
     "gph": 620.0,
@@ -197,6 +198,5 @@
       7.88,
       8.45
     ]
-  },
-  "reference": "03620004LWM"
+  }
 }

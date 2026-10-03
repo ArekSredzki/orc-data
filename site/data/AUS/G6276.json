@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/G6276",
   "country": "AUS",
+  "reference": "03020004W1E",
   "name": "BUCK 38",
   "rating": {
     "gph": 569.8,
@@ -197,6 +198,5 @@
       8.69,
       9.9
     ]
-  },
-  "reference": "03020004W1E"
+  }
 }

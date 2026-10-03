@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR40811",
   "country": "TUR",
+  "reference": "04590004MJS",
   "name": "LUCE",
   "rating": {
     "gph": 629.5,
@@ -197,6 +198,5 @@
       7.47,
       8.12
     ]
-  },
-  "reference": "04590004MJS"
+  }
 }

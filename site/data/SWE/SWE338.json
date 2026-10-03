@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE338",
   "country": "SWE",
+  "reference": "03200004N87",
   "name": "Draklunne",
   "rating": {
     "gph": 599.5,
@@ -197,6 +198,5 @@
       8.22,
       9.0
     ]
-  },
-  "reference": "03200004N87"
+  }
 }

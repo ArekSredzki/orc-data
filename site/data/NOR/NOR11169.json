@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11169",
   "country": "NOR",
+  "reference": "03440004PM5",
   "name": "Noomi II",
   "rating": {
     "gph": 596.9,
@@ -197,6 +198,5 @@
       8.34,
       9.11
     ]
-  },
-  "reference": "03440004PM5"
+  }
 }

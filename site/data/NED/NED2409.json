@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2409",
   "country": "NED",
+  "reference": "04310004O1V",
   "name": "Suntiki",
   "rating": {
     "gph": 756.1,
@@ -197,6 +198,5 @@
       6.55,
       7.16
     ]
-  },
-  "reference": "04310004O1V"
+  }
 }

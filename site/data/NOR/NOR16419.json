@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16419",
   "country": "NOR",
+  "reference": "03440004WN3",
   "name": "S/Y Jona",
   "rating": {
     "gph": 681.2,
@@ -197,6 +198,5 @@
       7.29,
       7.91
     ]
-  },
-  "reference": "03440004WN3"
+  }
 }

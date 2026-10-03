@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11357",
   "country": "NOR",
+  "reference": "03440004PM6",
   "name": "Krabbelure",
   "rating": {
     "gph": 590.2,
@@ -197,6 +198,5 @@
       8.38,
       9.09
     ]
-  },
-  "reference": "03440004PM6"
+  }
 }

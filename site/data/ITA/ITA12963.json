@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12963",
   "country": "ITA",
+  "reference": "03190004QD2",
   "name": "CELESTE 2",
   "rating": {
     "gph": 588.1,
@@ -197,6 +198,5 @@
       8.31,
       9.14
     ]
-  },
-  "reference": "03190004QD2"
+  }
 }

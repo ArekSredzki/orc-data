@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA34934",
   "country": "FRA",
+  "reference": "04330004LQF",
   "name": "LA GRENOUILLE",
   "rating": {
     "gph": 664.3,
@@ -197,6 +198,5 @@
       7.61,
       8.53
     ]
-  },
-  "reference": "04330004LQF"
+  }
 }

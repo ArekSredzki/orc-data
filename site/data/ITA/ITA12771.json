@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12771",
   "country": "ITA",
+  "reference": "03190004U5P",
   "name": "BIRBA FD",
   "rating": {
     "gph": 649.1,
@@ -197,6 +198,5 @@
       7.4,
       8.04
     ]
-  },
-  "reference": "03190004U5P"
+  }
 }

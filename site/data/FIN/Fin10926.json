@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/Fin10926",
   "country": "FIN",
+  "reference": "04140004UUL",
   "name": "Auvo",
   "rating": {
     "gph": 508.9,
@@ -197,6 +198,5 @@
       14.1,
       17.27
     ]
-  },
-  "reference": "04140004UUL"
+  }
 }

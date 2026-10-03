@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/UAE864",
   "country": "RSA",
+  "reference": "04620004AT3",
   "name": "Mirage",
   "rating": {
     "gph": 669.8,
@@ -197,6 +198,5 @@
       10.7,
       13.71
     ]
-  },
-  "reference": "04620004AT3"
+  }
 }

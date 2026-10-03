@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2229",
   "country": "GRE",
+  "reference": "03420004IUC",
   "name": "EXODUS",
   "rating": {
     "gph": 567.6,
@@ -197,6 +198,5 @@
       8.36,
       9.07
     ]
-  },
-  "reference": "03420004IUC"
+  }
 }

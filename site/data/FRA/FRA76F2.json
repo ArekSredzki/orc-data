@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA76F2",
   "country": "FRA",
+  "reference": "04330004FRW",
   "name": "VARENNE",
   "rating": {
     "gph": 594.5,
@@ -197,6 +198,5 @@
       9.17,
       11.51
     ]
-  },
-  "reference": "04330004FRW"
+  }
 }

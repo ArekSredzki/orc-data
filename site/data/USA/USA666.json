@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA666",
   "country": "USA",
+  "reference": "04560004P0B",
   "name": "Reindeer",
   "rating": {
     "gph": 540.7,
@@ -197,6 +198,5 @@
       8.83,
       10.27
     ]
-  },
-  "reference": "04560004P0B"
+  }
 }

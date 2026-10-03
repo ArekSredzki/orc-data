@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR1362",
   "country": "NOR",
+  "reference": "03440004O95",
   "name": "Flaks",
   "rating": {
     "gph": 665.9,
@@ -197,6 +198,5 @@
       8.77,
       11.83
     ]
-  },
-  "reference": "03440004O95"
+  }
 }

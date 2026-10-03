@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT441",
   "country": "LAT",
+  "reference": "04960004QO0",
   "name": "Fans",
   "rating": {
     "gph": 785.5,
@@ -197,6 +198,5 @@
       6.42,
       7.17
     ]
-  },
-  "reference": "04960004QO0"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA35270",
   "country": "FRA",
+  "reference": "04330004FEJ",
   "name": "ESKIL",
   "rating": {
     "gph": 648.9,
@@ -197,6 +198,5 @@
       7.69,
       8.43
     ]
-  },
-  "reference": "04330004FEJ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA93145",
   "country": "USA",
+  "reference": "04560004KUD",
   "name": "PALAEMON",
   "rating": {
     "gph": 505.6,
@@ -197,6 +198,5 @@
       9.96,
       12.28
     ]
-  },
-  "reference": "04560004KUD"
+  }
 }

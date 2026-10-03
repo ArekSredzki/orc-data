@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1677",
   "country": "ESP",
+  "reference": "03510004JAE",
   "name": "MAR MENOR",
   "rating": {
     "gph": 636.7,
@@ -197,6 +198,5 @@
       7.91,
       8.67
     ]
-  },
-  "reference": "03510004JAE"
+  }
 }

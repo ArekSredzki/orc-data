@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER4000",
   "country": "GER",
+  "reference": "04150004I5M",
   "name": "PETER VON DANZIG",
   "rating": {
     "gph": 544.7,
@@ -197,6 +198,5 @@
       9.07,
       9.81
     ]
-  },
-  "reference": "04150004I5M"
+  }
 }

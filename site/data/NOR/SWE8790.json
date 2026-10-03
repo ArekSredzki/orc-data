@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/SWE8790",
   "country": "NOR",
+  "reference": "03440004WU6",
   "name": "CarbonCave",
   "rating": {
     "gph": 554.9,
@@ -197,6 +198,5 @@
       8.94,
       10.33
     ]
-  },
-  "reference": "03440004WU6"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14576",
   "country": "ITA",
+  "reference": "03190004J2K",
   "name": "CYGNUS",
   "rating": {
     "gph": 622.9,
@@ -197,6 +198,5 @@
       7.86,
       8.58
     ]
-  },
-  "reference": "03190004J2K"
+  }
 }

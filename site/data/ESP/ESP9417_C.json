@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9417_C",
   "country": "ESP",
+  "reference": "03510004BIJ",
   "name": "SUHAIL",
   "rating": {
     "gph": 615.4,
@@ -197,6 +198,5 @@
       8.08,
       8.92
     ]
-  },
-  "reference": "03510004BIJ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR5124",
   "country": "NOR",
+  "reference": "03440004SFU",
   "name": "Just For Fun",
   "rating": {
     "gph": 787.1,
@@ -197,6 +198,5 @@
       7.31,
       8.1
     ]
-  },
-  "reference": "03440004SFU"
+  }
 }

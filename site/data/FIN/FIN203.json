@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN203",
   "country": "FIN",
+  "reference": "04140004P6H",
   "name": "Victoria",
   "rating": {
     "gph": 643.3,
@@ -197,6 +198,5 @@
       7.61,
       9.3
     ]
-  },
-  "reference": "04140004P6H"
+  }
 }

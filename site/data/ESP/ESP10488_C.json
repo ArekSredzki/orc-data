@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10488_C",
   "country": "ESP",
+  "reference": "03510004MJ4",
   "name": "NAUTICUM",
   "rating": {
     "gph": 628.3,
@@ -197,6 +198,5 @@
       7.78,
       8.43
     ]
-  },
-  "reference": "03510004MJ4"
+  }
 }

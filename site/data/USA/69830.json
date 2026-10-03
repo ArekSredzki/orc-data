@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/69830",
   "country": "USA",
+  "reference": "04560004PN6",
   "name": "Rage",
   "rating": {
     "gph": 450.9,
@@ -197,6 +198,5 @@
       12.93,
       15.5
     ]
-  },
-  "reference": "04560004PN6"
+  }
 }

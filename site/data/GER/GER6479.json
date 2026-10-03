@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6479",
   "country": "GER",
+  "reference": "04150004KL5",
   "name": "GERONIMO",
   "rating": {
     "gph": 616.6,
@@ -197,6 +198,5 @@
       7.98,
       8.71
     ]
-  },
-  "reference": "04150004KL5"
+  }
 }

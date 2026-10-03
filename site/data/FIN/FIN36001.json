@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN36001",
   "country": "FIN",
+  "reference": "04140004SIA",
   "name": "TARANTELLA",
   "rating": {
     "gph": 704.7,
@@ -197,6 +198,5 @@
       7.13,
       7.69
     ]
-  },
-  "reference": "04140004SIA"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL000KW5",
   "country": "POL",
+  "reference": "04410004OM3",
   "name": "FLING",
   "rating": {
     "gph": 610.8,
@@ -197,6 +198,5 @@
       8.15,
       8.9
     ]
-  },
-  "reference": "04410004OM3"
+  }
 }

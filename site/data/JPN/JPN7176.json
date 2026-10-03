@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN7176",
   "country": "JPN",
+  "reference": "03390004V41",
   "name": "Call99",
   "rating": {
     "gph": 556.3,
@@ -197,6 +198,5 @@
       11.59,
       14.82
     ]
-  },
-  "reference": "03390004V41"
+  }
 }

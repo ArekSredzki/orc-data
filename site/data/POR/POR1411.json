@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR1411",
   "country": "POR",
+  "reference": "03530004TUD",
   "name": "AZULE",
   "rating": {
     "gph": 736.2,
@@ -197,6 +198,5 @@
       6.94,
       7.61
     ]
-  },
-  "reference": "03530004TUD"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER1275",
   "country": "GER",
+  "reference": "04150004RD9",
   "name": "CAPRICORNO",
   "rating": {
     "gph": 531.9,
@@ -197,6 +198,5 @@
       9.96,
       12.97
     ]
-  },
-  "reference": "04150004RD9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14698",
   "country": "ITA",
+  "reference": "03190004KKD",
   "name": "AMMUINA",
   "rating": {
     "gph": 603.1,
@@ -197,6 +198,5 @@
       7.88,
       8.59
     ]
-  },
-  "reference": "03190004KKD"
+  }
 }

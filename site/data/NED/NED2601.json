@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2601",
   "country": "NED",
+  "reference": "04310004JT7",
   "name": "Picasso",
   "rating": {
     "gph": 699.9,
@@ -197,6 +198,5 @@
       7.31,
       8.86
     ]
-  },
-  "reference": "04310004JT7"
+  }
 }

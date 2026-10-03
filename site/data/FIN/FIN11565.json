@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11565",
   "country": "FIN",
+  "reference": "04140004O3F",
   "name": "Kaminami",
   "rating": {
     "gph": 568.6,
@@ -197,6 +198,5 @@
       9.52,
       12.87
     ]
-  },
-  "reference": "04140004O3F"
+  }
 }

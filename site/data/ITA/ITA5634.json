@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA5634",
   "country": "ITA",
+  "reference": "03190004TB4",
   "name": "NAIF",
   "rating": {
     "gph": 604.4,
@@ -197,6 +198,5 @@
       8.07,
       8.7
     ]
-  },
-  "reference": "03190004TB4"
+  }
 }

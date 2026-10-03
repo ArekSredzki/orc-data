@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN3807",
   "country": "FIN",
+  "reference": "04140004OSP",
   "name": "Annalivia",
   "rating": {
     "gph": 684.1,
@@ -197,6 +198,5 @@
       7.19,
       7.82
     ]
-  },
-  "reference": "04140004OSP"
+  }
 }

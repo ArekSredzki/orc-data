@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR535",
   "country": "NOR",
+  "reference": "03440004PS3",
   "name": "musestille",
   "rating": {
     "gph": 725.5,
@@ -197,6 +198,5 @@
       6.97,
       7.81
     ]
-  },
-  "reference": "03440004PS3"
+  }
 }

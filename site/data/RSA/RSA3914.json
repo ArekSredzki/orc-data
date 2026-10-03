@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3914",
   "country": "RSA",
+  "reference": "0462000486A",
   "name": "Sir Henry",
   "rating": {
     "gph": 622.0,
@@ -197,6 +198,5 @@
       8.01,
       8.78
     ]
-  },
-  "reference": "0462000486A"
+  }
 }

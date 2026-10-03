@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1SU",
   "country": "ITA",
+  "reference": "03190004FN7",
   "name": "JUMANJI",
   "rating": {
     "gph": 690.8,
@@ -197,6 +198,5 @@
       7.29,
       9.15
     ]
-  },
-  "reference": "03190004FN7"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR161",
   "country": "NOR",
+  "reference": "03440004RQD",
   "name": "YNGREB\u00d8LGEN",
   "rating": {
     "gph": 606.3,
@@ -197,6 +198,5 @@
       10.19,
       12.98
     ]
-  },
-  "reference": "03440004RQD"
+  }
 }

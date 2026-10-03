@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/EST919",
   "country": "LAT",
+  "reference": "04960004T4A",
   "name": "RTS Baltic",
   "rating": {
     "gph": 593.7,
@@ -197,6 +198,5 @@
       11.35,
       14.36
     ]
-  },
-  "reference": "04960004T4A"
+  }
 }

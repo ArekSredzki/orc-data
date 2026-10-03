@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4823",
   "country": "NED",
+  "reference": "04310004JUS",
   "name": "MAGIC MACHINE",
   "rating": {
     "gph": 590.2,
@@ -197,6 +198,5 @@
       8.04,
       8.65
     ]
-  },
-  "reference": "04310004JUS"
+  }
 }

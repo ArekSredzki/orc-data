@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17812",
   "country": "ITA",
+  "reference": "03190004NVP",
   "name": "FALCOR",
   "rating": {
     "gph": 596.2,
@@ -197,6 +198,5 @@
       7.96,
       8.59
     ]
-  },
-  "reference": "03190004NVP"
+  }
 }

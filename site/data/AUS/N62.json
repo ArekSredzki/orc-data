@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/N62",
   "country": "AUS",
+  "reference": "03020004S80",
   "name": "Saltwater Wine",
   "rating": {
     "gph": 594.0,
@@ -197,6 +198,5 @@
       8.46,
       9.75
     ]
-  },
-  "reference": "03020004S80"
+  }
 }

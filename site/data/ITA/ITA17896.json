@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17896",
   "country": "ITA",
+  "reference": "03190004H12",
   "name": "GEISHA",
   "rating": {
     "gph": 545.9,
@@ -197,6 +198,5 @@
       8.7,
       9.51
     ]
-  },
-  "reference": "03190004H12"
+  }
 }

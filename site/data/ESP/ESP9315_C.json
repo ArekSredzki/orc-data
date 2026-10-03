@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9315_C",
   "country": "ESP",
+  "reference": "03510004BIP",
   "name": "PATARO",
   "rating": {
     "gph": 706.9,
@@ -197,6 +198,5 @@
       7.06,
       7.71
     ]
-  },
-  "reference": "03510004BIP"
+  }
 }

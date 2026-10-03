@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG2187",
   "country": "HKG",
+  "reference": "038800048BB",
   "name": "Zoe",
   "rating": {
     "gph": 626.5,
@@ -197,6 +198,5 @@
       7.66,
       8.28
     ]
-  },
-  "reference": "038800048BB"
+  }
 }

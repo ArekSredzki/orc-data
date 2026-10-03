@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GER8532",
   "country": "FRA",
+  "reference": "04330004J4E",
   "name": "NOZOMI",
   "rating": {
     "gph": 627.3,
@@ -197,6 +198,5 @@
       8.02,
       9.04
     ]
-  },
-  "reference": "04330004J4E"
+  }
 }

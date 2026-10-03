@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17090",
   "country": "ITA",
+  "reference": "03190004C3U",
   "name": "ARLY",
   "rating": {
     "gph": 548.5,
@@ -197,6 +198,5 @@
       9.03,
       10.85
     ]
-  },
-  "reference": "03190004C3U"
+  }
 }

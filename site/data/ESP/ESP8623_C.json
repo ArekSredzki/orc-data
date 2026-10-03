@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8623_C",
   "country": "ESP",
+  "reference": "03510004AVF",
   "name": "GROP",
   "rating": {
     "gph": 606.3,
@@ -197,6 +198,5 @@
       7.83,
       8.49
     ]
-  },
-  "reference": "03510004AVF"
+  }
 }

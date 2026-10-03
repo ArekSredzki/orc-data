@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA15833",
   "country": "USA",
+  "reference": "04560004NI8",
   "name": "STRATOS",
   "rating": {
     "gph": 596.5,
@@ -197,6 +198,5 @@
       8.44,
       11.4
     ]
-  },
-  "reference": "04560004NI8"
+  }
 }

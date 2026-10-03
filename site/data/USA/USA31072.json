@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA31072",
   "country": "USA",
+  "reference": "04560004LI8",
   "name": "COOL BREEZE",
   "rating": {
     "gph": 552.5,
@@ -197,6 +198,5 @@
       11.39,
       14.55
     ]
-  },
-  "reference": "04560004LI8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1317_C",
   "country": "ESP",
+  "reference": "03510004FRJ",
   "name": "TUSITALA",
   "rating": {
     "gph": 683.7,
@@ -197,6 +198,5 @@
       7.21,
       7.8
     ]
-  },
-  "reference": "03510004FRJ"
+  }
 }

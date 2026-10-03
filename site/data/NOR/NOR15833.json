@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15833",
   "country": "NOR",
+  "reference": "03440004MPO",
   "name": "Wasawe",
   "rating": {
     "gph": 629.4,
@@ -197,6 +198,5 @@
       8.46,
       9.5
     ]
-  },
-  "reference": "03440004MPO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST478",
   "country": "EST",
+  "reference": "04340004U99",
   "name": "SYLVIA",
   "rating": {
     "gph": 594.6,
@@ -197,6 +198,5 @@
       8.48,
       9.2
     ]
-  },
-  "reference": "04340004U99"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN797",
   "country": "FIN",
+  "reference": "04140004UVU",
   "name": "Orca",
   "rating": {
     "gph": 744.0,
@@ -197,6 +198,5 @@
       6.95,
       7.58
     ]
-  },
-  "reference": "04140004UVU"
+  }
 }

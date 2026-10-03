@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5990",
   "country": "ARG",
+  "reference": "03880004Q2E",
   "name": "CARMELA",
   "rating": {
     "gph": 683.1,
@@ -197,6 +198,5 @@
       7.36,
       10.08
     ]
-  },
-  "reference": "03880004Q2E"
+  }
 }

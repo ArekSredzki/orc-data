@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA787",
   "country": "USA",
+  "reference": "04560004SIF",
   "name": "MYSTERY",
   "rating": {
     "gph": 578.9,
@@ -197,6 +198,5 @@
       8.71,
       9.33
     ]
-  },
-  "reference": "04560004SIF"
+  }
 }

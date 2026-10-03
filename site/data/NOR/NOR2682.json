@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR2682",
   "country": "NOR",
+  "reference": "03440004KEM",
   "name": "Priscilla",
   "rating": {
     "gph": 772.4,
@@ -197,6 +198,5 @@
       6.4,
       6.94
     ]
-  },
-  "reference": "03440004KEM"
+  }
 }

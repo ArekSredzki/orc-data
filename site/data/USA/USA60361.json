@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60361",
   "country": "USA",
+  "reference": "04560004UH0",
   "name": "JULIANNA",
   "rating": {
     "gph": 662.3,
@@ -197,6 +198,5 @@
       7.35,
       7.92
     ]
-  },
-  "reference": "04560004UH0"
+  }
 }

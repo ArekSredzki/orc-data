@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR3331",
   "country": "TUR",
+  "reference": "04590004867",
   "name": "3T",
   "rating": {
     "gph": 654.4,
@@ -197,6 +198,5 @@
       7.94,
       11.19
     ]
-  },
-  "reference": "04590004867"
+  }
 }

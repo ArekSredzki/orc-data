@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2501",
   "country": "GRE",
+  "reference": "03420004WPS",
   "name": "ANDROMEDA",
   "rating": {
     "gph": 673.9,
@@ -197,6 +198,5 @@
       7.75,
       10.36
     ]
-  },
-  "reference": "03420004WPS"
+  }
 }

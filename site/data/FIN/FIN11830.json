@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11830",
   "country": "FIN",
+  "reference": "04140004RUM",
   "name": "Senja",
   "rating": {
     "gph": 620.8,
@@ -197,6 +198,5 @@
       7.65,
       8.28
     ]
-  },
-  "reference": "04140004RUM"
+  }
 }

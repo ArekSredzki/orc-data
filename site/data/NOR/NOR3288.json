@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR3288",
   "country": "NOR",
+  "reference": "03440004N9T",
   "name": "Angelique",
   "rating": {
     "gph": 625.0,
@@ -197,6 +198,5 @@
       8.04,
       9.53
     ]
-  },
-  "reference": "03440004N9T"
+  }
 }

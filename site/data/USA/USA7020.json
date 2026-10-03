@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA7020",
   "country": "USA",
+  "reference": "04560004QBV",
   "name": "SORCERER",
   "rating": {
     "gph": 618.0,
@@ -197,6 +198,5 @@
       7.88,
       8.62
     ]
-  },
-  "reference": "04560004QBV"
+  }
 }

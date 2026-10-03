@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/7188",
   "country": "AUS",
+  "reference": "03020004WHE",
   "name": "JINJA",
   "rating": {
     "gph": 648.1,
@@ -197,6 +198,5 @@
       7.31,
       8.14
     ]
-  },
-  "reference": "03020004WHE"
+  }
 }

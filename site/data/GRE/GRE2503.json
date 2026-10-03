@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2503",
   "country": "GRE",
+  "reference": "03420004LII",
   "name": "INSOMNIA",
   "rating": {
     "gph": 673.1,
@@ -197,6 +198,5 @@
       7.76,
       10.34
     ]
-  },
-  "reference": "03420004LII"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4386",
   "country": "RSA",
+  "reference": "04620004ET5",
   "name": "WINGS",
   "rating": {
     "gph": 772.7,
@@ -197,6 +198,5 @@
       6.8,
       7.33
     ]
-  },
-  "reference": "04620004ET5"
+  }
 }

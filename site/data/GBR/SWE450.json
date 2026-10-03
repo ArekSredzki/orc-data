@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/SWE450",
   "country": "GBR",
+  "reference": "0386000485Q",
   "name": "Emily of Cowes",
   "rating": {
     "gph": 597.3,
@@ -197,6 +198,5 @@
       8.29,
       8.93
     ]
-  },
-  "reference": "0386000485Q"
+  }
 }

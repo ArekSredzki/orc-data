@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA42549",
   "country": "USA",
+  "reference": "04560004U2N",
   "name": "RUM RUNNER",
   "rating": {
     "gph": 601.1,
@@ -197,6 +198,5 @@
       8.04,
       8.97
     ]
-  },
-  "reference": "04560004U2N"
+  }
 }

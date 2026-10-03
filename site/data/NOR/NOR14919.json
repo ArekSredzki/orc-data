@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14919",
   "country": "NOR",
+  "reference": "03440004MPP",
   "name": "Minion",
   "rating": {
     "gph": 610.1,
@@ -197,6 +198,5 @@
       8.06,
       8.76
     ]
-  },
-  "reference": "03440004MPP"
+  }
 }

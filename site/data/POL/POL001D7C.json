@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL001D7C",
   "country": "POL",
+  "reference": "04410004U32",
   "name": "BF ONE",
   "rating": {
     "gph": 677.6,
@@ -197,6 +198,5 @@
       7.8,
       9.14
     ]
-  },
-  "reference": "04410004U32"
+  }
 }

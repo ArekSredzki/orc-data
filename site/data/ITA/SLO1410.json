@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/SLO1410",
   "country": "ITA",
+  "reference": "03190004PVE",
   "name": "DESTRIERO",
   "rating": {
     "gph": 595.7,
@@ -197,6 +198,5 @@
       8.51,
       9.32
     ]
-  },
-  "reference": "03190004PVE"
+  }
 }

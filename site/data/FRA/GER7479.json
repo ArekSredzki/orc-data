@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GER7479",
   "country": "FRA",
+  "reference": "04330004S4H",
   "name": "BLUE BOHEMIA",
   "rating": {
     "gph": 535.6,
@@ -197,6 +198,5 @@
       9.1,
       10.18
     ]
-  },
-  "reference": "04330004S4H"
+  }
 }

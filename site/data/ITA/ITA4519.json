@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA4519",
   "country": "ITA",
+  "reference": "03190004QOW",
   "name": "STELLA POLARE",
   "rating": {
     "gph": 550.6,
@@ -197,6 +198,5 @@
       8.94,
       9.56
     ]
-  },
-  "reference": "03190004QOW"
+  }
 }

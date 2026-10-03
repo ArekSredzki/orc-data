@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15321",
   "country": "ITA",
+  "reference": "03190004K6F",
   "name": "L'OTTAVO PECCATO",
   "rating": {
     "gph": 602.3,
@@ -197,6 +198,5 @@
       8.22,
       9.1
     ]
-  },
-  "reference": "03190004K6F"
+  }
 }

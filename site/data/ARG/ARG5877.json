@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5877",
   "country": "ARG",
+  "reference": "03880004IFK",
   "name": "CHANGO",
   "rating": {
     "gph": 674.3,
@@ -197,6 +198,5 @@
       7.44,
       8.17
     ]
-  },
-  "reference": "03880004IFK"
+  }
 }

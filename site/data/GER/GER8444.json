@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8444",
   "country": "GER",
+  "reference": "03520004OD1",
   "name": "SALICORNIA",
   "rating": {
     "gph": 568.4,
@@ -197,6 +198,5 @@
       9.46,
       12.48
     ]
-  },
-  "reference": "03520004OD1"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/L4345",
   "country": "FIN",
+  "reference": "04140004UUM",
   "name": "Vilma",
   "rating": {
     "gph": 688.2,
@@ -197,6 +198,5 @@
       6.96,
       7.53
     ]
-  },
-  "reference": "04140004UUM"
+  }
 }

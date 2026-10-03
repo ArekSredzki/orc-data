@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAKLNTJ24",
   "country": "ITA",
+  "reference": "03190004RMC",
   "name": "KLEINTJE",
   "rating": {
     "gph": 743.1,
@@ -197,6 +198,5 @@
       6.77,
       7.24
     ]
-  },
-  "reference": "03190004RMC"
+  }
 }

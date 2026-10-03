@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU408",
   "country": "ROU",
+  "reference": "05040004SLB",
   "name": "Nemo",
   "rating": {
     "gph": 599.0,
@@ -197,6 +198,5 @@
       8.25,
       9.02
     ]
-  },
-  "reference": "05040004SLB"
+  }
 }

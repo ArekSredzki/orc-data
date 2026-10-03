@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7745",
   "country": "GER",
+  "reference": "03520004UDV",
   "name": "JUST",
   "rating": {
     "gph": 659.2,
@@ -197,6 +198,5 @@
       7.69,
       8.44
     ]
-  },
-  "reference": "03520004UDV"
+  }
 }

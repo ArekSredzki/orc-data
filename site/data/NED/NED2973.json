@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2973",
   "country": "NED",
+  "reference": "04310004JTF",
   "name": "AMERICA JANE II",
   "rating": {
     "gph": 651.8,
@@ -197,6 +198,5 @@
       7.59,
       8.24
     ]
-  },
-  "reference": "04310004JTF"
+  }
 }

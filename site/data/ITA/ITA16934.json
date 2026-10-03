@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16934",
   "country": "ITA",
+  "reference": "03190004BUM",
   "name": "SERENDIPITY 2",
   "rating": {
     "gph": 615.8,
@@ -197,6 +198,5 @@
       7.88,
       8.45
     ]
-  },
-  "reference": "03190004BUM"
+  }
 }

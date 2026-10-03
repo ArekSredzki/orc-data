@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA7031",
   "country": "USA",
+  "reference": "04560004OSE",
   "name": "KEA",
   "rating": {
     "gph": 611.4,
@@ -197,6 +198,5 @@
       7.93,
       8.68
     ]
-  },
-  "reference": "04560004OSE"
+  }
 }

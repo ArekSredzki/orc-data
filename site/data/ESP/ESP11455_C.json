@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11455_C",
   "country": "ESP",
+  "reference": "03510004JAS",
   "name": "ICE AND FIRE",
   "rating": {
     "gph": 499.1,
@@ -197,6 +198,5 @@
       9.8,
       11.55
     ]
-  },
-  "reference": "03510004JAS"
+  }
 }

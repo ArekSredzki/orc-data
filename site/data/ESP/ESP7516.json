@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7516",
   "country": "ESP",
+  "reference": "03510004UEN",
   "name": "DEEP BLUE 2.1",
   "rating": {
     "gph": 656.9,
@@ -197,6 +198,5 @@
       7.61,
       8.24
     ]
-  },
-  "reference": "03510004UEN"
+  }
 }

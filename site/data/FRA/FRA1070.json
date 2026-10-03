@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA1070",
   "country": "FRA",
+  "reference": "04330004H0L",
   "name": "FLOWER POWER\u00b2",
   "rating": {
     "gph": 590.7,
@@ -197,6 +198,5 @@
       8.53,
       10.04
     ]
-  },
-  "reference": "04330004H0L"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4041",
   "country": "RSA",
+  "reference": "04620004BWJ",
   "name": "DILLIGAF",
   "rating": {
     "gph": 853.3,
@@ -197,6 +198,5 @@
       6.39,
       6.89
     ]
-  },
-  "reference": "04620004BWJ"
+  }
 }

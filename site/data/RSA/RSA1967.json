@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1967",
   "country": "RSA",
+  "reference": "046200048AR",
   "name": "Storm",
   "rating": {
     "gph": 719.2,
@@ -197,6 +198,5 @@
       7.18,
       7.76
     ]
-  },
-  "reference": "046200048AR"
+  }
 }
