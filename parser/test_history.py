@@ -84,6 +84,9 @@ class HistoryTest(unittest.TestCase):
         archive.add(original)
         incoming = boat(); incoming['rating']['aph_tod'] = 999
         incoming['boat']['issue_date'] = '2026-08-31'
+        with self.assertRaises(ValueError):
+            archive.add(incoming)
+        incoming['rating']['aph_tod'] = 500
         archive.add(incoming)
         saved = archive.document('CAN/CAN1995')['versions'][0]
         self.assertEqual(saved['boat']['rating']['aph_tod'], 500)
