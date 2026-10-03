@@ -1,7 +1,8 @@
-# Phase 6: Certificate history - IN_PROGRESS
+# Phase 6: Certificate history - DONE
 
-**Status**: IN_PROGRESS
+**Status**: DONE
 **Started**: 2026-10-02
+**Completed**: 2026-10-02
 
 ## Overview
 Preserve certificate versions across refreshes, recover historical snapshots from Git, and support viewing, sharing, printing, exporting, and comparing specific versions.
@@ -12,7 +13,7 @@ Preserve certificate versions across refreshes, recover historical snapshots fro
 | 6.1 | Archive imports and backfill Git snapshots | DONE |
 | 6.2 | Add independent certificate selectors and version URLs | DONE |
 | 6.3 | Preserve versions in print/CSV and display comparison changes | DONE |
-| 6.4 | Validate data, tests, browser flows, merge and deploy | IN_PROGRESS |
+| 6.4 | Validate data, tests, browser flows, merge and deploy | DONE |
 
 ## Implementation Details
 
@@ -39,9 +40,11 @@ Backfill: 135,268 unique Git records produced 91,131 versions for 33,089 sail nu
 - [x] Version selection survives direct URLs, navigation, print, and CSV export.
 - [x] Missing versions do not silently display a newer certificate.
 - [x] Archive integrity, unit tests, lint, build, and browser flows verified.
-- [ ] Merge completeness and production deployment verified.
+- [x] Merge completeness and production deployment verified.
 
 ## Notes
 Historical issue dates and VPP years are never inferred from commit dates. Existing search remains the latest boat catalog; deleted historical sail numbers are retained in the archive but not added back to the catalog. No paid or authenticated ORC data was fetched. The public ORC link map is retained separately and only supplies verified public page IDs.
 
-Local validation: all 97 JavaScript tests, 14 Python tests, ESLint, and production build pass. Reusable Playwright checks in `scripts/check-history-browser.mjs` pass against the local build, including mobile viewport containment. All 33,089 bundles have valid unique IDs/aliases and boat identities; all 19,467 current named records match their archived latest certificate. Archive payload size is 117.9 MiB; the largest bundle is 23,608 bytes. Existing Svelte/Svelecte build warnings remain. No standalone typecheck is configured.
+Local validation: all 97 JavaScript tests, 15 Python tests, ESLint, and production build pass. Reusable Playwright checks in `scripts/check-history-browser.mjs` pass against the local build, including mobile viewport containment. All 33,089 bundles have valid unique IDs/aliases and boat identities; all 19,467 current named records match their archived latest certificate. Archive payload size is 117.9 MiB; the largest bundle is 23,608 bytes. Existing Svelte/Svelecte build warnings remain. No standalone typecheck is configured.
+
+Deployment: feature commit `00fc751d1254ccdebf8b18fe361faf5f88fa456e` was built and deployed by GitHub Pages. The reusable browser suite passed against https://arek.io/orc-data/site/index.html, including historical boat loading, pinned previous comparison, independent selectors, back/reload, mobile layout, print options, and missing-version recovery; no browser errors were recorded. All 33,117 expected files were present in the initial master merge. The final import guard additionally rejects conflicting existing scalar or array measurements outside the deduplication fingerprint.

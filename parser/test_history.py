@@ -106,3 +106,11 @@ class HistoryTest(unittest.TestCase):
             self.assertEqual(document['latest'], 'new')
             self.assertEqual({v['id'] for v in document['versions']}, {'old', 'new'})
             self.assertEqual(json.loads(target.read_text())['reference'], 'new')
+
+    def test_conflicting_rating_arrays_are_rejected(self):
+        archive = Archive(self.root)
+        original = boat(); original['rating']['triple_offshore'] = [1, 2, 3]
+        archive.add(original)
+        incoming = boat(); incoming['rating']['triple_offshore'] = [1, 2, 4]
+        with self.assertRaises(ValueError):
+            archive.add(incoming)

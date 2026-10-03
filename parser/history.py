@@ -36,6 +36,8 @@ def numeric_conflict(existing, incoming):
         if isinstance(left, dict) and isinstance(right, dict):
             if numeric_conflict(left, right):
                 return True
+        elif isinstance(left, list) and isinstance(right, list) and left != right:
+            return True
         elif isinstance(left, (int, float)) and isinstance(right, (int, float)):
             if key == 'stability_index' and (left <= 0 or right <= 0):
                 continue  # legacy unknown-value sentinel
