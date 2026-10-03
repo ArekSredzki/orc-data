@@ -7,6 +7,9 @@ import Compare from './Compare.svelte';
 import fixture from '../../site/data/GER/ORC213.json';
 import { getBoat, index } from '../api.js';
 import App from '../App.svelte';
+import { certificateUrl } from '../orc-links.js';
+
+vi.mock('../orc-links.js', () => ({ certificateUrl: vi.fn() }));
 
 vi.mock('../api.js', () => ({
     getBoat: vi.fn(),
@@ -15,6 +18,9 @@ vi.mock('../api.js', () => ({
     getExtremes: vi.fn(),
 }));
 beforeEach(() => {
+    certificateUrl.mockImplementation(async (reference) =>
+        reference ? `https://data.orc.org/public/WPub.dll/CC/${reference === '001ABC' ? '123' : '456'}` : null,
+    );
     // jsdom does not resolve the CSS variables used by Svelecte's virtual list.
     const getStyle = window.getComputedStyle.bind(window);
     vi.spyOn(window, 'getComputedStyle').mockImplementation((element) => {
@@ -50,7 +56,13 @@ afterEach(() => {
 
 it('shows the certificate reference on the boat page, preserving leading zeros', async () => {
     render(Boat, { sailnumber: 'GER/A' });
-    expect(await screen.findByText('001ABC')).toBeDefined();
+    expect((await screen.findByRole('link', { name: '001ABC' })).getAttribute('href')).toBe(
+        'https://data.orc.org/public/WPub.dll/CC/123',
+    );
+    expect(screen.getByRole('link', { name: 'Speed guides' }).getAttribute('href')).toBe(
+        'https://orc.org/sailors/sailor-services/speed-guides',
+    );
+    expect(screen.getByText(/may require login and payment/)).toBeDefined();
     expect(screen.getByText('ORC reference')).toBeDefined();
 });
 it('omits the boat reference when unavailable', async () => {
@@ -164,4 +176,22 @@ it('ignores a previous boat response after navigation', async () => {
     await new Promise((resolve) => setTimeout(resolve, 0));
     expect(screen.queryByText('001ABC')).toBeNull();
     expect(screen.getByText('002DEF')).toBeDefined();
+});
+
+it('keeps an unmapped reference readable without linking to a different certificate', async () => {
+    certificateUrl.mockResolvedValue(null);
+    render(Boat, { sailnumber: 'GER/A' });
+    await screen.findByText('001ABC');
+    expect(screen.queryByRole('link', { name: '001ABC' })).toBeNull();
+});
+
+it('links each comparison reference to its own original certificate', async () => {
+    window.location.hash = '#compare-GER/A|GER/B';
+    render(Compare);
+    expect((await screen.findByRole('link', { name: '001ABC' })).getAttribute('href')).toBe(
+        'https://data.orc.org/public/WPub.dll/CC/123',
+    );
+    expect((await screen.findByRole('link', { name: '002DEF' })).getAttribute('href')).toBe(
+        'https://data.orc.org/public/WPub.dll/CC/456',
+    );
 });

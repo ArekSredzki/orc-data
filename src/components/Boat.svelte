@@ -1,5 +1,6 @@
 <script>
 import Help from './Help.svelte';
+import OrcReference from './OrcReference.svelte';
 import PolarPlot from './PolarPlot.svelte';
 import PolarTable from './PolarTable.svelte';
 import { getBoat } from '../api.js';
@@ -69,7 +70,10 @@ let plot;
             </div>
 
             {#if boat.reference}
-                <p><span class="text-muted">ORC reference</span> {boat.reference}</p>
+                <div class="mb-3">
+                    <span class="text-muted">ORC reference</span>
+                    <OrcReference reference={boat.reference} resources />
+                </div>
             {/if}
 
             <table class="table">

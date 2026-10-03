@@ -4,6 +4,7 @@ import { onMount } from 'svelte';
 import BoatSelect from './BoatSelect.svelte';
 import Help from './Help.svelte';
 import LineLegend from './LineLegend.svelte';
+import OrcReference from './OrcReference.svelte';
 import PolarPlot from './PolarPlot.svelte';
 import Sailnumber from './Sailnumber.svelte';
 import { getBoat } from '../api.js';
@@ -67,7 +68,7 @@ function topSpeed(boat) {
 // `label` may carry a `help` key naming a glossary entry, and `area: true` renders the m²
 // suffix. Values are read through accessors so a missing boat is simply undefined.
 const rows = [
-    { label: 'ORC reference', value: (boat) => boat?.reference },
+    { label: 'ORC reference', reference: true, value: (boat) => boat?.reference },
     { label: 'Name', value: (boat) => boat?.name },
     { label: 'Type', value: (boat) => boat?.boat.type },
     { label: 'Year', value: (boat) => boat?.boat.year },
@@ -156,7 +157,9 @@ $: visibleRows = rows.filter((row) => row.separator || [boatA, boatB].some((boat
                                 {#each [boatA, boatB] as boat}
                                     {@const value = row.value(boat)}
                                     <td class:text-end={typeof value === 'number'}>
-                                        {#if value}
+                                        {#if row.reference && value}
+                                            <OrcReference reference={value} />
+                                        {:else if value}
                                             <!-- Units are spaced off the number, matching the boat page. -->
                                             {value}{#if row.suffix}&nbsp;{row.suffix}{/if}{#if row.area}&nbsp;m<sup
                                                     >2</sup
