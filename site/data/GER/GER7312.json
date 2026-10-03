@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7312",
   "country": "GER",
+  "reference": "03520004I2A",
   "name": "MACH 1",
   "rating": {
     "gph": 620.9,
@@ -197,6 +198,5 @@
       8.15,
       8.75
     ]
-  },
-  "reference": "03520004I2A"
+  }
 }

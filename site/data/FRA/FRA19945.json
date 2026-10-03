@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA19945",
   "country": "FRA",
+  "reference": "04330004JB8",
   "name": "JULIETTE",
   "rating": {
     "gph": 640.2,
@@ -197,6 +198,5 @@
       7.95,
       10.73
     ]
-  },
-  "reference": "04330004JB8"
+  }
 }

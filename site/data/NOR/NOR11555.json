@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11555",
   "country": "NOR",
+  "reference": "03440004L3D",
   "name": "Mithrandir",
   "rating": {
     "gph": 613.9,
@@ -197,6 +198,5 @@
       8.0,
       8.77
     ]
-  },
-  "reference": "03440004L3D"
+  }
 }

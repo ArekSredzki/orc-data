@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA50399",
   "country": "USA",
+  "reference": "04560004UM3",
   "name": "RIDGELINE",
   "rating": {
     "gph": 574.2,
@@ -197,6 +198,5 @@
       8.34,
       10.68
     ]
-  },
-  "reference": "04560004UM3"
+  }
 }

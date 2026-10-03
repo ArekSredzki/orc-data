@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14720",
   "country": "ITA",
+  "reference": "03190004OJU",
   "name": "TUATHA",
   "rating": {
     "gph": 567.4,
@@ -197,6 +198,5 @@
       8.75,
       9.59
     ]
-  },
-  "reference": "03190004OJU"
+  }
 }

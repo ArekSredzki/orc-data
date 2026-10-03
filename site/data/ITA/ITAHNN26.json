@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAHNN26",
   "country": "ITA",
+  "reference": "03190004WVP",
   "name": "HANNA",
   "rating": {
     "gph": 590.5,
@@ -197,6 +198,5 @@
       8.17,
       8.82
     ]
-  },
-  "reference": "03190004WVP"
+  }
 }

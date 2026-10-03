@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/H1410",
   "country": "FRA",
+  "reference": "04330004J4P",
   "name": "PERSEPHONE",
   "rating": {
     "gph": 692.4,
@@ -197,6 +198,5 @@
       7.3,
       7.89
     ]
-  },
-  "reference": "04330004J4P"
+  }
 }

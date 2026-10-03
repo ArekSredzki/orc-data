@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8727",
   "country": "GER",
+  "reference": "03520004T1J",
   "name": "DE ZEVEN GEUZEN",
   "rating": {
     "gph": 593.4,
@@ -197,6 +198,5 @@
       8.62,
       10.89
     ]
-  },
-  "reference": "03520004T1J"
+  }
 }

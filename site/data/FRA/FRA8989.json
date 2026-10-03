@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA8989",
   "country": "FRA",
+  "reference": "04330004KV0",
   "name": "MARCEL",
   "rating": {
     "gph": 646.5,
@@ -197,6 +198,5 @@
       7.88,
       8.83
     ]
-  },
-  "reference": "04330004KV0"
+  }
 }

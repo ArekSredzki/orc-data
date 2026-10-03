@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL001RR3",
   "country": "POL",
+  "reference": "04410004VI9",
   "name": "TOP GUN",
   "rating": {
     "gph": 464.8,
@@ -197,6 +198,5 @@
       12.66,
       15.8
     ]
-  },
-  "reference": "04410004VI9"
+  }
 }

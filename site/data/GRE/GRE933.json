@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE933",
   "country": "GRE",
+  "reference": "03420004HM4",
   "name": "VENTUS",
   "rating": {
     "gph": 655.7,
@@ -197,6 +198,5 @@
       7.72,
       8.36
     ]
-  },
-  "reference": "03420004HM4"
+  }
 }

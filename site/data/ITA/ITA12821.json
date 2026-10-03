@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12821",
   "country": "ITA",
+  "reference": "03190004STB",
   "name": "ORSA MAGGIORE",
   "rating": {
     "gph": 452.9,
@@ -197,6 +198,5 @@
       10.81,
       11.78
     ]
-  },
-  "reference": "03190004STB"
+  }
 }

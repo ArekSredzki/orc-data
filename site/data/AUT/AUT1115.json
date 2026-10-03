@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT1115",
   "country": "AUT",
+  "reference": "03210004L2N",
   "name": "K Kompromiss",
   "rating": {
     "gph": 704.0,
@@ -197,6 +198,5 @@
       7.68,
       8.23
     ]
-  },
-  "reference": "03210004L2N"
+  }
 }

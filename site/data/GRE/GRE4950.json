@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE4950",
   "country": "GRE",
+  "reference": "03420004UWJ",
   "name": "OKYRROI",
   "rating": {
     "gph": 618.8,
@@ -197,6 +198,5 @@
       8.22,
       8.81
     ]
-  },
-  "reference": "03420004UWJ"
+  }
 }

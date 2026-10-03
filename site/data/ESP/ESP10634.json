@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10634",
   "country": "ESP",
+  "reference": "03510004MJF",
   "name": "IN SITU",
   "rating": {
     "gph": 604.2,
@@ -197,6 +198,5 @@
       8.29,
       9.1
     ]
-  },
-  "reference": "03510004MJF"
+  }
 }

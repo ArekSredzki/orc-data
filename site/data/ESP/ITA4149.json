@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ITA4149",
   "country": "ESP",
+  "reference": "03510004U88",
   "name": "MAGICA",
   "rating": {
     "gph": 565.2,
@@ -197,6 +198,5 @@
       8.74,
       9.85
     ]
-  },
-  "reference": "03510004U88"
+  }
 }

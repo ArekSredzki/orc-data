@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA31074",
   "country": "USA",
+  "reference": "04560004SDM",
   "name": "WARRIOR WON",
   "rating": {
     "gph": 551.8,
@@ -197,6 +198,5 @@
       11.7,
       14.83
     ]
-  },
-  "reference": "04560004SDM"
+  }
 }

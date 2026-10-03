@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11411_C",
   "country": "ESP",
+  "reference": "03510004S2I",
   "name": "LEIA",
   "rating": {
     "gph": 647.9,
@@ -197,6 +198,5 @@
       7.63,
       8.28
     ]
-  },
-  "reference": "03510004S2I"
+  }
 }

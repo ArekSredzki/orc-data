@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/CRO1213",
   "country": "TUR",
+  "reference": "04590004K77",
   "name": "SAIL LA VIE",
   "rating": {
     "gph": 589.4,
@@ -197,6 +198,5 @@
       7.92,
       8.7
     ]
-  },
-  "reference": "04590004K77"
+  }
 }

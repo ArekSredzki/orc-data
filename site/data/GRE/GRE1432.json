@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1432",
   "country": "GRE",
+  "reference": "03420004LIK",
   "name": "IPSIPILI",
   "rating": {
     "gph": 636.2,
@@ -197,6 +198,5 @@
       8.0,
       8.66
     ]
-  },
-  "reference": "03420004LIK"
+  }
 }

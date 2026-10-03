@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA3040",
   "country": "ITA",
+  "reference": "03190004N5J",
   "name": "SEASE",
   "rating": {
     "gph": 605.2,
@@ -197,6 +198,5 @@
       8.65,
       10.92
     ]
-  },
-  "reference": "03190004N5J"
+  }
 }

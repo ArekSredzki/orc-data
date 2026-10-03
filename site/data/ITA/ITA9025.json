@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA9025",
   "country": "ITA",
+  "reference": "03190004M17",
   "name": "DOR AN DOUR",
   "rating": {
     "gph": 627.1,
@@ -197,6 +198,5 @@
       7.9,
       8.65
     ]
-  },
-  "reference": "03190004M17"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9041",
   "country": "ESP",
+  "reference": "03510004EQU",
   "name": "TARHUNZ",
   "rating": {
     "gph": 561.4,
@@ -197,6 +198,5 @@
       8.56,
       10.37
     ]
-  },
-  "reference": "03510004EQU"
+  }
 }

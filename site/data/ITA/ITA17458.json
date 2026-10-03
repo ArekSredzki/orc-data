@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17458",
   "country": "ITA",
+  "reference": "03190004F8P",
   "name": "VOLARE",
   "rating": {
     "gph": 574.6,
@@ -197,6 +198,5 @@
       8.25,
       8.97
     ]
-  },
-  "reference": "03190004F8P"
+  }
 }

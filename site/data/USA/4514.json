@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/4514",
   "country": "USA",
+  "reference": "04560004V6I",
   "name": "SPECIAL K",
   "rating": {
     "gph": 675.2,
@@ -197,6 +198,5 @@
       7.22,
       7.91
     ]
-  },
-  "reference": "04560004V6I"
+  }
 }

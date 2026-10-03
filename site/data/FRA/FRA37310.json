@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA37310",
   "country": "FRA",
+  "reference": "04330004KSJ",
   "name": "GARUDA 4",
   "rating": {
     "gph": 623.9,
@@ -197,6 +198,5 @@
       8.11,
       9.22
     ]
-  },
-  "reference": "04330004KSJ"
+  }
 }

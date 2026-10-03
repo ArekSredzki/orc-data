@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6360",
   "country": "NED",
+  "reference": "04310004JVO",
   "name": "Cool Runnings",
   "rating": {
     "gph": 594.1,
@@ -197,6 +198,5 @@
       8.31,
       9.13
     ]
-  },
-  "reference": "04310004JVO"
+  }
 }

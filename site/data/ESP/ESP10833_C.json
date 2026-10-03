@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10833_C",
   "country": "ESP",
+  "reference": "03510004BIU",
   "name": "ARGO",
   "rating": {
     "gph": 594.5,
@@ -197,6 +198,5 @@
       8.29,
       9.01
     ]
-  },
-  "reference": "03510004BIU"
+  }
 }

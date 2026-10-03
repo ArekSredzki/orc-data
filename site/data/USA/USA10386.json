@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA10386",
   "country": "USA",
+  "reference": "04560004TDN",
   "name": "NAMASTE",
   "rating": {
     "gph": 643.8,
@@ -197,6 +198,5 @@
       7.49,
       8.02
     ]
-  },
-  "reference": "04560004TDN"
+  }
 }

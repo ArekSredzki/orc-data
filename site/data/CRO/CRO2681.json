@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2681",
   "country": "CRO",
+  "reference": "03620004H9P",
   "name": "Nadja",
   "rating": {
     "gph": 526.7,
@@ -197,6 +198,5 @@
       9.14,
       10.15
     ]
-  },
-  "reference": "03620004H9P"
+  }
 }

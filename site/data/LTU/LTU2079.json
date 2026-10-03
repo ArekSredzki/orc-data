@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2079",
   "country": "LTU",
+  "reference": "03590004VM7",
   "name": "STINTA",
   "rating": {
     "gph": 672.3,
@@ -197,6 +198,5 @@
       7.66,
       8.36
     ]
-  },
-  "reference": "03590004VM7"
+  }
 }

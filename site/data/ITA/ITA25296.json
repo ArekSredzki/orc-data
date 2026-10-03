@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA25296",
   "country": "ITA",
+  "reference": "03190004J7M",
   "name": "PIRILLINA",
   "rating": {
     "gph": 669.8,
@@ -197,6 +198,5 @@
       7.64,
       10.17
     ]
-  },
-  "reference": "03190004J7M"
+  }
 }

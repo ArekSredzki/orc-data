@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA349",
   "country": "USA",
+  "reference": "04560004URT",
   "name": "SEALARK",
   "rating": {
     "gph": 618.1,
@@ -197,6 +198,5 @@
       7.79,
       9.6
     ]
-  },
-  "reference": "04560004URT"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52015",
   "country": "USA",
+  "reference": "04560004VFC",
   "name": "WINDQUEST",
   "rating": {
     "gph": 431.9,
@@ -197,6 +198,5 @@
       13.5,
       16.87
     ]
-  },
-  "reference": "04560004VFC"
+  }
 }

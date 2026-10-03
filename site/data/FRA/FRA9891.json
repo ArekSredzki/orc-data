@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9891",
   "country": "FRA",
+  "reference": "04330004RMK",
   "name": "MISTY",
   "rating": {
     "gph": 626.5,
@@ -197,6 +198,5 @@
       7.6,
       8.18
     ]
-  },
-  "reference": "04330004RMK"
+  }
 }

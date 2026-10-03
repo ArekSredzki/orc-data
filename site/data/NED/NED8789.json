@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8789",
   "country": "NED",
+  "reference": "04310004K1Q",
   "name": "Kolibri 6.5",
   "rating": {
     "gph": 774.5,
@@ -197,6 +198,5 @@
       6.94,
       8.49
     ]
-  },
-  "reference": "04310004K1Q"
+  }
 }

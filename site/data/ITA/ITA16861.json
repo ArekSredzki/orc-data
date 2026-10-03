@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16861",
   "country": "ITA",
+  "reference": "03190004Q28",
   "name": "RAPTOR",
   "rating": {
     "gph": 528.8,
@@ -197,6 +198,5 @@
       13.21,
       16.19
     ]
-  },
-  "reference": "03190004Q28"
+  }
 }

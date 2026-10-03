@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/FRA29039",
   "country": "ITA",
+  "reference": "03190004NWK",
   "name": "GINEVRA",
   "rating": {
     "gph": 532.0,
@@ -197,6 +198,5 @@
       10.1,
       12.85
     ]
-  },
-  "reference": "03190004NWK"
+  }
 }

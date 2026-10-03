@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15712",
   "country": "NOR",
+  "reference": "03440004KA8",
   "name": "Blue Charm",
   "rating": {
     "gph": 612.7,
@@ -197,6 +198,5 @@
       8.26,
       9.05
     ]
-  },
-  "reference": "03440004KA8"
+  }
 }

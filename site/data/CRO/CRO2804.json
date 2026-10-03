@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2804",
   "country": "CRO",
+  "reference": "03620004R9V",
   "name": "Newera",
   "rating": {
     "gph": 627.1,
@@ -197,6 +198,5 @@
       9.58,
       12.76
     ]
-  },
-  "reference": "03620004R9V"
+  }
 }

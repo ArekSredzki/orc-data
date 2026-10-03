@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2240",
   "country": "GRE",
+  "reference": "03420004U5V",
   "name": "ARTEMIS",
   "rating": {
     "gph": 669.9,
@@ -197,6 +198,5 @@
       7.22,
       7.73
     ]
-  },
-  "reference": "03420004U5V"
+  }
 }

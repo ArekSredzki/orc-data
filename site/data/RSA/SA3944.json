@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/SA3944",
   "country": "RSA",
+  "reference": "04620004UHP",
   "name": "Bellisima",
   "rating": {
     "gph": 615.5,
@@ -197,6 +198,5 @@
       8.09,
       8.77
     ]
-  },
-  "reference": "04620004UHP"
+  }
 }

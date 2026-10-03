@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA43918",
   "country": "FRA",
+  "reference": "04330004FW4",
   "name": "APLYSIA 3",
   "rating": {
     "gph": 626.0,
@@ -197,6 +198,5 @@
       8.13,
       9.26
     ]
-  },
-  "reference": "04330004FW4"
+  }
 }

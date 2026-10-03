@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA213SOL",
   "country": "ITA",
+  "reference": "03190004VKO",
   "name": "L.E.A.",
   "rating": {
     "gph": 712.5,
@@ -197,6 +198,5 @@
       7.55,
       9.91
     ]
-  },
-  "reference": "03190004VKO"
+  }
 }

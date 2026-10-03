@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR7611",
   "country": "NOR",
+  "reference": "03440004WN1",
   "name": "Exodos",
   "rating": {
     "gph": 757.5,
@@ -197,6 +198,5 @@
       6.67,
       7.4
     ]
-  },
-  "reference": "03440004WN1"
+  }
 }

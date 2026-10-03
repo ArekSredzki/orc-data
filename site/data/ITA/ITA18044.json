@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18044",
   "country": "ITA",
+  "reference": "03190004NWM",
   "name": "PITTILANTO",
   "rating": {
     "gph": 552.4,
@@ -197,6 +198,5 @@
       8.73,
       9.88
     ]
-  },
-  "reference": "03190004NWM"
+  }
 }

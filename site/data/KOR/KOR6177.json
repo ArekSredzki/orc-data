@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR6177",
   "country": "KOR",
+  "reference": "04550004NR0",
   "name": "Team Navy",
   "rating": {
     "gph": 585.1,
@@ -197,6 +198,5 @@
       8.59,
       10.76
     ]
-  },
-  "reference": "04550004NR0"
+  }
 }

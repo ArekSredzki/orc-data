@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16074",
   "country": "NOR",
+  "reference": "03440004RVH",
   "name": "Solabb",
   "rating": {
     "gph": 672.2,
@@ -197,6 +198,5 @@
       7.36,
       7.91
     ]
-  },
-  "reference": "03440004RVH"
+  }
 }

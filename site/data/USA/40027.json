@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/40027",
   "country": "USA",
+  "reference": "04560004TPU",
   "name": "HOT LIPS",
   "rating": {
     "gph": 527.4,
@@ -197,6 +198,5 @@
       10.14,
       12.79
     ]
-  },
-  "reference": "04560004TPU"
+  }
 }

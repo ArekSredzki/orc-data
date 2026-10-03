@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP105931",
   "country": "ESP",
+  "reference": "03510004J0W",
   "name": "MINI PLIS-PLAY",
   "rating": {
     "gph": 590.7,
@@ -197,6 +198,5 @@
       8.17,
       9.64
     ]
-  },
-  "reference": "03510004J0W"
+  }
 }

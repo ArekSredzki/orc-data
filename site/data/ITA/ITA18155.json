@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18155",
   "country": "ITA",
+  "reference": "03190004HMU",
   "name": "ARIA",
   "rating": {
     "gph": 601.8,
@@ -197,6 +198,5 @@
       8.2,
       8.87
     ]
-  },
-  "reference": "03190004HMU"
+  }
 }

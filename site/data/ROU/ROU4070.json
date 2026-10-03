@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU4070",
   "country": "ROU",
+  "reference": "05040004W6W",
   "name": "FAST FORWARD",
   "rating": {
     "gph": 607.8,
@@ -197,6 +198,5 @@
       8.22,
       8.93
     ]
-  },
-  "reference": "05040004W6W"
+  }
 }

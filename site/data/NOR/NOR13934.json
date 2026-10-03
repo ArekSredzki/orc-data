@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13934",
   "country": "NOR",
+  "reference": "03440004WA4",
   "name": "Fjordsol",
   "rating": {
     "gph": 620.7,
@@ -197,6 +198,5 @@
       8.12,
       8.95
     ]
-  },
-  "reference": "03440004WA4"
+  }
 }

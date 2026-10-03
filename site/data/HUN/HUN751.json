@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN751",
   "country": "HUN",
+  "reference": "04890004T42",
   "name": "Nemere II",
   "rating": {
     "gph": 534.8,
@@ -197,6 +198,5 @@
       9.91,
       12.22
     ]
-  },
-  "reference": "04890004T42"
+  }
 }

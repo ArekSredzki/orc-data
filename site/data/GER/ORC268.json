@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/ORC268",
   "country": "GER",
+  "reference": "04150004KLM",
   "name": "CORIOLIS",
   "rating": {
     "gph": 714.9,
@@ -197,6 +198,5 @@
       7.0,
       7.56
     ]
-  },
-  "reference": "04150004KLM"
+  }
 }

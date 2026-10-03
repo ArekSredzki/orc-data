@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG2224",
   "country": "ARG",
+  "reference": "03880004Q2A",
   "name": "ASTARTE",
   "rating": {
     "gph": 664.3,
@@ -197,6 +198,5 @@
       7.61,
       8.25
     ]
-  },
-  "reference": "03880004Q2A"
+  }
 }

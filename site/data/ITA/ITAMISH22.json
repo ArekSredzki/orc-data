@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAMISH22",
   "country": "ITA",
+  "reference": "03190004NVV",
   "name": "MISHALAI",
   "rating": {
     "gph": 683.2,
@@ -197,6 +198,5 @@
       7.02,
       7.63
     ]
-  },
-  "reference": "03190004NVV"
+  }
 }

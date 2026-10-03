@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3901",
   "country": "RSA",
+  "reference": "04620004F26",
   "name": "CAPE BANDIT",
   "rating": {
     "gph": 582.7,
@@ -197,6 +198,5 @@
       8.33,
       9.98
     ]
-  },
-  "reference": "04620004F26"
+  }
 }

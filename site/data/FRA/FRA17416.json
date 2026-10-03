@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA17416",
   "country": "FRA",
+  "reference": "04330004PRQ",
   "name": "PIVOINE",
   "rating": {
     "gph": 716.5,
@@ -197,6 +198,5 @@
       6.98,
       7.61
     ]
-  },
-  "reference": "04330004PRQ"
+  }
 }

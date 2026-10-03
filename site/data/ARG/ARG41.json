@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG41",
   "country": "ARG",
+  "reference": "03880004B3D",
   "name": "LOUANJO",
   "rating": {
     "gph": 668.5,
@@ -197,6 +198,5 @@
       7.7,
       8.25
     ]
-  },
-  "reference": "03880004B3D"
+  }
 }

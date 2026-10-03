@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/Fin4350",
   "country": "FIN",
+  "reference": "04140004R0T",
   "name": "Sirja III",
   "rating": {
     "gph": 634.2,
@@ -197,6 +198,5 @@
       7.86,
       8.57
     ]
-  },
-  "reference": "04140004R0T"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP417",
   "country": "ESP",
+  "reference": "03510004WB1",
   "name": "PETRILLA",
   "rating": {
     "gph": 667.0,
@@ -197,6 +198,5 @@
       8.28,
       11.45
     ]
-  },
-  "reference": "03510004WB1"
+  }
 }

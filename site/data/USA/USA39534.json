@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA39534",
   "country": "USA",
+  "reference": "04560004N6I",
   "name": "SKYE",
   "rating": {
     "gph": 560.8,
@@ -197,6 +198,5 @@
       9.16,
       11.62
     ]
-  },
-  "reference": "04560004N6I"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA42525",
   "country": "USA",
+  "reference": "04560004REL",
   "name": "Night Train",
   "rating": {
     "gph": 607.7,
@@ -197,6 +198,5 @@
       7.98,
       8.84
     ]
-  },
-  "reference": "04560004REL"
+  }
 }

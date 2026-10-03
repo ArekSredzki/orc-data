@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/EST771",
   "country": "FIN",
+  "reference": "03290004SD7",
   "name": "Silver Moon 3.0",
   "rating": {
     "gph": 641.2,
@@ -197,6 +198,5 @@
       8.34,
       10.81
     ]
-  },
-  "reference": "03290004SD7"
+  }
 }

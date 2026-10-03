@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/7155",
   "country": "AUS",
+  "reference": "03020004TRW",
   "name": "CHUTNEY MARY",
   "rating": {
     "gph": 610.7,
@@ -197,6 +198,5 @@
       7.86,
       9.11
     ]
-  },
-  "reference": "03020004TRW"
+  }
 }

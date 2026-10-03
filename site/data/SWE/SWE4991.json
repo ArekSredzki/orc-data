@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE4991",
   "country": "SWE",
+  "reference": "03200004SBA",
   "name": "Joint Venture 4.0",
   "rating": {
     "gph": 564.6,
@@ -197,6 +198,5 @@
       8.44,
       10.2
     ]
-  },
-  "reference": "03200004SBA"
+  }
 }

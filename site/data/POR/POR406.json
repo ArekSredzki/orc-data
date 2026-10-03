@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR406",
   "country": "POR",
+  "reference": "03530004VJT",
   "name": "FEITICO",
   "rating": {
     "gph": 675.8,
@@ -197,6 +198,5 @@
       7.36,
       8.08
     ]
-  },
-  "reference": "03530004VJT"
+  }
 }

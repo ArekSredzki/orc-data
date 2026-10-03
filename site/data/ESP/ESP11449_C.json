@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11449_C",
   "country": "ESP",
+  "reference": "03510004EV9",
   "name": "ESPRIT",
   "rating": {
     "gph": 666.9,
@@ -197,6 +198,5 @@
       7.72,
       8.73
     ]
-  },
-  "reference": "03510004EV9"
+  }
 }

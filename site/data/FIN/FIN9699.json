@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN9699",
   "country": "FIN",
+  "reference": "04140004T08",
   "name": "RoXina",
   "rating": {
     "gph": 643.1,
@@ -197,6 +198,5 @@
       7.75,
       8.54
     ]
-  },
-  "reference": "04140004T08"
+  }
 }

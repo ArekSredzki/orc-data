@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA024",
   "country": "RSA",
+  "reference": "0462000486D",
   "name": "SixPak",
   "rating": {
     "gph": 666.3,
@@ -197,6 +198,5 @@
       7.53,
       8.22
     ]
-  },
-  "reference": "0462000486D"
+  }
 }

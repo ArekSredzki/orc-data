@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA8224",
   "country": "FRA",
+  "reference": "04330004LQJ",
   "name": "COTTON CLUB",
   "rating": {
     "gph": 706.6,
@@ -197,6 +198,5 @@
       7.21,
       7.95
     ]
-  },
-  "reference": "04330004LQJ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2124",
   "country": "GRE",
+  "reference": "03420004HBW",
   "name": "NIRIIDA",
   "rating": {
     "gph": 693.0,
@@ -197,6 +198,5 @@
       7.15,
       7.75
     ]
-  },
-  "reference": "03420004HBW"
+  }
 }

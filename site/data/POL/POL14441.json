@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL14441",
   "country": "POL",
+  "reference": "04410004SE3",
   "name": "SOLOVENTA",
   "rating": {
     "gph": 663.0,
@@ -197,6 +198,5 @@
       7.51,
       8.08
     ]
-  },
-  "reference": "04410004SE3"
+  }
 }

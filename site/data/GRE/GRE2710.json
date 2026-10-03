@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2710",
   "country": "GRE",
+  "reference": "03420004KC7",
   "name": "SOPHIA",
   "rating": {
     "gph": 756.2,
@@ -197,6 +198,5 @@
       6.89,
       7.46
     ]
-  },
-  "reference": "03420004KC7"
+  }
 }

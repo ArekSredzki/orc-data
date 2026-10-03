@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR9911Y",
   "country": "FRA",
+  "reference": "04330004U19",
   "name": "SAILFISH",
   "rating": {
     "gph": 721.9,
@@ -197,6 +198,5 @@
       7.08,
       7.74
     ]
-  },
-  "reference": "04330004U19"
+  }
 }

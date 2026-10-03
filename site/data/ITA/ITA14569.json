@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14569",
   "country": "ITA",
+  "reference": "03190004QPP",
   "name": "PESCE VOLANTE",
   "rating": {
     "gph": 628.7,
@@ -197,6 +198,5 @@
       7.51,
       8.56
     ]
-  },
-  "reference": "03190004QPP"
+  }
 }

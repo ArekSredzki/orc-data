@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA6573",
   "country": "FRA",
+  "reference": "04330004J4L",
   "name": "TINTAMARRE",
   "rating": {
     "gph": 695.6,
@@ -197,6 +198,5 @@
       7.07,
       7.73
     ]
-  },
-  "reference": "04330004J4L"
+  }
 }

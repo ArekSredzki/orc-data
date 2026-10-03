@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA39911",
   "country": "FRA",
+  "reference": "04330004IJI",
   "name": "LADY V",
   "rating": {
     "gph": 614.0,
@@ -197,6 +198,5 @@
       10.43,
       13.46
     ]
-  },
-  "reference": "04330004IJI"
+  }
 }

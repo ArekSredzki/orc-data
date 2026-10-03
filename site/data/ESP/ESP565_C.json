@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP565_C",
   "country": "ESP",
+  "reference": "0351000503A",
   "name": "LOLA XL",
   "rating": {
     "gph": 680.0,

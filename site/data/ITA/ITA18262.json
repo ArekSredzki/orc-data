@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18262",
   "country": "ITA",
+  "reference": "03190004K5W",
   "name": "THERESA",
   "rating": {
     "gph": 643.3,
@@ -197,6 +198,5 @@
       7.41,
       7.89
     ]
-  },
-  "reference": "03190004K5W"
+  }
 }

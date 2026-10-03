@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA8239",
   "country": "FRA",
+  "reference": "04330004PEE",
   "name": "DALTONER",
   "rating": {
     "gph": 674.5,
@@ -197,6 +198,5 @@
       7.42,
       8.26
     ]
-  },
-  "reference": "04330004PEE"
+  }
 }

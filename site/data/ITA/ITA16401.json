@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16401",
   "country": "ITA",
+  "reference": "03190004J6A",
   "name": "SKIN",
   "rating": {
     "gph": 543.6,
@@ -197,6 +198,5 @@
       8.79,
       9.85
     ]
-  },
-  "reference": "03190004J6A"
+  }
 }

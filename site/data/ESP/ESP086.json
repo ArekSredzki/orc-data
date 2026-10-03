@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP086",
   "country": "ESP",
+  "reference": "03510004IFW",
   "name": "BARAKAH",
   "rating": {
     "gph": 597.3,
@@ -197,6 +198,5 @@
       9.36,
       11.51
     ]
-  },
-  "reference": "03510004IFW"
+  }
 }

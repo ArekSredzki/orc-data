@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/42738",
   "country": "USA",
+  "reference": "04560004U65",
   "name": "NOBLE BUFFALO",
   "rating": {
     "gph": 607.4,
@@ -197,6 +198,5 @@
       7.91,
       8.76
     ]
-  },
-  "reference": "04560004U65"
+  }
 }

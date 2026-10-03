@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9940",
   "country": "ESP",
+  "reference": "03510004TIB",
   "name": "HUBARA",
   "rating": {
     "gph": 691.8,
@@ -197,6 +198,5 @@
       7.28,
       7.93
     ]
-  },
-  "reference": "03510004TIB"
+  }
 }

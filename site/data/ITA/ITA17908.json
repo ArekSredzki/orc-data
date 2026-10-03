@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17908",
   "country": "ITA",
+  "reference": "03190004TJ8",
   "name": "TSERING LHAMO",
   "rating": {
     "gph": 584.4,
@@ -197,6 +198,5 @@
       9.88,
       12.64
     ]
-  },
-  "reference": "03190004TJ8"
+  }
 }

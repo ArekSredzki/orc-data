@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/1287",
   "country": "AUS",
+  "reference": "03020004UVT",
   "name": "HUMPERDINCK",
   "rating": {
     "gph": 695.4,
@@ -197,6 +198,5 @@
       7.75,
       9.76
     ]
-  },
-  "reference": "03020004UVT"
+  }
 }

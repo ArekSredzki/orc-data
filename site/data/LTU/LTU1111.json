@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU1111",
   "country": "LTU",
+  "reference": "03590004VVH",
   "name": "NIDA III",
   "rating": {
     "gph": 609.7,
@@ -197,6 +198,5 @@
       8.09,
       8.98
     ]
-  },
-  "reference": "03590004VVH"
+  }
 }

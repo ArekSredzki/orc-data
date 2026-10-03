@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18016",
   "country": "ITA",
+  "reference": "03190004NE9",
   "name": "SPANTEGATA",
   "rating": {
     "gph": 606.2,
@@ -197,6 +198,5 @@
       7.92,
       8.6
     ]
-  },
-  "reference": "03190004NE9"
+  }
 }

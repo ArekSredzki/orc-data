@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE91811",
   "country": "SWE",
+  "reference": "03200004VH7",
   "name": "THE TROOPER",
   "rating": {
     "gph": 594.7,
@@ -197,6 +198,5 @@
       9.1,
       11.86
     ]
-  },
-  "reference": "03200004VH7"
+  }
 }

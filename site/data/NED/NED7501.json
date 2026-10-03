@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7501",
   "country": "NED",
+  "reference": "04310004JWS",
   "name": "Vingilot",
   "rating": {
     "gph": 619.3,
@@ -197,6 +198,5 @@
       8.37,
       9.64
     ]
-  },
-  "reference": "04310004JWS"
+  }
 }

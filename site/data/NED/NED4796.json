@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4796",
   "country": "NED",
+  "reference": "04310004JUQ",
   "name": "WINDFALL",
   "rating": {
     "gph": 670.6,
@@ -197,6 +198,5 @@
       7.52,
       8.1
     ]
-  },
-  "reference": "04310004JUQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5113_C",
   "country": "ESP",
+  "reference": "03510004T95",
   "name": "CIENTOTRECE",
   "rating": {
     "gph": 627.5,
@@ -197,6 +198,5 @@
       8.09,
       8.86
     ]
-  },
-  "reference": "03510004T95"
+  }
 }

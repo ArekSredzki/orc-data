@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2695",
   "country": "NED",
+  "reference": "04310004JT9",
   "name": "BREEZAND",
   "rating": {
     "gph": 656.2,
@@ -197,6 +198,5 @@
       7.63,
       8.18
     ]
-  },
-  "reference": "04310004JT9"
+  }
 }

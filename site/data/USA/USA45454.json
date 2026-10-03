@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA45454",
   "country": "USA",
+  "reference": "04560004VLL",
   "name": "GEMINI II",
   "rating": {
     "gph": 519.1,
@@ -197,6 +198,5 @@
       9.33,
       11.34
     ]
-  },
-  "reference": "04560004VLL"
+  }
 }

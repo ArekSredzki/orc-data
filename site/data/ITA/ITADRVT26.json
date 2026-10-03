@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITADRVT26",
   "country": "ITA",
+  "reference": "03190004RWR",
   "name": "DRAGO VOLANTE",
   "rating": {
     "gph": 749.2,
@@ -197,6 +198,5 @@
       6.73,
       7.32
     ]
-  },
-  "reference": "03190004RWR"
+  }
 }

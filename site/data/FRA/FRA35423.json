@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA35423",
   "country": "FRA",
+  "reference": "04330004OIS",
   "name": "CASTAGNOLE 2",
   "rating": {
     "gph": 629.3,
@@ -197,6 +198,5 @@
       7.9,
       8.58
     ]
-  },
-  "reference": "04330004OIS"
+  }
 }

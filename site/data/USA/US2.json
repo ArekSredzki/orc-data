@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/US2",
   "country": "USA",
+  "reference": "04560004RDP",
   "name": "ACCORD",
   "rating": {
     "gph": 635.0,
@@ -197,6 +198,5 @@
       7.69,
       8.42
     ]
-  },
-  "reference": "04560004RDP"
+  }
 }

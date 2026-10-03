@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITASCIRO",
   "country": "ITA",
+  "reference": "03190004KHD",
   "name": "SCIROCCATA",
   "rating": {
     "gph": 632.0,
@@ -197,6 +198,5 @@
       7.67,
       8.3
     ]
-  },
-  "reference": "03190004KHD"
+  }
 }

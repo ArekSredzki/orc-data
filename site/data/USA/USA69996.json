@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA69996",
   "country": "USA",
+  "reference": "04560004RQ4",
   "name": "LOLITA",
   "rating": {
     "gph": 629.8,
@@ -197,6 +198,5 @@
       8.12,
       10.64
     ]
-  },
-  "reference": "04560004RQ4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITABAR19",
   "country": "ITA",
+  "reference": "03190004RML",
   "name": "BARON",
   "rating": {
     "gph": 604.3,
@@ -197,6 +198,5 @@
       8.02,
       8.66
     ]
-  },
-  "reference": "03190004RML"
+  }
 }

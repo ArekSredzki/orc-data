@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14736",
   "country": "ITA",
+  "reference": "03190004HS8",
   "name": "DREAM AWAY",
   "rating": {
     "gph": 635.9,
@@ -197,6 +198,5 @@
       7.82,
       8.5
     ]
-  },
-  "reference": "03190004HS8"
+  }
 }

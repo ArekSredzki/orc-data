@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8591",
   "country": "GER",
+  "reference": "04150004OV9",
   "name": "VOLLGUT",
   "rating": {
     "gph": 678.8,
@@ -197,6 +198,5 @@
       7.3,
       8.0
     ]
-  },
-  "reference": "04150004OV9"
+  }
 }

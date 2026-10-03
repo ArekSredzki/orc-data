@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/FRA44128_C",
   "country": "ESP",
+  "reference": "03510004PIP",
   "name": "WATER BOYS",
   "rating": {
     "gph": 605.3,
@@ -197,6 +198,5 @@
       8.29,
       9.17
     ]
-  },
-  "reference": "03510004PIP"
+  }
 }

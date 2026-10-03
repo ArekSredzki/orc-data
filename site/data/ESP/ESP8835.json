@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8835",
   "country": "ESP",
+  "reference": "03510004RK3",
   "name": "L'OREIG",
   "rating": {
     "gph": 613.4,
@@ -197,6 +198,5 @@
       8.14,
       9.05
     ]
-  },
-  "reference": "03510004RK3"
+  }
 }

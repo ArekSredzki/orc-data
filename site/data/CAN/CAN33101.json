@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN33101",
   "country": "CAN",
+  "reference": "03430004FI3",
   "name": "Celerity",
   "rating": {
     "gph": 611.2,
@@ -197,6 +198,5 @@
       9.11,
       11.41
     ]
-  },
-  "reference": "03430004FI3"
+  }
 }

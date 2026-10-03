@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6318",
   "country": "ESP",
+  "reference": "03510004TW3",
   "name": "ANTIGUA CRAIOVA",
   "rating": {
     "gph": 613.7,
@@ -197,6 +198,5 @@
       8.1,
       8.8
     ]
-  },
-  "reference": "03510004TW3"
+  }
 }

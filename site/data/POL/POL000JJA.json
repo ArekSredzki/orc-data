@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL000JJA",
   "country": "POL",
+  "reference": "04410004SE2",
   "name": "ROSEBUD",
   "rating": {
     "gph": 666.2,
@@ -197,6 +198,5 @@
       7.35,
       7.91
     ]
-  },
-  "reference": "04410004SE2"
+  }
 }

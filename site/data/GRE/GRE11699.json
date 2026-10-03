@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE11699",
   "country": "GRE",
+  "reference": "03420004UEV",
   "name": "CALLIRRHOE",
   "rating": {
     "gph": 811.2,
@@ -197,6 +198,5 @@
       6.14,
       6.58
     ]
-  },
-  "reference": "03420004UEV"
+  }
 }

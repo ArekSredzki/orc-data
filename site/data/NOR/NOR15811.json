@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15811",
   "country": "NOR",
+  "reference": "03440004OHW",
   "name": "Yani",
   "rating": {
     "gph": 501.6,
@@ -197,6 +198,5 @@
       9.68,
       11.59
     ]
-  },
-  "reference": "03440004OHW"
+  }
 }

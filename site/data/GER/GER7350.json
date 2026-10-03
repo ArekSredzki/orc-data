@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7350",
   "country": "GER",
+  "reference": "03520004V7C",
   "name": "AJA",
   "rating": {
     "gph": 559.9,
@@ -197,6 +198,5 @@
       8.49,
       10.32
     ]
-  },
-  "reference": "03520004V7C"
+  }
 }

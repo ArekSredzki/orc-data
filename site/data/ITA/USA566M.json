@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/USA566M",
   "country": "ITA",
+  "reference": "03190004N1W",
   "name": "JILL",
   "rating": {
     "gph": 693.3,
@@ -197,6 +198,5 @@
       7.45,
       8.15
     ]
-  },
-  "reference": "03190004N1W"
+  }
 }

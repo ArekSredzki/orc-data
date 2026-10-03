@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN44119",
   "country": "CAN",
+  "reference": "03430004I4B",
   "name": "New Haven II",
   "rating": {
     "gph": 602.8,
@@ -197,6 +198,5 @@
       7.75,
       8.25
     ]
-  },
-  "reference": "03430004I4B"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2207",
   "country": "GRE",
+  "reference": "03420004KCH",
   "name": "SAITA",
   "rating": {
     "gph": 723.5,
@@ -197,6 +198,5 @@
       6.72,
       7.19
     ]
-  },
-  "reference": "03420004KCH"
+  }
 }

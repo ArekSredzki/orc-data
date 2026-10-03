@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16770",
   "country": "ITA",
+  "reference": "031900048OT",
   "name": "MINIMA",
   "rating": {
     "gph": 641.0,
@@ -197,6 +198,5 @@
       7.44,
       8.01
     ]
-  },
-  "reference": "031900048OT"
+  }
 }

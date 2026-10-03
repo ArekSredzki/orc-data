@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13101",
   "country": "ITA",
+  "reference": "03190004HI2",
   "name": "KALIMA",
   "rating": {
     "gph": 572.6,
@@ -197,6 +198,5 @@
       8.71,
       9.86
     ]
-  },
-  "reference": "03190004HI2"
+  }
 }

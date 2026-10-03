@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2929",
   "country": "TUR",
+  "reference": "04590004JC6",
   "name": "CORVENTUS",
   "rating": {
     "gph": 644.3,
@@ -197,6 +198,5 @@
       7.66,
       8.68
     ]
-  },
-  "reference": "04590004JC6"
+  }
 }

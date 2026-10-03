@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15315",
   "country": "ITA",
+  "reference": "03190004F43",
   "name": "X-LION",
   "rating": {
     "gph": 604.5,
@@ -197,6 +198,5 @@
       8.17,
       9.14
     ]
-  },
-  "reference": "03190004F43"
+  }
 }

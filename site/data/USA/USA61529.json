@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61529",
   "country": "USA",
+  "reference": "04560004VDD",
   "name": "Trompe Le Monde",
   "rating": {
     "gph": 512.4,
@@ -197,6 +198,5 @@
       12.52,
       15.79
     ]
-  },
-  "reference": "04560004VDD"
+  }
 }

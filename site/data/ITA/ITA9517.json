@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA9517",
   "country": "ITA",
+  "reference": "03190004KRD",
   "name": "NAHODKA",
   "rating": {
     "gph": 658.2,
@@ -197,6 +198,5 @@
       7.09,
       7.54
     ]
-  },
-  "reference": "03190004KRD"
+  }
 }

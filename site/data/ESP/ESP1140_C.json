@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1140_C",
   "country": "ESP",
+  "reference": "035100048F9",
   "name": "ZACAPA",
   "rating": {
     "gph": 745.7,
@@ -197,6 +198,5 @@
       7.09,
       7.58
     ]
-  },
-  "reference": "035100048F9"
+  }
 }

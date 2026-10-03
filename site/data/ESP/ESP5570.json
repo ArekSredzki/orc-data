@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5570",
   "country": "ESP",
+  "reference": "03510004BNQ",
   "name": "PETROUCHKA III",
   "rating": {
     "gph": 575.2,
@@ -197,6 +198,5 @@
       8.75,
       10.13
     ]
-  },
-  "reference": "03510004BNQ"
+  }
 }

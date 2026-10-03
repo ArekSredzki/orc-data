@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14793",
   "country": "NOR",
+  "reference": "03440004M4K",
   "name": "R\u00e5tass",
   "rating": {
     "gph": 581.7,
@@ -197,6 +198,5 @@
       8.71,
       9.51
     ]
-  },
-  "reference": "03440004M4K"
+  }
 }

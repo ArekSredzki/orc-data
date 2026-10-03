@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49748",
   "country": "GRE",
+  "reference": "03420004R4R",
   "name": "HIBISCUS",
   "rating": {
     "gph": 721.9,
@@ -197,6 +198,5 @@
       7.28,
       7.96
     ]
-  },
-  "reference": "03420004R4R"
+  }
 }

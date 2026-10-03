@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18042",
   "country": "ITA",
+  "reference": "03190004LSV",
   "name": "SELENE II",
   "rating": {
     "gph": 629.3,
@@ -197,6 +198,5 @@
       7.81,
       8.44
     ]
-  },
-  "reference": "03190004LSV"
+  }
 }

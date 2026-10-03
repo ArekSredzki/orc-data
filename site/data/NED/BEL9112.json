@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/BEL9112",
   "country": "NED",
+  "reference": "04310004W06",
   "name": "Njord",
   "rating": {
     "gph": 577.5,
@@ -197,6 +198,5 @@
       8.19,
       9.63
     ]
-  },
-  "reference": "04310004W06"
+  }
 }

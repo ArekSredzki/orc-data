@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17948",
   "country": "ITA",
+  "reference": "03190004U5J",
   "name": "GIULIA",
   "rating": {
     "gph": 617.6,
@@ -197,6 +198,5 @@
       7.74,
       8.3
     ]
-  },
-  "reference": "03190004U5J"
+  }
 }

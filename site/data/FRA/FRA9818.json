@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9818",
   "country": "FRA",
+  "reference": "04330004HNI",
   "name": "DEHLYR",
   "rating": {
     "gph": 618.0,
@@ -197,6 +198,5 @@
       8.12,
       8.93
     ]
-  },
-  "reference": "04330004HNI"
+  }
 }

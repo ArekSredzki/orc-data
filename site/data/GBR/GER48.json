@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GER48",
   "country": "GBR",
+  "reference": "03860004WB6",
   "name": "AMBRA",
   "rating": {
     "gph": 549.4,
@@ -197,6 +198,5 @@
       8.78,
       9.54
     ]
-  },
-  "reference": "03860004WB6"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA42073",
   "country": "USA",
+  "reference": "04560004NI4",
   "name": "GRANDE VITESSE",
   "rating": {
     "gph": 626.8,
@@ -197,6 +198,5 @@
       7.9,
       8.49
     ]
-  },
-  "reference": "04560004NI4"
+  }
 }

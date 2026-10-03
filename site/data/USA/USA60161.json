@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60161",
   "country": "USA",
+  "reference": "04560004FPH",
   "name": "FLASHHEART",
   "rating": {
     "gph": 604.2,
@@ -197,6 +198,5 @@
       8.46,
       10.78
     ]
-  },
-  "reference": "04560004FPH"
+  }
 }

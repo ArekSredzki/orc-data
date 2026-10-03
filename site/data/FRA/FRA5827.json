@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA5827",
   "country": "FRA",
+  "reference": "04330004HTN",
   "name": "TROIS TRISTES TIGRES",
   "rating": {
     "gph": 716.4,
@@ -197,6 +198,5 @@
       6.98,
       7.63
     ]
-  },
-  "reference": "04330004HTN"
+  }
 }

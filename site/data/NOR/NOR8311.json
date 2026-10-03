@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR8311",
   "country": "NOR",
+  "reference": "03440004LKT",
   "name": "Xenia",
   "rating": {
     "gph": 593.6,
@@ -197,6 +198,5 @@
       8.16,
       8.93
     ]
-  },
-  "reference": "03440004LKT"
+  }
 }

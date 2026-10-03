@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/42620",
   "country": "USA",
+  "reference": "04560004IRO",
   "name": "Bluefin",
   "rating": {
     "gph": 602.1,
@@ -197,6 +198,5 @@
       8.12,
       9.27
     ]
-  },
-  "reference": "04560004IRO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA55367",
   "country": "USA",
+  "reference": "04560004S11",
   "name": "KARMA",
   "rating": {
     "gph": 605.4,
@@ -197,6 +198,5 @@
       7.99,
       8.76
     ]
-  },
-  "reference": "04560004S11"
+  }
 }

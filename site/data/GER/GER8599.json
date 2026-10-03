@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8599",
   "country": "GER",
+  "reference": "04150004M0L",
   "name": "JETTE",
   "rating": {
     "gph": 617.9,
@@ -197,6 +198,5 @@
       8.06,
       9.94
     ]
-  },
-  "reference": "04150004M0L"
+  }
 }

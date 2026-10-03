@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE920",
   "country": "GRE",
+  "reference": "03420004HBK",
   "name": "ANNA MARIA II",
   "rating": {
     "gph": 713.4,
@@ -197,6 +198,5 @@
       7.1,
       7.71
     ]
-  },
-  "reference": "03420004HBK"
+  }
 }

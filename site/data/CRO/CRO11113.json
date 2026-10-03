@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO11113",
   "country": "CRO",
+  "reference": "036200048OM",
   "name": "First",
   "rating": {
     "gph": 648.7,
@@ -197,6 +198,5 @@
       9.7,
       12.79
     ]
-  },
-  "reference": "036200048OM"
+  }
 }

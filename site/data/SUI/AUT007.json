@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/AUT007",
   "country": "SUI",
+  "reference": "03080004RDF",
   "name": "BLACK MAGIC",
   "rating": {
     "gph": 501.3,
@@ -197,6 +198,5 @@
       13.93,
       16.59
     ]
-  },
-  "reference": "03080004RDF"
+  }
 }

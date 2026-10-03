@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER174",
   "country": "GER",
+  "reference": "04150004KL1",
   "name": "LONE STAR",
   "rating": {
     "gph": 658.5,
@@ -197,6 +198,5 @@
       7.76,
       8.31
     ]
-  },
-  "reference": "04150004KL1"
+  }
 }

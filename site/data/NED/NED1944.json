@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED1944",
   "country": "NED",
+  "reference": "04310004JSW",
   "name": "Jelischa",
   "rating": {
     "gph": 725.8,
@@ -197,6 +198,5 @@
       6.83,
       7.41
     ]
-  },
-  "reference": "04310004JSW"
+  }
 }

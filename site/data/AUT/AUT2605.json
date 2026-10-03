@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT2605",
   "country": "AUT",
+  "reference": "03210004I0H",
   "name": "Emilia",
   "rating": {
     "gph": 559.4,
@@ -197,6 +198,5 @@
       8.51,
       9.23
     ]
-  },
-  "reference": "03210004I0H"
+  }
 }

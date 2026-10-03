@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16221",
   "country": "ITA",
+  "reference": "03190004HMJ",
   "name": "CHESTRESS 3",
   "rating": {
     "gph": 570.5,
@@ -197,6 +198,5 @@
       8.22,
       9.58
     ]
-  },
-  "reference": "03190004HMJ"
+  }
 }

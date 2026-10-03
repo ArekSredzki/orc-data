@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR699",
   "country": "ISR",
+  "reference": "04390004LEU",
   "name": "Cyclop",
   "rating": {
     "gph": 639.3,
@@ -197,6 +198,5 @@
       7.8,
       8.55
     ]
-  },
-  "reference": "04390004LEU"
+  }
 }

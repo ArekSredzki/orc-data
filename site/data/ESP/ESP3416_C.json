@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3416_C",
   "country": "ESP",
+  "reference": "03510004KMO",
   "name": "BATOLINDO",
   "rating": {
     "gph": 727.6,
@@ -197,6 +198,5 @@
       6.69,
       7.61
     ]
-  },
-  "reference": "03510004KMO"
+  }
 }

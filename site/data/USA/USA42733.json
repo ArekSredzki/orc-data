@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA42733",
   "country": "USA",
+  "reference": "04560004FHP",
   "name": "MALEFICENT",
   "rating": {
     "gph": 597.2,
@@ -197,6 +198,5 @@
       8.17,
       8.82
     ]
-  },
-  "reference": "04560004FHP"
+  }
 }

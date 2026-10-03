@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI16",
   "country": "SUI",
+  "reference": "030800048NB",
   "name": "MIDNIGHT BREEZE",
   "rating": {
     "gph": 658.1,
@@ -197,6 +198,5 @@
       7.25,
       9.46
     ]
-  },
-  "reference": "030800048NB"
+  }
 }

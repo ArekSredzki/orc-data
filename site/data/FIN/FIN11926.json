@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11926",
   "country": "FIN",
+  "reference": "04140004KUF",
   "name": "Ardnagee",
   "rating": {
     "gph": 660.4,
@@ -197,6 +198,5 @@
       7.43,
       7.99
     ]
-  },
-  "reference": "04140004KUF"
+  }
 }

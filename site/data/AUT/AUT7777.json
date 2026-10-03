@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT7777",
   "country": "AUT",
+  "reference": "03210004KDS",
   "name": "Trinity+",
   "rating": {
     "gph": 556.7,
@@ -197,6 +198,5 @@
       8.43,
       9.07
     ]
-  },
-  "reference": "03210004KDS"
+  }
 }

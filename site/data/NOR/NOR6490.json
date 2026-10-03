@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR6490",
   "country": "NOR",
+  "reference": "03440004L32",
   "name": "Nena",
   "rating": {
     "gph": 687.7,
@@ -197,6 +198,5 @@
       7.35,
       8.07
     ]
-  },
-  "reference": "03440004L32"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GRE70",
   "country": "ITA",
+  "reference": "03190004O8A",
   "name": "OXYGEN",
   "rating": {
     "gph": 589.0,
@@ -197,6 +198,5 @@
       8.06,
       10.17
     ]
-  },
-  "reference": "03190004O8A"
+  }
 }

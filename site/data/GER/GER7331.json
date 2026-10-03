@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7331",
   "country": "GER",
+  "reference": "04150004QB6",
   "name": "MARELAN",
   "rating": {
     "gph": 645.3,
@@ -197,6 +198,5 @@
       7.44,
       8.68
     ]
-  },
-  "reference": "04150004QB6"
+  }
 }

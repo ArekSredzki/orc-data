@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15852",
   "country": "ITA",
+  "reference": "03190004N8T",
   "name": "MAGIC BUS",
   "rating": {
     "gph": 608.3,
@@ -197,6 +198,5 @@
       8.29,
       9.07
     ]
-  },
-  "reference": "03190004N8T"
+  }
 }

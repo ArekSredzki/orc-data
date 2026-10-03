@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER4845",
   "country": "GER",
+  "reference": "03520004I1S",
   "name": "MAGIC LADY",
   "rating": {
     "gph": 554.9,
@@ -197,6 +198,5 @@
       10.22,
       13.19
     ]
-  },
-  "reference": "03520004I1S"
+  }
 }

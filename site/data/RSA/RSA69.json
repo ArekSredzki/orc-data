@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA69",
   "country": "RSA",
+  "reference": "04620004K5L",
   "name": "Mac A Tin",
   "rating": {
     "gph": 731.4,
@@ -197,6 +198,5 @@
       6.86,
       7.62
     ]
-  },
-  "reference": "04620004K5L"
+  }
 }

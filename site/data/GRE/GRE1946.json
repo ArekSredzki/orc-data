@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1946",
   "country": "GRE",
+  "reference": "03420004PTR",
   "name": "BELLATRIX",
   "rating": {
     "gph": 608.9,
@@ -197,6 +198,5 @@
       8.31,
       9.07
     ]
-  },
-  "reference": "03420004PTR"
+  }
 }

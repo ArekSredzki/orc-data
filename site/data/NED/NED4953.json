@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4953",
   "country": "NED",
+  "reference": "04310004RAD",
   "name": "For4 Fun",
   "rating": {
     "gph": 669.4,
@@ -197,6 +198,5 @@
       7.64,
       8.61
     ]
-  },
-  "reference": "04310004RAD"
+  }
 }

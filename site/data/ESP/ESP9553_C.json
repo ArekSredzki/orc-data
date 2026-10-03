@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9553_C",
   "country": "ESP",
+  "reference": "03510004NRH",
   "name": "S4 GRANBLAU",
   "rating": {
     "gph": 663.3,
@@ -197,6 +198,5 @@
       7.29,
       7.87
     ]
-  },
-  "reference": "03510004NRH"
+  }
 }

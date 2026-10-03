@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8162",
   "country": "ESP",
+  "reference": "03510004WJ8",
   "name": "BACHIBUZUK 1",
   "rating": {
     "gph": 646.0,
@@ -197,6 +198,5 @@
       7.82,
       8.56
     ]
-  },
-  "reference": "03510004WJ8"
+  }
 }

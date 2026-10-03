@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4736",
   "country": "ESP",
+  "reference": "03510004889",
   "name": "ASCATA III",
   "rating": {
     "gph": 625.5,
@@ -197,6 +198,5 @@
       7.89,
       8.51
     ]
-  },
-  "reference": "03510004889"
+  }
 }

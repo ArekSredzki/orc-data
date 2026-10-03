@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9087",
   "country": "ESP",
+  "reference": "03510004HVU",
   "name": "BON VENT",
   "rating": {
     "gph": 708.5,
@@ -197,6 +198,5 @@
       7.02,
       7.62
     ]
-  },
-  "reference": "03510004HVU"
+  }
 }

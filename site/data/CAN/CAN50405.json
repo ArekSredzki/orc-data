@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN50405",
   "country": "CAN",
+  "reference": "03430004JHB",
   "name": "Sorceress",
   "rating": {
     "gph": 558.3,
@@ -197,6 +198,5 @@
       9.28,
       12.12
     ]
-  },
-  "reference": "03430004JHB"
+  }
 }

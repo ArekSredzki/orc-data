@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/ITA4202",
   "country": "FRA",
+  "reference": "04330004VP7",
   "name": "CONFLUENCE",
   "rating": {
     "gph": 484.8,
@@ -197,6 +198,5 @@
       12.37,
       15.71
     ]
-  },
-  "reference": "04330004VP7"
+  }
 }

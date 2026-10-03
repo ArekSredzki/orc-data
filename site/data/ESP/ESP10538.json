@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10538",
   "country": "ESP",
+  "reference": "03510004H6M",
   "name": "ORIOLE",
   "rating": {
     "gph": 636.8,
@@ -197,6 +198,5 @@
       7.95,
       8.63
     ]
-  },
-  "reference": "03510004H6M"
+  }
 }

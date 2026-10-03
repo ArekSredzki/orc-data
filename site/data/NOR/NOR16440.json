@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16440",
   "country": "NOR",
+  "reference": "03440004NAF",
   "name": "Roccabella",
   "rating": {
     "gph": 546.2,
@@ -197,6 +198,5 @@
       8.97,
       9.96
     ]
-  },
-  "reference": "03440004NAF"
+  }
 }

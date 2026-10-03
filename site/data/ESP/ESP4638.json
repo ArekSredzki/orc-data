@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4638",
   "country": "ESP",
+  "reference": "035100048IF",
   "name": "JUANCAMARIA 3",
   "rating": {
     "gph": 620.1,
@@ -197,6 +198,5 @@
       8.0,
       8.79
     ]
-  },
-  "reference": "035100048IF"
+  }
 }

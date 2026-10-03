@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN6958",
   "country": "JPN",
+  "reference": "03390004LVV",
   "name": "Goshawk",
   "rating": {
     "gph": 523.7,
@@ -197,6 +198,5 @@
       9.05,
       10.05
     ]
-  },
-  "reference": "03390004LVV"
+  }
 }

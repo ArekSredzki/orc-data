@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10849",
   "country": "ESP",
+  "reference": "03510004ESC",
   "name": "CABO NEGRO TRES",
   "rating": {
     "gph": 605.4,
@@ -197,6 +198,5 @@
       8.29,
       9.05
     ]
-  },
-  "reference": "03510004ESC"
+  }
 }

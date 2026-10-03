@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU1537",
   "country": "LTU",
+  "reference": "03590004PI7",
   "name": "BALTAS",
   "rating": {
     "gph": 596.6,
@@ -197,6 +198,5 @@
       7.93,
       8.59
     ]
-  },
-  "reference": "03590004PI7"
+  }
 }

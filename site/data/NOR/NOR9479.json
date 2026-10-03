@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9479",
   "country": "NOR",
+  "reference": "03440004NA5",
   "name": "Alida",
   "rating": {
     "gph": 724.7,
@@ -197,6 +198,5 @@
       7.11,
       7.73
     ]
-  },
-  "reference": "03440004NA5"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAMSSLN26",
   "country": "ITA",
+  "reference": "03190004ME9",
   "name": "MASSOLINA",
   "rating": {
     "gph": 680.9,
@@ -197,6 +198,5 @@
       7.17,
       7.7
     ]
-  },
-  "reference": "03190004ME9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN52",
   "country": "CAN",
+  "reference": "03430004Q3H",
   "name": "The Shadow II",
   "rating": {
     "gph": 454.4,
@@ -197,6 +198,5 @@
       12.73,
       15.74
     ]
-  },
-  "reference": "03430004Q3H"
+  }
 }

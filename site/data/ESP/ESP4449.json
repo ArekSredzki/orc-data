@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4449",
   "country": "ESP",
+  "reference": "03510004FVL",
   "name": "KAMETIMO",
   "rating": {
     "gph": 686.9,
@@ -197,6 +198,5 @@
       7.27,
       7.95
     ]
-  },
-  "reference": "03510004FVL"
+  }
 }

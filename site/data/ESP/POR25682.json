@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/POR25682",
   "country": "ESP",
+  "reference": "03510004WCE",
   "name": "FIRSTINGS",
   "rating": {
     "gph": 558.0,
@@ -197,6 +198,5 @@
       11.36,
       14.52
     ]
-  },
-  "reference": "03510004WCE"
+  }
 }

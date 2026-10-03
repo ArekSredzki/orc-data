@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA29",
   "country": "USA",
+  "reference": "04560004O2P",
   "name": "FUHGEDABOUTIT",
   "rating": {
     "gph": 611.7,
@@ -197,6 +198,5 @@
       7.92,
       8.48
     ]
-  },
-  "reference": "04560004O2P"
+  }
 }

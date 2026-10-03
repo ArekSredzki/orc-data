@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU850",
   "country": "ROU",
+  "reference": "05040004R6J",
   "name": "Milady",
   "rating": {
     "gph": 663.0,
@@ -197,6 +198,5 @@
       7.52,
       8.14
     ]
-  },
-  "reference": "05040004R6J"
+  }
 }

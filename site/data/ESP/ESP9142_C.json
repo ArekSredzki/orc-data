@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9142_C",
   "country": "ESP",
+  "reference": "03510004LM4",
   "name": "TITILELA",
   "rating": {
     "gph": 652.0,
@@ -197,6 +198,5 @@
       7.48,
       8.04
     ]
-  },
-  "reference": "03510004LM4"
+  }
 }

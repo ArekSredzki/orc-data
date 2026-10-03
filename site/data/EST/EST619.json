@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST619",
   "country": "EST",
+  "reference": "04340004P2C",
   "name": "BERTA",
   "rating": {
     "gph": 619.6,
@@ -197,6 +198,5 @@
       8.11,
       8.8
     ]
-  },
-  "reference": "04340004P2C"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1303",
   "country": "GRE",
+  "reference": "03420004LN5",
   "name": "MELIO",
   "rating": {
     "gph": 622.7,
@@ -197,6 +198,5 @@
       7.74,
       8.3
     ]
-  },
-  "reference": "03420004LN5"
+  }
 }

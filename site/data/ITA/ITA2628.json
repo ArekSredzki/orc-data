@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA2628",
   "country": "ITA",
+  "reference": "03190004VLQ",
   "name": "ALISEA",
   "rating": {
     "gph": 652.1,
@@ -197,6 +198,5 @@
       7.31,
       7.87
     ]
-  },
-  "reference": "03190004VLQ"
+  }
 }

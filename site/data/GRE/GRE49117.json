@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49117",
   "country": "GRE",
+  "reference": "03420004WJE",
   "name": "LAST LOVE",
   "rating": {
     "gph": 736.3,
@@ -197,6 +198,5 @@
       6.87,
       7.43
     ]
-  },
-  "reference": "03420004WJE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA28693",
   "country": "USA",
+  "reference": "04560004P4T",
   "name": "SCEPTRE",
   "rating": {
     "gph": 548.8,
@@ -197,6 +198,5 @@
       8.97,
       11.01
     ]
-  },
-  "reference": "04560004P4T"
+  }
 }

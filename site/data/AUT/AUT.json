@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT",
   "country": "AUT",
+  "reference": "03210004WU5",
   "name": "Stella",
   "rating": {
     "gph": 608.4,
@@ -197,6 +198,5 @@
       8.08,
       8.64
     ]
-  },
-  "reference": "03210004WU5"
+  }
 }

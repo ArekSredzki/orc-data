@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15323",
   "country": "ITA",
+  "reference": "03190004LPS",
   "name": "ARIA",
   "rating": {
     "gph": 573.5,
@@ -197,6 +198,5 @@
       8.35,
       9.82
     ]
-  },
-  "reference": "03190004LPS"
+  }
 }

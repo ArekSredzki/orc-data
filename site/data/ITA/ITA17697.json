@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17697",
   "country": "ITA",
+  "reference": "03190004H8T",
   "name": "OPHE'LIE",
   "rating": {
     "gph": 663.9,
@@ -197,6 +198,5 @@
       7.53,
       8.18
     ]
-  },
-  "reference": "03190004H8T"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA3036",
   "country": "ITA",
+  "reference": "03190004B29",
   "name": "BAGUA",
   "rating": {
     "gph": 585.5,
@@ -197,6 +198,5 @@
       9.83,
       12.86
     ]
-  },
-  "reference": "03190004B29"
+  }
 }

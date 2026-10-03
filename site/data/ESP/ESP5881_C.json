@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5881_C",
   "country": "ESP",
+  "reference": "03510004F19",
   "name": "ALTAMAR I",
   "rating": {
     "gph": 653.1,
@@ -197,6 +198,5 @@
       7.63,
       8.31
     ]
-  },
-  "reference": "03510004F19"
+  }
 }

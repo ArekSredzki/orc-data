@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA18123",
   "country": "FRA",
+  "reference": "04330004KSI",
   "name": "ASPHODELE",
   "rating": {
     "gph": 733.9,
@@ -197,6 +198,5 @@
       6.92,
       7.5
     ]
-  },
-  "reference": "04330004KSI"
+  }
 }

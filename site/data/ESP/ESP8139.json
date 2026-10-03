@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8139",
   "country": "ESP",
+  "reference": "03510004MD3",
   "name": "PULPO NEGRO",
   "rating": {
     "gph": 634.2,
@@ -197,6 +198,5 @@
       7.73,
       8.42
     ]
-  },
-  "reference": "03510004MD3"
+  }
 }

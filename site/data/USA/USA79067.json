@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA79067",
   "country": "USA",
+  "reference": "04560004EV6",
   "name": "MADRONA",
   "rating": {
     "gph": 549.3,
@@ -197,6 +198,5 @@
       9.85,
       12.53
     ]
-  },
-  "reference": "04560004EV6"
+  }
 }

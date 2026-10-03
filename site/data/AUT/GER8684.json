@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/GER8684",
   "country": "AUT",
+  "reference": "03210004M9A",
   "name": "Release",
   "rating": {
     "gph": 571.6,
@@ -197,6 +198,5 @@
       8.78,
       9.77
     ]
-  },
-  "reference": "03210004M9A"
+  }
 }

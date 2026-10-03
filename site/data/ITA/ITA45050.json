@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA45050",
   "country": "ITA",
+  "reference": "03190004TDF",
   "name": "ULIKA",
   "rating": {
     "gph": 530.7,
@@ -197,6 +198,5 @@
       9.08,
       10.12
     ]
-  },
-  "reference": "03190004TDF"
+  }
 }

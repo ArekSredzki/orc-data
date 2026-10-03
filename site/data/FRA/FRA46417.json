@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA46417",
   "country": "FRA",
+  "reference": "04330004FES",
   "name": "MARIE-GALANTE",
   "rating": {
     "gph": 612.0,
@@ -197,6 +198,5 @@
       8.34,
       9.08
     ]
-  },
-  "reference": "04330004FES"
+  }
 }

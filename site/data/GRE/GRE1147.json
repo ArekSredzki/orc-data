@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1147",
   "country": "GRE",
+  "reference": "03420004VAB",
   "name": "INO",
   "rating": {
     "gph": 696.3,
@@ -197,6 +198,5 @@
       7.4,
       8.04
     ]
-  },
-  "reference": "03420004VAB"
+  }
 }

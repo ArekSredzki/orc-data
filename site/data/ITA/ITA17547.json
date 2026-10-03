@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17547",
   "country": "ITA",
+  "reference": "03190004V1C",
   "name": "LUNA BLU",
   "rating": {
     "gph": 607.4,
@@ -197,6 +198,5 @@
       7.9,
       8.52
     ]
-  },
-  "reference": "03190004V1C"
+  }
 }

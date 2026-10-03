@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP29234_C",
   "country": "ESP",
+  "reference": "03510004BMN",
   "name": "D'ARTAGNAN",
   "rating": {
     "gph": 619.7,
@@ -197,6 +198,5 @@
       7.54,
       8.17
     ]
-  },
-  "reference": "03510004BMN"
+  }
 }

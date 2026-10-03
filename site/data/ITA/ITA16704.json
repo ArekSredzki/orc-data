@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16704",
   "country": "ITA",
+  "reference": "03190004L18",
   "name": "WANAKA",
   "rating": {
     "gph": 660.5,
@@ -197,6 +198,5 @@
       7.39,
       8.05
     ]
-  },
-  "reference": "03190004L18"
+  }
 }

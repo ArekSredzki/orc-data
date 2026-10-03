@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14689",
   "country": "ITA",
+  "reference": "03190004W3O",
   "name": "RENOIR",
   "rating": {
     "gph": 594.0,
@@ -197,6 +198,5 @@
       8.25,
       9.01
     ]
-  },
-  "reference": "03190004W3O"
+  }
 }

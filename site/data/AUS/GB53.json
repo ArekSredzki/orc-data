@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/GB53",
   "country": "AUS",
+  "reference": "03020004TS8",
   "name": "Jean Genie",
   "rating": {
     "gph": 559.2,
@@ -197,6 +198,5 @@
       9.18,
       10.04
     ]
-  },
-  "reference": "03020004TS8"
+  }
 }

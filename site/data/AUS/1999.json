@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/1999",
   "country": "AUS",
+  "reference": "03020004W8W",
   "name": "Young Magic",
   "rating": {
     "gph": 599.0,
@@ -197,6 +198,5 @@
       8.4,
       9.9
     ]
-  },
-  "reference": "03020004W8W"
+  }
 }

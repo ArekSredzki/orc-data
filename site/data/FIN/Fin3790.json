@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/Fin3790",
   "country": "FIN",
+  "reference": "04140004WT5",
   "name": "Avaran",
   "rating": {
     "gph": 651.2,
@@ -197,6 +198,5 @@
       7.86,
       8.57
     ]
-  },
-  "reference": "04140004WT5"
+  }
 }

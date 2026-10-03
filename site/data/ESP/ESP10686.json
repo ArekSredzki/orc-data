@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10686",
   "country": "ESP",
+  "reference": "03510004WJ9",
   "name": "SILVER FOX",
   "rating": {
     "gph": 652.9,
@@ -197,6 +198,5 @@
       7.69,
       8.36
     ]
-  },
-  "reference": "03510004WJ9"
+  }
 }

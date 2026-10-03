@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7300",
   "country": "NED",
+  "reference": "04310004JWJ",
   "name": "Sirena",
   "rating": {
     "gph": 622.0,
@@ -197,6 +198,5 @@
       8.2,
       8.96
     ]
-  },
-  "reference": "04310004JWJ"
+  }
 }

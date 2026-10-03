@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15744",
   "country": "ITA",
+  "reference": "03190004J3B",
   "name": "Grifone Fiamme Gialle IV",
   "rating": {
     "gph": 625.4,
@@ -197,6 +198,5 @@
       7.96,
       8.56
     ]
-  },
-  "reference": "03190004J3B"
+  }
 }

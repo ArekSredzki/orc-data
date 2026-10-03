@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12302",
   "country": "FIN",
+  "reference": "04140004USI",
   "name": "Pauliina II",
   "rating": {
     "gph": 591.4,
@@ -197,6 +198,5 @@
       7.96,
       8.68
     ]
-  },
-  "reference": "04140004USI"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15022",
   "country": "NOR",
+  "reference": "03440004WA6",
   "name": "Selima",
   "rating": {
     "gph": 630.6,
@@ -197,6 +198,5 @@
       7.56,
       8.13
     ]
-  },
-  "reference": "03440004WA6"
+  }
 }

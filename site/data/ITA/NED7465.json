@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/NED7465",
   "country": "ITA",
+  "reference": "03190004P49",
   "name": "TENGHER",
   "rating": {
     "gph": 526.1,
@@ -197,6 +198,5 @@
       8.95,
       10.62
     ]
-  },
-  "reference": "03190004P49"
+  }
 }

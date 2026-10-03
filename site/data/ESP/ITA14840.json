@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ITA14840",
   "country": "ESP",
+  "reference": "03510004F1K",
   "name": "Flying Cloud",
   "rating": {
     "gph": 543.2,
@@ -197,6 +198,5 @@
       9.56,
       12.09
     ]
-  },
-  "reference": "03510004F1K"
+  }
 }

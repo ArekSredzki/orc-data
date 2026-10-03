@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA57006",
   "country": "USA",
+  "reference": "04560004US4",
   "name": "HEN O' THE C",
   "rating": {
     "gph": 651.6,
@@ -197,6 +198,5 @@
       7.42,
       8.06
     ]
-  },
-  "reference": "04560004US4"
+  }
 }

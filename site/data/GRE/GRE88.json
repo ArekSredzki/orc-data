@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE88",
   "country": "GRE",
+  "reference": "03420004MD6",
   "name": "GRANMA X",
   "rating": {
     "gph": 613.3,
@@ -197,6 +198,5 @@
       8.14,
       9.06
     ]
-  },
-  "reference": "03420004MD6"
+  }
 }

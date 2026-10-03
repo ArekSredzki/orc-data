@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18278",
   "country": "ITA",
+  "reference": "03190004I9R",
   "name": "GAGLIARDA",
   "rating": {
     "gph": 793.0,
@@ -197,6 +198,5 @@
       6.05,
       6.56
     ]
-  },
-  "reference": "03190004I9R"
+  }
 }

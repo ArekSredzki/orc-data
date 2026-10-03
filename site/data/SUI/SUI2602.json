@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI2602",
   "country": "SUI",
+  "reference": "03080004N7J",
   "name": "BLUE BAYOU",
   "rating": {
     "gph": 774.8,
@@ -197,6 +198,5 @@
       6.45,
       6.98
     ]
-  },
-  "reference": "03080004N7J"
+  }
 }

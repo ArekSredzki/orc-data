@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO3001",
   "country": "CRO",
+  "reference": "03620004RH4",
   "name": "Code X",
   "rating": {
     "gph": 509.2,
@@ -197,6 +198,5 @@
       14.34,
       17.9
     ]
-  },
-  "reference": "03620004RH4"
+  }
 }

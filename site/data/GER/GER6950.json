@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6950",
   "country": "GER",
+  "reference": "03520004VEO",
   "name": "KNAB HORN 2.0",
   "rating": {
     "gph": 585.1,
@@ -197,6 +198,5 @@
       7.99,
       9.37
     ]
-  },
-  "reference": "03520004VEO"
+  }
 }

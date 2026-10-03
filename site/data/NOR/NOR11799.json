@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11799",
   "country": "NOR",
+  "reference": "03440004OQK",
   "name": "Saltkr\u00e5kan Kansje",
   "rating": {
     "gph": 545.4,
@@ -197,6 +198,5 @@
       8.6,
       10.19
     ]
-  },
-  "reference": "03440004OQK"
+  }
 }

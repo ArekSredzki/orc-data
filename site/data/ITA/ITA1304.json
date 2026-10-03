@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1304",
   "country": "ITA",
+  "reference": "03190004V50",
   "name": "REMO",
   "rating": {
     "gph": 533.1,
@@ -197,6 +198,5 @@
       10.32,
       13.28
     ]
-  },
-  "reference": "03190004V50"
+  }
 }

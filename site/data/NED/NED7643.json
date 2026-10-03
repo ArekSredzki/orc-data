@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7643",
   "country": "NED",
+  "reference": "04310004QRC",
   "name": "LUCIFER3",
   "rating": {
     "gph": 628.7,
@@ -197,6 +198,5 @@
       7.95,
       8.65
     ]
-  },
-  "reference": "04310004QRC"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL523",
   "country": "BUL",
+  "reference": "03850004STI",
   "name": "Castor",
   "rating": {
     "gph": 742.5,
@@ -197,6 +198,5 @@
       6.67,
       7.32
     ]
-  },
-  "reference": "03850004STI"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/SMR1023",
   "country": "EST",
+  "reference": "04340004N41",
   "name": "Technonicol",
   "rating": {
     "gph": 559.9,
@@ -197,6 +198,5 @@
       8.6,
       10.57
     ]
-  },
-  "reference": "04340004N41"
+  }
 }

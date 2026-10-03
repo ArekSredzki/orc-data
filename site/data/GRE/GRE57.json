@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE57",
   "country": "GRE",
+  "reference": "03420004OUV",
   "name": "MEGISTON",
   "rating": {
     "gph": 556.3,
@@ -197,6 +198,5 @@
       8.88,
       9.45
     ]
-  },
-  "reference": "03420004OUV"
+  }
 }

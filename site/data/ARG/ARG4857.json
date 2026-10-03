@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG4857",
   "country": "ARG",
+  "reference": "03880004IF8",
   "name": "BRUJITO",
   "rating": {
     "gph": 645.4,
@@ -197,6 +198,5 @@
       7.8,
       8.72
     ]
-  },
-  "reference": "03880004IF8"
+  }
 }

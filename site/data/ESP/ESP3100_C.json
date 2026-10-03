@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3100_C",
   "country": "ESP",
+  "reference": "03510004KE3",
   "name": "MAIRE I",
   "rating": {
     "gph": 703.6,
@@ -197,6 +198,5 @@
       7.01,
       7.6
     ]
-  },
-  "reference": "03510004KE3"
+  }
 }

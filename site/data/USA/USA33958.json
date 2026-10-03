@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA33958",
   "country": "USA",
+  "reference": "04560004PUN",
   "name": "Voyager",
   "rating": {
     "gph": 674.8,
@@ -197,6 +198,5 @@
       6.91,
       7.47
     ]
-  },
-  "reference": "04560004PUN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE5296",
   "country": "GRE",
+  "reference": "03420004VRC",
   "name": "GLAFKI II",
   "rating": {
     "gph": 691.4,
@@ -197,6 +198,5 @@
       7.21,
       7.94
     ]
-  },
-  "reference": "03420004VRC"
+  }
 }

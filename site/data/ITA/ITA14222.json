@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14222",
   "country": "ITA",
+  "reference": "03190004IHT",
   "name": "GASTONE",
   "rating": {
     "gph": 649.0,
@@ -197,6 +198,5 @@
       7.69,
       8.33
     ]
-  },
-  "reference": "03190004IHT"
+  }
 }

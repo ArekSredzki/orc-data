@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60017",
   "country": "USA",
+  "reference": "04560004V3U",
   "name": "ECLIPSE",
   "rating": {
     "gph": 559.9,
@@ -197,6 +198,5 @@
       8.68,
       10.76
     ]
-  },
-  "reference": "04560004V3U"
+  }
 }

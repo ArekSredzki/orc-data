@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR6871",
   "country": "NOR",
+  "reference": "03440004PSA",
   "name": "Crazy Horse Jr",
   "rating": {
     "gph": 686.9,
@@ -197,6 +198,5 @@
       7.31,
       8.0
     ]
-  },
-  "reference": "03440004PSA"
+  }
 }

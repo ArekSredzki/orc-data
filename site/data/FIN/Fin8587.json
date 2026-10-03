@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/Fin8587",
   "country": "FIN",
+  "reference": "04140004U6U",
   "name": "Mazianna",
   "rating": {
     "gph": 565.0,
@@ -197,6 +198,5 @@
       9.31,
       11.77
     ]
-  },
-  "reference": "04140004U6U"
+  }
 }

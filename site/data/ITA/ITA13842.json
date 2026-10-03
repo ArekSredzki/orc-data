@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13842",
   "country": "ITA",
+  "reference": "03190004PV9",
   "name": "UMMAGUMMA",
   "rating": {
     "gph": 639.6,
@@ -197,6 +198,5 @@
       7.72,
       8.37
     ]
-  },
-  "reference": "03190004PV9"
+  }
 }

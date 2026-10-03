@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10731",
   "country": "ESP",
+  "reference": "03510004BMF",
   "name": "TRENCAMAR",
   "rating": {
     "gph": 618.0,
@@ -197,6 +198,5 @@
       7.74,
       8.36
     ]
-  },
-  "reference": "03510004BMF"
+  }
 }

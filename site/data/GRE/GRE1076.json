@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1076",
   "country": "GRE",
+  "reference": "03420004VJI",
   "name": "AIOLOS",
   "rating": {
     "gph": 821.8,
@@ -197,6 +198,5 @@
       6.32,
       6.8
     ]
-  },
-  "reference": "03420004VJI"
+  }
 }

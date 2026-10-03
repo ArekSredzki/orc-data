@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN7101",
   "country": "FIN",
+  "reference": "04140004VEF",
   "name": "Namaste",
   "rating": {
     "gph": 676.3,
@@ -197,6 +198,5 @@
       7.45,
       8.12
     ]
-  },
-  "reference": "04140004VEF"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR3553",
   "country": "KOR",
+  "reference": "04550004VP0",
   "name": "Haribo",
   "rating": {
     "gph": 549.1,
@@ -197,6 +198,5 @@
       8.96,
       10.94
     ]
-  },
-  "reference": "04550004VP0"
+  }
 }

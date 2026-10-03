@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2727",
   "country": "CRO",
+  "reference": "03620004QOR",
   "name": "Toto / SPG Tutta Trieste 2",
   "rating": {
     "gph": 401.4,
@@ -197,6 +198,5 @@
       14.86,
       17.94
     ]
-  },
-  "reference": "03620004QOR"
+  }
 }

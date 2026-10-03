@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/BEL1228",
   "country": "GRE",
+  "reference": "03420004TAQ",
   "name": "QUATRAILLE",
   "rating": {
     "gph": 543.8,
@@ -197,6 +198,5 @@
       9.42,
       11.75
     ]
-  },
-  "reference": "03420004TAQ"
+  }
 }

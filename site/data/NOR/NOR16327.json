@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16327",
   "country": "NOR",
+  "reference": "03440004UE0",
   "name": "MAVERICK",
   "rating": {
     "gph": 617.2,
@@ -197,6 +198,5 @@
       11.34,
       14.28
     ]
-  },
-  "reference": "03440004UE0"
+  }
 }

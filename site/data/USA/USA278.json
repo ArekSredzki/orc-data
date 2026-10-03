@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA278",
   "country": "USA",
+  "reference": "04560004V5C",
   "name": "TRAV'LER",
   "rating": {
     "gph": 746.2,
@@ -197,6 +198,5 @@
       6.6,
       7.09
     ]
-  },
-  "reference": "04560004V5C"
+  }
 }

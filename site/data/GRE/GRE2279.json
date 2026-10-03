@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2279",
   "country": "GRE",
+  "reference": "03420004R59",
   "name": "TITI",
   "rating": {
     "gph": 584.8,
@@ -197,6 +198,5 @@
       8.33,
       9.01
     ]
-  },
-  "reference": "03420004R59"
+  }
 }

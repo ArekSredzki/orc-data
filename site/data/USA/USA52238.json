@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52238",
   "country": "USA",
+  "reference": "04560004NC6",
   "name": "RAGANA",
   "rating": {
     "gph": 585.8,
@@ -197,6 +198,5 @@
       8.13,
       9.82
     ]
-  },
-  "reference": "04560004NC6"
+  }
 }

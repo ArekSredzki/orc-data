@@ -1,6 +1,7 @@
 {
   "sailnumber": "DEN/DEN41",
   "country": "DEN",
+  "reference": "03370004W3K",
   "name": "XBOX",
   "rating": {
     "gph": 549.3,
@@ -197,6 +198,5 @@
       9.29,
       11.61
     ]
-  },
-  "reference": "03370004W3K"
+  }
 }

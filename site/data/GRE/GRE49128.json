@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49128",
   "country": "GRE",
+  "reference": "03420004VAD",
   "name": "OUSYRA",
   "rating": {
     "gph": 671.2,
@@ -197,6 +198,5 @@
       7.38,
       8.06
     ]
-  },
-  "reference": "03420004VAD"
+  }
 }

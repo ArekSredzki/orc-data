@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITANLG26",
   "country": "ITA",
+  "reference": "03190004WDN",
   "name": "ANGELA",
   "rating": {
     "gph": 611.3,
@@ -197,6 +198,5 @@
       8.56,
       11.19
     ]
-  },
-  "reference": "03190004WDN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR357",
   "country": "NOR",
+  "reference": "03440004NS7",
   "name": "Topplente",
   "rating": {
     "gph": 622.6,
@@ -197,6 +198,5 @@
       10.73,
       13.84
     ]
-  },
-  "reference": "03440004NS7"
+  }
 }

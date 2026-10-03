@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6457",
   "country": "NED",
+  "reference": "04310004JVS",
   "name": "LE RAYON VERT",
   "rating": {
     "gph": 611.0,
@@ -197,6 +198,5 @@
       8.24,
       8.85
     ]
-  },
-  "reference": "04310004JVS"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR6001",
   "country": "NOR",
+  "reference": "03440004QN0",
   "name": "Frifot",
   "rating": {
     "gph": 696.8,
@@ -197,6 +198,5 @@
       7.23,
       7.86
     ]
-  },
-  "reference": "03440004QN0"
+  }
 }

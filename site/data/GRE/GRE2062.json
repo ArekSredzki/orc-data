@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2062",
   "country": "GRE",
+  "reference": "03420004QFV",
   "name": "NEPTUNE",
   "rating": {
     "gph": 781.6,
@@ -197,6 +198,5 @@
       6.98,
       7.63
     ]
-  },
-  "reference": "03420004QFV"
+  }
 }

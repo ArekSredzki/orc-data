@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/RUS2280",
   "country": "TUR",
+  "reference": "0459000484S",
   "name": "STREKOZA",
   "rating": {
     "gph": 583.4,
@@ -197,6 +198,5 @@
       8.34,
       9.59
     ]
-  },
-  "reference": "0459000484S"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17961",
   "country": "ITA",
+  "reference": "03190004QOV",
   "name": "BUGS",
   "rating": {
     "gph": 687.7,
@@ -197,6 +198,5 @@
       7.02,
       7.56
     ]
-  },
-  "reference": "03190004QOV"
+  }
 }

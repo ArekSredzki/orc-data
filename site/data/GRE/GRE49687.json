@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49687",
   "country": "GRE",
+  "reference": "03420004MD5",
   "name": "ANNA KATERINA",
   "rating": {
     "gph": 680.3,
@@ -197,6 +198,5 @@
       7.58,
       8.17
     ]
-  },
-  "reference": "03420004MD5"
+  }
 }

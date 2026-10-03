@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4937",
   "country": "NED",
+  "reference": "04310004JV2",
   "name": "Flyer",
   "rating": {
     "gph": 605.0,
@@ -197,6 +198,5 @@
       8.2,
       8.93
     ]
-  },
-  "reference": "04310004JV2"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA45761",
   "country": "FRA",
+  "reference": "04330004FTV",
   "name": "COCONUX",
   "rating": {
     "gph": 643.4,
@@ -197,6 +198,5 @@
       7.78,
       8.57
     ]
-  },
-  "reference": "04330004FTV"
+  }
 }

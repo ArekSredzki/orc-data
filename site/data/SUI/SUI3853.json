@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI3853",
   "country": "SUI",
+  "reference": "03080004KNI",
   "name": "RAFFALE",
   "rating": {
     "gph": 507.0,
@@ -197,6 +198,5 @@
       12.53,
       15.91
     ]
-  },
-  "reference": "03080004KNI"
+  }
 }

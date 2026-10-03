@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10842_C",
   "country": "ESP",
+  "reference": "03510004LFS",
   "name": "TITELLA AGUIXOS",
   "rating": {
     "gph": 649.8,
@@ -197,6 +198,5 @@
       7.56,
       8.16
     ]
-  },
-  "reference": "03510004LFS"
+  }
 }

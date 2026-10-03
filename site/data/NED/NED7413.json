@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7413",
   "country": "NED",
+  "reference": "04310004JWP",
   "name": "Histos",
   "rating": {
     "gph": 691.8,
@@ -197,6 +198,5 @@
       7.5,
       8.23
     ]
-  },
-  "reference": "04310004JWP"
+  }
 }

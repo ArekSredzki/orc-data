@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15666",
   "country": "NOR",
+  "reference": "03440004VOD",
   "name": "Sons of Hurricanes",
   "rating": {
     "gph": 579.3,
@@ -197,6 +198,5 @@
       8.51,
       9.38
     ]
-  },
-  "reference": "03440004VOD"
+  }
 }

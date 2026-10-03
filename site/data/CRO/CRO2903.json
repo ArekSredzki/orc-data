@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2903",
   "country": "CRO",
+  "reference": "03620004M5F",
   "name": "Aquila",
   "rating": {
     "gph": 594.1,
@@ -197,6 +198,5 @@
       8.51,
       9.25
     ]
-  },
-  "reference": "03620004M5F"
+  }
 }

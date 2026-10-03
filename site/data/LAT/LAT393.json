@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT393",
   "country": "LAT",
+  "reference": "04960004TFR",
   "name": "Udacha",
   "rating": {
     "gph": 647.3,
@@ -197,6 +198,5 @@
       7.69,
       8.39
     ]
-  },
-  "reference": "04960004TFR"
+  }
 }

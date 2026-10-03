@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT6",
   "country": "AUT",
+  "reference": "03210004LJR",
   "name": "Windspiel",
   "rating": {
     "gph": 576.9,
@@ -197,6 +198,5 @@
       8.6,
       9.45
     ]
-  },
-  "reference": "03210004LJR"
+  }
 }

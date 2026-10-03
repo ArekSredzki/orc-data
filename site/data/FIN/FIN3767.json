@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN3767",
   "country": "FIN",
+  "reference": "04140004W1T",
   "name": "Happy Ours",
   "rating": {
     "gph": 691.0,
@@ -197,6 +198,5 @@
       7.3,
       7.95
     ]
-  },
-  "reference": "04140004W1T"
+  }
 }

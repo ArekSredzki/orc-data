@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4030_C",
   "country": "ESP",
+  "reference": "03510004WJB",
   "name": "TOTEM II",
   "rating": {
     "gph": 701.2,
@@ -197,6 +198,5 @@
       7.25,
       7.89
     ]
-  },
-  "reference": "03510004WJB"
+  }
 }

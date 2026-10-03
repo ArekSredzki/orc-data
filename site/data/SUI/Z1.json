@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/Z1",
   "country": "SUI",
+  "reference": "03080004OK8",
   "name": "Pinguin",
   "rating": {
     "gph": 901.2,
@@ -197,6 +198,5 @@
       5.76,
       6.19
     ]
-  },
-  "reference": "03080004OK8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR3302X",
   "country": "FRA",
+  "reference": "04330004QAQ",
   "name": "SEVENTH SUN",
   "rating": {
     "gph": 612.2,
@@ -197,6 +198,5 @@
       8.11,
       10.57
     ]
-  },
-  "reference": "04330004QAQ"
+  }
 }

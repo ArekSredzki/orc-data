@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP28137",
   "country": "ESP",
+  "reference": "03510004HVJ",
   "name": "NARVAL",
   "rating": {
     "gph": 607.3,
@@ -197,6 +198,5 @@
       8.19,
       10.25
     ]
-  },
-  "reference": "03510004HVJ"
+  }
 }

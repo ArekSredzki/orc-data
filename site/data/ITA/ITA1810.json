@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1810",
   "country": "ITA",
+  "reference": "03190004R43",
   "name": "DRAGUT",
   "rating": {
     "gph": 632.4,
@@ -197,6 +198,5 @@
       7.83,
       8.57
     ]
-  },
-  "reference": "03190004R43"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITALIL24",
   "country": "ITA",
+  "reference": "03190004QU2",
   "name": "ALILU' 3",
   "rating": {
     "gph": 697.0,
@@ -197,6 +198,5 @@
       6.91,
       7.38
     ]
-  },
-  "reference": "03190004QU2"
+  }
 }

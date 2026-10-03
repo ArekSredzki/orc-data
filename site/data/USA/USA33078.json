@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA33078",
   "country": "USA",
+  "reference": "04560004VRS",
   "name": "TIGER BLOOD",
   "rating": {
     "gph": 592.0,
@@ -197,6 +198,5 @@
       8.57,
       11.7
     ]
-  },
-  "reference": "04560004VRS"
+  }
 }

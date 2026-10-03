@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11243",
   "country": "NOR",
+  "reference": "03440004SFF",
   "name": "Mettre",
   "rating": {
     "gph": 647.5,
@@ -197,6 +198,5 @@
       7.89,
       8.69
     ]
-  },
-  "reference": "03440004SFF"
+  }
 }

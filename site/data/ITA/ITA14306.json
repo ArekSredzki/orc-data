@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14306",
   "country": "ITA",
+  "reference": "03190004FL6",
   "name": "ASPRA",
   "rating": {
     "gph": 490.0,
@@ -197,6 +198,5 @@
       9.75,
       11.26
     ]
-  },
-  "reference": "03190004FL6"
+  }
 }

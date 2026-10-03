@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6960",
   "country": "GER",
+  "reference": "03520004RDL",
   "name": "IMAGINE",
   "rating": {
     "gph": 567.4,
@@ -197,6 +198,5 @@
       8.74,
       9.85
     ]
-  },
-  "reference": "03520004RDL"
+  }
 }

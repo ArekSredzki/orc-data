@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE3",
   "country": "GRE",
+  "reference": "03420004VRL",
   "name": "VORRAS",
   "rating": {
     "gph": 607.4,
@@ -197,6 +198,5 @@
       8.19,
       9.19
     ]
-  },
-  "reference": "03420004VRL"
+  }
 }

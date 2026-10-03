@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13348",
   "country": "NOR",
+  "reference": "03440004N9K",
   "name": "Andrik",
   "rating": {
     "gph": 630.4,
@@ -197,6 +198,5 @@
       7.69,
       8.3
     ]
-  },
-  "reference": "03440004N9K"
+  }
 }

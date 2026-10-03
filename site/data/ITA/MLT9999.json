@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/MLT9999",
   "country": "ITA",
+  "reference": "03190004ON5",
   "name": "MOONDANCE",
   "rating": {
     "gph": 616.9,
@@ -197,6 +198,5 @@
       7.87,
       8.62
     ]
-  },
-  "reference": "03190004ON5"
+  }
 }

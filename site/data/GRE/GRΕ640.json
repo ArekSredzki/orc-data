@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GR\u0395640",
   "country": "GRE",
+  "reference": "03420004VS6",
   "name": "FEEL FREE \u0399\u0399",
   "rating": {
     "gph": 627.4,
@@ -197,6 +198,5 @@
       10.49,
       13.6
     ]
-  },
-  "reference": "03420004VS6"
+  }
 }

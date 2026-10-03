@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15337",
   "country": "ITA",
+  "reference": "03190004TT3",
   "name": "VALHALLA",
   "rating": {
     "gph": 608.5,
@@ -197,6 +198,5 @@
       8.22,
       9.02
     ]
-  },
-  "reference": "03190004TT3"
+  }
 }

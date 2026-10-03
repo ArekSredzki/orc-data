@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA50100",
   "country": "USA",
+  "reference": "04560004HJ9",
   "name": "MAYHEM",
   "rating": {
     "gph": 452.0,
@@ -197,6 +198,5 @@
       12.77,
       15.89
     ]
-  },
-  "reference": "04560004HJ9"
+  }
 }

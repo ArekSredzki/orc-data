@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18242",
   "country": "ITA",
+  "reference": "03190004VSB",
   "name": "GAMBALUNGA",
   "rating": {
     "gph": 698.6,
@@ -197,6 +198,5 @@
       7.68,
       9.63
     ]
-  },
-  "reference": "03190004VSB"
+  }
 }

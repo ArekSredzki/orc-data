@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA2405",
   "country": "RSA",
+  "reference": "04620004FC2",
   "name": "BE-WITCHED",
   "rating": {
     "gph": 571.2,
@@ -197,6 +198,5 @@
       8.76,
       9.92
     ]
-  },
-  "reference": "04620004FC2"
+  }
 }

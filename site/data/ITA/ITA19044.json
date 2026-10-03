@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA19044",
   "country": "ITA",
+  "reference": "03190004I9S",
   "name": "SWIFT 2",
   "rating": {
     "gph": 516.3,
@@ -197,6 +198,5 @@
       9.93,
       12.81
     ]
-  },
-  "reference": "03190004I9S"
+  }
 }

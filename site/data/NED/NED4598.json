@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4598",
   "country": "NED",
+  "reference": "04310004JUM",
   "name": "Vagebond",
   "rating": {
     "gph": 676.6,
@@ -197,6 +198,5 @@
       7.61,
       8.28
     ]
-  },
-  "reference": "04310004JUM"
+  }
 }

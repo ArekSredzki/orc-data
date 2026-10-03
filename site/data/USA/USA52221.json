@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52221",
   "country": "USA",
+  "reference": "04560004RTA",
   "name": "NIMBUS",
   "rating": {
     "gph": 441.1,
@@ -197,6 +198,5 @@
       13.66,
       16.74
     ]
-  },
-  "reference": "04560004RTA"
+  }
 }

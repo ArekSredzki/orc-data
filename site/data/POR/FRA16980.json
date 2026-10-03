@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/FRA16980",
   "country": "POR",
+  "reference": "03530004PV1",
   "name": "JOLLY JUMPER",
   "rating": {
     "gph": 640.1,
@@ -197,6 +198,5 @@
       7.97,
       9.25
     ]
-  },
-  "reference": "03530004PV1"
+  }
 }

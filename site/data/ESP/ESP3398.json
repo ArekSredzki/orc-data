@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3398",
   "country": "ESP",
+  "reference": "03510004U7L",
   "name": "ADRIAN HOTELES MACARONESIA",
   "rating": {
     "gph": 595.5,
@@ -197,6 +198,5 @@
       8.12,
       8.93
     ]
-  },
-  "reference": "03510004U7L"
+  }
 }

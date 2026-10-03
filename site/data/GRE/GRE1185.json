@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1185",
   "country": "GRE",
+  "reference": "03420004LRF",
   "name": "NIKOS-ANDREAS",
   "rating": {
     "gph": 781.3,
@@ -197,6 +198,5 @@
       6.66,
       7.22
     ]
-  },
-  "reference": "03420004LRF"
+  }
 }

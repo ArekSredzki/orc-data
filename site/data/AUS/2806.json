@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/2806",
   "country": "AUS",
+  "reference": "03020004UW5",
   "name": "Passion XI",
   "rating": {
     "gph": 541.0,
@@ -197,6 +198,5 @@
       9.53,
       12.17
     ]
-  },
-  "reference": "03020004UW5"
+  }
 }

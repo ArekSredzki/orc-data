@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN79026",
   "country": "CAN",
+  "reference": "03430004HCP",
   "name": "Hana Mari",
   "rating": {
     "gph": 574.8,
@@ -197,6 +198,5 @@
       8.31,
       9.81
     ]
-  },
-  "reference": "03430004HCP"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITACRMBV26",
   "country": "ITA",
+  "reference": "03190004WR9",
   "name": "CORUMBE V",
   "rating": {
     "gph": 486.1,
@@ -197,6 +198,5 @@
       10.21,
       11.17
     ]
-  },
-  "reference": "03190004WR9"
+  }
 }

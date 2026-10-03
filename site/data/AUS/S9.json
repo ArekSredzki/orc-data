@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/S9",
   "country": "AUS",
+  "reference": "03020004TRT",
   "name": "Jungle Juice",
   "rating": {
     "gph": 624.1,
@@ -197,6 +198,5 @@
       8.2,
       10.08
     ]
-  },
-  "reference": "03020004TRT"
+  }
 }

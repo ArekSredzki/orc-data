@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2147",
   "country": "NED",
+  "reference": "04310004KTB",
   "name": "Bottleneck",
   "rating": {
     "gph": 791.4,
@@ -197,6 +198,5 @@
       6.39,
       6.94
     ]
-  },
-  "reference": "04310004KTB"
+  }
 }

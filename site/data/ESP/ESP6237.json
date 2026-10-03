@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6237",
   "country": "ESP",
+  "reference": "03510004QAJ",
   "name": "CLEM PRIMERO",
   "rating": {
     "gph": 532.3,
@@ -197,6 +198,5 @@
       8.89,
       9.52
     ]
-  },
-  "reference": "03510004QAJ"
+  }
 }

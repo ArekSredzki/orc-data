@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10187",
   "country": "ITA",
+  "reference": "03190004MNT",
   "name": "LOLA",
   "rating": {
     "gph": 627.5,
@@ -197,6 +198,5 @@
       7.84,
       8.74
     ]
-  },
-  "reference": "03190004MNT"
+  }
 }

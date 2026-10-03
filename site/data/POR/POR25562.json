@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR25562",
   "country": "POR",
+  "reference": "03530004LB6",
   "name": "PRODIGAL DAUGHTER",
   "rating": {
     "gph": 660.4,
@@ -197,6 +198,5 @@
       7.75,
       8.4
     ]
-  },
-  "reference": "03530004LB6"
+  }
 }

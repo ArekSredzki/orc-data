@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN850",
   "country": "FIN",
+  "reference": "04140004T8B",
   "name": "Senta IV",
   "rating": {
     "gph": 683.1,
@@ -197,6 +198,5 @@
       7.28,
       7.9
     ]
-  },
-  "reference": "04140004T8B"
+  }
 }

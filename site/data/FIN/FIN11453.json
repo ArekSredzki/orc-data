@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11453",
   "country": "FIN",
+  "reference": "04140004TV0",
   "name": "Arya",
   "rating": {
     "gph": 618.3,
@@ -197,6 +198,5 @@
       8.01,
       8.74
     ]
-  },
-  "reference": "04140004TV0"
+  }
 }

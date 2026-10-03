@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL1999",
   "country": "BUL",
+  "reference": "03850004L9P",
   "name": "THEODORA",
   "rating": {
     "gph": 662.7,
@@ -197,6 +198,5 @@
       7.64,
       8.23
     ]
-  },
-  "reference": "03850004L9P"
+  }
 }

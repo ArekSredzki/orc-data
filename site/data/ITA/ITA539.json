@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA539",
   "country": "ITA",
+  "reference": "03190004OOB",
   "name": "LULLABY",
   "rating": {
     "gph": 621.1,
@@ -197,6 +198,5 @@
       7.6,
       9.56
     ]
-  },
-  "reference": "03190004OOB"
+  }
 }

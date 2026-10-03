@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/MLT158",
   "country": "MLT",
+  "reference": "03230004UNW",
   "name": "SEVEN",
   "rating": {
     "gph": 567.9,
@@ -197,6 +198,5 @@
       8.56,
       9.41
     ]
-  },
-  "reference": "03230004UNW"
+  }
 }

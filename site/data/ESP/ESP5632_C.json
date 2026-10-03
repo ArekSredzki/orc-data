@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5632_C",
   "country": "ESP",
+  "reference": "03510004EU2",
   "name": "TORO I",
   "rating": {
     "gph": 590.5,
@@ -197,6 +198,5 @@
       8.31,
       9.13
     ]
-  },
-  "reference": "03510004EU2"
+  }
 }

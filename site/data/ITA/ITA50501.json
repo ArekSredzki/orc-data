@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA50501",
   "country": "ITA",
+  "reference": "03190004S45",
   "name": "VERVE - CAMER",
   "rating": {
     "gph": 490.5,
@@ -197,6 +198,5 @@
       10.62,
       13.06
     ]
-  },
-  "reference": "03190004S45"
+  }
 }

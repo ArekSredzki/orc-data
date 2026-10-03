@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA35193",
   "country": "FRA",
+  "reference": "04330004R72",
   "name": "DJAILOLO II",
   "rating": {
     "gph": 637.0,
@@ -197,6 +198,5 @@
       7.45,
       8.39
     ]
-  },
-  "reference": "04330004R72"
+  }
 }

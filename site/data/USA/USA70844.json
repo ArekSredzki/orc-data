@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA70844",
   "country": "USA",
+  "reference": "04560004S5V",
   "name": "POMMES FRITES",
   "rating": {
     "gph": 474.8,
@@ -197,6 +198,5 @@
       11.61,
       14.27
     ]
-  },
-  "reference": "04560004S5V"
+  }
 }

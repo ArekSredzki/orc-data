@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG057",
   "country": "HKG",
+  "reference": "03880004WW2",
   "name": "Good Vibrations",
   "rating": {
     "gph": 606.4,
@@ -197,6 +198,5 @@
       10.78,
       13.88
     ]
-  },
-  "reference": "03880004WW2"
+  }
 }

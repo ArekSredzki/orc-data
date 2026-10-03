@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/NED4994",
   "country": "FRA",
+  "reference": "04330004H20",
   "name": "NUMERO UNO",
   "rating": {
     "gph": 640.5,
@@ -197,6 +198,5 @@
       7.67,
       8.38
     ]
-  },
-  "reference": "04330004H20"
+  }
 }

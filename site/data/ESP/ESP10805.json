@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10805",
   "country": "ESP",
+  "reference": "035100048J0",
   "name": "SQUID 2",
   "rating": {
     "gph": 681.1,
@@ -197,6 +198,5 @@
       7.25,
       7.9
     ]
-  },
-  "reference": "035100048J0"
+  }
 }

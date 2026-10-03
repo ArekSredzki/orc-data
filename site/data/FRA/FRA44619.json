@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA44619",
   "country": "FRA",
+  "reference": "04330004IJO",
   "name": "SAM",
   "rating": {
     "gph": 636.6,
@@ -197,6 +198,5 @@
       8.05,
       9.17
     ]
-  },
-  "reference": "04330004IJO"
+  }
 }

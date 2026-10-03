@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10480",
   "country": "NOR",
+  "reference": "03440004TCJ",
   "name": "la Sirena",
   "rating": {
     "gph": 598.1,
@@ -197,6 +198,5 @@
       8.3,
       9.08
     ]
-  },
-  "reference": "03440004TCJ"
+  }
 }

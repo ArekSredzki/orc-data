@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8697",
   "country": "ESP",
+  "reference": "03510004HFP",
   "name": "ENEWTEC",
   "rating": {
     "gph": 652.2,
@@ -197,6 +198,5 @@
       7.72,
       8.43
     ]
-  },
-  "reference": "03510004HFP"
+  }
 }

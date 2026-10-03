@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14711",
   "country": "ITA",
+  "reference": "03190004P4W",
   "name": "EXCELLENT",
   "rating": {
     "gph": 608.3,
@@ -197,6 +198,5 @@
       7.85,
       8.68
     ]
-  },
-  "reference": "03190004P4W"
+  }
 }

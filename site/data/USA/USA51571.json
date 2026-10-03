@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51571",
   "country": "USA",
+  "reference": "04560004TDW",
   "name": "LITTLE HOULIGAN",
   "rating": {
     "gph": 612.7,
@@ -197,6 +198,5 @@
       8.04,
       10.12
     ]
-  },
-  "reference": "04560004TDW"
+  }
 }

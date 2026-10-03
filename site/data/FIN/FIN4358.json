@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN4358",
   "country": "FIN",
+  "reference": "04140004UUN",
   "name": "Margareta",
   "rating": {
     "gph": 779.0,
@@ -197,6 +198,5 @@
       6.6,
       7.24
     ]
-  },
-  "reference": "04140004UUN"
+  }
 }

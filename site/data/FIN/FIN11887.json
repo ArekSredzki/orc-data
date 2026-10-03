@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11887",
   "country": "FIN",
+  "reference": "04140004T03",
   "name": "Filao",
   "rating": {
     "gph": 646.7,
@@ -197,6 +198,5 @@
       7.71,
       8.41
     ]
-  },
-  "reference": "04140004T03"
+  }
 }

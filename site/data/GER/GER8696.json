@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8696",
   "country": "GER",
+  "reference": "03520004NOT",
   "name": "EXCITER",
   "rating": {
     "gph": 549.2,
@@ -197,6 +198,5 @@
       9.38,
       11.8
     ]
-  },
-  "reference": "03520004NOT"
+  }
 }

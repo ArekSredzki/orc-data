@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9322",
   "country": "NOR",
+  "reference": "03440004L3N",
   "name": "Tarzan",
   "rating": {
     "gph": 669.4,
@@ -197,6 +198,5 @@
       7.5,
       8.22
     ]
-  },
-  "reference": "03440004L3N"
+  }
 }

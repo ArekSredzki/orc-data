@@ -1,6 +1,7 @@
 {
   "sailnumber": "SLO/SLO4150",
   "country": "SLO",
+  "reference": "03090004M29",
   "name": "Taia 2 & White Goose",
   "rating": {
     "gph": 535.4,
@@ -197,6 +198,5 @@
       9.51,
       11.98
     ]
-  },
-  "reference": "03090004M29"
+  }
 }

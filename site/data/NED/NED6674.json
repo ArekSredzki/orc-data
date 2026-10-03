@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6674",
   "country": "NED",
+  "reference": "04310004MV9",
   "name": "Xanadu",
   "rating": {
     "gph": 618.0,
@@ -197,6 +198,5 @@
       8.16,
       8.92
     ]
-  },
-  "reference": "04310004MV9"
+  }
 }

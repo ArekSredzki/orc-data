@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm4",
   "country": "AUS",
+  "reference": "03020004T1A",
   "name": "WICKED",
   "rating": {
     "gph": 578.9,
@@ -197,6 +198,5 @@
       8.59,
       9.53
     ]
-  },
-  "reference": "03020004T1A"
+  }
 }

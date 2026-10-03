@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO454",
   "country": "CRO",
+  "reference": "03620004IS4",
   "name": "Damaco",
   "rating": {
     "gph": 521.9,
@@ -197,6 +198,5 @@
       9.06,
       10.93
     ]
-  },
-  "reference": "03620004IS4"
+  }
 }

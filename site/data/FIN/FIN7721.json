@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN7721",
   "country": "FIN",
+  "reference": "04140004R1A",
   "name": "ExTempore",
   "rating": {
     "gph": 607.4,
@@ -197,6 +198,5 @@
       8.01,
       8.67
     ]
-  },
-  "reference": "04140004R1A"
+  }
 }

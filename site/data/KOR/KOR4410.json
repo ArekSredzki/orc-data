@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR4410",
   "country": "KOR",
+  "reference": "04550004W8R",
   "name": "Decision",
   "rating": {
     "gph": 642.4,
@@ -197,6 +198,5 @@
       7.66,
       8.34
     ]
-  },
-  "reference": "04550004W8R"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15225",
   "country": "ITA",
+  "reference": "03190004U7R",
   "name": "PEDRO PROIETTILE",
   "rating": {
     "gph": 574.4,
@@ -197,6 +198,5 @@
       8.6,
       9.69
     ]
-  },
-  "reference": "03190004U7R"
+  }
 }

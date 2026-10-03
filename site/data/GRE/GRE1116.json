@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1116",
   "country": "GRE",
+  "reference": "03420004R3S",
   "name": "IAMOS",
   "rating": {
     "gph": 704.1,
@@ -197,6 +198,5 @@
       7.42,
       8.04
     ]
-  },
-  "reference": "03420004R3S"
+  }
 }

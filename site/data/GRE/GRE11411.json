@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE11411",
   "country": "GRE",
+  "reference": "03420004HT0",
   "name": "KOALA VI",
   "rating": {
     "gph": 577.1,
@@ -197,6 +198,5 @@
       8.64,
       9.33
     ]
-  },
-  "reference": "03420004HT0"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/RF89",
   "country": "AUS",
+  "reference": "03020004VWN",
   "name": "DON'T PANIC",
   "rating": {
     "gph": 477.4,
@@ -197,6 +198,5 @@
       14.61,
       17.28
     ]
-  },
-  "reference": "03020004VWN"
+  }
 }

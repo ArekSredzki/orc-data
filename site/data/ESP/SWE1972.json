@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/SWE1972",
   "country": "ESP",
+  "reference": "03510004VPN",
   "name": "Garm",
   "rating": {
     "gph": 474.7,
@@ -197,6 +198,5 @@
       12.69,
       16.11
     ]
-  },
-  "reference": "03510004VPN"
+  }
 }

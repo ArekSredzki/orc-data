@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL14100",
   "country": "POL",
+  "reference": "04410004W15",
   "name": "LOW BUDGET",
   "rating": {
     "gph": 629.6,
@@ -197,6 +198,5 @@
       8.57,
       10.91
     ]
-  },
-  "reference": "04410004W15"
+  }
 }

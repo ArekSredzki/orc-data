@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO4465",
   "country": "CRO",
+  "reference": "03620004R9U",
   "name": "Mr. J",
   "rating": {
     "gph": 570.1,
@@ -197,6 +198,5 @@
       8.94,
       11.33
     ]
-  },
-  "reference": "03620004R9U"
+  }
 }

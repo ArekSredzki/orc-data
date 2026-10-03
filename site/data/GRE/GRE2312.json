@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2312",
   "country": "GRE",
+  "reference": "03420004VJB",
   "name": "ARKTOS",
   "rating": {
     "gph": 681.2,
@@ -197,6 +198,5 @@
       7.12,
       7.67
     ]
-  },
-  "reference": "03420004VJB"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14430",
   "country": "NOR",
+  "reference": "03440004KEH",
   "name": "Anna Serine",
   "rating": {
     "gph": 604.9,
@@ -197,6 +198,5 @@
       8.04,
       9.74
     ]
-  },
-  "reference": "03440004KEH"
+  }
 }

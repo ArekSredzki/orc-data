@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7745",
   "country": "NED",
+  "reference": "04310004K02",
   "name": "Wild Romance",
   "rating": {
     "gph": 683.8,
@@ -197,6 +198,5 @@
       7.52,
       8.25
     ]
-  },
-  "reference": "04310004K02"
+  }
 }

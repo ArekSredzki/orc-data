@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR28001",
   "country": "TUR",
+  "reference": "04590004ILC",
   "name": "CODE ZERO",
   "rating": {
     "gph": 590.1,
@@ -197,6 +198,5 @@
       10.37,
       13.52
     ]
-  },
-  "reference": "04590004ILC"
+  }
 }

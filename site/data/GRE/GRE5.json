@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE5",
   "country": "GRE",
+  "reference": "03420004TA3",
   "name": "AIX",
   "rating": {
     "gph": 605.5,
@@ -197,6 +198,5 @@
       8.13,
       9.03
     ]
-  },
-  "reference": "03420004TA3"
+  }
 }

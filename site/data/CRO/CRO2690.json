@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2690",
   "country": "CRO",
+  "reference": "03620004W2I",
   "name": "Dora",
   "rating": {
     "gph": 526.7,
@@ -197,6 +198,5 @@
       9.14,
       10.15
     ]
-  },
-  "reference": "03620004W2I"
+  }
 }

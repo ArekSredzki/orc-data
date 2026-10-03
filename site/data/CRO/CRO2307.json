@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2307",
   "country": "CRO",
+  "reference": "03620004MCF",
   "name": "Galata",
   "rating": {
     "gph": 569.9,
@@ -197,6 +198,5 @@
       8.78,
       9.62
     ]
-  },
-  "reference": "03620004MCF"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12407",
   "country": "FIN",
+  "reference": "04140004TR0",
   "name": "Fun4Us",
   "rating": {
     "gph": 603.4,
@@ -197,6 +198,5 @@
       8.28,
       9.1
     ]
-  },
-  "reference": "04140004TR0"
+  }
 }

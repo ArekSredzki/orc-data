@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN3387",
   "country": "JPN",
+  "reference": "03390004N3Q",
   "name": "BASIC",
   "rating": {
     "gph": 621.8,
@@ -197,6 +198,5 @@
       7.85,
       8.83
     ]
-  },
-  "reference": "03390004N3Q"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/X99376",
   "country": "GER",
+  "reference": "03520004PNJ",
   "name": "X-DREAM",
   "rating": {
     "gph": 632.8,
@@ -197,6 +198,5 @@
       7.9,
       9.14
     ]
-  },
-  "reference": "03520004PNJ"
+  }
 }

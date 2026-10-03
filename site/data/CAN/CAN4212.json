@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN4212",
   "country": "CAN",
+  "reference": "03430004WTM",
   "name": "Black Swan",
   "rating": {
     "gph": 533.8,
@@ -197,6 +198,5 @@
       9.25,
       11.48
     ]
-  },
-  "reference": "03430004WTM"
+  }
 }

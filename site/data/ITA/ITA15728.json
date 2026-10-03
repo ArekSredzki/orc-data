@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15728",
   "country": "ITA",
+  "reference": "03190004T2I",
   "name": "ALADIVENTO",
   "rating": {
     "gph": 623.7,
@@ -197,6 +198,5 @@
       7.8,
       9.13
     ]
-  },
-  "reference": "03190004T2I"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/B25140",
   "country": "GER",
+  "reference": "03520004T66",
   "name": "HEDDA",
   "rating": {
     "gph": 663.2,
@@ -197,6 +198,5 @@
       7.75,
       10.61
     ]
-  },
-  "reference": "03520004T66"
+  }
 }

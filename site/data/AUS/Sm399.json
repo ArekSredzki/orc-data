@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm399",
   "country": "AUS",
+  "reference": "03020004TNH",
   "name": "SUNDOWNER",
   "rating": {
     "gph": 713.6,
@@ -197,6 +198,5 @@
       7.08,
       7.66
     ]
-  },
-  "reference": "03020004TNH"
+  }
 }

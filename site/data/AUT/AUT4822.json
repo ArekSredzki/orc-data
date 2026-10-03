@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT4822",
   "country": "AUT",
+  "reference": "03210004RO7",
   "name": "Vento Cadela",
   "rating": {
     "gph": 593.6,
@@ -197,6 +198,5 @@
       8.38,
       9.19
     ]
-  },
-  "reference": "03210004RO7"
+  }
 }

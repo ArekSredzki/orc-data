@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14365",
   "country": "ITA",
+  "reference": "03190004OO3",
   "name": "FANTASIA PLUS",
   "rating": {
     "gph": 568.1,
@@ -197,6 +198,5 @@
       8.52,
       10.49
     ]
-  },
-  "reference": "03190004OO3"
+  }
 }

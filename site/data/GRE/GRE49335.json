@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49335",
   "country": "GRE",
+  "reference": "03420004I4J",
   "name": "ERODIOS",
   "rating": {
     "gph": 774.6,
@@ -197,6 +198,5 @@
       6.62,
       7.14
     ]
-  },
-  "reference": "03420004I4J"
+  }
 }

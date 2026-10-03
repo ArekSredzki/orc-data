@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2937",
   "country": "ESP",
+  "reference": "03510004C9C",
   "name": "RETI",
   "rating": {
     "gph": 652.1,
@@ -197,6 +198,5 @@
       7.52,
       8.19
     ]
-  },
-  "reference": "03510004C9C"
+  }
 }

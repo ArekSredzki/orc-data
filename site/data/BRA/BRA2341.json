@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2341",
   "country": "BRA",
+  "reference": "04420004VFT",
   "name": "ORSON",
   "rating": {
     "gph": 623.9,
@@ -197,6 +198,5 @@
       8.08,
       8.84
     ]
-  },
-  "reference": "04420004VFT"
+  }
 }

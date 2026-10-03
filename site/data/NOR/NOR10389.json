@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10389",
   "country": "NOR",
+  "reference": "03440004L3R",
   "name": "Filippa",
   "rating": {
     "gph": 621.0,
@@ -197,6 +198,5 @@
       7.84,
       8.54
     ]
-  },
-  "reference": "03440004L3R"
+  }
 }

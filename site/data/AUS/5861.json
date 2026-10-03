@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/5861",
   "country": "AUS",
+  "reference": "03020004UDN",
   "name": "JACOBINA",
   "rating": {
     "gph": 627.9,
@@ -197,6 +198,5 @@
       7.92,
       9.3
     ]
-  },
-  "reference": "03020004UDN"
+  }
 }

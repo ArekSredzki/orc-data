@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER468",
   "country": "GER",
+  "reference": "03520004Q01",
   "name": "GERMANIA VI",
   "rating": {
     "gph": 553.0,
@@ -197,6 +198,5 @@
       9.11,
       9.73
     ]
-  },
-  "reference": "03520004Q01"
+  }
 }

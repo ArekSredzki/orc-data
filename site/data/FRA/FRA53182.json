@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53182",
   "country": "FRA",
+  "reference": "04330004TFJ",
   "name": "BLUE 4 PEPPER",
   "rating": {
     "gph": 594.3,
@@ -197,6 +198,5 @@
       8.78,
       11.61
     ]
-  },
-  "reference": "04330004TFJ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR6235",
   "country": "NOR",
+  "reference": "03440004QMO",
   "name": "LBS",
   "rating": {
     "gph": 672.0,
@@ -197,6 +198,5 @@
       7.55,
       9.69
     ]
-  },
-  "reference": "03440004QMO"
+  }
 }

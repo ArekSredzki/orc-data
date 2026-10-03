@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2416",
   "country": "BRA",
+  "reference": "04420004C4D",
   "name": "DACHA 6",
   "rating": {
     "gph": 596.1,
@@ -197,6 +198,5 @@
       9.54,
       11.92
     ]
-  },
-  "reference": "04420004C4D"
+  }
 }

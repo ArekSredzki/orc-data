@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16854",
   "country": "ITA",
+  "reference": "03190004OPL",
   "name": "MY WAY",
   "rating": {
     "gph": 560.7,
@@ -197,6 +198,5 @@
       8.49,
       9.18
     ]
-  },
-  "reference": "03190004OPL"
+  }
 }

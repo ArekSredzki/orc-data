@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU420",
   "country": "LTU",
+  "reference": "03590004V0S",
   "name": "ALFETA",
   "rating": {
     "gph": 641.2,
@@ -197,6 +198,5 @@
       9.09,
       12.22
     ]
-  },
-  "reference": "03590004V0S"
+  }
 }

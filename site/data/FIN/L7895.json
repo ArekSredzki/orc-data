@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/L7895",
   "country": "FIN",
+  "reference": "04140004V4S",
   "name": "Aikapoika IV",
   "rating": {
     "gph": 703.8,
@@ -197,6 +198,5 @@
       7.2,
       7.74
     ]
-  },
-  "reference": "04140004V4S"
+  }
 }

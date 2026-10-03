@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA40025",
   "country": "USA",
+  "reference": "04560004V8V",
   "name": "SOLUTION",
   "rating": {
     "gph": 525.7,
@@ -197,6 +198,5 @@
       10.15,
       13.08
     ]
-  },
-  "reference": "04560004V8V"
+  }
 }

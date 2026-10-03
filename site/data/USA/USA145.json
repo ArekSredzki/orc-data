@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA145",
   "country": "USA",
+  "reference": "04560004QQO",
   "name": "VELOCITY",
   "rating": {
     "gph": 503.3,
@@ -197,6 +198,5 @@
       11.62,
       15.23
     ]
-  },
-  "reference": "04560004QQO"
+  }
 }

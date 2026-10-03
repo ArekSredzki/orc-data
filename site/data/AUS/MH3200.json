@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/MH3200",
   "country": "AUS",
+  "reference": "03020004UB3",
   "name": "ATRAXIA",
   "rating": {
     "gph": 632.0,
@@ -197,6 +198,5 @@
       8.09,
       9.22
     ]
-  },
-  "reference": "03020004UB3"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GER7648",
   "country": "ITA",
+  "reference": "03190004S9U",
   "name": "PRACTICE TIME",
   "rating": {
     "gph": 527.8,
@@ -197,6 +198,5 @@
       12.16,
       15.34
     ]
-  },
-  "reference": "03190004S9U"
+  }
 }

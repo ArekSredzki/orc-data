@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61469",
   "country": "USA",
+  "reference": "04560004VIS",
   "name": "Fjord",
   "rating": {
     "gph": 439.6,
@@ -197,6 +198,5 @@
       13.5,
       16.6
     ]
-  },
-  "reference": "04560004VIS"
+  }
 }

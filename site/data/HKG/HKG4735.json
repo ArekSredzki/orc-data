@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG4735",
   "country": "HKG",
+  "reference": "038800048B4",
   "name": "BUCEPHALUS",
   "rating": {
     "gph": 670.3,
@@ -197,6 +198,5 @@
       7.46,
       8.23
     ]
-  },
-  "reference": "038800048B4"
+  }
 }

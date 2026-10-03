@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61287",
   "country": "USA",
+  "reference": "04560004OJV",
   "name": "WAVE DANCER",
   "rating": {
     "gph": 600.0,
@@ -197,6 +198,5 @@
       8.41,
       11.29
     ]
-  },
-  "reference": "04560004OJV"
+  }
 }

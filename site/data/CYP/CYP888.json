@@ -1,6 +1,7 @@
 {
   "sailnumber": "CYP/CYP888",
   "country": "CYP",
+  "reference": "03470004W2Q",
   "name": "ARGONAFTIS",
   "rating": {
     "gph": 683.0,
@@ -197,6 +198,5 @@
       7.24,
       7.94
     ]
-  },
-  "reference": "03470004W2Q"
+  }
 }

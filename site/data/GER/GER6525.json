@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6525",
   "country": "GER",
+  "reference": "04150004IV2",
   "name": "TULIP",
   "rating": {
     "gph": 626.5,
@@ -197,6 +198,5 @@
       8.03,
       8.81
     ]
-  },
-  "reference": "04150004IV2"
+  }
 }

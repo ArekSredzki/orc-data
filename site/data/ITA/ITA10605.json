@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10605",
   "country": "ITA",
+  "reference": "03190004RIQ",
   "name": "VELENO III",
   "rating": {
     "gph": 693.4,
@@ -197,6 +198,5 @@
       7.44,
       9.15
     ]
-  },
-  "reference": "03190004RIQ"
+  }
 }

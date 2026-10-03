@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2943",
   "country": "CRO",
+  "reference": "03620004K7B",
   "name": "Amazing Grace",
   "rating": {
     "gph": 641.5,
@@ -197,6 +198,5 @@
       7.99,
       8.6
     ]
-  },
-  "reference": "03620004K7B"
+  }
 }

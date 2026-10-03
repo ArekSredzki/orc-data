@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18165",
   "country": "ITA",
+  "reference": "03190004QCL",
   "name": "DANILU' 2",
   "rating": {
     "gph": 599.7,
@@ -197,6 +198,5 @@
       7.91,
       8.53
     ]
-  },
-  "reference": "03190004QCL"
+  }
 }

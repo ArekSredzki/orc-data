@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/A004",
   "country": "ARG",
+  "reference": "03880004N10",
   "name": "TOBA",
   "rating": {
     "gph": 694.2,
@@ -197,6 +198,5 @@
       7.25,
       7.91
     ]
-  },
-  "reference": "03880004N10"
+  }
 }

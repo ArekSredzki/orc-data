@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE203",
   "country": "GRE",
+  "reference": "03420004I4R",
   "name": "BULLDOG",
   "rating": {
     "gph": 674.1,
@@ -197,6 +198,5 @@
       7.45,
       8.07
     ]
-  },
-  "reference": "03420004I4R"
+  }
 }

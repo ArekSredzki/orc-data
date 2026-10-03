@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52052",
   "country": "USA",
+  "reference": "04560004SAE",
   "name": "Prospector",
   "rating": {
     "gph": 428.8,
@@ -197,6 +198,5 @@
       13.47,
       16.93
     ]
-  },
-  "reference": "04560004SAE"
+  }
 }

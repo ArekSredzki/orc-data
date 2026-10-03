@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER2193",
   "country": "GER",
+  "reference": "04150004OTL",
   "name": "TRUWEN",
   "rating": {
     "gph": 670.5,
@@ -197,6 +198,5 @@
       7.1,
       7.59
     ]
-  },
-  "reference": "04150004OTL"
+  }
 }

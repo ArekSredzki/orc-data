@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GER8059",
   "country": "ESP",
+  "reference": "03510004Q77",
   "name": "LIKEDEELER",
   "rating": {
     "gph": 631.2,
@@ -197,6 +198,5 @@
       7.52,
       8.78
     ]
-  },
-  "reference": "03510004Q77"
+  }
 }

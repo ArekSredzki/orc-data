@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11467_C",
   "country": "ESP",
+  "reference": "03510004HBC",
   "name": "HOOKIPA",
   "rating": {
     "gph": 630.0,
@@ -197,6 +198,5 @@
       7.8,
       8.57
     ]
-  },
-  "reference": "03510004HBC"
+  }
 }

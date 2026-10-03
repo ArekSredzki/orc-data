@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2750",
   "country": "CRO",
+  "reference": "03620004B6M",
   "name": "Tamikaya",
   "rating": {
     "gph": 661.0,
@@ -197,6 +198,5 @@
       7.31,
       7.84
     ]
-  },
-  "reference": "03620004B6M"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9915",
   "country": "FRA",
+  "reference": "04330004FL4",
   "name": "LEVENEZ",
   "rating": {
     "gph": 598.7,
@@ -197,6 +198,5 @@
       8.26,
       9.07
     ]
-  },
-  "reference": "04330004FL4"
+  }
 }

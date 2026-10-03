@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9067",
   "country": "NED",
+  "reference": "04310004K2F",
   "name": "Hinder",
   "rating": {
     "gph": 614.8,
@@ -197,6 +198,5 @@
       8.02,
       8.78
     ]
-  },
-  "reference": "04310004K2F"
+  }
 }

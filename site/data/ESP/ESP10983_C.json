@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10983_C",
   "country": "ESP",
+  "reference": "03510004KE5",
   "name": "KANALOA",
   "rating": {
     "gph": 607.6,
@@ -197,6 +198,5 @@
       7.98,
       8.73
     ]
-  },
-  "reference": "03510004KE5"
+  }
 }

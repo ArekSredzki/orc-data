@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1173",
   "country": "GRE",
+  "reference": "03420004NJ5",
   "name": "AELLO",
   "rating": {
     "gph": 680.2,
@@ -197,6 +198,5 @@
       7.42,
       8.08
     ]
-  },
-  "reference": "03420004NJ5"
+  }
 }

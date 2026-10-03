@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAMLI24",
   "country": "ITA",
+  "reference": "03190004S2K",
   "name": "GIA' AMELIE",
   "rating": {
     "gph": 637.7,
@@ -197,6 +198,5 @@
       7.5,
       8.08
     ]
-  },
-  "reference": "03190004S2K"
+  }
 }

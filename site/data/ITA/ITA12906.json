@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12906",
   "country": "ITA",
+  "reference": "03190004PPH",
   "name": "SILVER AGE",
   "rating": {
     "gph": 551.4,
@@ -197,6 +198,5 @@
       9.29,
       11.7
     ]
-  },
-  "reference": "03190004PPH"
+  }
 }

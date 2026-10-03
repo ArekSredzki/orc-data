@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR8236",
   "country": "POR",
+  "reference": "03530004LCS",
   "name": "SWING",
   "rating": {
     "gph": 563.6,
@@ -197,6 +198,5 @@
       8.84,
       9.63
     ]
-  },
-  "reference": "03530004LCS"
+  }
 }

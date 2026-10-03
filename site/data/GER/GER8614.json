@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8614",
   "country": "GER",
+  "reference": "04150004ONS",
   "name": "AQUILON",
   "rating": {
     "gph": 607.7,
@@ -197,6 +198,5 @@
       8.77,
       11.47
     ]
-  },
-  "reference": "04150004ONS"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1563",
   "country": "GRE",
+  "reference": "03420004HC5",
   "name": "PILEFS",
   "rating": {
     "gph": 696.2,
@@ -197,6 +198,5 @@
       6.95,
       7.41
     ]
-  },
-  "reference": "03420004HC5"
+  }
 }

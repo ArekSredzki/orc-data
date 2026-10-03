@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS4787",
   "country": "AUS",
+  "reference": "03020004V74",
   "name": "BIRUBI",
   "rating": {
     "gph": 728.9,
@@ -197,6 +198,5 @@
       6.85,
       7.78
     ]
-  },
-  "reference": "03020004V74"
+  }
 }

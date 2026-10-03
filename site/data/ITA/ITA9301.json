@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA9301",
   "country": "ITA",
+  "reference": "03190004NOF",
   "name": "SPLASH",
   "rating": {
     "gph": 613.1,
@@ -197,6 +198,5 @@
       8.85,
       11.47
     ]
-  },
-  "reference": "03190004NOF"
+  }
 }

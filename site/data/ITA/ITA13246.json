@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13246",
   "country": "ITA",
+  "reference": "03190004TJ0",
   "name": "SCIATT",
   "rating": {
     "gph": 636.1,
@@ -197,6 +198,5 @@
       9.32,
       12.41
     ]
-  },
-  "reference": "03190004TJ0"
+  }
 }

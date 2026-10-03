@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13541",
   "country": "NOR",
+  "reference": "03440004NKE",
   "name": "Saga",
   "rating": {
     "gph": 680.3,
@@ -197,6 +198,5 @@
       7.54,
       8.33
     ]
-  },
-  "reference": "03440004NKE"
+  }
 }

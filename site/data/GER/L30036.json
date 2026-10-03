@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/L30036",
   "country": "GER",
+  "reference": "04150004M0N",
   "name": "DIAMOND",
   "rating": {
     "gph": 594.4,
@@ -197,6 +198,5 @@
       9.42,
       12.27
     ]
-  },
-  "reference": "04150004M0N"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN383",
   "country": "FIN",
+  "reference": "04140004R07",
   "name": "Marinella",
   "rating": {
     "gph": 670.3,
@@ -197,6 +198,5 @@
       7.41,
       7.99
     ]
-  },
-  "reference": "04140004R07"
+  }
 }

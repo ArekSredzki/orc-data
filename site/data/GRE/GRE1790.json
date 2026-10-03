@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1790",
   "country": "GRE",
+  "reference": "03420004HBN",
   "name": "APNEA",
   "rating": {
     "gph": 658.8,
@@ -197,6 +198,5 @@
       7.92,
       8.54
     ]
-  },
-  "reference": "03420004HBN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ECU/ECU1494",
   "country": "ECU",
+  "reference": "03880004KOR",
   "name": "CURADDAU",
   "rating": {
     "gph": 566.0,
@@ -197,6 +198,5 @@
       8.71,
       9.79
     ]
-  },
-  "reference": "03880004KOR"
+  }
 }

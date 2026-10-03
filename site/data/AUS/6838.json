@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/6838",
   "country": "AUS",
+  "reference": "03020004W4B",
   "name": "PONYO",
   "rating": {
     "gph": 526.5,
@@ -197,6 +198,5 @@
       10.27,
       13.0
     ]
-  },
-  "reference": "03020004W4B"
+  }
 }

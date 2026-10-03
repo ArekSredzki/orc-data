@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4382",
   "country": "RSA",
+  "reference": "04620004PWS",
   "name": "Aweh",
   "rating": {
     "gph": 563.1,
@@ -197,6 +198,5 @@
       9.23,
       11.97
     ]
-  },
-  "reference": "04620004PWS"
+  }
 }

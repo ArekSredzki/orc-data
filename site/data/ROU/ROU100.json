@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU100",
   "country": "ROU",
+  "reference": "05040004WVA",
   "name": "Santa Clara",
   "rating": {
     "gph": 684.7,
@@ -197,6 +198,5 @@
       7.48,
       8.1
     ]
-  },
-  "reference": "05040004WVA"
+  }
 }

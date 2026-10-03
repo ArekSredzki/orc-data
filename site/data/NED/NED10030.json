@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED10030",
   "country": "NED",
+  "reference": "04310004KMP",
   "name": "Storm",
   "rating": {
     "gph": 600.5,
@@ -197,6 +198,5 @@
       8.57,
       11.98
     ]
-  },
-  "reference": "04310004KMP"
+  }
 }

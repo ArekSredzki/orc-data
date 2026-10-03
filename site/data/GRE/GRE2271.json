@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2271",
   "country": "GRE",
+  "reference": "03420004QK9",
   "name": "COPANA",
   "rating": {
     "gph": 692.4,
@@ -197,6 +198,5 @@
       8.57,
       11.46
     ]
-  },
-  "reference": "03420004QK9"
+  }
 }

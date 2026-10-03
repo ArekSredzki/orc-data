@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11315",
   "country": "NOR",
+  "reference": "03440004S04",
   "name": "XSARESA",
   "rating": {
     "gph": 613.6,
@@ -197,6 +198,5 @@
       8.06,
       8.79
     ]
-  },
-  "reference": "03440004S04"
+  }
 }

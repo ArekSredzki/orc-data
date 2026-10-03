@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14391",
   "country": "NOR",
+  "reference": "03440004M4J",
   "name": "Ajda",
   "rating": {
     "gph": 616.9,
@@ -197,6 +198,5 @@
       8.26,
       9.05
     ]
-  },
-  "reference": "03440004M4J"
+  }
 }

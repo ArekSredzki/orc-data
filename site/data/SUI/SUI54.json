@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI54",
   "country": "SUI",
+  "reference": "03080004J9S",
   "name": "WUSCHEL vor",
   "rating": {
     "gph": 670.0,
@@ -197,6 +198,5 @@
       7.49,
       8.32
     ]
-  },
-  "reference": "03080004J9S"
+  }
 }

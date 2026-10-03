@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14041",
   "country": "NOR",
+  "reference": "03440004N9Q",
   "name": "Alabama",
   "rating": {
     "gph": 614.5,
@@ -197,6 +198,5 @@
       8.15,
       8.87
     ]
-  },
-  "reference": "03440004N9Q"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG2298",
   "country": "HKG",
+  "reference": "03880004V4T",
   "name": "OCEANS FIVE",
   "rating": {
     "gph": 561.9,
@@ -197,6 +198,5 @@
       8.39,
       10.32
     ]
-  },
-  "reference": "03880004V4T"
+  }
 }

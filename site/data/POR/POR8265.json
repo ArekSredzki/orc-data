@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR8265",
   "country": "POR",
+  "reference": "03530004VK0",
   "name": "BOREAS",
   "rating": {
     "gph": 657.2,
@@ -197,6 +198,5 @@
       7.67,
       8.33
     ]
-  },
-  "reference": "03530004VK0"
+  }
 }

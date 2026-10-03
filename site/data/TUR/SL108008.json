@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/SL108008",
   "country": "TUR",
+  "reference": "04590004HMN",
   "name": "ENERGI/MBS",
   "rating": {
     "gph": 673.2,
@@ -197,6 +198,5 @@
       7.39,
       8.21
     ]
-  },
-  "reference": "04590004HMN"
+  }
 }

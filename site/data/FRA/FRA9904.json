@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9904",
   "country": "FRA",
+  "reference": "04330004POA",
   "name": "SKIPPI",
   "rating": {
     "gph": 694.5,
@@ -197,6 +198,5 @@
       8.33,
       11.48
     ]
-  },
-  "reference": "04330004POA"
+  }
 }

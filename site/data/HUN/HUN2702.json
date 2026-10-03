@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN2702",
   "country": "HUN",
+  "reference": "04890004W8K",
   "name": "FRAM",
   "rating": {
     "gph": 610.8,
@@ -197,6 +198,5 @@
       9.31,
       12.54
     ]
-  },
-  "reference": "04890004W8K"
+  }
 }

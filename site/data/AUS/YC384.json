@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/YC384",
   "country": "AUS",
+  "reference": "03020004W7K",
   "name": "AEOLUS",
   "rating": {
     "gph": 502.2,
@@ -197,6 +198,5 @@
       12.52,
       15.92
     ]
-  },
-  "reference": "03020004W7K"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP43660_C",
   "country": "ESP",
+  "reference": "03510004BKJ",
   "name": "PUPULE",
   "rating": {
     "gph": 611.7,
@@ -197,6 +198,5 @@
       8.35,
       11.64
     ]
-  },
-  "reference": "03510004BKJ"
+  }
 }

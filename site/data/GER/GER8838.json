@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8838",
   "country": "GER",
+  "reference": "03520004NPN",
   "name": "SKALDYR",
   "rating": {
     "gph": 597.0,
@@ -197,6 +198,5 @@
       8.04,
       9.54
     ]
-  },
-  "reference": "03520004NPN"
+  }
 }

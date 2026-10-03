@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN6889",
   "country": "FIN",
+  "reference": "04140004HD3",
   "name": "Baladeur",
   "rating": {
     "gph": 702.9,
@@ -197,6 +198,5 @@
       7.2,
       7.81
     ]
-  },
-  "reference": "04140004HD3"
+  }
 }

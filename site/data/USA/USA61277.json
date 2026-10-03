@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61277",
   "country": "USA",
+  "reference": "04560004J7T",
   "name": "WANI RACING",
   "rating": {
     "gph": 695.3,
@@ -197,6 +198,5 @@
       7.21,
       7.8
     ]
-  },
-  "reference": "04560004J7T"
+  }
 }

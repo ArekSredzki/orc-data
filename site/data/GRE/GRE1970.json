@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1970",
   "country": "GRE",
+  "reference": "03420004OU5",
   "name": "PENELOPE",
   "rating": {
     "gph": 756.0,
@@ -197,6 +198,5 @@
       7.16,
       7.82
     ]
-  },
-  "reference": "03420004OU5"
+  }
 }

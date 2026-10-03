@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO182",
   "country": "CRO",
+  "reference": "03620004R9I",
   "name": "Pomorski ST",
   "rating": {
     "gph": 532.2,
@@ -197,6 +198,5 @@
       12.57,
       15.73
     ]
-  },
-  "reference": "03620004R9I"
+  }
 }

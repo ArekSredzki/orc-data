@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL001",
   "country": "POL",
+  "reference": "04410004W1A",
   "name": "KONSAL",
   "rating": {
     "gph": 592.0,
@@ -197,6 +198,5 @@
       8.24,
       10.1
     ]
-  },
-  "reference": "04410004W1A"
+  }
 }

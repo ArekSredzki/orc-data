@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI125",
   "country": "SUI",
+  "reference": "03080004TBV",
   "name": "YAHOO",
   "rating": {
     "gph": 598.4,
@@ -197,6 +198,5 @@
       8.77,
       11.06
     ]
-  },
-  "reference": "03080004TBV"
+  }
 }

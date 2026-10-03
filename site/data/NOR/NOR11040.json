@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11040",
   "country": "NOR",
+  "reference": "03440004L3W",
   "name": "Flying Circus",
   "rating": {
     "gph": 617.2,
@@ -197,6 +198,5 @@
       8.13,
       8.8
     ]
-  },
-  "reference": "03440004L3W"
+  }
 }

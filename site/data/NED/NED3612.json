@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3612",
   "country": "NED",
+  "reference": "04310004JU0",
   "name": "Senna",
   "rating": {
     "gph": 609.1,
@@ -197,6 +198,5 @@
       8.25,
       9.23
     ]
-  },
-  "reference": "04310004JU0"
+  }
 }

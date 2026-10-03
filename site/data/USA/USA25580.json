@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25580",
   "country": "USA",
+  "reference": "04560004RJC",
   "name": "Cheep N Deep II",
   "rating": {
     "gph": 554.8,
@@ -197,6 +198,5 @@
       8.57,
       9.32
     ]
-  },
-  "reference": "04560004RJC"
+  }
 }

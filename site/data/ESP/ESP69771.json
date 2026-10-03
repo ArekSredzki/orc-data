@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP69771",
   "country": "ESP",
+  "reference": "03510004C1I",
   "name": "JAY",
   "rating": {
     "gph": 618.9,
@@ -197,6 +198,5 @@
       7.88,
       8.7
     ]
-  },
-  "reference": "03510004C1I"
+  }
 }

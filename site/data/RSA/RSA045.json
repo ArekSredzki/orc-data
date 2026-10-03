@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA045",
   "country": "RSA",
+  "reference": "0462000486F",
   "name": "Strega",
   "rating": {
     "gph": 715.5,
@@ -197,6 +198,5 @@
       7.36,
       8.43
     ]
-  },
-  "reference": "0462000486F"
+  }
 }

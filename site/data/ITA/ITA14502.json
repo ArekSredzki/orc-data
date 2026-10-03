@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14502",
   "country": "ITA",
+  "reference": "03190004HWM",
   "name": "GIUBA",
   "rating": {
     "gph": 584.3,
@@ -197,6 +198,5 @@
       8.0,
       8.61
     ]
-  },
-  "reference": "03190004HWM"
+  }
 }

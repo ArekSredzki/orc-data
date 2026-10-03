@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA048",
   "country": "RSA",
+  "reference": "04620004CA4",
   "name": "Prion",
   "rating": {
     "gph": 697.7,
@@ -197,6 +198,5 @@
       7.55,
       8.89
     ]
-  },
-  "reference": "04620004CA4"
+  }
 }

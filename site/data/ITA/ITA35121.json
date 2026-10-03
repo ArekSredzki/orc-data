@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA35121",
   "country": "ITA",
+  "reference": "03190004FLM",
   "name": "LINUX",
   "rating": {
     "gph": 604.0,
@@ -197,6 +198,5 @@
       8.17,
       9.09
     ]
-  },
-  "reference": "03190004FLM"
+  }
 }

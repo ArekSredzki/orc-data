@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/FIN9806",
   "country": "NED",
+  "reference": "04310004JRU",
   "name": "Boerderij",
   "rating": {
     "gph": 604.2,
@@ -197,6 +198,5 @@
       8.24,
       9.33
     ]
-  },
-  "reference": "04310004JRU"
+  }
 }

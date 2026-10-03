@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16264",
   "country": "ITA",
+  "reference": "03190004I8E",
   "name": "PARTENOPE",
   "rating": {
     "gph": 655.8,
@@ -197,6 +198,5 @@
       7.46,
       8.02
     ]
-  },
-  "reference": "03190004I8E"
+  }
 }

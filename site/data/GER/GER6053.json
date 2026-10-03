@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6053",
   "country": "GER",
+  "reference": "03520004FRR",
   "name": "SPIRIT",
   "rating": {
     "gph": 489.9,
@@ -197,6 +198,5 @@
       10.46,
       12.79
     ]
-  },
-  "reference": "03520004FRR"
+  }
 }

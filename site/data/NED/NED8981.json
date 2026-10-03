@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8981",
   "country": "NED",
+  "reference": "04310004KBV",
   "name": "Kaitaia",
   "rating": {
     "gph": 716.3,
@@ -197,6 +198,5 @@
       7.05,
       7.64
     ]
-  },
-  "reference": "04310004KBV"
+  }
 }

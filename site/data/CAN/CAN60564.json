@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN60564",
   "country": "CAN",
+  "reference": "03430004HCQ",
   "name": "Phoenix",
   "rating": {
     "gph": 540.7,
@@ -197,6 +198,5 @@
       8.83,
       10.44
     ]
-  },
-  "reference": "03430004HCQ"
+  }
 }

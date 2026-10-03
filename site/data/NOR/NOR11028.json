@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11028",
   "country": "NOR",
+  "reference": "03440004OO1",
   "name": "EL DORADO",
   "rating": {
     "gph": 648.7,
@@ -197,6 +198,5 @@
       7.75,
       8.44
     ]
-  },
-  "reference": "03440004OO1"
+  }
 }

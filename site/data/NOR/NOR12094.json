@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12094",
   "country": "NOR",
+  "reference": "03440004NB6",
   "name": "Pole Pole",
   "rating": {
     "gph": 671.0,
@@ -197,6 +198,5 @@
       7.45,
       8.08
     ]
-  },
-  "reference": "03440004NB6"
+  }
 }

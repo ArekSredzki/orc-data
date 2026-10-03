@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR3671",
   "country": "NOR",
+  "reference": "03440004Q5J",
   "name": "PIA II",
   "rating": {
     "gph": 703.7,
@@ -197,6 +198,5 @@
       6.75,
       7.23
     ]
-  },
-  "reference": "03440004Q5J"
+  }
 }

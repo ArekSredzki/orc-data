@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16365",
   "country": "NOR",
+  "reference": "03440004KEA",
   "name": "Hegren",
   "rating": {
     "gph": 670.0,
@@ -197,6 +198,5 @@
       7.38,
       8.17
     ]
-  },
-  "reference": "03440004KEA"
+  }
 }

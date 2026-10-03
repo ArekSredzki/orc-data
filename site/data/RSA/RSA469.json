@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA469",
   "country": "RSA",
+  "reference": "04620004885",
   "name": "Elwing",
   "rating": {
     "gph": 749.4,
@@ -197,6 +198,5 @@
       6.88,
       7.44
     ]
-  },
-  "reference": "04620004885"
+  }
 }

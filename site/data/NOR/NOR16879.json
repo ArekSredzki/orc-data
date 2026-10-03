@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16879",
   "country": "NOR",
+  "reference": "03440004RQI",
   "name": "Blaast",
   "rating": {
     "gph": 745.9,
@@ -197,6 +198,5 @@
       6.45,
       6.93
     ]
-  },
-  "reference": "03440004RQI"
+  }
 }

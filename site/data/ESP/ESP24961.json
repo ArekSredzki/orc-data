@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP24961",
   "country": "ESP",
+  "reference": "03510004J25",
   "name": "MARGARITA",
   "rating": {
     "gph": 753.0,
@@ -197,6 +198,5 @@
       6.93,
       7.6
     ]
-  },
-  "reference": "03510004J25"
+  }
 }

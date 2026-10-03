@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49049",
   "country": "GRE",
+  "reference": "03420004PSS",
   "name": "IRIDINI",
   "rating": {
     "gph": 709.1,
@@ -197,6 +198,5 @@
       6.76,
       7.24
     ]
-  },
-  "reference": "03420004PSS"
+  }
 }

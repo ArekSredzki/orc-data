@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED304",
   "country": "NED",
+  "reference": "04310004N4H",
   "name": "Aquavitesse 304",
   "rating": {
     "gph": 676.0,
@@ -197,6 +198,5 @@
       9.46,
       12.61
     ]
-  },
-  "reference": "04310004N4H"
+  }
 }

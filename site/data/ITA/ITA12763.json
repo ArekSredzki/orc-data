@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12763",
   "country": "ITA",
+  "reference": "03190004IPO",
   "name": "C'E' L'ESTE",
   "rating": {
     "gph": 577.0,
@@ -197,6 +198,5 @@
       8.43,
       9.41
     ]
-  },
-  "reference": "03190004IPO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/202",
   "country": "AUS",
+  "reference": "03020004TS9",
   "name": "Time Bandit",
   "rating": {
     "gph": 601.9,
@@ -197,6 +198,5 @@
       10.04,
       12.94
     ]
-  },
-  "reference": "03020004TS9"
+  }
 }

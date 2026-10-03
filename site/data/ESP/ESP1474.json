@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1474",
   "country": "ESP",
+  "reference": "03510004FTR",
   "name": "FORMIDABLE TAI",
   "rating": {
     "gph": 648.1,
@@ -197,6 +198,5 @@
       7.63,
       8.23
     ]
-  },
-  "reference": "03510004FTR"
+  }
 }

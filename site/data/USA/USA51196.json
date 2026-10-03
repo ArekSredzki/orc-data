@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51196",
   "country": "USA",
+  "reference": "04560004SAR",
   "name": "SPANKER",
   "rating": {
     "gph": 580.6,
@@ -197,6 +198,5 @@
       8.29,
       9.09
     ]
-  },
-  "reference": "04560004SAR"
+  }
 }

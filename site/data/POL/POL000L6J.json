@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL000L6J",
   "country": "POL",
+  "reference": "04410004RRS",
   "name": "SAY YES",
   "rating": {
     "gph": 658.8,
@@ -197,6 +198,5 @@
       7.37,
       7.91
     ]
-  },
-  "reference": "04410004RRS"
+  }
 }

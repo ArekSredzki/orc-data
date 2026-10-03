@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA109",
   "country": "ITA",
+  "reference": "03190004F6O",
   "name": "FREMITO D'ARJA",
   "rating": {
     "gph": 606.1,
@@ -197,6 +198,5 @@
       8.1,
       9.29
     ]
-  },
-  "reference": "03190004F6O"
+  }
 }

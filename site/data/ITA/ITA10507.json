@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10507",
   "country": "ITA",
+  "reference": "03190004IPL",
   "name": "CHIMERA",
   "rating": {
     "gph": 571.4,
@@ -197,6 +198,5 @@
       8.51,
       9.7
     ]
-  },
-  "reference": "03190004IPL"
+  }
 }

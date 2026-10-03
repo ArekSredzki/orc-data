@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/6070",
   "country": "AUS",
+  "reference": "03020004W8T",
   "name": "SYDNEY",
   "rating": {
     "gph": 483.7,
@@ -197,6 +198,5 @@
       10.06,
       11.23
     ]
-  },
-  "reference": "03020004W8T"
+  }
 }

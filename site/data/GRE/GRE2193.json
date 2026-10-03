@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2193",
   "country": "GRE",
+  "reference": "03420004LKE",
   "name": "THOMAS OWEN",
   "rating": {
     "gph": 614.0,
@@ -197,6 +198,5 @@
       8.46,
       9.23
     ]
-  },
-  "reference": "03420004LKE"
+  }
 }

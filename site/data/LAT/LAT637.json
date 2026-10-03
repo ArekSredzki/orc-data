@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT637",
   "country": "LAT",
+  "reference": "04960004VUB",
   "name": "Thora",
   "rating": {
     "gph": 585.4,
@@ -197,6 +198,5 @@
       8.28,
       10.4
     ]
-  },
-  "reference": "04960004VUB"
+  }
 }

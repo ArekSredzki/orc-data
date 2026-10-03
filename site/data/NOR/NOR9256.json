@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9256",
   "country": "NOR",
+  "reference": "03440004P3E",
   "name": "Detox",
   "rating": {
     "gph": 615.6,
@@ -197,6 +198,5 @@
       8.11,
       8.86
     ]
-  },
-  "reference": "03440004P3E"
+  }
 }

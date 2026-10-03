@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3039_C",
   "country": "ESP",
+  "reference": "03510004SNW",
   "name": "CARONTE",
   "rating": {
     "gph": 635.9,
@@ -197,6 +198,5 @@
       7.82,
       8.6
     ]
-  },
-  "reference": "03510004SNW"
+  }
 }

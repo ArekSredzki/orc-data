@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8619",
   "country": "GER",
+  "reference": "04150004KLK",
   "name": "UPS",
   "rating": {
     "gph": 647.2,
@@ -197,6 +198,5 @@
       7.76,
       10.45
     ]
-  },
-  "reference": "04150004KLK"
+  }
 }

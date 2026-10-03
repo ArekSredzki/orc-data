@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10641",
   "country": "ITA",
+  "reference": "03190004PLE",
   "name": "ULIXES VI",
   "rating": {
     "gph": 634.1,
@@ -197,6 +198,5 @@
       7.94,
       8.64
     ]
-  },
-  "reference": "03190004PLE"
+  }
 }

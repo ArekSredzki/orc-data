@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10370",
   "country": "NOR",
+  "reference": "03440004RB3",
   "name": "Yippi!",
   "rating": {
     "gph": 656.9,
@@ -197,6 +198,5 @@
       7.62,
       8.3
     ]
-  },
-  "reference": "03440004RB3"
+  }
 }

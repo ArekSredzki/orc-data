@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN69266",
   "country": "CAN",
+  "reference": "03430004LT5",
   "name": "Danu",
   "rating": {
     "gph": 614.4,
@@ -197,6 +198,5 @@
       7.9,
       8.63
     ]
-  },
-  "reference": "03430004LT5"
+  }
 }

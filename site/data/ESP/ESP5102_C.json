@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5102_C",
   "country": "ESP",
+  "reference": "03510004HTD",
   "name": "ULTIM RIS 3",
   "rating": {
     "gph": 606.8,
@@ -197,6 +198,5 @@
       7.85,
       8.52
     ]
-  },
-  "reference": "03510004HTD"
+  }
 }

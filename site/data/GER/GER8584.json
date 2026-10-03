@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8584",
   "country": "GER",
+  "reference": "04150004M0K",
   "name": "LUVFEE",
   "rating": {
     "gph": 599.8,
@@ -197,6 +198,5 @@
       8.17,
       9.68
     ]
-  },
-  "reference": "04150004M0K"
+  }
 }

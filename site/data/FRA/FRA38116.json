@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA38116",
   "country": "FRA",
+  "reference": "04330004I99",
   "name": "FEELING GOOD",
   "rating": {
     "gph": 631.8,
@@ -197,6 +198,5 @@
       7.85,
       8.57
     ]
-  },
-  "reference": "04330004I99"
+  }
 }

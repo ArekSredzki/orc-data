@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4809_C",
   "country": "ESP",
+  "reference": "03510004B0U",
   "name": "SCORPIO",
   "rating": {
     "gph": 752.4,
@@ -197,6 +198,5 @@
       6.65,
       7.38
     ]
-  },
-  "reference": "03510004B0U"
+  }
 }

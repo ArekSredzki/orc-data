@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/38",
   "country": "AUS",
+  "reference": "03020004U9W",
   "name": "38",
   "rating": {
     "gph": 562.7,
@@ -197,6 +198,5 @@
       8.85,
       10.36
     ]
-  },
-  "reference": "03020004U9W"
+  }
 }

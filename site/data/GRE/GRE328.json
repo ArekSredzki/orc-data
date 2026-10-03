@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE328",
   "country": "GRE",
+  "reference": "03420004IUJ",
   "name": "TAKE FIVE",
   "rating": {
     "gph": 776.5,
@@ -197,6 +198,5 @@
       6.76,
       7.29
     ]
-  },
-  "reference": "03420004IUJ"
+  }
 }

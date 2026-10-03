@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR410",
   "country": "ISR",
+  "reference": "04390004EDT",
   "name": "Larus",
   "rating": {
     "gph": 640.4,
@@ -197,6 +198,5 @@
       7.74,
       8.35
     ]
-  },
-  "reference": "04390004EDT"
+  }
 }

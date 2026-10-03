@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP36002",
   "country": "ESP",
+  "reference": "03510004FSJ",
   "name": "JAU!",
   "rating": {
     "gph": 599.4,
@@ -197,6 +198,5 @@
       8.44,
       9.58
     ]
-  },
-  "reference": "03510004FSJ"
+  }
 }

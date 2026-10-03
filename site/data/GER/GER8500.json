@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8500",
   "country": "GER",
+  "reference": "04150004SFA",
   "name": "RED 2",
   "rating": {
     "gph": 501.5,
@@ -197,6 +198,5 @@
       11.7,
       15.23
     ]
-  },
-  "reference": "04150004SFA"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7941_C",
   "country": "ESP",
+  "reference": "03510004H6O",
   "name": "FURIOSOL",
   "rating": {
     "gph": 609.7,
@@ -197,6 +198,5 @@
       7.79,
       8.51
     ]
-  },
-  "reference": "03510004H6O"
+  }
 }

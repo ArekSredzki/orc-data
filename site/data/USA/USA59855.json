@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA59855",
   "country": "USA",
+  "reference": "04560004WCQ",
   "name": "TYPON",
   "rating": {
     "gph": 611.9,
@@ -197,6 +198,5 @@
       8.21,
       8.8
     ]
-  },
-  "reference": "04560004WCQ"
+  }
 }

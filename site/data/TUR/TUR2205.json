@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2205",
   "country": "TUR",
+  "reference": "04590004TSM",
   "name": "AURORA X",
   "rating": {
     "gph": 597.9,
@@ -197,6 +198,5 @@
       8.18,
       9.29
     ]
-  },
-  "reference": "04590004TSM"
+  }
 }

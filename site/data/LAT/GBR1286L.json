@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/GBR1286L",
   "country": "LAT",
+  "reference": "04960004VPC",
   "name": "World of Love",
   "rating": {
     "gph": 576.9,
@@ -197,6 +198,5 @@
       8.47,
       9.22
     ]
-  },
-  "reference": "04960004VPC"
+  }
 }

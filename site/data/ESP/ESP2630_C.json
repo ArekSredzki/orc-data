@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2630_C",
   "country": "ESP",
+  "reference": "03510004FEM",
   "name": "ALASKA",
   "rating": {
     "gph": 776.2,
@@ -197,6 +198,5 @@
       6.47,
       7.19
     ]
-  },
-  "reference": "03510004FEM"
+  }
 }

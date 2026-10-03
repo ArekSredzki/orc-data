@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR3109",
   "country": "TUR",
+  "reference": "04590004MJL",
   "name": "ACROSS THE UNIVERSE",
   "rating": {
     "gph": 741.8,
@@ -197,6 +198,5 @@
       6.72,
       7.2
     ]
-  },
-  "reference": "04590004MJL"
+  }
 }

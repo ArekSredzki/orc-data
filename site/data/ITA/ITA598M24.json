@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA598M24",
   "country": "ITA",
+  "reference": "03190004MUM",
   "name": "WOLAND",
   "rating": {
     "gph": 622.6,
@@ -197,6 +198,5 @@
       10.73,
       13.84
     ]
-  },
-  "reference": "03190004MUM"
+  }
 }

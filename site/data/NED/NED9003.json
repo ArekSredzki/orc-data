@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9003",
   "country": "NED",
+  "reference": "04310004K29",
   "name": "Family Fun",
   "rating": {
     "gph": 655.3,
@@ -197,6 +198,5 @@
       8.06,
       9.56
     ]
-  },
-  "reference": "04310004K29"
+  }
 }

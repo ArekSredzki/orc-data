@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN68",
   "country": "FIN",
+  "reference": "03290004RMQ",
   "name": "Xini Freedom",
   "rating": {
     "gph": 561.6,
@@ -197,6 +198,5 @@
       8.44,
       10.25
     ]
-  },
-  "reference": "03290004RMQ"
+  }
 }

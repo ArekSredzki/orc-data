@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN43679",
   "country": "FIN",
+  "reference": "04140004SM6",
   "name": "ASAP",
   "rating": {
     "gph": 611.3,
@@ -197,6 +198,5 @@
       7.82,
       9.28
     ]
-  },
-  "reference": "04140004SM6"
+  }
 }

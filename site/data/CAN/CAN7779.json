@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN7779",
   "country": "CAN",
+  "reference": "03430004JC8",
   "name": "Mach 2",
   "rating": {
     "gph": 391.0,
@@ -197,6 +198,5 @@
       14.76,
       17.54
     ]
-  },
-  "reference": "03430004JC8"
+  }
 }

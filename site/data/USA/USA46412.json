@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA46412",
   "country": "USA",
+  "reference": "04560004Q34",
   "name": "SUNDANCE",
   "rating": {
     "gph": 543.9,
@@ -197,6 +198,5 @@
       8.71,
       9.98
     ]
-  },
-  "reference": "04560004Q34"
+  }
 }

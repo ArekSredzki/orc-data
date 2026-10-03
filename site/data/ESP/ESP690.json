@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP690",
   "country": "ESP",
+  "reference": "03510004B0J",
   "name": "SALT",
   "rating": {
     "gph": 708.2,
@@ -197,6 +198,5 @@
       7.47,
       8.35
     ]
-  },
-  "reference": "03510004B0J"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR6809",
   "country": "NOR",
+  "reference": "03440004L40",
   "name": "Travelling First Class",
   "rating": {
     "gph": 681.7,
@@ -197,6 +198,5 @@
       7.34,
       9.2
     ]
-  },
-  "reference": "03440004L40"
+  }
 }

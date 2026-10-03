@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA25JI8",
   "country": "FRA",
+  "reference": "04330004U2T",
   "name": "CUTTY-TOU",
   "rating": {
     "gph": 605.6,
@@ -197,6 +198,5 @@
       8.13,
       8.87
     ]
-  },
-  "reference": "04330004U2T"
+  }
 }

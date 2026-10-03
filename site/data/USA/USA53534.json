@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA53534",
   "country": "USA",
+  "reference": "04560004RNQ",
   "name": "SHAKA",
   "rating": {
     "gph": 620.2,
@@ -197,6 +198,5 @@
       7.54,
       8.86
     ]
-  },
-  "reference": "04560004RNQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG2197",
   "country": "HKG",
+  "reference": "03880004W5C",
   "name": "Tuco",
   "rating": {
     "gph": 675.7,
@@ -197,6 +198,5 @@
       9.18,
       12.28
     ]
-  },
-  "reference": "03880004W5C"
+  }
 }

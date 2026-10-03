@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/545",
   "country": "AUS",
+  "reference": "03020004U36",
   "name": "PRETTY WOMAN",
   "rating": {
     "gph": 514.1,
@@ -197,6 +198,5 @@
       10.07,
       12.42
     ]
-  },
-  "reference": "03020004U36"
+  }
 }

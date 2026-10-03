@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA435",
   "country": "USA",
+  "reference": "04560004NNK",
   "name": "OHANA",
   "rating": {
     "gph": 543.4,
@@ -197,6 +198,5 @@
       8.74,
       10.14
     ]
-  },
-  "reference": "04560004NNK"
+  }
 }

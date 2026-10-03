@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9919",
   "country": "FRA",
+  "reference": "04330004PIA",
   "name": "BURRIANA",
   "rating": {
     "gph": 637.4,
@@ -197,6 +198,5 @@
       7.74,
       8.45
     ]
-  },
-  "reference": "04330004PIA"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1435",
   "country": "RSA",
+  "reference": "04620004A0B",
   "name": "SHIPREK",
   "rating": {
     "gph": 656.2,
@@ -197,6 +198,5 @@
       7.6,
       8.24
     ]
-  },
-  "reference": "04620004A0B"
+  }
 }

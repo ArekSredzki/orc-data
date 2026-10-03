@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA115D81",
   "country": "ITA",
+  "reference": "03190004QTV",
   "name": "ACHAB",
   "rating": {
     "gph": 606.8,
@@ -197,6 +198,5 @@
       10.56,
       13.57
     ]
-  },
-  "reference": "03190004QTV"
+  }
 }

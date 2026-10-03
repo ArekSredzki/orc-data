@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/FCA5261",
   "country": "GER",
+  "reference": "04150004N95",
   "name": "ESHA",
   "rating": {
     "gph": 684.4,
@@ -197,6 +198,5 @@
       7.28,
       8.81
     ]
-  },
-  "reference": "04150004N95"
+  }
 }

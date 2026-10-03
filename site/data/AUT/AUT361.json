@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT361",
   "country": "AUT",
+  "reference": "03210004I0I",
   "name": "PFEIL 2",
   "rating": {
     "gph": 628.7,
@@ -197,6 +198,5 @@
       7.94,
       9.32
     ]
-  },
-  "reference": "03210004I0I"
+  }
 }

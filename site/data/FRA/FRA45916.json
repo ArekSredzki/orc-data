@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA45916",
   "country": "FRA",
+  "reference": "04330004JB2",
   "name": "HALF DUKE",
   "rating": {
     "gph": 719.1,
@@ -197,6 +198,5 @@
       6.9,
       7.5
     ]
-  },
-  "reference": "04330004JB2"
+  }
 }

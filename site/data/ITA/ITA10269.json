@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10269",
   "country": "ITA",
+  "reference": "03190004B2Q",
   "name": "GANZURIA V",
   "rating": {
     "gph": 626.0,
@@ -197,6 +198,5 @@
       7.97,
       9.13
     ]
-  },
-  "reference": "03190004B2Q"
+  }
 }

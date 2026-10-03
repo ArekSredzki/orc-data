@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8312",
   "country": "GER",
+  "reference": "04150004TCV",
   "name": "NEMO",
   "rating": {
     "gph": 625.7,
@@ -197,6 +198,5 @@
       8.94,
       11.61
     ]
-  },
-  "reference": "04150004TCV"
+  }
 }

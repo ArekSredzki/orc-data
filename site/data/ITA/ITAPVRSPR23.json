@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAPVRSPR23",
   "country": "ITA",
+  "reference": "03190004M18",
   "name": "PEVERINA SPRINT",
   "rating": {
     "gph": 603.9,
@@ -197,6 +198,5 @@
       7.79,
       9.31
     ]
-  },
-  "reference": "03190004M18"
+  }
 }

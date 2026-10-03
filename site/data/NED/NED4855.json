@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4855",
   "country": "NED",
+  "reference": "04310004K9J",
   "name": "BRIGHT-SIDE",
   "rating": {
     "gph": 626.3,
@@ -197,6 +198,5 @@
       8.28,
       9.41
     ]
-  },
-  "reference": "04310004K9J"
+  }
 }

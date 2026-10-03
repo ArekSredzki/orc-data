@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7431",
   "country": "ESP",
+  "reference": "03510004N60",
   "name": "JILORIO",
   "rating": {
     "gph": 645.8,
@@ -197,6 +198,5 @@
       7.75,
       8.44
     ]
-  },
-  "reference": "03510004N60"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/IRL3128",
   "country": "TUR",
+  "reference": "04590004V3S",
   "name": "ANYWAYS",
   "rating": {
     "gph": 548.9,
@@ -197,6 +198,5 @@
       11.77,
       14.89
     ]
-  },
-  "reference": "04590004V3S"
+  }
 }

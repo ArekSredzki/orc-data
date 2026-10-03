@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8015",
   "country": "GER",
+  "reference": "03520004TAA",
   "name": "MACI",
   "rating": {
     "gph": 615.4,
@@ -197,6 +198,5 @@
       8.1,
       9.76
     ]
-  },
-  "reference": "03520004TAA"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE293",
   "country": "GRE",
+  "reference": "03420004R3T",
   "name": "VENCEREMOS",
   "rating": {
     "gph": 701.8,
@@ -197,6 +198,5 @@
       6.96,
       7.5
     ]
-  },
-  "reference": "03420004R3T"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15020",
   "country": "ITA",
+  "reference": "03190004EOO",
   "name": "KRYOS",
   "rating": {
     "gph": 615.0,
@@ -197,6 +198,5 @@
       8.08,
       8.78
     ]
-  },
-  "reference": "03190004EOO"
+  }
 }

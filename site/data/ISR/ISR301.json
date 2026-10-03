@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR301",
   "country": "ISR",
+  "reference": "04390004843",
   "name": "Mina",
   "rating": {
     "gph": 783.6,
@@ -197,6 +198,5 @@
       6.67,
       7.23
     ]
-  },
-  "reference": "04390004843"
+  }
 }

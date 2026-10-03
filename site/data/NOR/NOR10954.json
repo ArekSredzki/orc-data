@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10954",
   "country": "NOR",
+  "reference": "03440004PBI",
   "name": "PuraVida",
   "rating": {
     "gph": 614.9,
@@ -197,6 +198,5 @@
       7.83,
       8.64
     ]
-  },
-  "reference": "03440004PBI"
+  }
 }

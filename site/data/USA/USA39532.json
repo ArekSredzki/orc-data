@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA39532",
   "country": "USA",
+  "reference": "04560004V0C",
   "name": "Old School",
   "rating": {
     "gph": 562.0,
@@ -197,6 +198,5 @@
       8.84,
       11.05
     ]
-  },
-  "reference": "04560004V0C"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3702",
   "country": "RSA",
+  "reference": "04620004AEI",
   "name": "Zephyr",
   "rating": {
     "gph": 654.5,
@@ -197,6 +198,5 @@
       8.11,
       8.74
     ]
-  },
-  "reference": "04620004AEI"
+  }
 }

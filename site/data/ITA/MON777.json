@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/MON777",
   "country": "ITA",
+  "reference": "03190004W0D",
   "name": "DURLINDANA IV",
   "rating": {
     "gph": 459.8,
@@ -197,6 +198,5 @@
       10.49,
       12.56
     ]
-  },
-  "reference": "03190004W0D"
+  }
 }

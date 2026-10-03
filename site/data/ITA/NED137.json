@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/NED137",
   "country": "ITA",
+  "reference": "03190004WB9",
   "name": "FONTESSA",
   "rating": {
     "gph": 545.1,
@@ -197,6 +198,5 @@
       11.64,
       14.69
     ]
-  },
-  "reference": "03190004WB9"
+  }
 }

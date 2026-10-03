@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA38981",
   "country": "FRA",
+  "reference": "04330004FM7",
   "name": "MIKALA",
   "rating": {
     "gph": 613.8,
@@ -197,6 +198,5 @@
       7.69,
       8.51
     ]
-  },
-  "reference": "04330004FM7"
+  }
 }

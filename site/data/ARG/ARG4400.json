@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG4400",
   "country": "ARG",
+  "reference": "03880004LST",
   "name": "GAUCHO",
   "rating": {
     "gph": 522.8,
@@ -197,6 +198,5 @@
       10.58,
       13.51
     ]
-  },
-  "reference": "03880004LST"
+  }
 }

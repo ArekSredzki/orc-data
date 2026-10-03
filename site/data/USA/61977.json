@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/61977",
   "country": "USA",
+  "reference": "04560004RU3",
   "name": "Adeline",
   "rating": {
     "gph": 603.7,
@@ -197,6 +198,5 @@
       8.42,
       9.13
     ]
-  },
-  "reference": "04560004RU3"
+  }
 }

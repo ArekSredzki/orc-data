@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA28747",
   "country": "FRA",
+  "reference": "04330004VJN",
   "name": "PASSE PARTOUT",
   "rating": {
     "gph": 627.3,
@@ -197,6 +198,5 @@
       7.67,
       9.69
     ]
-  },
-  "reference": "04330004VJN"
+  }
 }

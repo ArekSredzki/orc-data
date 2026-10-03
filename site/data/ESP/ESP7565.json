@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7565",
   "country": "ESP",
+  "reference": "03510004UL5",
   "name": "ILDEMAR IV",
   "rating": {
     "gph": 648.1,
@@ -197,6 +198,5 @@
       7.69,
       8.36
     ]
-  },
-  "reference": "03510004UL5"
+  }
 }

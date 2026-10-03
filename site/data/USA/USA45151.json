@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA45151",
   "country": "USA",
+  "reference": "04560004URC",
   "name": "FREYJA",
   "rating": {
     "gph": 515.1,
@@ -197,6 +198,5 @@
       10.23,
       13.39
     ]
-  },
-  "reference": "04560004URC"
+  }
 }

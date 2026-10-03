@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11102",
   "country": "ESP",
+  "reference": "03510004ETA",
   "name": "REGULUS III",
   "rating": {
     "gph": 618.6,
@@ -197,6 +198,5 @@
       7.61,
       9.28
     ]
-  },
-  "reference": "03510004ETA"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA3615",
   "country": "ITA",
+  "reference": "03190004BAA",
   "name": "E-MOTION",
   "rating": {
     "gph": 669.4,
@@ -197,6 +198,5 @@
       7.27,
       7.79
     ]
-  },
-  "reference": "03190004BAA"
+  }
 }

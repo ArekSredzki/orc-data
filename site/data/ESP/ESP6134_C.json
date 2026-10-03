@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6134_C",
   "country": "ESP",
+  "reference": "03510004KVN",
   "name": "MIMAR",
   "rating": {
     "gph": 622.9,
@@ -197,6 +198,5 @@
       8.19,
       8.86
     ]
-  },
-  "reference": "03510004KVN"
+  }
 }

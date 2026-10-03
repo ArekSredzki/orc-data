@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA46344",
   "country": "USA",
+  "reference": "04560004P4K",
   "name": "MARGARET II",
   "rating": {
     "gph": 571.5,
@@ -197,6 +198,5 @@
       8.45,
       10.32
     ]
-  },
-  "reference": "04560004P4K"
+  }
 }

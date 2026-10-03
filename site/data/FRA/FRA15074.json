@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA15074",
   "country": "FRA",
+  "reference": "04330004Q3C",
   "name": "KIKO",
   "rating": {
     "gph": 609.7,
@@ -197,6 +198,5 @@
       7.9,
       9.51
     ]
-  },
-  "reference": "04330004Q3C"
+  }
 }

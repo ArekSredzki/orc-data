@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4448_C",
   "country": "ESP",
+  "reference": "03510004BEB",
   "name": "MI MAR",
   "rating": {
     "gph": 603.0,
@@ -197,6 +198,5 @@
       8.35,
       9.66
     ]
-  },
-  "reference": "03510004BEB"
+  }
 }

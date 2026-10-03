@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA04",
   "country": "USA",
+  "reference": "04560004ODH",
   "name": "COOKIE MONSTER",
   "rating": {
     "gph": 598.6,
@@ -197,6 +198,5 @@
       8.05,
       9.21
     ]
-  },
-  "reference": "04560004ODH"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14467",
   "country": "ITA",
+  "reference": "03190004NVK",
   "name": "TASHUNKA WITKO II",
   "rating": {
     "gph": 679.7,
@@ -197,6 +198,5 @@
       7.09,
       8.67
     ]
-  },
-  "reference": "03190004NVK"
+  }
 }

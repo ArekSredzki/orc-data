@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/MLT14444",
   "country": "ITA",
+  "reference": "03190004F8J",
   "name": "CORONA",
   "rating": {
     "gph": 516.4,
@@ -197,6 +198,5 @@
       10.23,
       12.64
     ]
-  },
-  "reference": "03190004F8J"
+  }
 }

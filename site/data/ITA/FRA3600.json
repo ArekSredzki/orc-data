@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/FRA3600",
   "country": "ITA",
+  "reference": "03190004L8C",
   "name": "PEGASUS",
   "rating": {
     "gph": 561.4,
@@ -197,6 +198,5 @@
       10.02,
       13.14
     ]
-  },
-  "reference": "03190004L8C"
+  }
 }

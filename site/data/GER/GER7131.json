@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7131",
   "country": "GER",
+  "reference": "03520004I28",
   "name": "CALLE STR\u00d6MER",
   "rating": {
     "gph": 770.9,
@@ -197,6 +198,5 @@
       6.78,
       7.36
     ]
-  },
-  "reference": "03520004I28"
+  }
 }

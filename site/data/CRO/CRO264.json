@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO264",
   "country": "CRO",
+  "reference": "03620004BMW",
   "name": "Lero",
   "rating": {
     "gph": 613.4,
@@ -197,6 +198,5 @@
       10.84,
       13.9
     ]
-  },
-  "reference": "03620004BMW"
+  }
 }

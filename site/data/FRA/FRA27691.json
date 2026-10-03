@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA27691",
   "country": "FRA",
+  "reference": "04330004MW7",
   "name": "WEEKEND MILLIONAIRE 3",
   "rating": {
     "gph": 608.4,
@@ -197,6 +198,5 @@
       8.18,
       8.94
     ]
-  },
-  "reference": "04330004MW7"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN6371",
   "country": "JPN",
+  "reference": "03390004JI2",
   "name": "CHOUETTE",
   "rating": {
     "gph": 600.8,
@@ -197,6 +198,5 @@
       8.17,
       9.58
     ]
-  },
-  "reference": "03390004JI2"
+  }
 }

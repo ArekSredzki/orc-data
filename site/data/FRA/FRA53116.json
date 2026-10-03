@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53116",
   "country": "FRA",
+  "reference": "04330004K8N",
   "name": "PRINCESSE GOTIONUDE II",
   "rating": {
     "gph": 602.3,
@@ -197,6 +198,5 @@
       7.95,
       9.61
     ]
-  },
-  "reference": "04330004K8N"
+  }
 }

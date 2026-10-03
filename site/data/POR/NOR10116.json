@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/NOR10116",
   "country": "POR",
+  "reference": "03530004FK4",
   "name": "SEIKA",
   "rating": {
     "gph": 580.3,
@@ -197,6 +198,5 @@
       8.44,
       9.37
     ]
-  },
-  "reference": "03530004FK4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10576",
   "country": "NOR",
+  "reference": "03440004OI1",
   "name": "BesteFarr",
   "rating": {
     "gph": 556.5,
@@ -197,6 +198,5 @@
       8.5,
       10.33
     ]
-  },
-  "reference": "03440004OI1"
+  }
 }

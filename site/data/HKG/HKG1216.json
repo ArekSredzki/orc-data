@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG1216",
   "country": "HKG",
+  "reference": "038800048B9",
   "name": "Stingray",
   "rating": {
     "gph": 614.7,
@@ -197,6 +198,5 @@
       10.26,
       13.36
     ]
-  },
-  "reference": "038800048B9"
+  }
 }

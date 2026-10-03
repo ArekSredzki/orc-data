@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA8501",
   "country": "FRA",
+  "reference": "04330004QAK",
   "name": "TIKOCCO 2",
   "rating": {
     "gph": 675.6,
@@ -197,6 +198,5 @@
       7.43,
       8.21
     ]
-  },
-  "reference": "04330004QAK"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9396",
   "country": "NOR",
+  "reference": "03440004RHV",
   "name": "Calypso",
   "rating": {
     "gph": 634.4,
@@ -197,6 +198,5 @@
       7.88,
       8.74
     ]
-  },
-  "reference": "03440004RHV"
+  }
 }

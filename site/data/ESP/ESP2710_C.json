@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2710_C",
   "country": "ESP",
+  "reference": "03510004N3F",
   "name": "FUM",
   "rating": {
     "gph": 721.0,
@@ -197,6 +198,5 @@
       7.03,
       9.32
     ]
-  },
-  "reference": "03510004N3F"
+  }
 }

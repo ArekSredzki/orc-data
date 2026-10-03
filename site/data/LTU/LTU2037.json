@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2037",
   "country": "LTU",
+  "reference": "03590004PI5",
   "name": "PRUS PRIMO",
   "rating": {
     "gph": 639.5,
@@ -197,6 +198,5 @@
       7.75,
       9.51
     ]
-  },
-  "reference": "03590004PI5"
+  }
 }

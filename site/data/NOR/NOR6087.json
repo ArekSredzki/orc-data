@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR6087",
   "country": "NOR",
+  "reference": "03440004TVM",
   "name": "Hulda",
   "rating": {
     "gph": 751.8,
@@ -197,6 +198,5 @@
       6.71,
       7.28
     ]
-  },
-  "reference": "03440004TVM"
+  }
 }

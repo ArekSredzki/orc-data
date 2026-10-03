@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1863",
   "country": "GRE",
+  "reference": "03420004J73",
   "name": "NORTH WIND II",
   "rating": {
     "gph": 621.0,
@@ -197,6 +198,5 @@
       8.04,
       8.83
     ]
-  },
-  "reference": "03420004J73"
+  }
 }

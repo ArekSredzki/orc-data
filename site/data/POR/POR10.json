@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR10",
   "country": "POR",
+  "reference": "03530004BE5",
   "name": "MARUJO",
   "rating": {
     "gph": 666.8,
@@ -197,6 +198,5 @@
       7.82,
       8.58
     ]
-  },
-  "reference": "03530004BE5"
+  }
 }

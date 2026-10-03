@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53556",
   "country": "FRA",
+  "reference": "04330004QAC",
   "name": "WHITE SHADOW",
   "rating": {
     "gph": 566.5,
@@ -197,6 +198,5 @@
       8.88,
       9.55
     ]
-  },
-  "reference": "04330004QAC"
+  }
 }

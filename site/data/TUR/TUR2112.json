@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2112",
   "country": "TUR",
+  "reference": "04590004I84",
   "name": "HIT",
   "rating": {
     "gph": 621.3,
@@ -197,6 +198,5 @@
       7.37,
       7.95
     ]
-  },
-  "reference": "04590004I84"
+  }
 }

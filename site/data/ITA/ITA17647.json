@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17647",
   "country": "ITA",
+  "reference": "03190004NBK",
   "name": "BELLATRIX",
   "rating": {
     "gph": 589.0,
@@ -197,6 +198,5 @@
       8.15,
       9.6
     ]
-  },
-  "reference": "03190004NBK"
+  }
 }

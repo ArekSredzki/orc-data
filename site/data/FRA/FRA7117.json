@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA7117",
   "country": "FRA",
+  "reference": "04330004WF2",
   "name": "YENAEL 3",
   "rating": {
     "gph": 605.4,
@@ -197,6 +198,5 @@
       8.29,
       9.06
     ]
-  },
-  "reference": "04330004WF2"
+  }
 }

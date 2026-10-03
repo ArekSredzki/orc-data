@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE1340",
   "country": "SWE",
+  "reference": "03200004M1B",
   "name": "Malva",
   "rating": {
     "gph": 616.9,
@@ -197,6 +198,5 @@
       8.09,
       9.01
     ]
-  },
-  "reference": "03200004M1B"
+  }
 }

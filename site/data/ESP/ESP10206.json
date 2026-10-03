@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10206",
   "country": "ESP",
+  "reference": "03510004WDR",
   "name": "BAMAK",
   "rating": {
     "gph": 591.6,
@@ -197,6 +198,5 @@
       8.52,
       9.49
     ]
-  },
-  "reference": "03510004WDR"
+  }
 }

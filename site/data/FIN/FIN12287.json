@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12287",
   "country": "FIN",
+  "reference": "04140004KW6",
   "name": "Tacheia",
   "rating": {
     "gph": 565.7,
@@ -197,6 +198,5 @@
       8.35,
       9.02
     ]
-  },
-  "reference": "04140004KW6"
+  }
 }

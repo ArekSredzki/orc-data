@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN53162",
   "country": "FIN",
+  "reference": "03290004O41",
   "name": "Tenet",
   "rating": {
     "gph": 611.1,
@@ -197,6 +198,5 @@
       8.14,
       10.32
     ]
-  },
-  "reference": "03290004O41"
+  }
 }

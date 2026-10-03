@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15731",
   "country": "NOR",
+  "reference": "03440004LKN",
   "name": "Enderpearl",
   "rating": {
     "gph": 466.9,
@@ -197,6 +198,5 @@
       10.61,
       11.69
     ]
-  },
-  "reference": "03440004LKN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA1726",
   "country": "RSA",
+  "reference": "046200048AO",
   "name": "HOT ICE",
   "rating": {
     "gph": 607.0,
@@ -197,6 +198,5 @@
       8.42,
       10.83
     ]
-  },
-  "reference": "046200048AO"
+  }
 }

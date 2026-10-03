@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16706",
   "country": "ITA",
+  "reference": "03190004JDT",
   "name": "KIKA 2",
   "rating": {
     "gph": 586.1,
@@ -197,6 +198,5 @@
       8.48,
       9.32
     ]
-  },
-  "reference": "03190004JDT"
+  }
 }

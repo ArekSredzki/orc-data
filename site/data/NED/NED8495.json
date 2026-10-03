@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8495",
   "country": "NED",
+  "reference": "04310004K1D",
   "name": "Brothership",
   "rating": {
     "gph": 638.9,
@@ -197,6 +198,5 @@
       7.94,
       8.87
     ]
-  },
-  "reference": "04310004K1D"
+  }
 }

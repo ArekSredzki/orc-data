@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/ITA14748",
   "country": "BUL",
+  "reference": "03850004TUH",
   "name": "SVELTINA",
   "rating": {
     "gph": 565.8,
@@ -197,6 +198,5 @@
       8.82,
       9.78
     ]
-  },
-  "reference": "03850004TUH"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15327",
   "country": "NOR",
+  "reference": "03440004OEK",
   "name": "Ellebelle",
   "rating": {
     "gph": 583.7,
@@ -197,6 +198,5 @@
       9.21,
       11.81
     ]
-  },
-  "reference": "03440004OEK"
+  }
 }

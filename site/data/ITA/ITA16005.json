@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16005",
   "country": "ITA",
+  "reference": "03190004EOC",
   "name": "POMELLA J",
   "rating": {
     "gph": 639.1,
@@ -197,6 +198,5 @@
       7.7,
       9.87
     ]
-  },
-  "reference": "03190004EOC"
+  }
 }

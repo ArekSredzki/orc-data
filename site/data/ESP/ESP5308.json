@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5308",
   "country": "ESP",
+  "reference": "03510004KQM",
   "name": "ALLEGRO VIVACE",
   "rating": {
     "gph": 588.2,
@@ -197,6 +198,5 @@
       8.24,
       9.29
     ]
-  },
-  "reference": "03510004KQM"
+  }
 }

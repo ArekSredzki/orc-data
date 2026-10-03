@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR8633T",
   "country": "FRA",
+  "reference": "04330004TC8",
   "name": "ARIEL OF HAMBLE",
   "rating": {
     "gph": 641.6,
@@ -197,6 +198,5 @@
       8.03,
       8.73
     ]
-  },
-  "reference": "04330004TC8"
+  }
 }

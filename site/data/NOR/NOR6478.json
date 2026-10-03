@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR6478",
   "country": "NOR",
+  "reference": "03440004O93",
   "name": "Banzai",
   "rating": {
     "gph": 630.1,
@@ -197,6 +198,5 @@
       7.65,
       8.32
     ]
-  },
-  "reference": "03440004O93"
+  }
 }

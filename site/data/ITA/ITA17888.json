@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17888",
   "country": "ITA",
+  "reference": "03190004B66",
   "name": "WINDY",
   "rating": {
     "gph": 621.1,
@@ -197,6 +198,5 @@
       7.74,
       8.33
     ]
-  },
-  "reference": "03190004B66"
+  }
 }

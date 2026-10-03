@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10608",
   "country": "ESP",
+  "reference": "03510004TWC",
   "name": "PAMPERO OF DOWN",
   "rating": {
     "gph": 723.8,
@@ -197,6 +198,5 @@
       7.07,
       7.6
     ]
-  },
-  "reference": "03510004TWC"
+  }
 }

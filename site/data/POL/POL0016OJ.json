@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL0016OJ",
   "country": "POL",
+  "reference": "04410004VV9",
   "name": "MOHER 3",
   "rating": {
     "gph": 636.3,
@@ -197,6 +198,5 @@
       7.92,
       8.61
     ]
-  },
-  "reference": "04410004VV9"
+  }
 }

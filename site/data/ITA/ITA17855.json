@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17855",
   "country": "ITA",
+  "reference": "03190004NVQ",
   "name": "ORSOBRILLO",
   "rating": {
     "gph": 509.8,
@@ -197,6 +198,5 @@
       9.43,
       10.85
     ]
-  },
-  "reference": "03190004NVQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2196",
   "country": "GRE",
+  "reference": "03420004QQJ",
   "name": "SOPHIA",
   "rating": {
     "gph": 502.4,
@@ -197,6 +198,5 @@
       9.53,
       10.38
     ]
-  },
-  "reference": "03420004QQJ"
+  }
 }

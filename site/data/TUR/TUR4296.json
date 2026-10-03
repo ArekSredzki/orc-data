@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR4296",
   "country": "TUR",
+  "reference": "0459000485E",
   "name": "CAPELLA II",
   "rating": {
     "gph": 601.9,
@@ -197,6 +198,5 @@
       8.03,
       8.62
     ]
-  },
-  "reference": "0459000485E"
+  }
 }

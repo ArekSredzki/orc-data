@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9877",
   "country": "FRA",
+  "reference": "04330004O2T",
   "name": "MARGIU",
   "rating": {
     "gph": 663.3,
@@ -197,6 +198,5 @@
       7.68,
       8.41
     ]
-  },
-  "reference": "04330004O2T"
+  }
 }

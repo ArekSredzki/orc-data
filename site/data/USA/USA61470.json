@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61470",
   "country": "USA",
+  "reference": "04560004OK4",
   "name": "BABY BLUE",
   "rating": {
     "gph": 557.9,
@@ -197,6 +198,5 @@
       11.01,
       14.27
     ]
-  },
-  "reference": "04560004OK4"
+  }
 }

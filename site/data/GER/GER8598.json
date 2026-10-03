@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8598",
   "country": "GER",
+  "reference": "04150004RRO",
   "name": "AMIE",
   "rating": {
     "gph": 589.1,
@@ -197,6 +198,5 @@
       8.93,
       11.33
     ]
-  },
-  "reference": "04150004RRO"
+  }
 }

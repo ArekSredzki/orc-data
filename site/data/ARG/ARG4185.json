@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG4185",
   "country": "ARG",
+  "reference": "03880004IF6",
   "name": "BIG MATCH",
   "rating": {
     "gph": 562.9,
@@ -197,6 +198,5 @@
       8.98,
       10.57
     ]
-  },
-  "reference": "03880004IF6"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11405",
   "country": "NOR",
+  "reference": "03440004OQ2",
   "name": "Tempo",
   "rating": {
     "gph": 621.4,
@@ -197,6 +198,5 @@
       7.86,
       8.57
     ]
-  },
-  "reference": "03440004OQ2"
+  }
 }

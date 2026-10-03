@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR364",
   "country": "TUR",
+  "reference": "04590004INL",
   "name": "FENERBAHCE 1",
   "rating": {
     "gph": 551.3,
@@ -197,6 +198,5 @@
       8.91,
       9.84
     ]
-  },
-  "reference": "04590004INL"
+  }
 }

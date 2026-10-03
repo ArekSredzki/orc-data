@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1964",
   "country": "GRE",
+  "reference": "03420004LIF",
   "name": "AIKALIA",
   "rating": {
     "gph": 656.3,
@@ -197,6 +198,5 @@
       7.43,
       8.04
     ]
-  },
-  "reference": "03420004LIF"
+  }
 }

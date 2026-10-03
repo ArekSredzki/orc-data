@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1529",
   "country": "GRE",
+  "reference": "03420004WBB",
   "name": "THALASSINOS AETOS",
   "rating": {
     "gph": 711.5,
@@ -197,6 +198,5 @@
       7.2,
       7.78
     ]
-  },
-  "reference": "03420004WBB"
+  }
 }

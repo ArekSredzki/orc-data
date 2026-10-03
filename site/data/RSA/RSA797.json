@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA797",
   "country": "RSA",
+  "reference": "04620004C4N",
   "name": "Iechyd Da",
   "rating": {
     "gph": 769.3,
@@ -197,6 +198,5 @@
       6.81,
       7.34
     ]
-  },
-  "reference": "04620004C4N"
+  }
 }

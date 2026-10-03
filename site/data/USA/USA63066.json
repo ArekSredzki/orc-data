@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA63066",
   "country": "USA",
+  "reference": "04560004REN",
   "name": "SOMETHING WICKED",
   "rating": {
     "gph": 642.9,
@@ -197,6 +198,5 @@
       7.53,
       8.83
     ]
-  },
-  "reference": "04560004REN"
+  }
 }

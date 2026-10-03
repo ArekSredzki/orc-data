@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8406",
   "country": "GER",
+  "reference": "03520004I2S",
   "name": "VISARE",
   "rating": {
     "gph": 560.5,
@@ -197,6 +198,5 @@
       8.63,
       9.76
     ]
-  },
-  "reference": "03520004I2S"
+  }
 }

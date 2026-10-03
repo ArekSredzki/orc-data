@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14888",
   "country": "NOR",
+  "reference": "03440004NSB",
   "name": "Easy Life",
   "rating": {
     "gph": 639.5,
@@ -197,6 +198,5 @@
       8.43,
       11.74
     ]
-  },
-  "reference": "03440004NSB"
+  }
 }

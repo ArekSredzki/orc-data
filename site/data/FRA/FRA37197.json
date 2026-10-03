@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA37197",
   "country": "FRA",
+  "reference": "04330004H0R",
   "name": "JEMINI",
   "rating": {
     "gph": 644.1,
@@ -197,6 +198,5 @@
       7.4,
       8.63
     ]
-  },
-  "reference": "04330004H0R"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAPTHNP25",
   "country": "ITA",
+  "reference": "03190004K7I",
   "name": "PARTHENOPE",
   "rating": {
     "gph": 609.5,
@@ -197,6 +198,5 @@
       8.4,
       9.73
     ]
-  },
-  "reference": "03190004K7I"
+  }
 }

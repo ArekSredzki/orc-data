@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA9413",
   "country": "ITA",
+  "reference": "03190004K62",
   "name": "MADNESS",
   "rating": {
     "gph": 705.4,
@@ -197,6 +198,5 @@
       7.7,
       10.92
     ]
-  },
-  "reference": "03190004K62"
+  }
 }

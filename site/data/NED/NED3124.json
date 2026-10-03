@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3124",
   "country": "NED",
+  "reference": "04310004QOQ",
   "name": "Skye",
   "rating": {
     "gph": 728.8,
@@ -197,6 +198,5 @@
       7.08,
       7.72
     ]
-  },
-  "reference": "04310004QOQ"
+  }
 }

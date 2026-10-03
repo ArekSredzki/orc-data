@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/ITA55555",
   "country": "MLT",
+  "reference": "03230004UOW",
   "name": "Alecto",
   "rating": {
     "gph": 643.6,
@@ -197,6 +198,5 @@
       7.7,
       9.95
     ]
-  },
-  "reference": "03230004UOW"
+  }
 }

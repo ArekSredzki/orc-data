@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7504",
   "country": "GER",
+  "reference": "03520004N7M",
   "name": "JUXBOX",
   "rating": {
     "gph": 552.6,
@@ -197,6 +198,5 @@
       8.97,
       10.0
     ]
-  },
-  "reference": "03520004N7M"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17979",
   "country": "ITA",
+  "reference": "03190004KTM",
   "name": "FRUSCIO",
   "rating": {
     "gph": 670.0,
@@ -197,6 +198,5 @@
       7.53,
       8.28
     ]
-  },
-  "reference": "03190004KTM"
+  }
 }

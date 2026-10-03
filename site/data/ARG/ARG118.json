@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG118",
   "country": "ARG",
+  "reference": "03880004H6D",
   "name": "HORIZONTE",
   "rating": {
     "gph": 619.7,
@@ -197,6 +198,5 @@
       8.28,
       8.84
     ]
-  },
-  "reference": "03880004H6D"
+  }
 }

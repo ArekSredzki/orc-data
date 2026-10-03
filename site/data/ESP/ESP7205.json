@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7205",
   "country": "ESP",
+  "reference": "03510004J4A",
   "name": "KORRIGAN 4",
   "rating": {
     "gph": 548.3,
@@ -197,6 +198,5 @@
       8.76,
       10.13
     ]
-  },
-  "reference": "03510004J4A"
+  }
 }

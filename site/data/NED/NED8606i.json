@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8606i",
   "country": "NED",
+  "reference": "04310004K1J",
   "name": "Sister Ray",
   "rating": {
     "gph": 810.1,
@@ -197,6 +198,5 @@
       6.29,
       6.83
     ]
-  },
-  "reference": "04310004K1J"
+  }
 }

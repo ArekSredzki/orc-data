@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6817_C",
   "country": "ESP",
+  "reference": "03510004FID",
   "name": "MATADOR",
   "rating": {
     "gph": 643.1,
@@ -197,6 +198,5 @@
       7.42,
       7.91
     ]
-  },
-  "reference": "03510004FID"
+  }
 }

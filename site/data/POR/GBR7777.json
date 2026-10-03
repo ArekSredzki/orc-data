@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/GBR7777",
   "country": "POR",
+  "reference": "03530004VLP",
   "name": "POCKET ROCKET",
   "rating": {
     "gph": 603.1,
@@ -197,6 +198,5 @@
       8.12,
       9.57
     ]
-  },
-  "reference": "03530004VLP"
+  }
 }

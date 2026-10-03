@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12153",
   "country": "FIN",
+  "reference": "04140004RUO",
   "name": "Rapid Fancies",
   "rating": {
     "gph": 638.0,
@@ -197,6 +198,5 @@
       7.75,
       8.3
     ]
-  },
-  "reference": "04140004RUO"
+  }
 }

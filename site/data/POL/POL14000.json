@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL14000",
   "country": "POL",
+  "reference": "04410004W1C",
   "name": "GOODSPEED",
   "rating": {
     "gph": 655.5,
@@ -197,6 +198,5 @@
       7.66,
       8.31
     ]
-  },
-  "reference": "04410004W1C"
+  }
 }

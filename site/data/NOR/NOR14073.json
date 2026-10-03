@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14073",
   "country": "NOR",
+  "reference": "03440004QMK",
   "name": "Bloom",
   "rating": {
     "gph": 636.8,
@@ -197,6 +198,5 @@
       7.85,
       8.57
     ]
-  },
-  "reference": "03440004QMK"
+  }
 }

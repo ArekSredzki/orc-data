@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8463_C",
   "country": "ESP",
+  "reference": "03510004LNR",
   "name": "LUNA SEIS",
   "rating": {
     "gph": 623.0,
@@ -197,6 +198,5 @@
       7.91,
       8.65
     ]
-  },
-  "reference": "03510004LNR"
+  }
 }

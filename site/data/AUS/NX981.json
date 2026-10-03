@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/NX981",
   "country": "AUS",
+  "reference": "03020004W8S",
   "name": "MISTY BLUE",
   "rating": {
     "gph": 793.7,
@@ -197,6 +198,5 @@
       6.76,
       7.5
     ]
-  },
-  "reference": "03020004W8S"
+  }
 }

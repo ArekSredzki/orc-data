@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13944",
   "country": "ITA",
+  "reference": "03190004VVP",
   "name": "GIANBURRASCA",
   "rating": {
     "gph": 640.4,
@@ -197,6 +198,5 @@
       7.84,
       8.56
     ]
-  },
-  "reference": "03190004VVP"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP33660_C",
   "country": "ESP",
+  "reference": "03510004FH5",
   "name": "PEREZA",
   "rating": {
     "gph": 647.3,
@@ -197,6 +198,5 @@
       7.66,
       8.35
     ]
-  },
-  "reference": "03510004FH5"
+  }
 }

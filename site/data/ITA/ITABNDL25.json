@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITABNDL25",
   "country": "ITA",
+  "reference": "03190004T7H",
   "name": "BANDOLERO",
   "rating": {
     "gph": 698.2,
@@ -197,6 +198,5 @@
       7.07,
       7.66
     ]
-  },
-  "reference": "03190004T7H"
+  }
 }

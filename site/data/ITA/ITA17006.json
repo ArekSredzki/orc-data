@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17006",
   "country": "ITA",
+  "reference": "03190004H15",
   "name": "BIG WOOL",
   "rating": {
     "gph": 566.9,
@@ -197,6 +198,5 @@
       10.32,
       13.24
     ]
-  },
-  "reference": "03190004H15"
+  }
 }

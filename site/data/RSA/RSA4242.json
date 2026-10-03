@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4242",
   "country": "RSA",
+  "reference": "04620004VDN",
   "name": "Tenacity",
   "rating": {
     "gph": 572.1,
@@ -197,6 +198,5 @@
       9.02,
       11.44
     ]
-  },
-  "reference": "04620004VDN"
+  }
 }

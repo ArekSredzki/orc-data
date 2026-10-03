@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6313",
   "country": "ESP",
+  "reference": "03510004VHJ",
   "name": "ALDAN",
   "rating": {
     "gph": 596.1,
@@ -197,6 +198,5 @@
       8.2,
       8.95
     ]
-  },
-  "reference": "03510004VHJ"
+  }
 }

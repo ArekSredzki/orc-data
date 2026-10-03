@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA87478",
   "country": "USA",
+  "reference": "04560004F0A",
   "name": "GBH",
   "rating": {
     "gph": 596.6,
@@ -197,6 +198,5 @@
       8.93,
       12.16
     ]
-  },
-  "reference": "04560004F0A"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA117",
   "country": "USA",
+  "reference": "04560004UM4",
   "name": "NO QUARTER",
   "rating": {
     "gph": 561.4,
@@ -197,6 +198,5 @@
       9.25,
       11.9
     ]
-  },
-  "reference": "04560004UM4"
+  }
 }

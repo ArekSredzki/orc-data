@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7430_C",
   "country": "ESP",
+  "reference": "035100048JK",
   "name": "QUEN VAI",
   "rating": {
     "gph": 673.4,
@@ -197,6 +198,5 @@
       7.48,
       8.23
     ]
-  },
-  "reference": "035100048JK"
+  }
 }

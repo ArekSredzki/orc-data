@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7003",
   "country": "ESP",
+  "reference": "03510004FVK",
   "name": "ESPADA CERO",
   "rating": {
     "gph": 618.0,
@@ -197,6 +198,5 @@
       8.02,
       8.9
     ]
-  },
-  "reference": "03510004FVK"
+  }
 }

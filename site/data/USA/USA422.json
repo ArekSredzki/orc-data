@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA422",
   "country": "USA",
+  "reference": "04560004QB3",
   "name": "ALBACORE",
   "rating": {
     "gph": 696.4,
@@ -197,6 +198,5 @@
       7.13,
       7.71
     ]
-  },
-  "reference": "04560004QB3"
+  }
 }

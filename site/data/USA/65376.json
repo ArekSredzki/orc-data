@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/65376",
   "country": "USA",
+  "reference": "04560004V9A",
   "name": "DISCOVER",
   "rating": {
     "gph": 614.8,
@@ -197,6 +198,5 @@
       7.92,
       8.97
     ]
-  },
-  "reference": "04560004V9A"
+  }
 }

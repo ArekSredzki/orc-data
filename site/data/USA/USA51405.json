@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51405",
   "country": "USA",
+  "reference": "04560004UCR",
   "name": "BAD HABITS",
   "rating": {
     "gph": 583.6,
@@ -197,6 +198,5 @@
       8.3,
       9.13
     ]
-  },
-  "reference": "04560004UCR"
+  }
 }

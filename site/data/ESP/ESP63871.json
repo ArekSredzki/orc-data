@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP63871",
   "country": "ESP",
+  "reference": "03510004FT8",
   "name": "BIJOUX",
   "rating": {
     "gph": 635.3,
@@ -197,6 +198,5 @@
       7.99,
       9.32
     ]
-  },
-  "reference": "03510004FT8"
+  }
 }

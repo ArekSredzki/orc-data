@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST633",
   "country": "EST",
+  "reference": "04340004PI9",
   "name": "Cherie",
   "rating": {
     "gph": 622.9,
@@ -197,6 +198,5 @@
       8.05,
       8.85
     ]
-  },
-  "reference": "04340004PI9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12050",
   "country": "FIN",
+  "reference": "04140004H44",
   "name": "Aaltojen kukka",
   "rating": {
     "gph": 674.4,
@@ -197,6 +198,5 @@
       9.38,
       12.34
     ]
-  },
-  "reference": "04140004H44"
+  }
 }

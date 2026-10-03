@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1925",
   "country": "GRE",
+  "reference": "03420004HB7",
   "name": "STELLA",
   "rating": {
     "gph": 660.8,
@@ -197,6 +198,5 @@
       7.81,
       8.51
     ]
-  },
-  "reference": "03420004HB7"
+  }
 }

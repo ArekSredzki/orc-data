@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA77775",
   "country": "ITA",
+  "reference": "03190004RHF",
   "name": "LULUNIKKA",
   "rating": {
     "gph": 534.0,
@@ -197,6 +198,5 @@
       9.46,
       11.82
     ]
-  },
-  "reference": "03190004RHF"
+  }
 }

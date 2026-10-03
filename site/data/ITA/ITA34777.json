@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA34777",
   "country": "ITA",
+  "reference": "03190004L1D",
   "name": "MILLENIUM FALCON 2",
   "rating": {
     "gph": 571.6,
@@ -197,6 +198,5 @@
       8.28,
       9.05
     ]
-  },
-  "reference": "03190004L1D"
+  }
 }

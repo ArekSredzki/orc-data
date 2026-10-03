@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15778",
   "country": "NOR",
+  "reference": "03440004NSH",
   "name": "Emma",
   "rating": {
     "gph": 624.9,
@@ -197,6 +198,5 @@
       7.73,
       8.32
     ]
-  },
-  "reference": "03440004NSH"
+  }
 }

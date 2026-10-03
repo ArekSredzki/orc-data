@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/777",
   "country": "AUS",
+  "reference": "0302000501Q",
   "name": "MACH 1",
   "rating": {
     "gph": 602.0,

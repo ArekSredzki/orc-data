@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/BEL5101",
   "country": "ESP",
+  "reference": "035100050LB",
   "name": "VESPER",
   "rating": {
     "gph": 547.0,

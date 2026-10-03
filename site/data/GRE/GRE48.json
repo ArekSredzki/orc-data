@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE48",
   "country": "GRE",
+  "reference": "03420004VAE",
   "name": "BANA BIOLETTA 4",
   "rating": {
     "gph": 542.1,
@@ -197,6 +198,5 @@
       9.3,
       11.36
     ]
-  },
-  "reference": "03420004VAE"
+  }
 }

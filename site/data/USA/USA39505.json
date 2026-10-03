@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA39505",
   "country": "USA",
+  "reference": "04560004T40",
   "name": "IMAGINE",
   "rating": {
     "gph": 556.1,
@@ -197,6 +198,5 @@
       8.89,
       11.25
     ]
-  },
-  "reference": "04560004T40"
+  }
 }

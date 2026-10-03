@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR5122",
   "country": "POR",
+  "reference": "03530004UOR",
   "name": "INDELEVEL",
   "rating": {
     "gph": 631.8,
@@ -197,6 +198,5 @@
       8.07,
       9.05
     ]
-  },
-  "reference": "03530004UOR"
+  }
 }

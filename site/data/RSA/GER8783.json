@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/GER8783",
   "country": "RSA",
+  "reference": "04620004JKC",
   "name": "SELINARIS",
   "rating": {
     "gph": 698.5,
@@ -197,6 +198,5 @@
       7.58,
       8.13
     ]
-  },
-  "reference": "04620004JKC"
+  }
 }

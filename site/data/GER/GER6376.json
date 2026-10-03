@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6376",
   "country": "GER",
+  "reference": "03520004I3P",
   "name": "RAPTOR",
   "rating": {
     "gph": 581.6,
@@ -197,6 +198,5 @@
       8.33,
       10.09
     ]
-  },
-  "reference": "03520004I3P"
+  }
 }

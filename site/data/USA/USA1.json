@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA1",
   "country": "USA",
+  "reference": "04560004UMW",
   "name": "RAVN",
   "rating": {
     "gph": 543.6,
@@ -197,6 +198,5 @@
       12.0,
       15.18
     ]
-  },
-  "reference": "04560004UMW"
+  }
 }

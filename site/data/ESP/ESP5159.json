@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5159",
   "country": "ESP",
+  "reference": "03510004FT9",
   "name": "AZUL III",
   "rating": {
     "gph": 709.7,
@@ -197,6 +198,5 @@
       7.04,
       7.66
     ]
-  },
-  "reference": "03510004FT9"
+  }
 }

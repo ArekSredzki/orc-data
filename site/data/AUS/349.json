@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/349",
   "country": "AUS",
+  "reference": "03020004U6Q",
   "name": "Pinta Bay",
   "rating": {
     "gph": 645.0,
@@ -197,6 +198,5 @@
       7.9,
       8.68
     ]
-  },
-  "reference": "03020004U6Q"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13724",
   "country": "NOR",
+  "reference": "03440004ISM",
   "name": "Vindtora",
   "rating": {
     "gph": 673.0,
@@ -197,6 +198,5 @@
       7.07,
       7.79
     ]
-  },
-  "reference": "03440004ISM"
+  }
 }

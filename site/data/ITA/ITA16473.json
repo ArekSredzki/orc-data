@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16473",
   "country": "ITA",
+  "reference": "03190004BNA",
   "name": "STRABILIA",
   "rating": {
     "gph": 659.1,
@@ -197,6 +198,5 @@
       7.51,
       8.14
     ]
-  },
-  "reference": "03190004BNA"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN30",
   "country": "CAN",
+  "reference": "03430004QR6",
   "name": ".30-30",
   "rating": {
     "gph": 586.6,
@@ -197,6 +198,5 @@
       9.58,
       12.44
     ]
-  },
-  "reference": "03430004QR6"
+  }
 }

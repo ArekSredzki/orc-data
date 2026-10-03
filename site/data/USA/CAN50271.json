@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/CAN50271",
   "country": "USA",
+  "reference": "04560004RU2",
   "name": "ANDIAMO",
   "rating": {
     "gph": 573.6,
@@ -197,6 +198,5 @@
       8.25,
       9.9
     ]
-  },
-  "reference": "04560004RU2"
+  }
 }

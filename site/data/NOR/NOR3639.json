@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR3639",
   "country": "NOR",
+  "reference": "03440004KEV",
   "name": "Cecilie II",
   "rating": {
     "gph": 688.6,
@@ -197,6 +198,5 @@
       7.32,
       8.0
     ]
-  },
-  "reference": "03440004KEV"
+  }
 }

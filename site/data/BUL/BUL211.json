@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL211",
   "country": "BUL",
+  "reference": "03850004Q6S",
   "name": "KALINA",
   "rating": {
     "gph": 772.4,
@@ -197,6 +198,5 @@
       6.74,
       7.25
     ]
-  },
-  "reference": "03850004Q6S"
+  }
 }

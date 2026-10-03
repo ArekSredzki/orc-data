@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/H2621",
   "country": "AUS",
+  "reference": "03020004V4M",
   "name": "De Ja Blue",
   "rating": {
     "gph": 682.9,
@@ -197,6 +198,5 @@
       7.36,
       8.02
     ]
-  },
-  "reference": "03020004V4M"
+  }
 }

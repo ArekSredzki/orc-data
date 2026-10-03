@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN21",
   "country": "FIN",
+  "reference": "04140004VPP",
   "name": "Caro V",
   "rating": {
     "gph": 719.0,
@@ -197,6 +198,5 @@
       7.31,
       8.2
     ]
-  },
-  "reference": "04140004VPP"
+  }
 }

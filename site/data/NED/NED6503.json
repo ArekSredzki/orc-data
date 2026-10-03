@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6503",
   "country": "NED",
+  "reference": "04310004U9D",
   "name": "RIBELLE",
   "rating": {
     "gph": 467.4,
@@ -197,6 +198,5 @@
       10.45,
       12.15
     ]
-  },
-  "reference": "04310004U9D"
+  }
 }

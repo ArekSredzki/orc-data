@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16251",
   "country": "NOR",
+  "reference": "03440004M57",
   "name": "IYLO",
   "rating": {
     "gph": 625.2,
@@ -197,6 +198,5 @@
       7.82,
       9.46
     ]
-  },
-  "reference": "03440004M57"
+  }
 }

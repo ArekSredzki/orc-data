@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL9192",
   "country": "BUL",
+  "reference": "03850004PQB",
   "name": "LADY BLUE",
   "rating": {
     "gph": 661.0,
@@ -197,6 +198,5 @@
       7.8,
       9.13
     ]
-  },
-  "reference": "03850004PQB"
+  }
 }

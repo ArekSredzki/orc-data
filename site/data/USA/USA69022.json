@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA69022",
   "country": "USA",
+  "reference": "04560004P8I",
   "name": "Jugo",
   "rating": {
     "gph": 581.7,
@@ -197,6 +198,5 @@
       8.08,
       9.25
     ]
-  },
-  "reference": "04560004P8I"
+  }
 }

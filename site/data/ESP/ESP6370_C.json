@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6370_C",
   "country": "ESP",
+  "reference": "03510004BCP",
   "name": "SUR-BE",
   "rating": {
     "gph": 636.4,
@@ -197,6 +198,5 @@
       8.01,
       9.12
     ]
-  },
-  "reference": "03510004BCP"
+  }
 }

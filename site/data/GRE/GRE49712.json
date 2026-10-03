@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49712",
   "country": "GRE",
+  "reference": "03420004R4E",
   "name": "PUGLIA",
   "rating": {
     "gph": 706.7,
@@ -197,6 +198,5 @@
       7.21,
       7.79
     ]
-  },
-  "reference": "03420004R4E"
+  }
 }

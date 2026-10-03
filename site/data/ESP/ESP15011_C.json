@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP15011_C",
   "country": "ESP",
+  "reference": "03510004F04",
   "name": "MARA",
   "rating": {
     "gph": 770.7,
@@ -197,6 +198,5 @@
       6.65,
       9.82
     ]
-  },
-  "reference": "03510004F04"
+  }
 }

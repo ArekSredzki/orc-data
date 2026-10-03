@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR518",
   "country": "TUR",
+  "reference": "04590004IO5",
   "name": "GAME CHANGER",
   "rating": {
     "gph": 573.9,
@@ -197,6 +198,5 @@
       8.49,
       9.7
     ]
-  },
-  "reference": "04590004IO5"
+  }
 }

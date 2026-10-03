@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR4352",
   "country": "NOR",
+  "reference": "03440004NB2",
   "name": "Shiraz",
   "rating": {
     "gph": 735.3,
@@ -197,6 +198,5 @@
       6.73,
       7.27
     ]
-  },
-  "reference": "03440004NB2"
+  }
 }

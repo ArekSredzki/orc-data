@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST512",
   "country": "EST",
+  "reference": "04340004V7F",
   "name": "Meribel",
   "rating": {
     "gph": 669.3,
@@ -197,6 +198,5 @@
       7.26,
       7.83
     ]
-  },
-  "reference": "04340004V7F"
+  }
 }

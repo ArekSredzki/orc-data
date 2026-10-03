@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/G5593",
   "country": "AUS",
+  "reference": "03020004WMQ",
   "name": "Kestrel",
   "rating": {
     "gph": 599.6,
@@ -197,6 +198,5 @@
       8.57,
       10.68
     ]
-  },
-  "reference": "03020004WMQ"
+  }
 }

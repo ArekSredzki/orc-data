@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/NED89",
   "country": "POR",
+  "reference": "03530004UOQ",
   "name": "MAKAI",
   "rating": {
     "gph": 564.4,
@@ -197,6 +198,5 @@
       10.59,
       13.63
     ]
-  },
-  "reference": "03530004UOQ"
+  }
 }

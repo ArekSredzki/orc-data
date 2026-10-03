@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL69",
   "country": "BUL",
+  "reference": "03850004RL0",
   "name": "DARINA",
   "rating": {
     "gph": 663.7,
@@ -197,6 +198,5 @@
       7.48,
       8.06
     ]
-  },
-  "reference": "03850004RL0"
+  }
 }

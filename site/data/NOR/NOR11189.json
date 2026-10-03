@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11189",
   "country": "NOR",
+  "reference": "03440004KAF",
   "name": "piXeline",
   "rating": {
     "gph": 575.9,
@@ -197,6 +198,5 @@
       8.49,
       9.23
     ]
-  },
-  "reference": "03440004KAF"
+  }
 }

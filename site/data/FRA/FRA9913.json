@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9913",
   "country": "FRA",
+  "reference": "04330004OM7",
   "name": "FESTINA LENTE IV",
   "rating": {
     "gph": 734.7,
@@ -197,6 +198,5 @@
       7.05,
       7.56
     ]
-  },
-  "reference": "04330004OM7"
+  }
 }

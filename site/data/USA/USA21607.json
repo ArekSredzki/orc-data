@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA21607",
   "country": "USA",
+  "reference": "04560004VLM",
   "name": "BASERUNNER",
   "rating": {
     "gph": 673.3,
@@ -197,6 +198,5 @@
       7.36,
       7.91
     ]
-  },
-  "reference": "04560004VLM"
+  }
 }

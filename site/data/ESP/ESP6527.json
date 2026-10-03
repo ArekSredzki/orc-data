@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6527",
   "country": "ESP",
+  "reference": "03510004BMR",
   "name": "AURORA",
   "rating": {
     "gph": 631.0,
@@ -197,6 +198,5 @@
       7.89,
       8.65
     ]
-  },
-  "reference": "03510004BMR"
+  }
 }

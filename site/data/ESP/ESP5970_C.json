@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5970_C",
   "country": "ESP",
+  "reference": "03510004HL6",
   "name": "MILUC 2",
   "rating": {
     "gph": 664.1,
@@ -197,6 +198,5 @@
       7.56,
       8.23
     ]
-  },
-  "reference": "03510004HL6"
+  }
 }

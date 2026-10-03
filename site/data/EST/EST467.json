@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST467",
   "country": "EST",
+  "reference": "04340004VU1",
   "name": "ADELE",
   "rating": {
     "gph": 643.5,
@@ -197,6 +198,5 @@
       7.8,
       8.6
     ]
-  },
-  "reference": "04340004VU1"
+  }
 }

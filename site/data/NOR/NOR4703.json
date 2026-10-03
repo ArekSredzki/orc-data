@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR4703",
   "country": "NOR",
+  "reference": "03440004NSE",
   "name": "Fomle",
   "rating": {
     "gph": 745.8,
@@ -197,6 +198,5 @@
       6.71,
       7.27
     ]
-  },
-  "reference": "03440004NSE"
+  }
 }

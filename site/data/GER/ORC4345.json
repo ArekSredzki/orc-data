@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/ORC4345",
   "country": "GER",
+  "reference": "04150004RAF",
   "name": "OSTWIND",
   "rating": {
     "gph": 621.4,
@@ -197,6 +198,5 @@
       8.01,
       8.85
     ]
-  },
-  "reference": "04150004RAF"
+  }
 }

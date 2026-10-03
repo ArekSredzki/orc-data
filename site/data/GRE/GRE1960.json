@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1960",
   "country": "GRE",
+  "reference": "03420004SUJ",
   "name": "UTOPIA",
   "rating": {
     "gph": 578.4,
@@ -197,6 +198,5 @@
       8.44,
       9.28
     ]
-  },
-  "reference": "03420004SUJ"
+  }
 }

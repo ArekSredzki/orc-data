@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA888",
   "country": "FRA",
+  "reference": "04330004KSC",
   "name": "LA RAILLEUSE",
   "rating": {
     "gph": 651.8,
@@ -197,6 +198,5 @@
       7.71,
       8.51
     ]
-  },
-  "reference": "04330004KSC"
+  }
 }

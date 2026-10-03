@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16320",
   "country": "NOR",
+  "reference": "03440004MWU",
   "name": "Pandora",
   "rating": {
     "gph": 741.6,
@@ -197,6 +198,5 @@
       6.99,
       7.63
     ]
-  },
-  "reference": "03440004MWU"
+  }
 }

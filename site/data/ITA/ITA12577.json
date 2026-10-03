@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12577",
   "country": "ITA",
+  "reference": "03190004F3F",
   "name": "ANTARES",
   "rating": {
     "gph": 640.3,
@@ -197,6 +198,5 @@
       7.99,
       9.99
     ]
-  },
-  "reference": "03190004F3F"
+  }
 }

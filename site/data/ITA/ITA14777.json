@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14777",
   "country": "ITA",
+  "reference": "03190004OPU",
   "name": "ASELL",
   "rating": {
     "gph": 607.1,
@@ -197,6 +198,5 @@
       8.22,
       10.11
     ]
-  },
-  "reference": "03190004OPU"
+  }
 }

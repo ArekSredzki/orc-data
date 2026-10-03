@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3801",
   "country": "NED",
+  "reference": "04310004JU4",
   "name": "Aguila",
   "rating": {
     "gph": 641.2,
@@ -197,6 +198,5 @@
       7.34,
       8.02
     ]
-  },
-  "reference": "04310004JU4"
+  }
 }

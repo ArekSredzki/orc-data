@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1609",
   "country": "GRE",
+  "reference": "03420004NK1",
   "name": "HOY HOY",
   "rating": {
     "gph": 655.2,
@@ -197,6 +198,5 @@
       7.34,
       7.81
     ]
-  },
-  "reference": "03420004NK1"
+  }
 }

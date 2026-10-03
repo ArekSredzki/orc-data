@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA44",
   "country": "USA",
+  "reference": "04560004F00",
   "name": "Shada",
   "rating": {
     "gph": 602.0,
@@ -197,6 +198,5 @@
       7.74,
       9.06
     ]
-  },
-  "reference": "04560004F00"
+  }
 }

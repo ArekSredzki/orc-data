@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER3999",
   "country": "GER",
+  "reference": "03520004OTW",
   "name": "MISS X",
   "rating": {
     "gph": 619.7,
@@ -197,6 +198,5 @@
       7.66,
       8.67
     ]
-  },
-  "reference": "03520004OTW"
+  }
 }

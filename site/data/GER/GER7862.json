@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7862",
   "country": "GER",
+  "reference": "03520004I2H",
   "name": "ECLIPSE",
   "rating": {
     "gph": 621.9,
@@ -197,6 +198,5 @@
       8.25,
       10.22
     ]
-  },
-  "reference": "03520004I2H"
+  }
 }

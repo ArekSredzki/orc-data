@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/FRA53522",
   "country": "ESP",
+  "reference": "03510004C8K",
   "name": "PIMPSTEN",
   "rating": {
     "gph": 610.7,
@@ -197,6 +198,5 @@
       7.94,
       8.67
     ]
-  },
-  "reference": "03510004C8K"
+  }
 }

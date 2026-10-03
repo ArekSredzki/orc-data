@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE50",
   "country": "GRE",
+  "reference": "03420004IUP",
   "name": "MY WAY",
   "rating": {
     "gph": 499.9,
@@ -197,6 +198,5 @@
       9.96,
       12.12
     ]
-  },
-  "reference": "03420004IUP"
+  }
 }

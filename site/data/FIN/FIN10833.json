@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10833",
   "country": "FIN",
+  "reference": "04140004O35",
   "name": "Blue Pepper",
   "rating": {
     "gph": 642.9,
@@ -197,6 +198,5 @@
       7.84,
       8.65
     ]
-  },
-  "reference": "04140004O35"
+  }
 }

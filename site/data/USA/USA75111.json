@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA75111",
   "country": "USA",
+  "reference": "04560004EVA",
   "name": "Hooligan",
   "rating": {
     "gph": 567.3,
@@ -197,6 +198,5 @@
       9.03,
       11.5
     ]
-  },
-  "reference": "04560004EVA"
+  }
 }

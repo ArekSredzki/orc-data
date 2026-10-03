@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2501",
   "country": "TUR",
+  "reference": "04590004VRK",
   "name": "ORIENT EXPRESS 6.5",
   "rating": {
     "gph": 620.7,
@@ -197,6 +198,5 @@
       10.66,
       13.7
     ]
-  },
-  "reference": "04590004VRK"
+  }
 }

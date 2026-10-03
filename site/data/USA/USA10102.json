@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA10102",
   "country": "USA",
+  "reference": "04560004RDM",
   "name": "ROWDY",
   "rating": {
     "gph": 599.0,
@@ -197,6 +198,5 @@
       7.99,
       10.55
     ]
-  },
-  "reference": "04560004RDM"
+  }
 }

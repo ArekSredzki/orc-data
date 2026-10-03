@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN7255",
   "country": "JPN",
+  "reference": "03390004VHC",
   "name": "GUMBO IV",
   "rating": {
     "gph": 570.7,
@@ -197,6 +198,5 @@
       9.22,
       12.07
     ]
-  },
-  "reference": "03390004VHC"
+  }
 }

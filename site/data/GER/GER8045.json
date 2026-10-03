@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8045",
   "country": "GER",
+  "reference": "03520004UL4",
   "name": "HALBTROCKEN 4.5",
   "rating": {
     "gph": 468.3,
@@ -197,6 +198,5 @@
       12.56,
       16.11
     ]
-  },
-  "reference": "03520004UL4"
+  }
 }

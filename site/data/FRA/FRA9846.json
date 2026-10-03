@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9846",
   "country": "FRA",
+  "reference": "04330004K6V",
   "name": "LES BARBARES",
   "rating": {
     "gph": 683.8,
@@ -197,6 +198,5 @@
       7.48,
       8.19
     ]
-  },
-  "reference": "04330004K6V"
+  }
 }

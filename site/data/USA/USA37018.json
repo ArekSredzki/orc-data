@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA37018",
   "country": "USA",
+  "reference": "04560004WK0",
   "name": "SALTY TANGO",
   "rating": {
     "gph": 598.8,
@@ -197,6 +198,5 @@
       7.93,
       9.16
     ]
-  },
-  "reference": "04560004WK0"
+  }
 }

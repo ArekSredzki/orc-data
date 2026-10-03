@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13967",
   "country": "ITA",
+  "reference": "03190004T7J",
   "name": "LIBERA",
   "rating": {
     "gph": 683.5,
@@ -197,6 +198,5 @@
       7.34,
       7.92
     ]
-  },
-  "reference": "03190004T7J"
+  }
 }

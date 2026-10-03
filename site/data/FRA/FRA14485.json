@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA14485",
   "country": "FRA",
+  "reference": "04330004LQD",
   "name": "EXOCET",
   "rating": {
     "gph": 635.1,
@@ -197,6 +198,5 @@
       7.77,
       8.56
     ]
-  },
-  "reference": "04330004LQD"
+  }
 }

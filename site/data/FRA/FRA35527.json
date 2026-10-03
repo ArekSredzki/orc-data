@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA35527",
   "country": "FRA",
+  "reference": "04330004TD6",
   "name": "SARTINE",
   "rating": {
     "gph": 753.7,
@@ -197,6 +198,5 @@
       6.62,
       7.23
     ]
-  },
-  "reference": "04330004TD6"
+  }
 }

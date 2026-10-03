@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2463",
   "country": "LTU",
+  "reference": "03590004V0R",
   "name": "KIRKE 3",
   "rating": {
     "gph": 707.4,
@@ -197,6 +198,5 @@
       7.01,
       8.14
     ]
-  },
-  "reference": "03590004V0R"
+  }
 }

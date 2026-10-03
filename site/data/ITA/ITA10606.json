@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10606",
   "country": "ITA",
+  "reference": "03190004FO7",
   "name": "TEESPERA",
   "rating": {
     "gph": 695.6,
@@ -197,6 +198,5 @@
       7.35,
       9.28
     ]
-  },
-  "reference": "03190004FO7"
+  }
 }

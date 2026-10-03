@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11203",
   "country": "NOR",
+  "reference": "03440004KEQ",
   "name": "LISA",
   "rating": {
     "gph": 613.2,
@@ -197,6 +198,5 @@
       8.01,
       8.75
     ]
-  },
-  "reference": "03440004KEQ"
+  }
 }

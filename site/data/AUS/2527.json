@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/2527",
   "country": "AUS",
+  "reference": "03020004TBJ",
   "name": "XANTHUS",
   "rating": {
     "gph": 530.8,
@@ -197,6 +198,5 @@
       9.39,
       10.23
     ]
-  },
-  "reference": "03020004TBJ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR4753",
   "country": "NOR",
+  "reference": "03440004NSK",
   "name": "Miria",
   "rating": {
     "gph": 741.6,
@@ -197,6 +198,5 @@
       6.75,
       7.27
     ]
-  },
-  "reference": "03440004NSK"
+  }
 }

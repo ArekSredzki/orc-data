@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4418_C",
   "country": "ESP",
+  "reference": "03510004LO1",
   "name": "GRIEGO",
   "rating": {
     "gph": 607.8,
@@ -197,6 +198,5 @@
       8.1,
       8.75
     ]
-  },
-  "reference": "03510004LO1"
+  }
 }

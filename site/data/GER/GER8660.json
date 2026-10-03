@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8660",
   "country": "GER",
+  "reference": "04150004QF1",
   "name": "NOTRE DAME",
   "rating": {
     "gph": 560.0,
@@ -197,6 +198,5 @@
       8.29,
       9.79
     ]
-  },
-  "reference": "04150004QF1"
+  }
 }

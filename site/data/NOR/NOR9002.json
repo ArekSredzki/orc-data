@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9002",
   "country": "NOR",
+  "reference": "03440004LLC",
   "name": "NN",
   "rating": {
     "gph": 589.4,
@@ -197,6 +198,5 @@
       8.34,
       9.33
     ]
-  },
-  "reference": "03440004LLC"
+  }
 }

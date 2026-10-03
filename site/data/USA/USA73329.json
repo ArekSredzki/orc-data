@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA73329",
   "country": "USA",
+  "reference": "04560004I0M",
   "name": "BREAKAWAY",
   "rating": {
     "gph": 636.0,
@@ -197,6 +198,5 @@
       7.73,
       8.49
     ]
-  },
-  "reference": "04560004I0M"
+  }
 }

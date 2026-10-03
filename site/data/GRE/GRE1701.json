@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1701",
   "country": "GRE",
+  "reference": "03420004OUA",
   "name": "MELTEMI",
   "rating": {
     "gph": 583.6,
@@ -197,6 +198,5 @@
       8.29,
       9.54
     ]
-  },
-  "reference": "03420004OUA"
+  }
 }

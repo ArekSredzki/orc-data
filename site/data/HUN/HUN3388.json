@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN3388",
   "country": "HUN",
+  "reference": "04890004QAL",
   "name": "\u00c9quilibre",
   "rating": {
     "gph": 702.5,
@@ -197,6 +198,5 @@
       7.35,
       8.1
     ]
-  },
-  "reference": "04890004QAL"
+  }
 }

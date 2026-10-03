@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10723_C",
   "country": "ESP",
+  "reference": "03510004F23",
   "name": "ALICIA",
   "rating": {
     "gph": 658.2,
@@ -197,6 +198,5 @@
       7.54,
       8.22
     ]
-  },
-  "reference": "03510004F23"
+  }
 }

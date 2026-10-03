@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1359_C",
   "country": "ESP",
+  "reference": "03510004KQN",
   "name": "ODYSSEUS",
   "rating": {
     "gph": 652.7,
@@ -197,6 +198,5 @@
       7.5,
       8.12
     ]
-  },
-  "reference": "03510004KQN"
+  }
 }

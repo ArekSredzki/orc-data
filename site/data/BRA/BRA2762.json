@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2762",
   "country": "BRA",
+  "reference": "04420004B30",
   "name": "Kair\u00f3s",
   "rating": {
     "gph": 568.3,
@@ -197,6 +198,5 @@
       10.97,
       14.28
     ]
-  },
-  "reference": "04420004B30"
+  }
 }

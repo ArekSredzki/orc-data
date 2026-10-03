@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/ITA16020_C",
   "country": "FRA",
+  "reference": "04330004FSV",
   "name": "ENJ\u00d2LIT",
   "rating": {
     "gph": 635.9,
@@ -197,6 +198,5 @@
       7.49,
       8.39
     ]
-  },
-  "reference": "04330004FSV"
+  }
 }

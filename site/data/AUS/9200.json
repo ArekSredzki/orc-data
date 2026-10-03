@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/9200",
   "country": "AUS",
+  "reference": "03020004W1H",
   "name": "Roadrunner",
   "rating": {
     "gph": 548.8,
@@ -197,6 +198,5 @@
       11.98,
       15.15
     ]
-  },
-  "reference": "03020004W1H"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1244",
   "country": "GRE",
+  "reference": "03420004WEB",
   "name": "ARISTOFANI",
   "rating": {
     "gph": 572.9,
@@ -197,6 +198,5 @@
       8.63,
       9.61
     ]
-  },
-  "reference": "03420004WEB"
+  }
 }

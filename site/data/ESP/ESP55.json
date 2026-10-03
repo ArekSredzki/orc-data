@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP55",
   "country": "ESP",
+  "reference": "03510004VHL",
   "name": "FIGARO 55",
   "rating": {
     "gph": 597.7,
@@ -197,6 +198,5 @@
       9.55,
       12.08
     ]
-  },
-  "reference": "03510004VHL"
+  }
 }

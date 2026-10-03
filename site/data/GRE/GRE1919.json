@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1919",
   "country": "GRE",
+  "reference": "03420004VAQ",
   "name": "BANA BIOLETTA 5",
   "rating": {
     "gph": 608.3,
@@ -197,6 +198,5 @@
       8.13,
       8.85
     ]
-  },
-  "reference": "03420004VAQ"
+  }
 }

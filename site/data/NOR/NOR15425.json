@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15425",
   "country": "NOR",
+  "reference": "03440004KDU",
   "name": "Marlin",
   "rating": {
     "gph": 593.7,
@@ -197,6 +198,5 @@
       7.99,
       8.9
     ]
-  },
-  "reference": "03440004KDU"
+  }
 }

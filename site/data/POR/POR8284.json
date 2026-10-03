@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR8284",
   "country": "POR",
+  "reference": "03530004MJ3",
   "name": "LEIXAO",
   "rating": {
     "gph": 636.8,
@@ -197,6 +198,5 @@
       8.03,
       9.17
     ]
-  },
-  "reference": "03530004MJ3"
+  }
 }

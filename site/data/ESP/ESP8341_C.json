@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8341_C",
   "country": "ESP",
+  "reference": "03510004KVH",
   "name": "VIVA",
   "rating": {
     "gph": 635.4,
@@ -197,6 +198,5 @@
       7.52,
       8.81
     ]
-  },
-  "reference": "03510004KVH"
+  }
 }

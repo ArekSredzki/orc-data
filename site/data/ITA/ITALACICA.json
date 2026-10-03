@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITALACICA",
   "country": "ITA",
+  "reference": "03190004BDP",
   "name": "LA CICALA",
   "rating": {
     "gph": 626.8,
@@ -197,6 +198,5 @@
       8.02,
       8.64
     ]
-  },
-  "reference": "03190004BDP"
+  }
 }

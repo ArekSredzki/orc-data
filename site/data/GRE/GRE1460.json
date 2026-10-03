@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1460",
   "country": "GRE",
+  "reference": "03420004LA1",
   "name": "PITHEAS",
   "rating": {
     "gph": 762.8,
@@ -197,6 +198,5 @@
       6.99,
       7.51
     ]
-  },
-  "reference": "03420004LA1"
+  }
 }

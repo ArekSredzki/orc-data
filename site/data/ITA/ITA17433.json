@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17433",
   "country": "ITA",
+  "reference": "03190004PDW",
   "name": "NAKA",
   "rating": {
     "gph": 512.0,
@@ -197,6 +198,5 @@
       9.16,
       10.7
     ]
-  },
-  "reference": "03190004PDW"
+  }
 }

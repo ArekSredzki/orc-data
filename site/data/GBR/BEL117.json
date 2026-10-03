@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/BEL117",
   "country": "GBR",
+  "reference": "03860004WUA",
   "name": "ASANA",
   "rating": {
     "gph": 511.8,
@@ -197,6 +198,5 @@
       9.21,
       9.85
     ]
-  },
-  "reference": "03860004WUA"
+  }
 }

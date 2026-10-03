@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7307",
   "country": "NED",
+  "reference": "04310004PIS",
   "name": "Rosetta",
   "rating": {
     "gph": 614.2,
@@ -197,6 +198,5 @@
       8.06,
       8.8
     ]
-  },
-  "reference": "04310004PIS"
+  }
 }

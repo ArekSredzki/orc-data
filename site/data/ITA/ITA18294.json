@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18294",
   "country": "ITA",
+  "reference": "03190004MNH",
   "name": "SIDERA",
   "rating": {
     "gph": 645.9,
@@ -197,6 +198,5 @@
       7.37,
       7.96
     ]
-  },
-  "reference": "03190004MNH"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA3005",
   "country": "ITA",
+  "reference": "03190004NWH",
   "name": "MAS-QUE-NADA",
   "rating": {
     "gph": 598.7,
@@ -197,6 +198,5 @@
       9.23,
       11.87
     ]
-  },
-  "reference": "03190004NWH"
+  }
 }

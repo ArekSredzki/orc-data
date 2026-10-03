@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2509",
   "country": "CRO",
+  "reference": "03620004ISI",
   "name": "Pingala",
   "rating": {
     "gph": 597.0,
@@ -197,6 +198,5 @@
       8.5,
       9.28
     ]
-  },
-  "reference": "03620004ISI"
+  }
 }

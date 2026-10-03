@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15525",
   "country": "ITA",
+  "reference": "03190004P1J",
   "name": "EDERAN",
   "rating": {
     "gph": 634.4,
@@ -197,6 +198,5 @@
       7.84,
       8.58
     ]
-  },
-  "reference": "03190004P1J"
+  }
 }

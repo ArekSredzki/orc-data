@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9618",
   "country": "NOR",
+  "reference": "03440004KAB",
   "name": "Felicia IV",
   "rating": {
     "gph": 624.5,
@@ -197,6 +198,5 @@
       7.89,
       8.57
     ]
-  },
-  "reference": "03440004KAB"
+  }
 }

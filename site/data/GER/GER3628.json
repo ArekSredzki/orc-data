@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER3628",
   "country": "GER",
+  "reference": "04150004LNC",
   "name": "TROPHYFEE",
   "rating": {
     "gph": 766.6,
@@ -197,6 +198,5 @@
       6.46,
       7.07
     ]
-  },
-  "reference": "04150004LNC"
+  }
 }

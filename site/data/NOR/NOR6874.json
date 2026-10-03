@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR6874",
   "country": "NOR",
+  "reference": "03440004L33",
   "name": "Kelso",
   "rating": {
     "gph": 619.2,
@@ -197,6 +198,5 @@
       7.84,
       8.5
     ]
-  },
-  "reference": "03440004L33"
+  }
 }

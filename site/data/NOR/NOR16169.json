@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16169",
   "country": "NOR",
+  "reference": "03440004KH6",
   "name": "Volare",
   "rating": {
     "gph": 681.8,
@@ -197,6 +198,5 @@
       7.39,
       8.2
     ]
-  },
-  "reference": "03440004KH6"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST554",
   "country": "EST",
+  "reference": "04340004UQ6",
   "name": "LAGLE III",
   "rating": {
     "gph": 749.7,
@@ -197,6 +198,5 @@
       6.79,
       7.42
     ]
-  },
-  "reference": "04340004UQ6"
+  }
 }

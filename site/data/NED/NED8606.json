@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8606",
   "country": "NED",
+  "reference": "04310004K1I",
   "name": "Stardust",
   "rating": {
     "gph": 698.8,
@@ -197,6 +198,5 @@
       7.51,
       8.09
     ]
-  },
-  "reference": "04310004K1I"
+  }
 }

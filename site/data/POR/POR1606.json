@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR1606",
   "country": "POR",
+  "reference": "03530004WTL",
   "name": "VADIO IV",
   "rating": {
     "gph": 601.9,
@@ -197,6 +198,5 @@
       8.31,
       9.16
     ]
-  },
-  "reference": "03530004WTL"
+  }
 }

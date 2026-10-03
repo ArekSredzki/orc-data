@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR324",
   "country": "KOR",
+  "reference": "04550004B0O",
   "name": "Wind Path",
   "rating": {
     "gph": 593.4,
@@ -197,6 +198,5 @@
       10.96,
       14.1
     ]
-  },
-  "reference": "04550004B0O"
+  }
 }

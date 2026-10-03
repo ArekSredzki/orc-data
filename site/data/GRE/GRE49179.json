@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49179",
   "country": "GRE",
+  "reference": "03420004IOV",
   "name": "HATTORI HANZO",
   "rating": {
     "gph": 641.8,
@@ -197,6 +198,5 @@
       7.81,
       8.88
     ]
-  },
-  "reference": "03420004IOV"
+  }
 }

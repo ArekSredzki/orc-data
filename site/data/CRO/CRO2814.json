@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2814",
   "country": "CRO",
+  "reference": "03620004LUW",
   "name": "A.HO.I. One",
   "rating": {
     "gph": 609.7,
@@ -197,6 +198,5 @@
       8.29,
       9.0
     ]
-  },
-  "reference": "03620004LUW"
+  }
 }

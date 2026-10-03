@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR7340",
   "country": "NOR",
+  "reference": "03440004NAJ",
   "name": "Odrik II",
   "rating": {
     "gph": 655.4,
@@ -197,6 +198,5 @@
       7.51,
       8.12
     ]
-  },
-  "reference": "03440004NAJ"
+  }
 }

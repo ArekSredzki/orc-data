@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13945",
   "country": "ITA",
+  "reference": "03190004ME3",
   "name": "BLU FANTA'SIA",
   "rating": {
     "gph": 596.4,
@@ -197,6 +198,5 @@
       8.19,
       8.94
     ]
-  },
-  "reference": "03190004ME3"
+  }
 }

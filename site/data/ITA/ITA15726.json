@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15726",
   "country": "ITA",
+  "reference": "03190004B5D",
   "name": "DEA GITANA",
   "rating": {
     "gph": 644.1,
@@ -197,6 +198,5 @@
       7.41,
       8.07
     ]
-  },
-  "reference": "03190004B5D"
+  }
 }

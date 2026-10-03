@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/ESP10463",
   "country": "TUR",
+  "reference": "04590004WOQ",
   "name": "WIND CATCHER",
   "rating": {
     "gph": 560.2,
@@ -197,6 +198,5 @@
       8.92,
       10.42
     ]
-  },
-  "reference": "04590004WOQ"
+  }
 }

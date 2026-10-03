@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA368",
   "country": "USA",
+  "reference": "04560004US7",
   "name": "BULL",
   "rating": {
     "gph": 603.7,
@@ -197,6 +198,5 @@
       7.85,
       9.72
     ]
-  },
-  "reference": "04560004US7"
+  }
 }

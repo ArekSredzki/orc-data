@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL677",
   "country": "BUL",
+  "reference": "03850004RS3",
   "name": "Impala",
   "rating": {
     "gph": 732.6,
@@ -197,6 +198,5 @@
       6.64,
       7.29
     ]
-  },
-  "reference": "03850004RS3"
+  }
 }

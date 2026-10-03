@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49365",
   "country": "GRE",
+  "reference": "03420004IML",
   "name": "\u03a3\u0399\u039c\u03a0\u0391",
   "rating": {
     "gph": 819.0,
@@ -197,6 +198,5 @@
       6.55,
       7.08
     ]
-  },
-  "reference": "03420004IML"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5299",
   "country": "ESP",
+  "reference": "03510004F11",
   "name": "CHANQUETE 1",
   "rating": {
     "gph": 779.8,
@@ -197,6 +198,5 @@
       6.55,
       7.1
     ]
-  },
-  "reference": "03510004F11"
+  }
 }

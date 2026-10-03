@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18293",
   "country": "ITA",
+  "reference": "03190004NVW",
   "name": "GUIZZO IS BACK",
   "rating": {
     "gph": 554.4,
@@ -197,6 +198,5 @@
       9.46,
       12.49
     ]
-  },
-  "reference": "03190004NVW"
+  }
 }

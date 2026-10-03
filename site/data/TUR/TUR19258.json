@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR19258",
   "country": "TUR",
+  "reference": "04590004H5O",
   "name": "WILD WEST",
   "rating": {
     "gph": 530.5,
@@ -197,6 +198,5 @@
       10.65,
       13.87
     ]
-  },
-  "reference": "04590004H5O"
+  }
 }

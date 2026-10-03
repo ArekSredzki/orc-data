@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17648",
   "country": "ITA",
+  "reference": "03190004H11",
   "name": "FAR WEST",
   "rating": {
     "gph": 588.5,
@@ -197,6 +198,5 @@
       11.48,
       14.49
     ]
-  },
-  "reference": "03190004H11"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/SUI666",
   "country": "TUR",
+  "reference": "04590004HMO",
   "name": "CHOCOLATE",
   "rating": {
     "gph": 530.1,
@@ -197,6 +198,5 @@
       10.0,
       12.55
     ]
-  },
-  "reference": "04590004HMO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1773",
   "country": "GRE",
+  "reference": "03420004VS9",
   "name": "TOLMI",
   "rating": {
     "gph": 708.8,
@@ -197,6 +198,5 @@
       7.0,
       7.54
     ]
-  },
-  "reference": "03420004VS9"
+  }
 }

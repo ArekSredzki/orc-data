@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GER3197_C",
   "country": "ESP",
+  "reference": "03510004FJU",
   "name": "THE GOODIES",
   "rating": {
     "gph": 665.7,
@@ -197,6 +198,5 @@
       7.48,
       8.4
     ]
-  },
-  "reference": "03510004FJU"
+  }
 }

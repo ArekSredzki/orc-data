@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA91",
   "country": "ITA",
+  "reference": "03190004HJV",
   "name": "SPRIZ",
   "rating": {
     "gph": 632.3,
@@ -197,6 +198,5 @@
       7.58,
       8.36
     ]
-  },
-  "reference": "03190004HJV"
+  }
 }

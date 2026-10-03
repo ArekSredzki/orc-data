@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA46722",
   "country": "USA",
+  "reference": "04560004RTE",
   "name": "VIVA LA VIDA",
   "rating": {
     "gph": 570.9,
@@ -197,6 +198,5 @@
       8.33,
       10.06
     ]
-  },
-  "reference": "04560004RTE"
+  }
 }

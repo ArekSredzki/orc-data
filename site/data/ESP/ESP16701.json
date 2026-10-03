@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP16701",
   "country": "ESP",
+  "reference": "03510004OMJ",
   "name": "ESCORA",
   "rating": {
     "gph": 781.4,
@@ -197,6 +198,5 @@
       6.39,
       7.07
     ]
-  },
-  "reference": "03510004OMJ"
+  }
 }

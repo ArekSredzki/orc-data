@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA25825",
   "country": "USA",
+  "reference": "04560004V6K",
   "name": "POP'AYE",
   "rating": {
     "gph": 608.4,
@@ -197,6 +198,5 @@
       7.72,
       8.3
     ]
-  },
-  "reference": "04560004V6K"
+  }
 }

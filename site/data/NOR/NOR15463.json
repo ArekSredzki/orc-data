@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15463",
   "country": "NOR",
+  "reference": "03440004HQV",
   "name": "Twist",
   "rating": {
     "gph": 674.8,
@@ -197,6 +198,5 @@
       7.19,
       7.66
     ]
-  },
-  "reference": "03440004HQV"
+  }
 }

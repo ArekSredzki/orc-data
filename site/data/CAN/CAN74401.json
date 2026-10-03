@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN74401",
   "country": "CAN",
+  "reference": "03430004F69",
   "name": "Merlin",
   "rating": {
     "gph": 596.2,
@@ -197,6 +198,5 @@
       8.31,
       9.15
     ]
-  },
-  "reference": "03430004F69"
+  }
 }

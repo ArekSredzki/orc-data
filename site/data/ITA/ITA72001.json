@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA72001",
   "country": "ITA",
+  "reference": "03190004HJS",
   "name": "PANTAREI 2",
   "rating": {
     "gph": 453.0,
@@ -197,6 +198,5 @@
       10.31,
       11.65
     ]
-  },
-  "reference": "03190004HJS"
+  }
 }

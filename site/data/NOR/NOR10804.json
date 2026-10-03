@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10804",
   "country": "NOR",
+  "reference": "03440004O9P",
   "name": "Elb\u00e5den Silent Sea",
   "rating": {
     "gph": 572.7,
@@ -197,6 +198,5 @@
       8.38,
       9.03
     ]
-  },
-  "reference": "03440004O9P"
+  }
 }

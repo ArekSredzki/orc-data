@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9092",
   "country": "NED",
+  "reference": "04310004K2I",
   "name": "Why knot",
   "rating": {
     "gph": 642.8,
@@ -197,6 +198,5 @@
       10.12,
       13.11
     ]
-  },
-  "reference": "04310004K2I"
+  }
 }

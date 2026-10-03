@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/A164",
   "country": "AUS",
+  "reference": "03020004VLB",
   "name": "STICKY",
   "rating": {
     "gph": 458.8,
@@ -197,6 +198,5 @@
       12.58,
       15.81
     ]
-  },
-  "reference": "03020004VLB"
+  }
 }

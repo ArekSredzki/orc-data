@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61666",
   "country": "USA",
+  "reference": "04560004VR5",
   "name": "JUNGLELAND",
   "rating": {
     "gph": 566.6,
@@ -197,6 +198,5 @@
       9.16,
       11.64
     ]
-  },
-  "reference": "04560004VR5"
+  }
 }

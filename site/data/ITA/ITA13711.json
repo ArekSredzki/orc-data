@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13711",
   "country": "ITA",
+  "reference": "03190004L8Q",
   "name": "SHEAR TERROR",
   "rating": {
     "gph": 523.8,
@@ -197,6 +198,5 @@
       10.26,
       13.22
     ]
-  },
-  "reference": "03190004L8Q"
+  }
 }

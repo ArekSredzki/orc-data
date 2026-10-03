@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10107",
   "country": "NOR",
+  "reference": "03440004M59",
   "name": "JOY IV",
   "rating": {
     "gph": 671.3,
@@ -197,6 +198,5 @@
       7.51,
       8.26
     ]
-  },
-  "reference": "03440004M59"
+  }
 }

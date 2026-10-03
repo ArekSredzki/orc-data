@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4478",
   "country": "RSA",
+  "reference": "04620004IFO",
   "name": "Azura",
   "rating": {
     "gph": 574.2,
@@ -197,6 +198,5 @@
       8.54,
       9.42
     ]
-  },
-  "reference": "04620004IFO"
+  }
 }

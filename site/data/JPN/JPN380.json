@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN380",
   "country": "JPN",
+  "reference": "03390004JHI",
   "name": "Thetis-4",
   "rating": {
     "gph": 581.0,
@@ -197,6 +198,5 @@
       8.05,
       9.11
     ]
-  },
-  "reference": "03390004JHI"
+  }
 }

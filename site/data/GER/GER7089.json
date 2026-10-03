@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7089",
   "country": "GER",
+  "reference": "04150004N78",
   "name": "DIVA",
   "rating": {
     "gph": 641.1,
@@ -197,6 +198,5 @@
       7.82,
       8.49
     ]
-  },
-  "reference": "04150004N78"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA40",
   "country": "USA",
+  "reference": "04560004QE1",
   "name": "Sea Biscuit",
   "rating": {
     "gph": 590.1,
@@ -197,6 +198,5 @@
       9.36,
       12.14
     ]
-  },
-  "reference": "04560004QE1"
+  }
 }

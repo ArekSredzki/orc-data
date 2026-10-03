@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN7183",
   "country": "JPN",
+  "reference": "03390004LVW",
   "name": "HIBIKI",
   "rating": {
     "gph": 515.6,
@@ -197,6 +198,5 @@
       9.85,
       12.23
     ]
-  },
-  "reference": "03390004LVW"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9888",
   "country": "FRA",
+  "reference": "04330004CBR",
   "name": "MAQUIS",
   "rating": {
     "gph": 599.8,
@@ -197,6 +198,5 @@
       8.02,
       8.69
     ]
-  },
-  "reference": "04330004CBR"
+  }
 }

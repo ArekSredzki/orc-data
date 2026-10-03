@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA003",
   "country": "FRA",
+  "reference": "04330004PIQ",
   "name": "ALWENA",
   "rating": {
     "gph": 612.7,
@@ -197,6 +198,5 @@
       8.53,
       11.55
     ]
-  },
-  "reference": "04330004PIQ"
+  }
 }

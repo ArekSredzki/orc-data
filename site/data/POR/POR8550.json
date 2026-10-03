@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR8550",
   "country": "POR",
+  "reference": "03530004UPL",
   "name": "TIMERIESCI",
   "rating": {
     "gph": 577.0,
@@ -197,6 +198,5 @@
       8.71,
       9.51
     ]
-  },
-  "reference": "03530004UPL"
+  }
 }

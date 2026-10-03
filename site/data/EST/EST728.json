@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST728",
   "country": "EST",
+  "reference": "04340004PBA",
   "name": "ELLI",
   "rating": {
     "gph": 666.7,
@@ -197,6 +198,5 @@
       7.65,
       8.27
     ]
-  },
-  "reference": "04340004PBA"
+  }
 }

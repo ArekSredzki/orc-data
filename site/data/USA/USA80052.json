@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA80052",
   "country": "USA",
+  "reference": "04560004NI7",
   "name": "Akua Kai",
   "rating": {
     "gph": 437.2,
@@ -197,6 +198,5 @@
       13.56,
       16.64
     ]
-  },
-  "reference": "04560004NI7"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU1337",
   "country": "ROU",
+  "reference": "05040004Q72",
   "name": "Adria",
   "rating": {
     "gph": 651.9,
@@ -197,6 +198,5 @@
       7.29,
       7.81
     ]
-  },
-  "reference": "05040004Q72"
+  }
 }

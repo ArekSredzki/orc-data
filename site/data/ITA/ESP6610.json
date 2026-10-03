@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ESP6610",
   "country": "ITA",
+  "reference": "03190004SON",
   "name": "CHEYENNE",
   "rating": {
     "gph": 567.6,
@@ -197,6 +198,5 @@
       8.53,
       10.3
     ]
-  },
-  "reference": "03190004SON"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1582",
   "country": "TUR",
+  "reference": "04590004K7A",
   "name": "INFINITO",
   "rating": {
     "gph": 611.2,
@@ -197,6 +198,5 @@
       8.14,
       9.4
     ]
-  },
-  "reference": "04590004K7A"
+  }
 }

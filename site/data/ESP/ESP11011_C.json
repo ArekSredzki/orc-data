@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11011_C",
   "country": "ESP",
+  "reference": "03510004WIW",
   "name": "SUE\u00d1O",
   "rating": {
     "gph": 686.6,
@@ -197,6 +198,5 @@
       7.09,
       7.68
     ]
-  },
-  "reference": "03510004WIW"
+  }
 }

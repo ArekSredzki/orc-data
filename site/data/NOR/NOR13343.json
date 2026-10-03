@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13343",
   "country": "NOR",
+  "reference": "03440004L4H",
   "name": "J\u00f8lle",
   "rating": {
     "gph": 638.0,
@@ -197,6 +198,5 @@
       7.73,
       8.41
     ]
-  },
-  "reference": "03440004L4H"
+  }
 }

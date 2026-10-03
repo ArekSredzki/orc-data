@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP777",
   "country": "ESP",
+  "reference": "03510004ELR",
   "name": "AZUREE",
   "rating": {
     "gph": 608.4,
@@ -197,6 +198,5 @@
       8.37,
       9.45
     ]
-  },
-  "reference": "03510004ELR"
+  }
 }

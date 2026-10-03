@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49241",
   "country": "GRE",
+  "reference": "03420004UOF",
   "name": "ELENI IV",
   "rating": {
     "gph": 683.2,
@@ -197,6 +198,5 @@
       7.39,
       7.97
     ]
-  },
-  "reference": "03420004UOF"
+  }
 }

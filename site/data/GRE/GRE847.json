@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE847",
   "country": "GRE",
+  "reference": "03420004KCM",
   "name": "YPERION",
   "rating": {
     "gph": 835.7,
@@ -197,6 +198,5 @@
       6.16,
       6.59
     ]
-  },
-  "reference": "03420004KCM"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10612",
   "country": "ESP",
+  "reference": "035100048KA",
   "name": "VELELLA",
   "rating": {
     "gph": 611.7,
@@ -197,6 +198,5 @@
       8.15,
       8.89
     ]
-  },
-  "reference": "035100048KA"
+  }
 }

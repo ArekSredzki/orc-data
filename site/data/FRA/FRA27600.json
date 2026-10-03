@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA27600",
   "country": "FRA",
+  "reference": "04330004H8A",
   "name": "EL CHICO",
   "rating": {
     "gph": 624.6,
@@ -197,6 +198,5 @@
       7.58,
       8.34
     ]
-  },
-  "reference": "04330004H8A"
+  }
 }

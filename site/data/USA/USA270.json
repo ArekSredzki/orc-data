@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA270",
   "country": "USA",
+  "reference": "04560004UCW",
   "name": "VANDA III",
   "rating": {
     "gph": 608.9,
@@ -197,6 +198,5 @@
       7.77,
       9.29
     ]
-  },
-  "reference": "04560004UCW"
+  }
 }

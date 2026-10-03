@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14500",
   "country": "NOR",
+  "reference": "03440004WA5",
   "name": "Mystique",
   "rating": {
     "gph": 580.0,
@@ -197,6 +198,5 @@
       8.54,
       9.38
     ]
-  },
-  "reference": "03440004WA5"
+  }
 }

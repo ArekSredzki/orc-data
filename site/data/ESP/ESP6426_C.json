@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6426_C",
   "country": "ESP",
+  "reference": "03510004IU3",
   "name": "MARTINI",
   "rating": {
     "gph": 622.6,
@@ -197,6 +198,5 @@
       8.13,
       8.83
     ]
-  },
-  "reference": "03510004IU3"
+  }
 }

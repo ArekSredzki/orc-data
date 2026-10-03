@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA35032",
   "country": "USA",
+  "reference": "04560004V5Q",
   "name": "WARSAW",
   "rating": {
     "gph": 557.9,
@@ -197,6 +198,5 @@
       9.95,
       13.0
     ]
-  },
-  "reference": "04560004V5Q"
+  }
 }

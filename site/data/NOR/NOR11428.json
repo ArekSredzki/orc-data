@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11428",
   "country": "NOR",
+  "reference": "03440004NKT",
   "name": "Enigheten",
   "rating": {
     "gph": 726.6,
@@ -197,6 +198,5 @@
       6.65,
       7.27
     ]
-  },
-  "reference": "03440004NKT"
+  }
 }

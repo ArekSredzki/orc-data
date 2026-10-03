@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2411",
   "country": "BRA",
+  "reference": "04420004JDP",
   "name": "DUMA",
   "rating": {
     "gph": 522.3,
@@ -197,6 +198,5 @@
       12.17,
       15.49
     ]
-  },
-  "reference": "04420004JDP"
+  }
 }

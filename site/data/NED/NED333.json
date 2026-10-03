@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED333",
   "country": "NED",
+  "reference": "04310004L49",
   "name": "Vixen",
   "rating": {
     "gph": 615.2,
@@ -197,6 +198,5 @@
       7.76,
       9.72
     ]
-  },
-  "reference": "04310004L49"
+  }
 }

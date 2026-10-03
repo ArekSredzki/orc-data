@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7513",
   "country": "NED",
+  "reference": "04310004KRR",
   "name": "Rosy Maes",
   "rating": {
     "gph": 708.9,
@@ -197,6 +198,5 @@
       7.1,
       7.67
     ]
-  },
-  "reference": "04310004KRR"
+  }
 }

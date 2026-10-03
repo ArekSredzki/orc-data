@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9337",
   "country": "FRA",
+  "reference": "04330004THP",
   "name": "RUBIS",
   "rating": {
     "gph": 573.1,
@@ -197,6 +198,5 @@
       8.6,
       9.52
     ]
-  },
-  "reference": "04330004THP"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17181",
   "country": "ITA",
+  "reference": "03190004F8O",
   "name": "L'AMANTE FRETTOLOSA",
   "rating": {
     "gph": 653.1,
@@ -197,6 +198,5 @@
       11.2,
       14.06
     ]
-  },
-  "reference": "03190004F8O"
+  }
 }

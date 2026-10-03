@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16743",
   "country": "ITA",
+  "reference": "03190004TPK",
   "name": "EXCALIBUR",
   "rating": {
     "gph": 611.0,
@@ -197,6 +198,5 @@
       8.13,
       9.08
     ]
-  },
-  "reference": "03190004TPK"
+  }
 }

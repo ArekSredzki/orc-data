@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13841",
   "country": "NOR",
+  "reference": "03440004L3C",
   "name": "LuRek 3",
   "rating": {
     "gph": 787.3,
@@ -197,6 +198,5 @@
       6.56,
       7.27
     ]
-  },
-  "reference": "03440004L3C"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51377",
   "country": "USA",
+  "reference": "04560004SB5",
   "name": "VAYU",
   "rating": {
     "gph": 586.6,
@@ -197,6 +198,5 @@
       8.24,
       9.0
     ]
-  },
-  "reference": "04560004SB5"
+  }
 }

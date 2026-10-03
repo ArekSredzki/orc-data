@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3500",
   "country": "RSA",
+  "reference": "04620004AUB",
   "name": "Ielool",
   "rating": {
     "gph": 644.6,
@@ -197,6 +198,5 @@
       7.72,
       8.25
     ]
-  },
-  "reference": "04620004AUB"
+  }
 }

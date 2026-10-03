@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/3522",
   "country": "USA",
+  "reference": "04560004IWP",
   "name": "RIVER WEASEL",
   "rating": {
     "gph": 733.2,
@@ -197,6 +198,5 @@
       6.81,
       7.33
     ]
-  },
-  "reference": "04560004IWP"
+  }
 }

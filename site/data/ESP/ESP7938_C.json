@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7938_C",
   "country": "ESP",
+  "reference": "035100048M4",
   "name": "GAIA'M",
   "rating": {
     "gph": 610.9,
@@ -197,6 +198,5 @@
       7.87,
       8.91
     ]
-  },
-  "reference": "035100048M4"
+  }
 }

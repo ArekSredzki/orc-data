@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11617",
   "country": "NOR",
+  "reference": "03440004M5D",
   "name": "Sea Lion",
   "rating": {
     "gph": 614.7,
@@ -197,6 +198,5 @@
       7.83,
       8.44
     ]
-  },
-  "reference": "03440004M5D"
+  }
 }

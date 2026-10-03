@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG1326",
   "country": "HKG",
+  "reference": "038800048LS",
   "name": "BITS & PIECES",
   "rating": {
     "gph": 593.7,
@@ -197,6 +198,5 @@
       9.92,
       12.89
     ]
-  },
-  "reference": "038800048LS"
+  }
 }

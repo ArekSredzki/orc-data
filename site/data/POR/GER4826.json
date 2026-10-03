@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/GER4826",
   "country": "POR",
+  "reference": "03530004PO3",
   "name": "WOJTYLA",
   "rating": {
     "gph": 605.1,
@@ -197,6 +198,5 @@
       8.24,
       9.02
     ]
-  },
-  "reference": "03530004PO3"
+  }
 }

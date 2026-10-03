@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN38",
   "country": "CAN",
+  "reference": "03430004J1J",
   "name": "65 Red Roses (II)",
   "rating": {
     "gph": 563.5,
@@ -197,6 +198,5 @@
       9.31,
       11.9
     ]
-  },
-  "reference": "03430004J1J"
+  }
 }

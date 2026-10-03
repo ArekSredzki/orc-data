@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/IVB2047",
   "country": "USA",
+  "reference": "04560004MOT",
   "name": "BEAU IDEAL",
   "rating": {
     "gph": 471.4,
@@ -197,6 +198,5 @@
       13.12,
       16.54
     ]
-  },
-  "reference": "04560004MOT"
+  }
 }

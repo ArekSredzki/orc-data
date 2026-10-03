@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE295",
   "country": "GRE",
+  "reference": "03420004PU7",
   "name": "ZEFYROS",
   "rating": {
     "gph": 679.3,
@@ -197,6 +198,5 @@
       7.38,
       8.06
     ]
-  },
-  "reference": "03420004PU7"
+  }
 }

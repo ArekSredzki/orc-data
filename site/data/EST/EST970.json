@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST970",
   "country": "EST",
+  "reference": "04340004S4F",
   "name": "ESTELLA",
   "rating": {
     "gph": 770.1,
@@ -197,6 +198,5 @@
       6.68,
       7.22
     ]
-  },
-  "reference": "04340004S4F"
+  }
 }

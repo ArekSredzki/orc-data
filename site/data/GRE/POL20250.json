@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/POL20250",
   "country": "GRE",
+  "reference": "03420004VRA",
   "name": "WOJOWNIK 8",
   "rating": {
     "gph": 575.5,
@@ -197,6 +198,5 @@
       9.25,
       12.3
     ]
-  },
-  "reference": "03420004VRA"
+  }
 }

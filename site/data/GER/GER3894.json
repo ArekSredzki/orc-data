@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER3894",
   "country": "GER",
+  "reference": "03520004I1O",
   "name": "HARLEKIN",
   "rating": {
     "gph": 751.3,
@@ -197,6 +198,5 @@
       6.81,
       7.3
     ]
-  },
-  "reference": "03520004I1O"
+  }
 }

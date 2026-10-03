@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61124",
   "country": "USA",
+  "reference": "04560004VI2",
   "name": "HABIRU",
   "rating": {
     "gph": 547.6,
@@ -197,6 +198,5 @@
       9.38,
       11.74
     ]
-  },
-  "reference": "04560004VI2"
+  }
 }

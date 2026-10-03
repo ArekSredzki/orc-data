@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA6649",
   "country": "USA",
+  "reference": "04560004TH1",
   "name": "PROVIDENCE",
   "rating": {
     "gph": 691.4,
@@ -197,6 +198,5 @@
       7.21,
       7.8
     ]
-  },
-  "reference": "04560004TH1"
+  }
 }

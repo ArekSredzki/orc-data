@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN8521",
   "country": "FIN",
+  "reference": "04140004IKM",
   "name": "HORSMA",
   "rating": {
     "gph": 693.9,
@@ -197,6 +198,5 @@
       7.23,
       7.87
     ]
-  },
-  "reference": "04140004IKM"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER4070",
   "country": "GER",
+  "reference": "04150004QMI",
   "name": "UIJUIJUI 4",
   "rating": {
     "gph": 523.2,
@@ -197,6 +198,5 @@
       11.09,
       14.3
     ]
-  },
-  "reference": "04150004QMI"
+  }
 }

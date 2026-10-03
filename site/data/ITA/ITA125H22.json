@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA125H22",
   "country": "ITA",
+  "reference": "03190004NUK",
   "name": "TE DUR",
   "rating": {
     "gph": 660.5,
@@ -197,6 +198,5 @@
       10.25,
       13.28
     ]
-  },
-  "reference": "03190004NUK"
+  }
 }

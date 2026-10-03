@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP25068_C",
   "country": "ESP",
+  "reference": "03510005039",
   "name": "BOEIRO UNO",
   "rating": {
     "gph": 663.0,

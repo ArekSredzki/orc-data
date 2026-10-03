@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA2872",
   "country": "USA",
+  "reference": "04560004QP8",
   "name": "LUCKY",
   "rating": {
     "gph": 317.9,
@@ -197,6 +198,5 @@
       17.13,
       20.48
     ]
-  },
-  "reference": "04560004QP8"
+  }
 }

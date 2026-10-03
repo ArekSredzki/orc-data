@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR4666",
   "country": "TUR",
+  "reference": "04590004VQ5",
   "name": "ALESTA YELKEN",
   "rating": {
     "gph": 688.0,
@@ -197,6 +198,5 @@
       7.57,
       9.81
     ]
-  },
-  "reference": "04590004VQ5"
+  }
 }

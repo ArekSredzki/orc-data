@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR5820",
   "country": "NOR",
+  "reference": "03440004RW0",
   "name": "Lillehammer racing team 2",
   "rating": {
     "gph": 679.6,
@@ -197,6 +198,5 @@
       7.34,
       9.27
     ]
-  },
-  "reference": "03440004RW0"
+  }
 }

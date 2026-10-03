@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7366",
   "country": "ESP",
+  "reference": "03510004MUR",
   "name": "HUAYRA",
   "rating": {
     "gph": 613.1,
@@ -197,6 +198,5 @@
       8.04,
       8.9
     ]
-  },
-  "reference": "03510004MUR"
+  }
 }

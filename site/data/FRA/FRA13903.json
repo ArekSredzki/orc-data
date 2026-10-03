@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA13903",
   "country": "FRA",
+  "reference": "04330004LFH",
   "name": "TOTORO",
   "rating": {
     "gph": 616.1,
@@ -197,6 +198,5 @@
       8.2,
       9.05
     ]
-  },
-  "reference": "04330004LFH"
+  }
 }

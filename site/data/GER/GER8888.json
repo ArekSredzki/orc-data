@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8888",
   "country": "GER",
+  "reference": "03520004PNO",
   "name": "HINDEN",
   "rating": {
     "gph": 585.2,
@@ -197,6 +198,5 @@
       9.08,
       12.64
     ]
-  },
-  "reference": "03520004PNO"
+  }
 }

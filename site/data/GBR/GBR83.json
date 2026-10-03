@@ -1,6 +1,7 @@
 {
   "sailnumber": "GBR/GBR83",
   "country": "GBR",
+  "reference": "03860004V33",
   "name": "STARFALL",
   "rating": {
     "gph": 417.0,
@@ -197,6 +198,5 @@
       11.81,
       13.29
     ]
-  },
-  "reference": "03860004V33"
+  }
 }

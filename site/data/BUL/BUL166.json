@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL166",
   "country": "BUL",
+  "reference": "03850004W0U",
   "name": "HISPANIOLA",
   "rating": {
     "gph": 565.5,
@@ -197,6 +198,5 @@
       8.85,
       10.08
     ]
-  },
-  "reference": "03850004W0U"
+  }
 }

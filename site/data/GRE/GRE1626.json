@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1626",
   "country": "GRE",
+  "reference": "03420004I6E",
   "name": "GORGO",
   "rating": {
     "gph": 798.2,
@@ -197,6 +198,5 @@
       6.39,
       6.94
     ]
-  },
-  "reference": "03420004I6E"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2550",
   "country": "NED",
+  "reference": "04310004JT6",
   "name": "RAZENDE BOL",
   "rating": {
     "gph": 736.1,
@@ -197,6 +198,5 @@
       7.14,
       7.63
     ]
-  },
-  "reference": "04310004JT6"
+  }
 }

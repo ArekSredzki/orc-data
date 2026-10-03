@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2915",
   "country": "CRO",
+  "reference": "03620004I5N",
   "name": "Katina",
   "rating": {
     "gph": 582.6,
@@ -197,6 +198,5 @@
       8.76,
       11.4
     ]
-  },
-  "reference": "03620004I5N"
+  }
 }

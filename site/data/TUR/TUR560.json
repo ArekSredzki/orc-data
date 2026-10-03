@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR560",
   "country": "TUR",
+  "reference": "04590004J8N",
   "name": "CARINA",
   "rating": {
     "gph": 596.0,
@@ -197,6 +198,5 @@
       8.1,
       10.26
     ]
-  },
-  "reference": "04590004J8N"
+  }
 }

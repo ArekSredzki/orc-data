@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR3512",
   "country": "TUR",
+  "reference": "0459000485R",
   "name": "IZMIR YELKEN",
   "rating": {
     "gph": 610.1,
@@ -197,6 +198,5 @@
       8.12,
       9.22
     ]
-  },
-  "reference": "0459000485R"
+  }
 }

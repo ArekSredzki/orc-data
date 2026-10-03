@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7329_C",
   "country": "ESP",
+  "reference": "03510004Q74",
   "name": "KROMI",
   "rating": {
     "gph": 688.2,
@@ -197,6 +198,5 @@
       7.31,
       7.95
     ]
-  },
-  "reference": "03510004Q74"
+  }
 }

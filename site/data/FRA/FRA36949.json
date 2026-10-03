@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA36949",
   "country": "FRA",
+  "reference": "04330004J80",
   "name": "KARIBARIO 6",
   "rating": {
     "gph": 638.3,
@@ -197,6 +198,5 @@
       7.95,
       8.62
     ]
-  },
-  "reference": "04330004J80"
+  }
 }

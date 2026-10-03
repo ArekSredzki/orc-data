@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITABLIC23",
   "country": "ITA",
+  "reference": "03190004J5P",
   "name": "BLU ICE",
   "rating": {
     "gph": 660.9,
@@ -197,6 +198,5 @@
       7.5,
       8.12
     ]
-  },
-  "reference": "03190004J5P"
+  }
 }

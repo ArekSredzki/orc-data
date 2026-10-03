@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT64",
   "country": "AUT",
+  "reference": "03210004WVN",
   "name": "Kein Name",
   "rating": {
     "gph": 621.7,
@@ -197,6 +198,5 @@
       10.35,
       13.45
     ]
-  },
-  "reference": "03210004WVN"
+  }
 }

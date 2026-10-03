@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA126SOL",
   "country": "ITA",
+  "reference": "03190004QO9",
   "name": "ATTILIO",
   "rating": {
     "gph": 721.5,
@@ -197,6 +198,5 @@
       7.7,
       9.99
     ]
-  },
-  "reference": "03190004QO9"
+  }
 }

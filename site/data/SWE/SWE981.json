@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE981",
   "country": "SWE",
+  "reference": "03200004TE2",
   "name": "Nemo Rosso",
   "rating": {
     "gph": 506.6,
@@ -197,6 +198,5 @@
       11.55,
       14.83
     ]
-  },
-  "reference": "03200004TE2"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1109",
   "country": "GRE",
+  "reference": "03420004I81",
   "name": "SOUPIA",
   "rating": {
     "gph": 691.4,
@@ -197,6 +198,5 @@
       7.32,
       7.89
     ]
-  },
-  "reference": "03420004I81"
+  }
 }

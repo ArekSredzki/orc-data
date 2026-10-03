@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2157_C",
   "country": "ESP",
+  "reference": "03510004OUK",
   "name": "WHITE WOLF",
   "rating": {
     "gph": 659.6,
@@ -197,6 +198,5 @@
       7.42,
       8.13
     ]
-  },
-  "reference": "03510004OUK"
+  }
 }

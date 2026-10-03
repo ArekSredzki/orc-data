@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITARSRS25",
   "country": "ITA",
+  "reference": "03190004PDF",
   "name": "ROSA RUSH",
   "rating": {
     "gph": 635.4,
@@ -197,6 +198,5 @@
       7.4,
       8.01
     ]
-  },
-  "reference": "03190004PDF"
+  }
 }

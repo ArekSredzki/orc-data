@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN39",
   "country": "FIN",
+  "reference": "03290004RMN",
   "name": "Tegu",
   "rating": {
     "gph": 596.6,
@@ -197,6 +198,5 @@
       8.84,
       12.17
     ]
-  },
-  "reference": "03290004RMN"
+  }
 }

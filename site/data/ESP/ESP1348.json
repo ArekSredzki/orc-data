@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1348",
   "country": "ESP",
+  "reference": "03510004HFI",
   "name": "ADRENALIN",
   "rating": {
     "gph": 615.3,
@@ -197,6 +198,5 @@
       8.14,
       9.14
     ]
-  },
-  "reference": "03510004HFI"
+  }
 }

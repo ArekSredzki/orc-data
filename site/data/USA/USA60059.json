@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60059",
   "country": "USA",
+  "reference": "04560004L1P",
   "name": "SENATORE",
   "rating": {
     "gph": 531.8,
@@ -197,6 +198,5 @@
       10.12,
       12.69
     ]
-  },
-  "reference": "04560004L1P"
+  }
 }

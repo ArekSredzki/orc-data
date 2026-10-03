@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP1010_C",
   "country": "ESP",
+  "reference": "03510004JCT",
   "name": "ALEA",
   "rating": {
     "gph": 509.4,
@@ -197,6 +198,5 @@
       8.89,
       9.77
     ]
-  },
-  "reference": "03510004JCT"
+  }
 }

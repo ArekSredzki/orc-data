@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2191",
   "country": "GRE",
+  "reference": "03420004S46",
   "name": "ISO TIME",
   "rating": {
     "gph": 578.1,
@@ -197,6 +198,5 @@
       8.35,
       9.04
     ]
-  },
-  "reference": "03420004S46"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm3800",
   "country": "AUS",
+  "reference": "03020004UDC",
   "name": "38 SOUTH",
   "rating": {
     "gph": 574.3,
@@ -197,6 +198,5 @@
       8.6,
       9.73
     ]
-  },
-  "reference": "03020004UDC"
+  }
 }

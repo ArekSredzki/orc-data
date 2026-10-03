@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8088",
   "country": "ESP",
+  "reference": "03510004HLR",
   "name": "X-GROG",
   "rating": {
     "gph": 641.4,
@@ -197,6 +198,5 @@
       7.83,
       8.54
     ]
-  },
-  "reference": "03510004HLR"
+  }
 }

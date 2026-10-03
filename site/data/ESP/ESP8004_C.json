@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8004_C",
   "country": "ESP",
+  "reference": "03510004RFB",
   "name": "GLOP",
   "rating": {
     "gph": 547.7,
@@ -197,6 +198,5 @@
       9.22,
       10.17
     ]
-  },
-  "reference": "03510004RFB"
+  }
 }

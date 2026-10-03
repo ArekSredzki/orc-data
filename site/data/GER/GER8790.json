@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8790",
   "country": "GER",
+  "reference": "03520004S9C",
   "name": "PLASTIQUE",
   "rating": {
     "gph": 704.2,
@@ -197,6 +198,5 @@
       6.93,
       7.4
     ]
-  },
-  "reference": "03520004S9C"
+  }
 }

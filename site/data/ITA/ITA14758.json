@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14758",
   "country": "ITA",
+  "reference": "03190004LOR",
   "name": "ONDALUNGA",
   "rating": {
     "gph": 600.5,
@@ -197,6 +198,5 @@
       8.34,
       9.18
     ]
-  },
-  "reference": "03190004LOR"
+  }
 }

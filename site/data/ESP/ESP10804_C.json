@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10804_C",
   "country": "ESP",
+  "reference": "03510004BK5",
   "name": "MK III BLACK EDITION",
   "rating": {
     "gph": 730.6,
@@ -197,6 +198,5 @@
       8.18,
       11.41
     ]
-  },
-  "reference": "03510004BK5"
+  }
 }

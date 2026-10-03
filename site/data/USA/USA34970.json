@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA34970",
   "country": "USA",
+  "reference": "04560004IJM",
   "name": "STARGAZER",
   "rating": {
     "gph": 639.3,
@@ -197,6 +198,5 @@
       7.64,
       8.3
     ]
-  },
-  "reference": "04560004IJM"
+  }
 }

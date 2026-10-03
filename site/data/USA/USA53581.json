@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA53581",
   "country": "USA",
+  "reference": "04560004RT4",
   "name": "EVVAI",
   "rating": {
     "gph": 568.2,
@@ -197,6 +198,5 @@
       8.27,
       9.77
     ]
-  },
-  "reference": "04560004RT4"
+  }
 }

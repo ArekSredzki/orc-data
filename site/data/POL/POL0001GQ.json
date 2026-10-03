@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL0001GQ",
   "country": "POL",
+  "reference": "04410004R60",
   "name": "FESTINA LENTE",
   "rating": {
     "gph": 630.0,
@@ -197,6 +198,5 @@
       8.17,
       10.47
     ]
-  },
-  "reference": "04410004R60"
+  }
 }

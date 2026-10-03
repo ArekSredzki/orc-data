@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61959",
   "country": "USA",
+  "reference": "04560004UCI",
   "name": "PROMETHEUS",
   "rating": {
     "gph": 594.2,
@@ -197,6 +198,5 @@
       8.24,
       8.83
     ]
-  },
-  "reference": "04560004UCI"
+  }
 }

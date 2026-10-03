@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2231",
   "country": "GRE",
+  "reference": "03420004IU8",
   "name": "PASSEPARTOUT",
   "rating": {
     "gph": 564.4,
@@ -197,6 +198,5 @@
       8.86,
       10.38
     ]
-  },
-  "reference": "03420004IU8"
+  }
 }

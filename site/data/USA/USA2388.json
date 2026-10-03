@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA2388",
   "country": "USA",
+  "reference": "04560004QKU",
   "name": "HUNTER",
   "rating": {
     "gph": 496.9,
@@ -197,6 +198,5 @@
       11.68,
       14.93
     ]
-  },
-  "reference": "04560004QKU"
+  }
 }

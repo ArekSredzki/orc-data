@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR2011",
   "country": "POR",
+  "reference": "03530004O02",
   "name": "CORS\u00c1RIO DO ARADE",
   "rating": {
     "gph": 568.8,
@@ -197,6 +198,5 @@
       10.78,
       13.85
     ]
-  },
-  "reference": "03530004O02"
+  }
 }

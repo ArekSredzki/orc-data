@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6274_C",
   "country": "ESP",
+  "reference": "03510004BK9",
   "name": "NASSIN",
   "rating": {
     "gph": 638.5,
@@ -197,6 +198,5 @@
       7.52,
       8.12
     ]
-  },
-  "reference": "03510004BK9"
+  }
 }

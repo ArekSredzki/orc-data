@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9199",
   "country": "NED",
+  "reference": "04310004K2U",
   "name": "Fun J",
   "rating": {
     "gph": 611.6,
@@ -197,6 +198,5 @@
       7.84,
       10.01
     ]
-  },
-  "reference": "04310004K2U"
+  }
 }

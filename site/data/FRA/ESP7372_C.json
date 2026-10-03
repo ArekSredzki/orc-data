@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/ESP7372_C",
   "country": "FRA",
+  "reference": "04330004UHC",
   "name": "SIRIUS",
   "rating": {
     "gph": 619.0,
@@ -197,6 +198,5 @@
       7.75,
       8.35
     ]
-  },
-  "reference": "04330004UHC"
+  }
 }

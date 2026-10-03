@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10832",
   "country": "NOR",
+  "reference": "03440004NKM",
   "name": "Sitaren",
   "rating": {
     "gph": 651.5,
@@ -197,6 +198,5 @@
       7.66,
       8.36
     ]
-  },
-  "reference": "03440004NKM"
+  }
 }

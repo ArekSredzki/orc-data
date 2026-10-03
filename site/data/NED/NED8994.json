@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8994",
   "country": "NED",
+  "reference": "04310004SRE",
   "name": "Blow Pro",
   "rating": {
     "gph": 593.4,
@@ -197,6 +198,5 @@
       12.18,
       15.15
     ]
-  },
-  "reference": "04310004SRE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60739",
   "country": "USA",
+  "reference": "04560004PQP",
   "name": "SCYLLA",
   "rating": {
     "gph": 535.5,
@@ -197,6 +198,5 @@
       8.98,
       10.46
     ]
-  },
-  "reference": "04560004PQP"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18205",
   "country": "ITA",
+  "reference": "03190004PVM",
   "name": "BEATRIZ",
   "rating": {
     "gph": 600.9,
@@ -197,6 +198,5 @@
       8.29,
       9.08
     ]
-  },
-  "reference": "03190004PVM"
+  }
 }

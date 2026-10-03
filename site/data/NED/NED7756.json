@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7756",
   "country": "NED",
+  "reference": "04310004K03",
   "name": "Furie",
   "rating": {
     "gph": 795.3,
@@ -197,6 +198,5 @@
       5.99,
       6.55
     ]
-  },
-  "reference": "04310004K03"
+  }
 }

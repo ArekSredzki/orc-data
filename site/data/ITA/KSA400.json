@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/KSA400",
   "country": "ITA",
+  "reference": "03190004SBF",
   "name": "MECUBE",
   "rating": {
     "gph": 506.9,
@@ -197,6 +198,5 @@
       11.81,
       14.93
     ]
-  },
-  "reference": "03190004SBF"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6332",
   "country": "GER",
+  "reference": "03520004KOE",
   "name": "DOGMATIX",
   "rating": {
     "gph": 656.1,
@@ -197,6 +198,5 @@
       7.72,
       8.5
     ]
-  },
-  "reference": "03520004KOE"
+  }
 }

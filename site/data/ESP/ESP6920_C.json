@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6920_C",
   "country": "ESP",
+  "reference": "03510004BJ8",
   "name": "MAREMOTO",
   "rating": {
     "gph": 636.7,
@@ -197,6 +198,5 @@
       7.75,
       8.4
     ]
-  },
-  "reference": "03510004BJ8"
+  }
 }

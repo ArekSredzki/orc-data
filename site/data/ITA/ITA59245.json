@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA59245",
   "country": "ITA",
+  "reference": "03190004QU7",
   "name": "GAP 5",
   "rating": {
     "gph": 587.2,
@@ -197,6 +198,5 @@
       8.18,
       9.64
     ]
-  },
-  "reference": "03190004QU7"
+  }
 }

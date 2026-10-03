@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61367",
   "country": "USA",
+  "reference": "04560004QBR",
   "name": "GAIL FORCE",
   "rating": {
     "gph": 612.7,
@@ -197,6 +198,5 @@
       7.88,
       8.6
     ]
-  },
-  "reference": "04560004QBR"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED547",
   "country": "NED",
+  "reference": "04310004JVA",
   "name": "Vindlinjal",
   "rating": {
     "gph": 627.8,
@@ -197,6 +198,5 @@
       7.65,
       8.3
     ]
-  },
-  "reference": "04310004JVA"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST1",
   "country": "EST",
+  "reference": "04340004QS9",
   "name": "LINDA",
   "rating": {
     "gph": 585.0,
@@ -197,6 +198,5 @@
       8.28,
       8.86
     ]
-  },
-  "reference": "04340004QS9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18297",
   "country": "ITA",
+  "reference": "03190004PDE",
   "name": "ANTARTIX",
   "rating": {
     "gph": 614.3,
@@ -197,6 +198,5 @@
       7.71,
       8.32
     ]
-  },
-  "reference": "03190004PDE"
+  }
 }

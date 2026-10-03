@@ -1,6 +1,7 @@
 {
   "sailnumber": "PER/PER990",
   "country": "PER",
+  "reference": "03460004W38",
   "name": "TUNCHE",
   "rating": {
     "gph": 608.8,
@@ -197,6 +198,5 @@
       7.91,
       10.14
     ]
-  },
-  "reference": "03460004W38"
+  }
 }

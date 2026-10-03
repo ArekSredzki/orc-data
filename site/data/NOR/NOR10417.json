@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10417",
   "country": "NOR",
+  "reference": "03440004RFQ",
   "name": "Mymlen",
   "rating": {
     "gph": 649.8,
@@ -197,6 +198,5 @@
       7.7,
       8.42
     ]
-  },
-  "reference": "03440004RFQ"
+  }
 }

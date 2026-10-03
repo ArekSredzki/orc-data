@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/J243111",
   "country": "GER",
+  "reference": "04150004JF2",
   "name": "GOUWE",
   "rating": {
     "gph": 731.9,
@@ -197,6 +198,5 @@
       6.86,
       7.81
     ]
-  },
-  "reference": "04150004JF2"
+  }
 }

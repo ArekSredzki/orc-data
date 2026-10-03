@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8612",
   "country": "GER",
+  "reference": "04150004RRQ",
   "name": "TJANGS",
   "rating": {
     "gph": 647.9,
@@ -197,6 +198,5 @@
       7.74,
       8.48
     ]
-  },
-  "reference": "04150004RRQ"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR6161",
   "country": "TUR",
+  "reference": "0459000485A",
   "name": "IMAGINE",
   "rating": {
     "gph": 599.0,
@@ -197,6 +198,5 @@
       8.0,
       8.66
     ]
-  },
-  "reference": "0459000485A"
+  }
 }

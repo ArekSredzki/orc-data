@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9100",
   "country": "NOR",
+  "reference": "03440004OWS",
   "name": "Tellus",
   "rating": {
     "gph": 586.1,
@@ -197,6 +198,5 @@
       8.42,
       9.8
     ]
-  },
-  "reference": "03440004OWS"
+  }
 }

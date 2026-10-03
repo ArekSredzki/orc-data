@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP25199_C",
   "country": "ESP",
+  "reference": "03510004H3W",
   "name": "PELOTILLA",
   "rating": {
     "gph": 677.5,
@@ -197,6 +198,5 @@
       7.8,
       10.45
     ]
-  },
-  "reference": "03510004H3W"
+  }
 }

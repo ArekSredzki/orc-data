@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8774",
   "country": "GER",
+  "reference": "03520004J24",
   "name": "LUPITA",
   "rating": {
     "gph": 590.8,
@@ -197,6 +198,5 @@
       8.97,
       9.7
     ]
-  },
-  "reference": "03520004J24"
+  }
 }

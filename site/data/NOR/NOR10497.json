@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10497",
   "country": "NOR",
+  "reference": "03440004KAC",
   "name": "Utla",
   "rating": {
     "gph": 648.6,
@@ -197,6 +198,5 @@
       7.73,
       8.41
     ]
-  },
-  "reference": "03440004KAC"
+  }
 }

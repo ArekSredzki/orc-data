@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10943_C",
   "country": "ESP",
+  "reference": "03510004RL7",
   "name": "ZEPPELIN",
   "rating": {
     "gph": 704.5,
@@ -197,6 +198,5 @@
       7.06,
       7.68
     ]
-  },
-  "reference": "03510004RL7"
+  }
 }

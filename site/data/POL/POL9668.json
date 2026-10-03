@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL9668",
   "country": "POL",
+  "reference": "04410004MBD",
   "name": "NEOPROFIL",
   "rating": {
     "gph": 740.7,
@@ -197,6 +198,5 @@
       8.65,
       11.9
     ]
-  },
-  "reference": "04410004MBD"
+  }
 }

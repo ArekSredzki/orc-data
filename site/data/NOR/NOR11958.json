@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11958",
   "country": "NOR",
+  "reference": "03440004NKS",
   "name": "Bianca",
   "rating": {
     "gph": 621.3,
@@ -197,6 +198,5 @@
       8.03,
       8.71
     ]
-  },
-  "reference": "03440004NKS"
+  }
 }

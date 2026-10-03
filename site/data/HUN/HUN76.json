@@ -1,6 +1,7 @@
 {
   "sailnumber": "HUN/HUN76",
   "country": "HUN",
+  "reference": "04890004HSJ",
   "name": "ERIDA",
   "rating": {
     "gph": 707.5,
@@ -197,6 +198,5 @@
       7.05,
       7.66
     ]
-  },
-  "reference": "04890004HSJ"
+  }
 }

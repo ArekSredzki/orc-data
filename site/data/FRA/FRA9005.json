@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9005",
   "country": "FRA",
+  "reference": "04330004QAV",
   "name": "KALIMER'EAU",
   "rating": {
     "gph": 684.0,
@@ -197,6 +198,5 @@
       7.31,
       8.06
     ]
-  },
-  "reference": "04330004QAV"
+  }
 }

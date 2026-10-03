@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST408",
   "country": "EST",
+  "reference": "04340004WFP",
   "name": "TUULE",
   "rating": {
     "gph": 567.2,
@@ -197,6 +198,5 @@
       8.32,
       9.05
     ]
-  },
-  "reference": "04340004WFP"
+  }
 }

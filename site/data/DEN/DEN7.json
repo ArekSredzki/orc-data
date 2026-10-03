@@ -1,6 +1,7 @@
 {
   "sailnumber": "DEN/DEN7",
   "country": "DEN",
+  "reference": "03370004T44",
   "name": "Intrepid",
   "rating": {
     "gph": 527.3,
@@ -197,6 +198,5 @@
       10.62,
       13.54
     ]
-  },
-  "reference": "03370004T44"
+  }
 }

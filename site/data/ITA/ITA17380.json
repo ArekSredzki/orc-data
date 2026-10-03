@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17380",
   "country": "ITA",
+  "reference": "03190004L8F",
   "name": "EMILIAPICCOLA",
   "rating": {
     "gph": 607.0,
@@ -197,6 +198,5 @@
       7.78,
       8.4
     ]
-  },
-  "reference": "03190004L8F"
+  }
 }

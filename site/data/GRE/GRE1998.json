@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1998",
   "country": "GRE",
+  "reference": "03420004LN7",
   "name": "VESSY",
   "rating": {
     "gph": 606.6,
@@ -197,6 +198,5 @@
       7.93,
       8.6
     ]
-  },
-  "reference": "03420004LN7"
+  }
 }

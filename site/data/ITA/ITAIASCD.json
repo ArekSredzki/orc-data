@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAIASCD",
   "country": "ITA",
+  "reference": "03190004JBR",
   "name": "IASC 2",
   "rating": {
     "gph": 698.2,
@@ -197,6 +198,5 @@
       7.52,
       9.13
     ]
-  },
-  "reference": "03190004JBR"
+  }
 }

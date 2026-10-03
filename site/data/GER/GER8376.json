@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8376",
   "country": "GER",
+  "reference": "03520004UEP",
   "name": "\u00c6GIR 2.0",
   "rating": {
     "gph": 623.6,
@@ -197,6 +198,5 @@
       9.62,
       12.74
     ]
-  },
-  "reference": "03520004UEP"
+  }
 }

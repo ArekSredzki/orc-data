@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA50506",
   "country": "USA",
+  "reference": "04560004V5A",
   "name": "CALIBER",
   "rating": {
     "gph": 605.1,
@@ -197,6 +198,5 @@
       7.67,
       9.36
     ]
-  },
-  "reference": "04560004V5A"
+  }
 }

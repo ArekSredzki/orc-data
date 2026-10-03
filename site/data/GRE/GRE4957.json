@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE4957",
   "country": "GRE",
+  "reference": "03420004PTH",
   "name": "ALITAKI",
   "rating": {
     "gph": 819.9,
@@ -197,6 +198,5 @@
       6.12,
       6.67
     ]
-  },
-  "reference": "03420004PTH"
+  }
 }

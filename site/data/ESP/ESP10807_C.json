@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10807_C",
   "country": "ESP",
+  "reference": "03510004FU3",
   "name": "GALENO",
   "rating": {
     "gph": 666.1,
@@ -197,6 +198,5 @@
       7.46,
       8.12
     ]
-  },
-  "reference": "03510004FU3"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12550",
   "country": "NOR",
+  "reference": "03440004OEP",
   "name": "Paradise",
   "rating": {
     "gph": 542.1,
@@ -197,6 +198,5 @@
       9.0,
       9.8
     ]
-  },
-  "reference": "03440004OEP"
+  }
 }

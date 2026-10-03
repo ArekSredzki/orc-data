@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/4467",
   "country": "AUS",
+  "reference": "03020004TN5",
   "name": "KAMA III",
   "rating": {
     "gph": 684.2,
@@ -197,6 +198,5 @@
       7.24,
       7.85
     ]
-  },
-  "reference": "03020004TN5"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA898",
   "country": "RSA",
+  "reference": "04620004F2N",
   "name": "Me2Me",
   "rating": {
     "gph": 612.8,
@@ -197,6 +198,5 @@
       8.07,
       8.85
     ]
-  },
-  "reference": "04620004F2N"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2668_C",
   "country": "ESP",
+  "reference": "03510004B8M",
   "name": "XAMBO",
   "rating": {
     "gph": 645.8,
@@ -197,6 +198,5 @@
       7.74,
       8.42
     ]
-  },
-  "reference": "03510004B8M"
+  }
 }

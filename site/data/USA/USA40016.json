@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA40016",
   "country": "USA",
+  "reference": "04560004UCP",
   "name": "GHOST",
   "rating": {
     "gph": 519.2,
@@ -197,6 +198,5 @@
       10.64,
       13.76
     ]
-  },
-  "reference": "04560004UCP"
+  }
 }

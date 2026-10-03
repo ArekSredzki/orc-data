@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5338",
   "country": "GER",
+  "reference": "03520004OVC",
   "name": "PEGGY",
   "rating": {
     "gph": 645.3,
@@ -197,6 +198,5 @@
       7.68,
       8.38
     ]
-  },
-  "reference": "03520004OVC"
+  }
 }

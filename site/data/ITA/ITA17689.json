@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17689",
   "country": "ITA",
+  "reference": "03190004BCR",
   "name": "GIOVI",
   "rating": {
     "gph": 511.1,
@@ -197,6 +198,5 @@
       9.38,
       10.33
     ]
-  },
-  "reference": "03190004BCR"
+  }
 }

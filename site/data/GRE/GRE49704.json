@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49704",
   "country": "GRE",
+  "reference": "03420004IOE",
   "name": "CHAMOGELO",
   "rating": {
     "gph": 705.4,
@@ -197,6 +198,5 @@
       7.14,
       7.71
     ]
-  },
-  "reference": "03420004IOE"
+  }
 }

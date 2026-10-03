@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG4089",
   "country": "ARG",
+  "reference": "03880004LU0",
   "name": "CARECA",
   "rating": {
     "gph": 637.7,
@@ -197,6 +198,5 @@
       7.45,
       8.78
     ]
-  },
-  "reference": "03880004LU0"
+  }
 }

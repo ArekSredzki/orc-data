@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR39",
   "country": "NOR",
+  "reference": "03440004S0S",
   "name": "SailLogic",
   "rating": {
     "gph": 560.7,
@@ -197,6 +198,5 @@
       8.78,
       9.93
     ]
-  },
-  "reference": "03440004S0S"
+  }
 }

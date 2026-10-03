@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA6179",
   "country": "FRA",
+  "reference": "04330004SCH",
   "name": "MAEVA",
   "rating": {
     "gph": 706.6,
@@ -197,6 +198,5 @@
       7.09,
       7.73
     ]
-  },
-  "reference": "04330004SCH"
+  }
 }

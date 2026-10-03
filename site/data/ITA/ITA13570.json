@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13570",
   "country": "ITA",
+  "reference": "03190004J39",
   "name": "Grifone Fiamme Gialle III",
   "rating": {
     "gph": 570.2,
@@ -197,6 +198,5 @@
       8.95,
       9.58
     ]
-  },
-  "reference": "03190004J39"
+  }
 }

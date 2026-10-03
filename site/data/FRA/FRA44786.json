@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA44786",
   "country": "FRA",
+  "reference": "04330004LQH",
   "name": "GANDALF 5",
   "rating": {
     "gph": 590.7,
@@ -197,6 +198,5 @@
       8.34,
       9.23
     ]
-  },
-  "reference": "04330004LQH"
+  }
 }

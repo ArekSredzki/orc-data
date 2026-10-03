@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG1384",
   "country": "HKG",
+  "reference": "038800048B6",
   "name": "BLU",
   "rating": {
     "gph": 615.5,
@@ -197,6 +198,5 @@
       7.86,
       9.69
     ]
-  },
-  "reference": "038800048B6"
+  }
 }

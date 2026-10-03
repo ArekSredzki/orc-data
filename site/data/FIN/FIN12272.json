@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12272",
   "country": "FIN",
+  "reference": "04140004W6N",
   "name": "Festina Lente",
   "rating": {
     "gph": 640.7,
@@ -197,6 +198,5 @@
       7.62,
       8.22
     ]
-  },
-  "reference": "04140004W6N"
+  }
 }

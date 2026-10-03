@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14481",
   "country": "ITA",
+  "reference": "03190004AWD",
   "name": "EMANUELA",
   "rating": {
     "gph": 669.7,
@@ -197,6 +198,5 @@
       7.16,
       7.67
     ]
-  },
-  "reference": "03190004AWD"
+  }
 }

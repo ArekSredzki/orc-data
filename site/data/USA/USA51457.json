@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51457",
   "country": "USA",
+  "reference": "04560004UJU",
   "name": "WARRIOR",
   "rating": {
     "gph": 579.9,
@@ -197,6 +198,5 @@
       8.31,
       9.12
     ]
-  },
-  "reference": "04560004UJU"
+  }
 }

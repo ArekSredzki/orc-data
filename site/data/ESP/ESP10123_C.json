@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10123_C",
   "country": "ESP",
+  "reference": "035100048A4",
   "name": "LUPO",
   "rating": {
     "gph": 634.7,
@@ -197,6 +198,5 @@
       8.1,
       8.83
     ]
-  },
-  "reference": "035100048A4"
+  }
 }

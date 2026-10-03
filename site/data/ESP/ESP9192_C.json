@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9192_C",
   "country": "ESP",
+  "reference": "03510004KJ2",
   "name": "CANIBAL V",
   "rating": {
     "gph": 744.1,
@@ -197,6 +198,5 @@
       6.81,
       7.72
     ]
-  },
-  "reference": "03510004KJ2"
+  }
 }

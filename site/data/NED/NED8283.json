@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8283",
   "country": "NED",
+  "reference": "04310004K10",
   "name": "Frank&Vrij",
   "rating": {
     "gph": 715.7,
@@ -197,6 +198,5 @@
       7.44,
       9.52
     ]
-  },
-  "reference": "04310004K10"
+  }
 }

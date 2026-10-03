@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1992",
   "country": "GRE",
+  "reference": "03420004IRC",
   "name": "APOLLO",
   "rating": {
     "gph": 524.5,
@@ -197,6 +198,5 @@
       9.56,
       12.14
     ]
-  },
-  "reference": "03420004IRC"
+  }
 }

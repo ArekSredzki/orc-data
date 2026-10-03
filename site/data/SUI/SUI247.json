@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI247",
   "country": "SUI",
+  "reference": "03080004UTH",
   "name": "LUCY",
   "rating": {
     "gph": 695.4,
@@ -197,6 +198,5 @@
       7.67,
       9.75
     ]
-  },
-  "reference": "03080004UTH"
+  }
 }

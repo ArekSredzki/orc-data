@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU1616",
   "country": "LTU",
+  "reference": "03590004UKT",
   "name": "VAJANA MAGIC",
   "rating": {
     "gph": 665.5,
@@ -197,6 +198,5 @@
       7.42,
       8.02
     ]
-  },
-  "reference": "03590004UKT"
+  }
 }

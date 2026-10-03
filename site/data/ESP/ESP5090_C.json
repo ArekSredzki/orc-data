@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5090_C",
   "country": "ESP",
+  "reference": "03510004F10",
   "name": "FLOUNDER",
   "rating": {
     "gph": 672.3,
@@ -197,6 +198,5 @@
       7.48,
       8.07
     ]
-  },
-  "reference": "03510004F10"
+  }
 }

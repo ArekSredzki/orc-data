@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAMJT26",
   "country": "ITA",
+  "reference": "03190004F3O",
   "name": "MOJITO",
   "rating": {
     "gph": 727.3,
@@ -197,6 +198,5 @@
       6.52,
       8.48
     ]
-  },
-  "reference": "03190004F3O"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7777",
   "country": "ESP",
+  "reference": "03510004F7S",
   "name": "SETEBELLO",
   "rating": {
     "gph": 544.9,
@@ -197,6 +198,5 @@
       9.22,
       11.14
     ]
-  },
-  "reference": "03510004F7S"
+  }
 }

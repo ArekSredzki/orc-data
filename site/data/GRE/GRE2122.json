@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2122",
   "country": "GRE",
+  "reference": "03420004K4J",
   "name": "MELENI II",
   "rating": {
     "gph": 680.9,
@@ -197,6 +198,5 @@
       7.21,
       7.74
     ]
-  },
-  "reference": "03420004K4J"
+  }
 }

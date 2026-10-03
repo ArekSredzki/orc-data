@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/H74",
   "country": "AUS",
+  "reference": "03020004USV",
   "name": "RAGE",
   "rating": {
     "gph": 634.2,
@@ -197,6 +198,5 @@
       8.0,
       9.35
     ]
-  },
-  "reference": "03020004USV"
+  }
 }

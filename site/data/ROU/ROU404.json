@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU404",
   "country": "ROU",
+  "reference": "05040004SII",
   "name": "Melx",
   "rating": {
     "gph": 579.9,
@@ -197,6 +198,5 @@
       8.53,
       9.44
     ]
-  },
-  "reference": "05040004SII"
+  }
 }

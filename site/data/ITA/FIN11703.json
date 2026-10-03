@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/FIN11703",
   "country": "ITA",
+  "reference": "03190004N5R",
   "name": "ADELANTE",
   "rating": {
     "gph": 564.5,
@@ -197,6 +198,5 @@
       9.2,
       12.09
     ]
-  },
-  "reference": "03190004N5R"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49184",
   "country": "GRE",
+  "reference": "03420004T9V",
   "name": "IXIS-AFIXIS",
   "rating": {
     "gph": 594.4,
@@ -197,6 +198,5 @@
       7.85,
       8.45
     ]
-  },
-  "reference": "03420004T9V"
+  }
 }

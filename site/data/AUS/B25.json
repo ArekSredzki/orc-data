@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/B25",
   "country": "AUS",
+  "reference": "03020004WTS",
   "name": "FLYING FOX",
   "rating": {
     "gph": 607.5,
@@ -197,6 +198,5 @@
       10.01,
       13.02
     ]
-  },
-  "reference": "03020004WTS"
+  }
 }

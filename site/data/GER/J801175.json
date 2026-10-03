@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/J801175",
   "country": "GER",
+  "reference": "03520004I36",
   "name": "JESTER",
   "rating": {
     "gph": 662.5,
@@ -197,6 +198,5 @@
       8.73,
       11.83
     ]
-  },
-  "reference": "03520004I36"
+  }
 }

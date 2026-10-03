@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1240",
   "country": "GRE",
+  "reference": "03420004VWJ",
   "name": "FIDELIO",
   "rating": {
     "gph": 603.6,
@@ -197,6 +198,5 @@
       8.24,
       8.98
     ]
-  },
-  "reference": "03420004VWJ"
+  }
 }

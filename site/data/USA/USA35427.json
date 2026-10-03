@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA35427",
   "country": "USA",
+  "reference": "04560004PUO",
   "name": "EPIC",
   "rating": {
     "gph": 582.2,
@@ -197,6 +198,5 @@
       7.93,
       8.48
     ]
-  },
-  "reference": "04560004PUO"
+  }
 }

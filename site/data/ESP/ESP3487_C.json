@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3487_C",
   "country": "ESP",
+  "reference": "03510004PUD",
   "name": "FRAGATA",
   "rating": {
     "gph": 751.0,
@@ -197,6 +198,5 @@
       7.06,
       8.82
     ]
-  },
-  "reference": "03510004PUD"
+  }
 }

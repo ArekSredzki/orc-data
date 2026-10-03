@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA25827",
   "country": "FRA",
+  "reference": "04330004HDV",
   "name": "LOONY CAT",
   "rating": {
     "gph": 655.6,
@@ -197,6 +198,5 @@
       7.64,
       8.33
     ]
-  },
-  "reference": "04330004HDV"
+  }
 }

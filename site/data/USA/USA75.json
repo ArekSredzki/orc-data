@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA75",
   "country": "USA",
+  "reference": "04560004VKT",
   "name": "THUNDERHEAD",
   "rating": {
     "gph": 630.8,
@@ -197,6 +198,5 @@
       7.59,
       8.12
     ]
-  },
-  "reference": "04560004VKT"
+  }
 }

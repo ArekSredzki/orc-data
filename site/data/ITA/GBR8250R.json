@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GBR8250R",
   "country": "ITA",
+  "reference": "03190004I8A",
   "name": "BORA FAST",
   "rating": {
     "gph": 601.0,
@@ -197,6 +198,5 @@
       7.94,
       9.57
     ]
-  },
-  "reference": "03190004I8A"
+  }
 }

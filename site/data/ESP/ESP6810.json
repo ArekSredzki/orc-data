@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6810",
   "country": "ESP",
+  "reference": "03510004VP8",
   "name": "GENI0 4",
   "rating": {
     "gph": 590.1,
@@ -197,6 +198,5 @@
       8.34,
       9.16
     ]
-  },
-  "reference": "03510004VP8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN7540",
   "country": "FIN",
+  "reference": "04140004O3H",
   "name": "Dat wor et",
   "rating": {
     "gph": 640.3,
@@ -197,6 +198,5 @@
       7.75,
       8.51
     ]
-  },
-  "reference": "04140004O3H"
+  }
 }

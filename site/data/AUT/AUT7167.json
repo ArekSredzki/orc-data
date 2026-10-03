@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT7167",
   "country": "AUT",
+  "reference": "03210004PW4",
   "name": "Desidera_G",
   "rating": {
     "gph": 552.8,
@@ -197,6 +198,5 @@
       8.83,
       9.61
     ]
-  },
-  "reference": "03210004PW4"
+  }
 }

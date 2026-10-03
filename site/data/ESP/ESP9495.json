@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9495",
   "country": "ESP",
+  "reference": "03510004ID5",
   "name": "ALZIRA MORAIRA",
   "rating": {
     "gph": 487.3,
@@ -197,6 +198,5 @@
       10.05,
       10.76
     ]
-  },
-  "reference": "03510004ID5"
+  }
 }

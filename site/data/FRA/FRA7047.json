@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA7047",
   "country": "FRA",
+  "reference": "04330004JKA",
   "name": "JOUJOU",
   "rating": {
     "gph": 628.2,
@@ -197,6 +198,5 @@
       7.97,
       10.68
     ]
-  },
-  "reference": "04330004JKA"
+  }
 }

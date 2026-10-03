@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6850",
   "country": "GER",
+  "reference": "03520004I26",
   "name": "WUCHTBRUMME",
   "rating": {
     "gph": 611.4,
@@ -197,6 +198,5 @@
       8.18,
       8.96
     ]
-  },
-  "reference": "03520004I26"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN3551",
   "country": "FIN",
+  "reference": "04140004VTR",
   "name": "Obelix",
   "rating": {
     "gph": 645.1,
@@ -197,6 +198,5 @@
       7.72,
       8.57
     ]
-  },
-  "reference": "04140004VTR"
+  }
 }

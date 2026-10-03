@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR9878",
   "country": "NOR",
+  "reference": "03440004OQD",
   "name": "Jolly Yacht",
   "rating": {
     "gph": 659.2,
@@ -197,6 +198,5 @@
       7.54,
       8.27
     ]
-  },
-  "reference": "03440004OQD"
+  }
 }

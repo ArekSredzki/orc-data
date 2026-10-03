@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2155_C",
   "country": "ESP",
+  "reference": "03510004UBS",
   "name": "ATREVIT II",
   "rating": {
     "gph": 603.9,
@@ -197,6 +198,5 @@
       8.05,
       8.69
     ]
-  },
-  "reference": "03510004UBS"
+  }
 }

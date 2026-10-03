@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/USA102",
   "country": "ITA",
+  "reference": "03190004C3P",
   "name": "PAOLA",
   "rating": {
     "gph": 516.3,
@@ -197,6 +198,5 @@
       13.08,
       16.27
     ]
-  },
-  "reference": "03190004C3P"
+  }
 }

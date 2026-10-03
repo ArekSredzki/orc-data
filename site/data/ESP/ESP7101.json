@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7101",
   "country": "ESP",
+  "reference": "03510004F89",
   "name": "COSTA ESTE",
   "rating": {
     "gph": 627.9,
@@ -197,6 +198,5 @@
       8.23,
       9.8
     ]
-  },
-  "reference": "03510004F89"
+  }
 }

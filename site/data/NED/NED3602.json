@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3602",
   "country": "NED",
+  "reference": "04310004LQM",
   "name": "Jefferson Airplane",
   "rating": {
     "gph": 585.9,
@@ -197,6 +198,5 @@
       8.43,
       10.64
     ]
-  },
-  "reference": "04310004LQM"
+  }
 }

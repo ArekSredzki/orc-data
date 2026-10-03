@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITALYSMI",
   "country": "ITA",
+  "reference": "03190004PP4",
   "name": "LYS",
   "rating": {
     "gph": 651.9,
@@ -197,6 +198,5 @@
       7.22,
       7.72
     ]
-  },
-  "reference": "03190004PP4"
+  }
 }

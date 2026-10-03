@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11580",
   "country": "FIN",
+  "reference": "04140004WF5",
   "name": "Milady",
   "rating": {
     "gph": 630.3,
@@ -197,6 +198,5 @@
       8.1,
       8.8
     ]
-  },
-  "reference": "04140004WF5"
+  }
 }

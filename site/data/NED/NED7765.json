@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7765",
   "country": "NED",
+  "reference": "04310004K05",
   "name": "Forex",
   "rating": {
     "gph": 634.9,
@@ -197,6 +198,5 @@
       7.87,
       9.03
     ]
-  },
-  "reference": "04310004K05"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3025",
   "country": "NED",
+  "reference": "04310004P8K",
   "name": "Rogg-First",
   "rating": {
     "gph": 622.5,
@@ -197,6 +198,5 @@
       8.49,
       11.03
     ]
-  },
-  "reference": "04310004P8K"
+  }
 }

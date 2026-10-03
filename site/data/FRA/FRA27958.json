@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA27958",
   "country": "FRA",
+  "reference": "04330004V34",
   "name": "FUGUE",
   "rating": {
     "gph": 607.9,
@@ -197,6 +198,5 @@
       8.17,
       8.97
     ]
-  },
-  "reference": "04330004V34"
+  }
 }

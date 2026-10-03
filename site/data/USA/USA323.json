@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA323",
   "country": "USA",
+  "reference": "04560004SAK",
   "name": "OHANA",
   "rating": {
     "gph": 458.6,
@@ -197,6 +198,5 @@
       11.7,
       14.1
     ]
-  },
-  "reference": "04560004SAK"
+  }
 }

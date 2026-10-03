@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1331",
   "country": "ITA",
+  "reference": "03190004JEB",
   "name": "X LADY",
   "rating": {
     "gph": 625.0,
@@ -197,6 +198,5 @@
       7.91,
       8.81
     ]
-  },
-  "reference": "03190004JEB"
+  }
 }

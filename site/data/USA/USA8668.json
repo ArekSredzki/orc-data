@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA8668",
   "country": "USA",
+  "reference": "04560004TFM",
   "name": "SETTLER",
   "rating": {
     "gph": 483.7,
@@ -197,6 +198,5 @@
       12.45,
       15.78
     ]
-  },
-  "reference": "04560004TFM"
+  }
 }

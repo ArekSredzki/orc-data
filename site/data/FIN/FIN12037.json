@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12037",
   "country": "FIN",
+  "reference": "04140004W1Q",
   "name": "H2O",
   "rating": {
     "gph": 613.8,
@@ -197,6 +198,5 @@
       8.02,
       8.66
     ]
-  },
-  "reference": "04140004W1Q"
+  }
 }

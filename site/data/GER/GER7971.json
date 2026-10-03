@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7971",
   "country": "GER",
+  "reference": "04150004WFS",
   "name": "OM",
   "rating": {
     "gph": 604.7,
@@ -197,6 +198,5 @@
       7.87,
       9.58
     ]
-  },
-  "reference": "04150004WFS"
+  }
 }

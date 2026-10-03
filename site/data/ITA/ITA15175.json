@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15175",
   "country": "ITA",
+  "reference": "03190004FOC",
   "name": "ST.KITTS",
   "rating": {
     "gph": 658.0,
@@ -197,6 +198,5 @@
       7.88,
       9.01
     ]
-  },
-  "reference": "03190004FOC"
+  }
 }

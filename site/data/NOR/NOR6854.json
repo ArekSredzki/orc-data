@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR6854",
   "country": "NOR",
+  "reference": "03440004NA2",
   "name": "FRI",
   "rating": {
     "gph": 695.1,
@@ -197,6 +198,5 @@
       7.1,
       7.6
     ]
-  },
-  "reference": "03440004NA2"
+  }
 }

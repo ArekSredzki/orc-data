@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2225_C",
   "country": "ESP",
+  "reference": "035100048OD",
   "name": "L' ILLA",
   "rating": {
     "gph": 757.5,
@@ -197,6 +198,5 @@
       6.66,
       7.25
     ]
-  },
-  "reference": "035100048OD"
+  }
 }

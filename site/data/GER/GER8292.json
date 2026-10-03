@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8292",
   "country": "GER",
+  "reference": "03520004ODQ",
   "name": "JILA",
   "rating": {
     "gph": 626.8,
@@ -197,6 +198,5 @@
       8.17,
       10.99
     ]
-  },
-  "reference": "03520004ODQ"
+  }
 }

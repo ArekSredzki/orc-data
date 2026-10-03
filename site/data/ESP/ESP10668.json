@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10668",
   "country": "ESP",
+  "reference": "03510004VAK",
   "name": "BOLERO",
   "rating": {
     "gph": 670.9,
@@ -197,6 +198,5 @@
       7.28,
       7.85
     ]
-  },
-  "reference": "03510004VAK"
+  }
 }

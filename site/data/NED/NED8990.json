@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8990",
   "country": "NED",
+  "reference": "04310004K9L",
   "name": "Xiu",
   "rating": {
     "gph": 601.9,
@@ -197,6 +198,5 @@
       8.33,
       9.14
     ]
-  },
-  "reference": "04310004K9L"
+  }
 }

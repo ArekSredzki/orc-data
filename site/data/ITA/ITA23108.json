@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA23108",
   "country": "ITA",
+  "reference": "03190004FLK",
   "name": "HARU",
   "rating": {
     "gph": 588.1,
@@ -197,6 +198,5 @@
       8.46,
       9.28
     ]
-  },
-  "reference": "03190004FLK"
+  }
 }

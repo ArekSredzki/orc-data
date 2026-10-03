@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA120",
   "country": "ITA",
+  "reference": "03190004NW7",
   "name": "WALL E2",
   "rating": {
     "gph": 551.3,
@@ -197,6 +198,5 @@
       8.59,
       9.52
     ]
-  },
-  "reference": "03190004NW7"
+  }
 }

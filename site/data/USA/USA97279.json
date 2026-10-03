@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA97279",
   "country": "USA",
+  "reference": "04560004RKM",
   "name": "STRAY CURRENTS",
   "rating": {
     "gph": 609.6,
@@ -197,6 +198,5 @@
       7.91,
       8.75
     ]
-  },
-  "reference": "04560004RKM"
+  }
 }

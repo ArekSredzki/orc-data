@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10953_C",
   "country": "ESP",
+  "reference": "03510004C1O",
   "name": "TURQUOISE",
   "rating": {
     "gph": 676.6,
@@ -197,6 +198,5 @@
       7.36,
       7.93
     ]
-  },
-  "reference": "03510004C1O"
+  }
 }

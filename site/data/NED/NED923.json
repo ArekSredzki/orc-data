@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED923",
   "country": "NED",
+  "reference": "04310004K2W",
   "name": "Tuuli",
   "rating": {
     "gph": 841.8,
@@ -197,6 +198,5 @@
       6.23,
       6.77
     ]
-  },
-  "reference": "04310004K2W"
+  }
 }

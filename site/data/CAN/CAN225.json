@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN225",
   "country": "CAN",
+  "reference": "03430004UCF",
   "name": "Delirium",
   "rating": {
     "gph": 617.0,
@@ -197,6 +198,5 @@
       7.85,
       8.56
     ]
-  },
-  "reference": "03430004UCF"
+  }
 }

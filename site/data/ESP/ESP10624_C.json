@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10624_C",
   "country": "ESP",
+  "reference": "03510004F58",
   "name": "INAUDIT",
   "rating": {
     "gph": 602.0,
@@ -197,6 +198,5 @@
       7.79,
       8.89
     ]
-  },
-  "reference": "03510004F58"
+  }
 }

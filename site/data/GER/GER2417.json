@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER2417",
   "country": "GER",
+  "reference": "03520004O8N",
   "name": "YARA",
   "rating": {
     "gph": 661.4,
@@ -197,6 +198,5 @@
       7.42,
       8.01
     ]
-  },
-  "reference": "03520004O8N"
+  }
 }

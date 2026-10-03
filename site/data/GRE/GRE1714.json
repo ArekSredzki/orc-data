@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1714",
   "country": "GRE",
+  "reference": "03420004LF8",
   "name": "ORIZON",
   "rating": {
     "gph": 704.6,
@@ -197,6 +198,5 @@
       7.02,
       7.6
     ]
-  },
-  "reference": "03420004LF8"
+  }
 }

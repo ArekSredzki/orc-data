@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR6741",
   "country": "KOR",
+  "reference": "04550004WNJ",
   "name": "Phantom",
   "rating": {
     "gph": 595.4,
@@ -197,6 +198,5 @@
       7.97,
       8.83
     ]
-  },
-  "reference": "04550004WNJ"
+  }
 }

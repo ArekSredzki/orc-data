@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/7013",
   "country": "AUS",
+  "reference": "03020004US9",
   "name": "XVitesse",
   "rating": {
     "gph": 582.2,
@@ -197,6 +198,5 @@
       8.61,
       9.67
     ]
-  },
-  "reference": "03020004US9"
+  }
 }

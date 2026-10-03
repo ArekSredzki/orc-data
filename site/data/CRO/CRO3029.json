@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO3029",
   "country": "CRO",
+  "reference": "03620004M04",
   "name": "Aurora",
   "rating": {
     "gph": 620.0,
@@ -197,6 +198,5 @@
       7.88,
       8.45
     ]
-  },
-  "reference": "03620004M04"
+  }
 }

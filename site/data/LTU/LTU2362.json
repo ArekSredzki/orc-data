@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2362",
   "country": "LTU",
+  "reference": "03590004W74",
   "name": "NEXT",
   "rating": {
     "gph": 604.4,
@@ -197,6 +198,5 @@
       8.44,
       9.43
     ]
-  },
-  "reference": "03590004W74"
+  }
 }

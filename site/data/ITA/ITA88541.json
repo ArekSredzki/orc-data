@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA88541",
   "country": "ITA",
+  "reference": "03190004BDV",
   "name": "LUCIFERO",
   "rating": {
     "gph": 472.0,
@@ -197,6 +198,5 @@
       11.28,
       13.96
     ]
-  },
-  "reference": "03190004BDV"
+  }
 }

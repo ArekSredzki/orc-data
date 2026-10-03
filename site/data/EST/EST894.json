@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST894",
   "country": "EST",
+  "reference": "04340004OE2",
   "name": "EDDA",
   "rating": {
     "gph": 773.2,
@@ -197,6 +198,5 @@
       6.66,
       7.2
     ]
-  },
-  "reference": "04340004OE2"
+  }
 }

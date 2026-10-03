@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11512_C",
   "country": "ESP",
+  "reference": "03510004PCP",
   "name": "SAMARCANDA",
   "rating": {
     "gph": 685.8,
@@ -197,6 +198,5 @@
       7.0,
       7.55
     ]
-  },
-  "reference": "03510004PCP"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10896",
   "country": "NOR",
+  "reference": "03440004W89",
   "name": "Krazy K-Yote Two",
   "rating": {
     "gph": 515.2,
@@ -197,6 +198,5 @@
       9.58,
       11.25
     ]
-  },
-  "reference": "03440004W89"
+  }
 }

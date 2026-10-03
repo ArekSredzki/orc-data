@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/FRA37585",
   "country": "ESP",
+  "reference": "03510004RWP",
   "name": "OBLONGO",
   "rating": {
     "gph": 596.1,
@@ -197,6 +198,5 @@
       9.11,
       11.76
     ]
-  },
-  "reference": "03510004RWP"
+  }
 }

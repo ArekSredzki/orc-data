@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2680",
   "country": "CRO",
+  "reference": "03620004N1I",
   "name": "Limonca",
   "rating": {
     "gph": 559.5,
@@ -197,6 +198,5 @@
       10.2,
       13.48
     ]
-  },
-  "reference": "03620004N1I"
+  }
 }

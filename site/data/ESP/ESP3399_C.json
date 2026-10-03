@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3399_C",
   "country": "ESP",
+  "reference": "03510004N09",
   "name": "GAMBOL",
   "rating": {
     "gph": 617.2,
@@ -197,6 +198,5 @@
       7.72,
       9.55
     ]
-  },
-  "reference": "03510004N09"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR8540",
   "country": "POR",
+  "reference": "03530004VJV",
   "name": "MAXIMVS",
   "rating": {
     "gph": 628.1,
@@ -197,6 +198,5 @@
       7.67,
       8.25
     ]
-  },
-  "reference": "03530004VJV"
+  }
 }

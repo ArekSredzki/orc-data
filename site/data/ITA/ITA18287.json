@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18287",
   "country": "ITA",
+  "reference": "03190004NUL",
   "name": "MYMEDDUE",
   "rating": {
     "gph": 562.2,
@@ -197,6 +198,5 @@
       8.56,
       9.43
     ]
-  },
-  "reference": "03190004NUL"
+  }
 }

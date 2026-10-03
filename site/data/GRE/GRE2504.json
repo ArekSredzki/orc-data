@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2504",
   "country": "GRE",
+  "reference": "03420004LIH",
   "name": "LA DOSE",
   "rating": {
     "gph": 665.7,
@@ -197,6 +198,5 @@
       7.91,
       10.82
     ]
-  },
-  "reference": "03420004LIH"
+  }
 }

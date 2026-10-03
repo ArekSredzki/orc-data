@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11196",
   "country": "NOR",
+  "reference": "03440004WRV",
   "name": "Syvern",
   "rating": {
     "gph": 533.9,
@@ -197,6 +198,5 @@
       9.2,
       10.11
     ]
-  },
-  "reference": "03440004WRV"
+  }
 }

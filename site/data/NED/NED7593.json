@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7593",
   "country": "NED",
+  "reference": "04310004JWT",
   "name": "Jester",
   "rating": {
     "gph": 606.3,
@@ -197,6 +198,5 @@
       7.74,
       9.1
     ]
-  },
-  "reference": "04310004JWT"
+  }
 }

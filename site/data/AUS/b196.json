@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/b196",
   "country": "AUS",
+  "reference": "03020004T4T",
   "name": "PHANTOM",
   "rating": {
     "gph": 618.4,
@@ -197,6 +198,5 @@
       8.23,
       10.16
     ]
-  },
-  "reference": "03020004T4T"
+  }
 }

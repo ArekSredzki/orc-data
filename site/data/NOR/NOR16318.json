@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16318",
   "country": "NOR",
+  "reference": "03440004W61",
   "name": "No ship Sherlock",
   "rating": {
     "gph": 627.8,
@@ -197,6 +198,5 @@
       10.88,
       13.14
     ]
-  },
-  "reference": "03440004W61"
+  }
 }

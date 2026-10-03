@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8700",
   "country": "GER",
+  "reference": "03520004I33",
   "name": "EXTASY",
   "rating": {
     "gph": 580.2,
@@ -197,6 +198,5 @@
       8.53,
       9.16
     ]
-  },
-  "reference": "03520004I33"
+  }
 }

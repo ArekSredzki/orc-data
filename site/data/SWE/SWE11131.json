@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE11131",
   "country": "SWE",
+  "reference": "03200004Q1W",
   "name": "La Primera",
   "rating": {
     "gph": 601.8,
@@ -197,6 +198,5 @@
       8.44,
       9.7
     ]
-  },
-  "reference": "03200004Q1W"
+  }
 }

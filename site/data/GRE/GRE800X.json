@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE800X",
   "country": "GRE",
+  "reference": "03420004OTS",
   "name": "ALBIREO",
   "rating": {
     "gph": 603.0,
@@ -197,6 +198,5 @@
       7.76,
       9.11
     ]
-  },
-  "reference": "03420004OTS"
+  }
 }

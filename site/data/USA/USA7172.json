@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA7172",
   "country": "USA",
+  "reference": "04560004OJW",
   "name": "SUGAR",
   "rating": {
     "gph": 610.3,
@@ -197,6 +198,5 @@
       7.76,
       9.2
     ]
-  },
-  "reference": "04560004OJW"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL1070",
   "country": "POL",
+  "reference": "04410004O0K",
   "name": "HADAR",
   "rating": {
     "gph": 611.1,
@@ -197,6 +198,5 @@
       8.08,
       8.75
     ]
-  },
-  "reference": "04410004O0K"
+  }
 }

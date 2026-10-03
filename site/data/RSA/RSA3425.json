@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3425",
   "country": "RSA",
+  "reference": "04620004ELO",
   "name": "Moonshadow",
   "rating": {
     "gph": 590.8,
@@ -197,6 +198,5 @@
       7.94,
       9.66
     ]
-  },
-  "reference": "04620004ELO"
+  }
 }

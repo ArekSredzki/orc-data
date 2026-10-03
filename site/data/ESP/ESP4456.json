@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4456",
   "country": "ESP",
+  "reference": "03510004S37",
   "name": "CHISPA",
   "rating": {
     "gph": 563.0,
@@ -197,6 +198,5 @@
       8.51,
       9.22
     ]
-  },
-  "reference": "03510004S37"
+  }
 }

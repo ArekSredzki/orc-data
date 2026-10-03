@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST157",
   "country": "EST",
+  "reference": "04340004UQ1",
   "name": "VESILEENU",
   "rating": {
     "gph": 734.1,
@@ -197,6 +198,5 @@
       6.73,
       7.34
     ]
-  },
-  "reference": "04340004UQ1"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15640",
   "country": "NOR",
+  "reference": "03440004QFH",
   "name": "Playmaker",
   "rating": {
     "gph": 632.7,
@@ -197,6 +198,5 @@
       10.53,
       13.47
     ]
-  },
-  "reference": "03440004QFH"
+  }
 }

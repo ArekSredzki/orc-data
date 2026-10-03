@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/5812",
   "country": "AUS",
+  "reference": "03020004V4O",
   "name": "Cool Change",
   "rating": {
     "gph": 670.0,
@@ -197,6 +198,5 @@
       7.53,
       8.44
     ]
-  },
-  "reference": "03020004V4O"
+  }
 }

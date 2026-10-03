@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9772",
   "country": "FRA",
+  "reference": "04330004LQ8",
   "name": "TRADITION BRETAGNE",
   "rating": {
     "gph": 691.6,
@@ -197,6 +198,5 @@
       7.15,
       7.84
     ]
-  },
-  "reference": "04330004LQ8"
+  }
 }

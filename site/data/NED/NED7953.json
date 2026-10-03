@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED7953",
   "country": "NED",
+  "reference": "04310004K0A",
   "name": "--",
   "rating": {
     "gph": 624.5,
@@ -197,6 +198,5 @@
       7.98,
       8.7
     ]
-  },
-  "reference": "04310004K0A"
+  }
 }

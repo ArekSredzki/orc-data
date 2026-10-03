@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/SM444",
   "country": "AUS",
+  "reference": "03020004TBL",
   "name": "True Colours",
   "rating": {
     "gph": 613.7,
@@ -197,6 +198,5 @@
       7.93,
       8.55
     ]
-  },
-  "reference": "03020004TBL"
+  }
 }

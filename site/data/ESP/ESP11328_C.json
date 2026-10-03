@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11328_C",
   "country": "ESP",
+  "reference": "03510004N7T",
   "name": "UNIQO",
   "rating": {
     "gph": 609.5,
@@ -197,6 +198,5 @@
       7.79,
       8.37
     ]
-  },
-  "reference": "03510004N7T"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/1236",
   "country": "AUS",
+  "reference": "03020004VWO",
   "name": "LOCAL HERO",
   "rating": {
     "gph": 598.0,
@@ -197,6 +198,5 @@
       8.28,
       9.53
     ]
-  },
-  "reference": "03020004VWO"
+  }
 }

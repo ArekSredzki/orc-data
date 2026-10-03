@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN20001",
   "country": "CAN",
+  "reference": "03430004WC0",
   "name": "Carrera",
   "rating": {
     "gph": 612.7,
@@ -197,6 +198,5 @@
       9.35,
       12.39
     ]
-  },
-  "reference": "03430004WC0"
+  }
 }

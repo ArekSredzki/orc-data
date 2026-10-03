@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP111_C",
   "country": "ESP",
+  "reference": "03510004UUJ",
   "name": "PEQUETRON",
   "rating": {
     "gph": 649.7,
@@ -197,6 +198,5 @@
       11.03,
       13.85
     ]
-  },
-  "reference": "03510004UUJ"
+  }
 }

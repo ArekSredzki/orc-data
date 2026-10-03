@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18149",
   "country": "ITA",
+  "reference": "03190004K6K",
   "name": "ONE MR JJ",
   "rating": {
     "gph": 539.5,
@@ -197,6 +198,5 @@
       9.27,
       12.03
     ]
-  },
-  "reference": "03190004K6K"
+  }
 }

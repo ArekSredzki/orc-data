@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR3619",
   "country": "NOR",
+  "reference": "03440004UE2",
   "name": "Caro II",
   "rating": {
     "gph": 729.7,
@@ -197,6 +198,5 @@
       6.76,
       7.33
     ]
-  },
-  "reference": "03440004UE2"
+  }
 }

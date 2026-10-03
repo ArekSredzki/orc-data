@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1443",
   "country": "GRE",
+  "reference": "03420004LRC",
   "name": "ALEXIS P",
   "rating": {
     "gph": 646.0,
@@ -197,6 +198,5 @@
       7.41,
       7.91
     ]
-  },
-  "reference": "03420004LRC"
+  }
 }

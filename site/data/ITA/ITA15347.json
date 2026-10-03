@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15347",
   "country": "ITA",
+  "reference": "03190004IQO",
   "name": "FIRST...ISSIMA",
   "rating": {
     "gph": 628.5,
@@ -197,6 +198,5 @@
       7.72,
       8.46
     ]
-  },
-  "reference": "03190004IQO"
+  }
 }

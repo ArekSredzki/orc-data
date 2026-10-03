@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA12959",
   "country": "ITA",
+  "reference": "03190004BNM",
   "name": "NEREIDE",
   "rating": {
     "gph": 659.6,
@@ -197,6 +198,5 @@
       7.67,
       8.23
     ]
-  },
-  "reference": "03190004BNM"
+  }
 }

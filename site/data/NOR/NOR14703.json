@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14703",
   "country": "NOR",
+  "reference": "03440004LKR",
   "name": "Nerthuz",
   "rating": {
     "gph": 622.7,
@@ -197,6 +198,5 @@
       7.6,
       8.19
     ]
-  },
-  "reference": "03440004LKR"
+  }
 }

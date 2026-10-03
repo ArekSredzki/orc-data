@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12048",
   "country": "NOR",
+  "reference": "03440004FIS",
   "name": "Astrid Sofie",
   "rating": {
     "gph": 602.9,
@@ -197,6 +198,5 @@
       8.26,
       9.01
     ]
-  },
-  "reference": "03440004FIS"
+  }
 }

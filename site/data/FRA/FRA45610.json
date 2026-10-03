@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA45610",
   "country": "FRA",
+  "reference": "04330004KSB",
   "name": "ELENDYL",
   "rating": {
     "gph": 681.7,
@@ -197,6 +198,5 @@
       7.35,
       7.98
     ]
-  },
-  "reference": "04330004KSB"
+  }
 }

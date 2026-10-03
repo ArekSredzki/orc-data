@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3004",
   "country": "ESP",
+  "reference": "035100048J6",
   "name": "MARCOLFO",
   "rating": {
     "gph": 697.0,
@@ -197,6 +198,5 @@
       7.12,
       8.15
     ]
-  },
-  "reference": "035100048J6"
+  }
 }

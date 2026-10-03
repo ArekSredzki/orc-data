@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52999",
   "country": "USA",
+  "reference": "04560004TH4",
   "name": "NO RUSH",
   "rating": {
     "gph": 631.1,
@@ -197,6 +198,5 @@
       7.87,
       8.47
     ]
-  },
-  "reference": "04560004TH4"
+  }
 }

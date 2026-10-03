@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/RSA78",
   "country": "ITA",
+  "reference": "03190004VM2",
   "name": "MILKWAVE",
   "rating": {
     "gph": 559.6,
@@ -197,6 +198,5 @@
       11.25,
       14.42
     ]
-  },
-  "reference": "03190004VM2"
+  }
 }

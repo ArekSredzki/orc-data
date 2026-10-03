@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/6669",
   "country": "AUS",
+  "reference": "03020004TI0",
   "name": "BANTER",
   "rating": {
     "gph": 569.5,
@@ -197,6 +198,5 @@
       8.8,
       9.62
     ]
-  },
-  "reference": "03020004TI0"
+  }
 }

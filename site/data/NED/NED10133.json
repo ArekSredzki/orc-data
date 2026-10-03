@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED10133",
   "country": "NED",
+  "reference": "04310004JSC",
   "name": "Jacky X",
   "rating": {
     "gph": 560.3,
@@ -197,6 +198,5 @@
       8.49,
       9.8
     ]
-  },
-  "reference": "04310004JSC"
+  }
 }

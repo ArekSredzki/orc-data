@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN28077",
   "country": "CAN",
+  "reference": "03430004MUU",
   "name": "The Fugitive",
   "rating": {
     "gph": 609.9,
@@ -197,6 +198,5 @@
       8.09,
       8.79
     ]
-  },
-  "reference": "03430004MUU"
+  }
 }

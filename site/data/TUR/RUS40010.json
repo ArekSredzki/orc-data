@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/RUS40010",
   "country": "TUR",
+  "reference": "04590004O25",
   "name": "FROGFOOT",
   "rating": {
     "gph": 510.9,
@@ -197,6 +198,5 @@
       11.03,
       14.24
     ]
-  },
-  "reference": "04590004O25"
+  }
 }

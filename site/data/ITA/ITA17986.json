@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17986",
   "country": "ITA",
+  "reference": "03190004OVS",
   "name": "SOUTH BREEZE",
   "rating": {
     "gph": 616.2,
@@ -197,6 +198,5 @@
       8.02,
       8.67
     ]
-  },
-  "reference": "03190004OVS"
+  }
 }

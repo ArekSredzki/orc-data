@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL000ZK7",
   "country": "POL",
+  "reference": "04410004PI2",
   "name": "BRYZA 33",
   "rating": {
     "gph": 622.1,
@@ -197,6 +198,5 @@
       8.6,
       10.24
     ]
-  },
-  "reference": "04410004PI2"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/HY68",
   "country": "AUS",
+  "reference": "03020004WTV",
   "name": "PERLE",
   "rating": {
     "gph": 684.4,
@@ -197,6 +198,5 @@
       7.51,
       8.12
     ]
-  },
-  "reference": "03020004WTV"
+  }
 }

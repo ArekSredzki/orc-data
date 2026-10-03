@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/CRO2762",
   "country": "TUR",
+  "reference": "04590004N5M",
   "name": "IVANA",
   "rating": {
     "gph": 614.7,
@@ -197,6 +198,5 @@
       8.24,
       9.03
     ]
-  },
-  "reference": "04590004N5M"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA16919",
   "country": "FRA",
+  "reference": "04330004CBO",
   "name": "JADE",
   "rating": {
     "gph": 682.8,
@@ -197,6 +198,5 @@
       7.42,
       8.15
     ]
-  },
-  "reference": "04330004CBO"
+  }
 }

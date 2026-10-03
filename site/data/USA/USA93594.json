@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA93594",
   "country": "USA",
+  "reference": "04560004OLR",
   "name": "WIDOW MAKER",
   "rating": {
     "gph": 613.7,
@@ -197,6 +198,5 @@
       8.03,
       8.61
     ]
-  },
-  "reference": "04560004OLR"
+  }
 }

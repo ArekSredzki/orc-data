@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE659",
   "country": "SWE",
+  "reference": "03200004S8J",
   "name": "Andiamo",
   "rating": {
     "gph": 588.6,
@@ -197,6 +198,5 @@
       9.59,
       12.42
     ]
-  },
-  "reference": "03200004S8J"
+  }
 }

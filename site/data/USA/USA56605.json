@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA56605",
   "country": "USA",
+  "reference": "04560004P66",
   "name": "MOSH PIT",
   "rating": {
     "gph": 576.3,
@@ -197,6 +198,5 @@
       11.17,
       14.26
     ]
-  },
-  "reference": "04560004P66"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10511",
   "country": "ITA",
+  "reference": "03190004FP0",
   "name": "POLLUCE",
   "rating": {
     "gph": 651.5,
@@ -197,6 +198,5 @@
       7.77,
       9.62
     ]
-  },
-  "reference": "03190004FP0"
+  }
 }

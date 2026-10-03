@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Aus223",
   "country": "AUS",
+  "reference": "03020004VBN",
   "name": "Pacesetter",
   "rating": {
     "gph": 606.3,
@@ -197,6 +198,5 @@
       10.19,
       12.98
     ]
-  },
-  "reference": "03020004VBN"
+  }
 }

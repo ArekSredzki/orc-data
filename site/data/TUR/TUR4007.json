@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR4007",
   "country": "TUR",
+  "reference": "04590004C4E",
   "name": "LIQUID SKY",
   "rating": {
     "gph": 591.4,
@@ -197,6 +198,5 @@
       7.93,
       8.63
     ]
-  },
-  "reference": "04590004C4E"
+  }
 }

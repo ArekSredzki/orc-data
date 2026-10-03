@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm5915",
   "country": "AUS",
+  "reference": "03020004USH",
   "name": "Pegasus",
   "rating": {
     "gph": 596.2,
@@ -197,6 +198,5 @@
       8.44,
       9.88
     ]
-  },
-  "reference": "03020004USH"
+  }
 }

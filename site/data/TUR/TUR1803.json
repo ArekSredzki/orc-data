@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1803",
   "country": "TUR",
+  "reference": "04590004P23",
   "name": "VAMOS",
   "rating": {
     "gph": 585.5,
@@ -197,6 +198,5 @@
       8.44,
       9.22
     ]
-  },
-  "reference": "04590004P23"
+  }
 }

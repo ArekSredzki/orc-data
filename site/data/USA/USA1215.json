@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA1215",
   "country": "USA",
+  "reference": "04560004LNQ",
   "name": "FLAT STANLEY",
   "rating": {
     "gph": 540.1,
@@ -197,6 +198,5 @@
       12.48,
       15.6
     ]
-  },
-  "reference": "04560004LNQ"
+  }
 }

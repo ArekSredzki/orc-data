@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA390",
   "country": "USA",
+  "reference": "04560004WCO",
   "name": "CERTARE",
   "rating": {
     "gph": 612.0,
@@ -197,6 +198,5 @@
       7.99,
       10.05
     ]
-  },
-  "reference": "04560004WCO"
+  }
 }

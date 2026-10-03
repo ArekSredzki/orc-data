@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8121",
   "country": "ESP",
+  "reference": "035100050D3",
   "name": "MUFO",
   "rating": {
     "gph": 605.0,

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU407",
   "country": "ROU",
+  "reference": "05040004RE7",
   "name": "Mojo",
   "rating": {
     "gph": 603.7,
@@ -197,6 +198,5 @@
       8.19,
       8.9
     ]
-  },
-  "reference": "05040004RE7"
+  }
 }

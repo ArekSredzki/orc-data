@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8962_C",
   "country": "ESP",
+  "reference": "03510004C0L",
   "name": "A TOMAR VIENTO",
   "rating": {
     "gph": 619.5,
@@ -197,6 +198,5 @@
       8.0,
       8.81
     ]
-  },
-  "reference": "03510004C0L"
+  }
 }

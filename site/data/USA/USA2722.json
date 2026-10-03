@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA2722",
   "country": "USA",
+  "reference": "04560004M3P",
   "name": "MA'M'SELLE",
   "rating": {
     "gph": 570.6,
@@ -197,6 +198,5 @@
       8.28,
       9.82
     ]
-  },
-  "reference": "04560004M3P"
+  }
 }

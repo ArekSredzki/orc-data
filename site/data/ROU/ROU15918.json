@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU15918",
   "country": "ROU",
+  "reference": "05040004R5H",
   "name": "Fly",
   "rating": {
     "gph": 650.8,
@@ -197,6 +198,5 @@
       7.67,
       8.36
     ]
-  },
-  "reference": "05040004R5H"
+  }
 }

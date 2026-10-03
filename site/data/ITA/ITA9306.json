@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA9306",
   "country": "ITA",
+  "reference": "03190004QPQ",
   "name": "KATIA",
   "rating": {
     "gph": 627.5,
@@ -197,6 +198,5 @@
       7.82,
       8.45
     ]
-  },
-  "reference": "03190004QPQ"
+  }
 }

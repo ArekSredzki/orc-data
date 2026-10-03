@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6899",
   "country": "GER",
+  "reference": "04150004KL7",
   "name": "JOY",
   "rating": {
     "gph": 624.4,
@@ -197,6 +198,5 @@
       9.51,
       12.67
     ]
-  },
-  "reference": "04150004KL7"
+  }
 }

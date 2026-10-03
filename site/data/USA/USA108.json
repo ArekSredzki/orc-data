@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA108",
   "country": "USA",
+  "reference": "04560004OKD",
   "name": "IMAGINE",
   "rating": {
     "gph": 627.8,
@@ -197,6 +198,5 @@
       7.87,
       8.54
     ]
-  },
-  "reference": "04560004OKD"
+  }
 }

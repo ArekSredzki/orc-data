@@ -1,6 +1,7 @@
 {
   "sailnumber": "SWE/SWE13",
   "country": "SWE",
+  "reference": "03200004UWS",
   "name": "C-Me",
   "rating": {
     "gph": 565.0,
@@ -197,6 +198,5 @@
       8.65,
       9.64
     ]
-  },
-  "reference": "03200004UWS"
+  }
 }

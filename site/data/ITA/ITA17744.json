@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17744",
   "country": "ITA",
+  "reference": "03190004F7F",
   "name": "ALTER FOX",
   "rating": {
     "gph": 591.8,
@@ -197,6 +198,5 @@
       8.91,
       12.35
     ]
-  },
-  "reference": "03190004F7F"
+  }
 }

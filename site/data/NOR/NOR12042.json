@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12042",
   "country": "NOR",
+  "reference": "03440004NB8",
   "name": "Bj\u00f8rnstjerne",
   "rating": {
     "gph": 582.0,
@@ -197,6 +198,5 @@
       8.48,
       9.25
     ]
-  },
-  "reference": "03440004NB8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9124_C",
   "country": "ESP",
+  "reference": "03510004U15",
   "name": "TUAREG",
   "rating": {
     "gph": 686.5,
@@ -197,6 +198,5 @@
       7.15,
       7.8
     ]
-  },
-  "reference": "03510004U15"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED4103",
   "country": "NED",
+  "reference": "04310004PCI",
   "name": "X-Esteem",
   "rating": {
     "gph": 569.3,
@@ -197,6 +198,5 @@
       8.73,
       10.43
     ]
-  },
-  "reference": "04310004PCI"
+  }
 }

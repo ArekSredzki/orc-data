@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS132",
   "country": "AUS",
+  "reference": "03020004VBO",
   "name": "PLAYLIST",
   "rating": {
     "gph": 530.9,
@@ -197,6 +198,5 @@
       12.7,
       15.86
     ]
-  },
-  "reference": "03020004VBO"
+  }
 }

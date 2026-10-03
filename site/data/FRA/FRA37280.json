@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA37280",
   "country": "FRA",
+  "reference": "04330004RMI",
   "name": "BONNE NOUVELLE",
   "rating": {
     "gph": 548.0,
@@ -197,6 +198,5 @@
       9.09,
       10.69
     ]
-  },
-  "reference": "04330004RMI"
+  }
 }

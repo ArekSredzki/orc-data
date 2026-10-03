@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN6004",
   "country": "FIN",
+  "reference": "04140004R0E",
   "name": "Arlee",
   "rating": {
     "gph": 618.3,
@@ -197,6 +198,5 @@
       8.14,
       8.89
     ]
-  },
-  "reference": "04140004R0E"
+  }
 }

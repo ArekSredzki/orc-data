@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR12136",
   "country": "NOR",
+  "reference": "03440004NBA",
   "name": "Synzygus",
   "rating": {
     "gph": 665.3,
@@ -197,6 +198,5 @@
       7.64,
       8.49
     ]
-  },
-  "reference": "03440004NBA"
+  }
 }

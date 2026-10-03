@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA35387",
   "country": "FRA",
+  "reference": "04330004UJ8",
   "name": "HOUAD PENNEK",
   "rating": {
     "gph": 643.1,
@@ -197,6 +198,5 @@
       8.06,
       9.3
     ]
-  },
-  "reference": "04330004UJ8"
+  }
 }

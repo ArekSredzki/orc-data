@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/43",
   "country": "USA",
+  "reference": "04560004SK2",
   "name": "GRIMACE",
   "rating": {
     "gph": 621.3,
@@ -197,6 +198,5 @@
       8.13,
       9.45
     ]
-  },
-  "reference": "04560004SK2"
+  }
 }

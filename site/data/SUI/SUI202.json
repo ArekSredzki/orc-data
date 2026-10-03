@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI202",
   "country": "SUI",
+  "reference": "03080004L7S",
   "name": "AJOUNA",
   "rating": {
     "gph": 672.7,
@@ -197,6 +198,5 @@
       7.47,
       8.97
     ]
-  },
-  "reference": "03080004L7S"
+  }
 }

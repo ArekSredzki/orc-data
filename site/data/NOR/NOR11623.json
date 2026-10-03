@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11623",
   "country": "NOR",
+  "reference": "03440004SKA",
   "name": "J-walk",
   "rating": {
     "gph": 556.9,
@@ -197,6 +198,5 @@
       8.5,
       9.86
     ]
-  },
-  "reference": "03440004SKA"
+  }
 }

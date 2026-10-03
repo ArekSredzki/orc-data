@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49238",
   "country": "GRE",
+  "reference": "03420004HIP",
   "name": "IVANOIS",
   "rating": {
     "gph": 633.6,
@@ -197,6 +198,5 @@
       7.62,
       8.36
     ]
-  },
-  "reference": "03420004HIP"
+  }
 }

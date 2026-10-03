@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/ESP2655",
   "country": "FRA",
+  "reference": "04330004F6F",
   "name": "CORTEGADA",
   "rating": {
     "gph": 668.0,
@@ -197,6 +198,5 @@
       7.63,
       8.84
     ]
-  },
-  "reference": "04330004F6F"
+  }
 }

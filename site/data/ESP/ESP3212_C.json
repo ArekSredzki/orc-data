@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3212_C",
   "country": "ESP",
+  "reference": "03510004BIK",
   "name": "PECAS-X",
   "rating": {
     "gph": 623.0,
@@ -197,6 +198,5 @@
       8.1,
       9.14
     ]
-  },
-  "reference": "03510004BIK"
+  }
 }

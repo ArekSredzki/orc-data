@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5036",
   "country": "ESP",
+  "reference": "03510004KSD",
   "name": "SOLETE",
   "rating": {
     "gph": 589.3,
@@ -197,6 +198,5 @@
       8.14,
       10.02
     ]
-  },
-  "reference": "03510004KSD"
+  }
 }

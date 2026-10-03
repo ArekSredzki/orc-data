@@ -1,6 +1,7 @@
 {
   "sailnumber": "CYP/CYP700",
   "country": "CYP",
+  "reference": "03470004NRB",
   "name": "ALMIRA",
   "rating": {
     "gph": 657.0,
@@ -197,6 +198,5 @@
       7.61,
       8.18
     ]
-  },
-  "reference": "03470004NRB"
+  }
 }

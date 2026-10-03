@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA70029",
   "country": "USA",
+  "reference": "04560004RED",
   "name": "Le R\u00eave",
   "rating": {
     "gph": 593.0,
@@ -197,6 +198,5 @@
       8.49,
       11.45
     ]
-  },
-  "reference": "04560004RED"
+  }
 }

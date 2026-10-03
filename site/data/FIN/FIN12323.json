@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12323",
   "country": "FIN",
+  "reference": "04140004QL8",
   "name": "Sleeper",
   "rating": {
     "gph": 585.3,
@@ -197,6 +198,5 @@
       8.5,
       10.56
     ]
-  },
-  "reference": "04140004QL8"
+  }
 }

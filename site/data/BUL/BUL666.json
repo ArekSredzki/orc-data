@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL666",
   "country": "BUL",
+  "reference": "03850004Q3J",
   "name": "Gray gale",
   "rating": {
     "gph": 612.5,
@@ -197,6 +198,5 @@
       8.24,
       8.95
     ]
-  },
-  "reference": "03850004Q3J"
+  }
 }

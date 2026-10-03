@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA27",
   "country": "USA",
+  "reference": "04560004VHW",
   "name": "DELLA AURORA",
   "rating": {
     "gph": 552.1,
@@ -197,6 +198,5 @@
       9.32,
       11.68
     ]
-  },
-  "reference": "04560004VHW"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA66960",
   "country": "USA",
+  "reference": "04560004FHI",
   "name": "Staghound II",
   "rating": {
     "gph": 505.2,
@@ -197,6 +198,5 @@
       9.9,
       12.17
     ]
-  },
-  "reference": "04560004FHI"
+  }
 }

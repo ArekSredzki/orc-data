@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6630",
   "country": "NED",
+  "reference": "04310004JVW",
   "name": "Jam Session",
   "rating": {
     "gph": 627.1,
@@ -197,6 +198,5 @@
       7.7,
       9.2
     ]
-  },
-  "reference": "04310004JVW"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18251",
   "country": "ITA",
+  "reference": "03190004NOD",
   "name": "DREAM",
   "rating": {
     "gph": 595.3,
@@ -197,6 +198,5 @@
       8.02,
       8.68
     ]
-  },
-  "reference": "03190004NOD"
+  }
 }

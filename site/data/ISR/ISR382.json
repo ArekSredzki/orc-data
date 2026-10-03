@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR382",
   "country": "ISR",
+  "reference": "0439000483L",
   "name": "Rony 1",
   "rating": {
     "gph": 615.2,
@@ -197,6 +198,5 @@
       8.21,
       8.96
     ]
-  },
-  "reference": "0439000483L"
+  }
 }

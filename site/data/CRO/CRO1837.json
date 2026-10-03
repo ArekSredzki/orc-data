@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO1837",
   "country": "CRO",
+  "reference": "03620004LRB",
   "name": "X-Ray",
   "rating": {
     "gph": 611.7,
@@ -197,6 +198,5 @@
       7.83,
       9.15
     ]
-  },
-  "reference": "03620004LRB"
+  }
 }

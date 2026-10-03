@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52983",
   "country": "USA",
+  "reference": "04560004MAS",
   "name": "ELVIS",
   "rating": {
     "gph": 622.6,
@@ -197,6 +198,5 @@
       7.48,
       8.47
     ]
-  },
-  "reference": "04560004MAS"
+  }
 }

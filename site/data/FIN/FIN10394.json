@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10394",
   "country": "FIN",
+  "reference": "04140004T02",
   "name": "Viiveri",
   "rating": {
     "gph": 670.2,
@@ -197,6 +198,5 @@
       7.53,
       8.3
     ]
-  },
-  "reference": "04140004T02"
+  }
 }

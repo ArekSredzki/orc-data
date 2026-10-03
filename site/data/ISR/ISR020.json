@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR020",
   "country": "ISR",
+  "reference": "0439000483H",
   "name": "Gaya",
   "rating": {
     "gph": 603.7,
@@ -197,6 +198,5 @@
       8.23,
       9.35
     ]
-  },
-  "reference": "0439000483H"
+  }
 }

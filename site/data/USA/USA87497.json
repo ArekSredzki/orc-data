@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA87497",
   "country": "USA",
+  "reference": "04560004P8F",
   "name": "PIP",
   "rating": {
     "gph": 601.9,
@@ -197,6 +198,5 @@
       9.35,
       11.82
     ]
-  },
-  "reference": "04560004P8F"
+  }
 }

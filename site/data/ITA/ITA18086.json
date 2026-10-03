@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18086",
   "country": "ITA",
+  "reference": "03190004N5T",
   "name": "COCOON",
   "rating": {
     "gph": 659.1,
@@ -197,6 +198,5 @@
       7.29,
       8.75
     ]
-  },
-  "reference": "03190004N5T"
+  }
 }

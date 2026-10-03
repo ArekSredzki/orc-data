@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA4777",
   "country": "USA",
+  "reference": "04560004T3W",
   "name": "VARUNA",
   "rating": {
     "gph": 440.0,
@@ -197,6 +198,5 @@
       13.15,
       16.83
     ]
-  },
-  "reference": "04560004T3W"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10217",
   "country": "FIN",
+  "reference": "04140004QLU",
   "name": "Wild Joe",
   "rating": {
     "gph": 613.2,
@@ -197,6 +198,5 @@
       8.07,
       8.81
     ]
-  },
-  "reference": "04140004QLU"
+  }
 }

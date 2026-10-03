@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/BOD49",
   "country": "GER",
+  "reference": "04150004MMV",
   "name": "WILD LADY",
   "rating": {
     "gph": 396.6,
@@ -197,6 +198,5 @@
       16.62,
       19.69
     ]
-  },
-  "reference": "04150004MMV"
+  }
 }

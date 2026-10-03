@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI500",
   "country": "SUI",
+  "reference": "03080004J95",
   "name": "FALCON",
   "rating": {
     "gph": 499.1,
@@ -197,6 +198,5 @@
       13.43,
       16.74
     ]
-  },
-  "reference": "03080004J95"
+  }
 }

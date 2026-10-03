@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1285",
   "country": "GRE",
+  "reference": "03420004LDC",
   "name": "MARINA",
   "rating": {
     "gph": 726.4,
@@ -197,6 +198,5 @@
       7.04,
       7.64
     ]
-  },
-  "reference": "03420004LDC"
+  }
 }

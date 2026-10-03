@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST750",
   "country": "EST",
+  "reference": "04340004VR4",
   "name": "Faro",
   "rating": {
     "gph": 656.3,
@@ -197,6 +198,5 @@
       7.7,
       8.57
     ]
-  },
-  "reference": "04340004VR4"
+  }
 }

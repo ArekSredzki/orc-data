@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/ITA17578",
   "country": "FRA",
+  "reference": "04330004W12",
   "name": "AMANDE",
   "rating": {
     "gph": 699.5,
@@ -197,6 +198,5 @@
       7.08,
       7.59
     ]
-  },
-  "reference": "04330004W12"
+  }
 }

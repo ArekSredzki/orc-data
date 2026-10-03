@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8815",
   "country": "GER",
+  "reference": "03520004VCM",
   "name": "HYSHINE",
   "rating": {
     "gph": 530.0,
@@ -197,6 +198,5 @@
       12.83,
       15.64
     ]
-  },
-  "reference": "03520004VCM"
+  }
 }

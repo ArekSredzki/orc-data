@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER4930",
   "country": "GER",
+  "reference": "03520004I1U",
   "name": "FRU HANSEN",
   "rating": {
     "gph": 633.9,
@@ -197,6 +198,5 @@
       7.86,
       8.51
     ]
-  },
-  "reference": "03520004I1U"
+  }
 }

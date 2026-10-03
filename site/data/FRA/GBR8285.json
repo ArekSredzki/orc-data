@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR8285",
   "country": "FRA",
+  "reference": "04330004UJ7",
   "name": "KINDRED SPIRIT",
   "rating": {
     "gph": 634.3,
@@ -197,6 +198,5 @@
       7.76,
       8.4
     ]
-  },
-  "reference": "04330004UJ7"
+  }
 }

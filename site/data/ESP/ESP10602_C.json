@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10602_C",
   "country": "ESP",
+  "reference": "03510004AVC",
   "name": "SAPPHIRE",
   "rating": {
     "gph": 642.2,
@@ -197,6 +198,5 @@
       7.48,
       8.14
     ]
-  },
-  "reference": "03510004AVC"
+  }
 }

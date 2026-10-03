@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10161_C",
   "country": "ESP",
+  "reference": "0351000489U",
   "name": "DERIA",
   "rating": {
     "gph": 617.8,
@@ -197,6 +198,5 @@
       7.72,
       8.36
     ]
-  },
-  "reference": "0351000489U"
+  }
 }

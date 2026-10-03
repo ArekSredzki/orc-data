@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/BER1",
   "country": "USA",
+  "reference": "04560004WL1",
   "name": "HEDGEHOG",
   "rating": {
     "gph": 534.8,
@@ -197,6 +198,5 @@
       12.58,
       15.75
     ]
-  },
-  "reference": "04560004WL1"
+  }
 }

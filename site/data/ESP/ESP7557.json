@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7557",
   "country": "ESP",
+  "reference": "03510004KR1",
   "name": "ABELARDO UNO",
   "rating": {
     "gph": 648.5,
@@ -197,6 +198,5 @@
       7.68,
       8.37
     ]
-  },
-  "reference": "03510004KR1"
+  }
 }

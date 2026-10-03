@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10083",
   "country": "NOR",
+  "reference": "03440004S4J",
   "name": "Jerry",
   "rating": {
     "gph": 635.2,
@@ -197,6 +198,5 @@
       7.86,
       10.42
     ]
-  },
-  "reference": "03440004S4J"
+  }
 }

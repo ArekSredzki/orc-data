@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8017",
   "country": "NED",
+  "reference": "04310004K0E",
   "name": "Tuimelaar",
   "rating": {
     "gph": 576.0,
@@ -197,6 +198,5 @@
       8.63,
       9.64
     ]
-  },
-  "reference": "04310004K0E"
+  }
 }

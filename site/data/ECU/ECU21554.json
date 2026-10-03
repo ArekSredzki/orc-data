@@ -1,6 +1,7 @@
 {
   "sailnumber": "ECU/ECU21554",
   "country": "ECU",
+  "reference": "03880004HI6",
   "name": "SEVEN ELEVEN",
   "rating": {
     "gph": 590.6,
@@ -197,6 +198,5 @@
       8.59,
       9.37
     ]
-  },
-  "reference": "03880004HI6"
+  }
 }

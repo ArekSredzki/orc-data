@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3098",
   "country": "NED",
+  "reference": "04310004JTL",
   "name": "DAMA DI BELLAGIO",
   "rating": {
     "gph": 649.2,
@@ -197,6 +198,5 @@
       8.09,
       9.87
     ]
-  },
-  "reference": "04310004JTL"
+  }
 }

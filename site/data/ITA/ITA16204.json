@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16204",
   "country": "ITA",
+  "reference": "03190004KT1",
   "name": "CHILAVISTA",
   "rating": {
     "gph": 626.6,
@@ -197,6 +198,5 @@
       7.56,
       9.51
     ]
-  },
-  "reference": "03190004KT1"
+  }
 }

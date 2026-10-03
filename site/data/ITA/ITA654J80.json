@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA654J80",
   "country": "ITA",
+  "reference": "03190004C3O",
   "name": "BABY JANE",
   "rating": {
     "gph": 662.5,
@@ -197,6 +198,5 @@
       8.73,
       11.83
     ]
-  },
-  "reference": "03190004C3O"
+  }
 }

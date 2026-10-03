@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6687",
   "country": "ESP",
+  "reference": "035100048IN",
   "name": "BERLINGUI\u00d1O II",
   "rating": {
     "gph": 614.1,
@@ -197,6 +198,5 @@
       8.14,
       8.87
     ]
-  },
-  "reference": "035100048IN"
+  }
 }

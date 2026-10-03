@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16286",
   "country": "NOR",
+  "reference": "03440004RAT",
   "name": "Footloose",
   "rating": {
     "gph": 597.4,
@@ -197,6 +198,5 @@
       7.95,
       8.66
     ]
-  },
-  "reference": "03440004RAT"
+  }
 }

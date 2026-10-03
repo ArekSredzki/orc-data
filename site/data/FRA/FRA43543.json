@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA43543",
   "country": "FRA",
+  "reference": "04330004HQR",
   "name": "X-TREM",
   "rating": {
     "gph": 616.8,
@@ -197,6 +198,5 @@
       8.07,
       9.28
     ]
-  },
-  "reference": "04330004HQR"
+  }
 }

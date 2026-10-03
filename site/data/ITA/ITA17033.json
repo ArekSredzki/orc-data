@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17033",
   "country": "ITA",
+  "reference": "03190004JKN",
   "name": "LA CAGE AUX FOLLES",
   "rating": {
     "gph": 614.1,
@@ -197,6 +198,5 @@
       8.13,
       9.26
     ]
-  },
-  "reference": "03190004JKN"
+  }
 }

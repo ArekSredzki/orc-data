@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm3131",
   "country": "AUS",
+  "reference": "03020004UBC",
   "name": "Arch de Triomphe",
   "rating": {
     "gph": 630.6,
@@ -197,6 +198,5 @@
       8.06,
       9.64
     ]
-  },
-  "reference": "03020004UBC"
+  }
 }

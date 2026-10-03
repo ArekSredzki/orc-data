@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18255",
   "country": "ITA",
+  "reference": "03190004B5O",
   "name": "BIBA",
   "rating": {
     "gph": 599.2,
@@ -197,6 +198,5 @@
       7.96,
       9.42
     ]
-  },
-  "reference": "03190004B5O"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/BEL148",
   "country": "ESP",
+  "reference": "035100048NT",
   "name": "AIR DU NORD",
   "rating": {
     "gph": 575.5,
@@ -197,6 +198,5 @@
       8.66,
       9.49
     ]
-  },
-  "reference": "035100048NT"
+  }
 }

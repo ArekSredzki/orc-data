@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6740",
   "country": "ESP",
+  "reference": "03510004F1L",
   "name": "DAG\u00d3N",
   "rating": {
     "gph": 630.9,
@@ -197,6 +198,5 @@
       7.84,
       8.55
     ]
-  },
-  "reference": "03510004F1L"
+  }
 }

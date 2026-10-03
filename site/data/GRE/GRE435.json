@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE435",
   "country": "GRE",
+  "reference": "03420004I6J",
   "name": "ANEMOLIA",
   "rating": {
     "gph": 713.2,
@@ -197,6 +198,5 @@
       7.19,
       7.73
     ]
-  },
-  "reference": "03420004I6J"
+  }
 }

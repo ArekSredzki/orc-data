@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/SUI2193",
   "country": "NED",
+  "reference": "04310004MVF",
   "name": "L\u00e4llek\u00f6nig",
   "rating": {
     "gph": 613.8,
@@ -197,6 +198,5 @@
       7.72,
       9.72
     ]
-  },
-  "reference": "04310004MVF"
+  }
 }

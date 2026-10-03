@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14400",
   "country": "ITA",
+  "reference": "03190004HJC",
   "name": "ARGO",
   "rating": {
     "gph": 587.4,
@@ -197,6 +198,5 @@
       7.92,
       8.61
     ]
-  },
-  "reference": "03190004HJC"
+  }
 }

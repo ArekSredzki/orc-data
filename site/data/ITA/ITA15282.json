@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15282",
   "country": "ITA",
+  "reference": "03190004KSP",
   "name": "CHIMERA I",
   "rating": {
     "gph": 584.2,
@@ -197,6 +198,5 @@
       8.13,
       8.84
     ]
-  },
-  "reference": "03190004KSP"
+  }
 }

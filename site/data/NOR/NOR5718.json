@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR5718",
   "country": "NOR",
+  "reference": "03440004RHQ",
   "name": "Dont Panic",
   "rating": {
     "gph": 762.2,
@@ -197,6 +198,5 @@
       6.64,
       7.34
     ]
-  },
-  "reference": "03440004RHQ"
+  }
 }

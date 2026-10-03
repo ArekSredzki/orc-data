@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI094",
   "country": "SUI",
+  "reference": "030800048NL",
   "name": "SHABBY CHIC",
   "rating": {
     "gph": 568.7,
@@ -197,6 +198,5 @@
       12.52,
       15.4
     ]
-  },
-  "reference": "030800048NL"
+  }
 }

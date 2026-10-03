@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA250",
   "country": "RSA",
+  "reference": "04620004ATN",
   "name": "Freedom",
   "rating": {
     "gph": 614.9,
@@ -197,6 +198,5 @@
       8.11,
       8.95
     ]
-  },
-  "reference": "04620004ATN"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1043",
   "country": "GRE",
+  "reference": "03420004WPQ",
   "name": "SAGINI",
   "rating": {
     "gph": 618.3,
@@ -197,6 +198,5 @@
       8.27,
       8.87
     ]
-  },
-  "reference": "03420004WPQ"
+  }
 }

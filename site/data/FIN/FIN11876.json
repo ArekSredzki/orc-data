@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11876",
   "country": "FIN",
+  "reference": "04140004VQS",
   "name": "Ultramari",
   "rating": {
     "gph": 610.2,
@@ -197,6 +198,5 @@
       7.96,
       8.64
     ]
-  },
-  "reference": "04140004VQS"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE046",
   "country": "GRE",
+  "reference": "03420004HJ7",
   "name": "OPTIMUM 4",
   "rating": {
     "gph": 587.2,
@@ -197,6 +198,5 @@
       8.83,
       12.32
     ]
-  },
-  "reference": "03420004HJ7"
+  }
 }

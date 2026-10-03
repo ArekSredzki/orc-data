@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST102",
   "country": "EST",
+  "reference": "04340004WIH",
   "name": "Fatamorgaana",
   "rating": {
     "gph": 702.2,
@@ -197,6 +198,5 @@
       7.33,
       7.92
     ]
-  },
-  "reference": "04340004WIH"
+  }
 }

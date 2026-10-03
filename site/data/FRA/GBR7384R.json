@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/GBR7384R",
   "country": "FRA",
+  "reference": "04330004I7D",
   "name": "SWELL",
   "rating": {
     "gph": 592.7,
@@ -197,6 +198,5 @@
       8.28,
       9.14
     ]
-  },
-  "reference": "04330004I7D"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9502_C",
   "country": "ESP",
+  "reference": "03510004C53",
   "name": "SURI II",
   "rating": {
     "gph": 720.7,
@@ -197,6 +198,5 @@
       6.96,
       7.6
     ]
-  },
-  "reference": "03510004C53"
+  }
 }

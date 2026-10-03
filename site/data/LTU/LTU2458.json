@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2458",
   "country": "LTU",
+  "reference": "03590004VE4",
   "name": "MALTESE FALCON",
   "rating": {
     "gph": 600.1,
@@ -197,6 +198,5 @@
       7.92,
       8.73
     ]
-  },
-  "reference": "03590004VE4"
+  }
 }

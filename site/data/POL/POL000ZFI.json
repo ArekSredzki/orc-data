@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL000ZFI",
   "country": "POL",
+  "reference": "04410004NRL",
   "name": "SAGA",
   "rating": {
     "gph": 585.4,
@@ -197,6 +198,5 @@
       8.13,
       8.9
     ]
-  },
-  "reference": "04410004NRL"
+  }
 }

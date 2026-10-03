@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2519",
   "country": "GRE",
+  "reference": "03420004LIJ",
   "name": "BLACK SHEEP",
   "rating": {
     "gph": 668.1,
@@ -197,6 +198,5 @@
       7.82,
       10.6
     ]
-  },
-  "reference": "03420004LIJ"
+  }
 }

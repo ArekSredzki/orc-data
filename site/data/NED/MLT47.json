@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/MLT47",
   "country": "NED",
+  "reference": "04310004PIU",
   "name": "Otra Vez",
   "rating": {
     "gph": 567.9,
@@ -197,6 +198,5 @@
       8.28,
       9.86
     ]
-  },
-  "reference": "04310004PIU"
+  }
 }

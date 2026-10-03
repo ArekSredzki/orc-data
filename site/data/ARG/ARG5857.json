@@ -1,6 +1,7 @@
 {
   "sailnumber": "ARG/ARG5857",
   "country": "ARG",
+  "reference": "03880004IFJ",
   "name": "TERCO",
   "rating": {
     "gph": 677.8,
@@ -197,6 +198,5 @@
       7.18,
       7.8
     ]
-  },
-  "reference": "03880004IFJ"
+  }
 }

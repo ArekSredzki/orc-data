@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA2960",
   "country": "RSA",
+  "reference": "0462000487H",
   "name": "Havana Moon",
   "rating": {
     "gph": 718.3,
@@ -197,6 +198,5 @@
       7.13,
       7.72
     ]
-  },
-  "reference": "0462000487H"
+  }
 }

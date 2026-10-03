@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11075",
   "country": "NOR",
+  "reference": "03440004PB5",
   "name": "Blia",
   "rating": {
     "gph": 615.3,
@@ -197,6 +198,5 @@
       8.21,
       8.96
     ]
-  },
-  "reference": "03440004PB5"
+  }
 }

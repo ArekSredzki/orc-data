@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA1956",
   "country": "ITA",
+  "reference": "03190004FFM",
   "name": "CASTA DIVA",
   "rating": {
     "gph": 560.3,
@@ -197,6 +198,5 @@
       8.62,
       9.39
     ]
-  },
-  "reference": "03190004FFM"
+  }
 }

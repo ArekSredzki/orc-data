@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/ITA13903",
   "country": "BUL",
+  "reference": "03850004W42",
   "name": "Extasy",
   "rating": {
     "gph": 593.1,
@@ -197,6 +198,5 @@
       7.97,
       8.94
     ]
-  },
-  "reference": "03850004W42"
+  }
 }

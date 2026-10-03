@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11620",
   "country": "NOR",
+  "reference": "03440004ISU",
   "name": "MetaXa",
   "rating": {
     "gph": 616.6,
@@ -197,6 +198,5 @@
       8.04,
       8.75
     ]
-  },
-  "reference": "03440004ISU"
+  }
 }

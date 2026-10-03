@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2904",
   "country": "CRO",
+  "reference": "03620004BN0",
   "name": "Odin",
   "rating": {
     "gph": 551.4,
@@ -197,6 +198,5 @@
       8.75,
       9.63
     ]
-  },
-  "reference": "03620004BN0"
+  }
 }

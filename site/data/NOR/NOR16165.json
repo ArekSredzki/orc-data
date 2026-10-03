@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16165",
   "country": "NOR",
+  "reference": "03440004IH3",
   "name": "Falken",
   "rating": {
     "gph": 826.6,
@@ -197,6 +198,5 @@
       6.27,
       6.82
     ]
-  },
-  "reference": "03440004IH3"
+  }
 }

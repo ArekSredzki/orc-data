@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16356",
   "country": "ITA",
+  "reference": "03190004IEI",
   "name": "FIRST FUN",
   "rating": {
     "gph": 615.6,
@@ -197,6 +198,5 @@
       7.69,
       8.56
     ]
-  },
-  "reference": "03190004IEI"
+  }
 }

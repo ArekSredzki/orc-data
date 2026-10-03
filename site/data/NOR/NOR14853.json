@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14853",
   "country": "NOR",
+  "reference": "03440004RVD",
   "name": "Balder",
   "rating": {
     "gph": 580.9,
@@ -197,6 +198,5 @@
       8.17,
       8.86
     ]
-  },
-  "reference": "03440004RVD"
+  }
 }

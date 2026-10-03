@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA2676",
   "country": "RSA",
+  "reference": "0462000486O",
   "name": "Let's Go",
   "rating": {
     "gph": 801.3,
@@ -197,6 +198,5 @@
       6.34,
       6.92
     ]
-  },
-  "reference": "0462000486O"
+  }
 }

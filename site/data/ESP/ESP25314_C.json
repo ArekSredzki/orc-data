@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP25314_C",
   "country": "ESP",
+  "reference": "03510004UQ4",
   "name": "LILY",
   "rating": {
     "gph": 677.7,
@@ -197,6 +198,5 @@
       7.79,
       10.28
     ]
-  },
-  "reference": "03510004UQ4"
+  }
 }

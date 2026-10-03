@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA61121",
   "country": "USA",
+  "reference": "04560004Q2R",
   "name": "EAGLE",
   "rating": {
     "gph": 539.3,
@@ -197,6 +198,5 @@
       9.24,
       11.44
     ]
-  },
-  "reference": "04560004Q2R"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST66",
   "country": "EST",
+  "reference": "04340004VSR",
   "name": "KRISTI",
   "rating": {
     "gph": 704.6,
@@ -197,6 +198,5 @@
       7.17,
       7.82
     ]
-  },
-  "reference": "04340004VSR"
+  }
 }

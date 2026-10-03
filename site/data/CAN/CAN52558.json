@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN52558",
   "country": "CAN",
+  "reference": "03430004RKU",
   "name": "Moneypenny",
   "rating": {
     "gph": 559.4,
@@ -197,6 +198,5 @@
       8.46,
       9.36
     ]
-  },
-  "reference": "03430004RKU"
+  }
 }

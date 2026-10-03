@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2133",
   "country": "GRE",
+  "reference": "03420004J74",
   "name": "NORTHWIND 44",
   "rating": {
     "gph": 646.9,
@@ -197,6 +198,5 @@
       7.84,
       8.51
     ]
-  },
-  "reference": "03420004J74"
+  }
 }

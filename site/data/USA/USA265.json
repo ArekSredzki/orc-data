@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA265",
   "country": "USA",
+  "reference": "04560004UFT",
   "name": "DAYBREAK",
   "rating": {
     "gph": 608.4,
@@ -197,6 +198,5 @@
       7.78,
       9.36
     ]
-  },
-  "reference": "04560004UFT"
+  }
 }

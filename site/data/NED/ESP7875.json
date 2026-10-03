@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/ESP7875",
   "country": "NED",
+  "reference": "04310004QE4",
   "name": "TRAMENDU",
   "rating": {
     "gph": 625.2,
@@ -197,6 +198,5 @@
       8.02,
       8.76
     ]
-  },
-  "reference": "04310004QE4"
+  }
 }

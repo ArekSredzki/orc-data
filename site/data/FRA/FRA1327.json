@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA1327",
   "country": "FRA",
+  "reference": "04330004RUJ",
   "name": "MARASKA",
   "rating": {
     "gph": 679.0,
@@ -197,6 +198,5 @@
       7.4,
       8.32
     ]
-  },
-  "reference": "04330004RUJ"
+  }
 }

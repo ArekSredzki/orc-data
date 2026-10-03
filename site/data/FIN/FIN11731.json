@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11731",
   "country": "FIN",
+  "reference": "04140004R1M",
   "name": "Madde",
   "rating": {
     "gph": 686.5,
@@ -197,6 +198,5 @@
       7.1,
       7.64
     ]
-  },
-  "reference": "04140004R1M"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6200",
   "country": "GER",
+  "reference": "04150004TAE",
   "name": "\"needles and pins\"",
   "rating": {
     "gph": 530.8,
@@ -197,6 +198,5 @@
       10.75,
       13.76
     ]
-  },
-  "reference": "04150004TAE"
+  }
 }

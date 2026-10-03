@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17467",
   "country": "ITA",
+  "reference": "03190004NWD",
   "name": "PICCOLA",
   "rating": {
     "gph": 621.5,
@@ -197,6 +198,5 @@
       8.05,
       8.77
     ]
-  },
-  "reference": "03190004NWD"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA5165",
   "country": "USA",
+  "reference": "04560004P54",
   "name": "RAVENS HAVEN",
   "rating": {
     "gph": 591.8,
@@ -197,6 +198,5 @@
       8.04,
       9.12
     ]
-  },
-  "reference": "04560004P54"
+  }
 }

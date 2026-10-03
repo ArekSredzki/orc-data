@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14073",
   "country": "ITA",
+  "reference": "03190004HAO",
   "name": "SPRING",
   "rating": {
     "gph": 682.5,
@@ -197,6 +198,5 @@
       7.27,
       7.93
     ]
-  },
-  "reference": "03190004HAO"
+  }
 }

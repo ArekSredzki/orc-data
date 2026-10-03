@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18277",
   "country": "ITA",
+  "reference": "03190004Q1H",
   "name": "NORTHERNLIGHT",
   "rating": {
     "gph": 607.6,
@@ -197,6 +198,5 @@
       7.67,
       8.34
     ]
-  },
-  "reference": "03190004Q1H"
+  }
 }

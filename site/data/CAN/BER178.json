@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/BER178",
   "country": "CAN",
+  "reference": "03430004BQO",
   "name": "Scatteraction",
   "rating": {
     "gph": 429.6,
@@ -197,6 +198,5 @@
       13.43,
       16.57
     ]
-  },
-  "reference": "03430004BQO"
+  }
 }

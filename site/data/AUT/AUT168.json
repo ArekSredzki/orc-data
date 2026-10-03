@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUT/AUT168",
   "country": "AUT",
+  "reference": "03210004KJ1",
   "name": "compa\u00f1era",
   "rating": {
     "gph": 610.3,
@@ -197,6 +198,5 @@
       8.09,
       8.65
     ]
-  },
-  "reference": "03210004KJ1"
+  }
 }

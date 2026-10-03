@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/7126",
   "country": "AUS",
+  "reference": "03020004WVH",
   "name": "LLAMA 2",
   "rating": {
     "gph": 549.7,
@@ -197,6 +198,5 @@
       8.65,
       9.43
     ]
-  },
-  "reference": "03020004WVH"
+  }
 }

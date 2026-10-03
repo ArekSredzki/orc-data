@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17199",
   "country": "ITA",
+  "reference": "03190004FVW",
   "name": "ORIZZONTE",
   "rating": {
     "gph": 546.3,
@@ -197,6 +198,5 @@
       8.82,
       10.47
     ]
-  },
-  "reference": "03190004FVW"
+  }
 }

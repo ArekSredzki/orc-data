@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2876",
   "country": "CRO",
+  "reference": "03620004J6Q",
   "name": "Aloha",
   "rating": {
     "gph": 562.8,
@@ -197,6 +198,5 @@
       8.58,
       9.57
     ]
-  },
-  "reference": "03620004J6Q"
+  }
 }

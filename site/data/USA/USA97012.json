@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA97012",
   "country": "USA",
+  "reference": "04560004H30",
   "name": "BUTTERCUP",
   "rating": {
     "gph": 601.5,
@@ -197,6 +198,5 @@
       8.01,
       9.18
     ]
-  },
-  "reference": "04560004H30"
+  }
 }

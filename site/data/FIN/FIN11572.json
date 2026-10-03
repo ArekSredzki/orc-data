@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11572",
   "country": "FIN",
+  "reference": "03290004RNO",
   "name": "Bianco",
   "rating": {
     "gph": 626.2,
@@ -197,6 +198,5 @@
       8.02,
       8.82
     ]
-  },
-  "reference": "03290004RNO"
+  }
 }

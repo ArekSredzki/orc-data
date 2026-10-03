@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR5010",
   "country": "NOR",
+  "reference": "03440004FIJ",
   "name": "Hera",
   "rating": {
     "gph": 700.9,
@@ -197,6 +198,5 @@
       7.0,
       7.57
     ]
-  },
-  "reference": "03440004FIJ"
+  }
 }

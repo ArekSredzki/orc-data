@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2989",
   "country": "NED",
+  "reference": "04310004KBU",
   "name": "Bro",
   "rating": {
     "gph": 659.5,
@@ -197,6 +198,5 @@
       7.43,
       8.17
     ]
-  },
-  "reference": "04310004KBU"
+  }
 }

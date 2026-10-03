@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3703",
   "country": "RSA",
+  "reference": "04620004AS6",
   "name": "Wasabi",
   "rating": {
     "gph": 647.3,
@@ -197,6 +198,5 @@
       7.45,
       8.12
     ]
-  },
-  "reference": "04620004AS6"
+  }
 }

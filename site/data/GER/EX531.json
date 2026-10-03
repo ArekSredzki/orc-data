@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/EX531",
   "country": "GER",
+  "reference": "04150004LNB",
   "name": "PRINXICKCHEN",
   "rating": {
     "gph": 730.8,
@@ -197,6 +198,5 @@
       7.0,
       7.94
     ]
-  },
-  "reference": "04150004LNB"
+  }
 }

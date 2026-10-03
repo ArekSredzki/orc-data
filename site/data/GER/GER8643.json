@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8643",
   "country": "GER",
+  "reference": "04150004OWB",
   "name": "ICE",
   "rating": {
     "gph": 518.0,
@@ -197,6 +198,5 @@
       9.97,
       12.52
     ]
-  },
-  "reference": "04150004OWB"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11819",
   "country": "FIN",
+  "reference": "04140004URB",
   "name": "Slipfree",
   "rating": {
     "gph": 654.1,
@@ -197,6 +198,5 @@
       7.64,
       8.28
     ]
-  },
-  "reference": "04140004URB"
+  }
 }

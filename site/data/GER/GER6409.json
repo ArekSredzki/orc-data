@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6409",
   "country": "GER",
+  "reference": "04150004SN3",
   "name": "ELLIDE",
   "rating": {
     "gph": 604.6,
@@ -197,6 +198,5 @@
       7.79,
       9.33
     ]
-  },
-  "reference": "04150004SN3"
+  }
 }

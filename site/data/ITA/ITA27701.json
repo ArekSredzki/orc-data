@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA27701",
   "country": "ITA",
+  "reference": "03190004Q1E",
   "name": "MAKEBA",
   "rating": {
     "gph": 602.6,
@@ -197,6 +198,5 @@
       7.96,
       8.6
     ]
-  },
-  "reference": "03190004Q1E"
+  }
 }

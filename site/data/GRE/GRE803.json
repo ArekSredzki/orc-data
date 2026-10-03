@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE803",
   "country": "GRE",
+  "reference": "03420004HB1",
   "name": "FAETHON",
   "rating": {
     "gph": 790.8,
@@ -197,6 +198,5 @@
       6.78,
       7.29
     ]
-  },
-  "reference": "03420004HB1"
+  }
 }

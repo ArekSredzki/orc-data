@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER6668",
   "country": "GER",
+  "reference": "04150004RTH",
   "name": "TOKE",
   "rating": {
     "gph": 615.5,
@@ -197,6 +198,5 @@
       7.79,
       8.89
     ]
-  },
-  "reference": "04150004RTH"
+  }
 }

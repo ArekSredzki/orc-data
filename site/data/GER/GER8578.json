@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8578",
   "country": "GER",
+  "reference": "04150004FB9",
   "name": "KEONDA III",
   "rating": {
     "gph": 611.4,
@@ -197,6 +198,5 @@
       8.19,
       8.9
     ]
-  },
-  "reference": "04150004FB9"
+  }
 }

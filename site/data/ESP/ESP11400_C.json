@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11400_C",
   "country": "ESP",
+  "reference": "03510004SVR",
   "name": "BUEN CAMINO",
   "rating": {
     "gph": 536.7,
@@ -197,6 +198,5 @@
       9.01,
       10.31
     ]
-  },
-  "reference": "03510004SVR"
+  }
 }

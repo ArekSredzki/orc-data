@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT661",
   "country": "LAT",
+  "reference": "04960004RM9",
   "name": "ARC ANGEL",
   "rating": {
     "gph": 783.7,
@@ -197,6 +198,5 @@
       6.39,
       7.01
     ]
-  },
-  "reference": "04960004RM9"
+  }
 }

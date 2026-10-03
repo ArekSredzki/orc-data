@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7374",
   "country": "GER",
+  "reference": "03520004I2D",
   "name": "SQUIFFY",
   "rating": {
     "gph": 615.7,
@@ -197,6 +198,5 @@
       8.1,
       8.95
     ]
-  },
-  "reference": "03520004I2D"
+  }
 }

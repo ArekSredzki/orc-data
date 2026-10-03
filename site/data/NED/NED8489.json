@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8489",
   "country": "NED",
+  "reference": "04310004K1B",
   "name": "Windshift",
   "rating": {
     "gph": 597.4,
@@ -197,6 +198,5 @@
       8.16,
       8.86
     ]
-  },
-  "reference": "04310004K1B"
+  }
 }

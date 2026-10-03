@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR2901",
   "country": "TUR",
+  "reference": "04590004JC4",
   "name": "HEDEF YELKEN 29",
   "rating": {
     "gph": 645.0,
@@ -197,6 +198,5 @@
       7.66,
       8.65
     ]
-  },
-  "reference": "04590004JC4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/S17",
   "country": "AUS",
+  "reference": "03020004VBP",
   "name": "ARCADIA",
   "rating": {
     "gph": 570.0,
@@ -197,6 +198,5 @@
       8.62,
       9.69
     ]
-  },
-  "reference": "03020004VBP"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11047",
   "country": "ESP",
+  "reference": "03510004UL2",
   "name": "VIKINGO",
   "rating": {
     "gph": 548.8,
@@ -197,6 +198,5 @@
       8.86,
       9.73
     ]
-  },
-  "reference": "03510004UL2"
+  }
 }

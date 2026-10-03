@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA333",
   "country": "ITA",
+  "reference": "03190004I8Q",
   "name": "AURORA",
   "rating": {
     "gph": 574.0,
@@ -197,6 +198,5 @@
       8.2,
       9.4
     ]
-  },
-  "reference": "03190004I8Q"
+  }
 }

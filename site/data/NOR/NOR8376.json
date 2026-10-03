@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR8376",
   "country": "NOR",
+  "reference": "03440004NA3",
   "name": "L\u00e6rke",
   "rating": {
     "gph": 749.3,
@@ -197,6 +198,5 @@
       6.82,
       7.31
     ]
-  },
-  "reference": "03440004NA3"
+  }
 }

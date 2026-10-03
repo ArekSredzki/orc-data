@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN1047",
   "country": "CAN",
+  "reference": "03430004SJ0",
   "name": "Viking",
   "rating": {
     "gph": 568.1,
@@ -197,6 +198,5 @@
       10.7,
       13.96
     ]
-  },
-  "reference": "03430004SJ0"
+  }
 }

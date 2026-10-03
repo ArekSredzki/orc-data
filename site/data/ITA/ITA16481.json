@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16481",
   "country": "ITA",
+  "reference": "03190004TOC",
   "name": "NIENTEMALE",
   "rating": {
     "gph": 574.4,
@@ -197,6 +198,5 @@
       8.23,
       9.53
     ]
-  },
-  "reference": "03190004TOC"
+  }
 }

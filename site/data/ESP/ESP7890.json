@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7890",
   "country": "ESP",
+  "reference": "035100048CJ",
   "name": "TAPON",
   "rating": {
     "gph": 671.1,
@@ -197,6 +198,5 @@
       7.54,
       10.01
     ]
-  },
-  "reference": "035100048CJ"
+  }
 }

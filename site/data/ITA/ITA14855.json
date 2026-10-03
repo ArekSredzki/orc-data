@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14855",
   "country": "ITA",
+  "reference": "03190004F3J",
   "name": "LALLY ME",
   "rating": {
     "gph": 655.5,
@@ -197,6 +198,5 @@
       7.68,
       8.32
     ]
-  },
-  "reference": "03190004F3J"
+  }
 }

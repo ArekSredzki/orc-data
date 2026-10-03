@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18147",
   "country": "ITA",
+  "reference": "03190004C3M",
   "name": "BLUES",
   "rating": {
     "gph": 630.8,
@@ -197,6 +198,5 @@
       7.8,
       8.53
     ]
-  },
-  "reference": "03190004C3M"
+  }
 }

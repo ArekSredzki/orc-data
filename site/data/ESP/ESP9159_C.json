@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9159_C",
   "country": "ESP",
+  "reference": "03510004MD8",
   "name": "MANDANGA",
   "rating": {
     "gph": 689.0,
@@ -197,6 +198,5 @@
       7.14,
       7.79
     ]
-  },
-  "reference": "03510004MD8"
+  }
 }

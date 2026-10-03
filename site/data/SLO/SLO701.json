@@ -1,6 +1,7 @@
 {
   "sailnumber": "SLO/SLO701",
   "country": "SLO",
+  "reference": "03090004B8Q",
   "name": "Sara",
   "rating": {
     "gph": 696.8,
@@ -197,6 +198,5 @@
       7.31,
       8.03
     ]
-  },
-  "reference": "03090004B8Q"
+  }
 }

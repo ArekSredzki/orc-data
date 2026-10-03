@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN105",
   "country": "FIN",
+  "reference": "03290004SDA",
   "name": "Vixen",
   "rating": {
     "gph": 609.5,
@@ -197,6 +198,5 @@
       8.1,
       8.98
     ]
-  },
-  "reference": "03290004SDA"
+  }
 }

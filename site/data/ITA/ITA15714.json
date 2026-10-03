@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15714",
   "country": "ITA",
+  "reference": "03190004B5C",
   "name": "POQUITO III",
   "rating": {
     "gph": 713.5,
@@ -197,6 +198,5 @@
       7.22,
       7.82
     ]
-  },
-  "reference": "03190004B5C"
+  }
 }

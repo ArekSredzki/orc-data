@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11051",
   "country": "FIN",
+  "reference": "04140004W1P",
   "name": "Seilori",
   "rating": {
     "gph": 616.2,
@@ -197,6 +198,5 @@
       8.19,
       8.9
     ]
-  },
-  "reference": "04140004W1P"
+  }
 }

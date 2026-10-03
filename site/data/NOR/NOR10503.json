@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10503",
   "country": "NOR",
+  "reference": "03440004NSN",
   "name": "Citius",
   "rating": {
     "gph": 613.9,
@@ -197,6 +198,5 @@
       8.2,
       8.95
     ]
-  },
-  "reference": "03440004NSN"
+  }
 }

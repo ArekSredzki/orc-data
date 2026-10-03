@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11649",
   "country": "NOR",
+  "reference": "03440004WAA",
   "name": "Sirene",
   "rating": {
     "gph": 671.9,
@@ -197,6 +198,5 @@
       7.48,
       8.18
     ]
-  },
-  "reference": "03440004WAA"
+  }
 }

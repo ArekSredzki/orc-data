@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE923",
   "country": "GRE",
+  "reference": "03420004WBE",
   "name": "FATA MORGANA",
   "rating": {
     "gph": 679.5,
@@ -197,6 +198,5 @@
       6.99,
       7.5
     ]
-  },
-  "reference": "03420004WBE"
+  }
 }

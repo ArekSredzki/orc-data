@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2954_C",
   "country": "ESP",
+  "reference": "03510004B3Q",
   "name": "ALALUNGA",
   "rating": {
     "gph": 674.3,
@@ -197,6 +198,5 @@
       7.24,
       7.84
     ]
-  },
-  "reference": "03510004B3Q"
+  }
 }

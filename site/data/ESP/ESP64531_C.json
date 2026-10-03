@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP64531_C",
   "country": "ESP",
+  "reference": "03510004BK1",
   "name": "MARGARITA ESTALINDALAMAR",
   "rating": {
     "gph": 677.6,
@@ -197,6 +198,5 @@
       7.53,
       8.13
     ]
-  },
-  "reference": "03510004BK1"
+  }
 }

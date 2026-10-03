@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA62435",
   "country": "USA",
+  "reference": "04560004T41",
   "name": "SAPPHIRE",
   "rating": {
     "gph": 537.8,
@@ -197,6 +198,5 @@
       8.82,
       10.35
     ]
-  },
-  "reference": "04560004T41"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAASA25",
   "country": "ITA",
+  "reference": "03190004ST6",
   "name": "ASA",
   "rating": {
     "gph": 670.8,
@@ -197,6 +198,5 @@
       7.71,
       8.37
     ]
-  },
-  "reference": "03190004ST6"
+  }
 }

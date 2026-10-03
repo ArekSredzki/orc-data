@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA5133",
   "country": "USA",
+  "reference": "04560004RT3",
   "name": "ARCADIA",
   "rating": {
     "gph": 659.8,
@@ -197,6 +198,5 @@
       7.46,
       8.1
     ]
-  },
-  "reference": "04560004RT3"
+  }
 }

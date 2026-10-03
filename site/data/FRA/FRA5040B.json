@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA5040B",
   "country": "FRA",
+  "reference": "04330004JKT",
   "name": "BEELZEBUTH 3",
   "rating": {
     "gph": 594.9,
@@ -197,6 +198,5 @@
       8.47,
       9.44
     ]
-  },
-  "reference": "04330004JKT"
+  }
 }

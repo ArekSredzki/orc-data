@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6989_C",
   "country": "ESP",
+  "reference": "03510004F0N",
   "name": "AL-KANDARA",
   "rating": {
     "gph": 667.9,
@@ -197,6 +198,5 @@
       7.59,
       8.24
     ]
-  },
-  "reference": "03510004F0N"
+  }
 }

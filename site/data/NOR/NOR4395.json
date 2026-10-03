@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR4395",
   "country": "NOR",
+  "reference": "03440004RAN",
   "name": "Varg",
   "rating": {
     "gph": 684.4,
@@ -197,6 +198,5 @@
       7.19,
       7.91
     ]
-  },
-  "reference": "03440004RAN"
+  }
 }

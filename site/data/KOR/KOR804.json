@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR804",
   "country": "KOR",
+  "reference": "0455000489K",
   "name": "804",
   "rating": {
     "gph": 655.8,
@@ -197,6 +198,5 @@
       10.52,
       13.69
     ]
-  },
-  "reference": "0455000489K"
+  }
 }

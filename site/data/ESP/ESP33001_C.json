@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP33001_C",
   "country": "ESP",
+  "reference": "03510004RL6",
   "name": "TAURUS",
   "rating": {
     "gph": 734.7,
@@ -197,6 +198,5 @@
       7.03,
       7.71
     ]
-  },
-  "reference": "03510004RL6"
+  }
 }

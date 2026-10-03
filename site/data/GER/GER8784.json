@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8784",
   "country": "GER",
+  "reference": "03520004ONT",
   "name": "RUPP R\u00dcPEL",
   "rating": {
     "gph": 695.6,
@@ -197,6 +198,5 @@
       7.47,
       8.09
     ]
-  },
-  "reference": "03520004ONT"
+  }
 }

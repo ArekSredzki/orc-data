@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN9937",
   "country": "FIN",
+  "reference": "04140004KW7",
   "name": "Watatait 2",
   "rating": {
     "gph": 623.1,
@@ -197,6 +198,5 @@
       8.07,
       8.83
     ]
-  },
-  "reference": "04140004KW7"
+  }
 }

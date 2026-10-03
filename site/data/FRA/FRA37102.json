@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA37102",
   "country": "FRA",
+  "reference": "04330004FF3",
   "name": "THILIE TOO",
   "rating": {
     "gph": 639.5,
@@ -197,6 +198,5 @@
       7.94,
       9.2
     ]
-  },
-  "reference": "04330004FF3"
+  }
 }

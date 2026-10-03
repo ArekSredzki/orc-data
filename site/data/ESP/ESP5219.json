@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5219",
   "country": "ESP",
+  "reference": "035100048MF",
   "name": "TREBOLISIMO DOS",
   "rating": {
     "gph": 670.8,
@@ -197,6 +198,5 @@
       7.5,
       8.23
     ]
-  },
-  "reference": "035100048MF"
+  }
 }

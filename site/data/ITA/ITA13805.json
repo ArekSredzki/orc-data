@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13805",
   "country": "ITA",
+  "reference": "03190004J7F",
   "name": "MERIA",
   "rating": {
     "gph": 659.9,
@@ -197,6 +198,5 @@
       7.59,
       8.36
     ]
-  },
-  "reference": "03190004J7F"
+  }
 }

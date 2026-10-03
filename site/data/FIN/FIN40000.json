@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN40000",
   "country": "FIN",
+  "reference": "04140004O3A",
   "name": "Ichigo",
   "rating": {
     "gph": 590.0,
@@ -197,6 +198,5 @@
       8.34,
       9.12
     ]
-  },
-  "reference": "04140004O3A"
+  }
 }

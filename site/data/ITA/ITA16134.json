@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16134",
   "country": "ITA",
+  "reference": "03190004OLN",
   "name": "DUFFY",
   "rating": {
     "gph": 649.2,
@@ -197,6 +198,5 @@
       7.65,
       8.29
     ]
-  },
-  "reference": "03190004OLN"
+  }
 }

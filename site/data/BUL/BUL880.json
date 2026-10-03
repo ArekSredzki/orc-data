@@ -1,6 +1,7 @@
 {
   "sailnumber": "BUL/BUL880",
   "country": "BUL",
+  "reference": "03850004W2T",
   "name": "Blue Magic",
   "rating": {
     "gph": 597.0,
@@ -197,6 +198,5 @@
       8.2,
       8.94
     ]
-  },
-  "reference": "03850004W2T"
+  }
 }

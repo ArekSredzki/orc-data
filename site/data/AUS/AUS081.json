@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/AUS081",
   "country": "AUS",
+  "reference": "03020004UAL",
   "name": "NANOOK",
   "rating": {
     "gph": 613.6,
@@ -197,6 +198,5 @@
       7.77,
       9.71
     ]
-  },
-  "reference": "03020004UAL"
+  }
 }

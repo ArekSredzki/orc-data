@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8348",
   "country": "ESP",
+  "reference": "035100048A1",
   "name": "BABAU",
   "rating": {
     "gph": 754.1,
@@ -197,6 +198,5 @@
       6.6,
       7.19
     ]
-  },
-  "reference": "035100048A1"
+  }
 }

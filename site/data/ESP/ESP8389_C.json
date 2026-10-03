@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8389_C",
   "country": "ESP",
+  "reference": "03510004HBF",
   "name": "TABARKA",
   "rating": {
     "gph": 641.6,
@@ -197,6 +198,5 @@
       7.3,
       7.82
     ]
-  },
-  "reference": "03510004HBF"
+  }
 }

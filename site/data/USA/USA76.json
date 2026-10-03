@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA76",
   "country": "USA",
+  "reference": "04560004URP",
   "name": "MISE EN PLACE",
   "rating": {
     "gph": 653.2,
@@ -197,6 +198,5 @@
       7.28,
       7.77
     ]
-  },
-  "reference": "04560004URP"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6642",
   "country": "ESP",
+  "reference": "03510004890",
   "name": "ARPON IV",
   "rating": {
     "gph": 648.7,
@@ -197,6 +198,5 @@
       7.75,
       8.67
     ]
-  },
-  "reference": "03510004890"
+  }
 }

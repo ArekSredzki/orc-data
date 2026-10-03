@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4920",
   "country": "ESP",
+  "reference": "03510004OL3",
   "name": "ARGO NAVIS 3",
   "rating": {
     "gph": 606.1,
@@ -197,6 +198,5 @@
       7.88,
       8.6
     ]
-  },
-  "reference": "03510004OL3"
+  }
 }

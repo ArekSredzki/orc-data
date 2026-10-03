@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN102",
   "country": "CAN",
+  "reference": "03430004RDH",
   "name": "Spitfire",
   "rating": {
     "gph": 675.7,
@@ -197,6 +198,5 @@
       7.28,
       7.99
     ]
-  },
-  "reference": "03430004RDH"
+  }
 }

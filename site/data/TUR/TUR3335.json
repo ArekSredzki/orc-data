@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR3335",
   "country": "TUR",
+  "reference": "04590004T39",
   "name": "MERSIN YELKEN AKADEMISI",
   "rating": {
     "gph": 478.1,
@@ -197,6 +198,5 @@
       10.61,
       13.17
     ]
-  },
-  "reference": "04590004T39"
+  }
 }

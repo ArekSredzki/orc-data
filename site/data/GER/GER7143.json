@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7143",
   "country": "GER",
+  "reference": "03520004N07",
   "name": "ABACUS",
   "rating": {
     "gph": 587.6,
@@ -197,6 +198,5 @@
       8.51,
       9.31
     ]
-  },
-  "reference": "03520004N07"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN4",
   "country": "CAN",
+  "reference": "03430004IRU",
   "name": "Idiopathic",
   "rating": {
     "gph": 587.3,
@@ -197,6 +198,5 @@
       9.61,
       12.44
     ]
-  },
-  "reference": "03430004IRU"
+  }
 }

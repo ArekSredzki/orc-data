@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9911",
   "country": "FRA",
+  "reference": "04330004ID7",
   "name": "CHAMAN J",
   "rating": {
     "gph": 571.7,
@@ -197,6 +198,5 @@
       8.92,
       11.36
     ]
-  },
-  "reference": "04330004ID7"
+  }
 }

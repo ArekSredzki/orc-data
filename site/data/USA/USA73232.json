@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA73232",
   "country": "USA",
+  "reference": "04560004SOJ",
   "name": "SAGAMORE",
   "rating": {
     "gph": 392.7,
@@ -197,6 +198,5 @@
       14.27,
       17.36
     ]
-  },
-  "reference": "04560004SOJ"
+  }
 }

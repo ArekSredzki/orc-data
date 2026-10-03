@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA60492",
   "country": "USA",
+  "reference": "04560004QDM",
   "name": "ROCKSTEADY",
   "rating": {
     "gph": 533.7,
@@ -197,6 +198,5 @@
       8.88,
       10.58
     ]
-  },
-  "reference": "04560004QDM"
+  }
 }

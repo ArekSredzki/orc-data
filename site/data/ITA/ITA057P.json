@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA057P",
   "country": "ITA",
+  "reference": "03190004I9K",
   "name": "SPIRITO LIBERO",
   "rating": {
     "gph": 647.9,
@@ -197,6 +198,5 @@
       9.72,
       12.66
     ]
-  },
-  "reference": "03190004I9K"
+  }
 }

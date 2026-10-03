@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/CAN533",
   "country": "USA",
+  "reference": "04560004T2C",
   "name": "GINGER",
   "rating": {
     "gph": 708.8,
@@ -197,6 +198,5 @@
       6.97,
       7.68
     ]
-  },
-  "reference": "04560004T2C"
+  }
 }

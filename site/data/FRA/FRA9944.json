@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9944",
   "country": "FRA",
+  "reference": "04330004IRT",
   "name": "DIAMOND HEAD",
   "rating": {
     "gph": 647.7,
@@ -197,6 +198,5 @@
       7.8,
       9.02
     ]
-  },
-  "reference": "04330004IRT"
+  }
 }

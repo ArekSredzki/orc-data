@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA9700",
   "country": "USA",
+  "reference": "04560004PAK",
   "name": "DARK STAR",
   "rating": {
     "gph": 487.6,
@@ -197,6 +198,5 @@
       11.84,
       15.01
     ]
-  },
-  "reference": "04560004PAK"
+  }
 }

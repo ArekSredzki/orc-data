@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP31161",
   "country": "ESP",
+  "reference": "03510004Q75",
   "name": "CAP PROBLEMA",
   "rating": {
     "gph": 610.2,
@@ -197,6 +198,5 @@
       8.15,
       8.86
     ]
-  },
-  "reference": "03510004Q75"
+  }
 }

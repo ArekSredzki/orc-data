@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA39548",
   "country": "FRA",
+  "reference": "04330004HNE",
   "name": "CANAILLOU",
   "rating": {
     "gph": 598.3,
@@ -197,6 +198,5 @@
       8.32,
       9.87
     ]
-  },
-  "reference": "04330004HNE"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2303",
   "country": "BRA",
+  "reference": "04420004VHS",
   "name": "CATUANA KIM",
   "rating": {
     "gph": 572.0,
@@ -197,6 +198,5 @@
       8.33,
       9.76
     ]
-  },
-  "reference": "04420004VHS"
+  }
 }

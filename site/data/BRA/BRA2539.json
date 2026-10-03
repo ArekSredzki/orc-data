@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2539",
   "country": "BRA",
+  "reference": "04420004VER",
   "name": "KING",
   "rating": {
     "gph": 503.9,
@@ -197,6 +198,5 @@
       11.91,
       15.13
     ]
-  },
-  "reference": "04420004VER"
+  }
 }

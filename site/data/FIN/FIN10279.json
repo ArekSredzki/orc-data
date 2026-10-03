@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN10279",
   "country": "FIN",
+  "reference": "04140004WD0",
   "name": "Xtempore",
   "rating": {
     "gph": 671.6,
@@ -197,6 +198,5 @@
       7.31,
       7.99
     ]
-  },
-  "reference": "04140004WD0"
+  }
 }

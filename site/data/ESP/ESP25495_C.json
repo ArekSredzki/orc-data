@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP25495_C",
   "country": "ESP",
+  "reference": "03510004BTC",
   "name": "MABRE",
   "rating": {
     "gph": 670.8,
@@ -197,6 +198,5 @@
       7.78,
       10.63
     ]
-  },
-  "reference": "03510004BTC"
+  }
 }

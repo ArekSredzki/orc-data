@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/2936",
   "country": "AUS",
+  "reference": "03020004VCV",
   "name": "MARRI NUWI",
   "rating": {
     "gph": 614.7,
@@ -197,6 +198,5 @@
       8.27,
       9.19
     ]
-  },
-  "reference": "03020004VCV"
+  }
 }

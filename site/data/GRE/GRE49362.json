@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE49362",
   "country": "GRE",
+  "reference": "03420004LCT",
   "name": "JOY OF FREEDOM",
   "rating": {
     "gph": 699.6,
@@ -197,6 +198,5 @@
       7.17,
       7.8
     ]
-  },
-  "reference": "03420004LCT"
+  }
 }

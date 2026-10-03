@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/095",
   "country": "AUS",
+  "reference": "03020004WVM",
   "name": "ANARCHY",
   "rating": {
     "gph": 494.2,
@@ -197,6 +198,5 @@
       11.96,
       15.42
     ]
-  },
-  "reference": "03020004WVM"
+  }
 }

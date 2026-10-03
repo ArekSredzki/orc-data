@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/SUI180",
   "country": "ITA",
+  "reference": "03190004KON",
   "name": "MELAGODO",
   "rating": {
     "gph": 617.8,
@@ -197,6 +198,5 @@
       8.55,
       11.0
     ]
-  },
-  "reference": "03190004KON"
+  }
 }

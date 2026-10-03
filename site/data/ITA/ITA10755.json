@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10755",
   "country": "ITA",
+  "reference": "03190004BNK",
   "name": "ARDUINA",
   "rating": {
     "gph": 710.8,
@@ -197,6 +198,5 @@
       7.22,
       8.2
     ]
-  },
-  "reference": "03190004BNK"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN12332",
   "country": "FIN",
+  "reference": "03290004P98",
   "name": "Xelina",
   "rating": {
     "gph": 653.1,
@@ -197,6 +198,5 @@
       7.67,
       8.37
     ]
-  },
-  "reference": "03290004P98"
+  }
 }

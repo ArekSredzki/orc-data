@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR16283",
   "country": "NOR",
+  "reference": "03440004H71",
   "name": "Spin out",
   "rating": {
     "gph": 560.7,
@@ -197,6 +198,5 @@
       12.4,
       15.31
     ]
-  },
-  "reference": "03440004H71"
+  }
 }

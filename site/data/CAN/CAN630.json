@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN630",
   "country": "CAN",
+  "reference": "03430004W49",
   "name": "Vantage",
   "rating": {
     "gph": 549.9,
@@ -197,6 +198,5 @@
       9.19,
       11.36
     ]
-  },
-  "reference": "03430004W49"
+  }
 }

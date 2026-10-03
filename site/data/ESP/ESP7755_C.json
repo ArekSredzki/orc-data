@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7755_C",
   "country": "ESP",
+  "reference": "03510004MD0",
   "name": "QUID PRO QUO",
   "rating": {
     "gph": 618.9,
@@ -197,6 +198,5 @@
       7.88,
       8.63
     ]
-  },
-  "reference": "03510004MD0"
+  }
 }

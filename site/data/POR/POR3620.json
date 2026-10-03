@@ -1,6 +1,7 @@
 {
   "sailnumber": "POR/POR3620",
   "country": "POR",
+  "reference": "03530004F9C",
   "name": "WINE DECK",
   "rating": {
     "gph": 632.4,
@@ -197,6 +198,5 @@
       7.9,
       8.64
     ]
-  },
-  "reference": "03530004F9C"
+  }
 }

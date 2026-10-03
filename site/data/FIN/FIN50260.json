@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN50260",
   "country": "FIN",
+  "reference": "04140004S71",
   "name": "Xanthippe",
   "rating": {
     "gph": 586.5,
@@ -197,6 +198,5 @@
       8.25,
       9.0
     ]
-  },
-  "reference": "04140004S71"
+  }
 }

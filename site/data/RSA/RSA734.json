@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA734",
   "country": "RSA",
+  "reference": "04620004HEA",
   "name": "First Lady",
   "rating": {
     "gph": 710.8,
@@ -197,6 +198,5 @@
       7.31,
       7.95
     ]
-  },
-  "reference": "04620004HEA"
+  }
 }

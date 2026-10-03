@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17469",
   "country": "ITA",
+  "reference": "03190004KKE",
   "name": "REMOTE WORK",
   "rating": {
     "gph": 642.3,
@@ -197,6 +198,5 @@
       7.52,
       8.59
     ]
-  },
-  "reference": "03190004KKE"
+  }
 }

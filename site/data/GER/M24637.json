@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/M24637",
   "country": "GER",
+  "reference": "03520004I38",
   "name": "HAIOPEI",
   "rating": {
     "gph": 633.7,
@@ -197,6 +198,5 @@
       10.34,
       13.41
     ]
-  },
-  "reference": "03520004I38"
+  }
 }

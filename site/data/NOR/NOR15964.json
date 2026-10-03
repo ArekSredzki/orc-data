@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15964",
   "country": "NOR",
+  "reference": "03440004QFJ",
   "name": "Basse 2",
   "rating": {
     "gph": 721.4,
@@ -197,6 +198,5 @@
       8.62,
       11.8
     ]
-  },
-  "reference": "03440004QFJ"
+  }
 }

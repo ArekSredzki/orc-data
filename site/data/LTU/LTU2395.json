@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU2395",
   "country": "LTU",
+  "reference": "03590004V0W",
   "name": "TANGO 2",
   "rating": {
     "gph": 621.8,
@@ -197,6 +198,5 @@
       7.59,
       8.28
     ]
-  },
-  "reference": "03590004V0W"
+  }
 }

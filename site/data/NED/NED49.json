@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED49",
   "country": "NED",
+  "reference": "04310004JUW",
   "name": "Vortice",
   "rating": {
     "gph": 577.5,
@@ -197,6 +198,5 @@
       8.55,
       9.24
     ]
-  },
-  "reference": "04310004JUW"
+  }
 }

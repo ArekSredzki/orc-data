@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5445",
   "country": "ESP",
+  "reference": "03510004BFV",
   "name": "GDES-AEROX",
   "rating": {
     "gph": 590.9,
@@ -197,6 +198,5 @@
       8.29,
       9.1
     ]
-  },
-  "reference": "03510004BFV"
+  }
 }

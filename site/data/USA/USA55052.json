@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA55052",
   "country": "USA",
+  "reference": "04560004WV8",
   "name": "FOX 2.0",
   "rating": {
     "gph": 425.3,
@@ -197,6 +198,5 @@
       13.53,
       16.89
     ]
-  },
-  "reference": "04560004WV8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5373",
   "country": "GER",
+  "reference": "03520004OE5",
   "name": "TOPAS",
   "rating": {
     "gph": 591.6,
@@ -197,6 +198,5 @@
       9.25,
       11.98
     ]
-  },
-  "reference": "03520004OE5"
+  }
 }

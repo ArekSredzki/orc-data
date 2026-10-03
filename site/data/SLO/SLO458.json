@@ -1,6 +1,7 @@
 {
   "sailnumber": "SLO/SLO458",
   "country": "SLO",
+  "reference": "03090004C1A",
   "name": "Moon Sailor",
   "rating": {
     "gph": 590.9,
@@ -197,6 +198,5 @@
       8.14,
       8.81
     ]
-  },
-  "reference": "03090004C1A"
+  }
 }

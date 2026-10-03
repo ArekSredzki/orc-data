@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9761",
   "country": "ESP",
+  "reference": "035100048IW",
   "name": "KAIROS",
   "rating": {
     "gph": 594.0,
@@ -197,6 +198,5 @@
       8.65,
       10.12
     ]
-  },
-  "reference": "035100048IW"
+  }
 }

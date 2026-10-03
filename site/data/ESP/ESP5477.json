@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5477",
   "country": "ESP",
+  "reference": "03510004C8P",
   "name": "VARANO DEL DESIERTO",
   "rating": {
     "gph": 615.5,
@@ -197,6 +198,5 @@
       8.08,
       8.81
     ]
-  },
-  "reference": "03510004C8P"
+  }
 }

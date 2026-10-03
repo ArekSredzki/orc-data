@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2022",
   "country": "GRE",
+  "reference": "03420004J3V",
   "name": "IRIS",
   "rating": {
     "gph": 687.3,
@@ -197,6 +198,5 @@
       7.62,
       8.21
     ]
-  },
-  "reference": "03420004J3V"
+  }
 }

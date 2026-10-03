@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16101",
   "country": "ITA",
+  "reference": "03190004S44",
   "name": "SCURSUNERA",
   "rating": {
     "gph": 619.1,
@@ -197,6 +198,5 @@
       7.9,
       8.66
     ]
-  },
-  "reference": "03190004S44"
+  }
 }

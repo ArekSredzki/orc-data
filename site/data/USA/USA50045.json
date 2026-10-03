@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA50045",
   "country": "USA",
+  "reference": "04560004URW",
   "name": "TRIDENT",
   "rating": {
     "gph": 456.8,
@@ -197,6 +198,5 @@
       11.94,
       14.34
     ]
-  },
-  "reference": "04560004URW"
+  }
 }

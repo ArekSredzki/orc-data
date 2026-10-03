@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI12",
   "country": "SUI",
+  "reference": "03080004M9O",
   "name": "EVITA",
   "rating": {
     "gph": 662.9,
@@ -197,6 +198,5 @@
       7.5,
       8.43
     ]
-  },
-  "reference": "03080004M9O"
+  }
 }

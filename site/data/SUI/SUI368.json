@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI368",
   "country": "SUI",
+  "reference": "030800048ND",
   "name": "OCTOPUS",
   "rating": {
     "gph": 741.2,
@@ -197,6 +198,5 @@
       6.78,
       7.38
     ]
-  },
-  "reference": "030800048ND"
+  }
 }

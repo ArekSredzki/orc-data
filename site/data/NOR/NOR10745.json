@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10745",
   "country": "NOR",
+  "reference": "03440004Q5K",
   "name": "Eowyn",
   "rating": {
     "gph": 627.0,
@@ -197,6 +198,5 @@
       7.9,
       8.64
     ]
-  },
-  "reference": "03440004Q5K"
+  }
 }

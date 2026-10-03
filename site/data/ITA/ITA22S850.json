@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA22S850",
   "country": "ITA",
+  "reference": "03190004JE1",
   "name": "BLUE EST LA VIE",
   "rating": {
     "gph": 598.7,
@@ -197,6 +198,5 @@
       11.23,
       14.13
     ]
-  },
-  "reference": "03190004JE1"
+  }
 }

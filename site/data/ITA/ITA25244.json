@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA25244",
   "country": "ITA",
+  "reference": "03190004IPW",
   "name": "H2O",
   "rating": {
     "gph": 661.6,
@@ -197,6 +198,5 @@
       7.82,
       10.77
     ]
-  },
-  "reference": "03190004IPW"
+  }
 }

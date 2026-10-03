@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/111",
   "country": "USA",
+  "reference": "04560004WBS",
   "name": "BUM'S RUSH",
   "rating": {
     "gph": 677.8,
@@ -197,6 +198,5 @@
       7.49,
       8.15
     ]
-  },
-  "reference": "04560004WBS"
+  }
 }

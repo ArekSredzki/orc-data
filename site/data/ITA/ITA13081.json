@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13081",
   "country": "ITA",
+  "reference": "03190004MTE",
   "name": "X RAY",
   "rating": {
     "gph": 603.6,
@@ -197,6 +198,5 @@
       7.73,
       8.33
     ]
-  },
-  "reference": "03190004MTE"
+  }
 }

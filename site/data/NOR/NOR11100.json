@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR11100",
   "country": "NOR",
+  "reference": "03440004FIO",
   "name": "Leona",
   "rating": {
     "gph": 623.8,
@@ -197,6 +198,5 @@
       7.73,
       8.26
     ]
-  },
-  "reference": "03440004FIO"
+  }
 }

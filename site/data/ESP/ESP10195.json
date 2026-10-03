@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10195",
   "country": "ESP",
+  "reference": "03510004FJV",
   "name": "BRISOTE DOS",
   "rating": {
     "gph": 687.3,
@@ -197,6 +198,5 @@
       7.61,
       8.31
     ]
-  },
-  "reference": "03510004FJV"
+  }
 }

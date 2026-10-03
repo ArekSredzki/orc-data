@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/Sm311",
   "country": "AUS",
+  "reference": "03020004UKL",
   "name": "ALCHEMIST",
   "rating": {
     "gph": 627.5,
@@ -197,6 +198,5 @@
       8.12,
       9.79
     ]
-  },
-  "reference": "03020004UKL"
+  }
 }

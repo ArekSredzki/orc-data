@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6542_C",
   "country": "ESP",
+  "reference": "03510004BKM",
   "name": "REVIRADO",
   "rating": {
     "gph": 664.8,
@@ -197,6 +198,5 @@
       7.78,
       8.69
     ]
-  },
-  "reference": "03510004BKM"
+  }
 }

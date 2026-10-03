@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9800",
   "country": "NED",
+  "reference": "04310004POR",
   "name": "Fastlane",
   "rating": {
     "gph": 600.9,
@@ -197,6 +198,5 @@
       8.38,
       9.52
     ]
-  },
-  "reference": "04310004POR"
+  }
 }

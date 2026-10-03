@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7771",
   "country": "ESP",
+  "reference": "03510004F38",
   "name": "LOBSTER",
   "rating": {
     "gph": 674.7,
@@ -197,6 +198,5 @@
       7.56,
       9.88
     ]
-  },
-  "reference": "03510004F38"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17378",
   "country": "ITA",
+  "reference": "03190004NWC",
   "name": "FASTNET",
   "rating": {
     "gph": 603.6,
@@ -197,6 +198,5 @@
       7.89,
       9.32
     ]
-  },
-  "reference": "03190004NWC"
+  }
 }

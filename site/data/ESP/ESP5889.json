@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5889",
   "country": "ESP",
+  "reference": "03510004BEV",
   "name": "TUCANA I",
   "rating": {
     "gph": 717.6,
@@ -197,6 +198,5 @@
       6.74,
       7.27
     ]
-  },
-  "reference": "03510004BEV"
+  }
 }

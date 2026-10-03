@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA2007",
   "country": "USA",
+  "reference": "04560004PUV",
   "name": "MY GIRL",
   "rating": {
     "gph": 585.5,
@@ -197,6 +198,5 @@
       8.02,
       9.44
     ]
-  },
-  "reference": "04560004PUV"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA45954",
   "country": "FRA",
+  "reference": "04330004ICP",
   "name": "BELLATRIX 2",
   "rating": {
     "gph": 691.8,
@@ -197,6 +198,5 @@
       7.3,
       7.91
     ]
-  },
-  "reference": "04330004ICP"
+  }
 }

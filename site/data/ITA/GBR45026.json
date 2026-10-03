@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GBR45026",
   "country": "ITA",
+  "reference": "03190004VLV",
   "name": "MISS K CHECKMATE",
   "rating": {
     "gph": 526.5,
@@ -197,6 +198,5 @@
       9.16,
       10.29
     ]
-  },
-  "reference": "03190004VLV"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17810",
   "country": "ITA",
+  "reference": "03190004OO9",
   "name": "ORION",
   "rating": {
     "gph": 546.4,
@@ -197,6 +198,5 @@
       8.6,
       9.96
     ]
-  },
-  "reference": "03190004OO9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA1300",
   "country": "USA",
+  "reference": "04560004REK",
   "name": "ALPHA PUPPY",
   "rating": {
     "gph": 605.1,
@@ -197,6 +198,5 @@
       7.92,
       8.78
     ]
-  },
-  "reference": "04560004REK"
+  }
 }

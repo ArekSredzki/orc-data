@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP5672_C",
   "country": "ESP",
+  "reference": "03510004V2P",
   "name": "BATISTE PRIMERO",
   "rating": {
     "gph": 589.3,
@@ -197,6 +198,5 @@
       8.25,
       9.04
     ]
-  },
-  "reference": "03510004V2P"
+  }
 }

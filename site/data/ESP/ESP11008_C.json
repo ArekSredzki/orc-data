@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11008_C",
   "country": "ESP",
+  "reference": "03510004LKH",
   "name": "AQUILON",
   "rating": {
     "gph": 703.5,
@@ -197,6 +198,5 @@
       7.1,
       7.75
     ]
-  },
-  "reference": "03510004LKH"
+  }
 }

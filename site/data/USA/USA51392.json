@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA51392",
   "country": "USA",
+  "reference": "04560004O0Q",
   "name": "EXCALIBER",
   "rating": {
     "gph": 585.6,
@@ -197,6 +198,5 @@
       8.29,
       9.11
     ]
-  },
-  "reference": "04560004O0Q"
+  }
 }

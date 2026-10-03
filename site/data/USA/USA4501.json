@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA4501",
   "country": "USA",
+  "reference": "04560004VUQ",
   "name": "AZULITO",
   "rating": {
     "gph": 450.5,
@@ -197,6 +198,5 @@
       13.33,
       16.85
     ]
-  },
-  "reference": "04560004VUQ"
+  }
 }

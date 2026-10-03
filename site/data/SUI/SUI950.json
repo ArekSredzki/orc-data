@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI950",
   "country": "SUI",
+  "reference": "03080004KTC",
   "name": "CHLINI MISIA",
   "rating": {
     "gph": 560.6,
@@ -197,6 +198,5 @@
       12.27,
       15.67
     ]
-  },
-  "reference": "03080004KTC"
+  }
 }

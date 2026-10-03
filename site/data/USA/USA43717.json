@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA43717",
   "country": "USA",
+  "reference": "04560004L10",
   "name": "ESCARGOT",
   "rating": {
     "gph": 478.0,
@@ -197,6 +198,5 @@
       10.92,
       13.44
     ]
-  },
-  "reference": "04560004L10"
+  }
 }

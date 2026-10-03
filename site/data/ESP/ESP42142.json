@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP42142",
   "country": "ESP",
+  "reference": "03510004VJU",
   "name": "MAGICAL",
   "rating": {
     "gph": 534.3,
@@ -197,6 +198,5 @@
       9.08,
       11.17
     ]
-  },
-  "reference": "03510004VJU"
+  }
 }

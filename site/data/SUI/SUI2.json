@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI2",
   "country": "SUI",
+  "reference": "03080004PC8",
   "name": "NUVOLA",
   "rating": {
     "gph": 550.6,
@@ -197,6 +198,5 @@
       12.53,
       15.57
     ]
-  },
-  "reference": "03080004PC8"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3900",
   "country": "RSA",
+  "reference": "0462000487N",
   "name": "Pura Vida",
   "rating": {
     "gph": 562.6,
@@ -197,6 +198,5 @@
       8.39,
       9.4
     ]
-  },
-  "reference": "0462000487N"
+  }
 }

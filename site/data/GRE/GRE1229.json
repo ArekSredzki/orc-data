@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1229",
   "country": "GRE",
+  "reference": "03420004U5S",
   "name": "AGGELIKI",
   "rating": {
     "gph": 703.4,
@@ -197,6 +198,5 @@
       6.92,
       7.41
     ]
-  },
-  "reference": "03420004U5S"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT230",
   "country": "LAT",
+  "reference": "04960004RQ1",
   "name": "IRISHA",
   "rating": {
     "gph": 651.5,
@@ -197,6 +198,5 @@
       7.18,
       7.8
     ]
-  },
-  "reference": "04960004RQ1"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1837",
   "country": "GRE",
+  "reference": "03420004LIL",
   "name": "NAIAS",
   "rating": {
     "gph": 648.4,
@@ -197,6 +198,5 @@
       8.13,
       8.76
     ]
-  },
-  "reference": "03420004LIL"
+  }
 }

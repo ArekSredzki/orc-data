@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP4354_C",
   "country": "ESP",
+  "reference": "03510004HEE",
   "name": "HATHOR",
   "rating": {
     "gph": 729.0,
@@ -197,6 +198,5 @@
       7.01,
       8.22
     ]
-  },
-  "reference": "03510004HEE"
+  }
 }

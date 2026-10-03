@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/BOD1270",
   "country": "GER",
+  "reference": "04150004LNA",
   "name": "VERMEER",
   "rating": {
     "gph": 488.2,
@@ -197,6 +198,5 @@
       13.48,
       16.72
     ]
-  },
-  "reference": "04150004LNA"
+  }
 }

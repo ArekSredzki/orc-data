@@ -49,16 +49,16 @@
       23.7
     ],
     [
+      "GBR/CAY70007",
+      "GWEILO 70",
+      "VOLVO 70",
+      23.23
+    ],
+    [
       "FIN/FIN1527R",
       "Tulikettu",
       "Infiniti 52",
       22.92
-    ],
-    [
-      "AUS/AUS03",
-      "Noahs 2",
-      "Volvo 70",
-      22.87
     ]
   ],
   "min_speed": [
@@ -173,7 +173,7 @@
       33.035
     ],
     [
-      "GBR/_1",
+      "GBR/_2",
       "PS5 Playstation",
       "SWAN 108",
       33.03
@@ -205,6 +205,12 @@
       132602.0
     ],
     [
+      "GBR/_1",
+      "FAR HORIZON",
+      "GAFF SCHOONER",
+      132602.0
+    ],
+    [
       "AUS/0100",
       "Maritimo 100",
       "Oyster 100",
@@ -229,7 +235,7 @@
       95604.0
     ],
     [
-      "GBR/_1",
+      "GBR/_2",
       "PS5 Playstation",
       "SWAN 108",
       88391.0
@@ -239,12 +245,6 @@
       "SHAGALA BAGALA",
       "Baltic 112 R/P",
       88057.0
-    ],
-    [
-      "GRE/GBR106",
-      "WALLY B",
-      "BRENTA 106",
-      82098.0
     ]
   ],
   "max_draft": [

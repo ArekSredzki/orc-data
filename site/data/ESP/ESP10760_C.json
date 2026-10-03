@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10760_C",
   "country": "ESP",
+  "reference": "03510004TMA",
   "name": "ANDANTE",
   "rating": {
     "gph": 662.8,
@@ -197,6 +198,5 @@
       7.83,
       8.44
     ]
-  },
-  "reference": "03510004TMA"
+  }
 }

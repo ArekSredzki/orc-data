@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA53018",
   "country": "FRA",
+  "reference": "04330004MNB",
   "name": "NESS",
   "rating": {
     "gph": 649.3,
@@ -197,6 +198,5 @@
       7.39,
       8.4
     ]
-  },
-  "reference": "04330004MNB"
+  }
 }

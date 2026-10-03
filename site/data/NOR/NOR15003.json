@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15003",
   "country": "NOR",
+  "reference": "03440004QPA",
   "name": "First Lady",
   "rating": {
     "gph": 620.5,
@@ -197,6 +198,5 @@
       7.66,
       8.35
     ]
-  },
-  "reference": "03440004QPA"
+  }
 }

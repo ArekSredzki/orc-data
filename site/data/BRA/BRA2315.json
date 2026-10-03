@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2315",
   "country": "BRA",
+  "reference": "04420004I88",
   "name": "KAMIKAZE XI",
   "rating": {
     "gph": 668.1,
@@ -197,6 +198,5 @@
       7.48,
       8.18
     ]
-  },
-  "reference": "04420004I88"
+  }
 }

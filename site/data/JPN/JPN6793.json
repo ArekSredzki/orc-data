@@ -1,6 +1,7 @@
 {
   "sailnumber": "JPN/JPN6793",
   "country": "JPN",
+  "reference": "03390004JHP",
   "name": "MISS NIPPON VIII",
   "rating": {
     "gph": 564.7,
@@ -197,6 +198,5 @@
       8.33,
       9.95
     ]
-  },
-  "reference": "03390004JHP"
+  }
 }

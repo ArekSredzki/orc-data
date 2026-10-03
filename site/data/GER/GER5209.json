@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER5209",
   "country": "GER",
+  "reference": "03520004T8K",
   "name": "CORLEONE",
   "rating": {
     "gph": 633.0,
@@ -197,6 +198,5 @@
       7.84,
       8.54
     ]
-  },
-  "reference": "03520004T8K"
+  }
 }

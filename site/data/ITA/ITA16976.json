@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16976",
   "country": "ITA",
+  "reference": "03190004K5T",
   "name": "VALENTINA",
   "rating": {
     "gph": 751.9,
@@ -197,6 +198,5 @@
       6.79,
       7.35
     ]
-  },
-  "reference": "03190004K5T"
+  }
 }

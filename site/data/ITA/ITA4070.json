@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA4070",
   "country": "ITA",
+  "reference": "03190004BNW",
   "name": "MAGIA BLU",
   "rating": {
     "gph": 600.0,
@@ -197,6 +198,5 @@
       8.18,
       8.92
     ]
-  },
-  "reference": "03190004BNW"
+  }
 }

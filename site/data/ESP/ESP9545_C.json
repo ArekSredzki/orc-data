@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9545_C",
   "country": "ESP",
+  "reference": "03510004BJD",
   "name": "NEW AGUAMARINA",
   "rating": {
     "gph": 633.2,
@@ -197,6 +198,5 @@
       7.91,
       8.58
     ]
-  },
-  "reference": "03510004BJD"
+  }
 }

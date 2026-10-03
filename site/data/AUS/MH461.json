@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/MH461",
   "country": "AUS",
+  "reference": "03020004TN2",
   "name": "Voetsak",
   "rating": {
     "gph": 614.5,
@@ -197,6 +198,5 @@
       8.53,
       9.3
     ]
-  },
-  "reference": "03020004TN2"
+  }
 }

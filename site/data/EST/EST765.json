@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST765",
   "country": "EST",
+  "reference": "04340004WHO",
   "name": "2XS",
   "rating": {
     "gph": 637.4,
@@ -197,6 +198,5 @@
       7.96,
       9.35
     ]
-  },
-  "reference": "04340004WHO"
+  }
 }

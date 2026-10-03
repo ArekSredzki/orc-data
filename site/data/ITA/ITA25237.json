@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA25237",
   "country": "ITA",
+  "reference": "03190004KRQ",
   "name": "BASTIAN CONTRARIO",
   "rating": {
     "gph": 678.0,
@@ -197,6 +198,5 @@
       7.69,
       10.2
     ]
-  },
-  "reference": "03190004KRQ"
+  }
 }

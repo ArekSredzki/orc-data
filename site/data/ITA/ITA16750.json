@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16750",
   "country": "ITA",
+  "reference": "03190004P17",
   "name": "YUME",
   "rating": {
     "gph": 581.8,
@@ -197,6 +198,5 @@
       8.2,
       9.38
     ]
-  },
-  "reference": "03190004P17"
+  }
 }

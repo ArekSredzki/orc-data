@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA414",
   "country": "USA",
+  "reference": "04560004RDO",
   "name": "MADELEINE",
   "rating": {
     "gph": 602.2,
@@ -197,6 +198,5 @@
       8.17,
       8.81
     ]
-  },
-  "reference": "04560004RDO"
+  }
 }

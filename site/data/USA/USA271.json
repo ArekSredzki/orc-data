@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA271",
   "country": "USA",
+  "reference": "04560004UH1",
   "name": "YUKON",
   "rating": {
     "gph": 615.8,
@@ -197,6 +198,5 @@
       7.91,
       9.91
     ]
-  },
-  "reference": "04560004UH1"
+  }
 }

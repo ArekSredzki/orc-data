@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE12004",
   "country": "GRE",
+  "reference": "03420004PT0",
   "name": "ANTAMA",
   "rating": {
     "gph": 747.0,
@@ -197,6 +198,5 @@
       6.84,
       7.42
     ]
-  },
-  "reference": "03420004PT0"
+  }
 }

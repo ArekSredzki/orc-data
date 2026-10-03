@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR14477",
   "country": "NOR",
+  "reference": "03440004S2Q",
   "name": "Martine",
   "rating": {
     "gph": 725.7,
@@ -197,6 +198,5 @@
       6.63,
       7.1
     ]
-  },
-  "reference": "03440004S2Q"
+  }
 }

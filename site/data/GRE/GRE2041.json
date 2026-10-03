@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2041",
   "country": "GRE",
+  "reference": "03420004S1B",
   "name": "KRONOS",
   "rating": {
     "gph": 813.0,
@@ -197,6 +198,5 @@
       6.11,
       6.59
     ]
-  },
-  "reference": "03420004S1B"
+  }
 }

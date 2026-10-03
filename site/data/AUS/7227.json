@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/7227",
   "country": "AUS",
+  "reference": "03020004TBH",
   "name": "Bombolo",
   "rating": {
     "gph": 554.3,
@@ -197,6 +198,5 @@
       8.73,
       9.91
     ]
-  },
-  "reference": "03020004TBH"
+  }
 }

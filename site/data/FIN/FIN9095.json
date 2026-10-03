@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN9095",
   "country": "FIN",
+  "reference": "04140004WT6",
   "name": "BRYNHILDE",
   "rating": {
     "gph": 665.5,
@@ -197,6 +198,5 @@
       7.52,
       8.31
     ]
-  },
-  "reference": "04140004WT6"
+  }
 }

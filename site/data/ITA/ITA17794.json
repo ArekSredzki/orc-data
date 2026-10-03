@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17794",
   "country": "ITA",
+  "reference": "03190004BN6",
   "name": "MATITU'",
   "rating": {
     "gph": 533.9,
@@ -197,6 +198,5 @@
       8.87,
       9.71
     ]
-  },
-  "reference": "03190004BN6"
+  }
 }

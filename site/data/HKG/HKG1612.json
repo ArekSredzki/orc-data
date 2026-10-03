@@ -1,6 +1,7 @@
 {
   "sailnumber": "HKG/HKG1612",
   "country": "HKG",
+  "reference": "03880004W5A",
   "name": "Gambit",
   "rating": {
     "gph": 613.8,
@@ -197,6 +198,5 @@
       9.02,
       12.1
     ]
-  },
-  "reference": "03880004W5A"
+  }
 }

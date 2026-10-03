@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/USA43901",
   "country": "ITA",
+  "reference": "03190004F4B",
   "name": "FLASH",
   "rating": {
     "gph": 565.6,
@@ -197,6 +198,5 @@
       8.71,
       10.52
     ]
-  },
-  "reference": "03190004F4B"
+  }
 }

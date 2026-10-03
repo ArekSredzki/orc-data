@@ -1,6 +1,7 @@
 {
   "sailnumber": "LAT/LAT755",
   "country": "LAT",
+  "reference": "04960004VIH",
   "name": "Spirit",
   "rating": {
     "gph": 664.1,
@@ -197,6 +198,5 @@
       7.83,
       8.65
     ]
-  },
-  "reference": "04960004VIH"
+  }
 }

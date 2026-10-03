@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/2981",
   "country": "AUS",
+  "reference": "03020004WHI",
   "name": "ANOTHER FIASCO",
   "rating": {
     "gph": 557.7,
@@ -197,6 +198,5 @@
       8.87,
       10.07
     ]
-  },
-  "reference": "03020004WHI"
+  }
 }

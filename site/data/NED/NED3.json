@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3",
   "country": "NED",
+  "reference": "04310004JTJ",
   "name": "BIERKAAI",
   "rating": {
     "gph": 581.1,
@@ -197,6 +198,5 @@
       8.66,
       10.04
     ]
-  },
-  "reference": "04310004JTJ"
+  }
 }

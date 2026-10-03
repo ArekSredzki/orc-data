@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR13918",
   "country": "NOR",
+  "reference": "03440004N71",
   "name": "Malolo",
   "rating": {
     "gph": 657.5,
@@ -197,6 +198,5 @@
       7.66,
       8.29
     ]
-  },
-  "reference": "03440004N71"
+  }
 }

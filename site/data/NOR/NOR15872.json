@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR15872",
   "country": "NOR",
+  "reference": "03440004OEO",
   "name": "Tor m Hammern",
   "rating": {
     "gph": 585.0,
@@ -197,6 +198,5 @@
       8.27,
       8.97
     ]
-  },
-  "reference": "03440004OEO"
+  }
 }

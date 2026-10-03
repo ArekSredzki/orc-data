@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI59",
   "country": "SUI",
+  "reference": "03080004QF7",
   "name": "CoCoRoxy",
   "rating": {
     "gph": 606.8,
@@ -197,6 +198,5 @@
       7.98,
       10.21
     ]
-  },
-  "reference": "03080004QF7"
+  }
 }

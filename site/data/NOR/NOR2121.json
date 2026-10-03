@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR2121",
   "country": "NOR",
+  "reference": "03440004P5B",
   "name": "Aiolos",
   "rating": {
     "gph": 592.2,
@@ -197,6 +198,5 @@
       8.74,
       11.25
     ]
-  },
-  "reference": "03440004P5B"
+  }
 }

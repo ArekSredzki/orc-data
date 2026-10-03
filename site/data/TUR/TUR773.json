@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR773",
   "country": "TUR",
+  "reference": "04590004H8K",
   "name": "MINX SAILING TEAM",
   "rating": {
     "gph": 658.1,
@@ -197,6 +198,5 @@
       7.8,
       8.4
     ]
-  },
-  "reference": "04590004H8K"
+  }
 }

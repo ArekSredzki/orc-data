@@ -1,6 +1,7 @@
 {
   "sailnumber": "CYP/CYP25",
   "country": "CYP",
+  "reference": "03470004NBE",
   "name": "TYPHOON",
   "rating": {
     "gph": 612.3,
@@ -197,6 +198,5 @@
       8.26,
       9.16
     ]
-  },
-  "reference": "03470004NBE"
+  }
 }

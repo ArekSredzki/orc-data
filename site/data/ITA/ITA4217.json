@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA4217",
   "country": "ITA",
+  "reference": "03190004P47",
   "name": "FANTAGHIRO'",
   "rating": {
     "gph": 534.7,
@@ -197,6 +198,5 @@
       9.1,
       11.23
     ]
-  },
-  "reference": "03190004P47"
+  }
 }

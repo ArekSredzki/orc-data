@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/GER81",
   "country": "ESP",
+  "reference": "03510004VWB",
   "name": "EARLY BIRD",
   "rating": {
     "gph": 556.5,
@@ -197,6 +198,5 @@
       11.48,
       14.61
     ]
-  },
-  "reference": "03510004VWB"
+  }
 }

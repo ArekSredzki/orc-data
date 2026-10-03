@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8085",
   "country": "NED",
+  "reference": "04310004K0K",
   "name": "Midnight",
   "rating": {
     "gph": 617.9,
@@ -197,6 +198,5 @@
       7.95,
       8.63
     ]
-  },
-  "reference": "04310004K0K"
+  }
 }

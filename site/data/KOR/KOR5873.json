@@ -1,6 +1,7 @@
 {
   "sailnumber": "KOR/KOR5873",
   "country": "KOR",
+  "reference": "04550004W7D",
   "name": "SEXY BUSAN",
   "rating": {
     "gph": 514.8,
@@ -197,6 +198,5 @@
       9.89,
       12.35
     ]
-  },
-  "reference": "04550004W7D"
+  }
 }

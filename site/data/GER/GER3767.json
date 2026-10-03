@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER3767",
   "country": "GER",
+  "reference": "03520004QV3",
   "name": "RAROTONGA",
   "rating": {
     "gph": 598.9,
@@ -197,6 +198,5 @@
       8.25,
       8.84
     ]
-  },
-  "reference": "03520004QV3"
+  }
 }

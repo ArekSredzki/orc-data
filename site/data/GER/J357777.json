@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/J357777",
   "country": "GER",
+  "reference": "04150004OWK",
   "name": "ABSOLUTE BEGINNERS",
   "rating": {
     "gph": 616.1,
@@ -197,6 +198,5 @@
       7.88,
       8.71
     ]
-  },
-  "reference": "04150004OWK"
+  }
 }

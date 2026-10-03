@@ -1,6 +1,7 @@
 {
   "sailnumber": "EST/EST606",
   "country": "EST",
+  "reference": "04340004NV7",
   "name": "BRIGITTA-X",
   "rating": {
     "gph": 637.5,
@@ -197,6 +198,5 @@
       7.86,
       8.59
     ]
-  },
-  "reference": "04340004NV7"
+  }
 }

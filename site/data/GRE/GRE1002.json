@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1002",
   "country": "GRE",
+  "reference": "03420004IW2",
   "name": "KYMOTHOE",
   "rating": {
     "gph": 680.3,
@@ -197,6 +198,5 @@
       7.4,
       8.02
     ]
-  },
-  "reference": "03420004IW2"
+  }
 }

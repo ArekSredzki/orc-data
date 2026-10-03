@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI74",
   "country": "SUI",
+  "reference": "03080004U91",
   "name": "WAIKIKI",
   "rating": {
     "gph": 694.2,
@@ -197,6 +198,5 @@
       7.67,
       9.75
     ]
-  },
-  "reference": "03080004U91"
+  }
 }

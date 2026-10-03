@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA7122",
   "country": "FRA",
+  "reference": "04330004IJH",
   "name": "LOLITA",
   "rating": {
     "gph": 689.7,
@@ -197,6 +198,5 @@
       7.2,
       7.81
     ]
-  },
-  "reference": "04330004IJH"
+  }
 }

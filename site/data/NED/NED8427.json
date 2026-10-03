@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8427",
   "country": "NED",
+  "reference": "04310004K18",
   "name": "Vesper",
   "rating": {
     "gph": 571.6,
@@ -197,6 +198,5 @@
       8.23,
       9.5
     ]
-  },
-  "reference": "04310004K18"
+  }
 }

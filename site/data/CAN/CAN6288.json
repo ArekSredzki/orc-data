@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN6288",
   "country": "CAN",
+  "reference": "03430004BQQ",
   "name": "Ultraman III",
   "rating": {
     "gph": 543.8,
@@ -197,6 +198,5 @@
       10.34,
       13.01
     ]
-  },
-  "reference": "03430004BQQ"
+  }
 }

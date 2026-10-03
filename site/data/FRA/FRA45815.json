@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA45815",
   "country": "FRA",
+  "reference": "04330004CBL",
   "name": "ULYSSE",
   "rating": {
     "gph": 641.8,
@@ -197,6 +198,5 @@
       7.95,
       10.62
     ]
-  },
-  "reference": "04330004CBL"
+  }
 }

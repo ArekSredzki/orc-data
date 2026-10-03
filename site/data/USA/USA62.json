@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA62",
   "country": "USA",
+  "reference": "04560004KD2",
   "name": "Afterglow",
   "rating": {
     "gph": 594.0,
@@ -197,6 +198,5 @@
       8.75,
       11.09
     ]
-  },
-  "reference": "04560004KD2"
+  }
 }

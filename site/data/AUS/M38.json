@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/M38",
   "country": "AUS",
+  "reference": "03020004VC2",
   "name": "ADDICTION",
   "rating": {
     "gph": 618.5,
@@ -197,6 +198,5 @@
       7.67,
       8.27
     ]
-  },
-  "reference": "03020004VC2"
+  }
 }

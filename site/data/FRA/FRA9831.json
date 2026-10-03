@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9831",
   "country": "FRA",
+  "reference": "04330004TD0",
   "name": "TANGARD",
   "rating": {
     "gph": 658.9,
@@ -197,6 +198,5 @@
       7.64,
       8.27
     ]
-  },
-  "reference": "04330004TD0"
+  }
 }

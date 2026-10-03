@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA4860",
   "country": "RSA",
+  "reference": "04620004884",
   "name": "WAVEGUIDE",
   "rating": {
     "gph": 692.3,
@@ -197,6 +198,5 @@
       7.13,
       7.88
     ]
-  },
-  "reference": "04620004884"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI191",
   "country": "SUI",
+  "reference": "03080004AVO",
   "name": "MYSTIQUE",
   "rating": {
     "gph": 615.3,
@@ -197,6 +198,5 @@
       9.32,
       12.48
     ]
-  },
-  "reference": "03080004AVO"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14117",
   "country": "ITA",
+  "reference": "03190004C25",
   "name": "ULTRAVOX",
   "rating": {
     "gph": 631.4,
@@ -197,6 +198,5 @@
       7.41,
       8.08
     ]
-  },
-  "reference": "03190004C25"
+  }
 }

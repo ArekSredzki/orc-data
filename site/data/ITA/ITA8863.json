@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA8863",
   "country": "ITA",
+  "reference": "03190004LS8",
   "name": "OMAGGIO FLOREALE",
   "rating": {
     "gph": 683.5,
@@ -197,6 +198,5 @@
       7.67,
       10.69
     ]
-  },
-  "reference": "03190004LS8"
+  }
 }

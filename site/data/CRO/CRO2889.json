@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2889",
   "country": "CRO",
+  "reference": "03620004R4M",
   "name": "Rhea",
   "rating": {
     "gph": 656.7,
@@ -197,6 +198,5 @@
       7.89,
       8.61
     ]
-  },
-  "reference": "03620004R4M"
+  }
 }

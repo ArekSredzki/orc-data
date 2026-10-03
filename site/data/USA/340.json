@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/340",
   "country": "USA",
+  "reference": "04560004V63",
   "name": "CARIBBEAN SOUL",
   "rating": {
     "gph": 707.0,
@@ -197,6 +198,5 @@
       7.15,
       7.74
     ]
-  },
-  "reference": "04560004V63"
+  }
 }

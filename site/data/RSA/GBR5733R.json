@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/GBR5733R",
   "country": "RSA",
+  "reference": "046200048JT",
   "name": "Jacana",
   "rating": {
     "gph": 556.9,
@@ -197,6 +198,5 @@
       8.52,
       9.96
     ]
-  },
-  "reference": "046200048JT"
+  }
 }

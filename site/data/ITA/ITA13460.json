@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13460",
   "country": "ITA",
+  "reference": "03190004JEC",
   "name": "2 ALFA 2",
   "rating": {
     "gph": 643.8,
@@ -197,6 +198,5 @@
       7.63,
       8.29
     ]
-  },
-  "reference": "03190004JEC"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6933",
   "country": "ESP",
+  "reference": "0351000488I",
   "name": "XALEST",
   "rating": {
     "gph": 617.6,
@@ -197,6 +198,5 @@
       7.72,
       8.44
     ]
-  },
-  "reference": "0351000488I"
+  }
 }

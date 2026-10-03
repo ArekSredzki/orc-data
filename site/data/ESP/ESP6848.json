@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6848",
   "country": "ESP",
+  "reference": "03510004UEF",
   "name": "VIKING IX",
   "rating": {
     "gph": 602.0,
@@ -197,6 +198,5 @@
       8.34,
       9.2
     ]
-  },
-  "reference": "03510004UEF"
+  }
 }

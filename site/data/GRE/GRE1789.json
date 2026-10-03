@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1789",
   "country": "GRE",
+  "reference": "03420004OV8",
   "name": "HERMES 3",
   "rating": {
     "gph": 532.3,
@@ -197,6 +198,5 @@
       10.06,
       12.64
     ]
-  },
-  "reference": "03420004OV8"
+  }
 }

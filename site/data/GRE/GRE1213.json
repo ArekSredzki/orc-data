@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1213",
   "country": "GRE",
+  "reference": "03420004LKD",
   "name": "PEGASUS",
   "rating": {
     "gph": 734.6,
@@ -197,6 +198,5 @@
       6.66,
       7.12
     ]
-  },
-  "reference": "03420004LKD"
+  }
 }

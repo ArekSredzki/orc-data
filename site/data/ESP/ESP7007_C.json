@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7007_C",
   "country": "ESP",
+  "reference": "03510004MWK",
   "name": "SORCERY",
   "rating": {
     "gph": 482.7,
@@ -197,6 +198,5 @@
       10.11,
       12.44
     ]
-  },
-  "reference": "03510004MWK"
+  }
 }

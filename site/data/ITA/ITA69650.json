@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA69650",
   "country": "ITA",
+  "reference": "03190004KT4",
   "name": "CAVALLO PAZZO 2",
   "rating": {
     "gph": 605.8,
@@ -197,6 +198,5 @@
       8.17,
       9.12
     ]
-  },
-  "reference": "03190004KT4"
+  }
 }

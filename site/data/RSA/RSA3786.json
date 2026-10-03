@@ -1,6 +1,7 @@
 {
   "sailnumber": "RSA/RSA3786",
   "country": "RSA",
+  "reference": "04620004876",
   "name": "ATURA",
   "rating": {
     "gph": 618.5,
@@ -197,6 +198,5 @@
       7.95,
       9.88
     ]
-  },
-  "reference": "04620004876"
+  }
 }

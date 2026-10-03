@@ -1,6 +1,7 @@
 {
   "sailnumber": "POL/POL0000PA",
   "country": "POL",
+  "reference": "04410004W35",
   "name": "SEADOG 2",
   "rating": {
     "gph": 610.9,
@@ -197,6 +198,5 @@
       8.33,
       9.07
     ]
-  },
-  "reference": "04410004W35"
+  }
 }

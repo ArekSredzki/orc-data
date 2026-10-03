@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER4298",
   "country": "GER",
+  "reference": "03520004OJP",
   "name": "LUTHEXIA",
   "rating": {
     "gph": 628.1,
@@ -197,6 +198,5 @@
       7.87,
       8.53
     ]
-  },
-  "reference": "03520004OJP"
+  }
 }

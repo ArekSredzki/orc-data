@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA317",
   "country": "ITA",
+  "reference": "03190004K60",
   "name": "ZACHETE",
   "rating": {
     "gph": 607.3,
@@ -197,6 +198,5 @@
       10.23,
       13.32
     ]
-  },
-  "reference": "03190004K60"
+  }
 }

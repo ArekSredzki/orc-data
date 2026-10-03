@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3382_C",
   "country": "ESP",
+  "reference": "03510004KVB",
   "name": "CLIC",
   "rating": {
     "gph": 624.4,
@@ -197,6 +198,5 @@
       7.68,
       8.3
     ]
-  },
-  "reference": "03510004KVB"
+  }
 }

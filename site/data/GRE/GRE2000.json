@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2000",
   "country": "GRE",
+  "reference": "03420004IUI",
   "name": "FOXTROT",
   "rating": {
     "gph": 701.5,
@@ -197,6 +198,5 @@
       7.29,
       7.83
     ]
-  },
-  "reference": "03420004IUI"
+  }
 }

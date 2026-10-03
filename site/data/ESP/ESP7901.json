@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP7901",
   "country": "ESP",
+  "reference": "03510004LEL",
   "name": "GOBIT",
   "rating": {
     "gph": 621.9,
@@ -197,6 +198,5 @@
       8.11,
       8.92
     ]
-  },
-  "reference": "03510004LEL"
+  }
 }

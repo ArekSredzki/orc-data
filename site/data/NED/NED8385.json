@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8385",
   "country": "NED",
+  "reference": "04310004K15",
   "name": "PH III",
   "rating": {
     "gph": 495.3,
@@ -197,6 +198,5 @@
       9.83,
       10.52
     ]
-  },
-  "reference": "04310004K15"
+  }
 }

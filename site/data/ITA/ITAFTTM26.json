@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITAFTTM26",
   "country": "ITA",
+  "reference": "03190004QO8",
   "name": "FIRST TIME 10500",
   "rating": {
     "gph": 662.8,
@@ -197,6 +198,5 @@
       7.58,
       8.36
     ]
-  },
-  "reference": "03190004QO8"
+  }
 }

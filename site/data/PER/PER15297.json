@@ -1,6 +1,7 @@
 {
   "sailnumber": "PER/PER15297",
   "country": "PER",
+  "reference": "03460004VV1",
   "name": "TARJIL",
   "rating": {
     "gph": 603.7,
@@ -197,6 +198,5 @@
       8.0,
       8.81
     ]
-  },
-  "reference": "03460004VV1"
+  }
 }

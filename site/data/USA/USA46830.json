@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA46830",
   "country": "USA",
+  "reference": "04560004K8I",
   "name": "SUPER FLY",
   "rating": {
     "gph": 577.8,
@@ -197,6 +198,5 @@
       11.81,
       14.74
     ]
-  },
-  "reference": "04560004K8I"
+  }
 }

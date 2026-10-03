@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA43604",
   "country": "FRA",
+  "reference": "04330004NV3",
   "name": "FLEO",
   "rating": {
     "gph": 639.9,
@@ -197,6 +198,5 @@
       8.01,
       9.07
     ]
-  },
-  "reference": "04330004NV3"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA24489",
   "country": "FRA",
+  "reference": "04330004HNH",
   "name": "DARE DARE",
   "rating": {
     "gph": 631.7,
@@ -197,6 +198,5 @@
       8.01,
       9.58
     ]
-  },
-  "reference": "04330004HNH"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "SUI/SUI2171",
   "country": "SUI",
+  "reference": "03080004POU",
   "name": "ESMERALDA",
   "rating": {
     "gph": 782.5,
@@ -197,6 +198,5 @@
       6.14,
       6.69
     ]
-  },
-  "reference": "03080004POU"
+  }
 }

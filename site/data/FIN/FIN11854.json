@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11854",
   "country": "FIN",
+  "reference": "04140004L27",
   "name": "Earl Grey",
   "rating": {
     "gph": 586.1,
@@ -197,6 +198,5 @@
       9.53,
       12.34
     ]
-  },
-  "reference": "04140004L27"
+  }
 }

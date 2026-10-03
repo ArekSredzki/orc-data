@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP11375_C",
   "country": "ESP",
+  "reference": "03510004ETS",
   "name": "ANMARIE BLANCHE",
   "rating": {
     "gph": 600.6,
@@ -197,6 +198,5 @@
       8.29,
       9.04
     ]
-  },
-  "reference": "03510004ETS"
+  }
 }

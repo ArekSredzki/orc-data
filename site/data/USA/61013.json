@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/61013",
   "country": "USA",
+  "reference": "04560004MB0",
   "name": "JAVELIN",
   "rating": {
     "gph": 617.9,
@@ -197,6 +198,5 @@
       7.56,
       8.95
     ]
-  },
-  "reference": "04560004MB0"
+  }
 }

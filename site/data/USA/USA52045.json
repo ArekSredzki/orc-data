@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA52045",
   "country": "USA",
+  "reference": "04560004QV6",
   "name": "CYBELE",
   "rating": {
     "gph": 540.1,
@@ -197,6 +198,5 @@
       8.58,
       9.79
     ]
-  },
-  "reference": "04560004QV6"
+  }
 }

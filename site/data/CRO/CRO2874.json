@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2874",
   "country": "CRO",
+  "reference": "03620004W9B",
   "name": "Sophie Emilie",
   "rating": {
     "gph": 501.0,
@@ -197,6 +198,5 @@
       9.65,
       11.18
     ]
-  },
-  "reference": "03620004W9B"
+  }
 }

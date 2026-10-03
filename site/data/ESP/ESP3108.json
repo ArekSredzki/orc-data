@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3108",
   "country": "ESP",
+  "reference": "03510004F3H",
   "name": "ADAGI 3108",
   "rating": {
     "gph": 681.1,
@@ -197,6 +198,5 @@
       7.4,
       8.14
     ]
-  },
-  "reference": "03510004F3H"
+  }
 }

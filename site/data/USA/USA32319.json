@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA32319",
   "country": "USA",
+  "reference": "04560004UJP",
   "name": "PERSPICACITY",
   "rating": {
     "gph": 665.6,
@@ -197,6 +198,5 @@
       7.59,
       8.54
     ]
-  },
-  "reference": "04560004UJP"
+  }
 }

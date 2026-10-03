@@ -1,6 +1,7 @@
 {
   "sailnumber": "CAN/CAN30017",
   "country": "CAN",
+  "reference": "03430004WPL",
   "name": "Little Big Man",
   "rating": {
     "gph": 565.1,
@@ -197,6 +198,5 @@
       11.26,
       14.47
     ]
-  },
-  "reference": "03430004WPL"
+  }
 }

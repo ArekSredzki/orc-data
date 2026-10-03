@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE1014",
   "country": "GRE",
+  "reference": "03420004PTQ",
   "name": "GALINI",
   "rating": {
     "gph": 706.2,
@@ -197,6 +198,5 @@
       7.42,
       7.99
     ]
-  },
-  "reference": "03420004PTQ"
+  }
 }

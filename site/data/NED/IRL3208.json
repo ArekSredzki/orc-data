@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/IRL3208",
   "country": "NED",
+  "reference": "04310004JS8",
   "name": "Blizzard of UZ",
   "rating": {
     "gph": 629.0,
@@ -197,6 +198,5 @@
       8.07,
       9.28
     ]
-  },
-  "reference": "04310004JS8"
+  }
 }

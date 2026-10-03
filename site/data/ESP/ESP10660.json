@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10660",
   "country": "ESP",
+  "reference": "03510004HFL",
   "name": "FLOC PRO",
   "rating": {
     "gph": 601.7,
@@ -197,6 +198,5 @@
       8.29,
       9.08
     ]
-  },
-  "reference": "03510004HFL"
+  }
 }

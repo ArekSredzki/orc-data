@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP6780_C",
   "country": "ESP",
+  "reference": "03510004V96",
   "name": "ANTARES",
   "rating": {
     "gph": 649.4,
@@ -197,6 +198,5 @@
       7.73,
       8.42
     ]
-  },
-  "reference": "03510004V96"
+  }
 }

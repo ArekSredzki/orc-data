@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED8432",
   "country": "NED",
+  "reference": "04310004K19",
   "name": "Flevomare 01",
   "rating": {
     "gph": 685.9,
@@ -197,6 +198,5 @@
       8.42,
       11.58
     ]
-  },
-  "reference": "04310004K19"
+  }
 }

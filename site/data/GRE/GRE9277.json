@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE9277",
   "country": "GRE",
+  "reference": "03420004TAT",
   "name": "SE GLA UT",
   "rating": {
     "gph": 678.4,
@@ -197,6 +198,5 @@
       7.25,
       7.83
     ]
-  },
-  "reference": "03420004TAT"
+  }
 }

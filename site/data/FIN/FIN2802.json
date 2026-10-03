@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN2802",
   "country": "FIN",
+  "reference": "04140004C43",
   "name": "XENIA",
   "rating": {
     "gph": 690.1,
@@ -197,6 +198,5 @@
       7.28,
       8.0
     ]
-  },
-  "reference": "04140004C43"
+  }
 }

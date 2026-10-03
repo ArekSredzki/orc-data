@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN244",
   "country": "FIN",
+  "reference": "04140004S6Q",
   "name": "Ondine",
   "rating": {
     "gph": 696.5,
@@ -197,6 +198,5 @@
       7.3,
       7.96
     ]
-  },
-  "reference": "04140004S6Q"
+  }
 }

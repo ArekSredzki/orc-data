@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/GRE2156",
   "country": "GRE",
+  "reference": "03420004PTJ",
   "name": "ALIKI",
   "rating": {
     "gph": 638.9,
@@ -197,6 +198,5 @@
       7.52,
       8.07
     ]
-  },
-  "reference": "03420004PTJ"
+  }
 }

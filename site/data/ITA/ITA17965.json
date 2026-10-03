@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17965",
   "country": "ITA",
+  "reference": "03190004P19",
   "name": "MORGANA",
   "rating": {
     "gph": 636.1,
@@ -197,6 +198,5 @@
       7.38,
       7.98
     ]
-  },
-  "reference": "03190004P19"
+  }
 }

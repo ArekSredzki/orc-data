@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GBR1322",
   "country": "ITA",
+  "reference": "03190004N8F",
   "name": "JOY",
   "rating": {
     "gph": 573.1,
@@ -197,6 +198,5 @@
       8.21,
       9.51
     ]
-  },
-  "reference": "03190004N8F"
+  }
 }

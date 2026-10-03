@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA16951",
   "country": "ITA",
+  "reference": "03190004QCD",
   "name": "TIAMAT",
   "rating": {
     "gph": 620.8,
@@ -197,6 +198,5 @@
       7.78,
       8.39
     ]
-  },
-  "reference": "03190004QCD"
+  }
 }

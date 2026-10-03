@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER1375",
   "country": "GER",
+  "reference": "04150004N76",
   "name": "AQUIS GRANUS IV",
   "rating": {
     "gph": 485.2,
@@ -197,6 +198,5 @@
       10.2,
       12.56
     ]
-  },
-  "reference": "04150004N76"
+  }
 }

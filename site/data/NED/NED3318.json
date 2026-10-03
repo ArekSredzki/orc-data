@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED3318",
   "country": "NED",
+  "reference": "04310004JTT",
   "name": "Xplorer",
   "rating": {
     "gph": 614.0,
@@ -197,6 +198,5 @@
       7.72,
       9.46
     ]
-  },
-  "reference": "04310004JTT"
+  }
 }

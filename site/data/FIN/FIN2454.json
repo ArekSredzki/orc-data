@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN2454",
   "country": "FIN",
+  "reference": "04140004UUR",
   "name": "Dagmar",
   "rating": {
     "gph": 668.9,
@@ -197,6 +198,5 @@
       7.39,
       8.11
     ]
-  },
-  "reference": "04140004UUR"
+  }
 }

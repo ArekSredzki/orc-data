@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA84949",
   "country": "USA",
+  "reference": "04560004R8I",
   "name": "DIGGER",
   "rating": {
     "gph": 556.9,
@@ -197,6 +198,5 @@
       8.31,
       9.03
     ]
-  },
-  "reference": "04560004R8I"
+  }
 }

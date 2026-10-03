@@ -1,6 +1,7 @@
 {
   "sailnumber": "BRA/BRA2754",
   "country": "BRA",
+  "reference": "0442000489H",
   "name": "Zeus Team",
   "rating": {
     "gph": 572.8,
@@ -197,6 +198,5 @@
       10.81,
       14.1
     ]
-  },
-  "reference": "0442000489H"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7161",
   "country": "GER",
+  "reference": "04150004M0H",
   "name": "KIEK AN",
   "rating": {
     "gph": 735.1,
@@ -197,6 +198,5 @@
       6.87,
       7.43
     ]
-  },
-  "reference": "04150004M0H"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED9926",
   "country": "NED",
+  "reference": "04310004UR8",
   "name": "Blue Zone",
   "rating": {
     "gph": 595.7,
@@ -197,6 +198,5 @@
       7.98,
       8.61
     ]
-  },
-  "reference": "04310004UR8"
+  }
 }

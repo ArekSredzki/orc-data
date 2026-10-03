@@ -1,6 +1,7 @@
 {
   "sailnumber": "LTU/LTU3111",
   "country": "LTU",
+  "reference": "03590004VVI",
   "name": "DIA",
   "rating": {
     "gph": 591.3,
@@ -197,6 +198,5 @@
       8.5,
       10.72
     ]
-  },
-  "reference": "03590004VVI"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR179",
   "country": "NOR",
+  "reference": "03440004RVC",
   "name": "Vill Vakker  Vat",
   "rating": {
     "gph": 606.3,
@@ -197,6 +198,5 @@
       10.19,
       12.98
     ]
-  },
-  "reference": "03440004RVC"
+  }
 }

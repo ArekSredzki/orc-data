@@ -1,6 +1,7 @@
 {
   "sailnumber": "CRO/CRO2314",
   "country": "CRO",
+  "reference": "03620004MCH",
   "name": "Yasmin",
   "rating": {
     "gph": 569.9,
@@ -197,6 +198,5 @@
       8.78,
       9.62
     ]
-  },
-  "reference": "03620004MCH"
+  }
 }

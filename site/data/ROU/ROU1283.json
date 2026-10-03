@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU1283",
   "country": "ROU",
+  "reference": "05040004QJQ",
   "name": "Baby One",
   "rating": {
     "gph": 682.9,
@@ -197,6 +198,5 @@
       7.39,
       7.96
     ]
-  },
-  "reference": "05040004QJQ"
+  }
 }

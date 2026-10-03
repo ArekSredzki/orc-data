@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/DEN205",
   "country": "NED",
+  "reference": "04310004JRS",
   "name": "BATANGA VII",
   "rating": {
     "gph": 601.1,
@@ -197,6 +198,5 @@
       8.2,
       8.99
     ]
-  },
-  "reference": "04310004JRS"
+  }
 }

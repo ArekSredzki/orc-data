@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10442",
   "country": "NOR",
+  "reference": "03440004NAO",
   "name": "Windmachine",
   "rating": {
     "gph": 575.9,
@@ -197,6 +198,5 @@
       8.47,
       9.21
     ]
-  },
-  "reference": "03440004NAO"
+  }
 }

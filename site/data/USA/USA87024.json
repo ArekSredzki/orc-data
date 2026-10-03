@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA87024",
   "country": "USA",
+  "reference": "04560004QC4",
   "name": "WHATTA RIDE",
   "rating": {
     "gph": 698.1,
@@ -197,6 +198,5 @@
       7.18,
       9.44
     ]
-  },
-  "reference": "04560004QC4"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "MLT/POL000TXR",
   "country": "MLT",
+  "reference": "03230004S4R",
   "name": "HOBART",
   "rating": {
     "gph": 588.5,
@@ -197,6 +198,5 @@
       8.63,
       9.53
     ]
-  },
-  "reference": "03230004S4R"
+  }
 }

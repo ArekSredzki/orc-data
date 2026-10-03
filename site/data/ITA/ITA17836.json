@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17836",
   "country": "ITA",
+  "reference": "03190004B5I",
   "name": "ARIAAMARA",
   "rating": {
     "gph": 653.1,
@@ -197,6 +198,5 @@
       7.24,
       7.86
     ]
-  },
-  "reference": "03190004B5I"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA13342",
   "country": "ITA",
+  "reference": "03190004F3I",
   "name": "ESTELAR",
   "rating": {
     "gph": 642.7,
@@ -197,6 +198,5 @@
       7.73,
       8.63
     ]
-  },
-  "reference": "03190004F3I"
+  }
 }

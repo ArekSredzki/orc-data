@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP3045_C",
   "country": "ESP",
+  "reference": "03510004HRO",
   "name": "KAI",
   "rating": {
     "gph": 675.4,
@@ -197,6 +198,5 @@
       7.33,
       7.99
     ]
-  },
-  "reference": "03510004HRO"
+  }
 }

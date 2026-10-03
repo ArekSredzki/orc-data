@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18300",
   "country": "ITA",
+  "reference": "03190004R45",
   "name": "ARABA FENICE",
   "rating": {
     "gph": 633.3,
@@ -197,6 +198,5 @@
       7.74,
       8.34
     ]
-  },
-  "reference": "03190004R45"
+  }
 }

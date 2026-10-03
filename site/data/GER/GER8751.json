@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8751",
   "country": "GER",
+  "reference": "04150004WIF",
   "name": "BLACK ZERO",
   "rating": {
     "gph": 542.3,
@@ -197,6 +198,5 @@
       8.91,
       9.59
     ]
-  },
-  "reference": "04150004WIF"
+  }
 }

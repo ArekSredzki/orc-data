@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA43624",
   "country": "FRA",
+  "reference": "04330004FF7",
   "name": "IVANE",
   "rating": {
     "gph": 635.2,
@@ -197,6 +198,5 @@
       7.4,
       8.07
     ]
-  },
-  "reference": "04330004FF7"
+  }
 }

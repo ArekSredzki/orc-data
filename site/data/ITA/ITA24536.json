@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA24536",
   "country": "ITA",
+  "reference": "03190004MAC",
   "name": "CINQUANTA%",
   "rating": {
     "gph": 653.1,
@@ -197,6 +198,5 @@
       9.18,
       12.17
     ]
-  },
-  "reference": "03190004MAC"
+  }
 }

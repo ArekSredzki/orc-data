@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR9191",
   "country": "TUR",
+  "reference": "04590004NQB",
   "name": "LONE RAVER",
   "rating": {
     "gph": 559.5,
@@ -197,6 +198,5 @@
       8.45,
       9.41
     ]
-  },
-  "reference": "04590004NQB"
+  }
 }

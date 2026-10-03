@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR10615",
   "country": "NOR",
+  "reference": "03440004NAR",
   "name": "Stella",
   "rating": {
     "gph": 649.2,
@@ -197,6 +198,5 @@
       7.68,
       8.3
     ]
-  },
-  "reference": "03440004NAR"
+  }
 }

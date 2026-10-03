@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11923",
   "country": "FIN",
+  "reference": "04140004L23",
   "name": "Peakaboo",
   "rating": {
     "gph": 619.6,
@@ -197,6 +198,5 @@
       7.64,
       9.3
     ]
-  },
-  "reference": "04140004L23"
+  }
 }

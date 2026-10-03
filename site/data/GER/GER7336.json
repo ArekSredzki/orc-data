@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7336",
   "country": "GER",
+  "reference": "04150004KLA",
   "name": "SEA LOUNGE",
   "rating": {
     "gph": 601.6,
@@ -197,6 +198,5 @@
       8.33,
       9.09
     ]
-  },
-  "reference": "04150004KLA"
+  }
 }

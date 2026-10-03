@@ -1,6 +1,7 @@
 {
   "sailnumber": "ROU/ROU97",
   "country": "ROU",
+  "reference": "05040004WVV",
   "name": "Lady Diana",
   "rating": {
     "gph": 613.7,
@@ -197,6 +198,5 @@
       8.11,
       8.72
     ]
-  },
-  "reference": "05040004WVV"
+  }
 }

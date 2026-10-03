@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP8931_C",
   "country": "ESP",
+  "reference": "03510004H40",
   "name": "ALCOR TRES",
   "rating": {
     "gph": 650.0,
@@ -197,6 +198,5 @@
       7.23,
       7.81
     ]
-  },
-  "reference": "03510004H40"
+  }
 }

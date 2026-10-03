@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11625",
   "country": "FIN",
+  "reference": "04140004VQT",
   "name": "LOW",
   "rating": {
     "gph": 634.9,
@@ -197,6 +198,5 @@
       7.8,
       8.56
     ]
-  },
-  "reference": "04140004VQT"
+  }
 }

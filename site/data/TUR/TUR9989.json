@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR9989",
   "country": "TUR",
+  "reference": "0459000485S",
   "name": "CHEESE VI",
   "rating": {
     "gph": 593.1,
@@ -197,6 +198,5 @@
       8.14,
       10.34
     ]
-  },
-  "reference": "0459000485S"
+  }
 }

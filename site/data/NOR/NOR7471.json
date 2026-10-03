@@ -1,6 +1,7 @@
 {
   "sailnumber": "NOR/NOR7471",
   "country": "NOR",
+  "reference": "03440004RB5",
   "name": "Norte",
   "rating": {
     "gph": 673.7,
@@ -197,6 +198,5 @@
       7.49,
       8.19
     ]
-  },
-  "reference": "03440004RB5"
+  }
 }

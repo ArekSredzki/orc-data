@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA4240",
   "country": "USA",
+  "reference": "04560004P9W",
   "name": "FREE BOWL OF SOUP",
   "rating": {
     "gph": 531.5,
@@ -197,6 +198,5 @@
       9.19,
       11.42
     ]
-  },
-  "reference": "04560004P9W"
+  }
 }

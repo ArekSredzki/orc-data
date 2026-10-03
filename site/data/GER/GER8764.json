@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER8764",
   "country": "GER",
+  "reference": "03520004TCC",
   "name": "PUFFIN",
   "rating": {
     "gph": 596.0,
@@ -197,6 +198,5 @@
       8.02,
       8.69
     ]
-  },
-  "reference": "03520004TCC"
+  }
 }

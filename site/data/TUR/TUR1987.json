@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR1987",
   "country": "TUR",
+  "reference": "04590004WQQ",
   "name": "FALCON",
   "rating": {
     "gph": 630.4,
@@ -197,6 +198,5 @@
       7.4,
       8.07
     ]
-  },
-  "reference": "04590004WQQ"
+  }
 }

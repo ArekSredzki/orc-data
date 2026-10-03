@@ -1,6 +1,7 @@
 {
   "sailnumber": "GRE/FRA222",
   "country": "GRE",
+  "reference": "03420004QQ9",
   "name": "KALLISTI",
   "rating": {
     "gph": 626.4,
@@ -197,6 +198,5 @@
       11.06,
       14.28
     ]
-  },
-  "reference": "03420004QQ9"
+  }
 }

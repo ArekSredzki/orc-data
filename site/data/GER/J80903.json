@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/J80903",
   "country": "GER",
+  "reference": "03520004SI9",
   "name": "BIRTE",
   "rating": {
     "gph": 663.2,
@@ -197,6 +198,5 @@
       8.78,
       11.87
     ]
-  },
-  "reference": "03520004SI9"
+  }
 }

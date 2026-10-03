@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA35187",
   "country": "FRA",
+  "reference": "04330004JB9",
   "name": "JACKALS",
   "rating": {
     "gph": 639.0,
@@ -197,6 +198,5 @@
       7.48,
       9.58
     ]
-  },
-  "reference": "04330004JB9"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA18047",
   "country": "ITA",
+  "reference": "03190004HAQ",
   "name": "SEVEN",
   "rating": {
     "gph": 566.1,
@@ -197,6 +198,5 @@
       8.71,
       9.48
     ]
-  },
-  "reference": "03190004HAQ"
+  }
 }

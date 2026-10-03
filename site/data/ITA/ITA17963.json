@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17963",
   "country": "ITA",
+  "reference": "03190004L1B",
   "name": "BOSSANOVA",
   "rating": {
     "gph": 692.9,
@@ -197,6 +198,5 @@
       7.18,
       8.58
     ]
-  },
-  "reference": "03190004L1B"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ISR/ISR700",
   "country": "ISR",
+  "reference": "0439000483O",
   "name": "ARGO HERZLIYA",
   "rating": {
     "gph": 757.6,
@@ -197,6 +198,5 @@
       6.84,
       7.69
     ]
-  },
-  "reference": "0439000483O"
+  }
 }

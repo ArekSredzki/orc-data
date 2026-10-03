@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITASTR25",
   "country": "ITA",
+  "reference": "03190004K65",
   "name": "OSTRO",
   "rating": {
     "gph": 580.4,
@@ -197,6 +198,5 @@
       8.34,
       9.05
     ]
-  },
-  "reference": "03190004K65"
+  }
 }

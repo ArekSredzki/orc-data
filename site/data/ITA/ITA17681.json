@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17681",
   "country": "ITA",
+  "reference": "03190004K5U",
   "name": "VELABIANCA",
   "rating": {
     "gph": 677.7,
@@ -197,6 +198,5 @@
       7.03,
       7.58
     ]
-  },
-  "reference": "03190004K5U"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/GER6208",
   "country": "ITA",
+  "reference": "03190004K7P",
   "name": "PURE",
   "rating": {
     "gph": 567.3,
@@ -197,6 +198,5 @@
       8.45,
       9.82
     ]
-  },
-  "reference": "03190004K7P"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA14575",
   "country": "ITA",
+  "reference": "03190004C3E",
   "name": "CANOPUS",
   "rating": {
     "gph": 623.0,
@@ -197,6 +198,5 @@
       7.84,
       8.53
     ]
-  },
-  "reference": "03190004C3E"
+  }
 }

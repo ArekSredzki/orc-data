@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP9341",
   "country": "ESP",
+  "reference": "03510004VVM",
   "name": "JP FINANCIAL",
   "rating": {
     "gph": 643.0,
@@ -197,6 +198,5 @@
       7.74,
       8.42
     ]
-  },
-  "reference": "03510004VVM"
+  }
 }

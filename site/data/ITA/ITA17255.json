@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA17255",
   "country": "ITA",
+  "reference": "03190004S40",
   "name": "BLOWIN IN THE WIND",
   "rating": {
     "gph": 583.7,
@@ -197,6 +198,5 @@
       8.21,
       8.97
     ]
-  },
-  "reference": "03190004S40"
+  }
 }

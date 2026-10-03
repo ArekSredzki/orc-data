@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP10233_C",
   "country": "ESP",
+  "reference": "03510004B1M",
   "name": "ESCANDOL",
   "rating": {
     "gph": 588.8,
@@ -197,6 +198,5 @@
       8.22,
       8.91
     ]
-  },
-  "reference": "03510004B1M"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "GER/GER7267",
   "country": "GER",
+  "reference": "03520004Q5B",
   "name": "FIXATION",
   "rating": {
     "gph": 581.3,
@@ -197,6 +198,5 @@
       8.17,
       8.68
     ]
-  },
-  "reference": "03520004Q5B"
+  }
 }

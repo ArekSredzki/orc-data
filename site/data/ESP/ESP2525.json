@@ -1,6 +1,7 @@
 {
   "sailnumber": "ESP/ESP2525",
   "country": "ESP",
+  "reference": "0351000489P",
   "name": "NUBA II",
   "rating": {
     "gph": 570.0,
@@ -197,6 +198,5 @@
       8.59,
       9.66
     ]
-  },
-  "reference": "0351000489P"
+  }
 }

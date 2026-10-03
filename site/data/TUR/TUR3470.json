@@ -1,6 +1,7 @@
 {
   "sailnumber": "TUR/TUR3470",
   "country": "TUR",
+  "reference": "04590004ILA",
   "name": "ALIZE 34.7",
   "rating": {
     "gph": 632.2,
@@ -197,6 +198,5 @@
       7.86,
       8.69
     ]
-  },
-  "reference": "04590004ILA"
+  }
 }

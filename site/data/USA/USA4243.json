@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA4243",
   "country": "USA",
+  "reference": "04560004S1N",
   "name": "TIO LOCO",
   "rating": {
     "gph": 528.8,
@@ -197,6 +198,5 @@
       9.4,
       11.79
     ]
-  },
-  "reference": "04560004S1N"
+  }
 }

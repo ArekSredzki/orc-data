@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA9018",
   "country": "ITA",
+  "reference": "03190004HJT",
   "name": "SCORPIONE",
   "rating": {
     "gph": 632.7,
@@ -197,6 +198,5 @@
       7.67,
       8.44
     ]
-  },
-  "reference": "03190004HJT"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA487",
   "country": "USA",
+  "reference": "04560004VDK",
   "name": "MOA",
   "rating": {
     "gph": 614.7,
@@ -197,6 +198,5 @@
       7.96,
       10.01
     ]
-  },
-  "reference": "04560004VDK"
+  }
 }

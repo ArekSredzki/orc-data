@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/USA69",
   "country": "USA",
+  "reference": "04560004OK0",
   "name": "DAZZLE",
   "rating": {
     "gph": 607.1,
@@ -197,6 +198,5 @@
       8.1,
       10.65
     ]
-  },
-  "reference": "04560004OK0"
+  }
 }

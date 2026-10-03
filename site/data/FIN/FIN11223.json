@@ -1,6 +1,7 @@
 {
   "sailnumber": "FIN/FIN11223",
   "country": "FIN",
+  "reference": "04140004VEK",
   "name": "Ithaca",
   "rating": {
     "gph": 590.7,
@@ -197,6 +198,5 @@
       8.13,
       9.0
     ]
-  },
-  "reference": "04140004VEK"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA10972",
   "country": "ITA",
+  "reference": "03190004CBD",
   "name": "PIERROT",
   "rating": {
     "gph": 717.9,
@@ -197,6 +198,5 @@
       7.01,
       7.59
     ]
-  },
-  "reference": "03190004CBD"
+  }
 }

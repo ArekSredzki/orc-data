@@ -1,6 +1,7 @@
 {
   "sailnumber": "USA/HKG2300",
   "country": "USA",
+  "reference": "04560004SLV",
   "name": "FLIGHT RISK",
   "rating": {
     "gph": 494.5,
@@ -197,6 +198,5 @@
       11.9,
       15.21
     ]
-  },
-  "reference": "04560004SLV"
+  }
 }

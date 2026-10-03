@@ -1,6 +1,7 @@
 {
   "sailnumber": "FRA/FRA9766",
   "country": "FRA",
+  "reference": "04330004H29",
   "name": "DELOS",
   "rating": {
     "gph": 601.9,
@@ -197,6 +198,5 @@
       8.31,
       9.1
     ]
-  },
-  "reference": "04330004H29"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "ITA/ITA15946",
   "country": "ITA",
+  "reference": "03190004KLV",
   "name": "FAHRENHEIT",
   "rating": {
     "gph": 605.7,
@@ -197,6 +198,5 @@
       7.83,
       8.54
     ]
-  },
-  "reference": "03190004KLV"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/8998",
   "country": "AUS",
+  "reference": "03020004SQ1",
   "name": "Xcalibur",
   "rating": {
     "gph": 583.9,
@@ -197,6 +198,5 @@
       8.49,
       9.45
     ]
-  },
-  "reference": "03020004SQ1"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/111",
   "country": "AUS",
+  "reference": "03020004UB1",
   "name": "KODACHI",
   "rating": {
     "gph": 571.3,
@@ -197,6 +198,5 @@
       9.18,
       11.79
     ]
-  },
-  "reference": "03020004UB1"
+  }
 }

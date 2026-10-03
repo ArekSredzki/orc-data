@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED2450",
   "country": "NED",
+  "reference": "04310004K8U",
   "name": "Jeetje",
   "rating": {
     "gph": 730.3,
@@ -197,6 +198,5 @@
       6.87,
       7.83
     ]
-  },
-  "reference": "04310004K8U"
+  }
 }

@@ -1,6 +1,7 @@
 {
   "sailnumber": "NED/NED6654",
   "country": "NED",
+  "reference": "04310004JW0",
   "name": "XQUISE",
   "rating": {
     "gph": 640.9,
@@ -197,6 +198,5 @@
       7.7,
       8.35
     ]
-  },
-  "reference": "04310004JW0"
+  }
 }
