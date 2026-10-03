@@ -3,6 +3,7 @@ import { onMount } from 'svelte';
 
 import { randomBoat } from './api.js';
 import { DATA_YEAR } from './boat-meta.js';
+import { boatHref, comparisonHref } from './certificate-history.js';
 import Boat from './components/Boat.svelte';
 import BoatSelect from './components/BoatSelect.svelte';
 import Compare from './components/Compare.svelte';
@@ -14,10 +15,11 @@ import Table from './components/Table.svelte';
 export let route = 'extremes';
 export let sailnumber = null;
 
-// The boat the hash names, kept separately from `sailnumber` because that one is bound into
-// BoatSelect and svelecte empties it while its option list loads — which is why the navbar's
-// Compare link has always pointed at "#compare-" on a boat page.
+// Keep the URL selection separate from widget initialization; only explicit user
+// selections can replace a historical certificate URL with a latest-boat URL.
 let boatSailnumber = null;
+let boatReference = '';
+let printReference = '';
 
 // A route is custom if it starts with one of the route prefixes. Sail numbers always begin
 // with an uppercase country code, so none of these can collide with one.
@@ -28,12 +30,16 @@ function onhashchange() {
     const hash = window.location.hash;
     route = hash.length > 1 ? hash.substring(1) : 'extremes';
 
+    const [path, query] = route.split('?');
+    const params = new URLSearchParams(query);
+    boatReference = params.get('ref') || '';
+    printReference = boatReference;
     if (isCustomRoute(route)) {
         sailnumber = null;
         boatSailnumber = null;
     } else {
-        sailnumber = route;
-        boatSailnumber = route;
+        sailnumber = path;
+        boatSailnumber = path;
         route = 'boat';
     }
 }
@@ -44,10 +50,9 @@ onMount(() => {
     return () => window.removeEventListener('hashchange', onhashchange, false);
 });
 
-$: {
-    if (sailnumber && !isCustomRoute(sailnumber)) {
-        window.location.hash = sailnumber;
-    }
+function selectBoat(event) {
+    const selected = event.detail?.sailnumber;
+    if (selected) window.location.hash = boatHref(selected);
 }
 $: if (route == 'random') {
     window.location.hash = $randomBoat;
@@ -77,19 +82,20 @@ $: printSailnumber = route.startsWith('print-') ? route.substring('print-'.lengt
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 {#if !route.startsWith('compare')}
                     <li class="nav-item d-block-md">
-                        <BoatSelect bind:sailnumber />
+                        <BoatSelect {sailnumber} on:change={selectBoat} />
                     </li>
                 {/if}
                 {#if boatSailnumber}
                     <li class="nav-item">
-                        <a href="#print-{boatSailnumber}" class="nav-link print-link">Print polar</a>
+                        <a href={boatHref(boatSailnumber, boatReference, 'print-')} class="nav-link print-link"
+                            >Print polar</a>
                     </li>
                 {/if}
                 <li class="nav-item">
                     <a
                         href={route.startsWith('compare')
                             ? `#${route}`
-                            : `#compare-${boatSailnumber || sailnumber || ''}`}
+                            : comparisonHref([boatSailnumber || sailnumber || '', ''], [boatReference, ''])}
                         class="nav-link">Compare boats</a>
                 </li>
                 <li class="nav-item"><a href="#customplot" class="nav-link">Plot custom CSV</a></li>
@@ -113,7 +119,7 @@ $: printSailnumber = route.startsWith('print-') ? route.substring('print-'.lengt
     <Glossary />
 {:else if route.startsWith('print')}
     {#if printSailnumber}
-        <PrintView sailnumber={printSailnumber} />
+        <PrintView sailnumber={printSailnumber} reference={printReference} />
     {:else}
         <div class="container p-4">
             <p>Open a boat and choose “Print polar” to make a printable sheet.</p>
@@ -125,7 +131,7 @@ $: printSailnumber = route.startsWith('print-') ? route.substring('print-'.lengt
 {:else if route.startsWith('type')}
     <Table q={decodeURIComponent(route.substring(5))} />
 {:else}
-    <Boat {sailnumber} />
+    <Boat sailnumber={boatSailnumber} reference={boatReference} />
 {/if}
 
 <style>

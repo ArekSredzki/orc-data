@@ -1,9 +1,10 @@
 import json
-import os
+from datetime import datetime, timezone
 from itertools import count
 from pathlib import Path
 
 from . import COUNTRIES
+from .history import Archive
 from .util import time_allowance2speed
 
 # for boats without a sailnumber, give them a unique number
@@ -132,7 +133,9 @@ def write_index():
         json.dump(index, outfile, separators=(",", ":"))
 
 
-def jsonwriter_site(rmsdata):
+def jsonwriter_site(rmsdata, vpp_year=None):
+    rmsdata = list(rmsdata)
+    metadata = {record.get('RefNo'): record.get('Family') for record in rmsdata if record.get('RefNo')}
     data = map(format_data, rmsdata)
     # sort by name
     data = sorted(data, key=lambda x: x["name"])
@@ -143,10 +146,22 @@ def jsonwriter_site(rmsdata):
     for country in COUNTRIES:
         (SITE_PATH / f"data/{country}/").mkdir(parents=True, exist_ok=True)
 
+    # Preserve both the previous on-disk certificate and every newly imported
+    # certificate before replacing latest files (including multiple records per sail).
+    archive = Archive(SITE_PATH / 'history')
+    observed = datetime.now(timezone.utc).isoformat()
+    for boat in data:
+        path = SITE_PATH / 'data' / (boat['sailnumber'] + '.json')
+        if path.exists():
+            archive.add(json.loads(path.read_text()), source='previous export')
+        archive.add(boat, observed_at=observed, source='ORC import', latest=True,
+                    vpp_year=vpp_year, family=metadata.get(boat.get('reference')))
+    archive.save()
+
     # Write data for each boat to json
     for boat in data:
         sailnumber = boat["sailnumber"]
-        with open(f"site/data/{sailnumber}.json", "w+") as outfile:
+        with (SITE_PATH / "data" / f"{sailnumber}.json").open("w+") as outfile:
             json.dump(boat, outfile, indent=2)
 
     # Rebuild the search index from all boats on disk (including this run's).

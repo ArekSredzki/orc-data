@@ -1,3 +1,4 @@
+import { boatCertificateLabel } from './certificate-history.js';
 import { float, int, round, vmg2sog, zeros } from './util.js';
 
 const CSV_PREAMBLE = 'twa/tws';
@@ -54,5 +55,7 @@ export function polarExport(data, extended) {
         });
     }
 
-    return ret.map((row) => row.join(CSV_SEPARATOR)).join('\n');
+    const csv = ret.map((row) => row.join(CSV_SEPARATOR)).join('\n');
+    const label = boatCertificateLabel(data);
+    return label ? `${csv}\n# Certificate: ${label.replace(/[\r\n]/g, ' ')}` : csv;
 }
