@@ -41,6 +41,7 @@ json:
 
 site:
 	./scoring.py site
+	python3 scripts/certificate-links.py
 
 clean:
 	rm $(BASE).*
