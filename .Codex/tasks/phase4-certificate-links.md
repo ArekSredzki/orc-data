@@ -1,7 +1,8 @@
-# Phase 4: Original ORC certificate links - IN_PROGRESS
+# Phase 4: Original ORC certificate links - DONE
 
-**Status**: IN_PROGRESS
+**Status**: DONE
 **Started**: 2026-10-02
+**Completed**: 2026-10-02
 
 ## Overview
 Link ORC references to original public certificates, provide related ORC resources, and deploy the refreshed certificates and UI.
@@ -11,7 +12,7 @@ Link ORC references to original public certificates, provide related ORC resourc
 |----|------|--------|
 | 4.1 | Map ORC references to published certificate page IDs | DONE |
 | 4.2 | Link references on boat and comparison pages | DONE |
-| 4.3 | Test, merge, deploy, and verify production | IN_PROGRESS |
+| 4.3 | Test, merge, deploy, and verify production | DONE |
 
 ## Implementation Details
 
@@ -29,8 +30,10 @@ Link ORC references to original public certificates, provide related ORC resourc
 - [x] Off Piste points to public certificate 264191.
 - [x] Boat and comparison references link to their respective certificates.
 - [x] Missing references, missing IDs, and failed requests are handled.
-- [ ] Unit tests, lint, production build, and browser verification pass.
-- [ ] Deployment verified on the public site.
+- [x] Unit tests, lint, production build, and browser verification pass.
+- [x] Deployment verified on the public site.
 
 ## Notes
 Sources: https://data.orc.org/active and its `public/activecerts.xsl` stylesheet; https://orc.org/sailors/sailor-services/speed-guides; https://orc.org/sailors/sailor-services.
+
+Deployment: `63e58f56057866b3372da1134d1884ee3527213f`, GitHub Pages, verified at https://arek.io/orc-data/site/index.html#CAN/CAN1995. All 80 JavaScript tests and six Python tests pass, as do ESLint and the production build. Playwright verified clicking the public Off Piste link and correct references for both comparison columns, locally and in production. The September remote update was superseded by the October refresh; its two remote-only historical records were preserved, bringing the searchable index to 19,511 boats. The link map contains 8,471 published reference-to-page mappings.
