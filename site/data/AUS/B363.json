@@ -1,6 +1,7 @@
 {
   "sailnumber": "AUS/B363",
   "country": "AUS",
+  "reference": "03020004VOU",
   "name": "WAZZA RED BOAT",
   "rating": {
     "gph": 622.3,
@@ -197,6 +198,5 @@
       8.27,
       10.25
     ]
-  },
-  "reference": "03020004VOU"
+  }
 }
