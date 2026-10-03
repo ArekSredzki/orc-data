@@ -1,5 +1,6 @@
 <script>
 import { DATA_YEAR, formatSailnumber, issueDate } from '../boat-meta.js';
+import { boatCertificateLabel } from '../certificate-history.js';
 import { COMPLETE_SHEET, polarCard, polarSheet, PRINT_SHEET } from '../polar-rows.js';
 
 export let boat;
@@ -88,6 +89,7 @@ $: downwindSail =
                 <div class="identity">
                     <div class="name">{boat.name || 'Name unknown'}</div>
                     <div class="sail">{formatSailnumber(boat.sailnumber)}</div>
+                    {#if boatCertificateLabel(boat)}<div class="certificate">{boatCertificateLabel(boat)}</div>{/if}
                 </div>
             {/if}
             {#if details}
@@ -218,7 +220,8 @@ $: downwindSail =
                 {#if issued}
                     ORC certificate issued {issued}
                 {:else}
-                    ORC {DATA_YEAR} data set — certificate date not published
+                    {boat.certificate ? 'ORC snapshot · issue date unknown' : `ORC ${DATA_YEAR} data set`} — certificate
+                    date not published
                 {/if}
                 · orc.org
             </div>
@@ -227,6 +230,11 @@ $: downwindSail =
 </div>
 
 <style>
+.certificate {
+    font-size: 0.5em;
+    font-weight: 400;
+    line-height: 1.3;
+}
 /* Helvetica and its metric clones, deliberately not system-ui: SF Pro and Segoe UI
    Variable default to proportional figures, and a grid of sixty numbers loses its
    alignment if the tabular feature is dropped anywhere in the print path. These faces

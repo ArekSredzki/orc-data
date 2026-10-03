@@ -1,5 +1,6 @@
 import { derived, writable } from 'svelte/store';
 
+import { getHistory, getVersion, withCertificate } from './history-api.js';
 import { getRandomElement } from './util.js';
 
 export const index = writable([]);
@@ -20,21 +21,37 @@ export const randomBoat = derived(index, (_index) => {
 
 let cache = {};
 
-export function getBoat(sailnumber) {
-    if (sailnumber in cache) {
-        return new Promise((resolve) => resolve(cache[sailnumber]));
+export async function getBoat(sailnumber, reference = '') {
+    if (reference) return getVersion(sailnumber, reference);
+    if (!cache[sailnumber]) {
+        cache[sailnumber] = fetch(`data/${sailnumber}.json`)
+            .then((response) => {
+                if (!response.ok) throw new Error(`No certificate for ${sailnumber} (${response.status})`);
+                return response.json();
+            })
+            .catch((error) => {
+                delete cache[sailnumber];
+                throw error;
+            });
     }
-    // A static host answers an unknown sail number with an HTML 404 page, which parses as
-    // neither JSON nor a boat. Rejecting here rather than caching the rejection matters for
-    // links people keep: #print-… URLs get mailed around and outlive a yearly data refresh,
-    // and a cached rejection would keep the page blank for the life of the tab.
-    return fetch(`data/${sailnumber}.json`).then((response) => {
-        if (!response.ok) {
-            throw new Error(`No certificate for ${sailnumber} (${response.status})`);
-        }
-        cache[sailnumber] = response.json();
-        return cache[sailnumber];
-    });
+    const boat = await cache[sailnumber];
+    try {
+        const history = await getHistory(sailnumber);
+        const entry = history.versions.find((entry) => entry.id === history.latest);
+        // Do not label stale cached latest data with another certificate's identity.
+        const matches =
+            entry &&
+            entry.reference === (boat.reference || null) &&
+            entry.boat.sailnumber === boat.sailnumber &&
+            entry.boat.rating.gph === boat.rating.gph &&
+            entry.boat.rating.osn === boat.rating.osn &&
+            Object.entries(boat.vpp).every(
+                ([key, values]) => JSON.stringify(values) === JSON.stringify(entry.boat.vpp[key]),
+            );
+        return matches ? withCertificate(boat, entry) : boat;
+    } catch {
+        return boat; // History availability must not prevent viewing the latest export.
+    }
 }
 
 export function getExtremes() {

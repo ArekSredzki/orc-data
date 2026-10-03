@@ -4,6 +4,7 @@ import { onMount } from 'svelte';
 import PolarCard from './PolarCard.svelte';
 import { getBoat } from '../api.js';
 import { boatSubject, pageTitle } from '../boat-meta.js';
+import { boatHref } from '../certificate-history.js';
 import {
     cardFontSizePt,
     COMPLETE_SHEET,
@@ -30,6 +31,8 @@ import {
 // One-way from the router. Binding it would let App's own reactive statement rewrite the
 // hash to the bare sail number and bounce the reader off this page.
 export let sailnumber = null;
+export let reference = '';
+let requestId = 0;
 
 const STORAGE_KEY = 'orc-print-options';
 const MM_PER_PX = 25.4 / 96;
@@ -107,7 +110,7 @@ function optionsFromHash() {
 
 // replaceState rather than assigning location.hash: the options are not history entries,
 // and rewriting the hash would re-run the router for a route that has not changed.
-function persist(options, perSheet) {
+function persist(options, perSheet, reference) {
     if (!ready || !sailnumber) {
         return;
     }
@@ -126,6 +129,7 @@ function persist(options, perSheet) {
         notes: options.notes ? '1' : '0',
         colour: options.colour,
     });
+    if (reference) params.set('ref', reference);
     window.history.replaceState(null, '', `#print-${sailnumber}?${params}`);
     try {
         localStorage.setItem(STORAGE_KEY, JSON.stringify(options));
@@ -134,21 +138,23 @@ function persist(options, perSheet) {
     }
 }
 
-async function load(sailnumber) {
-    loadedFor = sailnumber;
+async function load(sailnumber, reference) {
+    const request = ++requestId;
+    loadedFor = `${sailnumber}|${reference}`;
     error = null;
+    boat = null;
     try {
-        boat = await getBoat(sailnumber);
+        const loaded = await getBoat(sailnumber, reference);
+        if (request === requestId) boat = loaded;
     } catch {
-        boat = null;
-        error = sailnumber;
+        if (request === requestId) error = sailnumber;
     }
 }
 
-$: if (sailnumber && sailnumber !== loadedFor) {
-    load(sailnumber);
+$: if (sailnumber && `${sailnumber}|${reference}` !== loadedFor) {
+    load(sailnumber, reference);
 }
-$: persist(options, perSheet);
+$: persist(options, perSheet, reference);
 
 // The row model is built here as well as inside the card because the type size has to be
 // known before the card renders — it depends on how many wind speeds this particular
@@ -259,7 +265,7 @@ $: previewHeight = (page.h / MM_PER_PX) * zoom;
 {:else if boat}
     <div class="print-page">
         <div class="toolbar d-print-none">
-            <a class="back" href="#{boat.sailnumber}">← {boat.name || boat.sailnumber}</a>
+            <a class="back" href={boatHref(boat.sailnumber, reference)}>← {boat.name || boat.sailnumber}</a>
 
             <fieldset>
                 <legend>Layout</legend>

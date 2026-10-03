@@ -27,6 +27,6 @@ if __name__ == "__main__":
         jsonwriter_list(rms)
 
     elif sys.argv[1] == "site":
-        jsonwriter_site(rms)
+        jsonwriter_site(rms, vpp_year=YEAR)
         jsonwriter_extremes()
         log("Exported for website: site/index.json, site/extremes.json and site/data/*.json")

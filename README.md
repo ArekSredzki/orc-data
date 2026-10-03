@@ -120,3 +120,40 @@ for `<twa>`:  [52, 60, 75, 90, 110, 120, 135, 150]
   `npm run build` to see source changes)
 - `npm test` to run the unit tests
 - `npm run build` before committing the build files.
+## Certificate history
+
+Boat pages offer saved certificate versions and a **Compare with previous certificate**
+link. Each comparison side has an independent version selector. URLs with `?ref=...`
+(boat/print) or `?refA=...&refB=...` (comparison) retain specific versions. Printouts
+and CSV comments identify the selected certificate.
+
+`make site` archives the previous and incoming certificates before replacing the
+latest boat files. History bundles live in `site/history/`, named using the UTF-8 hex
+encoding of the recorded sail number so case-sensitive identities also work on macOS.
+They retain source metadata and aliases for snapshots later enriched with references.
+A conflicting payload for an existing certificate reference stops the import.
+
+To backfill snapshots already captured in the local Git history (full checkout required):
+
+```sh
+python3 scripts/backfill-history.py --source-dir data/2026
+# Or recover/check a single boat:
+python3 scripts/backfill-history.py --boat CAN/CAN1995 --source-dir data/2026
+```
+
+The source directory is optional; it supplies known VPP year/family metadata for
+matching references. Backfill is rerunnable and preserves previous archives. History
+is incomplete: it contains saved snapshots, not every certificate issued by ORC.
+Commit dates are observation dates, not issue dates. Generated anonymous sail numbers
+are excluded; other histories are grouped by their recorded sail number, which can
+change or be reassigned. Old archived sail numbers are not added to the latest search
+catalog. The original ORC page link is shown only when its published page ID is known.
+
+Additional validation: `python3 -m unittest discover -s parser -t .` and
+`python3 -m unittest discover -s scripts -p 'test_*.py'`.
+
+For browser regression checks, import `checkHistory` from
+`scripts/check-history-browser.mjs` into an isolated Playwright runner and call
+`await checkHistory(page, baseURL)`. It exercises Off Piste's August/October
+versions, comparison deltas, back/reload, mobile layout, print options, and missing
+versions against either a local static server or the deployed site.

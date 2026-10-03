@@ -2,6 +2,7 @@
 import { onMount } from 'svelte';
 
 import BoatSelect from './BoatSelect.svelte';
+import CertificateSelect from './CertificateSelect.svelte';
 import Help from './Help.svelte';
 import LineLegend from './LineLegend.svelte';
 import OrcReference from './OrcReference.svelte';
@@ -9,22 +10,36 @@ import PolarPlot from './PolarPlot.svelte';
 import Sailnumber from './Sailnumber.svelte';
 import { getBoat } from '../api.js';
 import { pageTitle } from '../boat-meta.js';
+import {
+    boatHref,
+    comparisonHref,
+    readComparison,
+    boatCertificateLabel,
+    numericDelta,
+} from '../certificate-history.js';
 import { round } from '../util.js';
 
 let sailnumberA = undefined;
 let sailnumberB = undefined;
 let boatA = undefined;
 let boatB = undefined;
+let referenceA = '';
+let referenceB = '';
+let errorA;
+let errorB;
+let requestA = 0;
+let requestB = 0;
 
 const PREFIX = 'compare-';
-const SEPARATOR = '|';
 
 // The URL owns the selection. Select widgets may clear their internal values while
 // options load; only an explicit user change should write a new history entry.
 function readUrl() {
     const hash = window.location.hash.substring(1);
     if (hash === 'compare' || hash.startsWith(PREFIX)) {
-        [sailnumberA, sailnumberB] = hash.substring(PREFIX.length).split(SEPARATOR);
+        const selection = readComparison(hash);
+        [sailnumberA, sailnumberB] = selection.boats;
+        [referenceA, referenceB] = selection.references;
     }
 }
 
@@ -36,26 +51,52 @@ onMount(() => {
 
 function selectBoat(side, event) {
     const selected = [sailnumberA || '', sailnumberB || ''];
+    const references = [referenceA, referenceB];
     selected[side] = event.detail?.sailnumber || '';
-    window.location.hash = `${PREFIX}${selected.join(SEPARATOR)}`;
+    references[side] = '';
+    window.location.hash = comparisonHref(selected, references);
     readUrl();
 }
 
-async function loadBoatA(sailnumber) {
-    boatA = undefined;
-    if (!sailnumber) return;
-    const loaded = await getBoat(sailnumber);
-    if (sailnumberA === sailnumber) boatA = loaded;
-}
-async function loadBoatB(sailnumber) {
-    boatB = undefined;
-    if (!sailnumber) return;
-    const loaded = await getBoat(sailnumber);
-    if (sailnumberB === sailnumber) boatB = loaded;
+function selectVersion(side, reference) {
+    const references = [referenceA, referenceB];
+    references[side] = reference;
+    window.location.hash = comparisonHref([sailnumberA, sailnumberB], references);
+    readUrl();
 }
 
-$: loadBoatA(sailnumberA);
-$: loadBoatB(sailnumberB);
+async function loadBoatA(sailnumber, reference) {
+    const request = ++requestA;
+    boatA = undefined;
+    errorA = null;
+    if (!sailnumber) return;
+    try {
+        const loaded = await getBoat(sailnumber, reference);
+        if (request === requestA) boatA = loaded;
+    } catch {
+        if (request === requestA) errorA = 'Certificate A could not be loaded. Choose another version.';
+    }
+}
+async function loadBoatB(sailnumber, reference) {
+    const request = ++requestB;
+    boatB = undefined;
+    errorB = null;
+    if (!sailnumber) return;
+    try {
+        const loaded = await getBoat(sailnumber, reference);
+        if (request === requestB) boatB = loaded;
+    } catch {
+        if (request === requestB) errorB = 'Certificate B could not be loaded. Choose another version.';
+    }
+}
+
+$: loadBoatA(sailnumberA, referenceA);
+$: loadBoatB(sailnumberB, referenceB);
+$: differentGrids =
+    boatA &&
+    boatB &&
+    (JSON.stringify(boatA.vpp.speeds) !== JSON.stringify(boatB.vpp.speeds) ||
+        JSON.stringify(boatA.vpp.angles) !== JSON.stringify(boatB.vpp.angles));
 
 function topSpeed(boat) {
     if (!boat) {
@@ -69,6 +110,8 @@ function topSpeed(boat) {
 // suffix. Values are read through accessors so a missing boat is simply undefined.
 const rows = [
     { label: 'ORC reference', reference: true, value: (boat) => boat?.reference },
+    { label: 'VPP year', value: (boat) => (boat ? boat.certificate?.vpp_year || 'Unknown' : null) },
+    { label: 'Certificate family', value: (boat) => (boat ? boat.certificate?.family || 'Unknown' : null) },
     { label: 'Name', value: (boat) => boat?.name },
     { label: 'Type', value: (boat) => boat?.boat.type },
     { label: 'Year', value: (boat) => boat?.boat.year },
@@ -100,7 +143,9 @@ const rows = [
 // Hide a row neither boat can fill. Boats whose certificate predates a field are still in
 // the database, and a labelled row with two empty cells tells the reader nothing about why
 // it is empty.
-$: visibleRows = rows.filter((row) => row.separator || [boatA, boatB].some((boat) => row.value(boat)));
+$: visibleRows = rows.filter(
+    (row) => row.separator || [boatA, boatB].some((boat) => row.value(boat) != null && row.value(boat) !== ''),
+);
 </script>
 
 <svelte:head>
@@ -108,47 +153,69 @@ $: visibleRows = rows.filter((row) => row.separator || [boatA, boatB].some((boat
 </svelte:head>
 
 <div class="container-fluid">
-    <div class="row p-2 row-cols-2">
+    <div class="row p-2 row-cols-1 row-cols-md-2">
         <div class="col">
             <BoatSelect sailnumber={sailnumberA} on:change={(event) => selectBoat(0, event)} />
+            <CertificateSelect
+                sailnumber={sailnumberA}
+                reference={referenceA}
+                label="Certificate A"
+                on:change={(event) => selectVersion(0, event.detail)} />
+            {#if boatA}<p class="certificate-label">A · {boatA.name} · {boatCertificateLabel(boatA)}</p>{/if}
+            {#if errorA}<p role="alert">{errorA}</p>{/if}
         </div>
         <div class="col">
             <BoatSelect sailnumber={sailnumberB} on:change={(event) => selectBoat(1, event)} />
+            <CertificateSelect
+                sailnumber={sailnumberB}
+                reference={referenceB}
+                label="Certificate B"
+                on:change={(event) => selectVersion(1, event.detail)} />
+            {#if boatB}<p class="certificate-label">B · {boatB.name} · {boatCertificateLabel(boatB)}</p>{/if}
+            {#if errorB}<p role="alert">{errorB}</p>{/if}
         </div>
     </div>
-    <div class="row p-2 row-cols-2"></div>
+    <p class="text-muted history-note">
+        Available snapshots for each sail number; history may be incomplete. Ratings can change with VPP year and
+        certificate family.
+    </p>
+    {#if differentGrids}<p class="text-muted history-note">
+            Wind grids differ. Each curve uses its certificate’s own wind speeds and angles.
+        </p>{/if}
     <div class="row p-2">
-        <div class="col-sm-6">
+        <div class="col-xl-6">
             <PolarPlot boats={[boatA, boatB]} />
         </div>
-        <div class="col-sm-4">
-            <div class="row">
+        <div class="col-xl-6 comparison-table">
+            <div class="table-scroll">
                 <table>
                     <tr>
                         <th></th>
                         <td><LineLegend series={0} /></td>
                         <td><LineLegend series={1} /></td>
+                        <th class="delta-heading">Change<br />(B − A)</th>
                     </tr>
                     <tr>
                         <td>Sail number</td>
                         <td>
                             {#if sailnumberA}
-                                <a href="#{sailnumberA}">
+                                <a href={boatHref(sailnumberA, referenceA)}>
                                     <Sailnumber number={sailnumberA} />
                                 </a>
                             {/if}
                         </td>
                         <td>
                             {#if sailnumberB}
-                                <a href="#{sailnumberB}">
+                                <a href={boatHref(sailnumberB, referenceB)}>
                                     <Sailnumber number={sailnumberB} />
                                 </a>
                             {/if}
                         </td>
+                        <td></td>
                     </tr>
                     {#each visibleRows as row}
                         {#if row.separator}
-                            <tr><td colspan="3" class="separator"></td></tr>
+                            <tr><td colspan="4" class="separator"></td></tr>
                         {:else}
                             <tr>
                                 <td class="label">
@@ -159,7 +226,7 @@ $: visibleRows = rows.filter((row) => row.separator || [boatA, boatB].some((boat
                                     <td class:text-end={typeof value === 'number'}>
                                         {#if row.reference && value}
                                             <OrcReference reference={value} />
-                                        {:else if value}
+                                        {:else if value != null && value !== ''}
                                             <!-- Units are spaced off the number, matching the boat page. -->
                                             {value}{#if row.suffix}&nbsp;{row.suffix}{/if}{#if row.area}&nbsp;m<sup
                                                     >2</sup
@@ -167,6 +234,10 @@ $: visibleRows = rows.filter((row) => row.separator || [boatA, boatB].some((boat
                                         {/if}
                                     </td>
                                 {/each}
+                                <td class="text-end delta"
+                                    >{typeof row.value(boatA) === 'number' || typeof row.value(boatB) === 'number'
+                                        ? numericDelta(row.value(boatA), row.value(boatB))
+                                        : ''}</td>
                             </tr>
                         {/if}
                     {/each}
@@ -177,6 +248,32 @@ $: visibleRows = rows.filter((row) => row.separator || [boatA, boatB].some((boat
 </div>
 
 <style>
+.history-note,
+.certificate-label {
+    font-size: 0.85rem;
+    margin: 0.5rem;
+}
+.table-scroll {
+    overflow-x: auto;
+}
+table {
+    width: 100%;
+}
+.col {
+    min-width: 0;
+}
+.delta,
+.delta-heading {
+    padding-left: 1rem;
+    white-space: nowrap;
+}
+.delta-heading {
+    font-weight: 500;
+    font-size: 0.8rem;
+}
+td {
+    padding: 0.2rem 0.4rem;
+}
 td.separator {
     border-bottom: 1px solid #000;
     height: 2px;
@@ -186,7 +283,7 @@ td.label {
 }
 /* Allow the columns to shrink below the plot SVG's intrinsic width, otherwise
    the SVG latches the column wide and the layout wraps and never recovers. */
-.col-sm-6,
+.col-xl-6,
 .col-sm-4 {
     min-width: 0;
 }

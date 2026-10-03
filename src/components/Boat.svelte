@@ -1,4 +1,5 @@
 <script>
+import CertificateSelect from './CertificateSelect.svelte';
 import Help from './Help.svelte';
 import OrcReference from './OrcReference.svelte';
 import PolarPlot from './PolarPlot.svelte';
@@ -13,9 +14,17 @@ import {
     sails as buildSails,
     tripleRows as buildTripleRows,
 } from '../boat-meta.js';
+import { boatHref, comparisonHref, boatCertificateLabel } from '../certificate-history.js';
+import { getHistory } from '../history-api.js';
 import { polarExport } from '../polar-csv.js';
 
 export let sailnumber;
+export let reference = '';
+let error;
+let loadId = 0;
+let history;
+let previous;
+let comparePrevious;
 
 let boat;
 let extended = false;
@@ -24,14 +33,34 @@ let sizes;
 let rating;
 let sails;
 
-async function loadBoat(sailnumber) {
-    boat = await getBoat(sailnumber);
-    sizes = boat.boat.sizes;
-    rating = boat.rating;
-    sails = buildSails(sizes).map(({ label, value }) => [label, value + 'm\u00b2']);
+async function loadBoat(sailnumber, reference) {
+    const request = ++loadId;
+    boat = undefined;
+    error = null;
+    if (!sailnumber) return;
+    try {
+        const loaded = await getBoat(sailnumber, reference);
+        if (request !== loadId) return;
+        boat = loaded;
+        sizes = boat.boat.sizes;
+        rating = boat.rating;
+        sails = buildSails(sizes).map(({ label, value }) => [label, value + 'm²']);
+    } catch {
+        if (request === loadId)
+            error = 'This certificate could not be loaded. Choose another version or return to the latest certificate.';
+    }
 }
 
-$: sailnumber && loadBoat(sailnumber);
+$: loadBoat(sailnumber, reference);
+$: history = getHistory(sailnumber).catch(() => ({ versions: [] }));
+$: previous = history.then((archive) => {
+    const id = archive.aliases?.[reference] || reference || archive.latest;
+    const index = archive.versions.findIndex((entry) => entry.id === id);
+    return index >= 0 ? archive.versions[index + 1] : null;
+});
+$: comparePrevious = previous.then((entry) =>
+    entry ? comparisonHref([sailnumber, sailnumber], [entry.id, reference || boat?.certificate?.id || '']) : null,
+);
 
 $: ratingRows = buildRatingRows(rating);
 $: certificate = certificateRows(boat);
@@ -44,6 +73,21 @@ let plot;
     <title>{boat ? pageTitle(boatSubject(boat)) : pageTitle()}</title>
 </svelte:head>
 
+<div class="px-3 pt-2 d-print-none">
+    <CertificateSelect
+        {sailnumber}
+        {reference}
+        on:change={(event) => (window.location.hash = boatHref(sailnumber, event.detail))} />
+    {#await comparePrevious then url}
+        {#if url}<a href={url}>Compare with previous certificate</a>{/if}
+    {/await}
+    <p class="history-note text-muted">
+        Available snapshots for this sail number; history may be incomplete and sail numbers can be reassigned.
+    </p>
+</div>
+{#if error}
+    <div class="p-3" role="alert">{error} <a href={boatHref(sailnumber)}>Latest certificate</a></div>
+{/if}
 {#if boat}
     <div class="row p-2">
         <div class="col-sm">
@@ -60,7 +104,9 @@ let plot;
                 </h1>
                 <!-- The polar is at the bottom of a long page, so the action that puts it on
                      paper sits up here with the boat's name where it can be found. -->
-                <a class="btn btn-primary print-polar d-print-none" href="#print-{boat.sailnumber}">
+                <a
+                    class="btn btn-primary print-polar d-print-none"
+                    href={boatHref(boat.sailnumber, reference, 'print-')}>
                     <svg viewBox="0 0 16 16" width="16" height="16" aria-hidden="true" fill="currentColor">
                         <path
                             d="M4 1.5A1.5 1.5 0 0 1 5.5 0h5A1.5 1.5 0 0 1 12 1.5V4h1.5A1.5 1.5 0 0 1 15 5.5v5a1.5 1.5 0 0 1-1.5 1.5H12v2.5a1.5 1.5 0 0 1-1.5 1.5h-5A1.5 1.5 0 0 1 4 14.5V12H2.5A1.5 1.5 0 0 1 1 10.5v-5A1.5 1.5 0 0 1 2.5 4H4V1.5Zm1 0V4h6V1.5a.5.5 0 0 0-.5-.5h-5a.5.5 0 0 0-.5.5Zm6 9.5H5v3.5a.5.5 0 0 0 .5.5h5a.5.5 0 0 0 .5-.5V11Zm1.5-4.5a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Z" />
@@ -75,6 +121,11 @@ let plot;
                     <OrcReference reference={boat.reference} resources />
                 </div>
             {/if}
+
+            {#if boatCertificateLabel(boat)}<p class="certificate-identity">{boatCertificateLabel(boat)}</p>{/if}
+            {#if boat.certificate}<p class="text-muted">
+                    VPP year: {boat.certificate.vpp_year || 'unknown'} · Family: {boat.certificate.family || 'unknown'}
+                </p>{/if}
 
             <table class="table">
                 <tr><th>Sail number</th><th>Type</th><th>Designer</th><th>Builder</th></tr>
@@ -180,6 +231,13 @@ let plot;
 {/if}
 
 <style>
+.history-note {
+    font-size: 0.8rem;
+    margin-top: 0.4rem;
+}
+.certificate-identity {
+    font-size: 0.9rem;
+}
 .title-row {
     display: flex;
     align-items: center;

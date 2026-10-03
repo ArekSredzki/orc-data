@@ -5,6 +5,7 @@ import { scaleLinear } from 'd3-scale';
 import { symbol, symbolCircle } from 'd3-shape';
 import { onMount } from 'svelte';
 
+import { boatCertificateLabel } from '../certificate-history.js';
 import Help from './Help.svelte';
 import VppCurves from './VppCurves.svelte';
 import { DEG2RAD, twa2awa } from '../util.js';
@@ -212,6 +213,9 @@ function clearPlotHover() {
         {#if boats.length > 1 && boats[tooltip.point.boatIndex]}
             <div class="name">
                 {boats[tooltip.point.boatIndex].name || boats[tooltip.point.boatIndex].sailnumber}
+                {#if boatCertificateLabel(boats[tooltip.point.boatIndex])}<small
+                        >{boatCertificateLabel(boats[tooltip.point.boatIndex])}</small
+                    >{/if}
             </div>
         {/if}
         <div><span>TWS</span>{tooltip.point.tws} kt</div>
