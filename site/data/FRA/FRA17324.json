@@ -1,8 +1,8 @@
 {
   "sailnumber": "FRA/FRA17324",
   "country": "FRA",
-  "reference": "04330004N8R",
-  "name": "TETE D'ARTICHAUD",
+  "reference": "043300051F7",
+  "name": "TETE D'ARTICHAUT",
   "rating": {
     "gph": 700.3,
     "osn": 684.5,
@@ -42,7 +42,7 @@
     "stability_index": null,
     "cdl": 6.148,
     "division": "S",
-    "issue_date": "2026-04-28T11:59:39.003Z"
+    "issue_date": "2026-10-08T09:50:01.315Z"
   },
   "vpp": {
     "angles": [
