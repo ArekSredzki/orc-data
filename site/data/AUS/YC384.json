@@ -1,7 +1,7 @@
 {
   "sailnumber": "AUS/YC384",
   "country": "AUS",
-  "reference": "03020004W7K",
+  "reference": "030200051MH",
   "name": "AEOLUS",
   "rating": {
     "gph": 502.2,
@@ -42,7 +42,7 @@
     "stability_index": null,
     "cdl": 11.304,
     "division": "R",
-    "issue_date": "2026-08-10T07:23:06.085Z"
+    "issue_date": "2026-10-15T02:57:48.366Z"
   },
   "vpp": {
     "angles": [
