@@ -1,8 +1,8 @@
 {
   "sailnumber": "FRA/FRA27043",
   "country": "FRA",
-  "reference": "04330004FLW",
-  "name": "QUASAR",
+  "reference": "043300051QL",
+  "name": "NEW MORNING",
   "rating": {
     "gph": 642.0,
     "osn": 624.3,
@@ -42,7 +42,7 @@
     "stability_index": null,
     "cdl": 8.188,
     "division": "R",
-    "issue_date": "2026-03-05T07:13:33.744Z"
+    "issue_date": "2026-10-16T08:09:48.009Z"
   },
   "vpp": {
     "angles": [

@@ -1,7 +1,7 @@
 {
   "sailnumber": "BRA/BRA2430",
   "country": "BRA",
-  "reference": "04420004VEU",
+  "reference": "044200051RA",
   "name": "XAMA",
   "rating": {
     "gph": 555.1,
@@ -42,7 +42,7 @@
     "stability_index": 126.7,
     "cdl": 11.888,
     "division": "C",
-    "issue_date": "2026-07-20T15:06:27.552Z"
+    "issue_date": "2026-10-16T17:38:25.554Z"
   },
   "vpp": {
     "angles": [
