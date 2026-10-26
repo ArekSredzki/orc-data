@@ -1,7 +1,7 @@
 {
   "sailnumber": "TUR/TUR4111",
   "country": "TUR",
-  "reference": "04590004T8H",
+  "reference": "045900051TJ",
   "name": "DXARMA",
   "rating": {
     "gph": 549.5,
@@ -26,7 +26,7 @@
     "builder": "X-Yachts",
     "type": "XR41",
     "designer": "X-Yachts",
-    "year": 2024,
+    "year": 2024.0,
     "sizes": {
       "loa": 12.747,
       "beam": 4.18,
@@ -42,7 +42,7 @@
     "stability_index": 120.8,
     "cdl": 11.252,
     "division": "R",
-    "issue_date": "2026-06-15T17:07:07.553Z"
+    "issue_date": "2026-10-19T18:49:56.005Z"
   },
   "vpp": {
     "angles": [

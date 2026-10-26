@@ -1,38 +1,38 @@
 {
   "sailnumber": "TUR/CRO2762",
   "country": "TUR",
-  "reference": "04590004N5M",
+  "reference": "045900051VL",
   "name": "IVANA",
   "rating": {
-    "gph": 614.7,
+    "gph": 614.6,
     "osn": 593.7,
     "triple_offshore": [
-      0.8387,
-      1.1085,
+      0.8388,
+      1.1086,
       1.2559
     ],
     "triple_inshore": [
-      0.6495,
-      0.8993,
-      1.0476
+      0.6496,
+      0.8994,
+      1.0477
     ],
     "ilc": 671.8,
     "aph_tod": 544.7,
     "aph_tot": 1.1015,
-    "tmf_inshore": 0.8931,
-    "tmf_offshore": 1.0106
+    "tmf_inshore": 0.8932,
+    "tmf_offshore": 1.0107
   },
   "boat": {
     "builder": "Salona",
     "type": "Salona 380",
     "designer": "Cossuti",
-    "year": 2016,
+    "year": 2016.0,
     "sizes": {
       "loa": 11.602,
       "beam": 3.7,
       "draft": 2.06,
       "displacement": 6795.0,
-      "genoa": 34.83,
+      "genoa": 34.89,
       "main": 43.1,
       "spinnaker": 101.43,
       "spinnaker_asym": 0.0,
@@ -40,9 +40,9 @@
       "wetted_surface": 30.55
     },
     "stability_index": 125.1,
-    "cdl": 9.748,
+    "cdl": 9.75,
     "division": "C",
-    "issue_date": "2026-04-27T14:16:35.046Z"
+    "issue_date": "2026-10-20T19:01:45.683Z"
   },
   "vpp": {
     "angles": [
@@ -67,8 +67,8 @@
       24
     ],
     "52": [
-      3.73,
-      5.22,
+      3.74,
+      5.23,
       6.23,
       6.91,
       7.32,
@@ -160,7 +160,7 @@
       42.3,
       40.6,
       39.4,
-      39,
+      39.0,
       38.6,
       39.3,
       40.4
@@ -171,19 +171,19 @@
       4.15,
       4.72,
       5.09,
-      5.27,
+      5.28,
       5.37,
       5.43,
       5.37
     ],
     "run_angle": [
       139.2,
-      145,
+      145.0,
       149.2,
       152.5,
       157.2,
       164.2,
-      170,
+      170.0,
       176.3,
       173.6
     ],
