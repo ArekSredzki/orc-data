@@ -1,7 +1,7 @@
 {
   "sailnumber": "USA/IVB2047",
   "country": "USA",
-  "reference": "0456000521Q",
+  "reference": "0456000525A",
   "name": "BEAU IDEAL",
   "rating": {
     "gph": 471.5,
@@ -42,7 +42,7 @@
     "stability_index": 118.3,
     "cdl": 12.708,
     "division": "R",
-    "issue_date": "2026-10-23T02:01:23.113Z"
+    "issue_date": "2026-10-27T16:16:41.582Z"
   },
   "vpp": {
     "angles": [

@@ -1,7 +1,7 @@
 {
   "sailnumber": "AUS/AUS768",
   "country": "AUS",
-  "reference": "03020004V8B",
+  "reference": "03020005271",
   "name": "BULLWINKLE 400",
   "rating": {
     "gph": 509.6,
@@ -26,7 +26,7 @@
     "builder": "PREMIER COMPOSITES",
     "type": "FARR 400 One Desig",
     "designer": "FARR",
-    "year": 2011,
+    "year": 2011.0,
     "sizes": {
       "loa": 11.8,
       "beam": 3.41,
@@ -42,7 +42,7 @@
     "stability_index": 137.9,
     "cdl": 11.293,
     "division": "R",
-    "issue_date": "2026-07-14T22:35:01.008Z"
+    "issue_date": "2026-10-29T20:57:37.385Z"
   },
   "vpp": {
     "angles": [
@@ -183,7 +183,7 @@
       148.5,
       151.2,
       147.2,
-      146,
+      146.0,
       147.2,
       150.9
     ],
