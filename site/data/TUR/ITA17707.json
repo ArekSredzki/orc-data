@@ -1,7 +1,7 @@
 {
   "sailnumber": "TUR/ITA17707",
   "country": "TUR",
-  "reference": "045900051VI",
+  "reference": "04590005280",
   "name": "JASON",
   "rating": {
     "gph": 567.1,
@@ -42,7 +42,7 @@
     "stability_index": 131.6,
     "cdl": 10.904,
     "division": "C",
-    "issue_date": "2026-10-20T18:52:30.408Z"
+    "issue_date": "2026-10-30T17:24:37.804Z"
   },
   "vpp": {
     "angles": [

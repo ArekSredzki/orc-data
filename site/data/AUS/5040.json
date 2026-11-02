@@ -1,7 +1,7 @@
 {
   "sailnumber": "AUS/5040",
   "country": "AUS",
-  "reference": "030200051AU",
+  "reference": "0302000526U",
   "name": "Mittere",
   "rating": {
     "gph": 525.6,
@@ -26,7 +26,7 @@
     "builder": "Melges",
     "type": "IC-37",
     "designer": "Mills",
-    "year": 2017,
+    "year": 2017.0,
     "sizes": {
       "loa": 11.3,
       "beam": 3.65,
@@ -42,7 +42,7 @@
     "stability_index": null,
     "cdl": 10.966,
     "division": "R",
-    "issue_date": "2026-10-05T23:31:40.191Z"
+    "issue_date": "2026-10-29T20:30:39.788Z"
   },
   "vpp": {
     "angles": [
@@ -162,7 +162,7 @@
       38.6,
       38.2,
       37.9,
-      38,
+      38.0,
       39.3
     ],
     "beat_vmg": [
@@ -179,12 +179,12 @@
     "run_angle": [
       139.2,
       141.2,
-      144.7,
+      144.6,
       149.2,
       152.2,
       149.5,
       146.9,
-      144,
+      144.0,
       147.5
     ],
     "run_vmg": [
