@@ -1,7 +1,7 @@
 {
   "sailnumber": "KOR/KOR3181",
   "country": "KOR",
-  "reference": "04550005278",
+  "reference": "045500052DS",
   "name": "Izzira",
   "rating": {
     "gph": 668.0,
@@ -42,7 +42,7 @@
     "stability_index": null,
     "cdl": 8.948,
     "division": "C",
-    "issue_date": "2026-10-30T07:38:34.727Z"
+    "issue_date": "2026-11-05T06:37:34.713Z"
   },
   "vpp": {
     "angles": [

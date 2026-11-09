@@ -1,7 +1,7 @@
 {
   "sailnumber": "KOR/KOR111",
   "country": "KOR",
-  "reference": "0455000525H",
+  "reference": "045500052EJ",
   "name": "SEXYBUSAN II",
   "rating": {
     "gph": 591.2,
@@ -42,7 +42,7 @@
     "stability_index": null,
     "cdl": 8.403,
     "division": "S",
-    "issue_date": "2026-10-28T00:41:06.634Z"
+    "issue_date": "2026-11-06T01:05:43.732Z"
   },
   "vpp": {
     "angles": [

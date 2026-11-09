@@ -1,7 +1,7 @@
 {
   "sailnumber": "ECU/ECU4223",
   "country": "ECU",
-  "reference": "0388000519A",
+  "reference": "038800052H1",
   "name": "TIBURON",
   "rating": {
     "gph": 535.4,
@@ -26,7 +26,7 @@
     "builder": "NAUTOR",
     "type": "SWAN 42 CLUB",
     "designer": "FRERS",
-    "year": 2006,
+    "year": 2006.0,
     "sizes": {
       "loa": 12.96,
       "beam": 3.91,
@@ -42,7 +42,7 @@
     "stability_index": 137.4,
     "cdl": 11.637,
     "division": "R",
-    "issue_date": "2026-10-03T07:03:17.179Z"
+    "issue_date": "2026-11-06T17:36:37.767Z"
   },
   "vpp": {
     "angles": [
@@ -180,7 +180,7 @@
       139.2,
       142.1,
       145.6,
-      150.1,
+      150.0,
       153.4,
       155.7,
       155.8,

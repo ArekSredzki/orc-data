@@ -1,7 +1,7 @@
 {
   "sailnumber": "KOR/KOR8770",
   "country": "KOR",
-  "reference": "0455000501V",
+  "reference": "045500052DT",
   "name": "SoPoong R",
   "rating": {
     "gph": 627.2,
@@ -26,7 +26,7 @@
     "builder": "Yamaha",
     "type": "Yamaha R10.3 IMS",
     "designer": "Yamaha",
-    "year": 1994,
+    "year": 1994.0,
     "sizes": {
       "loa": 10.32,
       "beam": 3.36,
@@ -42,7 +42,7 @@
     "stability_index": null,
     "cdl": 8.915,
     "division": "R",
-    "issue_date": "2026-09-03T06:42:41.833Z"
+    "issue_date": "2026-11-05T06:41:54.434Z"
   },
   "vpp": {
     "angles": [
@@ -178,7 +178,7 @@
     ],
     "run_angle": [
       138.7,
-      144.7,
+      144.6,
       149.2,
       151.7,
       158.4,

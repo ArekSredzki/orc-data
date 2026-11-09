@@ -1,7 +1,7 @@
 {
   "sailnumber": "KOR/KOR2418",
   "country": "KOR",
-  "reference": "04550004W7C",
+  "reference": "045500052DO",
   "name": "Blue Picasso",
   "rating": {
     "gph": 621.3,
@@ -26,7 +26,7 @@
     "builder": "Beneteau",
     "type": "FIRST 34.7",
     "designer": "FARR YACHT DESIGN",
-    "year": 2005,
+    "year": 2005.0,
     "sizes": {
       "loa": 9.982,
       "beam": 3.37,
@@ -42,7 +42,7 @@
     "stability_index": null,
     "cdl": 8.855,
     "division": "C",
-    "issue_date": "2026-08-10T05:05:53.260Z"
+    "issue_date": "2026-11-05T02:15:24.704Z"
   },
   "vpp": {
     "angles": [
@@ -162,7 +162,7 @@
       37.8,
       37.8,
       37.7,
-      38,
+      38.0,
       39.3
     ],
     "beat_vmg": [

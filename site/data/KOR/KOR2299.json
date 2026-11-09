@@ -1,7 +1,7 @@
 {
   "sailnumber": "KOR/KOR2299",
   "country": "KOR",
-  "reference": "04550004VK2",
+  "reference": "045500052IE",
   "name": "Big Apple",
   "rating": {
     "gph": 537.2,
@@ -26,7 +26,7 @@
     "builder": "COOKSON",
     "type": "FARR 45",
     "designer": "B FARR",
-    "year": 1998,
+    "year": 1998.0,
     "sizes": {
       "loa": 13.755,
       "beam": 3.92,
@@ -42,7 +42,7 @@
     "stability_index": null,
     "cdl": 12.078,
     "division": "R",
-    "issue_date": "2026-07-23T04:26:48.988Z"
+    "issue_date": "2026-11-07T07:47:42.587Z"
   },
   "vpp": {
     "angles": [
@@ -156,7 +156,7 @@
     ],
     "beat_angle": [
       44.8,
-      42,
+      42.0,
       39.7,
       37.8,
       36.7,
@@ -180,7 +180,7 @@
       138.5,
       140.6,
       145.8,
-      150,
+      150.0,
       155.8,
       163.2,
       169.1,
