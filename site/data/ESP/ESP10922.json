@@ -1,26 +1,26 @@
 {
   "sailnumber": "ESP/ESP10922",
   "country": "ESP",
-  "reference": "035100052LK",
+  "reference": "035100052N3",
   "name": "GUAGUANCO IV",
   "rating": {
-    "gph": 607.8,
-    "osn": 590.6,
+    "gph": 607.1,
+    "osn": 589.8,
     "triple_offshore": [
       0.8682,
-      1.1104,
-      1.2505
+      1.1119,
+      1.2544
     ],
     "triple_inshore": [
       0.6736,
-      0.8958,
-      1.0113
+      0.8994,
+      1.0212
     ],
-    "ilc": 675.2,
-    "aph_tod": 542.6,
-    "aph_tot": 1.1058,
-    "tmf_inshore": 0.8886,
-    "tmf_offshore": 1.0159
+    "ilc": 672.1,
+    "aph_tod": 541.8,
+    "aph_tot": 1.1075,
+    "tmf_inshore": 0.8927,
+    "tmf_offshore": 1.0173
   },
   "boat": {
     "builder": "Jeanneau",
@@ -34,7 +34,7 @@
       "displacement": 3540.0,
       "genoa": 25.61,
       "main": 34.69,
-      "spinnaker": 0.0,
+      "spinnaker": 93.84,
       "spinnaker_asym": 100.56,
       "crew": 225.0,
       "wetted_surface": 22.55
@@ -42,7 +42,7 @@
     "stability_index": 112.1,
     "cdl": 8.676,
     "division": "R",
-    "issue_date": "2026-11-14T18:55:02.540Z"
+    "issue_date": "2026-11-19T11:32:57.030Z"
   },
   "vpp": {
     "angles": [
@@ -150,8 +150,8 @@
       6.6,
       7.28,
       7.78,
-      8.31,
-      9.74,
+      8.33,
+      9.77,
       13.0
     ],
     "beat_angle": [
@@ -181,10 +181,10 @@
       142.8,
       147.4,
       149.6,
-      153.1,
-      155.6,
-      151.4,
-      144.9,
+      158.3,
+      165.5,
+      166.4,
+      157.2,
       142.9
     ],
     "run_vmg": [
@@ -192,10 +192,10 @@
       3.85,
       4.86,
       5.71,
-      6.34,
-      6.77,
-      7.2,
-      8.43,
+      6.39,
+      6.96,
+      7.44,
+      8.53,
       11.26
     ]
   }
